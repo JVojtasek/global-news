@@ -174,64 +174,6 @@
   ]
  },
  {
-  "id": "c7cea461bd6d",
-  "headline": "Meta and Apple team up to make Muse AI models run better on Macs",
-  "section": "tech",
-  "score": 67,
-  "sources_count": 4,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T18:15:36+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-    "source": "The Verge",
-    "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, […]",
-    "published_at": "2026-10-15T18:15:36+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   },
-   {
-    "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-    "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-    "source": "The Verge AI",
-    "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, […]",
-    "published_at": "2026-10-15T18:15:36+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   },
-   {
-    "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
-    "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
-    "source": "CNBC Top",
-    "summary": "Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies.",
-    "published_at": "2026-10-15T17:52:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   },
-   {
-    "title": "Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom",
-    "url": "https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom",
-    "source": "The Verge",
-    "summary": "We knew that a number of big tech firms were helping to fund the construction of Trump's ballroom, but we didn't know just how much they were giving to the cause. Now the Washington Post published a list of all the major donors to the White House ballroom project, along with how much each contributed. […]",
-    "published_at": "2026-10-15T15:46:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   },
-   {
-    "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-    "url": "https://huggingface.co/blog/meta-muse-spark-open",
-    "source": "Hugging Face",
-    "summary": "",
-    "published_at": "2026-10-15T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   }
-  ]
- },
- {
   "id": "de3a4fe3e8bb",
   "headline": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
   "section": "world",
@@ -1165,24 +1107,33 @@
   ]
  },
  {
-  "id": "345d48945e1b",
-  "headline": "London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come",
-  "section": "culture",
-  "score": 46,
-  "sources_count": 1,
+  "id": "55d19e02d108",
+  "headline": "Macron calls for 'calm and order' after riots across France",
+  "section": "world",
+  "score": 47,
+  "sources_count": 2,
   "depth_signal": 2,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T16:24:32+00:00",
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T20:33:21+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come",
-    "url": "https://www.smithsonianmag.com/smart-news/londons-oldest-restaurant-frequented-by-monarchs-and-pop-stars-alike-is-a-site-of-living-history-now-its-protected-by-the-national-trust-for-generations-to-come-180989688/",
-    "source": "Smithsonian Mag",
-    "summary": "Rules, a historic restaurant where the likes of Charles Dickens and Madonna have dined, is changing hands for only the fourth time in over 200 years. Visitors can see artifact-covered walls and indulge in rich British cuisine",
-    "published_at": "2026-10-15T16:24:32+00:00",
+    "title": "Macron calls for 'calm and order' after riots across France",
+    "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+    "published_at": "2026-10-18T20:33:21+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   },
+   {
+    "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
+    "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.",
+    "published_at": "2026-10-18T20:19:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
    }
   ]
  },
@@ -1471,37 +1422,6 @@
     "published_at": "2026-10-18T04:59:29+00:00",
     "source_countries": [],
     "seen_at": "2026-10-18T06:36:56+00:00"
-   }
-  ]
- },
- {
-  "id": "a7837e6e1f9a",
-  "headline": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
-  "section": "world",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T17:31:30+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
-    "url": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
-    "source": "The Guardian World",
-    "summary": "Nato source says drones came from Russia, while Romania’s president says attacking commercial ships ‘is unacceptable and has to stop’ Seven sailors are missing after drones struck two tankers near Romania’s Black Sea ⁠coast, setting them ablaze and raising ⁠fresh security concerns on a ​vital shipping route used by Ukraine. A Nato military source told Reuters the drones that had hit the Wine Trade",
-    "published_at": "2026-10-15T17:31:30+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   },
-   {
-    "title": "NATO to address drone attacks in the Black Sea after seven missing off Romania",
-    "url": "https://www.france24.com/en/europe/20261015-seven-missing-off-romania-after-latest-black-sea-drone-attacks",
-    "source": "France 24",
-    "summary": "NATO will put drone strikes in the Black Sea on its agenda at a meeting next week, officials said Thursday, following two new attacks and the disappearance of seven people. Incidents involving civilian vessels in the Black Sea have been on the rise off the coasts of Bulgaria and Romania in a suspected spillover from Russia’s war in Ukraine.",
-    "published_at": "2026-10-15T13:35:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
    }
   ]
  },
@@ -2024,33 +1944,42 @@
   ]
  },
  {
-  "id": "8f36c56e64b3",
-  "headline": "Pakistan school roof collapse kills at least 34 children and teacher",
+  "id": "b106d7ca9cc6",
+  "headline": "Inside Chicago's battle against the synthetic drugs flooding the US",
   "section": "world",
-  "score": 43,
+  "score": 44,
   "sources_count": 2,
   "depth_signal": 2,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T08:25:33+00:00",
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T21:00:22+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Pakistan school roof collapse kills at least 34 children and teacher",
-    "url": "https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead",
-    "source": "The Guardian World",
-    "summary": "Another three pupils from al-Khair school in Peshawar in critical condition after search for survivors At least 34 schoolchildren and a female teacher have died after the roof of a school collapsed during morning classes in the northern Pakistani city ⁠of Peshawar. As panicked parents ​and relatives thronged the site of the privately run al-Khair school to search for their loved ones, rescue worke",
-    "published_at": "2026-10-15T08:25:33+00:00",
+    "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+    "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+    "published_at": "2026-10-18T21:00:22+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
+    "seen_at": "2026-10-18T21:22:48+00:00"
    },
    {
-    "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
-    "url": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
-    "source": "NPR News",
-    "summary": "The roof of a private school collapsed in northwestern Pakistan on Thursday, killing at least 28 children and a female teacher and injuring more than 50 other people.",
-    "published_at": "2026-10-15T08:22:07+00:00",
+    "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+    "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+    "published_at": "2026-10-18T21:00:22+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   },
+   {
+    "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+    "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+    "published_at": "2026-10-18T21:00:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
    }
   ]
  },
@@ -2321,77 +2250,6 @@
     "published_at": "2026-10-18T13:51:13+00:00",
     "source_countries": [],
     "seen_at": "2026-10-18T15:23:55+00:00"
-   }
-  ]
- },
- {
-  "id": "c1ef60b57ace",
-  "headline": "An Australian band’s ‘unreal’ journey to break a gig world record",
-  "section": "world",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T18:09:58+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
-    "url": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
-    "published_at": "2026-10-15T18:09:58+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   },
-   {
-    "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
-    "url": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
-    "published_at": "2026-10-15T18:09:58+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   },
-   {
-    "title": "Watch new skateboarding speed world record of 151.83 km/h",
-    "url": "https://www.bbc.co.uk/sport/skateboarding/videos/cm70pnd9nedko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "27-year-old Spaniard Diego Poncelet sets new skateboarding speed world record at 151.83 km/h (94.34mph) set in Charlevoix, Quebec.",
-    "published_at": "2026-10-15T14:34:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   }
-  ]
- },
- {
-  "id": "9ec96211d71f",
-  "headline": "Middle East updates: Houthis target Yemen government palace in Aden",
-  "section": "world",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T17:44:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Middle East updates: Houthis target Yemen government palace in Aden",
-    "url": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Houthi rebels say they targeted Saudi military assets in a rare attack on the interim seat of Yemen's internationally recognized government. Meanwhile, vessels are again under fire near the Strait of Hormuz. More on DW.",
-    "published_at": "2026-10-15T17:44:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   },
-   {
-    "title": "Houthis target Yemen’s presidential palace in Aden with missiles",
-    "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Saudi-led coalition accuses Houthis of obtaining missile parts from regional states.",
-    "published_at": "2026-10-15T16:50:42+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
    }
   ]
  },
@@ -2870,55 +2728,64 @@
   ]
  },
  {
-  "id": "1cc24ddce8a4",
-  "headline": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-  "section": "tech",
-  "score": 41,
+  "id": "3a3633bcbd19",
+  "headline": "What we know so far about deadly fire at Canadian military base",
+  "section": "world",
+  "score": 42,
   "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T15:43:24+00:00",
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T21:16:42+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-    "source": "Ars Technica",
-    "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-    "published_at": "2026-10-15T15:43:24+00:00",
+    "title": "What we know so far about deadly fire at Canadian military base",
+    "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+    "published_at": "2026-10-18T21:16:42+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
+    "seen_at": "2026-10-18T21:22:48+00:00"
    },
    {
-    "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-    "source": "Ars Technica AI",
-    "summary": "FTC may fine AI firms on par with companies that delay data breach reports.",
-    "published_at": "2026-10-15T15:43:24+00:00",
+    "title": "At least 4 killed in major fire at Canadian military base",
+    "url": "https://www.cnbc.com/2026/10/18/deaths-confirmed-after-fire-at-canada-military-base-in-alberta.html",
+    "source": "CNBC Top",
+    "summary": "Prime Minister Mark Carney called the incident one of the worst peacetime tragedies ever for Canada's armed forces on home soil.",
+    "published_at": "2026-10-18T18:01:05+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
+    "seen_at": "2026-10-18T21:22:48+00:00"
    }
   ]
  },
  {
-  "id": "3f3991bbad6c",
-  "headline": "Venetian Artist Canaletto Merged Fantasy and Architectural Detail in This Previously Unseen Sketch, Heading to Auction This Month",
-  "section": "culture",
-  "score": 41,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T18:03:46+00:00",
+  "id": "d06bcaeaa9ac",
+  "headline": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T19:53:27+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Venetian Artist Canaletto Merged Fantasy and Architectural Detail in This Previously Unseen Sketch, Heading to Auction This Month",
-    "url": "https://www.smithsonianmag.com/smart-news/venetian-artist-canaletto-merged-fantasy-and-architectural-detail-in-this-previously-unseen-sketch-heading-to-auction-this-month-180989692/",
-    "source": "Smithsonian Mag",
-    "summary": "The 18th-century painter was a key practitioner of \"capriccio\" artworks, which blended scenes of everyday life with bold, out-of-place structures. This work was not known to exist for centuries and could now fetch up to $80,000",
-    "published_at": "2026-10-15T18:03:46+00:00",
+    "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+    "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+    "published_at": "2026-10-18T19:53:27+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   },
+   {
+    "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+    "url": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+    "published_at": "2026-10-18T19:53:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
    }
   ]
  },
@@ -3166,90 +3033,6 @@
     "published_at": "2026-10-17T01:36:40+00:00",
     "source_countries": [],
     "seen_at": "2026-10-17T03:28:26+00:00"
-   }
-  ]
- },
- {
-  "id": "a6eba0eff9d7",
-  "headline": "Why are eight US states suing OpenAI?",
-  "section": "ai",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T16:28:44+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Why are eight US states suing OpenAI?",
-    "url": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "They allege ChatGPT has caused harm to their residents, coaching its users to harm themselves or others.",
-    "published_at": "2026-10-15T16:28:44+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   },
-   {
-    "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-    "source": "The Verge AI",
-    "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]",
-    "published_at": "2026-10-14T21:11:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   }
-  ]
- },
- {
-  "id": "6c72280f5db2",
-  "headline": "Wildlife Biologists Start Vaccinating Shy Albatrosses by Hand, Taking Aim at the Spread of Avian Flu in Tasmania",
-  "section": "culture",
-  "score": 40,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T15:21:22+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Wildlife Biologists Start Vaccinating Shy Albatrosses by Hand, Taking Aim at the Spread of Avian Flu in Tasmania",
-    "url": "https://www.smithsonianmag.com/smart-news/wildlife-biologists-start-vaccinating-shy-albatross-by-hand-taking-aim-at-the-spread-of-avian-flu-in-tasmania-180989684/",
-    "source": "Smithsonian Mag",
-    "summary": "If all goes to plan, officials hope to vaccinate up to 100 of the large seabirds on Albatross Island, giving each two doses of the vaccine. Afterward, they plan to keep tabs on the birds using remote cameras and follow-up visits",
-    "published_at": "2026-10-15T15:21:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   }
-  ]
- },
- {
-  "id": "e59d3967dead",
-  "headline": "Lyon v Crystal Palace, Torreense v Sunderland, and more: Europa League – live",
-  "section": "sport",
-  "score": 40,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T18:17:39+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Lyon v Crystal Palace, Torreense v Sunderland, and more: Europa League – live",
-    "url": "https://www.theguardian.com/football/live/2026/oct/15/lyon-v-crystal-palace-torreense-v-sunderland-and-more-europa-league-live",
-    "source": "Guardian Sport",
-    "summary": "⚽ Europa League updates from the 5.45pm BST kick-offs ⚽ Live scoreboard | Read Football Daily | Email Michael 3 min: Torreense 0-0 Sunderland O’Nien, who knows a little bit about lower-league football having joined Sunderland in League One back in 2018, heads just wide from a corner. The 31-year-old really should have done better. Sunderland are playing in their pink away kit that they sported in ",
-    "published_at": "2026-10-15T18:17:39+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   },
-   {
-    "title": "Bournemouth v Sturm Graz, Benfica v Celtic, and more: Europa League – live",
-    "url": "https://www.theguardian.com/football/live/2026/oct/15/bournemouth-v-sturm-graz-benfica-v-celtic-and-more-europa-league-live",
-    "source": "Guardian Sport",
-    "summary": "⚽ Europa League updates from the 8pm BST kick-offs ⚽ Live scoreboard | Read Football Daily | Email Simon Team news is starting to land and I’m going to pour it all in here, starting with Benfica v Celtic and news that not only is Camilo Durán but Jhon Durán starts for Benfica, making this very much a Durán v Durán affair, and if that isn’t an excuse for enjoying some fine 80s music I don’t know wh",
-    "published_at": "2026-10-15T18:09:32+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
    }
   ]
  },
@@ -3697,37 +3480,6 @@
   ]
  },
  {
-  "id": "1f09f06f76fa",
-  "headline": "Thames Water asks for £2.4bn more to avoid going bust this year or early 2027",
-  "section": "world",
-  "score": 39,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T17:14:48+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Thames Water asks for £2.4bn more to avoid going bust this year or early 2027",
-    "url": "https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027",
-    "source": "The Guardian World",
-    "summary": "Water company tells creditors it will not survive long enough to agree refinancing deal without more money Thames Water has asked its creditors for another £2.4bn as the embattled water company comes close to running out of cash. The UK’s largest water company said on Thursday it needed another short-term cash injection because it would be unable to reach a longer-term deal to sort out its giant d",
-    "published_at": "2026-10-15T17:14:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   },
-   {
-    "title": "Thames Water asks for £2.4bn more to avoid going bust this year or early 2027",
-    "url": "https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027",
-    "source": "Guardian Business",
-    "summary": "Water company tells creditors it will not survive long enough to agree refinancing deal without more money Thames Water has asked its creditors for another £2.4bn as the embattled water company comes close to running out of cash. The UK’s largest water company said on Thursday it needed another short-term cash injection because it would be unable to reach a longer-term deal to sort out its giant d",
-    "published_at": "2026-10-15T17:14:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   }
-  ]
- },
- {
   "id": "1a106cb757f5",
   "headline": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
   "section": "tech",
@@ -3967,37 +3719,6 @@
     "published_at": "2026-08-28T00:00:00+00:00",
     "source_countries": [],
     "seen_at": "2026-10-16T21:23:03+00:00"
-   }
-  ]
- },
- {
-  "id": "c6fa11337fd3",
-  "headline": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-  "section": "world",
-  "score": 38,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T17:31:37+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-    "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
-    "published_at": "2026-10-15T17:31:37+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   },
-   {
-    "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-    "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
-    "published_at": "2026-10-15T17:31:37+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
    }
   ]
  },
@@ -4676,90 +4397,42 @@
   ]
  },
  {
-  "id": "c6b6d28e2893",
-  "headline": "Power Up: Roll Out Solar Arrays Boost Space Station Power Supply",
-  "section": "science",
-  "score": 37,
-  "sources_count": 1,
+  "id": "cef1d05c7525",
+  "headline": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+  "section": "business",
+  "score": 38,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T17:30:39+00:00",
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T20:37:40+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Power Up: Roll Out Solar Arrays Boost Space Station Power Supply",
-    "url": "https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/",
-    "source": "NASA",
-    "summary": "From the International Space Station’s unique position 250 miles above Earth, the Sun is a vital source of energy. Solar power supports the station’s life support systems, daily activities, and hundreds of research investigations that improve life on Earth and prepare humans for deep space exploration. Over the past five years, NASA augmented the station’s […]",
-    "published_at": "2026-10-15T17:30:39+00:00",
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "source": "TechCrunch",
+    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+    "published_at": "2026-10-18T20:37:40+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   }
-  ]
- },
- {
-  "id": "dc6871739892",
-  "headline": "NASA Welcomes All Ages, Experience Levels for Space Apps Challenge",
-  "section": "science",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T16:13:08+00:00",
-  "time_kind": "published",
-  "items": [
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   },
    {
-    "title": "NASA Welcomes All Ages, Experience Levels for Space Apps Challenge",
-    "url": "https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/",
-    "source": "NASA",
-    "summary": "Registration is open for the 2026 NASA Space Apps Challenge, a two-day global event on Saturday, Nov. 14 and Sunday, Nov. 15, where teams work to create solutions inspired by NASA’s most ambitious exploration goals and making use of the agency’s free and open data. The annual challenge, often called a hackathon, is an intensive, […]",
-    "published_at": "2026-10-15T16:13:08+00:00",
+    "title": "Anthropic commits 5% of shares to new public benefit fund",
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-commits-5-of-shares-to-new-public-benefit-fund-4956032",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-18T18:28:23+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   }
-  ]
- },
- {
-  "id": "69c31d25c65c",
-  "headline": "NASA Awards Enable Research, Technology to Build Future Workforce",
-  "section": "science",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T15:57:47+00:00",
-  "time_kind": "published",
-  "items": [
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   },
    {
-    "title": "NASA Awards Enable Research, Technology to Build Future Workforce",
-    "url": "https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/",
-    "source": "NASA",
-    "summary": "NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research (M‑STAR) initiative, selected institutions will each receive up to $1 million […]",
-    "published_at": "2026-10-15T15:57:47+00:00",
+    "title": "Anthropic to commit 5% stake to new public benefit fund",
+    "url": "https://www.investing.com/news/stock-market-news/anthropic-to-commit-5-stake-to-new-public-benefit-fund-4956031",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-18T18:24:40+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   }
-  ]
- },
- {
-  "id": "17be3fcc990e",
-  "headline": "A Detailed Martian Rover Photograph Highlights Mysterious Cliffs on the Edge of One of Mars’ Mountains",
-  "section": "culture",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T16:50:01+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "A Detailed Martian Rover Photograph Highlights Mysterious Cliffs on the Edge of One of Mars’ Mountains",
-    "url": "https://www.smithsonianmag.com/smart-news/a-detailed-martian-rover-photograph-highlights-mysterious-cliffs-on-the-edge-of-one-of-mars-mountains-180989675/",
-    "source": "Smithsonian Mag",
-    "summary": "These crags don't match the rest of the mountain, and scientists don't know how they formed",
-    "published_at": "2026-10-15T16:50:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
+    "seen_at": "2026-10-18T21:22:48+00:00"
    }
   ]
  },
@@ -5056,37 +4729,6 @@
     "published_at": "2026-10-18T03:27:40+00:00",
     "source_countries": [],
     "seen_at": "2026-10-18T15:23:55+00:00"
-   }
-  ]
- },
- {
-  "id": "72eed67fa4b0",
-  "headline": "Volvo makes a bigger bet on Nvidia",
-  "section": "tech",
-  "score": 36,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T17:34:40+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Volvo makes a bigger bet on Nvidia",
-    "url": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
-    "source": "TechCrunch",
-    "summary": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
-    "published_at": "2026-10-15T17:34:40+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   },
-   {
-    "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
-    "url": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
-    "source": "The Verge",
-    "summary": "Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated driving system similar to Tesla's Full Self-Driving (Supervised). Volvo says the new point-to-point system will be Level 2++, meaning it can […]",
-    "published_at": "2026-10-15T17:30:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
    }
   ]
  },
@@ -6054,94 +5696,6 @@
   ]
  },
  {
-  "id": "23e684d3f686",
-  "headline": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-  "section": "business",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-09-25T08:31:56+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-    "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
-    "published_at": "2026-09-25T08:31:56+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   }
-  ]
- },
- {
-  "id": "dad1fc40799a",
-  "headline": "Margaret Hamilton obituary: computer scientist who pioneered software engineering and helped us get to the Moon",
-  "section": "science",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T00:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Margaret Hamilton obituary: computer scientist who pioneered software engineering and helped us get to the Moon",
-    "url": "https://www.nature.com/articles/d41586-026-03233-6",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03233-6 Programmer whose forward-thinking and reliable code helped to save the Apollo 11 mission.",
-    "published_at": "2026-10-15T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   }
-  ]
- },
- {
-  "id": "6ab9bdcb522c",
-  "headline": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-  "section": "safety",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-15T16:00:26+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-    "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-    "source": "The Hacker News",
-    "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves four different infection chains that make use of macro-enabled documents, PS2EXE downloaders, GitHub-hosted PowerShell, and crafted WinRAR archives",
-    "published_at": "2026-10-15T16:00:26+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   }
-  ]
- },
- {
-  "id": "639d0d6e00a7",
-  "headline": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-  "section": "safety",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-15T18:31:41+00:00",
-  "event_time": "2026-10-14T17:38:31+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
-    "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-    "source": "The Hacker News",
-    "summary": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged attack on September 10. A web shell is a small file that executes any command an attacker sends via a web request, with the rights of the web server account. The flaw",
-    "published_at": "2026-10-14T17:38:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T18:31:38+00:00"
-   }
-  ]
- },
- {
   "id": "041d31ae5927",
   "headline": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
   "section": "science",
@@ -6716,6 +6270,28 @@
     "published_at": "2026-10-18T12:52:13+00:00",
     "source_countries": [],
     "seen_at": "2026-10-18T15:23:55+00:00"
+   }
+  ]
+ },
+ {
+  "id": "902d7ede2d3e",
+  "headline": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
+  "section": "ai",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-09-24T18:00:04+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Mexican EPICS in IEEE Team Builds Portable Educational Platform",
+    "url": "https://spectrum.ieee.org/epics-in-ieee-portable-educational",
+    "source": "IEEE Spectrum Robotics",
+    "summary": "In Guadalajara, Mexico, many high schools have motivated teachers and talented students with an interest in science, technology, engineering, and mathematics, but they lack access to advanced tools such as robotics laboratories. The resources shortfall limits the students’ opportunities for hands-on learning on cutting-edge applications. A team from ITESO, Universidad Jesuita de Guadalajara , is w",
+    "published_at": "2026-09-24T18:00:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
    }
   ]
  },
@@ -7545,6 +7121,59 @@
     "published_at": "2026-09-23T05:38:26+00:00",
     "source_countries": [],
     "seen_at": "2026-10-18T18:27:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "8ede70574916",
+  "headline": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T18:39:23+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
+    "url": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
+    "source": "The Guardian World",
+    "summary": "New video footage of Israeli settler assault on European delegation as Netanyahu attempts to raise doubt Hours after Israeli militants attacked a delegation of European diplomats, French clerics and a visiting mayor in the occupied West Bank, Israel’s leader, Benjamin Netanyahu, responded by questioning the delegation’s account of the assault. “Serious accusations require serious evidence” was the",
+    "published_at": "2026-10-18T18:39:23+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "de6b0c59a9e6",
+  "headline": "A woman was arrested in Philly for blocking a delivery robot",
+  "section": "tech",
+  "score": 34,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T18:28:10+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "A woman was arrested in Philly for blocking a delivery robot",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+    "source": "The Verge",
+    "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
+    "published_at": "2026-10-18T18:28:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   },
+   {
+    "title": "A woman was arrested in Philly for blocking a delivery robot",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+    "source": "The Verge AI",
+    "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front […]",
+    "published_at": "2026-10-18T18:28:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
    }
   ]
  },
@@ -8447,6 +8076,323 @@
     "published_at": "2026-10-18T17:19:59+00:00",
     "source_countries": [],
     "seen_at": "2026-10-18T18:27:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d8c9aec304ac",
+  "headline": "Jordon Steele-John says ‘I’m not on leave’ and accuses Greens leader of making ‘bad call’ regarding complaints",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T09:51:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Jordon Steele-John says ‘I’m not on leave’ and accuses Greens leader of making ‘bad call’ regarding complaints",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/18/greens-senator-jordon-steele-john-says-not-on-leave-blames-david-shoebridge-complaints-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Greens senator for WA says complaints regarding his behaviour towards women not about ‘accountability’ but rather ‘factionalism’ Get our breaking news email , free app or daily news podcast Jordon Steele-John has accused an internal faction within the Greens of playing “nasty political games” and the leader, David Shoebridge, of pressuring him to take leave after complaints about his conduct were ",
+    "published_at": "2026-10-18T09:51:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "00572fd22c8f",
+  "headline": "Cut benefits to fund work support for young people, says Neet review author Alan Milburn",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T18:30:19+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Cut benefits to fund work support for young people, says Neet review author Alan Milburn",
+    "url": "https://www.theguardian.com/society/2026/oct/18/cut-benefits-fund-employment-support-young-people-neet-review-author-alan-milburn",
+    "source": "The Guardian World",
+    "summary": "Exclusive: Former health secretary says upfront investment in support is needed ‘if we are going to end the Neet crisis’ Ministers should cut welfare spending to fund more employment support if it wants to end the youth Neet crisis, the author of a government-led review has said. Alan Milburn, the Tony Blair-era health secretary, told the Guardian he believed ministers should reduce benefits payme",
+    "published_at": "2026-10-18T18:30:19+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "3d1c5016dca7",
+  "headline": "Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T19:47:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes",
+    "url": "https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Anti-government protesters continued calls for Edi Rama to step down as violent clashes between demonstrators and police again took place.",
+    "published_at": "2026-10-18T19:47:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "24213b35ca32",
+  "headline": "Porn showing choking or incest to be banned from early November, government says",
+  "section": "tech",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-15T23:27:57+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Porn showing choking or incest to be banned from early November, government says",
+    "url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
+    "published_at": "2026-10-15T23:27:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "9d26ab5173b4",
+  "headline": "Elite-level incompetence is Manchester United’s problem – not Michael Carrick | Barney Ronay",
+  "section": "sport",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T19:56:30+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Elite-level incompetence is Manchester United’s problem – not Michael Carrick | Barney Ronay",
+    "url": "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-omar-berrada-leeds-premier-league",
+    "source": "Guardian Sport",
+    "summary": "Getting rid of head coach is not going to solve the problems that led to his appointment. Perhaps it’s worth, for once, doing something different At the final whistle at Elland Road the TV cameras cut to a lingering shot of Manchester United chief executive Omar Berrada, looking down pensively from the stands, deciding, it is to be hoped, on a little clemency, a re-sheathing of the managerial shot",
+    "published_at": "2026-10-18T19:56:30+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "bcd3314d2ba2",
+  "headline": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+  "section": "ai",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-08-21T00:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+    "url": "https://huggingface.co/blog/pwc-search",
+    "source": "Hugging Face",
+    "summary": "",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "861f4dd4c580",
+  "headline": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+  "section": "safety",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-08-27T11:04:15+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+    "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+    "source": "Krebs on Security",
+    "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated",
+    "published_at": "2026-08-27T11:04:15+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "2485a1df2f4d",
+  "headline": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+  "section": "world",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T18:38:49+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
+    "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
+    "source": "NPR News",
+    "summary": "Ukrainian President Volodymyr Zelenskyy has said he believes the U.S. government is behind his military's loss of normal access to the key satellite communications service used by the Ukrainian military.",
+    "published_at": "2026-10-18T18:38:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "594dedfd7c70",
+  "headline": "Driving test waits fall to two-year low - but still average 20 weeks",
+  "section": "business",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-14T13:45:34+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Driving test waits fall to two-year low - but still average 20 weeks",
+    "url": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
+    "published_at": "2026-10-14T13:45:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "042d27182951",
+  "headline": "Climate change affects the quality of one of the world's most important staple foods",
+  "section": "science",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T19:00:01+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Climate change affects the quality of one of the world's most important staple foods",
+    "url": "https://phys.org/news/2026-10-climate-affects-quality-world-important.html",
+    "source": "Phys.org",
+    "summary": "Depending on the cultivar, higher concentrations of carbon dioxide (CO₂) in the atmosphere can significantly alter the protein composition of wheat. This affects not only baking quality but potentially also the tolerability of wheat products. This is the conclusion of a new study led by the Leibniz Institute for Food Systems Biology at the Technical University of Munich. According to the study, th",
+    "published_at": "2026-10-18T19:00:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   },
+   {
+    "title": "The ambiguous costs of climate change",
+    "url": "https://phys.org/news/2026-10-ambiguous-climate.html",
+    "source": "Phys.org",
+    "summary": "As human activity has increased temperatures globally, determining the costs directly incurred by climate change is challenging. The effects of climate change on extreme weather events—such as hurricanes and heat waves—can be locally specific and variable, and observations and climate modeling might not accurately capture those effects.",
+    "published_at": "2026-10-17T14:20:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "9513598c49ec",
+  "headline": "GLP-1 drugs linked to lower risk of serious heart-related complications and infections after surgery",
+  "section": "health",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T18:30:01+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "GLP-1 drugs linked to lower risk of serious heart-related complications and infections after surgery",
+    "url": "https://medicalxpress.com/news/2026-10-glp-drugs-linked-heart-complications.html",
+    "source": "Medical Xpress",
+    "summary": "GLP-1 medications, widely prescribed for diabetes and weight loss, may also help protect people from serious complications after surgery. People taking GLP-1 medications had lower rates of major heart-related complications and infections after surgery than those not taking the drugs, according to results of a study of more than 2 million adults undergoing surgery presented at the ANESTHESIOLOGY 20",
+    "published_at": "2026-10-18T18:30:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "09f61fd6e39c",
+  "headline": "Sage feels 'shame' at Palace thrashing with future in doubt",
+  "section": "sport",
+  "score": 32,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T19:51:22+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Sage feels 'shame' at Palace thrashing with future in doubt",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq1kdzp093jwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Crystal Palace manage Pierre Sage says he feels \"shame\" at the Eagles' performance during their 5-0 thrashing by Brighton and does not know if he will be given time to save his job.",
+    "published_at": "2026-10-18T19:51:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "e728e71a26e3",
+  "headline": "France reports almost 2,400 arrests after riots, looting and arson during cost-of-living protests",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T10:26:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "France reports almost 2,400 arrests after riots, looting and arson during cost-of-living protests",
+    "url": "https://www.dw.com/en/france-reports-almost-2-400-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Rioters torched public buildings and looted shops across France, destroying Limoges' historic town hall. The violence erupted during nationwide cost-of-living protests.",
+    "published_at": "2026-10-18T10:26:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "8c7aa3c99443",
+  "headline": "REPLAY: French President Emmanuel Macron addresses the nation after unrest",
+  "section": "world",
+  "score": 31,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T21:22:51+00:00",
+  "event_time": "2026-10-18T18:33:34+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "REPLAY: French President Emmanuel Macron addresses the nation after unrest",
+    "url": "https://www.france24.com/en/video/20261018-replay-french-president-emmanuel-macron-addresses-the-nation-after-unrest",
+    "source": "France 24",
+    "summary": "French President Emmanuel Macron on Sunday vowed there would be \"full transparency\" over the response by security forces to protests that turned violent this weekend, after criticism that police preparations had been inadequate.",
+    "published_at": "2026-10-18T18:33:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T21:22:48+00:00"
    }
   ]
  }

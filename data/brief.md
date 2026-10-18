@@ -68,24 +68,22 @@
     <https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery>
     > Pope Leo XIV was released from the hospital on Saturday after lung cancer surgery. Doctors removed part of the 71-year-old's right lung last week to extract a cancerous tumour.
 
-### 4. Meta and Apple team up to make Muse AI models run better on Macs
-- id události: `c7cea461bd6d`  ·  rubrika: `tech`  ·  skóre: 67  ·  nezávislých zdrojů: 4
+### 4. Russia wants blackout in Ukraine as winter comes — Zelenskyy
+- id události: `de3a4fe3e8bb`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **The Verge** — Meta and Apple team up to make Muse AI models run better on Macs
-    <https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx>
-    > Meta announced the Muse Spark Open AI model today, claiming that it's the "most capable US open-weight model to date." But the company also says that it's the "the first model in its class" that can "run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX fra
-  - **The Verge AI** — Meta and Apple team up to make Muse AI models run better on Macs
-    <https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx>
-    > Meta announced the Muse Spark Open AI model today, claiming that it's the "most capable US open-weight model to date." But the company also says that it's the "the first model in its class" that can "run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX fra
-  - **CNBC Top** — Apple and Meta team up to make Muse AI model run on Mac computers
-    <https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html>
-    > Apple and Meta are collaborating to make Muse Spark Open easier to run locally on clustered Mac Studio systems, according to the companies.
-  - **The Verge** — Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom
-    <https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom>
-    > We knew that a number of big tech firms were helping to fund the construction of Trump's ballroom, but we didn't know just how much they were giving to the cause. Now the Washington Post published a list of all the major donors to the White House ballroom project, along with how 
-  - **Hugging Face** — Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta
-    <https://huggingface.co/blog/meta-muse-spark-open>
+  - **DW News** — Russia wants blackout in Ukraine as winter comes — Zelenskyy
+    <https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf>
+    > Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin.
+  - **Guardian Business** — Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine
+    <https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine>
+    > President signed the legislation championed by late senator Lindsey Graham last month but has waived the restrictions as they were due to come into effect Donald Trump has put on hold a sweeping new sanctions package targeting the Russian economy, telling Congress the pause on th
+  - **CNBC Top** — Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest
+    <https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html>
+    > Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.
+  - **France 24** — Trump waives new Russia sanctions as Ukraine ties slump
+    <https://www.france24.com/en/video/20261017-trump-waives-new-russia-sanctions-as-ukraine-ties-slump>
+    > President Donald Trump signed an executive order on Friday that waived sweeping US sanctions and tariffs targeting Russia's energy revenues, marking a new low in Washington's ties with war-torn Ukraine. Our correspondent Gulliver Cragg tells us more.
 
 ---
 
@@ -95,8 +93,8 @@
 - rubrika: `wonder`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
-  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
   - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
+  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
 
 ---
 
