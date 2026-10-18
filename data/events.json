@@ -1560,6 +1560,37 @@
   ]
  },
  {
+  "id": "351390f82ca4",
+  "headline": "Deaths confirmed in major fire at Canada military base",
+  "section": "world",
+  "score": 45,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-10-18T06:36:59+00:00",
+  "event_time": "2026-10-18T04:00:50+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Deaths confirmed in major fire at Canada military base",
+    "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister.",
+    "published_at": "2026-10-18T04:00:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T06:36:56+00:00"
+   },
+   {
+    "title": "Deaths, injuries after fire at Alberta military base: Canada minister",
+    "url": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Defence Minister David McGuinty says people were killed and injured, but provides no figures or cause of fire.",
+    "published_at": "2026-10-18T04:59:29+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T06:36:56+00:00"
+   }
+  ]
+ },
+ {
   "id": "701641842bf2",
   "headline": "Wallace & Gromit maker Aardman falls short of return to profit",
   "section": "business",
@@ -3348,37 +3379,6 @@
   ]
  },
  {
-  "id": "ebce4d43dc62",
-  "headline": "Anthropic flags revenue surge to investors ahead of stock market debut",
-  "section": "business",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-15T03:30:37+00:00",
-  "event_time": "2026-10-15T01:56:32+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-    "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-    "published_at": "2026-10-15T01:56:32+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T03:30:32+00:00"
-   },
-   {
-    "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
-    "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-    "published_at": "2026-10-15T01:56:32+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T03:30:32+00:00"
-   }
-  ]
- },
- {
   "id": "f0feb9f126d4",
   "headline": "UK economy unexpectedly grows 0.1% in August despite fall in consumer spending",
   "section": "business",
@@ -4026,37 +4026,6 @@
     "published_at": "2026-10-17T12:32:21+00:00",
     "source_countries": [],
     "seen_at": "2026-10-17T18:27:38+00:00"
-   }
-  ]
- },
- {
-  "id": "a610633e75dc",
-  "headline": "Winter Storm Warning: Up to 12 Inches of Snow and 45 MPH Gusts Threaten I-80",
-  "section": "motoring",
-  "score": 39,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-15T03:30:37+00:00",
-  "event_time": "2026-10-14T10:17:32+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Winter Storm Warning: Up to 12 Inches of Snow and 45 MPH Gusts Threaten I-80",
-    "url": "https://www.autoblog.com/news/winter-storm-warning-up-to-12-inches-of-snow-and-45-mph-gusts-threaten-i-80",
-    "source": "Autoblog",
-    "summary": "Gusts up to 45 mph come with the snow, and that is the bigger problem for campers, vans and empty trailers.",
-    "published_at": "2026-10-14T10:17:32+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T03:30:32+00:00"
-   },
-   {
-    "title": "Winter Weather Warnings: Up to 12 Inches of Snow and 35 MPH Gusts Take Effect Wednesday in Colorado",
-    "url": "https://www.autoblog.com/news/winter-weather-warnings-up-to-12-inches-of-snow-and-35-mph-gusts-take-effect-wednesday-in-colorado",
-    "source": "Autoblog",
-    "summary": "Snow-covered roads are forecast on several high crossings, and the tire rules on the main corridor are already in force.",
-    "published_at": "2026-10-13T19:34:34+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T03:30:32+00:00"
    }
   ]
  },
@@ -5217,24 +5186,33 @@
   ]
  },
  {
-  "id": "9eea57edb89b",
-  "headline": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+  "id": "83d130e7ba9f",
+  "headline": "Microsoft Patches More Than 1,400 Security Flaws",
   "section": "safety",
-  "score": 37,
+  "score": 38,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-10-15T03:30:37+00:00",
-  "event_time": "2026-09-28T15:08:57+00:00",
+  "created": "2026-10-18T06:36:59+00:00",
+  "event_time": "2026-10-13T23:24:53+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-    "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+    "title": "Microsoft Patches More Than 1,400 Security Flaws",
+    "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
     "source": "Krebs on Security",
-    "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
-    "published_at": "2026-09-28T15:08:57+00:00",
+    "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+    "published_at": "2026-10-13T23:24:53+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-15T03:30:32+00:00"
+    "seen_at": "2026-10-18T06:36:56+00:00"
+   },
+   {
+    "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+    "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+    "source": "Krebs on Security",
+    "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and d",
+    "published_at": "2026-09-08T21:44:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T06:36:56+00:00"
    }
   ]
  },
@@ -5610,37 +5588,6 @@
     "published_at": "2026-10-16T16:00:00+00:00",
     "source_countries": [],
     "seen_at": "2026-10-18T01:01:05+00:00"
-   }
-  ]
- },
- {
-  "id": "2335e0910e08",
-  "headline": "Porsche's U.S. Sales Are Down, But One Model Is the Main Culprit",
-  "section": "motoring",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-15T03:30:37+00:00",
-  "event_time": "2026-10-13T13:45:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Porsche's U.S. Sales Are Down, But One Model Is the Main Culprit",
-    "url": "https://www.autoblog.com/news/porsches-u-s-sales-are-down-but-one-model-is-the-main-culprit",
-    "source": "Autoblog",
-    "summary": "While Porsche's overall U.S. sales declined in Q3 2026, the 911 and Cayenne delivered encouraging results.",
-    "published_at": "2026-10-13T13:45:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T03:30:32+00:00"
-   },
-   {
-    "title": "Jaguar Refuses to Back Down on EVs Despite Sales Slump",
-    "url": "https://www.autoblog.com/news/jaguar-refuses-to-back-down-on-evs-despite-sales-slump",
-    "source": "Autoblog",
-    "summary": "Jaguar's striking new Type 01 EV is about to go into production. But there are plenty of questions about its follow-up act at a time when battery-electric sales have plummeted in the U.S. Autoblog spoke to Jaguar boss Rawdon Glover and other sources about what comes next.",
-    "published_at": "2026-10-13T13:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-15T03:30:32+00:00"
    }
   ]
  },
@@ -6422,6 +6369,28 @@
   ]
  },
  {
+  "id": "1fb482bc099a",
+  "headline": "Ten-year-old Willow among children to benefit from pioneering same-day test to spot infections",
+  "section": "health",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-18T06:36:59+00:00",
+  "event_time": "2026-10-16T00:34:45+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Ten-year-old Willow among children to benefit from pioneering same-day test to spot infections",
+    "url": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "Metagenomics offers a new way of detecting infections in intensive care patients.",
+    "published_at": "2026-10-16T00:34:45+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T06:36:56+00:00"
+   }
+  ]
+ },
+ {
   "id": "23e684d3f686",
   "headline": "Europe's car makers are in crisis. Will the threat of war rescue them?",
   "section": "business",
@@ -6987,6 +6956,28 @@
     "published_at": "2026-10-17T22:45:25+00:00",
     "source_countries": [],
     "seen_at": "2026-10-18T01:01:05+00:00"
+   }
+  ]
+ },
+ {
+  "id": "222e66a51003",
+  "headline": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+  "section": "safety",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T06:36:59+00:00",
+  "event_time": "2026-10-15T20:24:36+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+    "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+    "source": "The Hacker News",
+    "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux kernel's networking code, not in any one cloud's setup, so it reaches the shared",
+    "published_at": "2026-10-15T20:24:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T06:36:56+00:00"
    }
   ]
  },
@@ -7608,6 +7599,50 @@
   ]
  },
  {
+  "id": "5724c448c331",
+  "headline": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
+  "section": "tech",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T06:36:59+00:00",
+  "event_time": "2026-10-13T09:34:43+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
+    "url": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
+    "published_at": "2026-10-13T09:34:43+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T06:36:56+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d4e2b83a8987",
+  "headline": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+  "section": "science",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T06:36:59+00:00",
+  "event_time": "2026-10-18T04:05:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+    "url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+    "source": "NASA",
+    "summary": "APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula […]",
+    "published_at": "2026-10-18T04:05:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T06:36:56+00:00"
+   }
+  ]
+ },
+ {
   "id": "8d691fdb102f",
   "headline": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
   "section": "world",
@@ -8158,6 +8193,72 @@
   ]
  },
  {
+  "id": "6ecfd7c2c461",
+  "headline": "Is sisterhood the secret to a long life? The Sardinian village that could hold key to women’s longevity",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-18T06:36:59+00:00",
+  "event_time": "2026-10-18T04:00:49+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Is sisterhood the secret to a long life? The Sardinian village that could hold key to women’s longevity",
+    "url": "https://www.theguardian.com/world/2026/oct/18/bolotana-sardinian-village-women-centenarians-longevity-long-life",
+    "source": "The Guardian World",
+    "summary": "Meet some of the elderly residents of Bolotana, in line to be the world’s sixth ‘blue zone’ for its high number of female centenarians When Giovanna Marras opens the door to her home in Bolotana, a mountain village in central Sardinia, her eyes are bright with curiosity as she sizes up her visitors. Her sister, Mariangela, peeks out too, soon ushering her guests inside and handing out dishes of ic",
+    "published_at": "2026-10-18T04:00:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T06:36:56+00:00"
+   }
+  ]
+ },
+ {
+  "id": "8be9bbb5e9ac",
+  "headline": "Penguin Colony review – an Antarctic odyssey of Nazis and Lovecraftian horrors",
+  "section": "culture",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T06:36:59+00:00",
+  "event_time": "2026-10-16T09:00:57+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Penguin Colony review – an Antarctic odyssey of Nazis and Lovecraftian horrors",
+    "url": "https://www.theguardian.com/games/2026/oct/16/penguin-colony-review-an-antarctic-odyssey-of-nazis-and-lovecraftian-horrors",
+    "source": "Guardian Culture",
+    "summary": "PC; Origame Digital This odd but absorbing adventure sends you waddling across Antarctica in search of an eldritch entity – uncovering a world far stranger than it first appears A Nazi kneels down on frozen snow, staring at an endless Antarctic horizon. Another holds a gun to his head, ready to end his own life. I direct a small waddling penguin up to them, trying to imagine what it could be think",
+    "published_at": "2026-10-16T09:00:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T06:36:56+00:00"
+   }
+  ]
+ },
+ {
+  "id": "3c6b68b34edb",
+  "headline": "Washington Spirit clinch NWSL playoff berth as Gotham miss chance to seal Shield",
+  "section": "sport",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-18T06:36:59+00:00",
+  "event_time": "2026-10-18T06:03:37+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Washington Spirit clinch NWSL playoff berth as Gotham miss chance to seal Shield",
+    "url": "https://www.theguardian.com/football/2026/oct/18/washington-spirit-gotham-nwsl-playoffs-shield-results",
+    "source": "Guardian Sport",
+    "summary": "Di Guglielmo scores first NWSL goal in 1-0 victory Gotham denied chance to clinch NWSL Shield San Diego secure top-four seed as Angel City rally Lucia Di Guglielmo scored her first National Women’s Soccer League goal and the Washington Spirit clinched a playoff spot with a 1-0 victory over Gotham FC on Saturday. In other NWSL action, the San Diego Wave beat the North Carolina Courage 2-1, Angel Ci",
+    "published_at": "2026-10-18T06:03:37+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-18T06:36:56+00:00"
+   }
+  ]
+ },
+ {
   "id": "9d913ba171e7",
   "headline": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
   "section": "world",
@@ -8418,116 +8519,6 @@
     "published_at": "2026-10-16T09:00:57+00:00",
     "source_countries": [],
     "seen_at": "2026-10-17T21:22:17+00:00"
-   }
-  ]
- },
- {
-  "id": "df2c8b3c46fc",
-  "headline": "Liverpool come from behind to beat nine-man Brentford",
-  "section": "sport",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-10-17T21:22:21+00:00",
-  "event_time": "2026-10-17T19:00:13+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Liverpool come from behind to beat nine-man Brentford",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
-    "published_at": "2026-10-17T19:00:13+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T21:22:17+00:00"
-   }
-  ]
- },
- {
-  "id": "abc6f0bf21f0",
-  "headline": "Atlanta Dream v Golden State Valkyries: WNBA finals 2026 Game 1 – live updates",
-  "section": "sport",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-17T21:22:21+00:00",
-  "event_time": "2026-10-17T21:09:28+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Atlanta Dream v Golden State Valkyries: WNBA finals 2026 Game 1 – live updates",
-    "url": "https://www.theguardian.com/sport/live/2026/oct/17/atlanta-dream-v-golden-state-valkyries-wnba-finals-2026-game-1-live-buildup",
-    "source": "Guardian Sport",
-    "summary": "Valkyries host Dream in opener of best-of-seven series Guardian writers’ predictions: Golden State or Atlanta? Reach out to Bryan on Bluesky or by email Atlanta trailed 14-11 after Chen’s three-pointer with 2:48 remaining, but Golden State failed to score again. Reese took over, scoring nine of Atlanta’s final 11 points. She converted two layups to put the Dream ahead 15-14, added another inside, ",
-    "published_at": "2026-10-17T21:09:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T21:22:17+00:00"
-   }
-  ]
- },
- {
-  "id": "f1ac73b13aaf",
-  "headline": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches",
-  "section": "world",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-18T01:01:08+00:00",
-  "event_time": "2026-10-17T23:53:08+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Ebike rider, 13, charged with sexual touching after girls and women allegedly harassed on northern beaches",
-    "url": "https://www.theguardian.com/australia-news/2026/oct/18/sydney-northern-beaches-teenage-ebike-rider-13-charged-sexual-touching-trails-ntwnfb",
-    "source": "The Guardian World",
-    "summary": "Sydney teenager charged with offensive behaviour and sexual touching without consent in relation to incidents involving females aged 13 to 54 Get our breaking news email , free app or daily news podcast An ebike riding 13-year-old boy has been charged with multiple sexual offences allegedly committed against women on walking trails on Sydney’s northern beaches. New South Wales police said the boy ",
-    "published_at": "2026-10-17T23:53:08+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-18T01:01:05+00:00"
-   }
-  ]
- },
- {
-  "id": "3e64b0135523",
-  "headline": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-  "section": "business",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-18T01:01:08+00:00",
-  "event_time": "2026-10-15T13:25:17+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-    "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-    "published_at": "2026-10-15T13:25:17+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-18T01:01:05+00:00"
-   }
-  ]
- },
- {
-  "id": "6087a6c99de4",
-  "headline": "Europe is a blast – but more a curse than a blessing if you are not a Premier League super-club I Jonathan Wilson",
-  "section": "sport",
-  "score": 32,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-18T01:01:08+00:00",
-  "event_time": "2026-10-17T19:00:38+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Europe is a blast – but more a curse than a blessing if you are not a Premier League super-club I Jonathan Wilson",
-    "url": "https://www.theguardian.com/football/2026/oct/17/europe-is-a-blast-but-more-a-curse-than-a-blessing-if-you-are-not-a-super-club",
-    "source": "Guardian Sport",
-    "summary": "The four Premier League clubs playing in the lesser continental competitions face each other on Sunday – but three are struggling domestically The sun shone. The temperature was in the high 20s. There was a mood of great conviviality. If you were struggling with the official allocation, it turned out you could just email the president of Torreense and he’d sort you out. Were these “Nuno-tickets” r",
-    "published_at": "2026-10-17T19:00:38+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-18T01:01:05+00:00"
    }
   ]
  }
