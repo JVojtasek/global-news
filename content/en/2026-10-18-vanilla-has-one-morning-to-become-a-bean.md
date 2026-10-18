@@ -17,6 +17,10 @@ automation_role: edition
 generator: chatgpt-work
 event_id: ''
 image_query: vanilla orchid flower hand pollination and cured vanilla pods
+impact:
+  areas: [money, life]
+  line: "For most readers this matters in the kitchen and at the shelf. Vanilla's price starts with an orchid that flowers for a day, hand labour and months of curing, not just the brand on the bottle."
+  todo: "When buying, check the label for whole pod, extract, paste or vanillin-based flavouring, and choose by recipe rather than by price."
 sources:
 - name: University of Florida IFAS — Vanilla Growing in South Florida
   url: https://ask.ifas.ufl.edu/publication/HS1348

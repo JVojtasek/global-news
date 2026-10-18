@@ -24,6 +24,10 @@ format: wider-lens
 event_id: bertha-benz-long-distance-drive-1888
 series: ''
 image_query: Bertha Benz Patent Motor Car historic journey illustration
+impact:
+  areas: [life]
+  line: "Day to day, nothing changes for readers. The useful point is older than cars: a new product proves itself only in ordinary use, far from the workshop, where its missing support shows."
+  todo: "Before relying on a new device, try it once in real conditions and note what it needed that the instructions never mentioned."
 sources:
 - name: Mercedes-Benz Group — Benz Patent Motor Car, the first automobile
   url: https://group.mercedes-benz.com/company/tradition/company-history/1885-1886.html

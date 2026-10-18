@@ -13,6 +13,10 @@ date: '2026-10-10'
 status: published
 confidence: 0
 image_query: 'BPOP a zdravá marže: kdy'
+impact:
+  areas: [money]
+  line: "Většina čtenářů akcie BPOP nemá. Pro každého s bankovním účtem ale platí širší poučení: vyšší sazby centrální banky mohou bance zvednout příjem z úvěrů, aniž se dostanou na účty střadatelů."
+  todo: "Porovnejte, kolik vaše banka platí na běžném a spořicím účtu, se sazbou centrální banky a zeptejte se, kdy tu sazbu naposledy změnila."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/bpop-a-zdrava-marze-kdy-nim-nestaci-a-rozhoduje-cena-vkladu--analyza-384527

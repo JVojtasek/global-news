@@ -24,6 +24,10 @@ format: wider-lens
 event_id: bertha-benz-long-distance-drive-1888
 series: ''
 image_query: Bertha Benz Patent Motor Car historic journey illustration
+impact:
+  areas: [life]
+  line: "V každodenním životě se čtenářům nic nemění. Užitečná myšlenka je starší než auta: nový výrobek se osvědčí až při obyčejném používání daleko od dílny, kde se ukáže, co mu chybí."
+  todo: "Než se na nové zařízení spolehnete, vyzkoušejte ho jednou ve skutečných podmínkách a zapište si, co potřebovalo a návod o tom mlčel."
 sources:
 - name: Mercedes-Benz Group — Benz Patent Motor Car, the first automobile
   url: https://group.mercedes-benz.com/company/tradition/company-history/1885-1886.html

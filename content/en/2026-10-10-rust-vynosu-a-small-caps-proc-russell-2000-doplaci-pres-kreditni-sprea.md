@@ -10,6 +10,10 @@ date: '2026-10-10'
 status: published
 confidence: 0
 image_query: 'small business storefront street'
+impact:
+  areas: [money]
+  line: "Most readers will feel this only indirectly. When borrowing gets dearer, smaller indebted firms refinance at higher rates, and they may hire and invest less."
+  todo: "If you hold an index fund, check whether it tracks small or large companies; for wider signs, watch the 10-year yield and high-yield credit spreads in public FRED data."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rust-vynosu-a-small-caps-proc-russell-2000-doplaci-pres-kred-analyza-384520

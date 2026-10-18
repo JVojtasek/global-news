@@ -13,6 +13,10 @@ date: '2026-10-10'
 status: published
 confidence: 0
 image_query: 'Růst výnosů a small-caps: proč'
+impact:
+  areas: [money]
+  line: "Většina čtenářů to pocítí jen nepřímo. Když se půjčky prodraží, menší zadlužené firmy refinancují za vyšší sazby a mohou méně najímat a investovat."
+  todo: "Máte-li indexový fond, ověřte si, jestli sleduje malé, nebo velké firmy; širší signály ukazuje desetiletý výnos a kreditní spready ve veřejných datech FRED."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rust-vynosu-a-small-caps-proc-russell-2000-doplaci-pres-kred-analyza-384520

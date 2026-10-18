@@ -22,6 +22,10 @@ event_id: ''
 series: ''
 image_query: vintage empty running track four laps stopwatch finish line conceptual
   no person no text
+impact:
+  areas: [life]
+  line: "Nothing changes for readers in practice. What changes is how to read the next broken record: a famous threshold usually falls when training, rivals and measurement have already brought it close."
+  todo: "When a record falls, compare the old and new marks, the conditions and how fast the next performances follow."
 sources:
 - name: Bodleian Libraries, University of Oxford
   url: https://www.bodleian.ox.ac.uk/node/3883006

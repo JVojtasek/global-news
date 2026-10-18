@@ -10,6 +10,10 @@ date: '2026-10-10'
 status: published
 confidence: 0
 image_query: 'bank branch customers counter'
+impact:
+  areas: [money]
+  line: "Most readers do not hold BPOP shares. For anyone with a bank account the point is wider: higher central-bank rates can lift a bank's loan income without reaching savers' accounts."
+  todo: "Compare what your own bank pays on current and savings accounts with the central bank's rate, and ask the bank when it last changed that rate."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/bpop-a-zdrava-marze-kdy-nim-nestaci-a-rozhoduje-cena-vkladu--analyza-384527

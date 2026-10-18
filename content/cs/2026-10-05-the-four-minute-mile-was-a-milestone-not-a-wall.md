@@ -20,6 +20,10 @@ event_id: ''
 series: ''
 image_query: vintage empty running track four laps stopwatch finish line conceptual
   no person no text
+impact:
+  areas: [life]
+  line: "Prakticky se čtenářům nic nemění. Mění se to, jak číst příští padlý rekord: slavná hranice obvykle padne, až když ji trénink, soupeři a měření dostanou na dosah."
+  todo: "Když padne rekord, porovnejte starý a nový výkon, podmínky a to, jak rychle přijdou další výkony podobné úrovně."
 sources:
 - name: Bodleian Libraries, University of Oxford
   url: https://www.bodleian.ox.ac.uk/node/3883006
