@@ -79,9 +79,8 @@ Paměť obsahuje **155 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 68 dní · 51 záznamů
+- rubrika `world` · sledováno 68 dní · 52 záznamů
 - časová osa:
-  - **2026-10-02** (2 zdrojů) South Korea demands Ukraine apology over POW disclosure
   - **2026-10-02** (2 zdrojů) It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
   - **2026-10-05** (2 zdrojů) Trump unveils 'Super Intelligence Force' to oversee AI policy
   - **2026-10-05** (2 zdrojů) Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube
@@ -91,6 +90,7 @@ Paměť obsahuje **155 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-17** (2 zdrojů) Katie Zacharia leaving her White House role less than five days on the job
   - **2026-10-18** (3 zdrojů) Trump endorses Netanyahu in Israeli legislative elections
   - **2026-10-19** (2 zdrojů) EU tariffs aimed at China hitting Ukraine, steel boss says
+  - **2026-10-19** (3 zdrojů) Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
 
 ---
 
