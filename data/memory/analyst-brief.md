@@ -1,10 +1,26 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-18
+# ANALYTICKÉ ZADÁNÍ — 2026-10-19
 
-Paměť obsahuje **154 vláken**. Aktivních za posledních 14 dní: **54**.
+Paměť obsahuje **155 vláken**. Aktivních za posledních 14 dní: **53**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- rubrika `world` · sledováno 71 dní · 60 záznamů
+- časová osa:
+  - **2026-10-15** (4 zdrojů) Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
+  - **2026-10-15** (2 zdrojů) North Korea and China open new bridge after 12-year delay
+  - **2026-10-15** (2 zdrojů) Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'
+  - **2026-10-16** (2 zdrojů) Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'
+  - **2026-10-16** (1 zdrojů) Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time
+  - **2026-10-17** (3 zdrojů) Trump waives several Russia sanctions as new US law takes effect
+  - **2026-10-17** (4 zdrojů) Russia wants blackout in Ukraine as winter comes — Zelenskyy
+  - **2026-10-17** (2 zdrojů) Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
+  - **2026-10-17** (2 zdrojů) Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
+  - **2026-10-19** (4 zdrojů) Trump says suspension of Russia sanctions is to keep peace negotiations going
+- ⚠️ vyprávění se v čase obrátilo:
+  - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 66 dní · 60 záznamů
@@ -33,22 +49,6 @@ Paměť obsahuje **154 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-18** (2 zdrojů) LIVE: Leeds United vs Manchester United – Premier League
   - **2026-10-18** (2 zdrojů) Manchester City owner’s £55m housing loan while Burnham was mayor investigated
   - **2026-10-18** (3 zdrojů) Man Utd showed 'unity' in draw with Leeds - Carrick
-
-### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 69 dní · 60 záznamů
-- časová osa:
-  - **2026-10-15** (2 zdrojů) North Korea says it tested cruise missiles to be launched from sub
-  - **2026-10-15** (4 zdrojů) Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
-  - **2026-10-15** (2 zdrojů) North Korea and China open new bridge after 12-year delay
-  - **2026-10-15** (2 zdrojů) Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'
-  - **2026-10-16** (2 zdrojů) Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'
-  - **2026-10-16** (1 zdrojů) Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time
-  - **2026-10-17** (3 zdrojů) Trump waives several Russia sanctions as new US law takes effect
-  - **2026-10-17** (4 zdrojů) Russia wants blackout in Ukraine as winter comes — Zelenskyy
-  - **2026-10-17** (2 zdrojů) Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
-  - **2026-10-17** (2 zdrojů) Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
-- ⚠️ vyprávění se v čase obrátilo:
-  - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 64 dní · 60 záznamů
@@ -79,9 +79,8 @@ Paměť obsahuje **154 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 67 dní · 50 záznamů
+- rubrika `world` · sledováno 68 dní · 51 záznamů
 - časová osa:
-  - **2026-10-01** (2 zdrojů) Despite praise and White House visits, Trump avoids endorsing Netanyahu
   - **2026-10-02** (2 zdrojů) South Korea demands Ukraine apology over POW disclosure
   - **2026-10-02** (2 zdrojů) It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
   - **2026-10-05** (2 zdrojů) Trump unveils 'Super Intelligence Force' to oversee AI policy
@@ -91,6 +90,7 @@ Paměť obsahuje **154 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-16** (3 zdrojů) White House press secretary Zacharia exiting role after short tenure
   - **2026-10-17** (2 zdrojů) Katie Zacharia leaving her White House role less than five days on the job
   - **2026-10-18** (3 zdrojů) Trump endorses Netanyahu in Israeli legislative elections
+  - **2026-10-19** (2 zdrojů) EU tariffs aimed at China hitting Ukraine, steel boss says
 
 ---
 
@@ -98,9 +98,9 @@ Paměť obsahuje **154 vláken**. Aktivních za posledních 14 dní: **54**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies** — naposledy 2026-09-03, celkem 3 záznamů
 - **Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock** — naposledy 2026-08-31, celkem 3 záznamů
 - **US states call for big changes to Instagram and Facebook as Meta child privacy trial begins** — naposledy 2026-08-26, celkem 3 záznamů
 - **Trump pauses new tariffs on Canada and says countries close to a deal** — naposledy 2026-08-24, celkem 5 záznamů
 - **‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother** — naposledy 2026-08-22, celkem 4 záznamů
 - **Watch: BBC asks Infantino if he will resign as Fifa president** — naposledy 2026-08-17, celkem 3 záznamů
-- **Syria sentences Bashar Assad to death in absentia** — naposledy 2026-08-11, celkem 3 záznamů
