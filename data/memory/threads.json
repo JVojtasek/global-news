@@ -4572,44 +4572,46 @@
    "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
    "section": "world",
    "entities": [
-    "french",
-    "metz",
-    "were",
-    "tracking",
-    "europe",
-    "pope",
-    "macron",
-    "thousands",
-    "vehicle",
-    "crack",
-    "france's",
     "lithuania",
-    "found",
-    "leo's",
-    "catholics",
-    "evidence",
-    "young",
-    "follow",
-    "cinderblock",
-    "behind",
-    "recently",
-    "renoir",
-    "mass",
-    "stolen",
-    "wall",
-    "european",
-    "case",
-    "hidden",
-    "huge",
-    "photos",
-    "paintings",
-    "nato",
-    "paris",
-    "russian",
-    "used",
+    "crack",
     "france",
+    "evidence",
+    "police",
+    "pope",
+    "thousands",
+    "behind",
+    "photos",
+    "renoir",
+    "wall",
+    "found",
+    "stolen",
+    "europe",
+    "recently",
+    "curfews",
+    "follow",
+    "catholics",
+    "french",
+    "leo's",
+    "paintings",
+    "mass",
+    "vehicle",
+    "nice",
+    "european",
+    "young",
+    "were",
+    "cinderblock",
+    "metz",
+    "paris",
+    "nato",
+    "russian",
+    "tracking",
+    "france's",
+    "case",
+    "used",
+    "huge",
+    "hidden",
     "danish",
-    "police"
+    "macron"
    ],
    "event_ids": [
     "87d62c77d066",
@@ -4638,7 +4640,8 @@
     "8d083b78259a",
     "55d19e02d108",
     "7531210b2282",
-    "00df4663cdd8"
+    "00df4663cdd8",
+    "a7f7b3a35939"
    ],
    "first_seen": "2026-09-15",
    "last_seen": "2026-10-19",
@@ -4953,6 +4956,17 @@
       "https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/tv-shows/perspective/20261019-france-has-to-assist-gulf-states-diplomat-says-as-macron-makes-three-day-visit"
      ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "France: Curfews issued in Paris, Nice after unrest",
+     "sources": 2,
+     "score": 41,
+     "event_id": "a7f7b3a35939",
+     "links": [
+      "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf",
+      "https://www.atlasobscura.com/places/chapel-of-expiation"
+     ]
     }
    ]
   },
@@ -5234,6 +5248,535 @@
       "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
       "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink?utm_source=rss_feed",
       "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eca0fc692bc0",
+   "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+   "section": "world",
+   "entities": [
+    "guardian",
+    "heathrow",
+    "editorial",
+    "john",
+    "u-turn",
+    "stinky",
+    "london",
+    "pmqs",
+    "hospitality",
+    "starmer",
+    "burnham",
+    "healey",
+    "sanchez",
+    "tory",
+    "france's",
+    "water",
+    "wednesday",
+    "thames",
+    "crace",
+    "andy",
+    "labour",
+    "spain's",
+    "macron"
+   ],
+   "event_ids": [
+    "eca0fc692bc0",
+    "79767a596611",
+    "ccb2c5bc9e36",
+    "ebc944549304",
+    "02df7fa6f0a5",
+    "972b0fe1af77",
+    "cc774da80403",
+    "a6788519913e",
+    "55177db2a4ed",
+    "86fc18c35363",
+    "7393363c7b06",
+    "af201c60dedd",
+    "5d1a9e0758ac",
+    "8c89e651a54b",
+    "04d1070ede74",
+    "23dc0dc71791",
+    "62a29032f7f4",
+    "aa853b613107"
+   ],
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-10-19",
+   "timeline": [
+    {
+     "date": "2026-09-03",
+     "headline": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+     "sources": 3,
+     "score": 58,
+     "event_id": "eca0fc692bc0",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
+      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260903-tapestry-diplomacy-uk-france-ties-in-focus-as-macron-and-burnham-hold-first-talks"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham | John Crace",
+     "sources": 2,
+     "score": 49,
+     "event_id": "79767a596611",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham",
+      "https://www.france24.com/en/replay-uk-pm-andy-burnham-faces-lawmakers-for-first-time-since-taking-office"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "UK politics: Andy Burnham pressed on borrowing costs and spending at first PMQs – as it happened",
+     "sources": 2,
+     "score": 48,
+     "event_id": "ccb2c5bc9e36",
+     "links": [
+      "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
+      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Andy Burnham blames Tory legacy for leaving UK economy vulnerable",
+     "sources": 2,
+     "score": 44,
+     "event_id": "ebc944549304",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-blames-tory-legacy-uk-economy-vulnerable",
+      "https://www.theguardian.com/politics/video/2026/sep/02/andy-burnham-clashes-with-kemi-badenoch-at-his-first-pmqs-video"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
+     "sources": 1,
+     "score": 41,
+     "event_id": "02df7fa6f0a5",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
+      "https://www.theguardian.com/politics/video/2026/sep/01/andy-burnham-pays-tribute-commons-keir-starmer-stepping-down-mp-video"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Hospitality industry urges Andy Burnham to lay out VAT cut plans",
+     "sources": 2,
+     "score": 46,
+     "event_id": "972b0fe1af77",
+     "links": [
+      "https://www.theguardian.com/business/2026/sep/14/hospitality-industry-andy-burnham-vat-reduction",
+      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
+      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Andy Burnham urged to set dementia waiting-time target",
+     "sources": 2,
+     "score": 46,
+     "event_id": "cc774da80403",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/commentisfree/2026/sep/17/andy-burnham-climate-crisis-funding-peoples-power-projects"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Andy Burnham refuses to back third runway at Heathrow",
+     "sources": 4,
+     "score": 70,
+     "event_id": "a6788519913e",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "The Guardian view on Thames Water: Andy Burnham should nationalise this failed monopoly | Editorial",
+     "sources": 1,
+     "score": 47,
+     "event_id": "55177db2a4ed",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-thames-water-andy-burnham-should-nationalise-this-failed-monopoly",
+      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Wednesday briefing: ​Can Andy Burnham live up to the party’s faith in him?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "86fc18c35363",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/30/wednesday-briefing-can-andy-burnham-live-up-to-the-partys-faith-in-him",
+      "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-review-uk-relationship-with-eu-options"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "France's Macron, Spain's Sanchez welcome idea of UK rejoining EU after Burnham remarks",
+     "sources": 2,
+     "score": 43,
+     "event_id": "7393363c7b06",
+     "links": [
+      "https://www.dw.com/en/france-s-macron-spain-s-sanchez-welcome-idea-of-uk-rejoining-eu-after-burnham-remarks/a-79493469?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/sep/30/macron-welcome-back-burnham-suggestion-uk-could-rejoin-eu"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "‘He persuaded us’: Labour ministers moved by Andy Burnham’s emotional conference speech",
+     "sources": 3,
+     "score": 62,
+     "event_id": "af201c60dedd",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/30/labour-ministers-moved-persuaded-andy-burnham-emotional-conference-speech",
+      "https://www.theguardian.com/football/2026/sep/30/andy-burnham-manchester-city-premier-league",
+      "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Burnham vows to seek new ‘long-term’ relationship with EU in emotional Labour conference speech",
+     "sources": 2,
+     "score": 45,
+     "event_id": "5d1a9e0758ac",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
+      "https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Burnham’s emotional solo act had Labour in raptures – but his promises will take time to come good",
+     "sources": 2,
+     "score": 44,
+     "event_id": "8c89e651a54b",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/29/burnhams-emotional-solo-act-had-labour-in-raptures-but-his-promises-will-take-time-to-come-good",
+      "https://www.theguardian.com/politics/video/2026/sep/29/andy-burnham-father-roy-labour-conference-video"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Andy Burnham’s big bold leap - podcast",
+     "sources": 2,
+     "score": 55,
+     "event_id": "04d1070ede74",
+     "links": [
+      "https://www.theguardian.com/news/audio/2026/sep/30/andy-burnhams-big-bold-leap-podcast",
+      "https://www.theguardian.com/commentisfree/2026/sep/29/the-guardian-view-on-andy-burnham-grounds-to-hope-for-a-better-britain",
+      "https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
+     "sources": 2,
+     "score": 40,
+     "event_id": "23dc0dc71791",
+     "links": [
+      "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
+      "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Stinky business: south London bike shop hit by ‘unbearable’ stench from Thames Water sewer",
+     "sources": 2,
+     "score": 44,
+     "event_id": "62a29032f7f4",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill",
+      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Burnham urges officials to come up with more radical options for Thames Water",
+     "sources": 2,
+     "score": 40,
+     "event_id": "aa853b613107",
+     "links": [
+      "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
+      "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "117b4062144e",
+   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+   "section": "science",
+   "entities": [
+    "test",
+    "mars",
+    "know",
+    "samples",
+    "moon",
+    "arrival",
+    "data",
+    "humanity",
+    "photo",
+    "three",
+    "boosts",
+    "technologies",
+    "theft",
+    "develops",
+    "flights",
+    "testing",
+    "event",
+    "space",
+    "japan",
+    "remote",
+    "splashdown",
+    "mission",
+    "highlight",
+    "send",
+    "power",
+    "briefing",
+    "find",
+    "contributions",
+    "dish",
+    "president",
+    "sets",
+    "nasa",
+    "launched",
+    "services",
+    "next-gen",
+    "moons",
+    "return",
+    "readies",
+    "origin",
+    "don't"
+   ],
+   "event_ids": [
+    "117b4062144e",
+    "687e9adaf6fb",
+    "887fb7f3bbc2",
+    "730942a6039b",
+    "648eebb8b0ed",
+    "b795c1289008",
+    "b4bda24af3f5",
+    "a2c974f2ab73",
+    "af69ac084ec6",
+    "2dc282f1df7a",
+    "2d1ff4fb2acc",
+    "f33a490284d9",
+    "f57fd11d1f5b",
+    "b85bd3d3a0d8",
+    "dc7b54e8c00a",
+    "b9bfb014cb61",
+    "550aa79730b3",
+    "d5370f4ea3de"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-10-19",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+     "sources": 2,
+     "score": 58,
+     "event_id": "117b4062144e",
+     "links": [
+      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "sources": 1,
+     "score": 46,
+     "event_id": "687e9adaf6fb",
+     "links": [
+      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+     "sources": 5,
+     "score": 81,
+     "event_id": "887fb7f3bbc2",
+     "links": [
+      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
+      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+     "sources": 1,
+     "score": 46,
+     "event_id": "730942a6039b",
+     "links": [
+      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
+     "sources": 2,
+     "score": 55,
+     "event_id": "648eebb8b0ed",
+     "links": [
+      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+     "sources": 1,
+     "score": 45,
+     "event_id": "b795c1289008",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b4bda24af3f5",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "NASA Adds New Science Investigations for Moon Base",
+     "sources": 1,
+     "score": 41,
+     "event_id": "a2c974f2ab73",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
+     "sources": 1,
+     "score": 44,
+     "event_id": "af69ac084ec6",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Artemis II Crew Moon Photo Annotations",
+     "sources": 3,
+     "score": 53,
+     "event_id": "2dc282f1df7a",
+     "links": [
+      "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
+      "https://www.nature.com/articles/d41586-026-03197-7",
+      "https://phys.org/news/2026-10-artemis-ii-crew-moon-photo.html"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+     "sources": 1,
+     "score": 42,
+     "event_id": "2d1ff4fb2acc",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+      "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+     "sources": 1,
+     "score": 43,
+     "event_id": "f33a490284d9",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
+      "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
+     "sources": 1,
+     "score": 46,
+     "event_id": "f57fd11d1f5b",
+     "links": [
+      "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
+      "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b85bd3d3a0d8",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+      "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+     "sources": 1,
+     "score": 44,
+     "event_id": "dc7b54e8c00a",
+     "links": [
+      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+     "sources": 2,
+     "score": 52,
+     "event_id": "b9bfb014cb61",
+     "links": [
+      "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+      "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+     "sources": 1,
+     "score": 45,
+     "event_id": "550aa79730b3",
+     "links": [
+      "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
+      "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Scientists Don't Know How Mars Acquired Its Two Moons. Japan Just Launched a Historic Space Mission That Will Fetch Samples to Find Out",
+     "sources": 2,
+     "score": 52,
+     "event_id": "d5370f4ea3de",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/scientists-dont-know-how-mars-acquired-its-two-moons-japan-just-launched-a-historic-space-mission-that-will-fetch-samples-to-find-out-180989713/",
+      "https://phys.org/news/2026-10-japan-world-mission-moon-mars.html"
      ]
     }
    ]
@@ -5532,6 +6075,75 @@
    ]
   },
   {
+   "id": "c695e021eed1",
+   "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+   "section": "tech",
+   "entities": [
+    "accused",
+    "saudi",
+    "docs",
+    "toilet",
+    "openai"
+   ],
+   "event_ids": [
+    "c695e021eed1",
+    "aa337c25492c",
+    "32f880d6d58b",
+    "71a28de11a06"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-10-19",
+   "timeline": [
+    {
+     "date": "2026-10-13",
+     "headline": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
+     "sources": 5,
+     "score": 68,
+     "event_id": "c695e021eed1",
+     "links": [
+      "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+      "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+      "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+     "sources": 6,
+     "score": 74,
+     "event_id": "aa337c25492c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+     "sources": 3,
+     "score": 51,
+     "event_id": "32f880d6d58b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+     "sources": 2,
+     "score": 41,
+     "event_id": "71a28de11a06",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "455fc0cf2128",
    "title": "Major fire at Canada military base leaves four dead, dozens injured",
    "section": "world",
@@ -5777,251 +6389,6 @@
       "https://www.bbc.co.uk/sport/football/articles/ck5yn33jgx84o?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/10/18/madueke-scores-only-goal-as-below-par-arsenal-beat-nottingham-forest?traffic_source=rss",
       "https://www.theguardian.com/football/2026/oct/18/nottingham-forest-arsenal-premier-league-match-report"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "eca0fc692bc0",
-   "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
-   "section": "world",
-   "entities": [
-    "sanchez",
-    "editorial",
-    "thames",
-    "starmer",
-    "wednesday",
-    "crace",
-    "labour",
-    "john",
-    "hospitality",
-    "heathrow",
-    "healey",
-    "stinky",
-    "france's",
-    "tory",
-    "u-turn",
-    "andy",
-    "burnham",
-    "water",
-    "spain's",
-    "macron",
-    "pmqs",
-    "guardian",
-    "london"
-   ],
-   "event_ids": [
-    "eca0fc692bc0",
-    "79767a596611",
-    "ccb2c5bc9e36",
-    "ebc944549304",
-    "02df7fa6f0a5",
-    "972b0fe1af77",
-    "cc774da80403",
-    "a6788519913e",
-    "55177db2a4ed",
-    "86fc18c35363",
-    "7393363c7b06",
-    "af201c60dedd",
-    "5d1a9e0758ac",
-    "8c89e651a54b",
-    "04d1070ede74",
-    "23dc0dc71791",
-    "62a29032f7f4"
-   ],
-   "first_seen": "2026-09-03",
-   "last_seen": "2026-10-17",
-   "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
-     "sources": 3,
-     "score": 58,
-     "event_id": "eca0fc692bc0",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
-      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260903-tapestry-diplomacy-uk-france-ties-in-focus-as-macron-and-burnham-hold-first-talks"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham | John Crace",
-     "sources": 2,
-     "score": 49,
-     "event_id": "79767a596611",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham",
-      "https://www.france24.com/en/replay-uk-pm-andy-burnham-faces-lawmakers-for-first-time-since-taking-office"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "UK politics: Andy Burnham pressed on borrowing costs and spending at first PMQs – as it happened",
-     "sources": 2,
-     "score": 48,
-     "event_id": "ccb2c5bc9e36",
-     "links": [
-      "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
-      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Andy Burnham blames Tory legacy for leaving UK economy vulnerable",
-     "sources": 2,
-     "score": 44,
-     "event_id": "ebc944549304",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-blames-tory-legacy-uk-economy-vulnerable",
-      "https://www.theguardian.com/politics/video/2026/sep/02/andy-burnham-clashes-with-kemi-badenoch-at-his-first-pmqs-video"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
-     "sources": 1,
-     "score": 41,
-     "event_id": "02df7fa6f0a5",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
-      "https://www.theguardian.com/politics/video/2026/sep/01/andy-burnham-pays-tribute-commons-keir-starmer-stepping-down-mp-video"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Hospitality industry urges Andy Burnham to lay out VAT cut plans",
-     "sources": 2,
-     "score": 46,
-     "event_id": "972b0fe1af77",
-     "links": [
-      "https://www.theguardian.com/business/2026/sep/14/hospitality-industry-andy-burnham-vat-reduction",
-      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
-      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Andy Burnham urged to set dementia waiting-time target",
-     "sources": 2,
-     "score": 46,
-     "event_id": "cc774da80403",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/commentisfree/2026/sep/17/andy-burnham-climate-crisis-funding-peoples-power-projects"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Andy Burnham refuses to back third runway at Heathrow",
-     "sources": 4,
-     "score": 70,
-     "event_id": "a6788519913e",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "The Guardian view on Thames Water: Andy Burnham should nationalise this failed monopoly | Editorial",
-     "sources": 1,
-     "score": 47,
-     "event_id": "55177db2a4ed",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-thames-water-andy-burnham-should-nationalise-this-failed-monopoly",
-      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Wednesday briefing: ​Can Andy Burnham live up to the party’s faith in him?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "86fc18c35363",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/30/wednesday-briefing-can-andy-burnham-live-up-to-the-partys-faith-in-him",
-      "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-review-uk-relationship-with-eu-options"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "France's Macron, Spain's Sanchez welcome idea of UK rejoining EU after Burnham remarks",
-     "sources": 2,
-     "score": 43,
-     "event_id": "7393363c7b06",
-     "links": [
-      "https://www.dw.com/en/france-s-macron-spain-s-sanchez-welcome-idea-of-uk-rejoining-eu-after-burnham-remarks/a-79493469?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/world/2026/sep/30/macron-welcome-back-burnham-suggestion-uk-could-rejoin-eu"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "‘He persuaded us’: Labour ministers moved by Andy Burnham’s emotional conference speech",
-     "sources": 3,
-     "score": 62,
-     "event_id": "af201c60dedd",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/30/labour-ministers-moved-persuaded-andy-burnham-emotional-conference-speech",
-      "https://www.theguardian.com/football/2026/sep/30/andy-burnham-manchester-city-premier-league",
-      "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Burnham vows to seek new ‘long-term’ relationship with EU in emotional Labour conference speech",
-     "sources": 2,
-     "score": 45,
-     "event_id": "5d1a9e0758ac",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
-      "https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Burnham’s emotional solo act had Labour in raptures – but his promises will take time to come good",
-     "sources": 2,
-     "score": 44,
-     "event_id": "8c89e651a54b",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/29/burnhams-emotional-solo-act-had-labour-in-raptures-but-his-promises-will-take-time-to-come-good",
-      "https://www.theguardian.com/politics/video/2026/sep/29/andy-burnham-father-roy-labour-conference-video"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Andy Burnham’s big bold leap - podcast",
-     "sources": 2,
-     "score": 55,
-     "event_id": "04d1070ede74",
-     "links": [
-      "https://www.theguardian.com/news/audio/2026/sep/30/andy-burnhams-big-bold-leap-podcast",
-      "https://www.theguardian.com/commentisfree/2026/sep/29/the-guardian-view-on-andy-burnham-grounds-to-hope-for-a-better-britain",
-      "https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
-     "sources": 2,
-     "score": 40,
-     "event_id": "23dc0dc71791",
-     "links": [
-      "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
-      "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "Stinky business: south London bike shop hit by ‘unbearable’ stench from Thames Water sewer",
-     "sources": 2,
-     "score": 44,
-     "event_id": "62a29032f7f4",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill",
-      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill"
      ]
     }
    ]
@@ -7272,266 +7639,6 @@
    ]
   },
   {
-   "id": "117b4062144e",
-   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-   "section": "science",
-   "entities": [
-    "event",
-    "highlight",
-    "next-gen",
-    "stream",
-    "testing",
-    "contributions",
-    "return",
-    "technologies",
-    "test",
-    "mission",
-    "moon",
-    "data",
-    "starburst",
-    "theft",
-    "annotations",
-    "photo",
-    "remote",
-    "power",
-    "deep",
-    "three",
-    "services",
-    "flights",
-    "briefing",
-    "arrival",
-    "origin",
-    "voyager",
-    "moons",
-    "president",
-    "batteries",
-    "dish",
-    "sets",
-    "develops",
-    "satellite",
-    "readies",
-    "splashdown",
-    "nasa",
-    "humanity",
-    "boosts",
-    "send",
-    "crew"
-   ],
-   "event_ids": [
-    "117b4062144e",
-    "687e9adaf6fb",
-    "887fb7f3bbc2",
-    "730942a6039b",
-    "648eebb8b0ed",
-    "b795c1289008",
-    "b4bda24af3f5",
-    "a2c974f2ab73",
-    "af69ac084ec6",
-    "2dc282f1df7a",
-    "2d1ff4fb2acc",
-    "f33a490284d9",
-    "f57fd11d1f5b",
-    "b85bd3d3a0d8",
-    "dc7b54e8c00a",
-    "b9bfb014cb61",
-    "550aa79730b3"
-   ],
-   "first_seen": "2026-08-29",
-   "last_seen": "2026-10-14",
-   "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-     "sources": 2,
-     "score": 58,
-     "event_id": "117b4062144e",
-     "links": [
-      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
-      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-     "sources": 1,
-     "score": 46,
-     "event_id": "687e9adaf6fb",
-     "links": [
-      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
-      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-     "sources": 5,
-     "score": 81,
-     "event_id": "887fb7f3bbc2",
-     "links": [
-      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
-      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
-      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-     "sources": 1,
-     "score": 46,
-     "event_id": "730942a6039b",
-     "links": [
-      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
-     "sources": 2,
-     "score": 55,
-     "event_id": "648eebb8b0ed",
-     "links": [
-      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-     "sources": 1,
-     "score": 45,
-     "event_id": "b795c1289008",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b4bda24af3f5",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
-      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "NASA Adds New Science Investigations for Moon Base",
-     "sources": 1,
-     "score": 41,
-     "event_id": "a2c974f2ab73",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
-      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
-     "sources": 1,
-     "score": 44,
-     "event_id": "af69ac084ec6",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Artemis II Crew Moon Photo Annotations",
-     "sources": 3,
-     "score": 53,
-     "event_id": "2dc282f1df7a",
-     "links": [
-      "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
-      "https://www.nature.com/articles/d41586-026-03197-7",
-      "https://phys.org/news/2026-10-artemis-ii-crew-moon-photo.html"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
-     "sources": 1,
-     "score": 42,
-     "event_id": "2d1ff4fb2acc",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
-      "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-     "sources": 1,
-     "score": 43,
-     "event_id": "f33a490284d9",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
-      "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
-     "sources": 1,
-     "score": 46,
-     "event_id": "f57fd11d1f5b",
-     "links": [
-      "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
-      "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b85bd3d3a0d8",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
-      "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-     "sources": 1,
-     "score": 44,
-     "event_id": "dc7b54e8c00a",
-     "links": [
-      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-     "sources": 2,
-     "score": 52,
-     "event_id": "b9bfb014cb61",
-     "links": [
-      "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-      "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-     "sources": 1,
-     "score": 45,
-     "event_id": "550aa79730b3",
-     "links": [
-      "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
-      "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "e138211becc3",
    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
    "section": "tech",
@@ -7892,61 +7999,6 @@
      "links": [
       "https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-rdf",
       "https://www.cnbc.com/2026/10/14/trumps-diesel-dilemma-by-the-numbers.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "c695e021eed1",
-   "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-   "section": "tech",
-   "entities": [
-    "saudi",
-    "openai",
-    "toilet"
-   ],
-   "event_ids": [
-    "c695e021eed1",
-    "aa337c25492c",
-    "32f880d6d58b"
-   ],
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-10-14",
-   "timeline": [
-    {
-     "date": "2026-10-13",
-     "headline": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
-     "sources": 5,
-     "score": 68,
-     "event_id": "c695e021eed1",
-     "links": [
-      "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-      "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-      "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
-     "sources": 6,
-     "score": 74,
-     "event_id": "aa337c25492c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-     "sources": 3,
-     "score": 51,
-     "event_id": "32f880d6d58b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -16725,5 +16777,5 @@
    ]
   }
  ],
- "updated": "2026-10-19T18:33:22+00:00"
+ "updated": "2026-10-19T21:25:24+00:00"
 }
