@@ -9,23 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Watch: Will Ukraine get the support needed as tensions with US rise?
-- id události: `de00db75434b`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Watch: Will Ukraine get the support needed as tensions with US rise?
-    <https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss>
-    > Zelensky thanked the "real leaders" ahead of a meeting with the EU in Brussels.
-  - **CNBC Top** — Trump says White House didn't order Starlink restrictions in Ukraine
-    <https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html>
-    > Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.
-  - **Al Jazeera** — EU rallies in support of Ukraine amid Trump standoff
-    <https://www.aljazeera.com/news/2026/10/16/eu-rallies-in-support-of-ukraine-amid-trump-standoff?traffic_source=rss>
-    > Ukraine's Volodymyr Zelenskyy asks EU leaders for extra $79bn to help fight Russia next year.
-  - **Investing.com** — Trump says neither he nor Musk responsible for Ukraine loss of Starlink access
-    <https://www.investing.com/news/commodities-news/trump-says-neither-he-nor-musk-responsible-for-ukraine-starlink-access-4954681>
-
-### 2. Pope discharged from hospital days after lung cancer surgery
+### 1. Pope discharged from hospital days after lung cancer surgery
 - id události: `4e7ca8650904`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -48,7 +32,7 @@
     <https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery>
     > Pope Leo XIV was released from the hospital on Saturday after lung cancer surgery. Doctors removed part of the 71-year-old's right lung last week to extract a cancerous tumour.
 
-### 3. Russia wants blackout in Ukraine as winter comes — Zelenskyy
+### 2. Russia wants blackout in Ukraine as winter comes — Zelenskyy
 - id události: `de3a4fe3e8bb`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -65,7 +49,7 @@
     <https://www.france24.com/en/video/20261017-trump-waives-new-russia-sanctions-as-ukraine-ties-slump>
     > President Donald Trump signed an executive order on Friday that waived sweeping US sanctions and tariffs targeting Russia's energy revenues, marking a new low in Washington's ties with war-torn Ukraine. Our correspondent Gulliver Cragg tells us more.
 
-### 4. Trump says suspension of Russia sanctions is to keep peace negotiations going
+### 3. Trump says suspension of Russia sanctions is to keep peace negotiations going
 - id události: `9aad51dd9229`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -81,6 +65,23 @@
   - **Investing.com** — Oil prices slide as Trump waives Russia sanctions
     <https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158>
 
+### 4. US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
+- id události: `483726046d99`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Guardian World** — US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
+    <https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine>
+    > Mike Huckabee calls for arrest and prosecution of those responsible as Heidi Levine, 63, recovers in hospital in Israel The US ambassador to Israel, Mike Huckabee, has denounced the settler attack that left the Washington Post photojournalist Heidi Levine badly beaten and needing
+  - **France 24** — Israeli settlers attack European diplomats, beat French mayor
+    <https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor>
+    > Israeli settlers attacked a convoy of European diplomats in the West Bank and beat up a visiting French mayor on Saturday, witnesses said, while US Secretary of State Marco Rubio warned against a brewing "crisis" in the territory a day after an American photojournalist was injure
+  - **Al Jazeera** — French mayor attacked by settlers during occupied West Bank olive harvest
+    <https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss>
+    > Bernard Baudoux, Mayor of the French town of Aulnoye-Aymeries, says masked settlers attacked him in occupied West Bank.
+  - **Al Jazeera** — EU condemns Israeli settler attack on diplomats in occupied West Bank
+    <https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss>
+    > EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -89,8 +90,8 @@
 - rubrika: `ai`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
+  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
   - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
-  - Hallucination (artificial intelligence) — <https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)>
 
 ---
 

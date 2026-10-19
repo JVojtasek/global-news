@@ -4041,39 +4041,39 @@
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
    "section": "world",
    "entities": [
-    "houthi",
-    "yemen",
-    "aden",
     "saudi-backed",
-    "taiz",
-    "somalia",
-    "three",
-    "israel-bound",
-    "attack",
-    "riyadh",
-    "western",
-    "trump",
     "yemen's",
-    "second",
-    "mecca",
-    "arabia",
-    "east",
-    "king",
-    "president",
-    "turkey",
-    "deadly",
-    "egypt's",
-    "saudi",
-    "yemeni",
-    "ssisi",
     "asian",
-    "houthis",
-    "york",
+    "deadly",
+    "pakistan",
     "middle",
-    "arabia's",
+    "king",
+    "three",
+    "turkey",
+    "ssisi",
+    "houthis",
+    "east",
+    "york",
+    "president",
+    "arabia",
+    "saudi",
     "aramco",
     "salman",
-    "pakistan"
+    "yemen",
+    "second",
+    "somalia",
+    "riyadh",
+    "mecca",
+    "houthi",
+    "taiz",
+    "aden",
+    "western",
+    "attack",
+    "arabia's",
+    "trump",
+    "egypt's",
+    "yemeni",
+    "israel-bound"
    ],
    "event_ids": [
     "d16d38017cfe",
@@ -4113,7 +4113,8 @@
     "76de81fb62e3",
     "a07b489c718f",
     "c4c3730905e3",
-    "e221d5b35916"
+    "e221d5b35916",
+    "713f2e047f06"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-19",
@@ -4551,6 +4552,17 @@
       "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss",
       "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+     "sources": 2,
+     "score": 50,
+     "event_id": "713f2e047f06",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war"
      ]
     }
    ]
@@ -5382,6 +5394,139 @@
       "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
       "https://www.france24.com/en/americas/20261019-brazil-lula-bolsonaro-debate-election-runoff"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bd5d0f2f7796",
+   "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+   "section": "world",
+   "entities": [
+    "cristiano",
+    "portugal",
+    "fernandes",
+    "world",
+    "ronaldo",
+    "jesus"
+   ],
+   "event_ids": [
+    "bd5d0f2f7796",
+    "43e6847f2fa0",
+    "f4be89c7badb",
+    "4fbabe3bacfc",
+    "6985c1474d56",
+    "1bc51a1eb6c7",
+    "3847220f4e53",
+    "d9a7dbf3e642",
+    "c3205cc82c67"
+   ],
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-10-19",
+   "timeline": [
+    {
+     "date": "2026-09-18",
+     "headline": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+     "sources": 4,
+     "score": 71,
+     "event_id": "bd5d0f2f7796",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Ronaldo spurred on by 1,000 goals and Portugal glory",
+     "sources": 3,
+     "score": 60,
+     "event_id": "43e6847f2fa0",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/23/portugal-vs-wales-uefa-nations-league-teams-start-lineups?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
+     "sources": 2,
+     "score": 46,
+     "event_id": "f4be89c7badb",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
+      "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Ronaldo leaves Portugal camp after coach denies rift",
+     "sources": 3,
+     "score": 52,
+     "event_id": "4fbabe3bacfc",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
+      "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Cristiano Ronaldo walks out of Portugal camp",
+     "sources": 2,
+     "score": 44,
+     "event_id": "6985c1474d56",
+     "links": [
+      "https://www.dw.com/en/cristiano-ronaldo-walks-out-of-portugal-camp/a-79497238?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/1/portugal-coach-responds-after-ronaldo-leaves-camp?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/10/1/why-did-ronaldo-leave-portugals-training-camp-and-will-he-play-again?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "Ronaldo 'greatest symbol' of Portugal -  Fernandes",
+     "sources": 3,
+     "score": 53,
+     "event_id": "1bc51a1eb6c7",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ckq5nd1g14v4o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/03/cristiano-ronaldo-portugal-bruno-fernandes-jorge-jesus-nations-league"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Portugal boss says door open for Ronaldo return",
+     "sources": 2,
+     "score": 41,
+     "event_id": "3847220f4e53",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Ronaldo wants Portugal 'punishment' but not retiring",
+     "sources": 3,
+     "score": 54,
+     "event_id": "d9a7dbf3e642",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/06/cristiano-ronaldo-accuses-portugal-coach-jorge-jesus-of-broken-promises"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Cristiano Ronaldo receives 30-day suspension and £215 fine over Portugal walkout",
+     "sources": 2,
+     "score": 40,
+     "event_id": "c3205cc82c67",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout",
+      "https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus?traffic_source=rss"
      ]
     }
    ]
@@ -11850,127 +11995,6 @@
    ]
   },
   {
-   "id": "bd5d0f2f7796",
-   "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-   "section": "world",
-   "entities": [
-    "world",
-    "cristiano",
-    "jesus",
-    "fernandes",
-    "ronaldo",
-    "portugal"
-   ],
-   "event_ids": [
-    "bd5d0f2f7796",
-    "43e6847f2fa0",
-    "f4be89c7badb",
-    "4fbabe3bacfc",
-    "6985c1474d56",
-    "1bc51a1eb6c7",
-    "3847220f4e53",
-    "d9a7dbf3e642"
-   ],
-   "first_seen": "2026-09-18",
-   "last_seen": "2026-10-06",
-   "timeline": [
-    {
-     "date": "2026-09-18",
-     "headline": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-     "sources": 4,
-     "score": 71,
-     "event_id": "bd5d0f2f7796",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Ronaldo spurred on by 1,000 goals and Portugal glory",
-     "sources": 3,
-     "score": 60,
-     "event_id": "43e6847f2fa0",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/23/portugal-vs-wales-uefa-nations-league-teams-start-lineups?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
-     "sources": 2,
-     "score": 46,
-     "event_id": "f4be89c7badb",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
-      "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Ronaldo leaves Portugal camp after coach denies rift",
-     "sources": 3,
-     "score": 52,
-     "event_id": "4fbabe3bacfc",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
-      "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Cristiano Ronaldo walks out of Portugal camp",
-     "sources": 2,
-     "score": 44,
-     "event_id": "6985c1474d56",
-     "links": [
-      "https://www.dw.com/en/cristiano-ronaldo-walks-out-of-portugal-camp/a-79497238?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/1/portugal-coach-responds-after-ronaldo-leaves-camp?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/10/1/why-did-ronaldo-leave-portugals-training-camp-and-will-he-play-again?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-03",
-     "headline": "Ronaldo 'greatest symbol' of Portugal -  Fernandes",
-     "sources": 3,
-     "score": 53,
-     "event_id": "1bc51a1eb6c7",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ckq5nd1g14v4o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/oct/03/cristiano-ronaldo-portugal-bruno-fernandes-jorge-jesus-nations-league"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Portugal boss says door open for Ronaldo return",
-     "sources": 2,
-     "score": 41,
-     "event_id": "3847220f4e53",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Ronaldo wants Portugal 'punishment' but not retiring",
-     "sources": 3,
-     "score": 54,
-     "event_id": "d9a7dbf3e642",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/oct/06/cristiano-ronaldo-accuses-portugal-coach-jorge-jesus-of-broken-promises"
-     ]
-    }
-   ]
-  },
-  {
    "id": "c64cc7683a93",
    "title": "Sabalenka fights back to keep US Open defence alive",
    "section": "sport",
@@ -16701,5 +16725,5 @@
    ]
   }
  ],
- "updated": "2026-10-19T15:27:26+00:00"
+ "updated": "2026-10-19T18:33:22+00:00"
 }
