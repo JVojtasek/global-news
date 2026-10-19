@@ -9,27 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
-- id události: `363fbc099b39`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
-    <https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss>
-    > The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.
-  - **The Guardian World** — Israeli settlers attack olive farmers and Washington Post journalist in West Bank
-    <https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine>
-    > Settlers hurl rocks at Palestinians and beat photographer Heidi Levine as part of yearly attacks to disrupt harvest Israeli settlers have attacked Palestinians across the occupied West Bank in a coordinated movement to disrupt the annual olive harvest, burning cars and trees and 
-  - **France 24** — US journalist injured during Israeli settler attack on West Bank olive harvest
-    <https://www.france24.com/en/middle-east/20261016-us-journalist-injured-during-israeli-settler-attack-on-west-bank-olive-harvest>
-    > About 80 Israeli settlers set fire to olive trees and threw stones at Palestinians in a West Bank village Friday, injuring at least two people, including a US photojournalist with The Washington Post. The coordinated attack came as violence by settlers is on the rise during the o
-  - **Al Jazeera** — Palestinians, US journalist attacked in West Bank pogrom: What we know
-    <https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss>
-    > Israeli settlers attacked Palestinians harvesting olives and severely beat Washington Post photojournalist Heidi Levine.
-  - **Al Jazeera** — Israeli settlers continue pogrom amid olive harvest in occupied West Bank
-    <https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss>
-    > At least two people, including Washington Post journalist, injured as settlers armed with clubs and guns attack.
-
-### 2. Watch: Will Ukraine get the support needed as tensions with US rise?
+### 1. Watch: Will Ukraine get the support needed as tensions with US rise?
 - id události: `de00db75434b`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -45,7 +25,7 @@
   - **Investing.com** — Trump says neither he nor Musk responsible for Ukraine loss of Starlink access
     <https://www.investing.com/news/commodities-news/trump-says-neither-he-nor-musk-responsible-for-ukraine-starlink-access-4954681>
 
-### 3. Pope discharged from hospital days after lung cancer surgery
+### 2. Pope discharged from hospital days after lung cancer surgery
 - id události: `4e7ca8650904`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -68,7 +48,7 @@
     <https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery>
     > Pope Leo XIV was released from the hospital on Saturday after lung cancer surgery. Doctors removed part of the 71-year-old's right lung last week to extract a cancerous tumour.
 
-### 4. Russia wants blackout in Ukraine as winter comes — Zelenskyy
+### 3. Russia wants blackout in Ukraine as winter comes — Zelenskyy
 - id události: `de3a4fe3e8bb`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -85,6 +65,22 @@
     <https://www.france24.com/en/video/20261017-trump-waives-new-russia-sanctions-as-ukraine-ties-slump>
     > President Donald Trump signed an executive order on Friday that waived sweeping US sanctions and tariffs targeting Russia's energy revenues, marking a new low in Washington's ties with war-torn Ukraine. Our correspondent Gulliver Cragg tells us more.
 
+### 4. Trump says suspension of Russia sanctions is to keep peace negotiations going
+- id události: `9aad51dd9229`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Trump says suspension of Russia sanctions is to keep peace negotiations going
+    <https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss>
+    > The US president blocked numerous sanctions on Russia two days before they were due to take effect.
+  - **DW News** — Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war'
+    <https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf>
+    > US President Donald Trump again accused Ukrainian President Volodymyr Zelenskyy of not wanting to end the war. The remarks come amid renewed tensions over US policy toward Moscow including waiving some sanctions.
+  - **France 24** — Trump defends Russia sanctions relief, blasts Zelensky on peace
+    <https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions>
+    > US President Donald Trump on Sunday accused Ukrainian President Volodymyr Zelensky of prolonging the war with Russia, claiming Kyiv had little interest in peace. Trump said negotiations to end the four-year conflict were making “great progress” but alleged Zelensky was reluctant 
+  - **Investing.com** — Oil prices slide as Trump waives Russia sanctions
+    <https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158>
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -93,7 +89,7 @@
 - rubrika: `ai`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
-  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
+  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
   - Hallucination (artificial intelligence) — <https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)>
 
 ---
@@ -150,7 +146,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-09-21  (2 zdrojů, síla 43)  Trump to meet Macron in New York before UN General Assembly
   2026-09-21  (2 zdrojů, síla 46)  Burnham hails Greenland deal ahead of expected first Trump meeting
   2026-09-21  (1 zdrojů, síla 44)  The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
   2026-09-22  (1 zdrojů, síla 46)  For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
@@ -170,6 +165,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-18  (2 zdrojů, síla 48)  Israeli settlers attack Palestinians in West Bank during olive harvest
   2026-10-18  (2 zdrojů, síla 50)  West Bank: Israeli settlers attack EU diplomats, French mayor
   2026-10-18  (3 zdrojů, síla 62)  US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
+  2026-10-19  (1 zdrojů, síla 41)  Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
 ```
 
 ---

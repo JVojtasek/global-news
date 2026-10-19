@@ -23,9 +23,8 @@ Paměť obsahuje **156 vláken**. Aktivních za posledních 14 dní: **53**.
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 66 dní · 60 záznamů
+- rubrika `world` · sledováno 67 dní · 60 záznamů
 - časová osa:
-  - **2026-10-08** (2 zdrojů) Germany news: UK's Burnham visits Berlin for talks with Merz
   - **2026-10-12** (2 zdrojů) UK's Burnham accuses Russia of meddling in Brexit vote
   - **2026-10-14** (1 zdrojů) Do any of these Israeli candidates support a Palestinian state?
   - **2026-10-16** (2 zdrojů) Repairing Brexit economic damage should be Burnham’s top priority, business chief says
@@ -35,11 +34,11 @@ Paměť obsahuje **156 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-18** (2 zdrojů) Israeli settlers attack Palestinians in West Bank during olive harvest
   - **2026-10-18** (2 zdrojů) West Bank: Israeli settlers attack EU diplomats, French mayor
   - **2026-10-18** (3 zdrojů) US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
+  - **2026-10-19** (1 zdrojů) Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 61 dní · 60 záznamů
+- rubrika `sport` · sledováno 62 dní · 60 záznamů
 - časová osa:
-  - **2026-10-15** (2 zdrojů) Jackson steps up again as Aston Villa revival continues
   - **2026-10-15** (2 zdrojů) Manchester City, the UAE and the UK's OM in a political tangle
   - **2026-10-15** (1 zdrojů) Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
   - **2026-10-15** (3 zdrojů) Football regulator says he would quit over Man City political interference
@@ -49,11 +48,11 @@ Paměť obsahuje **156 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-18** (2 zdrojů) LIVE: Leeds United vs Manchester United – Premier League
   - **2026-10-18** (2 zdrojů) Manchester City owner’s £55m housing loan while Burnham was mayor investigated
   - **2026-10-18** (3 zdrojů) Man Utd showed 'unity' in draw with Leeds - Carrick
+  - **2026-10-19** (1 zdrojů) Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 64 dní · 60 záznamů
+- rubrika `world` · sledováno 69 dní · 60 záznamů
 - časová osa:
-  - **2026-09-30** (2 zdrojů) Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
   - **2026-09-30** (2 zdrojů) ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
   - **2026-09-30** (2 zdrojů) Questions remain over Iran’s link to alleged RAF Fairford bomb plot
   - **2026-10-01** (2 zdrojů) Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
@@ -63,6 +62,7 @@ Paměť obsahuje **156 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-04** (2 zdrojů) Ukraine ready for US-backed talks with Russia: Zelenskyy
   - **2026-10-13** (2 zdrojů) ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
   - **2026-10-14** (2 zdrojů) Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns
+  - **2026-10-19** (2 zdrojů) Strait of Hormuz scoured for spilt cargo after Iran attacks container ships
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 60 dní · 60 záznamů
