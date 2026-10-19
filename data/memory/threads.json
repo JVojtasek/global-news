@@ -2151,6 +2151,34 @@
    ]
   },
   {
+   "id": "1bda06db0e79",
+   "title": "UN food program cuts aid to 500,000 Palestinians in Gaza",
+   "section": "world",
+   "entities": [
+    "palestinians",
+    "gaza"
+   ],
+   "event_ids": [
+    "1bda06db0e79"
+   ],
+   "first_seen": "2026-10-19",
+   "last_seen": "2026-10-19",
+   "timeline": [
+    {
+     "date": "2026-10-19",
+     "headline": "UN food program cuts aid to 500,000 Palestinians in Gaza",
+     "sources": 3,
+     "score": 55,
+     "event_id": "1bda06db0e79",
+     "links": [
+      "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
+      "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "09443cca3ddd",
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
@@ -16633,5 +16661,5 @@
    ]
   }
  ],
- "updated": "2026-10-19T09:37:20+00:00"
+ "updated": "2026-10-19T12:39:27+00:00"
 }
