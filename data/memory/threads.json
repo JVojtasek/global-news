@@ -5,46 +5,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "saudi",
     "northeastern",
-    "brics",
-    "removals",
-    "back",
-    "tiny",
-    "moscow",
-    "saudis",
-    "block",
-    "russia",
-    "putin",
-    "gulf",
-    "zelenskyy",
+    "riyadh",
     "bringing",
-    "trump",
-    "korea",
+    "kyiv's",
+    "briton",
+    "saudi",
+    "fish",
+    "across",
+    "moscow",
+    "russia",
+    "seoul's",
+    "donald",
+    "zelenskyy",
+    "brics",
+    "europe",
+    "block",
+    "removals",
+    "germany",
+    "russian",
+    "starlink",
+    "down",
+    "spacex",
+    "united",
+    "poland",
+    "britain",
     "centcom",
     "states",
-    "russian",
-    "germany",
-    "iran",
-    "poland",
     "modi",
-    "starlink",
-    "spacex",
-    "europe",
-    "kyiv's",
-    "seoul's",
-    "briton",
-    "kuwait",
-    "riyadh",
     "times",
-    "down",
+    "president",
+    "putin",
+    "tiny",
+    "kuwait",
+    "gulf",
+    "korea",
+    "iran",
     "iran's",
-    "lyon",
-    "across",
-    "united",
-    "fish",
-    "south",
-    "britain"
+    "saudis",
+    "ukrainian",
+    "back"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -198,23 +198,12 @@
     "de3a4fe3e8bb",
     "c360ff3e4c70",
     "8094cfe51f00",
-    "9aad51dd9229"
+    "9aad51dd9229",
+    "505d813f1cee"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-19",
    "timeline": [
-    {
-     "date": "2026-09-18",
-     "headline": "Macron convenes French party leaders as soaring energy prices put focus on wars in Iran and Ukraine",
-     "sources": 2,
-     "score": 51,
-     "event_id": "baf701a61c0f",
-     "links": [
-      "https://www.france24.com/en/macron-convenes-french-party-leaders-as-soaring-energy-prices-put-focus-on-wars-in-iran-and-ukraine",
-      "https://www.aljazeera.com/news/2026/9/18/russia-seizes-assets-of-french-firms-summons-uk-envoy-over-ukraine-support?traffic_source=rss",
-      "https://www.france24.com/en/video/20260918-ukraine-strikes-continue-as-polling-stations-open-in-russia"
-     ]
-    },
     {
      "date": "2026-09-26",
      "headline": "Iran offers US deal to reopen Strait of Hormuz in seven days",
@@ -886,6 +875,17 @@
       "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+     "sources": 2,
+     "score": 45,
+     "event_id": "505d813f1cee",
+     "links": [
+      "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss"
      ]
     }
    ]
@@ -16594,5 +16594,5 @@
    ]
   }
  ],
- "updated": "2026-10-19T01:01:24+00:00"
+ "updated": "2026-10-19T03:33:29+00:00"
 }

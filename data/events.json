@@ -410,55 +410,6 @@
   ]
  },
  {
-  "id": "41d2a43ff64d",
-  "headline": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-  "section": "tech",
-  "score": 56,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-10-16T03:30:46+00:00",
-  "event_time": "2026-10-16T01:28:27+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-    "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
-    "source": "The Verge",
-    "summary": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car that likely will come with some […]",
-    "published_at": "2026-10-16T01:28:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-16T03:30:41+00:00"
-   },
-   {
-    "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-    "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-    "source": "TechCrunch",
-    "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
-    "published_at": "2026-10-16T01:17:43+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-16T03:30:41+00:00"
-   },
-   {
-    "title": "Tesla unveils Cyberfied new Roadster that can kickflip",
-    "url": "https://electrek.co/2026/10/15/tesla-unveils-cyberfied-new-roadster-kickflip/",
-    "source": "Electrek",
-    "summary": "Tesla has unveiled a new version of its next-generation Roadster. As expected, it received Tesla’s latest design “cyberfication” and cold-gas thrusters to allow it to jump and flip through the air. The livestream featured impressive stunts but offered few details. Tesla released more information on X after the event, but there’s still no price and no production date. more…",
-    "published_at": "2026-10-16T01:43:32+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-16T03:30:41+00:00"
-   },
-   {
-    "title": "Alef welcomes Tesla to the electric flying car race by flying over the Roadster [Video]",
-    "url": "https://electrek.co/2026/10/15/alefs-electric-flying-car-flies-over-tesla-roadster-video/",
-    "source": "Electrek",
-    "summary": "Until the Tesla Roadster, “there was only one car in the flying car market,” Alef said. To welcome Tesla to the race, Alef released a video of its flying car flying over the new Roadster. more…",
-    "published_at": "2026-10-16T01:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-16T03:30:41+00:00"
-   }
-  ]
- },
- {
   "id": "17e92c94b911",
   "headline": "Madueke strikes late but who missed his big chance? - Forest v Arsenal ratings",
   "section": "sport",
@@ -495,6 +446,55 @@
     "published_at": "2026-10-18T17:39:57+00:00",
     "source_countries": [],
     "seen_at": "2026-10-18T18:27:58+00:00"
+   }
+  ]
+ },
+ {
+  "id": "02bad27ee6e6",
+  "headline": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+  "section": "world",
+  "score": 55,
+  "sources_count": 4,
+  "depth_signal": 0,
+  "created": "2026-10-19T03:33:28+00:00",
+  "event_time": "2026-10-19T02:41:41+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+    "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+    "published_at": "2026-10-19T02:41:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
+   },
+   {
+    "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+    "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+    "published_at": "2026-10-19T02:41:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
+   },
+   {
+    "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+    "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+    "published_at": "2026-10-19T02:41:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
+   },
+   {
+    "title": "Anthropic says it will commit 5% of shares to ‘public benefit’ fund",
+    "url": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Claude creator says fund could be used for donations to NGOs and 'direct distributions to specific populations'.",
+    "published_at": "2026-10-19T03:23:54+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
    }
   ]
  },
@@ -868,37 +868,6 @@
   ]
  },
  {
-  "id": "ec13367c2ac3",
-  "headline": "Three children and teacher killed by 16-year-old at Oregon primary school",
-  "section": "world",
-  "score": 49,
-  "sources_count": 2,
-  "depth_signal": 5,
-  "created": "2026-10-16T03:30:46+00:00",
-  "event_time": "2026-10-16T03:01:38+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
-    "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The suspect was shot dead by a local community member who followed him into the school, said police.",
-    "published_at": "2026-10-16T03:01:38+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-16T03:30:41+00:00"
-   },
-   {
-    "title": "Oregon school shooting: 3 children, teacher killed; 16-year-old gunman dies after community member pursues him into school",
-    "url": "https://www.dw.com/en/oregon-school-shooting-3-children-teacher-killed-16-year-old-gunman-dies-after-community-member-pursues-him-into-school/a-79674849?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "A 16-year-old gunman killed three children and a teacher at an elementary school in Bend, Oregon, and wounded two others. A community member pursued and killed the suspected shooter, authorities said.",
-    "published_at": "2026-10-15T21:59:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-16T03:30:41+00:00"
-   }
-  ]
- },
- {
   "id": "1639b8196791",
   "headline": "Dad fined after son, 2, died in Cyprus hotel fall",
   "section": "world",
@@ -1267,6 +1236,68 @@
     "published_at": "2026-10-18T04:59:29+00:00",
     "source_countries": [],
     "seen_at": "2026-10-18T06:36:56+00:00"
+   }
+  ]
+ },
+ {
+  "id": "78e83bbfdec1",
+  "headline": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+  "section": "world",
+  "score": 45,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-10-19T03:33:28+00:00",
+  "event_time": "2026-10-19T01:50:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+    "url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
+    "published_at": "2026-10-19T01:50:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
+   },
+   {
+    "title": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Bollywood actor Tiger Shroff escaped unharmed after gunmen opened fire at his vehicle in Mumbai, India",
+    "published_at": "2026-10-18T17:58:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
+   }
+  ]
+ },
+ {
+  "id": "505d813f1cee",
+  "headline": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+  "section": "world",
+  "score": 45,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-10-19T03:33:29+00:00",
+  "event_time": "2026-10-16T19:42:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+    "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "EU leaders reaffirmed support for Ukraine at the Brussels summit. But souring relations with the US over Russia and Starlink and a big hole in the budget will make for a difficult winter for Ukraine.",
+    "published_at": "2026-10-16T19:42:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
+   },
+   {
+    "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+    "url": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
+    "published_at": "2026-10-19T03:10:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
    }
   ]
  },
@@ -3228,6 +3259,37 @@
   ]
  },
  {
+  "id": "8294376ada50",
+  "headline": "China's growth accelerates as AI export boom outweighs domestic weakness",
+  "section": "business",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-10-19T03:33:29+00:00",
+  "event_time": "2026-10-19T03:17:46+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+    "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+    "published_at": "2026-10-19T03:17:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
+   },
+   {
+    "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+    "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+    "published_at": "2026-10-19T03:17:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
+   }
+  ]
+ },
+ {
   "id": "1a106cb757f5",
   "headline": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
   "section": "tech",
@@ -3467,30 +3529,6 @@
     "published_at": "2026-08-28T00:00:00+00:00",
     "source_countries": [],
     "seen_at": "2026-10-16T21:23:03+00:00"
-   }
-  ]
- },
- {
-  "id": "92a976a0d1ce",
-  "headline": "Prime Minister Babiš following the V4 meeting: The next European budget must be fair and balanced",
-  "section": "world",
-  "score": 38,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-16T03:30:46+00:00",
-  "event_time": "2026-09-24T08:55:42+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Prime Minister Babiš following the V4 meeting: The next European budget must be fair and balanced",
-    "url": "https://vlada.gov.cz/en/media-centrum/aktualne/prime-minister-babis-following-the-v4-meeting-the-next-european-budget-must-be-fair-and-balanced-228991/",
-    "source": "Czech Government",
-    "summary": "On Thursday 10 September 2026, Prime Minister Andrej Babiš attended a meeting in Bratislava of the prime ministers of the Visegrád Four countries and Ireland. The Prime Ministers of the Czech Republic, Slovakia, Poland and Hungary met at Bratislava Castle with their Irish counterpart, Micheál Martin – whose country currently holds the EU Presidency – to discuss, in particular, the EU’s next multia",
-    "published_at": "2026-09-24T08:55:42+00:00",
-    "source_countries": [
-     "cz"
-    ],
-    "seen_at": "2026-10-16T03:30:41+00:00"
    }
   ]
  },
@@ -4424,50 +4462,6 @@
     "published_at": "2026-10-18T03:27:40+00:00",
     "source_countries": [],
     "seen_at": "2026-10-18T15:23:55+00:00"
-   }
-  ]
- },
- {
-  "id": "8e8aea70dcb1",
-  "headline": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-  "section": "world",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-10-16T03:30:46+00:00",
-  "event_time": "2026-10-16T01:36:45+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-    "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
-    "published_at": "2026-10-16T01:36:45+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-16T03:30:41+00:00"
-   }
-  ]
- },
- {
-  "id": "4e18d79e3a98",
-  "headline": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
-  "section": "world",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-10-16T03:30:46+00:00",
-  "event_time": "2026-10-16T02:56:21+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
-    "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "'The Palestinian question is the greatest historical injustice of this century,' China's foreign minister said.",
-    "published_at": "2026-10-16T02:56:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-16T03:30:41+00:00"
    }
   ]
  },
@@ -5859,6 +5853,50 @@
   ]
  },
  {
+  "id": "31c2c6c1ab76",
+  "headline": "‘Limited evidence’ of protester violence at Sydney demonstration against Israeli president Isaac Herzog visit",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-19T03:33:29+00:00",
+  "event_time": "2026-10-19T01:39:12+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘Limited evidence’ of protester violence at Sydney demonstration against Israeli president Isaac Herzog visit",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/19/limited-evidence-violence-sydney-protest-herzog-visit-police-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Amid police brutality allegations, inquiry hears protesters against visit of Israeli president were ‘largely peaceful’ Get our new political email , free app or daily news podcast An inquiry into a Sydney rally against the Israeli president’s visit has so far found protesters were “largely peaceful” and there is “limited evidence of physical violence on the part of the protesters”. The Law Enforce",
+    "published_at": "2026-10-19T01:39:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ecfd9e161d2f",
+  "headline": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-19T03:33:29+00:00",
+  "event_time": "2026-10-19T00:57:46+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns",
+    "url": "https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnsns",
+    "source": "The Guardian World",
+    "summary": "Of the dozens of countries approached to water down their laws, Australia appears to be the only one considering it, publishers’ group says Get our new political email , free app or daily news podcast AI has already been trained on the works of Australian artists including Kylie Minogue and Nick Cave without compensation, the peak global body for music rights has claimed, as the Australian governm",
+    "published_at": "2026-10-19T00:57:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
+   }
+  ]
+ },
+ {
   "id": "b60d165287f5",
   "headline": "Barack Obama pays tribute to Manchester cotton workers and cites them as an inspiration",
   "section": "world",
@@ -6759,6 +6797,50 @@
     "published_at": "2026-10-18T22:22:51+00:00",
     "source_countries": [],
     "seen_at": "2026-10-19T01:01:18+00:00"
+   }
+  ]
+ },
+ {
+  "id": "fe94c1c2bb03",
+  "headline": "Former Labor attorney general turned judge Robert McClelland named new anti-corruption boss",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-19T03:33:29+00:00",
+  "event_time": "2026-10-19T03:00:04+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Former Labor attorney general turned judge Robert McClelland named new anti-corruption boss",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/19/former-labor-attorney-general-robert-mcclelland-named-new-nacc-boss",
+    "source": "The Guardian World",
+    "summary": "McClelland, who served in the Rudd government, named as boss of National Anti-Corruption Commission after Paul Brereton quit in May Former Labor attorney general and federal court judge Robert McClelland has been named as the new boss of the National Anti-Corruption Commission. McClelland was the country’s top law officer in the Rudd government, serving from 2007 until 2011. He has served as the d",
+    "published_at": "2026-10-19T03:00:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
+   }
+  ]
+ },
+ {
+  "id": "9951afaa5a10",
+  "headline": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-19T03:33:29+00:00",
+  "event_time": "2026-10-18T18:57:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
+    "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+    "source": "The Guardian World",
+    "summary": "Ministers, officials and police under pressure over response to protests as government holds crisis talks amid ‘colossal failure of the state’ The French president, Emmanuel Macron, has criticised “unbridled violence” after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and looted and at least 2,400 people arrested in cities across the cou",
+    "published_at": "2026-10-18T18:57:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
    }
   ]
  },
@@ -7885,6 +7967,50 @@
   ]
  },
  {
+  "id": "555308cc6175",
+  "headline": "Threat forces Israel to Austria flight into emergency landing",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-19T03:33:28+00:00",
+  "event_time": "2026-10-19T02:41:50+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Threat forces Israel to Austria flight into emergency landing",
+    "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+    "published_at": "2026-10-19T02:41:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
+   }
+  ]
+ },
+ {
+  "id": "13baa923773a",
+  "headline": "Australian Greens senator denies claims of misconduct towards women",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-19T03:33:29+00:00",
+  "event_time": "2026-10-19T01:32:40+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Australian Greens senator denies claims of misconduct towards women",
+    "url": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
+    "published_at": "2026-10-19T01:32:40+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-19T03:33:25+00:00"
+   }
+  ]
+ },
+ {
   "id": "2485a1df2f4d",
   "headline": "Ukraine and the U.S. are at odds over Starshield. Here's what to know",
   "section": "world",
@@ -8207,156 +8333,46 @@
   ]
  },
  {
-  "id": "e728e71a26e3",
-  "headline": "France reports almost 2,400 arrests after riots, looting and arson during cost-of-living protests",
+  "id": "312a8a94b2a0",
+  "headline": "Austrian Airlines flight from Tel Aviv makes emergency landing after bomb threat",
   "section": "world",
-  "score": 31,
+  "score": 32,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-10-18T21:22:51+00:00",
-  "event_time": "2026-10-18T10:26:00+00:00",
+  "created": "2026-10-19T03:33:29+00:00",
+  "event_time": "2026-10-19T03:22:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "France reports almost 2,400 arrests after riots, looting and arson during cost-of-living protests",
-    "url": "https://www.dw.com/en/france-reports-almost-2-400-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-rdf",
+    "title": "Austrian Airlines flight from Tel Aviv makes emergency landing after bomb threat",
+    "url": "https://www.dw.com/en/austrian-airlines-flight-from-tel-aviv-makes-emergency-landing-after-bomb-threat/a-79695070?maca=en-rss-en-all-1573-rdf",
     "source": "DW News",
-    "summary": "Rioters torched public buildings and looted shops across France, destroying Limoges' historic town hall. The violence erupted during nationwide cost-of-living protests.",
-    "published_at": "2026-10-18T10:26:00+00:00",
+    "summary": "An Austrian Airlines flight from Tel Aviv to Vienna made an emergency landing in Bulgaria after a bomb threat was reported near the Bulgarian-Romanian border. A MiG-29 fighter jet escorted the plane.",
+    "published_at": "2026-10-19T03:22:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-18T21:22:48+00:00"
+    "seen_at": "2026-10-19T03:33:25+00:00"
    }
   ]
  },
  {
-  "id": "8c7aa3c99443",
-  "headline": "REPLAY: French President Emmanuel Macron addresses the nation after unrest",
-  "section": "world",
-  "score": 31,
+  "id": "bdad458aadf3",
+  "headline": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+  "section": "tech",
+  "score": 32,
   "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-18T21:22:51+00:00",
-  "event_time": "2026-10-18T18:33:34+00:00",
+  "depth_signal": 2,
+  "created": "2026-10-19T03:33:29+00:00",
+  "event_time": "2026-10-16T07:56:32+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "REPLAY: French President Emmanuel Macron addresses the nation after unrest",
-    "url": "https://www.france24.com/en/video/20261018-replay-french-president-emmanuel-macron-addresses-the-nation-after-unrest",
-    "source": "France 24",
-    "summary": "French President Emmanuel Macron on Sunday vowed there would be \"full transparency\" over the response by security forces to protests that turned violent this weekend, after criticism that police preparations had been inadequate.",
-    "published_at": "2026-10-18T18:33:34+00:00",
+    "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+    "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+    "source": "MIT Tech Review",
+    "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing Facebook, TikTok, and other platforms in early…",
+    "published_at": "2026-10-16T07:56:32+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-18T21:22:48+00:00"
-   }
-  ]
- },
- {
-  "id": "24f201b3ec83",
-  "headline": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-19T01:01:24+00:00",
-  "event_time": "2026-10-18T22:48:26+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
-    "url": "https://www.theguardian.com/australia-news/2026/oct/19/man-charged-dulwich-hill-sydney-inner-west-alleged-gun-ntwnfb",
-    "source": "The Guardian World",
-    "summary": "Police responding to reports of an alleged stolen car in Dulwich Hill were told a man was armed with a firearm Get our breaking news email , free app or daily news podcast An alleged gunman with “shaggy hair” has been arrested following reports of a confrontation about an allegedly stolen car which was set on fire prompting him to flee the scene. The 32-year-old man was arrested late Sunday in Syd",
-    "published_at": "2026-10-18T22:48:26+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-19T01:01:18+00:00"
-   }
-  ]
- },
- {
-  "id": "397f6d67f2ea",
-  "headline": "Andy Burnham launches campaign against ‘headphone dodgers’ on public transport",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-19T01:01:24+00:00",
-  "event_time": "2026-10-18T23:01:12+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Andy Burnham launches campaign against ‘headphone dodgers’ on public transport",
-    "url": "https://www.theguardian.com/politics/2026/oct/19/andy-burnham-launches-campaign-against-headphone-dodgers-on-public-transport",
-    "source": "The Guardian World",
-    "summary": "Passengers urged to ‘share the carriage, not the noise’ as guidance sets out £100 penalties for nuisance behaviour Andy Burnham has announced a crackdown on “headphone dodgers” who play loud music on public transport, as he extends his promise to give voters “breathing space” in the confines of a train carriage. The prime minister will unveil a campaign against nuisance behaviour on public transpo",
-    "published_at": "2026-10-18T23:01:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-19T01:01:18+00:00"
-   }
-  ]
- },
- {
-  "id": "90e93dae573b",
-  "headline": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-19T01:01:24+00:00",
-  "event_time": "2026-10-18T12:00:57+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Trump defers federal diesel taxes to help farmers, but states issue warnings",
-    "url": "https://www.npr.org/2026/10/18/nx-s1-5996662/trump-suspends-federal-diesel-taxes-to-help-farmers-but-states-issue-warnings",
-    "source": "NPR News",
-    "summary": "President Trump's executive order deferring federal taxes on diesel is aimed at helping farmers but it's more complicated than it sounds and states are warning drivers they may owe taxes later.",
-    "published_at": "2026-10-18T12:00:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-19T01:01:18+00:00"
-   }
-  ]
- },
- {
-  "id": "b6386dfbafa4",
-  "headline": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-19T01:01:24+00:00",
-  "event_time": "2026-10-18T22:04:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
-    "url": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "A senior health official in Kenya said there have now been 8 Ebola infections in the country, while in DR Congo the disease has spread to an eighth province.",
-    "published_at": "2026-10-18T22:04:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-19T01:01:18+00:00"
-   }
-  ]
- },
- {
-  "id": "3190d307aac6",
-  "headline": "Microsoft pulls out of UK's largest AI data centre",
-  "section": "business",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-19T01:01:24+00:00",
-  "event_time": "2026-10-18T16:46:42+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Microsoft pulls out of UK's largest AI data centre",
-    "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Tech firm Nscale says it is still committed to building the site in Essex.",
-    "published_at": "2026-10-18T16:46:42+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-19T01:01:18+00:00"
+    "seen_at": "2026-10-19T03:33:25+00:00"
    }
   ]
  }

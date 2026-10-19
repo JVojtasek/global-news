@@ -9,7 +9,6 @@ Paměť obsahuje **155 vláken**. Aktivních za posledních 14 dní: **53**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 71 dní · 60 záznamů
 - časová osa:
-  - **2026-10-15** (4 zdrojů) Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
   - **2026-10-15** (2 zdrojů) North Korea and China open new bridge after 12-year delay
   - **2026-10-15** (2 zdrojů) Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'
   - **2026-10-16** (2 zdrojů) Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'
@@ -19,6 +18,7 @@ Paměť obsahuje **155 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-17** (2 zdrojů) Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
   - **2026-10-17** (2 zdrojů) Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
   - **2026-10-19** (4 zdrojů) Trump says suspension of Russia sanctions is to keep peace negotiations going
+  - **2026-10-19** (2 zdrojů) Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
