@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-19
+# ANALYTICKÉ ZADÁNÍ — 2026-10-20
 
-Paměť obsahuje **156 vláken**. Aktivních za posledních 14 dní: **53**.
+Paměť obsahuje **157 vláken**. Aktivních za posledních 14 dní: **53**.
 
 ---
 
@@ -98,9 +98,9 @@ Paměť obsahuje **156 vláken**. Aktivních za posledních 14 dní: **53**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **Feminist activist and journalist Gloria Steinem dies, aged 92** — naposledy 2026-09-04, celkem 3 záznamů
 - **Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies** — naposledy 2026-09-03, celkem 3 záznamů
 - **Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock** — naposledy 2026-08-31, celkem 3 záznamů
 - **US states call for big changes to Instagram and Facebook as Meta child privacy trial begins** — naposledy 2026-08-26, celkem 3 záznamů
 - **Trump pauses new tariffs on Canada and says countries close to a deal** — naposledy 2026-08-24, celkem 5 záznamů
 - **‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother** — naposledy 2026-08-22, celkem 4 záznamů
-- **Watch: BBC asks Infantino if he will resign as Fifa president** — naposledy 2026-08-17, celkem 3 záznamů
