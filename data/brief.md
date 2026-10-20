@@ -9,30 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Pope discharged from hospital days after lung cancer surgery
-- id události: `4e7ca8650904`  ·  rubrika: `world`  ·  skóre: 69  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Pope discharged from hospital days after lung cancer surgery
-    <https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss>
-    > The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.
-  - **BBC Health** — Pope discharged from hospital days after lung cancer surgery
-    <https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss>
-    > The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.
-  - **NPR News** — Pope Leo XIV leaves hospital days after lung cancer surgery
-    <https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery>
-    > The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in November.
-  - **DW News** — Pope Leo leaves hospital after cancer surgery
-    <https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-rdf>
-    > Four days after undergoing surgery for lung cancer, Pope Leo left the hospital in Rome. His doctors said he was well enough to return home.
-  - **The Guardian World** — Pope Leo discharged from hospital after cancer operation
-    <https://www.theguardian.com/world/2026/oct/17/pope-leo-discharged-from-hospital-after-cancer-operation>
-    > Doctors say pontiff is ‘fit for discharge’ after operation to remove cancerous tumour from his lung Pope Leo lung cancer surgery: what kind of operation did he have and what happens next? Pope Leo has been discharged from hospital in Rome after undergoing an operation to remove a
-  - **France 24** — Pope Leo returns to Vatican four days after lung cancer surgery
-    <https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery>
-    > Pope Leo XIV was released from the hospital on Saturday after lung cancer surgery. Doctors removed part of the 71-year-old's right lung last week to extract a cancerous tumour.
-
-### 2. Trump says suspension of Russia sanctions is to keep peace negotiations going
+### 1. Trump says suspension of Russia sanctions is to keep peace negotiations going
 - id události: `9aad51dd9229`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -48,7 +25,7 @@
   - **Investing.com** — Oil prices slide as Trump waives Russia sanctions
     <https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158>
 
-### 3. US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
+### 2. US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
 - id události: `483726046d99`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -65,7 +42,7 @@
     <https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss>
     > EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.
 
-### 4. Man Utd showed 'unity' in draw with Leeds - Carrick
+### 3. Man Utd showed 'unity' in draw with Leeds - Carrick
 - id události: `113115a6c0d2`  ·  rubrika: `sport`  ·  skóre: 60  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -82,6 +59,20 @@
     <https://www.theguardian.com/football/live/2026/oct/18/leeds-v-manchester-united-premier-league-live>
     > Leeds’ Dominic Calvert-Lewin cancelled out a Bryan Mbeumo opener to end a turbulent week for the visitors ⚽ The Joy of Six: Leeds v Manchester United matches Daniel Farke , Leeds manager, is the next to speak to Sky Sports: We have to make sure we give them nothing. We want to ma
 
+### 4. Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
+- id události: `5926bff6ce39`  ·  rubrika: `world`  ·  skóre: 60  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **NPR News** — Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
+    <https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu>
+    > Trump said in a post on social media that Netanyahu "has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran."
+  - **CNBC Top** — Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates
+    <https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html>
+    > The prime minister denied that her policies were responsible for the yen’s weakness or rising JGB yields.
+  - **Al Jazeera** — US President Donald Trump endorses Netanyahu for Israeli election
+    <https://www.aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election?traffic_source=rss>
+    > US President Donald Trump endorses Netanyahu for Israeli election
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -91,7 +82,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Phishing — <https://en.wikipedia.org/wiki/Phishing>
   - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
-  - List of phishing incidents — <https://en.wikipedia.org/wiki/List_of_phishing_incidents>
+  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
 
 ---
 
