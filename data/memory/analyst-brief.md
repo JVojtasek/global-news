@@ -6,6 +6,20 @@ Paměť obsahuje **157 vláken**. Aktivních za posledních 14 dní: **53**.
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 63 dní · 60 záznamů
+- časová osa:
+  - **2026-10-15** (1 zdrojů) Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
+  - **2026-10-15** (3 zdrojů) Football regulator says he would quit over Man City political interference
+  - **2026-10-16** (2 zdrojů) Do Manchester City have any grounds to win their appeal?
+  - **2026-10-17** (2 zdrojů) Newcastle v Aston Villa: Premier League – live
+  - **2026-10-17** (2 zdrojů) Manzambi heads Villa to victory at Newcastle
+  - **2026-10-18** (2 zdrojů) LIVE: Leeds United vs Manchester United – Premier League
+  - **2026-10-18** (2 zdrojů) Manchester City owner’s £55m housing loan while Burnham was mayor investigated
+  - **2026-10-18** (3 zdrojů) Man Utd showed 'unity' in draw with Leeds - Carrick
+  - **2026-10-19** (1 zdrojů) Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
+  - **2026-10-20** (2 zdrojů) Ronaldo let Manchester United down - Ten Hag
+
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 71 dní · 60 záznamů
 - časová osa:
@@ -35,20 +49,6 @@ Paměť obsahuje **157 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-18** (2 zdrojů) West Bank: Israeli settlers attack EU diplomats, French mayor
   - **2026-10-18** (3 zdrojů) US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
   - **2026-10-19** (1 zdrojů) Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 62 dní · 60 záznamů
-- časová osa:
-  - **2026-10-15** (2 zdrojů) Manchester City, the UAE and the UK's OM in a political tangle
-  - **2026-10-15** (1 zdrojů) Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
-  - **2026-10-15** (3 zdrojů) Football regulator says he would quit over Man City political interference
-  - **2026-10-16** (2 zdrojů) Do Manchester City have any grounds to win their appeal?
-  - **2026-10-17** (2 zdrojů) Newcastle v Aston Villa: Premier League – live
-  - **2026-10-17** (2 zdrojů) Manzambi heads Villa to victory at Newcastle
-  - **2026-10-18** (2 zdrojů) LIVE: Leeds United vs Manchester United – Premier League
-  - **2026-10-18** (2 zdrojů) Manchester City owner’s £55m housing loan while Burnham was mayor investigated
-  - **2026-10-18** (3 zdrojů) Man Utd showed 'unity' in draw with Leeds - Carrick
-  - **2026-10-19** (1 zdrojů) Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 69 dní · 60 záznamů

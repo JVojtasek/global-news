@@ -32,24 +32,7 @@
     <https://www.france24.com/en/europe/20261017-pope-leo-returns-to-vatican-four-days-after-lung-cancer-surgery>
     > Pope Leo XIV was released from the hospital on Saturday after lung cancer surgery. Doctors removed part of the 71-year-old's right lung last week to extract a cancerous tumour.
 
-### 2. Russia wants blackout in Ukraine as winter comes — Zelenskyy
-- id události: `de3a4fe3e8bb`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **DW News** — Russia wants blackout in Ukraine as winter comes — Zelenskyy
-    <https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf>
-    > Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin.
-  - **Guardian Business** — Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine
-    <https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine>
-    > President signed the legislation championed by late senator Lindsey Graham last month but has waived the restrictions as they were due to come into effect Donald Trump has put on hold a sweeping new sanctions package targeting the Russian economy, telling Congress the pause on th
-  - **CNBC Top** — Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest
-    <https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html>
-    > Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.
-  - **France 24** — Trump waives new Russia sanctions as Ukraine ties slump
-    <https://www.france24.com/en/video/20261017-trump-waives-new-russia-sanctions-as-ukraine-ties-slump>
-    > President Donald Trump signed an executive order on Friday that waived sweeping US sanctions and tariffs targeting Russia's energy revenues, marking a new low in Washington's ties with war-torn Ukraine. Our correspondent Gulliver Cragg tells us more.
-
-### 3. Trump says suspension of Russia sanctions is to keep peace negotiations going
+### 2. Trump says suspension of Russia sanctions is to keep peace negotiations going
 - id události: `9aad51dd9229`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -65,7 +48,7 @@
   - **Investing.com** — Oil prices slide as Trump waives Russia sanctions
     <https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158>
 
-### 4. US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
+### 3. US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
 - id události: `483726046d99`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -81,6 +64,23 @@
   - **Al Jazeera** — EU condemns Israeli settler attack on diplomats in occupied West Bank
     <https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss>
     > EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.
+
+### 4. Man Utd showed 'unity' in draw with Leeds - Carrick
+- id události: `113115a6c0d2`  ·  rubrika: `sport`  ·  skóre: 60  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Man Utd showed 'unity' in draw with Leeds - Carrick
+    <https://www.bbc.co.uk/sport/football/videos/cmlyl8yyzryeo?at_medium=RSS&at_campaign=rss>
+    > Manchester United manager Michael Carrick says his side showed "unity" during their 1-1 draw with Leeds at Elland Road.
+  - **Guardian Sport** — ‘Like a fresh start’: Michael Carrick relieved by Manchester United’s draw at Leeds
+    <https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-draw-leeds-fresh-start>
+    > Head coach insists ‘we can still have a really good season’ ‘We were the dominant side,’ says Farke After a week in which Michael Carrick had “the headphones on” to quieten the noise, Manchester United’s head coach claimed Sunday’s 1-1 draw at Leeds “felt like a fresh start” and 
+  - **Al Jazeera** — Manchester United held at Leeds despite improved performance for Carrick
+    <https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss>
+    > Bryan Mbeumo's goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds.
+  - **Guardian Sport** — Leeds United 1-1 Manchester United: Premier League – as it happened
+    <https://www.theguardian.com/football/live/2026/oct/18/leeds-v-manchester-united-premier-league-live>
+    > Leeds’ Dominic Calvert-Lewin cancelled out a Bryan Mbeumo opener to end a turbulent week for the visitors ⚽ The Joy of Six: Leeds v Manchester United matches Daniel Farke , Leeds manager, is the next to speak to Sky Sports: We have to make sure we give them nothing. We want to ma
 
 ---
 
@@ -111,7 +111,36 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+### 1. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
+- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
+rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
+  2026-10-12  (2 zdrojů, síla 45)  Coventry City v Newcastle United: Premier League – live
+  2026-10-13  (2 zdrojů, síla 57)  Atletico Madrid vs Manchester United LIVE: Champions League
+  2026-10-13  (2 zdrojů, síla 45)  Viking’s two head coaches on Champions League adventure: ‘For us, it’s the best team in the world’
+  2026-10-14  (3 zdrojů, síla 60)  Manchester United’s Martinez blasts board’s lack of investment
+  2026-10-14  (2 zdrojů, síla 53)  Man City vs PSG: Champions League – teams, predictions, line ups
+  2026-10-14  (3 zdrojů, síla 55)  Striker swaps Sunday league for Champions League
+  2026-10-14  (2 zdrojů, síla 46)  Manchester City staff invited on government trade trip to India
+  2026-10-14  (2 zdrojů, síla 42)  Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
+  2026-10-15  (2 zdrojů, síla 44)  Jackson steps up again as Aston Villa revival continues
+  2026-10-15  (2 zdrojů, síla 43)  Manchester City, the UAE and the UK's OM in a political tangle
+  2026-10-15  (1 zdrojů, síla 40)  Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
+  2026-10-15  (3 zdrojů, síla 53)  Football regulator says he would quit over Man City political interference
+  2026-10-16  (2 zdrojů, síla 43)  Do Manchester City have any grounds to win their appeal?
+  2026-10-17  (2 zdrojů, síla 42)  Newcastle v Aston Villa: Premier League – live
+  2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle
+  2026-10-18  (2 zdrojů, síla 53)  LIVE: Leeds United vs Manchester United – Premier League
+  2026-10-18  (2 zdrojů, síla 40)  Manchester City owner’s £55m housing loan while Burnham was mayor investigated
+  2026-10-18  (3 zdrojů, síla 60)  Man Utd showed 'unity' in draw with Leeds - Carrick
+  2026-10-19  (1 zdrojů, síla 44)  Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
+  2026-10-20  (2 zdrojů, síla 40)  Ronaldo let Manchester United down - Ten Hag
+```
+
+### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -138,35 +167,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-17  (2 zdrojů, síla 44)  Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
   2026-10-19  (4 zdrojů, síla 66)  Trump says suspension of Russia sanctions is to keep peace negotiations going
   2026-10-19  (2 zdrojů, síla 45)  Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
-```
-
-### 2. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
-- id: `09443cca3ddd`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
-rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-09-21  (2 zdrojů, síla 46)  Burnham hails Greenland deal ahead of expected first Trump meeting
-  2026-09-21  (1 zdrojů, síla 44)  The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'
-  2026-09-22  (1 zdrojů, síla 46)  For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience
-  2026-09-28  (2 zdrojů, síla 42)  Israel strips Dutch diplomats of status in West Bank
-  2026-09-28  (1 zdrojů, síla 50)  NASA Armstrong Celebrates 80 Years of Flight Innovation
-  2026-09-29  (1 zdrojů, síla 44)  Israeli settlers attack Jalud village in occupied West Bank, torch homes
-  2026-09-29  (2 zdrojů, síla 51)  Israeli settlers attack West Bank village and block Palestinian family's return home
-  2026-10-01  (2 zdrojů, síla 52)  PM warned Rosebank oil field could breach West Bank sanctions
-  2026-10-05  (1 zdrojů, síla 43)  Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
-  2026-10-08  (2 zdrojů, síla 44)  Germany news: UK's Burnham visits Berlin for talks with Merz
-  2026-10-12  (2 zdrojů, síla 45)  UK's Burnham accuses Russia of meddling in Brexit vote
-  2026-10-14  (1 zdrojů, síla 41)  Do any of these Israeli candidates support a Palestinian state?
-  2026-10-16  (2 zdrojů, síla 40)  Repairing Brexit economic damage should be Burnham’s top priority, business chief says
-  2026-10-16  (4 zdrojů, síla 71)  Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
-  2026-10-17  (2 zdrojů, síla 50)  🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
-  2026-10-17  (2 zdrojů, síla 45)  Israeli settlers attack European diplomats in West Bank
-  2026-10-18  (2 zdrojů, síla 48)  Israeli settlers attack Palestinians in West Bank during olive harvest
-  2026-10-18  (2 zdrojů, síla 50)  West Bank: Israeli settlers attack EU diplomats, French mayor
-  2026-10-18  (3 zdrojů, síla 62)  US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
-  2026-10-19  (1 zdrojů, síla 41)  Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
 ```
 
 ---
