@@ -82,7 +82,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Phishing — <https://en.wikipedia.org/wiki/Phishing>
   - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
-  - List of phishing incidents — <https://en.wikipedia.org/wiki/List_of_phishing_incidents>
+  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
 
 ---
 
@@ -109,8 +109,6 @@
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-13  (2 zdrojů, síla 57)  Atletico Madrid vs Manchester United LIVE: Champions League
-  2026-10-13  (2 zdrojů, síla 45)  Viking’s two head coaches on Champions League adventure: ‘For us, it’s the best team in the world’
   2026-10-14  (3 zdrojů, síla 60)  Manchester United’s Martinez blasts board’s lack of investment
   2026-10-14  (2 zdrojů, síla 53)  Man City vs PSG: Champions League – teams, predictions, line ups
   2026-10-14  (3 zdrojů, síla 55)  Striker swaps Sunday league for Champions League
@@ -129,6 +127,8 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-19  (1 zdrojů, síla 44)  Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
   2026-10-20  (2 zdrojů, síla 40)  Ronaldo let Manchester United down - Ten Hag
   2026-10-20  (2 zdrojů, síla 43)  Liverpool v Villarreal: Champions League – live
+  2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting
+  2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal
 ```
 
 ### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
@@ -138,7 +138,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-13  (2 zdrojů, síla 44)  Ukraine allies in Poland after Starlink sabotage, Trump diesel deal
   2026-10-14  (2 zdrojů, síla 42)  Russian strikes hit key power plant in Kyiv, Zelensky says
   2026-10-14  (5 zdrojů, síla 79)  Russian strikes leave 600,000 without power in Ukraine, Zelensky says
   2026-10-14  (3 zdrojů, síla 56)  Watch: Block of flats destroyed in Russian strikes on Ukraine
@@ -158,6 +157,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-17  (2 zdrojů, síla 44)  Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
   2026-10-19  (4 zdrojů, síla 66)  Trump says suspension of Russia sanctions is to keep peace negotiations going
   2026-10-19  (2 zdrojů, síla 45)  Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
+  2026-10-20  (2 zdrojů, síla 42)  US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
 ```
 
 ---

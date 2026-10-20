@@ -9,8 +9,6 @@ Paměť obsahuje **157 vláken**. Aktivních za posledních 14 dní: **53**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 63 dní · 60 záznamů
 - časová osa:
-  - **2026-10-15** (3 zdrojů) Football regulator says he would quit over Man City political interference
-  - **2026-10-16** (2 zdrojů) Do Manchester City have any grounds to win their appeal?
   - **2026-10-17** (2 zdrojů) Newcastle v Aston Villa: Premier League – live
   - **2026-10-17** (2 zdrojů) Manzambi heads Villa to victory at Newcastle
   - **2026-10-18** (2 zdrojů) LIVE: Leeds United vs Manchester United – Premier League
@@ -19,11 +17,12 @@ Paměť obsahuje **157 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-19** (1 zdrojů) Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
   - **2026-10-20** (2 zdrojů) Ronaldo let Manchester United down - Ten Hag
   - **2026-10-20** (2 zdrojů) Liverpool v Villarreal: Champions League – live
+  - **2026-10-20** (2 zdrojů) Audit regulator looking into Manchester City accounting
+  - **2026-10-20** (2 zdrojů) PSG end Barcelona's winning run as Liverpool fight back against Villarreal
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 71 dní · 60 záznamů
+- rubrika `world` · sledováno 72 dní · 60 záznamů
 - časová osa:
-  - **2026-10-15** (2 zdrojů) North Korea and China open new bridge after 12-year delay
   - **2026-10-15** (2 zdrojů) Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'
   - **2026-10-16** (2 zdrojů) Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'
   - **2026-10-16** (1 zdrojů) Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time
@@ -33,6 +32,7 @@ Paměť obsahuje **157 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-17** (2 zdrojů) Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
   - **2026-10-19** (4 zdrojů) Trump says suspension of Russia sanctions is to keep peace negotiations going
   - **2026-10-19** (2 zdrojů) Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
+  - **2026-10-20** (2 zdrojů) US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
