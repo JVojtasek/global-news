@@ -9,7 +9,6 @@ Paměť obsahuje **157 vláken**. Aktivních za posledních 14 dní: **53**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 63 dní · 60 záznamů
 - časová osa:
-  - **2026-10-15** (1 zdrojů) Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
   - **2026-10-15** (3 zdrojů) Football regulator says he would quit over Man City political interference
   - **2026-10-16** (2 zdrojů) Do Manchester City have any grounds to win their appeal?
   - **2026-10-17** (2 zdrojů) Newcastle v Aston Villa: Premier League – live
@@ -19,6 +18,7 @@ Paměť obsahuje **157 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-18** (3 zdrojů) Man Utd showed 'unity' in draw with Leeds - Carrick
   - **2026-10-19** (1 zdrojů) Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
   - **2026-10-20** (2 zdrojů) Ronaldo let Manchester United down - Ten Hag
+  - **2026-10-20** (2 zdrojů) Liverpool v Villarreal: Champions League – live
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 71 dní · 60 záznamů

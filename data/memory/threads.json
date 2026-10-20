@@ -5,46 +5,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "andy",
-    "newcastle",
-    "phil",
-    "troy's",
-    "india",
-    "gakpo",
-    "ronaldo",
-    "uk's",
-    "brighton",
-    "martinez",
-    "liverpool",
-    "manzambi",
-    "premier",
-    "coventry",
-    "glasner",
-    "league",
-    "leeds",
-    "striker",
-    "ever",
-    "daily",
-    "atletico",
-    "villa",
-    "jonathan",
-    "chris",
-    "madrid",
-    "isak",
-    "greenwood",
-    "football",
-    "forest",
-    "tuchel",
-    "women",
     "united",
+    "troy's",
+    "football",
+    "newcastle",
+    "ronaldo",
+    "women",
+    "greenwood",
+    "liverpool",
+    "striker",
+    "coventry",
+    "atletico",
+    "leeds",
+    "jonathan",
+    "isak",
+    "guardiola",
+    "andy",
+    "villarreal",
+    "manzambi",
+    "gakpo",
+    "uk's",
+    "tuchel",
+    "forest",
+    "madrid",
+    "manchester",
+    "villa",
+    "daily",
+    "glasner",
+    "ever",
     "wilson",
+    "phil",
+    "india",
+    "league",
+    "martinez",
+    "beckett",
+    "brighton",
+    "champions",
     "aston",
     "burnham",
-    "guardiola",
-    "city",
-    "beckett",
-    "champions",
-    "manchester"
+    "premier",
+    "city"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -165,22 +165,12 @@
     "1e2aa116d2b3",
     "113115a6c0d2",
     "c57bce28cabf",
-    "faf3da2d5a29"
+    "faf3da2d5a29",
+    "569e3300da6d"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-10-20",
    "timeline": [
-    {
-     "date": "2026-09-22",
-     "headline": "Arteta agrees new deal with Premier League champions Arsenal",
-     "sources": 2,
-     "score": 41,
-     "event_id": "2d8d15ed5868",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/ckd68e40ze3jo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
     {
      "date": "2026-09-22",
      "headline": "'Far from their best' to 'a joy to watch' -  ranking Premier League teams' start to season",
@@ -856,6 +846,18 @@
      "links": [
       "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/oct/20/erik-ten-hag-accuses-cristiano-ronaldo-of-letting-down-manchester-united"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Liverpool v Villarreal: Champions League – live",
+     "sources": 2,
+     "score": 43,
+     "event_id": "569e3300da6d",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/oct/20/liverpool-v-villarreal-champions-league-live",
+      "https://www.theguardian.com/football/live/2026/oct/20/psg-v-barcelona-manchester-city-v-aek-athens-and-more-champions-league-live",
+      "https://www.aljazeera.com/sports/liveblog/2026/10/20/psg-vs-barcelona-live-champions-league?traffic_source=rss"
      ]
     }
    ]
@@ -2165,6 +2167,303 @@
    ]
   },
   {
+   "id": "64969c4b1451",
+   "title": "UEFA to bring criminal complaint against Infantino",
+   "section": "world",
+   "entities": [
+    "leaving",
+    "netflix",
+    "archaeologists",
+    "search",
+    "women",
+    "uefa",
+    "english",
+    "waves",
+    "warms",
+    "bomber",
+    "women's",
+    "revived",
+    "matt",
+    "corporal",
+    "concacaf",
+    "moor",
+    "infantino",
+    "missing",
+    "vulnerable",
+    "spain",
+    "hughes",
+    "olympic",
+    "during",
+    "heat",
+    "ronay",
+    "trump",
+    "struggle",
+    "food",
+    "swiss",
+    "seem",
+    "barney",
+    "remains",
+    "make",
+    "world",
+    "declared",
+    "crashed",
+    "trees",
+    "action",
+    "world's",
+    "tallest"
+   ],
+   "event_ids": [
+    "64969c4b1451",
+    "2d68919227f3",
+    "361927991686",
+    "d9c728231823",
+    "38cabdf07e25",
+    "d2783d28192e",
+    "1299730da6fe",
+    "d9d0817251f8",
+    "c8934b689343",
+    "b49c34c7a1cd",
+    "c49cc644961f",
+    "35f5b380d0f5",
+    "e676fab717ff",
+    "e84dd89bbc71",
+    "f37f1bc2f6f7",
+    "d55d625de201",
+    "0419e0bd6b92",
+    "3ced160cb32a",
+    "6862b1fa1418",
+    "ffb1ab6f2321"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-10-20",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "UEFA to bring criminal complaint against Infantino",
+     "sources": 4,
+     "score": 71,
+     "event_id": "64969c4b1451",
+     "links": [
+      "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2d68919227f3",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis",
+      "https://www.france24.com/en/sport/20260827-uefa-moves-to-file-criminal-complaint-against-infantino-over-failed-fifa-sell-off"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "FIFA accuses UEFA of ‘smear campaign’ over Infantino, World Cup plan",
+     "sources": 2,
+     "score": 41,
+     "event_id": "361927991686",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/3/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
+     "sources": 2,
+     "score": 42,
+     "event_id": "d9c728231823",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
+      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Embattled Fifa president Infantino declares intention to stand for re-election",
+     "sources": 3,
+     "score": 49,
+     "event_id": "38cabdf07e25",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
+      "https://www.aljazeera.com/sports/2026/9/6/embattled-fifa-president-gianni-infantino-to-stand-for-re-election?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "France wants to transform Fifa after withdrawing Infantino support",
+     "sources": 3,
+     "score": 58,
+     "event_id": "d2783d28192e",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260910-gianni-infantino-french-football-federation-withdraws-support-for-fifa-chief",
+      "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "USA survive Spain scare to set up Olympic final rematch with France at Fiba World Cup",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1299730da6fe",
+     "links": [
+      "https://www.theguardian.com/sport/2026/sep/12/usa-spain-womens-basketball-world-cup-semi-final",
+      "https://www.france24.com/en/sport/20260912-france-beats-germany-to-reach-first-women-s-world-cup-basketball-final"
+     ]
+    },
+    {
+     "date": "2026-09-13",
+     "headline": "USA defend Fiba Women’s World Cup title after early scare against France",
+     "sources": 2,
+     "score": 41,
+     "event_id": "d9d0817251f8",
+     "links": [
+      "https://www.theguardian.com/sport/2026/sep/13/usa-fiba-womens-world-cup-france-breanna-stewart-caitlin-clark",
+      "https://www.france24.com/en/sport/20260913-us-beats-spirited-france-to-win-12th-women-s-basketball-world-cup"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "English FA calls for Infantino to release FIFA World Cup sell-off documents",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c8934b689343",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/17/english-fa-calls-for-infantino-to-release-fifa-world-cup-sell-off-documents?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
+     "sources": 3,
+     "score": 53,
+     "event_id": "b49c34c7a1cd",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/18/uefa-concacaf-gianni-infantino-fifa-billions-member-associations",
+      "https://www.aljazeera.com/sports/2026/9/18/uefa-concacaf-challenge-fifa-on-reserves-and-demand-10m-payout-to-members?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "UEFA, CONCACAF demand FIFA make $2.1 billion payout to member groups amid funding row",
+     "sources": 2,
+     "score": 44,
+     "event_id": "c49cc644961f",
+     "links": [
+      "https://www.france24.com/en/sport/20260918-uefa-concacaf-demand-fifa-make-2-1-billion-payout-to-member-groups-amid-funding-row",
+      "https://www.theguardian.com/football/2026/sep/18/uefa-concacaf-gianni-infantino-fifa-billions-member-associations"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Infantino says Fifa can change as he proposes external review",
+     "sources": 4,
+     "score": 61,
+     "event_id": "35f5b380d0f5",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/21/gianni-infantino-proposes-independent-external-review-fifa-governance",
+      "https://www.aljazeera.com/sports/2026/9/21/embattled-gianni-infantino-says-he-is-open-to-talks-over-fifa-reform?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Top European leagues demand FIFA reforms, piling pressure on Infantino",
+     "sources": 2,
+     "score": 42,
+     "event_id": "e676fab717ff",
+     "links": [
+      "https://www.france24.com/en/sport/20260925-english-spanish-italian-german-football-leagues-call-for-fifa-reform",
+      "https://www.theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Fifa accuses Uefa of ‘harassment’ and ‘misinformation’ in push against Infantino",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e84dd89bbc71",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election",
+      "https://www.aljazeera.com/sports/2026/9/29/fifa-could-disburse-millions-to-members-as-infantino-seeks-re-election?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Swiss FA ‘cannot justify’ its support for Infantino’s re-election as Fifa president",
+     "sources": 2,
+     "score": 42,
+     "event_id": "f37f1bc2f6f7",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/30/gianni-infantino-fifa-swiss-football-association-withdrawn-support-president-election-bid",
+      "https://www.aljazeera.com/sports/2026/9/30/swiss-football-association-withdraws-support-for-fifa-boss-gianni-infantino?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Netflix secures 2030 World Cup TV rights in Spain",
+     "sources": 2,
+     "score": 41,
+     "event_id": "d55d625de201",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c3zxj4k7kz9eo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/10/13/nx-s1-5992892/usa-prepares-for-womens-world-cup-with-matches-against-top-team-spain"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "After an American Bomber Crashed Into an English Moor During World War II, a Corporal Was Declared Missing in Action. Archaeologists Have Now Revived the Search for His Remains",
+     "sources": 1,
+     "score": 44,
+     "event_id": "0419e0bd6b92",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/after-an-american-bomber-crashed-into-an-english-moor-during-world-war-II-a-corporal-was-declared-missing-in-action-archaeologists-have-now-revived-the-search-for-his-remains-180989672/"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "USA prepares for Women's World Cup with matches against top team Spain",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3ced160cb32a",
+     "links": [
+      "https://www.npr.org/2026/10/13/nx-s1-5992892/usa-prepares-for-womens-world-cup-with-matches-against-top-team-spain",
+      "https://www.atlasobscura.com/places/birds-of-the-world-in-the-skies-over-alcorcon-statue"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Infantino apologises to Fifa Council - but told he is still not fit to lead",
+     "sources": 2,
+     "score": 47,
+     "event_id": "6862b1fa1418",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/15/fifa-president-infantino-apologises-but-critics-at-congress-remain-unhappy?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "The World's Tallest Trees Seem to Struggle to Make Their Own Food During Heat Waves, Leaving Them Vulnerable as the World Warms",
+     "sources": 1,
+     "score": 44,
+     "event_id": "ffb1ab6f2321",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/the-worlds-tallest-trees-seem-to-struggle-to-make-their-own-food-during-heat-waves-leaving-them-vulnerable-as-the-world-warms-180989714/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "eca0fc692bc0",
    "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
    "section": "world",
@@ -2607,6 +2906,186 @@
       "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening",
       "https://www.scmp.com/tech/tech-trends/article/3371095/hong-kong-vies-role-robotics-boom-launch-embodied-ai-hub",
       "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "3e261aa2591b",
+   "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
+   "section": "tech",
+   "entities": [
+    "tamagotchi",
+    "zuckerberg",
+    "meta",
+    "youtuber",
+    "meta's",
+    "mark",
+    "glasses",
+    "everything",
+    "wonder",
+    "apple",
+    "macs",
+    "china",
+    "charm",
+    "muse"
+   ],
+   "event_ids": [
+    "3e261aa2591b",
+    "c134bbfcc899",
+    "5f9b2dff770e",
+    "6374a69076e5",
+    "e84d98e81ae7",
+    "7cd7dfe3ad5e",
+    "16c4b876e19d",
+    "a147983331c7",
+    "148d33ec138b",
+    "80d24e118917",
+    "c7cea461bd6d",
+    "f52190a49967"
+   ],
+   "first_seen": "2026-09-24",
+   "last_seen": "2026-10-20",
+   "timeline": [
+    {
+     "date": "2026-09-24",
+     "headline": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
+     "sources": 6,
+     "score": 79,
+     "event_id": "3e261aa2591b",
+     "links": [
+      "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
+      "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Meta is breaking out after introducing Muse AI agent. Where the stock is going, according to the charts",
+     "sources": 3,
+     "score": 51,
+     "event_id": "c134bbfcc899",
+     "links": [
+      "https://www.cnbc.com/2026/09/22/meta-is-breaking-out-after-introducing-muse-ai-agent-where-the-stock-is-going.html",
+      "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "https://mouse.dev/blog/muse-runtime-export/"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Everything new coming to Meta’s AI agent Muse",
+     "sources": 3,
+     "score": 44,
+     "event_id": "5f9b2dff770e",
+     "links": [
+      "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+     "sources": 4,
+     "score": 69,
+     "event_id": "6374a69076e5",
+     "links": [
+      "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+      "https://www.cnbc.com/2026/09/24/meta-nears-first-new-high-in-a-year-as-muse-success-showcases-winning-ai-strategy.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Meta makes the Muse filesystem even more accessible",
+     "sources": 3,
+     "score": 46,
+     "event_id": "e84d98e81ae7",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
+     "sources": 3,
+     "score": 46,
+     "event_id": "7cd7dfe3ad5e",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Meta is expanding its AI agent Muse to small businesses",
+     "sources": 2,
+     "score": 40,
+     "event_id": "16c4b876e19d",
+     "links": [
+      "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "https://huggingface.co/blog/muse-glimmer"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Can China match up with Meta’s Muse in race to harness AI agents?",
+     "sources": 3,
+     "score": 51,
+     "event_id": "a147983331c7",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3370123/can-china-match-metas-muse-race-harness-ai-agents?utm_source=rss_feed",
+      "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
+     "sources": 2,
+     "score": 40,
+     "event_id": "148d33ec138b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Meta releases its first frontier model, Muse Wonder",
+     "sources": 3,
+     "score": 50,
+     "event_id": "80d24e118917",
+     "links": [
+      "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+      "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Meta and Apple team up to make Muse AI models run better on Macs",
+     "sources": 4,
+     "score": 67,
+     "event_id": "c7cea461bd6d",
+     "links": [
+      "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Meta pauses Muse sharing after researchers find AI chats on the web",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f52190a49967",
+     "links": [
+      "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/"
      ]
     }
    ]
@@ -6774,287 +7253,6 @@
    ]
   },
   {
-   "id": "64969c4b1451",
-   "title": "UEFA to bring criminal complaint against Infantino",
-   "section": "world",
-   "entities": [
-    "spain",
-    "bomber",
-    "english",
-    "world",
-    "moor",
-    "matt",
-    "fifa",
-    "corporal",
-    "barney",
-    "women's",
-    "council",
-    "swiss",
-    "netflix",
-    "european",
-    "crashed",
-    "france",
-    "concacaf",
-    "action",
-    "olympic",
-    "trump",
-    "fiba",
-    "search",
-    "american",
-    "infantino",
-    "uefa",
-    "declared",
-    "during",
-    "hughes",
-    "archaeologists",
-    "revived",
-    "embattled",
-    "ronay",
-    "remains",
-    "missing",
-    "women"
-   ],
-   "event_ids": [
-    "64969c4b1451",
-    "2d68919227f3",
-    "361927991686",
-    "d9c728231823",
-    "38cabdf07e25",
-    "d2783d28192e",
-    "1299730da6fe",
-    "d9d0817251f8",
-    "c8934b689343",
-    "b49c34c7a1cd",
-    "c49cc644961f",
-    "35f5b380d0f5",
-    "e676fab717ff",
-    "e84dd89bbc71",
-    "f37f1bc2f6f7",
-    "d55d625de201",
-    "0419e0bd6b92",
-    "3ced160cb32a",
-    "6862b1fa1418"
-   ],
-   "first_seen": "2026-08-27",
-   "last_seen": "2026-10-15",
-   "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "UEFA to bring criminal complaint against Infantino",
-     "sources": 4,
-     "score": 71,
-     "event_id": "64969c4b1451",
-     "links": [
-      "https://www.dw.com/en/uefa-to-bring-criminal-complaint-against-infantino/a-78536435?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/sport/football/articles/cx2zl5kwlxjo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/8/27/uefa-asks-us-court-for-fifa-documents-for-criminal-case-against-infantino?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2d68919227f3",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis",
-      "https://www.france24.com/en/sport/20260827-uefa-moves-to-file-criminal-complaint-against-infantino-over-failed-fifa-sell-off"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "FIFA accuses UEFA of ‘smear campaign’ over Infantino, World Cup plan",
-     "sources": 2,
-     "score": 41,
-     "event_id": "361927991686",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/3/fifa-blasts-uefa-smear-campaign-fights-world-cup-plan-disclosures?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/03/fifa-uefa-legal-motion"
-     ]
-    },
-    {
-     "date": "2026-09-05",
-     "headline": "Uefa legal case may be beginning of the end for Infantino as Trump’s support evaporates | Barney Ronay",
-     "sources": 2,
-     "score": 42,
-     "event_id": "d9c728231823",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates",
-      "https://www.theguardian.com/football/2026/sep/05/uefa-legal-case-beginning-of-end-infantino-trump-support-evaporates"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Embattled Fifa president Infantino declares intention to stand for re-election",
-     "sources": 3,
-     "score": 49,
-     "event_id": "38cabdf07e25",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa",
-      "https://www.aljazeera.com/sports/2026/9/6/embattled-fifa-president-gianni-infantino-to-stand-for-re-election?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/06/fifa-president-gianni-infantino-intention-election-uefa"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "France wants to transform Fifa after withdrawing Infantino support",
-     "sources": 3,
-     "score": 58,
-     "event_id": "d2783d28192e",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c70d1k6k2pjo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20260910-gianni-infantino-french-football-federation-withdraws-support-for-fifa-chief",
-      "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-12",
-     "headline": "USA survive Spain scare to set up Olympic final rematch with France at Fiba World Cup",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1299730da6fe",
-     "links": [
-      "https://www.theguardian.com/sport/2026/sep/12/usa-spain-womens-basketball-world-cup-semi-final",
-      "https://www.france24.com/en/sport/20260912-france-beats-germany-to-reach-first-women-s-world-cup-basketball-final"
-     ]
-    },
-    {
-     "date": "2026-09-13",
-     "headline": "USA defend Fiba Women’s World Cup title after early scare against France",
-     "sources": 2,
-     "score": 41,
-     "event_id": "d9d0817251f8",
-     "links": [
-      "https://www.theguardian.com/sport/2026/sep/13/usa-fiba-womens-world-cup-france-breanna-stewart-caitlin-clark",
-      "https://www.france24.com/en/sport/20260913-us-beats-spirited-france-to-win-12th-women-s-basketball-world-cup"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "English FA calls for Infantino to release FIFA World Cup sell-off documents",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c8934b689343",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/17/english-fa-calls-for-infantino-to-release-fifa-world-cup-sell-off-documents?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/17/fa-chair-hewitt-demands-infantino-releases-records-of-failed-world-cup-plan"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
-     "sources": 3,
-     "score": 53,
-     "event_id": "b49c34c7a1cd",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/18/uefa-concacaf-gianni-infantino-fifa-billions-member-associations",
-      "https://www.aljazeera.com/sports/2026/9/18/uefa-concacaf-challenge-fifa-on-reserves-and-demand-10m-payout-to-members?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "UEFA, CONCACAF demand FIFA make $2.1 billion payout to member groups amid funding row",
-     "sources": 2,
-     "score": 44,
-     "event_id": "c49cc644961f",
-     "links": [
-      "https://www.france24.com/en/sport/20260918-uefa-concacaf-demand-fifa-make-2-1-billion-payout-to-member-groups-amid-funding-row",
-      "https://www.theguardian.com/football/2026/sep/18/uefa-concacaf-gianni-infantino-fifa-billions-member-associations"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Infantino says Fifa can change as he proposes external review",
-     "sources": 4,
-     "score": 61,
-     "event_id": "35f5b380d0f5",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/21/gianni-infantino-proposes-independent-external-review-fifa-governance",
-      "https://www.aljazeera.com/sports/2026/9/21/embattled-gianni-infantino-says-he-is-open-to-talks-over-fifa-reform?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Top European leagues demand FIFA reforms, piling pressure on Infantino",
-     "sources": 2,
-     "score": 42,
-     "event_id": "e676fab717ff",
-     "links": [
-      "https://www.france24.com/en/sport/20260925-english-spanish-italian-german-football-leagues-call-for-fifa-reform",
-      "https://www.theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Fifa accuses Uefa of ‘harassment’ and ‘misinformation’ in push against Infantino",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e84dd89bbc71",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election",
-      "https://www.aljazeera.com/sports/2026/9/29/fifa-could-disburse-millions-to-members-as-infantino-seeks-re-election?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Swiss FA ‘cannot justify’ its support for Infantino’s re-election as Fifa president",
-     "sources": 2,
-     "score": 42,
-     "event_id": "f37f1bc2f6f7",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/30/gianni-infantino-fifa-swiss-football-association-withdrawn-support-president-election-bid",
-      "https://www.aljazeera.com/sports/2026/9/30/swiss-football-association-withdraws-support-for-fifa-boss-gianni-infantino?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Netflix secures 2030 World Cup TV rights in Spain",
-     "sources": 2,
-     "score": 41,
-     "event_id": "d55d625de201",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c3zxj4k7kz9eo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/10/13/nx-s1-5992892/usa-prepares-for-womens-world-cup-with-matches-against-top-team-spain"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "After an American Bomber Crashed Into an English Moor During World War II, a Corporal Was Declared Missing in Action. Archaeologists Have Now Revived the Search for His Remains",
-     "sources": 1,
-     "score": 44,
-     "event_id": "0419e0bd6b92",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/after-an-american-bomber-crashed-into-an-english-moor-during-world-war-II-a-corporal-was-declared-missing-in-action-archaeologists-have-now-revived-the-search-for-his-remains-180989672/"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "USA prepares for Women's World Cup with matches against top team Spain",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3ced160cb32a",
-     "links": [
-      "https://www.npr.org/2026/10/13/nx-s1-5992892/usa-prepares-for-womens-world-cup-with-matches-against-top-team-spain",
-      "https://www.atlasobscura.com/places/birds-of-the-world-in-the-skies-over-alcorcon-statue"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Infantino apologises to Fifa Council - but told he is still not fit to lead",
-     "sources": 2,
-     "score": 47,
-     "event_id": "6862b1fa1418",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cmd7qgj3zwero?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/10/15/fifa-president-infantino-apologises-but-critics-at-congress-remain-unhappy?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "7da4e07716c7",
    "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
    "section": "world",
@@ -7253,174 +7451,6 @@
      "links": [
       "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
       "https://www.cnbc.com/2026/10/15/james-talarico-texas-senate-fundraising-ken-paxton.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "3e261aa2591b",
-   "title": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
-   "section": "tech",
-   "entities": [
-    "macs",
-    "meta's",
-    "china",
-    "wonder",
-    "mark",
-    "meta",
-    "glasses",
-    "tamagotchi",
-    "youtuber",
-    "zuckerberg",
-    "everything",
-    "muse",
-    "charm",
-    "apple"
-   ],
-   "event_ids": [
-    "3e261aa2591b",
-    "c134bbfcc899",
-    "5f9b2dff770e",
-    "6374a69076e5",
-    "e84d98e81ae7",
-    "7cd7dfe3ad5e",
-    "16c4b876e19d",
-    "a147983331c7",
-    "148d33ec138b",
-    "80d24e118917",
-    "c7cea461bd6d"
-   ],
-   "first_seen": "2026-09-24",
-   "last_seen": "2026-10-15",
-   "timeline": [
-    {
-     "date": "2026-09-24",
-     "headline": "Mark Zuckerberg debuts $1,299 Meta VR Glasses and Muse Charm pendant amid AI agent push",
-     "sources": 6,
-     "score": 79,
-     "event_id": "3e261aa2591b",
-     "links": [
-      "https://www.cnbc.com/2026/09/23/mark-zuckerberg-1299-meta-vr-glasses-ai-agent.html",
-      "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Meta is breaking out after introducing Muse AI agent. Where the stock is going, according to the charts",
-     "sources": 3,
-     "score": 51,
-     "event_id": "c134bbfcc899",
-     "links": [
-      "https://www.cnbc.com/2026/09/22/meta-is-breaking-out-after-introducing-muse-ai-agent-where-the-stock-is-going.html",
-      "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "https://mouse.dev/blog/muse-runtime-export/"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Everything new coming to Meta’s AI agent Muse",
-     "sources": 3,
-     "score": 44,
-     "event_id": "5f9b2dff770e",
-     "links": [
-      "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
-      "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-     "sources": 4,
-     "score": 69,
-     "event_id": "6374a69076e5",
-     "links": [
-      "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-      "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "https://www.cnbc.com/2026/09/24/meta-nears-first-new-high-in-a-year-as-muse-success-showcases-winning-ai-strategy.html"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Meta makes the Muse filesystem even more accessible",
-     "sources": 3,
-     "score": 46,
-     "event_id": "e84d98e81ae7",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-      "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-      "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
-     "sources": 3,
-     "score": 46,
-     "event_id": "7cd7dfe3ad5e",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-      "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-      "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Meta is expanding its AI agent Muse to small businesses",
-     "sources": 2,
-     "score": 40,
-     "event_id": "16c4b876e19d",
-     "links": [
-      "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "https://huggingface.co/blog/muse-glimmer"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Can China match up with Meta’s Muse in race to harness AI agents?",
-     "sources": 3,
-     "score": 51,
-     "event_id": "a147983331c7",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3370123/can-china-match-metas-muse-race-harness-ai-agents?utm_source=rss_feed",
-      "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
-      "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-     "sources": 2,
-     "score": 40,
-     "event_id": "148d33ec138b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Meta releases its first frontier model, Muse Wonder",
-     "sources": 3,
-     "score": 50,
-     "event_id": "80d24e118917",
-     "links": [
-      "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
-      "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Meta and Apple team up to make Muse AI models run better on Macs",
-     "sources": 4,
-     "score": 67,
-     "event_id": "c7cea461bd6d",
-     "links": [
-      "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html"
      ]
     }
    ]
@@ -16936,5 +16966,5 @@
    ]
   }
  ],
- "updated": "2026-10-20T15:27:16+00:00"
+ "updated": "2026-10-20T18:31:49+00:00"
 }

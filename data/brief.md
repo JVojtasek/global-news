@@ -82,7 +82,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Phishing — <https://en.wikipedia.org/wiki/Phishing>
   - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
-  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
+  - List of phishing incidents — <https://en.wikipedia.org/wiki/List_of_phishing_incidents>
 
 ---
 
@@ -109,7 +109,6 @@
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-12  (2 zdrojů, síla 45)  Coventry City v Newcastle United: Premier League – live
   2026-10-13  (2 zdrojů, síla 57)  Atletico Madrid vs Manchester United LIVE: Champions League
   2026-10-13  (2 zdrojů, síla 45)  Viking’s two head coaches on Champions League adventure: ‘For us, it’s the best team in the world’
   2026-10-14  (3 zdrojů, síla 60)  Manchester United’s Martinez blasts board’s lack of investment
@@ -129,6 +128,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-18  (3 zdrojů, síla 60)  Man Utd showed 'unity' in draw with Leeds - Carrick
   2026-10-19  (1 zdrojů, síla 44)  Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
   2026-10-20  (2 zdrojů, síla 40)  Ronaldo let Manchester United down - Ten Hag
+  2026-10-20  (2 zdrojů, síla 43)  Liverpool v Villarreal: Champions League – live
 ```
 
 ### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait

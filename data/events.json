@@ -1286,46 +1286,6 @@
   ]
  },
  {
-  "id": "9edf563710cc",
-  "headline": "Israeli settlers attack European diplomats in West Bank",
-  "section": "world",
-  "score": 45,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-17T18:27:41+00:00",
-  "event_time": "2026-10-17T18:20:11+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Israeli settlers attack European diplomats in West Bank",
-    "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-    "source": "The Guardian World",
-    "summary": "French mayor and archbishop also attacked during violent attempt to stop Palestinians harvesting olives Israeli settler militants have attacked European diplomats, a French mayor and the archbishop of Cambrai in Taybeh, in the occupied West Bank, injuring three people and damaging a car, in the latest violent attempt to prevent Palestinians from harvesting olives on their own land. Bernard Baudoux",
-    "published_at": "2026-10-17T18:20:11+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
-   },
-   {
-    "title": "Masked settlers attack European diplomats in occupied West Bank",
-    "url": "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
-    "source": "The Guardian World",
-    "summary": "Belgian foreign minister urges further EU sanctions and links attack to Israel’s ‘illegal settlement policy’ Masked settlers attacked a group of European diplomats during a visit to the occupied West Bank on Saturday, Belgium’s foreign minister said, on a second day of high-profile assaults on Palestinians and others during the sensitive olive harvest. At least four people have been killed and mor",
-    "published_at": "2026-10-17T17:02:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
-   },
-   {
-    "title": "West Bank: Israeli settlers attack EU diplomats, French mayor",
-    "url": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "A group of Israeli settlers attacked vehicles carrying European diplomats in the West Bank. Belgium has condemned the attack.",
-    "published_at": "2026-10-17T16:29:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
-   }
-  ]
- },
- {
   "id": "351390f82ca4",
   "headline": "Deaths confirmed in major fire at Canada military base",
   "section": "world",
@@ -1517,37 +1477,6 @@
     "published_at": "2026-10-20T11:00:35+00:00",
     "source_countries": [],
     "seen_at": "2026-10-20T12:37:44+00:00"
-   }
-  ]
- },
- {
-  "id": "c4c3730905e3",
-  "headline": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
-  "section": "world",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-17T18:27:41+00:00",
-  "event_time": "2026-10-17T17:49:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
-    "url": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "The Egyptian president said his country was ready to defend Saudi Arabia \"if requested.\" The comments come amid escalating Houthi attacks.",
-    "published_at": "2026-10-17T17:49:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
-   },
-   {
-    "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Egyptian President Abdel Fattah el-Sisi has vowed to take 'any measure' to defend Saudi Arabia amid Houthi attacks.",
-    "published_at": "2026-10-17T16:49:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
    }
   ]
  },
@@ -1933,6 +1862,59 @@
   ]
  },
  {
+  "id": "ffb1ab6f2321",
+  "headline": "The World's Tallest Trees Seem to Struggle to Make Their Own Food During Heat Waves, Leaving Them Vulnerable as the World Warms",
+  "section": "culture",
+  "score": 44,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T16:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The World's Tallest Trees Seem to Struggle to Make Their Own Food During Heat Waves, Leaving Them Vulnerable as the World Warms",
+    "url": "https://www.smithsonianmag.com/smart-news/the-worlds-tallest-trees-seem-to-struggle-to-make-their-own-food-during-heat-waves-leaving-them-vulnerable-as-the-world-warms-180989714/",
+    "source": "Smithsonian Mag",
+    "summary": "Coast redwoods, which grow only from central California to southern Oregon, slow photosynthesis when temperatures ramp up, according to a new study. Scientists worry about the towering plants' future amid climate change",
+    "published_at": "2026-10-20T16:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   }
+  ]
+ },
+ {
+  "id": "53ddecf9f5b1",
+  "headline": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+  "section": "safety",
+  "score": 44,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T15:38:52+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+    "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+    "source": "The Hacker News",
+    "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that could allow an unauthenticated attacker to execute unauthorized code or commands via specially",
+    "published_at": "2026-10-20T15:38:52+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   },
+   {
+    "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+    "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+    "source": "The Hacker News",
+    "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up unauthorized VPN connections. It was patched by Palo Alto Networks in May 2026 and was",
+    "published_at": "2026-10-20T15:32:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   }
+  ]
+ },
+ {
   "id": "80bee7f4b510",
   "headline": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
   "section": "world",
@@ -2234,33 +2216,42 @@
   ]
  },
  {
-  "id": "2c7971a303cc",
-  "headline": "Arsenal held at home by Birmingham",
+  "id": "569e3300da6d",
+  "headline": "Liverpool v Villarreal: Champions League – live",
   "section": "sport",
-  "score": 42,
+  "score": 43,
   "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-10-17T18:27:41+00:00",
-  "event_time": "2026-10-17T17:46:41+00:00",
+  "depth_signal": 0,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T18:20:51+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Arsenal held at home by Birmingham",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c680zp4djprgo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Arsenal continue to struggle in the Women's Super League after having to come from behind to draw 1-1 with Birmingham at the Emirates.",
-    "published_at": "2026-10-17T17:46:41+00:00",
+    "title": "Liverpool v Villarreal: Champions League – live",
+    "url": "https://www.theguardian.com/football/live/2026/oct/20/liverpool-v-villarreal-champions-league-live",
+    "source": "Guardian Sport",
+    "summary": "⚽ Updates from the 8pm BST kick-off at Anfield ⚽ Football clockwatch | Live scores | Table | Mail Scott Liverpool and Villarreal have been drawn together in Europe on two previous occasions. Both ties were semi-finals – of the 2016 Europa League and the 2022 Champions League - and though both were eventually won by Liverpool, Villarreal gave Jurgen Klopp’s side a fright on both occasions. Relive t",
+    "published_at": "2026-10-20T18:20:51+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
+    "seen_at": "2026-10-20T18:31:46+00:00"
    },
    {
-    "title": "Boos for Arsenal as draw with Birmingham extends winless WSL run",
-    "url": "https://www.theguardian.com/football/2026/oct/17/arsenal-birmingham-wsl-match-report",
+    "title": "PSG v Barcelona, Manchester City v AEK Athens, and more: Champions League – live",
+    "url": "https://www.theguardian.com/football/live/2026/oct/20/psg-v-barcelona-manchester-city-v-aek-athens-and-more-champions-league-live",
     "source": "Guardian Sport",
-    "summary": "An equaliser from Olivia Smith averted defeat for Arsenal, but a home draw with Birmingham did little to calm fears for Renée Slegers’s future as Gunners coach. Boos accompanied the final whistle at the Emirates Stadium, as the result left Arsenal on six points from six matches and without a win in five Women’s Super League matches, the club’s longest winless run in WSL history. They are eighth in",
-    "published_at": "2026-10-17T15:44:19+00:00",
+    "summary": "⚽ Updates from Tuesday’s Champions League games ⚽ Liverpool v Villarreal | Live scores | Table | Mail Simon So Erling Haaland is fit enough only for the Manchester City bench, with Enzo Maresca making eight changes to the team that beat Ipswich on Saturday. The most eye-catching pick is 17-year-old midfielder Floyd Samba, son of former Blackburn and QPR centre-back Christopher. Team news is filter",
+    "published_at": "2026-10-20T18:07:21+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   },
+   {
+    "title": "PSG vs Barcelona LIVE: Champions League",
+    "url": "https://www.aljazeera.com/sports/liveblog/2026/10/20/psg-vs-barcelona-live-champions-league?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Follow updates from the league-stage clash, including the build-up, analysis and live text commentary of the game.",
+    "published_at": "2026-10-20T16:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
    }
   ]
  },
@@ -2690,6 +2681,68 @@
   ]
  },
  {
+  "id": "17b2789a7fac",
+  "headline": "Sudan drone strike kills around 150 in Abyei market",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T18:09:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Sudan drone strike kills around 150 in Abyei market",
+    "url": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military.",
+    "published_at": "2026-10-20T18:09:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   },
+   {
+    "title": "More than 150 killed in Sudan drone strike on disputed Abyei border region",
+    "url": "https://www.france24.com/en/africa/20261020-more-than-150-killed-sudan-drone-strike-disputed-abyei-border-region",
+    "source": "France 24",
+    "summary": "At least 153 people have been killed in a drone strike on a market in the disputed Abyei region, where a fire at a nearby fuel depot continued to burn on Tuesday. Local officials blamed Sudan’s military for Monday’s attack, which also left dozens injured.",
+    "published_at": "2026-10-20T16:24:47+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a51f28c5e8df",
+  "headline": "New mental health directory launches",
+  "section": "health",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-12T10:09:04+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "New mental health directory launches",
+    "url": "https://www.bbc.co.uk/news/articles/cw77prrjekr3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "It provides information about a range of services to support mental health, officials say.",
+    "published_at": "2026-10-12T10:09:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   },
+   {
+    "title": "Dream and mind-wandering reports could offer hints about mental health",
+    "url": "https://medicalxpress.com/news/2026-10-mind-hints-mental-health.html",
+    "source": "Medical Xpress",
+    "summary": "Dreams and mind-wandering have long fascinated psychologists and researchers studying the human mind. This is partly because these experiences offer glimpses into people's inner lives, emotions, past experiences and desires.",
+    "published_at": "2026-10-20T18:00:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   }
+  ]
+ },
+ {
   "id": "73d1aff3c1ba",
   "headline": "Australian MP critically injured after being hit by car in apparent attack",
   "section": "world",
@@ -2889,73 +2942,33 @@
   ]
  },
  {
-  "id": "bd80281f64b2",
-  "headline": "Kenya confirms four more Ebola cases, bringing total to seven",
-  "section": "world",
-  "score": 40,
+  "id": "f52190a49967",
+  "headline": "Meta pauses Muse sharing after researchers find AI chats on the web",
+  "section": "tech",
+  "score": 41,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-10-17T18:27:41+00:00",
-  "event_time": "2026-10-17T16:48:46+00:00",
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T18:07:34+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Kenya confirms four more Ebola cases, bringing total to seven",
-    "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "⁠Three health workers who ⁠treated the country's first Ebola patient are among the latest confirmed cases.",
-    "published_at": "2026-10-17T16:48:46+00:00",
+    "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+    "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+    "source": "The Verge",
+    "summary": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. […]",
+    "published_at": "2026-10-20T18:07:34+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
+    "seen_at": "2026-10-20T18:31:46+00:00"
    },
    {
-    "title": "Kenya reports third Ebola case, contact tracing continues",
-    "url": "https://www.france24.com/en/video/20261017-kenya-reports-third-ebola-case-contact-tracing-continues",
-    "source": "France 24",
-    "summary": "Kenya has confirmed a third case of Ebola, a relative of a man who died earlier this month after travelling from the Democratic Republic of the Congo. The health ministry said the 65-year-old woman tested positive while in quarantine, where she has been since 5 October. The second patient, a 39-year-old man from the same family, is in a stable condition. Health officials say there is no evidence o",
-    "published_at": "2026-10-17T10:56:48+00:00",
+    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "source": "TechCrunch",
+    "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+    "published_at": "2026-10-20T17:12:48+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
-   }
-  ]
- },
- {
-  "id": "344c8f05b519",
-  "headline": "Tonga stun England in World Cup opener",
-  "section": "sport",
-  "score": 40,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-17T18:27:41+00:00",
-  "event_time": "2026-10-17T17:59:48+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Tonga stun England in World Cup opener",
-    "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cm70prd68l5jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Tonga put England's Rugby League World Cup campaign under jeopardy by beating them in their opening match at HBF Park.",
-    "published_at": "2026-10-17T17:59:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
-   },
-   {
-    "title": "Brown scores stunner as England thrash World Cup debutants Wales",
-    "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cw62ydry8kj2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "England beat Women;s Rugby League World Cup debutants Wales 70-6 in their Group A opening game in Perth, Australia.",
-    "published_at": "2026-10-17T14:30:03+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
-   },
-   {
-    "title": "England crush Women's World Cup debutants Wales",
-    "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6djvxmx0z1po?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "England scored seven tries before the break, and 13 in total on their way to a comprehensive victory over Wales in their Group A opener.",
-    "published_at": "2026-10-17T12:32:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
+    "seen_at": "2026-10-20T18:31:46+00:00"
    }
   ]
  },
@@ -3761,6 +3774,37 @@
   ]
  },
  {
+  "id": "bc6142775d65",
+  "headline": "Trump sued over 50% tariffs on Canada in latest trade challenge",
+  "section": "business",
+  "score": 39,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T18:06:13+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
+    "url": "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
+    "source": "CNBC Top",
+    "summary": "A new lawsuit challenges President Donald Trump's tariffs on a range of Canadian goods using Section 338 of the Tariff Act of 1930.",
+    "published_at": "2026-10-20T18:06:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   },
+   {
+    "title": "Food importer files new lawsuit to block Trump’s Canada tariffs",
+    "url": "https://www.investing.com/news/stock-market-news/small-businesses-file-new-lawsuit-to-block-trumps-canada-tariffs-4960660",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-10-20T17:42:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   }
+  ]
+ },
+ {
   "id": "2fff25c81ddb",
   "headline": "How day of protests unfolded as disorder breaks out across France",
   "section": "world",
@@ -4554,6 +4598,37 @@
     "published_at": "2026-10-20T04:21:35+00:00",
     "source_countries": [],
     "seen_at": "2026-10-20T15:27:00+00:00"
+   }
+  ]
+ },
+ {
+  "id": "c8f82dcd4d2d",
+  "headline": "NatWest cracks down on 13,000 staff attending office two days a month",
+  "section": "business",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T16:45:24+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "NatWest cracks down on 13,000 staff attending office two days a month",
+    "url": "https://www.theguardian.com/business/2026/oct/20/natwest-staff-back-two-days-a-week-policy",
+    "source": "The Guardian World",
+    "summary": "Union furious as bank scraps remote-first policy from February 2027, forcing all UK employees to come in at least twice a week NatWest has ordered 13,000 staff to increase their in-office days from two days a month to two days a week, angering its staff union. The banking group, which serves customers under the Royal Bank of Scotland, NatWest, Ulster Bank and Coutts brands, will require all of its",
+    "published_at": "2026-10-20T16:45:24+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   },
+   {
+    "title": "NatWest cracks down on 13,000 staff attending office two days a month",
+    "url": "https://www.theguardian.com/business/2026/oct/20/natwest-staff-back-two-days-a-week-policy",
+    "source": "Guardian Business",
+    "summary": "Union furious as bank scraps remote-first policy from February 2027, forcing all UK employees to come in at least twice a week NatWest has ordered 13,000 staff to increase their in-office days from two days a month to two days a week, angering its staff union. The banking group, which serves customers under the Royal Bank of Scotland, NatWest, Ulster Bank and Coutts brands, will require all of its",
+    "published_at": "2026-10-20T16:45:24+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
    }
   ]
  },
@@ -5870,6 +5945,81 @@
   ]
  },
  {
+  "id": "7fe058073e7c",
+  "headline": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+  "section": "world",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T15:58:57+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+    "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
+    "published_at": "2026-10-20T15:58:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   }
+  ]
+ },
+ {
+  "id": "55520c5a4fbe",
+  "headline": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+  "section": "health",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T15:32:36+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+    "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+    "published_at": "2026-10-20T15:32:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   },
+   {
+    "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+    "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+    "published_at": "2026-10-20T15:32:36+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   }
+  ]
+ },
+ {
+  "id": "82bd71e8965d",
+  "headline": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+  "section": "tech",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-16T14:03:04+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+    "url": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+    "source": "The Hacker News",
+    "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to complete a coding task. The incident, the AI company said, involved an internal research model part",
+    "published_at": "2026-10-16T14:03:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   }
+  ]
+ },
+ {
   "id": "836b7e2a4943",
   "headline": "Oregon governor Tina Kotek reacts to Silver Rail Elementary school shooting",
   "section": "world",
@@ -6694,90 +6844,143 @@
   ]
  },
  {
-  "id": "304b5f13ef5a",
-  "headline": "The Bundestag has debated the genocide Germany carried out in Namibia a century ago. But will it spur progress on addressing colonial crimes?",
+  "id": "5c0ee49473e7",
+  "headline": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
   "section": "world",
-  "score": 34,
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T10:37:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Independent MP is in critical yet stable condition after man allegedly did U-turn to strike her twice with his car Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years ‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM Get our new political email , free app or daily news podcast The man accused of attacking Helen Haines alleg",
+    "published_at": "2026-10-20T10:37:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   }
+  ]
+ },
+ {
+  "id": "79850c0c3277",
+  "headline": "Tommy Robinson threatened to make families of Mail journalists ‘famous’, court hears",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T17:16:52+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Tommy Robinson threatened to make families of Mail journalists ‘famous’, court hears",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/20/tommy-robinson-threatened-families-mail-journalists-famous-court-hears",
+    "source": "The Guardian World",
+    "summary": "Jurors in harassment trial told reporters who had written about far-right activist feared ‘vigilante attack’ Tommy Robinson told the Daily Mail’s editor he would make the paper’s journalists and their families “famous”, the harassment trial of the far-right activist has been told. The threat was made in a voicemail message left on the phone of Ted Verity as Robinson, whose real name is Stephen Yax",
+    "published_at": "2026-10-20T17:16:52+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   }
+  ]
+ },
+ {
+  "id": "aad7fd976e8a",
+  "headline": "As Macron visits Gulf, can France forge its own energy-for-security future?",
+  "section": "world",
+  "score": 35,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-10-17T18:27:41+00:00",
-  "event_time": "2026-10-16T14:42:00+00:00",
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T17:22:05+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "The Bundestag has debated the genocide Germany carried out in Namibia a century ago. But will it spur progress on addressing colonial crimes?",
-    "url": "https://www.dw.com/en/the-bundestag-has-debated-the-genocide-germany-carried-out-in-namibia-a-century-ago-but-will-it-spur-progress-on-addressing-colonial-crimes/a-79682388?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Opposition parties have forced a debate in the Bundestag on the early-20th-century genocide Germany carried out in Namibia. Will this finally spur progress in addressing colonial crimes?",
-    "published_at": "2026-10-16T14:42:00+00:00",
+    "title": "As Macron visits Gulf, can France forge its own energy-for-security future?",
+    "url": "https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "President Macron's Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns.",
+    "published_at": "2026-10-20T17:22:05+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
+    "seen_at": "2026-10-20T18:31:46+00:00"
+   },
+   {
+    "title": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
+    "url": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "The UAE and Bahrain deals increase French commitments to 295,000 tonnes a month, just over 10 percent of consumption.",
+    "published_at": "2026-10-20T16:33:43+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-20T18:31:46+00:00"
    }
   ]
  },
  {
-  "id": "0dd4d26037fa",
-  "headline": "Energy bills through the roof? Five signs your house is leaking heat",
-  "section": "business",
-  "score": 34,
+  "id": "747c078bc4b8",
+  "headline": "‘You have to sacrifice’: Trump voters stay loyal as US midterms approach",
+  "section": "world",
+  "score": 35,
   "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-10-17T18:27:41+00:00",
-  "event_time": "2026-10-14T06:00:47+00:00",
+  "depth_signal": 8,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T15:57:47+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Energy bills through the roof? Five signs your house is leaking heat",
-    "url": "https://www.theguardian.com/money/2026/oct/14/energy-bills-roof-house-leaking-heat",
-    "source": "Guardian Business",
-    "summary": "From finding draughts to buying a thermal leak detector – there are simple, cost-effective ways to start sorting heat loss How to storm-proof your home, from roof tiles to garden fences Pick a day when there is a good breeze, and heat the house to its usual temperature. Then wander around with a candle or smoke pen (about £20). Alternatively, buy a thermal leak detector. This flashes blue for cold",
-    "published_at": "2026-10-14T06:00:47+00:00",
+    "title": "‘You have to sacrifice’: Trump voters stay loyal as US midterms approach",
+    "url": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Rising economic pain confronting US voters has not translated into a loss of faith among Trump’s most loyal supporters.",
+    "published_at": "2026-10-20T15:57:47+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
+    "seen_at": "2026-10-20T18:31:46+00:00"
    }
   ]
  },
  {
-  "id": "5703a075afd5",
-  "headline": "Haaland helps Maresca achieve record start as Manchester City defeat Ipswich",
-  "section": "sport",
-  "score": 34,
+  "id": "186742159259",
+  "headline": "‘It’s important that Michael’s voice is heard’: Jaafar Jackson says second biopic of his uncle will cover sexual abuse allegations",
+  "section": "culture",
+  "score": 35,
   "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-10-17T18:27:41+00:00",
-  "event_time": "2026-10-17T16:08:40+00:00",
+  "depth_signal": 0,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T15:15:32+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Haaland helps Maresca achieve record start as Manchester City defeat Ipswich",
-    "url": "https://www.theguardian.com/football/2026/oct/17/manchester-city-ipswich-premier-league-match-report",
-    "source": "Guardian Sport",
-    "summary": "There have been few winners in Manchester City’s guilty verdict, except highly paid lawyers and the inflatable fruit industry. The fans have suffered, being forced to question everything they have been told, while being labelled “cheats”, but they were able to forget the cacophony of noise around the club as Enzo Maresca became the first manager to win his first seven games in charge of a team. Ip",
-    "published_at": "2026-10-17T16:08:40+00:00",
+    "title": "‘It’s important that Michael’s voice is heard’: Jaafar Jackson says second biopic of his uncle will cover sexual abuse allegations",
+    "url": "https://www.theguardian.com/film/2026/oct/20/michael-jackson-jaafar-jackson-biopic-uncle-sexual-abuse-allegations",
+    "source": "Guardian Culture",
+    "summary": "The star of Michael, the most commercially successful biopic of all time, has said sequel will give airtime to point-of-view of late singer Of all the criticisms levelled at the authorised biopic of Michael Jackson released earlier this year, the most persistent was that Antoine Fuqua’s film failed to mention the sexual abuse allegations against the singer. In part, this was due to a legal clause,",
+    "published_at": "2026-10-20T15:15:32+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
+    "seen_at": "2026-10-20T18:31:46+00:00"
    }
   ]
  },
  {
-  "id": "1291a473e837",
-  "headline": "Statins May Protect People From Glaucoma or Blindness By Preventing or Slowing Nerve Cell Death",
-  "section": "goodnews",
-  "score": 34,
+  "id": "1530955429aa",
+  "headline": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+  "section": "safety",
+  "score": 35,
   "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-10-17T18:27:41+00:00",
-  "event_time": "2026-10-11T15:20:19+00:00",
+  "depth_signal": 0,
+  "created": "2026-10-20T18:31:49+00:00",
+  "event_time": "2026-10-20T17:09:53+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Statins May Protect People From Glaucoma or Blindness By Preventing or Slowing Nerve Cell Death",
-    "url": "https://www.goodnewsnetwork.org/statin-drugs-may-protect-people-from-glaucoma/",
-    "source": "Good News Network",
-    "summary": "Statins may be protecting people from more than just cholesterol, suggests new research from the University of California in San Diego. Patients with glaucoma who take the cholesterol-busting pills appear less likely to need surgery—and have a reduced chance of the condition worsening, according to the findings. Called the “silent thief of sight” because the […] The post Statins May Protect People",
-    "published_at": "2026-10-11T15:20:19+00:00",
+    "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+    "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+    "source": "The Hacker News",
+    "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a browser would accept. A researcher reported the",
+    "published_at": "2026-10-20T17:09:53+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
+    "seen_at": "2026-10-20T18:31:46+00:00"
    }
   ]
  },
@@ -8303,182 +8506,6 @@
     "published_at": "2026-10-16T15:02:46+00:00",
     "source_countries": [],
     "seen_at": "2026-10-20T15:27:00+00:00"
-   }
-  ]
- },
- {
-  "id": "f27e5a0d9bb1",
-  "headline": "‘It speaks very poorly of us as a society’: Lawrence Wright on his book on death row and redemption",
-  "section": "culture",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-10-20T15:27:15+00:00",
-  "event_time": "2026-10-20T09:00:22+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "‘It speaks very poorly of us as a society’: Lawrence Wright on his book on death row and redemption",
-    "url": "https://www.theguardian.com/books/2026/oct/20/lawrence-wright-book-death-row",
-    "source": "Guardian Culture",
-    "summary": "The Pulitzer prize-winning writer’s new book looks at the women on death row in Texas and the nuns who have been trying to help them It is “stunning”, the Pulitzer-winning reporter Lawrence Wright said, that Redemption, his new book about women on death row in Texas and the nuns who minister to them, turns out to be published at a time of intense focus on capital punishment. Two cases dominate hea",
-    "published_at": "2026-10-20T09:00:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-20T15:27:00+00:00"
-   }
-  ]
- },
- {
-  "id": "50e342417287",
-  "headline": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-  "section": "safety",
-  "score": 34,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-20T15:27:15+00:00",
-  "event_time": "2026-10-20T05:53:16+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-    "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-    "source": "The Hacker News",
-    "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets. In a new court filing Sunday, prosecutors revealed that Abdulrahman Alfozan, a 35-year-old Saudi national, was \"in frequent communications via WhatsApp",
-    "published_at": "2026-10-20T05:53:16+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-20T15:27:00+00:00"
-   }
-  ]
- },
- {
-  "id": "184ed1696874",
-  "headline": "Civil servant faked illness with make-up to juggle five jobs, court hears",
-  "section": "business",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-17T18:27:41+00:00",
-  "event_time": "2026-10-14T11:57:22+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
-    "url": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
-    "published_at": "2026-10-14T11:57:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
-   }
-  ]
- },
- {
-  "id": "58e4191fcfe4",
-  "headline": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-  "section": "ai",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-17T18:27:41+00:00",
-  "event_time": "2026-10-14T02:00:14+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-    "source": "Google DeepMind",
-    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "published_at": "2026-10-14T02:00:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
-   }
-  ]
- },
- {
-  "id": "c7e7ad60970c",
-  "headline": "Microsoft Plugs Nearly 1,000 Security Holes",
-  "section": "safety",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-17T18:27:41+00:00",
-  "event_time": "2026-09-08T21:44:22+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-    "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-    "source": "Krebs on Security",
-    "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and d",
-    "published_at": "2026-09-08T21:44:22+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T18:27:38+00:00"
-   }
-  ]
- },
- {
-  "id": "677a5979cfb8",
-  "headline": "Violent clashes, looting and buildings ablaze as hundreds arrested after France protests",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-17T21:22:21+00:00",
-  "event_time": "2026-10-17T20:52:17+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Violent clashes, looting and buildings ablaze as hundreds arrested after France protests",
-    "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
-    "published_at": "2026-10-17T20:52:17+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T21:22:17+00:00"
-   }
-  ]
- },
- {
-  "id": "46647e002280",
-  "headline": "European diplomats attacked by Israeli settlers in West Bank",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-17T21:22:21+00:00",
-  "event_time": "2026-10-17T18:38:57+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "European diplomats attacked by Israeli settlers in West Bank",
-    "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-    "published_at": "2026-10-17T18:38:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T21:22:17+00:00"
-   }
-  ]
- },
- {
-  "id": "738b4e9d8247",
-  "headline": "Plover, not a fighter: masked lapwing nesting on Tasmanian cricket ground indifferent as play continues",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-17T21:22:21+00:00",
-  "event_time": "2026-10-17T19:00:40+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Plover, not a fighter: masked lapwing nesting on Tasmanian cricket ground indifferent as play continues",
-    "url": "https://www.theguardian.com/australia-news/2026/oct/18/plover-not-a-fighter-masked-lapwing-nesting-on-tasmanian-cricket-ground-indifferent-as-play-continues",
-    "source": "The Guardian World",
-    "summary": "While masked lapwings have a reputation for swooping during nesting season, Windsor Park oval’s resident plover just wants a good innings At Windsor Park in Riverside, just outside Launceston in northern Tasmania, a masked lapwing has claimed prime real estate in the middle of a community sports ground, showing complete indifference to the weekend cricket matches taking place around it. Warming a ",
-    "published_at": "2026-10-17T19:00:40+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-17T21:22:17+00:00"
    }
   ]
  }
