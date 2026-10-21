@@ -148,7 +148,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-14  (5 zdrojů, síla 79)  Russian strikes leave 600,000 without power in Ukraine, Zelensky says
   2026-10-14  (3 zdrojů, síla 56)  Watch: Block of flats destroyed in Russian strikes on Ukraine
   2026-10-14  (3 zdrojů, síla 60)  Ukraine says Musk's SpaceX limits Kyiv's Starlink access
   2026-10-14  (3 zdrojů, síla 60)  Ukraine blindsided by Starlink throttling restrictions and intelligence gaps
@@ -168,6 +167,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-19  (2 zdrojů, síla 45)  Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
   2026-10-20  (2 zdrojů, síla 42)  US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
   2026-10-21  (4 zdrojů, síla 66)  US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
+  2026-10-21  (2 zdrojů, síla 50)  Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
 ```
 
 ---

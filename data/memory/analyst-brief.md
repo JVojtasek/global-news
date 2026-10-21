@@ -23,7 +23,6 @@ Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 73 dní · 60 záznamů
 - časová osa:
-  - **2026-10-16** (2 zdrojů) Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'
   - **2026-10-16** (1 zdrojů) Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time
   - **2026-10-17** (3 zdrojů) Trump waives several Russia sanctions as new US law takes effect
   - **2026-10-17** (4 zdrojů) Russia wants blackout in Ukraine as winter comes — Zelenskyy
@@ -33,6 +32,7 @@ Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-19** (2 zdrojů) Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
   - **2026-10-20** (2 zdrojů) US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
   - **2026-10-21** (4 zdrojů) US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
+  - **2026-10-21** (2 zdrojů) Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
