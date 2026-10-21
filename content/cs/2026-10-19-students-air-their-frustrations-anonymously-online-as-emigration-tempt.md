@@ -12,6 +12,10 @@ date: '2026-10-19'
 status: published
 confidence: 0
 image_query: Students air their frustrations anonymously online
+impact:
+  areas: [life]
+  line: "Většiny čtenářů se to přímo netýká. Užitečná je metoda: tříčlenný tým proměnil roztroušené anonymní stížnosti v roztříděná a datovaná hlášení. Jeden případ koleje bez elektřiny skončil rezignací ředitele."
+  todo: "Když se ve škole nebo v práci opakuje stejný problém, zapisujte každý případ s datem, místem a kategorií, než se obrátíte na instituci; vzorec se odbývá hůř než jedna stížnost."
 syndicated:
   source: Global Voices
   author: Daria Dergacheva

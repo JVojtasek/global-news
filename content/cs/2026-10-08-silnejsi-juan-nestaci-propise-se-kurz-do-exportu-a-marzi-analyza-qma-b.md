@@ -12,6 +12,10 @@ date: '2026-10-08'
 status: published
 confidence: 0
 image_query: 'Silnější jüan nestačí: propíše se'
+impact:
+  areas: [money]
+  line: "U pokladny se zatím nic nemění. Kdyby jüan opravdu posílil, čínská auta, baterie a spotřebiče by v zahraničí mohly trochu zdražit. Analýza ale upozorňuje, že velcí exportéři to mohou spolknout v marži."
+  todo: "Sledujte, jestli se ceny čínského zboží, které kupujete, opravdu hnou; oficiální obraz dávají antidumpingová rozhodnutí EU a reálný efektivní kurz od BIS."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/silnejsi-juan-nestaci-propise-se-kurz-do-exportu-a-marzi-analyza-383479

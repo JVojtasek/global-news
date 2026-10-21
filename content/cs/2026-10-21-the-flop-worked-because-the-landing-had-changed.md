@@ -18,6 +18,10 @@ automation_role: edition
 generator: chatgpt-work
 event_id: ''
 image_query: Dick Fosbury high jump Mexico City 1968 back first
+impact:
+  areas: [life]
+  line: "Denně se tím nikomu nic nemění. Podstatný je vzorec: technika z roku 1968 se rozšířila až ve chvíli, kdy pěnové doskočiště umožnilo bezpečně trénovat dopad na záda. Nový pohyb tedy závisel na vybavení kolem něj."
+  todo: "Až vám příště někdo bude něco prodávat jako průlom, zeptejte se, jaké vybavení, pravidlo nebo bezpečnostní změna ho udělaly opakovatelným a kdo k nim má přístup."
 sources:
 - name: USA Track & Field — Dick Fosbury
   url: https://www.usatf.org/athlete-bios/dick-fosbury

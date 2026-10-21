@@ -13,6 +13,10 @@ date: '2026-10-09'
 status: published
 confidence: 0
 image_query: 'Nasdaq roste: je to jen'
+impact:
+  areas: [money, life]
+  line: "Tarify se kvůli jednomu dni na burze nemění. Analýza čeká, že satelitní připojení bude operátory tlačit hlavně tam, kde jsou stožáry drahé. Pokrytí venkova se tak časem může zlepšit, účty ale hned nezlevní."
+  todo: "Podívejte se do mapy pokrytí svého operátora na místa, kam opravdu jezdíte, a zeptejte se, jestli váš telefon a tarif umějí satelitní zprávy."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nasdaq-roste-je-to-jen-uleva-z-ropy-nebo-trvale-preceneni-ai-analyza-384245

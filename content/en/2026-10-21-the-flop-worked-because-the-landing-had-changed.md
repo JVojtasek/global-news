@@ -17,6 +17,10 @@ automation_role: edition
 generator: chatgpt-work
 event_id: ''
 image_query: Dick Fosbury high jump Mexico City 1968 back first
+impact:
+  areas: [life]
+  line: "Day to day, nothing changes for anyone. What matters is the pattern: the 1968 technique spread only once foam pits made a back-first landing safe to practise, so the new move depended on the equipment around it."
+  todo: "Next time something is sold as a breakthrough, ask what equipment, rule or safety change made it repeatable, and who has access to it."
 sources:
 - name: USA Track & Field — Dick Fosbury
   url: https://www.usatf.org/athlete-bios/dick-fosbury

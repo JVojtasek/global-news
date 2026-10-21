@@ -10,6 +10,10 @@ date: '2026-10-09'
 status: published
 confidence: 0
 image_query: 'trading floor screens'
+impact:
+  areas: [money]
+  line: "Few readers hold hedge funds. The general lesson applies to any fund: when cash pays well, a manager must beat that safer return, and money staying in a fund can reflect withdrawal rules rather than trust."
+  todo: "If you hold a fund, find in its documents how often and with what notice you can withdraw, and compare its return with a savings rate over the same period."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/arini-16-z-ceho-plyne-ztrata-kredit-sazby-likvidita-paka-neb-analyza-383957

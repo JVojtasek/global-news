@@ -10,6 +10,10 @@ date: '2026-10-08'
 status: published
 confidence: 0
 image_query: 'container ship at port'
+impact:
+  areas: [money]
+  line: "Nothing changes at the till yet. If the yuan did strengthen, Chinese-made cars, batteries and appliances could get somewhat dearer abroad — but the analysis argues large exporters may absorb it in their margins instead."
+  todo: "Watch whether prices of Chinese-made goods you buy actually move; for the official picture, follow EU anti-dumping decisions and the BIS real effective exchange rate."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/silnejsi-juan-nestaci-propise-se-kurz-do-exportu-a-marzi-analyza-383479

@@ -12,6 +12,10 @@ date: '2026-10-19'
 status: published
 confidence: 0
 image_query: Students air their frustrations anonymously online
+impact:
+  areas: [life]
+  line: "Most readers are not affected directly. The useful part is the method: a three-person team turned scattered anonymous complaints into sorted, dated reports, and one case about a dormitory without electricity ended with its director resigning."
+  todo: "If a problem keeps repeating where you study or work, write down each case with date, place and category before contacting the institution; a pattern is harder to dismiss than one complaint."
 syndicated:
   source: Global Voices
   author: Daria Dergacheva

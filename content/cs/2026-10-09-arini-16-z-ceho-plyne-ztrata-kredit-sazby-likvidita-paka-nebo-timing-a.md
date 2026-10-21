@@ -13,6 +13,10 @@ date: '2026-10-09'
 status: published
 confidence: 0
 image_query: 'Arini -16 %: z čeho'
+impact:
+  areas: [money]
+  line: "Hedgeový fond drží málokdo. Obecné poučení ale platí pro každý fond: když slušně platí i hotovost, musí ji správce překonat. A peníze, které ve fondu zůstávají, můžou odrážet pravidla pro výběr, ne důvěru."
+  todo: "Pokud máte peníze ve fondu, najděte v jeho dokumentech, jak často a s jakou výpovědní lhůtou lze vybírat, a porovnejte jeho výnos se spořicí sazbou za stejné období."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/arini-16-z-ceho-plyne-ztrata-kredit-sazby-likvidita-paka-neb-analyza-383957

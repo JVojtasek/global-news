@@ -10,6 +10,10 @@ date: '2026-10-09'
 status: published
 confidence: 0
 image_query: 'mobile phone tower sky'
+impact:
+  areas: [money, life]
+  line: "Phone plans do not change because of one trading day. The analysis expects satellite links to squeeze operators mainly where towers are expensive, which could improve rural coverage over time without lowering bills right away."
+  todo: "Check your operator's coverage map for the places you actually travel, and ask whether your phone and plan support satellite messaging."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nasdaq-roste-je-to-jen-uleva-z-ropy-nebo-trvale-preceneni-ai-analyza-384245
