@@ -13,6 +13,10 @@ date: '2026-10-21'
 status: published
 confidence: 0
 image_query: 'Built for boats, adrift on land:'
+impact:
+  areas: [life, safety]
+  line: "Most readers are not personally affected day to day. But the story shows how systems tied to a permanent address — ID cards, vaccination lists, school enrolment — quietly exclude anyone who moves: migrants, unhoused people, flood victims."
+  todo: "Look up whether local charities help people without a fixed address obtain ID; follow UNICEF and national statistics on birth-registration gaps for mobile and displaced families."
 syndicated:
   source: Global Voices
   author: Masudul Zarif

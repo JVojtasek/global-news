@@ -13,6 +13,10 @@ date: '2026-10-20'
 status: published
 confidence: 0
 image_query: How an extremist network articulated a
+impact:
+  areas: [safety, life]
+  line: "Most readers are not personally affected, but the mechanics matter: in Brazil a cropped quote plus a coerced reply from X's Grok chatbot took hours to reach top trending topics. The same playbook recurs in other elections."
+  todo: "Before sharing a provocative quote from any politician, find the full video; treat a chatbot's reply as a prompt artefact, not evidence, and cross-check on IFCN-member fact-checkers."
 syndicated:
   source: Global Voices Advox
   author: Pública - Agência de jornalismo investigativo

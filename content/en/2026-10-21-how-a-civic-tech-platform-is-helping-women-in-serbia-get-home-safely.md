@@ -11,6 +11,10 @@ date: '2026-10-21'
 status: published
 confidence: 0
 image_query: How a civic tech platform is
+impact:
+  areas: [safety, life]
+  line: "Most readers are not personally affected day to day. But Serbia's SafeSteps shows a replicable model — anonymous crowd-mapping of harassment — that civic groups elsewhere can study when pressing cities for safer streets."
+  todo: "Check if your city or a local women's rights group runs a similar incident map, and look up how it handles anonymity and data retention before contributing."
 syndicated:
   source: Global Voices
   author: Daria Dergacheva

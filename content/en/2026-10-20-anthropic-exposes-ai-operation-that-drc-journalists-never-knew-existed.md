@@ -11,6 +11,10 @@ date: '2026-10-20'
 status: published
 confidence: 0
 image_query: Anthropic exposes AI operation that DRC
+impact:
+  areas: [safety, life]
+  line: "Most readers are not personally affected. The case still matters: a 70-site network pumped out 318 articles on one conflict faster than any local newsroom could verify, and detection came from the model's maker, not reporters on the ground."
+  todo: "On stories about distant conflicts, check a site's domain-registration date and masthead; follow Anthropic's and other AI firms' misuse disclosures and IFCN reports on coordinated campaigns."
 syndicated:
   source: Global Voices
   author: Laura

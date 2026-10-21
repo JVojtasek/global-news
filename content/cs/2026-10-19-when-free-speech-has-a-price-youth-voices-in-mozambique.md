@@ -1,8 +1,8 @@
 ---
 slug: when-free-speech-has-a-price-youth-voices-in-mozambique
 title: 'Když má svoboda slova svou cenu: hlasy mladých v Mosambiku'
-dek: Pro mladé Mosambičany svoboda projevu v zákonech existuje, ale promluvit nahlas
-  může něco stát. Hudba se stala silným prostorem pro kritiku a odpor.
+dek: Mosambická mládež má svobodu projevu zaručenou zákonem, ale veřejná kritika
+  se jí může vymstít. Hudba se proto stala silným prostorem pro nesouhlas a odpor.
 section: world
 type: syndicated
 depth: open
@@ -11,6 +11,10 @@ date: '2026-10-19'
 status: published
 confidence: 0
 image_query: 'When free speech has a price:'
+impact:
+  areas: [life, safety]
+  line: "Většině čtenářů se tím denně nic nemění. Text ale pojmenovává mechanismus, který funguje i tam, kde je svoboda slova v ústavě: ekonomickou cenu kritiky. Když kritik přijde o zakázky nebo o práci, zákon zůstává jen na papíře."
+  todo: "Při čtení kritiky v menším trhu si všimněte, kdo autora zaměstnává a kdo jsou jeho zákazníci; podívejte se do výročních zpráv Reportérů bez hranic a Freedom House o podmínkách tisku."
 syndicated:
   source: Global Voices
   author: Liam Anderson
@@ -26,38 +30,38 @@ sources:
   url: https://globalvoices.org/2026/10/11/when-free-speech-has-a-price-youth-voices-in-mozambique/
 ---
 
-Když svobodné slovo může něco stát, mladí lidé sahají po hudbě, aby prolomili politické mlčení
+Když má svobodné slovo svou cenu, mladí lidé se obracejí k hudbě, aby prolomili politické mlčení
 
 Původně publikováno na Global Voices
 
-Skupina mužů během pokojného protestu; jeden z nich drží mikrofon a transparent. Fotografie: Stephanie Douglas. Nigérie. Via Pexels. Pexels License.
+Skupina mužů během pokojného protestu; jeden z nich drží mikrofon a transparent. Foto: Stephanie Douglas. Nigérie. Via Pexels. Pexels License.
 
-V Mosambiku upravuje svobodu projevu zákon o právu na informace č. 34/2014, přičemž jde o ústavně zaručené právo podle článku 48 Ústavy Mosambické republiky. Pro mnoho mladých lidí však mluvit veřejně o korupci, nerovnosti, policejním násilí nebo zodpovědnosti stále znamená riziko. Ukazuje to propast mezi tím, co demokracie slibuje, a tím, jak vypadá všední den.
+V Mosambiku upravuje svobodu projevu zákon o právu na informace č. 34/2014 a ústavně ji zaručuje článek 48 Ústavy Mosambické republiky. Přesto pro řadu mladých lidí nese veřejná řeč o korupci, nerovnosti, policejním násilí nebo odpovědnosti vrchnosti dál své riziko. Ukazuje to propast mezi tím, co demokracie slibuje, a tím, jak vypadá každodenní život.
 
-Ten rozpor je dobře vidět třeba v hudbě. Během posledních dvou dekád se hip-hop stal pro mládež ve městech, zvláště v hlavním městě Maputu, hlavním prostorem pro společenskou kritiku. Víc než jen hudební žánr: hip-hop se stal způsobem, jak zaznamenat starosti generace, která vyrostla na jedné straně s politickou demokratizací a stranickou pluralitou od začátku devadesátých let, na druhé straně ale s vysokou nezaměstnaností mladých, ekonomickými nerovnostmi a rostoucí nedůvěrou k veřejným institucím vedeným vládnoucí stranou FRELIMO.
+Dobře je to vidět třeba v hudbě. Za posledních dvacet let se hip-hop stal pro mládež z měst důležitým prostorem pro společenskou kritiku, hlavně v hlavním městě Maputu. Hip-hop je víc než hudební žánr: stal se způsobem, jak zapsat starosti generace, která vyrostla na jedné straně v demokratizaci a vícestranickém systému počátku devadesátých let, na druhé straně s vysokou nezaměstnaností mladých, ekonomickou nerovností a rostoucí nedůvěrou k veřejným institucím vedeným vládní stranou FRELIMO.
 
-Hudebními příběhy vytvořily skupiny jako GPRO a umělci jako Azagaia jazyk, který odrážel každodenní zkušenost lidí ve veřejném prostoru a v institucích. Otázka, kterou Azagaia klade v písni „O ciclo da Censura" (Kruh cenzury), je možná pořád aktuální: „Kdo řekl, že je v téhle zemi svoboda projevu?" Není to jen umělecká provokace. Je to zamyšlení nad materiálními a politickými podmínkami, které určují, kdo smí mluvit, o čem a s jakými následky.
+Skupiny jako GPRO a umělci jako Azagaia vytvořili ve svých textech jazyk, který odrážel to, co lidé zažívali ve veřejném i úředním prostoru. Otázka, kterou Azagaia pokládá v písni „O ciclo da Censura" (Koloběh cenzury), asi dál platí: „Kdo říkal, že v téhle zemi je svoboda projevu?" Nejde o pouhou provokativní frázi. Je to zamyšlení nad hmotnými a politickými poměry, které rozhodují o tom, kdo smí mluvit, o čem a s jakými následky.
 
-### New forms of citizenship
+### Nová podoba občanství
 
-Mosambická mládež znovu objevuje způsoby, jak se politicky účastnit. Dlouhá léta se občanství silně vázalo na politické strany a státní organizace, dnes ale protéká i jinými cestami: feministickými kolektivy, jako je Woman's Forum, digitálními platformami pro sledování místní samosprávy, kulturními spolky a uměleckými iniciativami. Je to generace, která nepřijímá politiku omezenou na volby a chce se trvale podílet na podobě veřejného prostoru.
+Mosambická mládež nachází pořád nové způsoby, jak být politicky činná. Zatímco dlouhé roky bylo občanství spojené hlavně se stranami a státními organizacemi, dnes se přelévá i do jiných míst: feministických spolků, jako je Woman's Forum, digitálních platforem pro sledování místní samosprávy, kulturních sdružení a uměleckých iniciativ. Je to generace, která nepřijímá, že by se politika měla smrsknout jen na volby, a žádá právo neustále se podílet na podobě veřejného prostoru.
 
-Tyhle nové formy účasti se ale často srážejí s úřady, které v protestu dál vidí hrozbu pro veřejný pořádek. Jedna z nejvýraznějších událostí se stala v roce 2016, kdy feministické organizace vyšly do ulic proti zákazu minisukní na státních školách. Opatření se tvářilo jako odpověď na sexuální obtěžování, ve skutečnosti ale naznačovalo, že si za újmu, kterou utrpěly, mohou samy studentky svým oblečením.
+Jenže tyhle nové formy účasti často naráží na úřady, které v protestu dál vidí hrozbu veřejnému pořádku. Jedna z nejnápadnějších událostí se stala v roce 2016, kdy vyšly feministické organizace do ulic proti zákazu minisukní ve státních školách. Opatření se prezentovalo jako odpověď na sexuální obtěžování, ale ve skutečnosti dávalo najevo, že si dívky za obtěžování můžou samy – podle toho, jak se oblékají.
 
-Tím, že odpovědnost přesunul na dívky místo na agresory, debata odhalila něco hlubšího: spor o kontrolu nad ženským tělem a o právo mladých žen samy si určovat identitu. Během demonstrací byla španělská aktivistka Eva Anadón Moreno zadržena a následně z Mosambiku vyhoštěna za účast na protestu.
+Když se místo útočníků postavily před soud vlastně oběti, odhalila se hlubší věc: spor o to, kdo řídí ženské tělo a jestli má mladá žena právo určit si vlastní identitu. Během demonstrací byla zadržena španělská aktivistka Eva Anadón Moreno a následně z Mosambiku vyhoštěna za účast na protestu.
 
-### Silence is also political
+### I mlčení je politika
 
-V posledních letech má cenzura v Mosambiku jen zřídka podobu výslovného zákazu. To ale neznamená, že by strach a autocenzura zmizely. V rozhovoru z roku 2010 Azagaia poznamenal, že největší překážkou svobody projevu v Mosambiku není nutně přímá policejní zastrašování, ale ekonomická nejistota. Když řada pracovních příležitostí přímo nebo nepřímo závisí na vztazích s etablovanými mocenskými strukturami, veřejná kritika člověka ohrožuje.
+V posledních letech cenzura v Mosambiku málokdy přichází v podobě otevřeného zákazu. Neznamená to ale, že by strach a autocenzura zmizely. V rozhovoru z roku 2010 Azagaia poznamenal, že největší překážkou svobody projevu v Mosambiku nejsou nutně policejní výhrůžky, ale ekonomická nejistota. Když řada pracovních míst závisí přímo nebo nepřímo na vztazích s mocnými strukturami, veřejná kritika člověka vystavuje riziku.
 
-Vzniká tak něco, co by se dalo nazvat „ekonomikou mlčení". Novináři se vyhýbají určitým tématům, umělci si hlídají, co řeknou, úředníci drží své názory pod pokličkou a mladí aktivisté se učí, že slova mohou mít vysokou cenu. Svoboda pak přestává být jen právní otázkou a stává se otázkou přežití. V takovém prostředí získává protestní hudba zvláštní politickou váhu. Prolomuje společné mlčení a vytváří komunity vzájemného uznání, v nichž zkušenost s nespravedlností nachází jazyk, paměť a solidaritu.
+Vzniká tak něco, co by se dalo nazvat „ekonomikou mlčení". Novináři obcházejí určitá témata, umělci si dávají pozor na slova, úředníci si drží své názory pro sebe a mladí aktivisté se učí, že slova můžou stát hodně. Svoboda tak přestává být jen právní otázkou a stává se otázkou přežití. V takovém prostředí dostává protestní hudba výjimečný politický význam. Láme kolektivní mlčení a vytváří společenství, ve kterých dostává zkušenost s nespravedlností svůj jazyk, paměť a solidaritu.
 
-### The mirage of freedom of expression
+### Přelud svobody projevu
 
-Mosambická ústava přiznává všem občanům právo na svobodu projevu a názoru. Demokracie se ale neměří jen právy na papíře, ale i tím, za jakých podmínek je lze skutečně využívat. Zrádný přelud svobody tkví v tom rozporu: od občanů se čeká, že uvěří, že mohou mluvit svobodně, zatímco neformální mechanismy dohledu, stigmatizace a vyloučení určují, kdo se do veřejného prostoru vejde. Nemusíte zakázat všechny hlasy, stačí nastavit cenu nesouhlasu dost vysoko, aby odrazovala — třeba zvýšením telekomunikačních tarifů nad jejich skutečnou úroveň.
+Mosambická ústava přiznává všem občanům právo na svobodu projevu a názoru. Jenže demokracie se nepoznává jen podle práv na papíře, ale podle skutečných podmínek, za kterých se dají využít. Přelud svobody je právě v tomhle rozporu: po občanech se žádá, aby věřili, že můžou mluvit svobodně, zatímco neformální mechanismy sledování, nálepkování a vylučování rozhodují o tom, kdo smí do veřejného prostoru vstoupit. Není nutné zakázat všechny hlasy; stačí, aby cena za nesouhlas byla tak vysoká, že odrazuje – třeba zdražením telekomunikačních poplatků daleko nad reálné náklady.
 
-V téhle situaci aktivismus mladých tu dvojznačnost symbolizuje. Zesiluje hlasy, které byly historicky umlčovány, a dělá je viditelnější. Čím větší je schopnost umělce, aktivisty nebo kolektivu mládeže zmobilizovat lidi, tím větší je i riziko zastrašování, dezinformací nebo ekonomické izolace.
+V téhle situaci v sobě aktivismus mládeže nese obojí najednou. Mládež zesiluje historicky umlčované hlasy a dostává je do viditelnějšího světla. Čím víc dokáže umělec, aktivista nebo mladý kolektiv lidi zburcovat, tím větší je riziko zastrašování, dezinformací nebo ekonomické izolace.
 
-### Amplifying youth voices
+### Zesilovat hlasy mladých
 
-Navzdory překážkám mladí lidé dál vytvářejí novou politickou naději. Umění, hudba a digitální aktivismus ukazují, že občanství není jen právní stav, ale každodenní praxe účasti, představivosti a vzdoru. Opravdovou výzvou pro Mosambik není chránit svobodu projevu zapsanou v ústavě, ale vytvořit podmínky, aby ji mohl každý uplatnit bez obav z ekonomických, společenských nebo politických odvet. Zásadní otázka nezní, zda mladí mohou mluvit, ale zda mohou mluvit, aniž by tím ohrozili svou bezpečnost, svou práci nebo svou schopnost zapojit se do veřejného života.
+Navzdory všem překážkám mladí lidé pořád vytvářejí nové podoby politické naděje. Umění, hudba a digitální aktivismus ukazují, že občanství není jen právní stav, ale každodenní cvičení v účasti, představivosti a vzdoru. Skutečný úkol pro ochranu Mosambičanů nespočívá jen v tom, aby svoboda projevu byla napsaná v ústavě, ale aby existovaly podmínky, v nichž ji může každý uplatnit beze strachu z ekonomické, společenské nebo politické odvety. Zásadní otázka pro Mosambik nezní jenom, jestli mladí lidé smějí mluvit, ale jestli můžou mluvit, aniž by riskovali svou bezpečnost, práci nebo možnost být součástí veřejného života.

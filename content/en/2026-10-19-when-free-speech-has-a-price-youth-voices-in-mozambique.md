@@ -11,6 +11,10 @@ date: '2026-10-19'
 status: published
 confidence: 0
 image_query: 'When free speech has a price:'
+impact:
+  areas: [life, safety]
+  line: "Most readers are not personally affected, but the article names a mechanism that works even where free speech is in the constitution: the economic cost of dissent. When critics lose contracts or jobs, the law stays on paper."
+  todo: "When reading criticism in a small market, note who employs the author and who their clients are; check Reporters Without Borders and Freedom House annual reports on press freedom conditions."
 syndicated:
   source: Global Voices
   author: Liam Anderson
