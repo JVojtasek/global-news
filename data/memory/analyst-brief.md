@@ -9,7 +9,6 @@ Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 64 dní · 60 záznamů
 - časová osa:
-  - **2026-10-18** (2 zdrojů) LIVE: Leeds United vs Manchester United – Premier League
   - **2026-10-18** (2 zdrojů) Manchester City owner’s £55m housing loan while Burnham was mayor investigated
   - **2026-10-18** (3 zdrojů) Man Utd showed 'unity' in draw with Leeds - Carrick
   - **2026-10-19** (1 zdrojů) Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
@@ -19,11 +18,11 @@ Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-20** (2 zdrojů) PSG end Barcelona's winning run as Liverpool fight back against Villarreal
   - **2026-10-21** (3 zdrojů) No jeopardy but loads of fun - Champions League sets new goals record
   - **2026-10-21** (2 zdrojů) Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
+  - **2026-10-21** (2 zdrojů) Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 73 dní · 60 záznamů
 - časová osa:
-  - **2026-10-16** (1 zdrojů) Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time
   - **2026-10-17** (3 zdrojů) Trump waives several Russia sanctions as new US law takes effect
   - **2026-10-17** (4 zdrojů) Russia wants blackout in Ukraine as winter comes — Zelenskyy
   - **2026-10-17** (2 zdrojů) Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
@@ -33,6 +32,7 @@ Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-20** (2 zdrojů) US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
   - **2026-10-21** (4 zdrojů) US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
   - **2026-10-21** (2 zdrojů) Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
+  - **2026-10-21** (1 zdrojů) ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
@@ -53,7 +53,6 @@ Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 71 dní · 60 záznamů
 - časová osa:
-  - **2026-09-30** (2 zdrojů) Questions remain over Iran’s link to alleged RAF Fairford bomb plot
   - **2026-10-01** (2 zdrojů) Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
   - **2026-10-03** (3 zdrojů) Russia strikes second major bridge in Kyiv, mayor says
   - **2026-10-04** (2 zdrojů) Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
@@ -63,6 +62,7 @@ Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-14** (2 zdrojů) Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns
   - **2026-10-19** (2 zdrojů) Strait of Hormuz scoured for spilt cargo after Iran attacks container ships
   - **2026-10-21** (2 zdrojů) Russia arrests German man, calls him a Ukraine 'mercenary'
+  - **2026-10-21** (3 zdrojů) Russia says it is ready to resume talks with Ukraine and US to end war
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 60 dní · 60 záznamů
