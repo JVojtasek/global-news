@@ -9,7 +9,6 @@ Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 64 dní · 60 záznamů
 - časová osa:
-  - **2026-10-17** (2 zdrojů) Manzambi heads Villa to victory at Newcastle
   - **2026-10-18** (2 zdrojů) LIVE: Leeds United vs Manchester United – Premier League
   - **2026-10-18** (2 zdrojů) Manchester City owner’s £55m housing loan while Burnham was mayor investigated
   - **2026-10-18** (3 zdrojů) Man Utd showed 'unity' in draw with Leeds - Carrick
@@ -19,11 +18,11 @@ Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-20** (2 zdrojů) Audit regulator looking into Manchester City accounting
   - **2026-10-20** (2 zdrojů) PSG end Barcelona's winning run as Liverpool fight back against Villarreal
   - **2026-10-21** (3 zdrojů) No jeopardy but loads of fun - Champions League sets new goals record
+  - **2026-10-21** (2 zdrojů) Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 72 dní · 60 záznamů
+- rubrika `world` · sledováno 73 dní · 60 záznamů
 - časová osa:
-  - **2026-10-15** (2 zdrojů) Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'
   - **2026-10-16** (2 zdrojů) Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'
   - **2026-10-16** (1 zdrojů) Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time
   - **2026-10-17** (3 zdrojů) Trump waives several Russia sanctions as new US law takes effect
@@ -33,6 +32,7 @@ Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-19** (4 zdrojů) Trump says suspension of Russia sanctions is to keep peace negotiations going
   - **2026-10-19** (2 zdrojů) Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
   - **2026-10-20** (2 zdrojů) US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
+  - **2026-10-21** (4 zdrojů) US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 

@@ -54,39 +54,39 @@
   - **Investing.com** — Oil prices slide as Trump waives Russia sanctions
     <https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158>
 
-### 3. US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
-- id události: `483726046d99`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **The Guardian World** — US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
-    <https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine>
-    > Mike Huckabee calls for arrest and prosecution of those responsible as Heidi Levine, 63, recovers in hospital in Israel The US ambassador to Israel, Mike Huckabee, has denounced the settler attack that left the Washington Post photojournalist Heidi Levine badly beaten and needing
-  - **France 24** — Israeli settlers attack European diplomats, beat French mayor
-    <https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor>
-    > Israeli settlers attacked a convoy of European diplomats in the West Bank and beat up a visiting French mayor on Saturday, witnesses said, while US Secretary of State Marco Rubio warned against a brewing "crisis" in the territory a day after an American photojournalist was injure
-  - **Al Jazeera** — French mayor attacked by settlers during occupied West Bank olive harvest
-    <https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss>
-    > Bernard Baudoux, Mayor of the French town of Aulnoye-Aymeries, says masked settlers attacked him in occupied West Bank.
-  - **Al Jazeera** — EU condemns Israeli settler attack on diplomats in occupied West Bank
-    <https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss>
-    > EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.
-
-### 4. Musk confirms SpaceX and Tesla exploring merger
-- id události: `959dcb673548`  ·  rubrika: `tech`  ·  skóre: 62  ·  nezávislých zdrojů: 4
+### 3. US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
+- id události: `a6d6e5c92d7d`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **Al Jazeera** — Musk confirms SpaceX and Tesla exploring merger
-    <https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss>
-    > Elon Musk says SpaceX and Tesla are considering a merger that would form a $3.5 trillion mega company.
-  - **TechCrunch** — SpaceX and Tesla boards form special committees to review merger
-    <https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/>
-    > Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.
-  - **The Verge** — SpaceX will try catching Starship and its booster for first time, Musk says
-    <https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says>
-    > SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle 
-  - **Electrek** — Tesla and SpaceX take first step towards merger, would dilute all shareholders
-    <https://electrek.co/2026/10/20/tesla-and-spacex-take-first-step-towards-merger-would-dilute-all-shareholders/>
-    > Tesla and SpaceX have both formed special committees within their corporate boards to explore the possibility of merging the two companies according to Elon Musk, who is CEO of both companies. The merger could have big consequences not just for Tesla and SpaceX shareholders, but 
+  - **The Guardian World** — US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
+    <https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates>
+    > The meeting comes after the US official held ‘constructive’ talks with Zelenskyy in Norway Witkoff is now talking to Putin, according to Russian state media. The pair is meeting in Saint Petersburg’s Konstantinovsky Palace. Putin is joined by Dmitriev, who picked up Witkoff from 
+  - **DW News** — US envoy to meet Putin after 'positive' talks with Zelenskyy
+    <https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-all-1573-rdf>
+    > Steve Witkoff landed in St. Petersburg for talks on ending the war in Ukraine. It comes a day after he met with Ukrainian President Volodomyr Zelenskyy in Norway.
+  - **CNBC Top** — Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'
+    <https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html>
+    > Speaking in Oslo on Tuesday, Zelenskyy said Washington had reaffirmed its commitment to providing Ukraine with security guarantees.
+  - **Al Jazeera** — Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy
+    <https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss>
+    > Secretary of State Marco Rubio described Witkoff's talks with Zelenskyy as 'positive', as efforts to end war intensify.
+
+### 4. Australian MP loses both legs after alleged car attack, husband says
+- id události: `2b5f6956b663`  ·  rubrika: `world`  ·  skóre: 64  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Australian MP loses both legs after alleged car attack, husband says
+    <https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss>
+    > Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.
+  - **DW News** — Australian MP Helen Haines loses both legs after car attack as suspect appears in court
+    <https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-rdf>
+    > Doctors have amputated both of Helen Haines legs after the Australian lawmaker was hit in an apparent deliberate attack. The suspected driver involved in the attack has appeared in court.
+  - **The Guardian World** — Helen Haines has lost both legs after alleged attack but ‘her heart and mind are in good shape’, husband says
+    <https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb>
+    > Haines is in stable condition. Surgeons tried to save her right leg but both have now been amputated due to injuries Get our new political email , free app or daily news podcast The independent MP Helen Haines has lost both legs but remains in a stable condition, two days after a
+  - **Al Jazeera** — Australian MP loses both legs in vehicle attack as suspect appears in court
+    <https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss>
+    > Independent lawmaker Helen Haines is in stable condition, her husband says, as suspect charged with three offences.
 
 ---
 
@@ -119,7 +119,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-14  (2 zdrojů, síla 53)  Man City vs PSG: Champions League – teams, predictions, line ups
   2026-10-14  (3 zdrojů, síla 55)  Striker swaps Sunday league for Champions League
   2026-10-14  (2 zdrojů, síla 46)  Manchester City staff invited on government trade trip to India
   2026-10-14  (2 zdrojů, síla 42)  Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
@@ -139,6 +138,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting
   2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal
   2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record
+  2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
 ```
 
 ### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
@@ -148,7 +148,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-14  (2 zdrojů, síla 42)  Russian strikes hit key power plant in Kyiv, Zelensky says
   2026-10-14  (5 zdrojů, síla 79)  Russian strikes leave 600,000 without power in Ukraine, Zelensky says
   2026-10-14  (3 zdrojů, síla 56)  Watch: Block of flats destroyed in Russian strikes on Ukraine
   2026-10-14  (3 zdrojů, síla 60)  Ukraine says Musk's SpaceX limits Kyiv's Starlink access
@@ -168,6 +167,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-19  (4 zdrojů, síla 66)  Trump says suspension of Russia sanctions is to keep peace negotiations going
   2026-10-19  (2 zdrojů, síla 45)  Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
   2026-10-20  (2 zdrojů, síla 42)  US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
+  2026-10-21  (4 zdrojů, síla 66)  US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
 ```
 
 ---
