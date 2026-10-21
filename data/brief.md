@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-20
+# ZADÁNÍ PRO REDAKCI — 2026-10-21
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -77,12 +77,7 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### phishing scam
-- rubrika: `safety`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
-- PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Phishing — <https://en.wikipedia.org/wiki/Phishing>
-  - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
-  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
+_Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 
 ---
 
@@ -109,7 +104,6 @@
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-14  (3 zdrojů, síla 60)  Manchester United’s Martinez blasts board’s lack of investment
   2026-10-14  (2 zdrojů, síla 53)  Man City vs PSG: Champions League – teams, predictions, line ups
   2026-10-14  (3 zdrojů, síla 55)  Striker swaps Sunday league for Champions League
   2026-10-14  (2 zdrojů, síla 46)  Manchester City staff invited on government trade trip to India
@@ -129,6 +123,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-20  (2 zdrojů, síla 43)  Liverpool v Villarreal: Champions League – live
   2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting
   2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal
+  2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record
 ```
 
 ### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait

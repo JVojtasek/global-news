@@ -1,15 +1,14 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-20
+# ANALYTICKÉ ZADÁNÍ — 2026-10-21
 
-Paměť obsahuje **157 vláken**. Aktivních za posledních 14 dní: **53**.
+Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 63 dní · 60 záznamů
+- rubrika `sport` · sledováno 64 dní · 60 záznamů
 - časová osa:
-  - **2026-10-17** (2 zdrojů) Newcastle v Aston Villa: Premier League – live
   - **2026-10-17** (2 zdrojů) Manzambi heads Villa to victory at Newcastle
   - **2026-10-18** (2 zdrojů) LIVE: Leeds United vs Manchester United – Premier League
   - **2026-10-18** (2 zdrojů) Manchester City owner’s £55m housing loan while Burnham was mayor investigated
@@ -19,6 +18,7 @@ Paměť obsahuje **157 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-20** (2 zdrojů) Liverpool v Villarreal: Champions League – live
   - **2026-10-20** (2 zdrojů) Audit regulator looking into Manchester City accounting
   - **2026-10-20** (2 zdrojů) PSG end Barcelona's winning run as Liverpool fight back against Villarreal
+  - **2026-10-21** (3 zdrojů) No jeopardy but loads of fun - Champions League sets new goals record
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 72 dní · 60 záznamů
@@ -98,9 +98,9 @@ Paměť obsahuje **157 vláken**. Aktivních za posledních 14 dní: **53**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **Newcastle showed 'full commitment' in Spurs win - Jaissle** — naposledy 2026-09-05, celkem 3 záznamů
 - **Feminist activist and journalist Gloria Steinem dies, aged 92** — naposledy 2026-09-04, celkem 3 záznamů
 - **Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies** — naposledy 2026-09-03, celkem 3 záznamů
 - **Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock** — naposledy 2026-08-31, celkem 3 záznamů
 - **US states call for big changes to Instagram and Facebook as Meta child privacy trial begins** — naposledy 2026-08-26, celkem 3 záznamů
 - **Trump pauses new tariffs on Canada and says countries close to a deal** — naposledy 2026-08-24, celkem 5 záznamů
-- **‘Rival courts’: Prince Harry’s surprise UK return may provoke royal spot of bother** — naposledy 2026-08-22, celkem 4 záznamů
