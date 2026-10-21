@@ -13,6 +13,10 @@ date: '2026-10-04'
 status: published
 confidence: 0
 image_query: 'smartphone social media app subscription'
+impact:
+  areas: [money]
+  line: "Little changes day to day for most readers; what matters is the pattern. More and more free apps are shifting toward paid subscriptions, so the family budget quietly fills up with small monthly fees that add up to a sizable annual bill."
+  todo: "In your card statement, highlight every monthly subscription for a quarter, add them up, and decide which you actually used in the last month."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/snap-nestaci-sledovat-rust-predplatneho-klic-je-podil-na-trz-analyza-380143

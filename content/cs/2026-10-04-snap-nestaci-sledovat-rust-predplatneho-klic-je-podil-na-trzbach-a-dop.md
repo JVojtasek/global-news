@@ -13,6 +13,10 @@ date: '2026-10-04'
 status: published
 confidence: 0
 image_query: 'Snap: nestačí sledovat růst předplatného.'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se denně nemění nic; podstatný je trend. Čím dál víc bezplatných aplikací přechází na placené předplatné a rodinný rozpočet se tiše plní drobnými měsíčními poplatky, které v součtu dávají slušnou roční položku."
+  todo: "Ve výpisu z karty si na čtvrtletí zvýrazněte každé měsíční předplatné, sečtěte je a projděte, které z nich jste poslední měsíc opravdu používali."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/snap-nestaci-sledovat-rust-predplatneho-klic-je-podil-na-trz-analyza-380143

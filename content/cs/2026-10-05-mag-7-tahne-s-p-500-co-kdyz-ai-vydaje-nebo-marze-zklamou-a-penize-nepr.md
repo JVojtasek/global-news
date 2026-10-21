@@ -13,6 +13,10 @@ date: '2026-10-05'
 status: published
 confidence: 0
 image_query: 'Mag 7 táhne S&P 500:'
+impact:
+  areas: [money]
+  line: "Když S&P 500 táhne hrstka obrů, indexový ETF nebo penzijní fond může růst, ale ne rovnoměrně s reálnou ekonomikou. Zklamání u Mag 7 pak hýbe portfoliem víc, než by naznačovala jejich váha v indexu."
+  todo: "Zjistěte, jaký podíl v S&P 500 ETF drží Mag 7 (často přes 30 %), a ověřte, jestli stejnou expozici nedržíte ještě přes samostatný technologický fond."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/mag-7-tahne-s-p-500-co-kdyz-ai-vydaje-nebo-marze-zklamou-a-p-analyza-380980

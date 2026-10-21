@@ -13,6 +13,10 @@ date: '2026-10-01'
 status: published
 confidence: 0
 image_query: AI rally naráží na dluhopisovou
+impact:
+  areas: [money]
+  line: "Většině čtenářů se denně nemění nic, ale vyšší dlouhé výnosy tiše zdražují čekání. Růstové fondy a penzijní účty s převahou techniky mohou ztrácet, i když samy firmy pořád vykazují dobré výsledky."
+  todo: "Otevřete si výpis z penzijka nebo ETF, zjistěte, jaký podíl drží růstové nebo Nasdaq-100 fondy, a pár týdenně zkontrolujte desetiletý výnos na stránkách centrální banky."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-rally-narazi-na-dluhopisovou-gravitaci-proc-vyssi-dlouhe--analyza-378243

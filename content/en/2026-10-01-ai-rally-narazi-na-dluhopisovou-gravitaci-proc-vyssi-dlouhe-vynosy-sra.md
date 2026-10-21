@@ -12,6 +12,10 @@ date: '2026-10-01'
 status: published
 confidence: 0
 image_query: 'treasury bonds trading floor'
+impact:
+  areas: [money]
+  line: "Nothing changes overnight for most readers, but higher long-term yields quietly raise the cost of waiting. Growth-heavy funds and tech-tilted retirement accounts can lose value even when the companies themselves keep posting good earnings."
+  todo: "Pull up your retirement or ETF statement, see what share sits in growth or Nasdaq-100 funds, and check the 10-year yield at your central bank's site every few weeks."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-rally-narazi-na-dluhopisovou-gravitaci-proc-vyssi-dlouhe--analyza-378243

@@ -12,6 +12,10 @@ date: '2026-10-03'
 status: published
 confidence: 0
 image_query: 'AI ukazuje rozdíl: firmy, co'
+impact:
+  areas: [money]
+  line: "Většina čtenářů to přímo necítí, ale investice do AI tiše rozhodují, kam tečou peníze. Penzijní fondy i indexové ETF drží obě strany toho obchodu: výrobce čipů, kteří hotovost inkasují, i firmy, které účet teprve platí — ne každý dnešní vítěz jím zůstane."
+  todo: "Ve zprávách firem, které vlastníte přímo nebo přes fondy, najděte dvě položky: kapitálové výdaje spojené s AI a odpisy. Rostoucí capex bez odpovídajícího růstu tržeb je varování."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-ukazuje-rozdil-firmy-co-inkasuji-hotovost-vs-ty-co-teprve-analyza-379429

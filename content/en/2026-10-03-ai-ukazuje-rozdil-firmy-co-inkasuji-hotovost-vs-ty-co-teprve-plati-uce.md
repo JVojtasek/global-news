@@ -13,6 +13,10 @@ date: '2026-10-03'
 status: published
 confidence: 0
 image_query: 'data center server racks'
+impact:
+  areas: [money]
+  line: "Most readers see nothing directly, yet AI investment is quietly deciding where capital flows. Pension funds and index ETFs hold both sides of this trade: the chipmakers collecting cash and the firms still paying the bill — not every winner stays a winner."
+  todo: "In reports from the companies you own or hold through funds, look up two lines: AI-related capital expenditure and depreciation. Rising capex without matching revenue growth is a warning."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-ukazuje-rozdil-firmy-co-inkasuji-hotovost-vs-ty-co-teprve-analyza-379429

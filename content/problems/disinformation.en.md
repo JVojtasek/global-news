@@ -5,7 +5,7 @@ title: "Disinformation: what has actually been tried, and where the arithmetic g
 dek: "In 2026, 62% of people across 48 countries said they worry about what is real and fake online. Nobody measures how much of what they see is actually false. Five attempts to fix it, one that made things worse, and one celebrated result that did not replicate."
 status: published
 date: '2026-08-11'
-updated: '2026-08-11'
+updated: '2026-10-21'
 
 measure:
   name: "Media Literacy Index score — a composite ranking of assumed resistance to disinformation, built from press-freedom rankings (40%), PISA test scores (40%), interpersonal trust (10%), university enrolment (5%) and an e-participation index (5%)"

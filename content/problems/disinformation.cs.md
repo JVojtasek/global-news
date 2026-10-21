@@ -5,7 +5,7 @@ title: "Dezinformace: co se opravdu zkusilo a kde ten počet selže"
 dek: "V roce 2026 řeklo 62 % lidí ve 48 zemích, že mají starost, co je na internetu pravda a co ne. Kolik z toho, co vidí, je opravdu nepravda, neměří nikdo. Pět pokusů, jeden, který to zhoršil, a jeden slavný výsledek, který se nepodařilo zopakovat."
 status: published
 date: '2026-08-11'
-updated: '2026-08-11'
+updated: '2026-10-21'
 
 measure:
   name: "Skóre indexu mediální gramotnosti — složené pořadí předpokládané odolnosti vůči dezinformacím, poskládané z žebříčků svobody tisku (40 %), výsledků testů PISA (40 %), mezilidské důvěry (10 %), zápisu na vysoké školy (5 %) a indexu elektronické účasti (5 %)"

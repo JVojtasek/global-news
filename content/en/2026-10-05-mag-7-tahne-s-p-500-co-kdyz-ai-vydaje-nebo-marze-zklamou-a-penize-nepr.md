@@ -10,6 +10,10 @@ date: '2026-10-05'
 status: published
 confidence: 0
 image_query: 'stock market trading screen'
+impact:
+  areas: [money]
+  line: "When the S&P 500 is pulled by a handful of giants, an index ETF or pension fund may rise but not evenly with the real economy. A disappointment at Mag 7 then moves a portfolio more than their index weight alone would suggest."
+  todo: "Look up what share Mag 7 stocks hold in your S&P 500 ETF (often above 30%), and check whether a separate tech fund you own doubles that exposure."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/mag-7-tahne-s-p-500-co-kdyz-ai-vydaje-nebo-marze-zklamou-a-p-analyza-380980

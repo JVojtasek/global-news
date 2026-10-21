@@ -13,6 +13,10 @@ date: '2026-10-02'
 status: published
 confidence: 0
 image_query: Krátká úleva v ropě u
+impact:
+  areas: [money, life]
+  line: "Úleva na pumpě skoro nikdy není celý příběh. Pokud zůstanou dieselové marže přes zimu napjaté, náklady na kamiony, rozvoz a jídlo doženou cenu ropy se zpožděním, dlouho poté, co se trh s ropou samotnou uklidní."
+  todo: "Sledujte přes zimu dvě čísla: rozdíl mezi cenou nafty a benzinu na vaší obvyklé pumpě a týdenní zprávy o zásobách destilátů — rostoucí spread a klesající zásoby naráz jsou varování."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kratka-uleva-v-rope-u-hormuzu-nestaci-co-ukazou-dieselove-ma-analyza-378892

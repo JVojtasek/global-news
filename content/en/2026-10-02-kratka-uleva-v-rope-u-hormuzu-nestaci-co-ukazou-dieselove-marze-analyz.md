@@ -12,6 +12,10 @@ date: '2026-10-02'
 status: published
 confidence: 0
 image_query: 'oil refinery at dusk'
+impact:
+  areas: [money, life]
+  line: "Pump-price relief is almost never the full story. If diesel margins stay tight through winter, freight, delivery and food costs tend to catch up with a lag, long after oil itself calms down."
+  todo: "Watch two numbers through winter: the retail diesel-to-petrol price gap at your usual station, and weekly distillate stock reports — a widening gap and falling stocks together signal trouble ahead."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kratka-uleva-v-rope-u-hormuzu-nestaci-co-ukazou-dieselove-ma-analyza-378892
