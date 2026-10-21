@@ -38,7 +38,44 @@
     <https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html>
     > Musk and President Donald Trump have both recently criticized Ukrainian President Volodymyr Zelenskyy, who has also flagged disruptions in U.S. intel sharing.
 
-### 2. Trump says suspension of Russia sanctions is to keep peace negotiations going
+### 2. Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
+- id události: `eeea44ccd13a`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **DW News** — Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
+    <https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-rdf>
+    > Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?
+  - **Ars Technica** — Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump
+    <https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/>
+    > Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.
+  - **CNBC Top** — Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did
+    <https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html>
+    > Asked if Elon Musk ordered the slowdown, Trump said, "I don't know who did it, but I was not involved."
+  - **France 24** — Trump faces fresh questions over ties to 'humanitarian' Putin
+    <https://www.france24.com/en/trump-faces-fresh-questions-over-ties-to-humanitarian-putin>
+    > US President Donald Trump's pivot away from Ukraine has triggered fresh questions about his attachment to Russian leader Vladimir Putin, the man a top American envoy flattered on Wednesday as a "humanitarian. Trump has cast his dealings with Putin as part of a mega-deal that has 
+
+### 3. Meta ordered to pay $25 billion in Cambridge Analytica case
+- id události: `324a00b1ff1a`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **DW News** — Meta ordered to pay $25 billion in Cambridge Analytica case
+    <https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-rdf>
+    > A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign.
+  - **France 24** — Meta fined $25 billion in New Mexico over Cambridge Analytica scandal
+    <https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal>
+    > A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the p
+  - **TechCrunch** — Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal
+    <https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/>
+    > The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.
+  - **SCMP Tech (Čína)** — Meta to pay New Mexico a historic US$25 billion in Cambridge Analytica Facebook case
+    <https://www.scmp.com/news/world/united-states-canada/article/3371689/meta-pay-new-mexico-historic-us25-billion-cambridge-analytica-case>
+    > Meta Platforms was ordered to pay a groundbreaking US$25 billion civil penalty to the state of New Mexico in a consumer deception case spurred by the Cambridge Analytica scandal. The fine issued by state court Judge Francis Mathew is among the largest verdicts issued in US legal 
+  - **The Verge** — Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal
+    <https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty>
+    > The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's f
+
+### 4. Trump says suspension of Russia sanctions is to keep peace negotiations going
 - id události: `9aad51dd9229`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -53,40 +90,6 @@
     > US President Donald Trump on Sunday accused Ukrainian President Volodymyr Zelensky of prolonging the war with Russia, claiming Kyiv had little interest in peace. Trump said negotiations to end the four-year conflict were making “great progress” but alleged Zelensky was reluctant 
   - **Investing.com** — Oil prices slide as Trump waives Russia sanctions
     <https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158>
-
-### 3. US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
-- id události: `a6d6e5c92d7d`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **The Guardian World** — US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
-    <https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates>
-    > The meeting comes after the US official held ‘constructive’ talks with Zelenskyy in Norway Witkoff is now talking to Putin, according to Russian state media. The pair is meeting in Saint Petersburg’s Konstantinovsky Palace. Putin is joined by Dmitriev, who picked up Witkoff from 
-  - **DW News** — US envoy to meet Putin after 'positive' talks with Zelenskyy
-    <https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-all-1573-rdf>
-    > Steve Witkoff landed in St. Petersburg for talks on ending the war in Ukraine. It comes a day after he met with Ukrainian President Volodomyr Zelenskyy in Norway.
-  - **CNBC Top** — Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'
-    <https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html>
-    > Speaking in Oslo on Tuesday, Zelenskyy said Washington had reaffirmed its commitment to providing Ukraine with security guarantees.
-  - **Al Jazeera** — Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy
-    <https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss>
-    > Secretary of State Marco Rubio described Witkoff's talks with Zelenskyy as 'positive', as efforts to end war intensify.
-
-### 4. Australian MP loses both legs after alleged car attack, husband says
-- id události: `2b5f6956b663`  ·  rubrika: `world`  ·  skóre: 64  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Australian MP loses both legs after alleged car attack, husband says
-    <https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss>
-    > Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.
-  - **DW News** — Australian MP Helen Haines loses both legs after car attack as suspect appears in court
-    <https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-rdf>
-    > Doctors have amputated both of Helen Haines legs after the Australian lawmaker was hit in an apparent deliberate attack. The suspected driver involved in the attack has appeared in court.
-  - **The Guardian World** — Helen Haines has lost both legs after alleged attack but ‘her heart and mind are in good shape’, husband says
-    <https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb>
-    > Haines is in stable condition. Surgeons tried to save her right leg but both have now been amputated due to injuries Get our new political email , free app or daily news podcast The independent MP Helen Haines has lost both legs but remains in a stable condition, two days after a
-  - **Al Jazeera** — Australian MP loses both legs in vehicle attack as suspect appears in court
-    <https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss>
-    > Independent lawmaker Helen Haines is in stable condition, her husband says, as suspect charged with three offences.
 
 ---
 
@@ -148,7 +151,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-14  (3 zdrojů, síla 60)  Ukraine says Musk's SpaceX limits Kyiv's Starlink access
   2026-10-14  (3 zdrojů, síla 60)  Ukraine blindsided by Starlink throttling restrictions and intelligence gaps
   2026-10-14  (2 zdrojů, síla 50)  How Trump’s diesel deal with Russia will impact the United States and Ukraine
   2026-10-14  (2 zdrojů, síla 48)  Why is Starlink internet so important on the battlefield in Ukraine?
@@ -168,6 +170,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-21  (4 zdrojů, síla 66)  US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
   2026-10-21  (2 zdrojů, síla 50)  Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
   2026-10-21  (1 zdrojů, síla 45)  ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
+  2026-10-21  (4 zdrojů, síla 70)  Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
 ```
 
 ---

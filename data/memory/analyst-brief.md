@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-21
 
-Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
+Paměť obsahuje **159 vláken**. Aktivních za posledních 14 dní: **50**.
 
 ---
 
@@ -23,7 +23,6 @@ Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 73 dní · 60 záznamů
 - časová osa:
-  - **2026-10-17** (3 zdrojů) Trump waives several Russia sanctions as new US law takes effect
   - **2026-10-17** (4 zdrojů) Russia wants blackout in Ukraine as winter comes — Zelenskyy
   - **2026-10-17** (2 zdrojů) Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
   - **2026-10-17** (2 zdrojů) Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
@@ -33,13 +32,13 @@ Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-21** (4 zdrojů) US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
   - **2026-10-21** (2 zdrojů) Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
   - **2026-10-21** (1 zdrojů) ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
+  - **2026-10-21** (4 zdrojů) Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 69 dní · 60 záznamů
 - časová osa:
-  - **2026-10-14** (1 zdrojů) Do any of these Israeli candidates support a Palestinian state?
   - **2026-10-16** (2 zdrojů) Repairing Brexit economic damage should be Burnham’s top priority, business chief says
   - **2026-10-16** (4 zdrojů) Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
   - **2026-10-17** (2 zdrojů) 🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
@@ -49,6 +48,7 @@ Paměť obsahuje **158 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-18** (3 zdrojů) US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
   - **2026-10-19** (1 zdrojů) Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
   - **2026-10-21** (3 zdrojů) Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
+  - **2026-10-21** (1 zdrojů) African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 71 dní · 60 záznamů

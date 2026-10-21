@@ -1,7 +1,7 @@
 {
  "date": "2026-10-21",
  "mode": "normal",
- "days_since_human": 10,
+ "days_since_human": 11,
  "confidence_threshold": 82,
  "reserve_articles": 11,
  "news_assignments": [
@@ -92,6 +92,115 @@
    "depth": "open"
   },
   {
+   "id": "eeea44ccd13a",
+   "headline": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+   "section": "world",
+   "score": 70,
+   "sources_count": 4,
+   "depth_signal": 2,
+   "created": "2026-10-21T21:25:42+00:00",
+   "event_time": "2026-10-21T19:32:00+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+     "url": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
+     "published_at": "2026-10-21T19:32:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T21:25:34+00:00"
+    },
+    {
+     "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
+     "url": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+     "source": "Ars Technica",
+     "summary": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.",
+     "published_at": "2026-10-21T18:35:38+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T21:25:34+00:00"
+    },
+    {
+     "title": "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
+     "url": "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
+     "source": "CNBC Top",
+     "summary": "Asked if Elon Musk ordered the slowdown, Trump said, \"I don't know who did it, but I was not involved.\"",
+     "published_at": "2026-10-21T21:08:22+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T21:25:34+00:00"
+    },
+    {
+     "title": "Trump faces fresh questions over ties to 'humanitarian' Putin",
+     "url": "https://www.france24.com/en/trump-faces-fresh-questions-over-ties-to-humanitarian-putin",
+     "source": "France 24",
+     "summary": "US President Donald Trump's pivot away from Ukraine has triggered fresh questions about his attachment to Russian leader Vladimir Putin, the man a top American envoy flattered on Wednesday as a \"humanitarian. Trump has cast his dealings with Putin as part of a mega-deal that has secured the release of American detainee Stephen Hubbard -- and which Trump says will end Russia's war on Ukraine. FRANC",
+     "published_at": "2026-10-21T18:53:28+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T21:25:34+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
+   "id": "324a00b1ff1a",
+   "headline": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+   "section": "world",
+   "score": 67,
+   "sources_count": 5,
+   "depth_signal": 0,
+   "created": "2026-10-21T21:25:42+00:00",
+   "event_time": "2026-10-21T19:27:00+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+     "url": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign.",
+     "published_at": "2026-10-21T19:27:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T21:25:34+00:00"
+    },
+    {
+     "title": "Meta fined $25 billion in New Mexico over Cambridge Analytica scandal",
+     "url": "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal",
+     "source": "France 24",
+     "summary": "A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the penalty “a tax on speech.”",
+     "published_at": "2026-10-21T21:21:41+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T21:25:34+00:00"
+    },
+    {
+     "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+     "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+     "source": "TechCrunch",
+     "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
+     "published_at": "2026-10-21T19:42:32+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T21:25:34+00:00"
+    },
+    {
+     "title": "Meta to pay New Mexico a historic US$25 billion in Cambridge Analytica Facebook case",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3371689/meta-pay-new-mexico-historic-us25-billion-cambridge-analytica-case",
+     "source": "SCMP Tech (Čína)",
+     "summary": "Meta Platforms was ordered to pay a groundbreaking US$25 billion civil penalty to the state of New Mexico in a consumer deception case spurred by the Cambridge Analytica scandal. The fine issued by state court Judge Francis Mathew is among the largest verdicts issued in US legal history. The award comes after a jury in Santa Fe determined that Meta had violated the state’s consumer protection over",
+     "published_at": "2026-10-21T19:08:19+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T21:25:34+00:00"
+    },
+    {
+     "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
+     "url": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
+     "source": "The Verge",
+     "summary": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's faced several other losses or […]",
+     "published_at": "2026-10-21T19:02:49+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T21:25:34+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
    "id": "9aad51dd9229",
    "headline": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
    "section": "world",
@@ -140,106 +249,6 @@
     }
    ],
    "depth": "scripture"
-  },
-  {
-   "id": "a6d6e5c92d7d",
-   "headline": "US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live",
-   "section": "world",
-   "score": 66,
-   "sources_count": 4,
-   "depth_signal": 0,
-   "created": "2026-10-21T09:29:55+00:00",
-   "event_time": "2026-10-21T09:19:14+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-     "source": "The Guardian World",
-     "summary": "The meeting comes after the US official held ‘constructive’ talks with Zelenskyy in Norway Witkoff is now talking to Putin, according to Russian state media. The pair is meeting in Saint Petersburg’s Konstantinovsky Palace. Putin is joined by Dmitriev, who picked up Witkoff from the airport earlier. Continue reading...",
-     "published_at": "2026-10-21T09:19:14+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T09:29:52+00:00"
-    },
-    {
-     "title": "US envoy to meet Putin after 'positive' talks with Zelenskyy",
-     "url": "https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "Steve Witkoff landed in St. Petersburg for talks on ending the war in Ukraine. It comes a day after he met with Ukrainian President Volodomyr Zelenskyy in Norway.",
-     "published_at": "2026-10-21T06:46:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T09:29:52+00:00"
-    },
-    {
-     "title": "Witkoff heads to Russia for Putin talks as Zelenskyy insists 'nothing about Ukraine without Ukraine'",
-     "url": "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html",
-     "source": "CNBC Top",
-     "summary": "Speaking in Oslo on Tuesday, Zelenskyy said Washington had reaffirmed its commitment to providing Ukraine with security guarantees.",
-     "published_at": "2026-10-21T09:29:42+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T09:29:52+00:00"
-    },
-    {
-     "title": "Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy",
-     "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Secretary of State Marco Rubio described Witkoff's talks with Zelenskyy as 'positive', as efforts to end war intensify.",
-     "published_at": "2026-10-21T07:37:19+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T09:29:52+00:00"
-    }
-   ],
-   "depth": "scripture"
-  },
-  {
-   "id": "2b5f6956b663",
-   "headline": "Australian MP loses both legs after alleged car attack, husband says",
-   "section": "world",
-   "score": 64,
-   "sources_count": 4,
-   "depth_signal": 0,
-   "created": "2026-10-21T09:29:55+00:00",
-   "event_time": "2026-10-21T07:56:30+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Australian MP loses both legs after alleged car attack, husband says",
-     "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
-     "published_at": "2026-10-21T07:56:30+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T09:29:52+00:00"
-    },
-    {
-     "title": "Australian MP Helen Haines loses both legs after car attack as suspect appears in court",
-     "url": "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "Doctors have amputated both of Helen Haines legs after the Australian lawmaker was hit in an apparent deliberate attack. The suspected driver involved in the attack has appeared in court.",
-     "published_at": "2026-10-21T08:16:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T09:29:52+00:00"
-    },
-    {
-     "title": "Helen Haines has lost both legs after alleged attack but ‘her heart and mind are in good shape’, husband says",
-     "url": "https://www.theguardian.com/australia-news/2026/oct/21/helen-haines-loses-both-legs-after-mondays-alleged-attack-ntwnfb",
-     "source": "The Guardian World",
-     "summary": "Haines is in stable condition. Surgeons tried to save her right leg but both have now been amputated due to injuries Get our new political email , free app or daily news podcast The independent MP Helen Haines has lost both legs but remains in a stable condition, two days after an alleged targeted attack near her electorate office in north-east Victoria. Haines, the federal MP for Indi, had been i",
-     "published_at": "2026-10-21T06:15:55+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T09:29:52+00:00"
-    },
-    {
-     "title": "Australian MP loses both legs in vehicle attack as suspect appears in court",
-     "url": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Independent lawmaker Helen Haines is in stable condition, her husband says, as suspect charged with three offences.",
-     "published_at": "2026-10-21T08:34:37+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T09:29:52+00:00"
-    }
-   ],
-   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -267,7 +276,7 @@
    "title_hint": "What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "depth": "open",
-   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-10-14  (3 zdrojů, síla 60)  Ukraine says Musk's SpaceX limits Kyiv's Starlink access\n  2026-10-14  (3 zdrojů, síla 60)  Ukraine blindsided by Starlink throttling restrictions and intelligence gaps\n  2026-10-14  (2 zdrojů, síla 50)  How Trump’s diesel deal with Russia will impact the United States and Ukraine\n  2026-10-14  (2 zdrojů, síla 48)  Why is Starlink internet so important on the battlefield in Ukraine?\n  2026-10-15  (2 zdrojů, síla 40)  North Korea says it tested cruise missiles to be launched from sub\n  2026-10-15  (4 zdrojů, síla 73)  Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume\n  2026-10-15  (2 zdrojů, síla 48)  North Korea and China open new bridge after 12-year delay\n  2026-10-15  (2 zdrojů, síla 41)  Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'\n  2026-10-16  (2 zdrojů, síla 46)  Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'\n  2026-10-16  (1 zdrojů, síla 41)  Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time\n  2026-10-17  (3 zdrojů, síla 52)  Trump waives several Russia sanctions as new US law takes effect\n  2026-10-17  (4 zdrojů, síla 67)  Russia wants blackout in Ukraine as winter comes — Zelenskyy\n  2026-10-17  (2 zdrojů, síla 40)  Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?\n  2026-10-17  (2 zdrojů, síla 44)  Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says\n  2026-10-19  (4 zdrojů, síla 66)  Trump says suspension of Russia sanctions is to keep peace negotiations going\n  2026-10-19  (2 zdrojů, síla 45)  Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump\n  2026-10-20  (2 zdrojů, síla 42)  US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy\n  2026-10-21  (4 zdrojů, síla 66)  US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live\n  2026-10-21  (2 zdrojů, síla 50)  Putin orders release of jailed American as he meets Trump envoy for Ukraine talks\n  2026-10-21  (1 zdrojů, síla 45)  ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
+   "timeline": "VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-10-14  (3 zdrojů, síla 60)  Ukraine blindsided by Starlink throttling restrictions and intelligence gaps\n  2026-10-14  (2 zdrojů, síla 50)  How Trump’s diesel deal with Russia will impact the United States and Ukraine\n  2026-10-14  (2 zdrojů, síla 48)  Why is Starlink internet so important on the battlefield in Ukraine?\n  2026-10-15  (2 zdrojů, síla 40)  North Korea says it tested cruise missiles to be launched from sub\n  2026-10-15  (4 zdrojů, síla 73)  Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume\n  2026-10-15  (2 zdrojů, síla 48)  North Korea and China open new bridge after 12-year delay\n  2026-10-15  (2 zdrojů, síla 41)  Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'\n  2026-10-16  (2 zdrojů, síla 46)  Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'\n  2026-10-16  (1 zdrojů, síla 41)  Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time\n  2026-10-17  (3 zdrojů, síla 52)  Trump waives several Russia sanctions as new US law takes effect\n  2026-10-17  (4 zdrojů, síla 67)  Russia wants blackout in Ukraine as winter comes — Zelenskyy\n  2026-10-17  (2 zdrojů, síla 40)  Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?\n  2026-10-17  (2 zdrojů, síla 44)  Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says\n  2026-10-19  (4 zdrojů, síla 66)  Trump says suspension of Russia sanctions is to keep peace negotiations going\n  2026-10-19  (2 zdrojů, síla 45)  Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump\n  2026-10-20  (2 zdrojů, síla 42)  US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy\n  2026-10-21  (4 zdrojů, síla 66)  US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live\n  2026-10-21  (2 zdrojů, síla 50)  Putin orders release of jailed American as he meets Trump envoy for Ukraine talks\n  2026-10-21  (1 zdrojů, síla 45)  ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth\n  2026-10-21  (4 zdrojů, síla 70)  Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
    "thread_days": 60
   }
  ],

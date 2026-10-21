@@ -872,46 +872,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "president",
-    "vladimir",
-    "roth",
-    "modi",
-    "kuwait",
-    "gulf",
-    "starlink",
-    "seoul's",
-    "block",
-    "brics",
-    "saudis",
-    "down",
-    "trump",
-    "witkoff",
-    "putin",
-    "europe",
-    "britain",
-    "donald",
     "bringing",
-    "times",
-    "russian",
-    "briton",
-    "ukrainian",
-    "saudi",
-    "riyadh",
-    "ukraine",
-    "iran's",
-    "andrew",
-    "tiny",
-    "centcom",
-    "united",
-    "korea",
-    "northeastern",
-    "states",
-    "zelenskyy",
-    "removals",
+    "starlink",
     "kyiv's",
+    "seoul's",
+    "removals",
     "american",
+    "gulf",
+    "vladimir",
+    "saudis",
+    "ukrainian",
+    "putin",
+    "ukraine",
+    "president",
+    "korea",
     "moscow",
-    "poland"
+    "beijing",
+    "states",
+    "centcom",
+    "briton",
+    "times",
+    "riyadh",
+    "europe",
+    "tiny",
+    "roth",
+    "united",
+    "andrew",
+    "zelenskyy",
+    "modi",
+    "brics",
+    "block",
+    "russian",
+    "northeastern",
+    "trump",
+    "britain",
+    "kuwait",
+    "iran's",
+    "poland",
+    "donald",
+    "down",
+    "saudi"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -1070,23 +1070,12 @@
     "63d239badaa8",
     "a6d6e5c92d7d",
     "58fea97a0d5e",
-    "54022857dc5a"
+    "54022857dc5a",
+    "eeea44ccd13a"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-21",
    "timeline": [
-    {
-     "date": "2026-09-27",
-     "headline": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
-     "sources": 2,
-     "score": 49,
-     "event_id": "bd6438757477",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss",
-      "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/iran-insists-on-diplomacy-after-trump-rejects-hormuz-peace-plan-4918668"
-     ]
-    },
     {
      "date": "2026-09-27",
      "headline": "Iran sticks to Hormuz plan after Trump rejects it",
@@ -1759,6 +1748,18 @@
       "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
       "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
      ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+     "sources": 4,
+     "score": 70,
+     "event_id": "eeea44ccd13a",
+     "links": [
+      "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-rdf",
+      "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+      "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html"
+     ]
     }
    ]
   },
@@ -1767,46 +1768,46 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "repairing",
-    "further",
-    "lander",
-    "israeli",
-    "us-led",
-    "true",
-    "uk's",
-    "miklosko",
-    "suggests",
-    "european",
-    "jenin",
-    "lizards",
-    "italy",
-    "four",
-    "palestinians",
-    "evolved",
-    "brad",
-    "bank",
-    "germany",
-    "former",
-    "african",
-    "community",
-    "south",
-    "burnham",
-    "winged",
-    "many",
-    "rajab",
-    "american",
-    "democratic",
-    "poles",
-    "years",
-    "among",
     "wandered",
-    "north",
-    "past",
-    "strove",
-    "million",
+    "repairing",
     "west",
+    "uk's",
     "smithsonian",
-    "culture"
+    "suggests",
+    "palestinians",
+    "true",
+    "american",
+    "evolved",
+    "long",
+    "bank",
+    "italy",
+    "lander",
+    "former",
+    "south",
+    "among",
+    "culture",
+    "us-led",
+    "study",
+    "strove",
+    "doing",
+    "elephants",
+    "years",
+    "north",
+    "germany",
+    "continue",
+    "winged",
+    "million",
+    "rajab",
+    "brad",
+    "poles",
+    "many",
+    "ecosystem",
+    "past",
+    "lizards",
+    "african",
+    "jenin",
+    "community",
+    "died"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -1872,22 +1873,12 @@
     "a2bc87581ff4",
     "483726046d99",
     "a73367a27080",
-    "f24f3fe6d6db"
+    "f24f3fe6d6db",
+    "fe8fb25e8f04"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-10-21",
    "timeline": [
-    {
-     "date": "2026-08-16",
-     "headline": "Week in pictures: A solar eclipse, quake in Colombia and Israeli settlers in the occupied West Bank",
-     "sources": 2,
-     "score": 49,
-     "event_id": "d9fabac5169e",
-     "links": [
-      "https://www.france24.com/en/europe/20260816-week-in-pictures-a-solar-eclipse-quake-in-colombia-and-israeli-settlers-in-the-occupied-west-bank",
-      "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-18",
      "headline": "Palestinian American returns to his West Bank home, under siege by Israeli settlers",
@@ -2548,6 +2539,16 @@
       "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
       "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
       "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests",
+     "sources": 1,
+     "score": 40,
+     "event_id": "fe8fb25e8f04",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/african-elephants-shape-the-savanna-ecosystem-and-continue-doing-so-long-after-theyve-died-study-suggests-180989718/"
      ]
     }
    ]
@@ -4397,46 +4398,46 @@
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
    "entities": [
-    "zoom",
-    "open",
-    "anthropic",
-    "merging",
-    "tesla-spacex",
-    "apple",
-    "openai",
-    "tesla",
-    "alexander",
-    "india's",
-    "india",
-    "embiricos",
-    "ukraine's",
-    "miss",
-    "networking",
-    "nvidia",
-    "europe",
-    "trump",
-    "ukraine",
-    "billionaire",
-    "here",
-    "china",
-    "beyond",
-    "starlink",
-    "robinhood",
-    "dots",
-    "techcrunch",
-    "side",
-    "disrupt",
-    "wednesday's",
-    "inside",
-    "grokipedia",
     "republican",
-    "elon",
+    "india",
+    "tesla",
+    "ukraine's",
+    "spacex",
+    "starlink",
+    "india's",
     "netflix",
+    "tesla-spacex",
+    "merging",
+    "openai",
     "ambani",
-    "parties",
-    "events",
+    "here",
+    "wednesday's",
+    "alexander",
+    "china",
+    "grokipedia",
+    "networking",
+    "ukraine",
+    "side",
+    "anthropic",
+    "zoom",
+    "inside",
+    "open",
     "musk",
-    "spacex"
+    "elon",
+    "techcrunch",
+    "parties",
+    "robinhood",
+    "trump",
+    "billionaire",
+    "embiricos",
+    "events",
+    "apple",
+    "nvidia",
+    "dots",
+    "miss",
+    "disrupt",
+    "europe",
+    "beyond"
    ],
    "event_ids": [
     "95b4d8eb7452",
@@ -4463,7 +4464,8 @@
     "ed05f4b9715a",
     "959dcb673548",
     "030e0762a24f",
-    "5a36fa44b304"
+    "5a36fa44b304",
+    "2c9536723835"
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-10-21",
@@ -4756,6 +4758,18 @@
      "links": [
       "https://www.cnbc.com/2026/10/21/wednesday-biggest-analyst-calls-like-spacex.html",
       "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Tesla to report earnings after Elon Musk floats SpaceX merger plan",
+     "sources": 3,
+     "score": 53,
+     "event_id": "2c9536723835",
+     "links": [
+      "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/"
      ]
     }
    ]
@@ -5222,6 +5236,35 @@
       "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
       "https://medicalxpress.com/news/2026-10-africa-cdc-ebola-crisis-summit.html",
       "https://www.france24.com/en/video/20261021-nigeria-records-its-first-ebola-case-amid-rapid-regional-spread"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "324a00b1ff1a",
+   "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+   "section": "world",
+   "entities": [
+    "meta",
+    "analytica",
+    "cambridge"
+   ],
+   "event_ids": [
+    "324a00b1ff1a"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-21",
+   "timeline": [
+    {
+     "date": "2026-10-21",
+     "headline": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+     "sources": 5,
+     "score": 67,
+     "event_id": "324a00b1ff1a",
+     "links": [
+      "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal",
+      "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/"
      ]
     }
    ]
@@ -17196,5 +17239,5 @@
    ]
   }
  ],
- "updated": "2026-10-21T18:31:36+00:00"
+ "updated": "2026-10-21T21:25:43+00:00"
 }
