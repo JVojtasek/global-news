@@ -42,7 +42,24 @@
     <https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss>
     > EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.
 
-### 3. Man Utd showed 'unity' in draw with Leeds - Carrick
+### 3. Musk confirms SpaceX and Tesla exploring merger
+- id události: `959dcb673548`  ·  rubrika: `tech`  ·  skóre: 62  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **Al Jazeera** — Musk confirms SpaceX and Tesla exploring merger
+    <https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss>
+    > Elon Musk says SpaceX and Tesla are considering a merger that would form a $3.5 trillion mega company.
+  - **TechCrunch** — SpaceX and Tesla boards form special committees to review merger
+    <https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/>
+    > Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.
+  - **The Verge** — SpaceX will try catching Starship and its booster for first time, Musk says
+    <https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says>
+    > SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle 
+  - **Electrek** — Tesla and SpaceX take first step towards merger, would dilute all shareholders
+    <https://electrek.co/2026/10/20/tesla-and-spacex-take-first-step-towards-merger-would-dilute-all-shareholders/>
+    > Tesla and SpaceX have both formed special committees within their corporate boards to explore the possibility of merging the two companies according to Elon Musk, who is CEO of both companies. The merger could have big consequences not just for Tesla and SpaceX shareholders, but 
+
+### 4. Man Utd showed 'unity' in draw with Leeds - Carrick
 - id události: `113115a6c0d2`  ·  rubrika: `sport`  ·  skóre: 60  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -58,20 +75,6 @@
   - **Guardian Sport** — Leeds United 1-1 Manchester United: Premier League – as it happened
     <https://www.theguardian.com/football/live/2026/oct/18/leeds-v-manchester-united-premier-league-live>
     > Leeds’ Dominic Calvert-Lewin cancelled out a Bryan Mbeumo opener to end a turbulent week for the visitors ⚽ The Joy of Six: Leeds v Manchester United matches Daniel Farke , Leeds manager, is the next to speak to Sky Sports: We have to make sure we give them nothing. We want to ma
-
-### 4. Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
-- id události: `5926bff6ce39`  ·  rubrika: `world`  ·  skóre: 60  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **NPR News** — Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
-    <https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu>
-    > Trump said in a post on social media that Netanyahu "has been a Great Warrior Prime Minister, and an even greater Partner for Peace in combatting the Islamic Republic of Iran."
-  - **CNBC Top** — Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates
-    <https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html>
-    > The prime minister denied that her policies were responsible for the yen’s weakness or rising JGB yields.
-  - **Al Jazeera** — US President Donald Trump endorses Netanyahu for Israeli election
-    <https://www.aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election?traffic_source=rss>
-    > US President Donald Trump endorses Netanyahu for Israeli election
 
 ---
 

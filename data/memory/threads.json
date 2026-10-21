@@ -870,40 +870,40 @@
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
    "entities": [
-    "ambani",
-    "india",
-    "spacex",
-    "starlink",
-    "merging",
-    "china",
-    "inside",
-    "parties",
-    "musk",
-    "tesla-spacex",
-    "billionaire",
-    "ukraine's",
-    "openai",
-    "grokipedia",
-    "tesla",
-    "europe",
-    "techcrunch",
-    "ukraine",
-    "trump",
     "dots",
-    "events",
-    "side",
-    "beyond",
-    "anthropic",
-    "india's",
-    "miss",
-    "republican",
-    "networking",
-    "disrupt",
-    "alexander",
-    "apple",
-    "elon",
     "embiricos",
-    "open"
+    "disrupt",
+    "networking",
+    "ukraine's",
+    "parties",
+    "techcrunch",
+    "elon",
+    "musk",
+    "open",
+    "spacex",
+    "side",
+    "india's",
+    "merging",
+    "events",
+    "china",
+    "ambani",
+    "tesla-spacex",
+    "inside",
+    "tesla",
+    "openai",
+    "starlink",
+    "billionaire",
+    "alexander",
+    "miss",
+    "beyond",
+    "apple",
+    "anthropic",
+    "republican",
+    "europe",
+    "trump",
+    "ukraine",
+    "grokipedia",
+    "india"
    ],
    "event_ids": [
     "95b4d8eb7452",
@@ -927,7 +927,8 @@
     "658159bc4850",
     "733411f27eae",
     "b17a25d8c48a",
-    "ed05f4b9715a"
+    "ed05f4b9715a",
+    "959dcb673548"
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-10-21",
@@ -1185,6 +1186,18 @@
       "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
       "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
       "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Musk confirms SpaceX and Tesla exploring merger",
+     "sources": 4,
+     "score": 62,
+     "event_id": "959dcb673548",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
+      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
      ]
     }
    ]
@@ -17066,5 +17079,5 @@
    ]
   }
  ],
- "updated": "2026-10-21T00:56:30+00:00"
+ "updated": "2026-10-21T03:31:41+00:00"
 }
