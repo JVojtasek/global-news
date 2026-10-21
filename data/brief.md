@@ -2,14 +2,43 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **12**
+- Článků v zásobě: **11**
 - Jazyk, ve kterém se píše: **en**
 
 ---
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Trump says suspension of Russia sanctions is to keep peace negotiations going
+### 1. Elon Musk says merging Tesla and SpaceX is a good idea. Why?
+- id události: `030e0762a24f`  ·  rubrika: `world`  ·  skóre: 79  ·  nezávislých zdrojů: 8
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Elon Musk says merging Tesla and SpaceX is a good idea. Why?
+    <https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss>
+    > Musk, who is CEO of both companies, says there is "a lot to be gained" from the merger, which would be the biggest in history.
+  - **BBC Business** — Elon Musk says merging Tesla and SpaceX is a good idea. Why?
+    <https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss>
+    > Musk, who is CEO of both companies, says there is "a lot to be gained" from the merger, which would be the biggest in history.
+  - **BBC Technology** — Elon Musk says merging Tesla and SpaceX is a good idea. Why?
+    <https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss>
+    > Musk, who is CEO of both companies, says there is "a lot to be gained" from the merger, which would be the biggest in history.
+  - **BBC Science** — Elon Musk says merging Tesla and SpaceX is a good idea. Why?
+    <https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss>
+    > Musk, who is CEO of both companies, says there is "a lot to be gained" from the merger, which would be the biggest in history.
+  - **DW News** — Elon Musk ordered a slowdown of Starlink in Ukraine — report
+    <https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf>
+    > Elon Musk "capped the speeds at which Ukrainian hardware could stay connected to the satellite-based network," the Wall Street Journal reported.
+  - **Guardian Business** — Tesla and SpaceX explore merger as Elon Musk gives backing
+    <https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report>
+    > Billionaire, on SpaceX earnings call, says ‘special committees’ exploring idea but no agreement reached yet As SpaceX released its second-ever public earnings report Tuesday, Elon Musk declared his support for combining the aerospace and AI company with his electric vehicle compa
+  - **Al Jazeera** — Elon Musk says SpaceX and Tesla exploring largest merger in history
+    <https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss>
+    > Tech mogul says tie-up has a 'lot of merit', given firms' complementary work on AI.
+  - **CNBC Top** — Elon Musk ordered Starlink slowdown for Ukraine: Report
+    <https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html>
+    > Musk and President Donald Trump have both recently criticized Ukrainian President Volodymyr Zelenskyy, who has also flagged disruptions in U.S. intel sharing.
+
+### 2. Trump says suspension of Russia sanctions is to keep peace negotiations going
 - id události: `9aad51dd9229`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -25,7 +54,7 @@
   - **Investing.com** — Oil prices slide as Trump waives Russia sanctions
     <https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158>
 
-### 2. US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
+### 3. US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
 - id události: `483726046d99`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -42,7 +71,7 @@
     <https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss>
     > EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.
 
-### 3. Musk confirms SpaceX and Tesla exploring merger
+### 4. Musk confirms SpaceX and Tesla exploring merger
 - id události: `959dcb673548`  ·  rubrika: `tech`  ·  skóre: 62  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -58,23 +87,6 @@
   - **Electrek** — Tesla and SpaceX take first step towards merger, would dilute all shareholders
     <https://electrek.co/2026/10/20/tesla-and-spacex-take-first-step-towards-merger-would-dilute-all-shareholders/>
     > Tesla and SpaceX have both formed special committees within their corporate boards to explore the possibility of merging the two companies according to Elon Musk, who is CEO of both companies. The merger could have big consequences not just for Tesla and SpaceX shareholders, but 
-
-### 4. Man Utd showed 'unity' in draw with Leeds - Carrick
-- id události: `113115a6c0d2`  ·  rubrika: `sport`  ·  skóre: 60  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — Man Utd showed 'unity' in draw with Leeds - Carrick
-    <https://www.bbc.co.uk/sport/football/videos/cmlyl8yyzryeo?at_medium=RSS&at_campaign=rss>
-    > Manchester United manager Michael Carrick says his side showed "unity" during their 1-1 draw with Leeds at Elland Road.
-  - **Guardian Sport** — ‘Like a fresh start’: Michael Carrick relieved by Manchester United’s draw at Leeds
-    <https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-draw-leeds-fresh-start>
-    > Head coach insists ‘we can still have a really good season’ ‘We were the dominant side,’ says Farke After a week in which Michael Carrick had “the headphones on” to quieten the noise, Manchester United’s head coach claimed Sunday’s 1-1 draw at Leeds “felt like a fresh start” and 
-  - **Al Jazeera** — Manchester United held at Leeds despite improved performance for Carrick
-    <https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss>
-    > Bryan Mbeumo's goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds.
-  - **Guardian Sport** — Leeds United 1-1 Manchester United: Premier League – as it happened
-    <https://www.theguardian.com/football/live/2026/oct/18/leeds-v-manchester-united-premier-league-live>
-    > Leeds’ Dominic Calvert-Lewin cancelled out a Bryan Mbeumo opener to end a turbulent week for the visitors ⚽ The Joy of Six: Leeds v Manchester United matches Daniel Farke , Leeds manager, is the next to speak to Sky Sports: We have to make sure we give them nothing. We want to ma
 
 ---
 

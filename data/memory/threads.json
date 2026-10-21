@@ -870,40 +870,40 @@
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
    "entities": [
-    "dots",
-    "embiricos",
-    "disrupt",
-    "networking",
-    "ukraine's",
-    "parties",
-    "techcrunch",
-    "elon",
-    "musk",
-    "open",
-    "spacex",
-    "side",
-    "india's",
-    "merging",
-    "events",
-    "china",
-    "ambani",
-    "tesla-spacex",
-    "inside",
-    "tesla",
-    "openai",
-    "starlink",
     "billionaire",
-    "alexander",
-    "miss",
-    "beyond",
-    "apple",
+    "embiricos",
+    "india",
+    "merging",
+    "disrupt",
+    "ukraine's",
+    "ambani",
     "anthropic",
-    "republican",
-    "europe",
+    "musk",
+    "india's",
+    "techcrunch",
+    "miss",
+    "spacex",
+    "elon",
     "trump",
-    "ukraine",
+    "apple",
+    "republican",
     "grokipedia",
-    "india"
+    "tesla-spacex",
+    "parties",
+    "starlink",
+    "inside",
+    "events",
+    "networking",
+    "dots",
+    "open",
+    "ukraine",
+    "openai",
+    "beyond",
+    "tesla",
+    "side",
+    "china",
+    "alexander",
+    "europe"
    ],
    "event_ids": [
     "95b4d8eb7452",
@@ -928,7 +928,8 @@
     "733411f27eae",
     "b17a25d8c48a",
     "ed05f4b9715a",
-    "959dcb673548"
+    "959dcb673548",
+    "030e0762a24f"
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-10-21",
@@ -1198,6 +1199,18 @@
       "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
       "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
       "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+     "sources": 8,
+     "score": 79,
+     "event_id": "030e0762a24f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -17079,5 +17092,5 @@
    ]
   }
  ],
- "updated": "2026-10-21T03:31:41+00:00"
+ "updated": "2026-10-21T06:41:40+00:00"
 }

@@ -3,8 +3,94 @@
  "mode": "normal",
  "days_since_human": 10,
  "confidence_threshold": 82,
- "reserve_articles": 12,
+ "reserve_articles": 11,
  "news_assignments": [
+  {
+   "id": "030e0762a24f",
+   "headline": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+   "section": "world",
+   "score": 79,
+   "sources_count": 8,
+   "depth_signal": 0,
+   "created": "2026-10-21T06:41:40+00:00",
+   "event_time": "2026-10-21T06:36:39+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+     "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+     "published_at": "2026-10-21T06:36:39+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T06:41:34+00:00"
+    },
+    {
+     "title": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+     "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Business",
+     "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+     "published_at": "2026-10-21T06:36:39+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T06:41:34+00:00"
+    },
+    {
+     "title": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+     "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Technology",
+     "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+     "published_at": "2026-10-21T06:36:39+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T06:41:34+00:00"
+    },
+    {
+     "title": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+     "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Science",
+     "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+     "published_at": "2026-10-21T06:36:39+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T06:41:34+00:00"
+    },
+    {
+     "title": "Elon Musk ordered a slowdown of Starlink in Ukraine — report",
+     "url": "https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "Elon Musk \"capped the speeds at which Ukrainian hardware could stay connected to the satellite-based network,\" the Wall Street Journal reported.",
+     "published_at": "2026-10-21T03:00:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T06:41:34+00:00"
+    },
+    {
+     "title": "Tesla and SpaceX explore merger as Elon Musk gives backing",
+     "url": "https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report",
+     "source": "Guardian Business",
+     "summary": "Billionaire, on SpaceX earnings call, says ‘special committees’ exploring idea but no agreement reached yet As SpaceX released its second-ever public earnings report Tuesday, Elon Musk declared his support for combining the aerospace and AI company with his electric vehicle company, Tesla. He said both companies had created special committees to explore a potential merger, but have not reached any",
+     "published_at": "2026-10-21T01:10:07+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T06:41:34+00:00"
+    },
+    {
+     "title": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
+     "url": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Tech mogul says tie-up has a 'lot of merit', given firms' complementary work on AI.",
+     "published_at": "2026-10-21T03:51:39+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T06:41:34+00:00"
+    },
+    {
+     "title": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
+     "url": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html",
+     "source": "CNBC Top",
+     "summary": "Musk and President Donald Trump have both recently criticized Ukrainian President Volodymyr Zelenskyy, who has also flagged disruptions in U.S. intel sharing.",
+     "published_at": "2026-10-20T23:06:56+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T06:41:34+00:00"
+    }
+   ],
+   "depth": "open"
+  },
   {
    "id": "9aad51dd9229",
    "headline": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
@@ -154,56 +240,6 @@
     }
    ],
    "depth": "scripture"
-  },
-  {
-   "id": "113115a6c0d2",
-   "headline": "Man Utd showed 'unity' in draw with Leeds - Carrick",
-   "section": "sport",
-   "score": 60,
-   "sources_count": 3,
-   "depth_signal": 0,
-   "created": "2026-10-18T18:28:07+00:00",
-   "event_time": "2026-10-18T15:46:07+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Man Utd showed 'unity' in draw with Leeds - Carrick",
-     "url": "https://www.bbc.co.uk/sport/football/videos/cmlyl8yyzryeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "Manchester United manager Michael Carrick says his side showed \"unity\" during their 1-1 draw with Leeds at Elland Road.",
-     "published_at": "2026-10-18T15:46:07+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-18T18:27:58+00:00"
-    },
-    {
-     "title": "‘Like a fresh start’: Michael Carrick relieved by Manchester United’s draw at Leeds",
-     "url": "https://www.theguardian.com/football/2026/oct/18/manchester-united-michael-carrick-draw-leeds-fresh-start",
-     "source": "Guardian Sport",
-     "summary": "Head coach insists ‘we can still have a really good season’ ‘We were the dominant side,’ says Farke After a week in which Michael Carrick had “the headphones on” to quieten the noise, Manchester United’s head coach claimed Sunday’s 1-1 draw at Leeds “felt like a fresh start” and insisted that the season can still be a good one. Carrick’s team have seven points from seven Premier League games and h",
-     "published_at": "2026-10-18T16:50:54+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-18T18:27:58+00:00"
-    },
-    {
-     "title": "Manchester United held at Leeds despite improved performance for Carrick",
-     "url": "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Bryan Mbeumo's goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds.",
-     "published_at": "2026-10-18T15:28:30+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-18T18:27:58+00:00"
-    },
-    {
-     "title": "Leeds United 1-1 Manchester United: Premier League – as it happened",
-     "url": "https://www.theguardian.com/football/live/2026/oct/18/leeds-v-manchester-united-premier-league-live",
-     "source": "Guardian Sport",
-     "summary": "Leeds’ Dominic Calvert-Lewin cancelled out a Bryan Mbeumo opener to end a turbulent week for the visitors ⚽ The Joy of Six: Leeds v Manchester United matches Daniel Farke , Leeds manager, is the next to speak to Sky Sports: We have to make sure we give them nothing. We want to make sure the ball belongs to us, to press them high, to have possession. Continue reading...",
-     "published_at": "2026-10-18T15:25:09+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-18T18:27:58+00:00"
-    }
-   ],
-   "depth": "open"
   }
  ],
  "feature_assignments": [
