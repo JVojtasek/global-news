@@ -2,12 +2,12 @@
 title: The Flop Worked Because the Landing Had Changed
 dek: Dick Fosbury's back-first high jump looked like individual rebellion. It became
   possible because technique, body geometry and safer landing equipment changed together.
-date: '2026-09-11'
+date: '2026-10-21'
 section: sport
 type: feature
 format: ''
 series: ''
-status: reserve
+status: published
 confidence: 95
 load: 0
 topics: []
