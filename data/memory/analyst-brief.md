@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-22
 
-Paměť obsahuje **159 vláken**. Aktivních za posledních 14 dní: **48**.
+Paměť obsahuje **160 vláken**. Aktivních za posledních 14 dní: **50**.
 
 ---
 
@@ -48,6 +48,20 @@ Paměť obsahuje **159 vláken**. Aktivních za posledních 14 dní: **48**.
   - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
   - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
 
+### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+- rubrika `world` · sledováno 72 dní · 60 záznamů
+- časová osa:
+  - **2026-10-03** (3 zdrojů) Russia strikes second major bridge in Kyiv, mayor says
+  - **2026-10-04** (2 zdrojů) Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
+  - **2026-10-04** (2 zdrojů) Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
+  - **2026-10-04** (2 zdrojů) Ukraine ready for US-backed talks with Russia: Zelenskyy
+  - **2026-10-13** (2 zdrojů) ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
+  - **2026-10-14** (2 zdrojů) Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns
+  - **2026-10-19** (2 zdrojů) Strait of Hormuz scoured for spilt cargo after Iran attacks container ships
+  - **2026-10-21** (2 zdrojů) Russia arrests German man, calls him a Ukraine 'mercenary'
+  - **2026-10-21** (3 zdrojů) Russia says it is ready to resume talks with Ukraine and US to end war
+  - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
+
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 69 dní · 60 záznamů
 - časová osa:
@@ -61,20 +75,6 @@ Paměť obsahuje **159 vláken**. Aktivních za posledních 14 dní: **48**.
   - **2026-10-19** (1 zdrojů) Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
   - **2026-10-21** (3 zdrojů) Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
   - **2026-10-21** (1 zdrojů) African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
-
-### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 71 dní · 60 záznamů
-- časová osa:
-  - **2026-10-01** (2 zdrojů) Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
-  - **2026-10-03** (3 zdrojů) Russia strikes second major bridge in Kyiv, mayor says
-  - **2026-10-04** (2 zdrojů) Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
-  - **2026-10-04** (2 zdrojů) Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
-  - **2026-10-04** (2 zdrojů) Ukraine ready for US-backed talks with Russia: Zelenskyy
-  - **2026-10-13** (2 zdrojů) ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
-  - **2026-10-14** (2 zdrojů) Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns
-  - **2026-10-19** (2 zdrojů) Strait of Hormuz scoured for spilt cargo after Iran attacks container ships
-  - **2026-10-21** (2 zdrojů) Russia arrests German man, calls him a Ukraine 'mercenary'
-  - **2026-10-21** (3 zdrojů) Russia says it is ready to resume talks with Ukraine and US to end war
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 68 dní · 52 záznamů
