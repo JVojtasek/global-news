@@ -167,7 +167,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-14  (3 zdrojů, síla 60)  Ukraine blindsided by Starlink throttling restrictions and intelligence gaps
   2026-10-14  (2 zdrojů, síla 50)  How Trump’s diesel deal with Russia will impact the United States and Ukraine
   2026-10-14  (2 zdrojů, síla 48)  Why is Starlink internet so important on the battlefield in Ukraine?
   2026-10-15  (2 zdrojů, síla 40)  North Korea says it tested cruise missiles to be launched from sub
@@ -187,6 +186,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-21  (2 zdrojů, síla 50)  Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
   2026-10-21  (1 zdrojů, síla 45)  ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
   2026-10-21  (4 zdrojů, síla 70)  Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
+  2026-10-22  (2 zdrojů, síla 44)  Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live
 ```
 
 ---

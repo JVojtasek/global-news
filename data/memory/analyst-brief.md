@@ -21,9 +21,8 @@ Paměť obsahuje **159 vláken**. Aktivních za posledních 14 dní: **48**.
   - **2026-10-22** (4 zdrojů) Real Madrid dominate Leipzig for third straight win
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 73 dní · 60 záznamů
+- rubrika `world` · sledováno 74 dní · 60 záznamů
 - časová osa:
-  - **2026-10-17** (4 zdrojů) Russia wants blackout in Ukraine as winter comes — Zelenskyy
   - **2026-10-17** (2 zdrojů) Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
   - **2026-10-17** (2 zdrojů) Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
   - **2026-10-19** (4 zdrojů) Trump says suspension of Russia sanctions is to keep peace negotiations going
@@ -33,8 +32,21 @@ Paměť obsahuje **159 vláken**. Aktivních za posledních 14 dní: **48**.
   - **2026-10-21** (2 zdrojů) Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
   - **2026-10-21** (1 zdrojů) ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
   - **2026-10-21** (4 zdrojů) Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
-- ⚠️ vyprávění se v čase obrátilo:
-  - 2026-09-27 → 2026-10-11: „Trump claims Russia and Ukraine agreed to 'energy ceasefire'“
+  - **2026-10-22** (2 zdrojů) Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live
+
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 74 dní · 60 záznamů
+- časová osa:
+  - **2026-10-03** (2 zdrojů) North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
+  - **2026-10-05** (2 zdrojů) Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
+  - **2026-10-06** (2 zdrojů) Nations League roundup: Olise leads late charge as France bowl over Belgium
+  - **2026-10-06** (2 zdrojů) Nations League: France defeat Belgium in second-half comeback
+  - **2026-10-06** (2 zdrojů) How promotion, relegation and knockouts work in Nations League
+  - **2026-10-06** (2 zdrojů) England v Czechia: Nations League football – live
+  - **2026-10-06** (2 zdrojů) Kane scores twice but who else was a 'real threat'? England player ratings
+  - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
+  - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
+  - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 69 dní · 60 záznamů
@@ -63,20 +75,6 @@ Paměť obsahuje **159 vláken**. Aktivních za posledních 14 dní: **48**.
   - **2026-10-19** (2 zdrojů) Strait of Hormuz scoured for spilt cargo after Iran attacks container ships
   - **2026-10-21** (2 zdrojů) Russia arrests German man, calls him a Ukraine 'mercenary'
   - **2026-10-21** (3 zdrojů) Russia says it is ready to resume talks with Ukraine and US to end war
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 60 dní · 60 záznamů
-- časová osa:
-  - **2026-10-03** (2 zdrojů) LIVE: Croatia vs England – UEFA Nations League
-  - **2026-10-03** (2 zdrojů) North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
-  - **2026-10-05** (2 zdrojů) Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
-  - **2026-10-06** (2 zdrojů) Nations League roundup: Olise leads late charge as France bowl over Belgium
-  - **2026-10-06** (2 zdrojů) Nations League: France defeat Belgium in second-half comeback
-  - **2026-10-06** (2 zdrojů) How promotion, relegation and knockouts work in Nations League
-  - **2026-10-06** (2 zdrojů) England v Czechia: Nations League football – live
-  - **2026-10-06** (2 zdrojů) Kane scores twice but who else was a 'real threat'? England player ratings
-  - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
-  - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 68 dní · 52 záznamů
