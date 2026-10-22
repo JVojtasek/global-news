@@ -873,43 +873,43 @@
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
    "section": "world",
    "entities": [
-    "houthis",
-    "bangladesh",
-    "president",
-    "somalia",
-    "taiz",
-    "east",
-    "arabia",
-    "turkey",
-    "aden",
-    "israel-bound",
-    "western",
-    "houthi",
-    "saudi-backed",
-    "riyadh",
-    "yemen's",
-    "ssisi",
-    "yemeni",
-    "deadly",
-    "salman",
-    "mecca",
     "pakistan",
     "some",
-    "yemen",
-    "saudi",
-    "attack",
-    "egypt's",
-    "york",
-    "davos",
-    "desert",
-    "second",
-    "three",
-    "middle",
+    "houthis",
+    "riyadh",
     "aramco",
-    "asian",
+    "yemen's",
+    "bangladesh",
+    "salman",
+    "deadly",
+    "middle",
     "king",
+    "yemen",
+    "turkey",
+    "york",
+    "mecca",
+    "attack",
+    "east",
+    "houthi",
+    "president",
+    "somalia",
+    "asian",
+    "western",
+    "yemeni",
+    "second",
     "trump",
-    "arabia's"
+    "arabia's",
+    "three",
+    "saudi-backed",
+    "desert",
+    "israel-bound",
+    "saudi",
+    "davos",
+    "aden",
+    "taiz",
+    "arabia",
+    "egypt's",
+    "ssisi"
    ],
    "event_ids": [
     "d16d38017cfe",
@@ -955,7 +955,8 @@
     "2f0e5dac1fd6",
     "20b965f0a69e",
     "9db7d2d08a6e",
-    "286892780cea"
+    "286892780cea",
+    "f45303cfc40f"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-22",
@@ -1462,6 +1463,17 @@
       "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
       "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
       "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+     "sources": 2,
+     "score": 49,
+     "event_id": "f45303cfc40f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html"
      ]
     }
    ]
@@ -1973,6 +1985,86 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f2d111d4fd57",
+   "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+   "section": "science",
+   "entities": [
+    "south",
+    "seoul",
+    "korea",
+    "drone",
+    "north"
+   ],
+   "event_ids": [
+    "f2d111d4fd57",
+    "20472af8545b",
+    "ff20ca98c7ed",
+    "d00a10e57fef",
+    "a0eb33a029f0"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-10-22",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+     "sources": 2,
+     "score": 56,
+     "event_id": "f2d111d4fd57",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+      "https://www.smithsonianmag.com/smart-news/a-spacex-rocket-part-just-slammed-into-the-moon-creating-a-dust-plume-and-crater-heres-what-some-scientific-instruments-saw-180989299/"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "South Korea proposes talks to officially end war with North",
+     "sources": 2,
+     "score": 46,
+     "event_id": "20472af8545b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "North Korea fires ballistic missile into sea, Seoul says",
+     "sources": 2,
+     "score": 46,
+     "event_id": "ff20ca98c7ed",
+     "links": [
+      "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
+      "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d00a10e57fef",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
+      "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a0eb33a029f0",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
+      "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss"
      ]
     }
    ]
@@ -12932,74 +13024,6 @@
    ]
   },
   {
-   "id": "f2d111d4fd57",
-   "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
-   "section": "science",
-   "entities": [
-    "south",
-    "seoul",
-    "drone",
-    "korea",
-    "north"
-   ],
-   "event_ids": [
-    "f2d111d4fd57",
-    "20472af8545b",
-    "ff20ca98c7ed",
-    "d00a10e57fef"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-10-03",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
-     "sources": 2,
-     "score": 56,
-     "event_id": "f2d111d4fd57",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-      "https://www.smithsonianmag.com/smart-news/a-spacex-rocket-part-just-slammed-into-the-moon-creating-a-dust-plume-and-crater-heres-what-some-scientific-instruments-saw-180989299/"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "South Korea proposes talks to officially end war with North",
-     "sources": 2,
-     "score": 46,
-     "event_id": "20472af8545b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-03",
-     "headline": "North Korea fires ballistic missile into sea, Seoul says",
-     "sources": 2,
-     "score": 46,
-     "event_id": "ff20ca98c7ed",
-     "links": [
-      "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
-      "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-03",
-     "headline": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d00a10e57fef",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
-      "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand"
-     ]
-    }
-   ]
-  },
-  {
    "id": "53b6287820a2",
    "title": "'Incredible' Red Bull upgrade enlivens F1 in Malaysia",
    "section": "sport",
@@ -17279,5 +17303,5 @@
    ]
   }
  ],
- "updated": "2026-10-22T03:31:02+00:00"
+ "updated": "2026-10-22T06:41:39+00:00"
 }
