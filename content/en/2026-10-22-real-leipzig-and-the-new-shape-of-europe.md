@@ -1,50 +1,64 @@
 ---
 slug: real-leipzig-and-the-new-shape-of-europe
-title: "Three from three, four from Mourinho's side: what Madrid's romp against Leipzig is really telling us"
-dek: "Real Madrid beat RB Leipzig 4-1 on Tuesday, their third Champions League win in three. The score is less interesting than the pattern it fits."
+title: 'Three from three, four from Mourinho''s side: what Madrid''s romp against
+  Leipzig is really telling us'
+dek: Real Madrid beat RB Leipzig 4-1 on Tuesday, their third Champions League win
+  in three. The score is less interesting than the pattern it fits.
 section: sport
 type: analysis
 depth: open
 lang: en
-date: 2026-10-22
-status: draft
-confidence: 72
+date: '2026-10-22'
+status: published
+confidence: 95
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: "9f8f826047ea"
-series: ""
-image_query: "champions league night football match"
+format: ''
+event_id: 9f8f826047ea
+series: ''
+image_query: champions league night football match
 sources:
-  - name: "BBC Sport"
-    url: "https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo?at_medium=RSS&at_campaign=rss"
-    published: "2026-10-22"
-  - name: "France 24"
-    url: "https://www.france24.com/en/sport/20261022-real-madrid-thrash-rb-leipzig-as-mbappe-scores-in-champions-league-win"
-    published: "2026-10-22"
-  - name: "Al Jazeera"
-    url: "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss"
-    published: "2026-10-21"
-  - name: "Guardian Sport"
-    url: "https://www.theguardian.com/football/2026/oct/21/champions-league-roundup-real-madrid-leipzig-inter-shakhtar-sporting-lask-brugge-lens-betis-feyenoord"
-    published: "2026-10-21"
-  - name: "Guardian Sport (Bayern vs Arsenal)"
-    url: "https://www.theguardian.com/football/2026/oct/21/bayern-munich-arsenal-champions-league-match-report"
-    published: "2026-10-21"
+- name: BBC Sport
+  url: https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo?at_medium=RSS&at_campaign=rss
+  published: '2026-10-22'
+- name: France 24
+  url: https://www.france24.com/en/sport/20261022-real-madrid-thrash-rb-leipzig-as-mbappe-scores-in-champions-league-win
+  published: '2026-10-22'
+- name: Al Jazeera
+  url: https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss
+  published: '2026-10-21'
+- name: Guardian Sport
+  url: https://www.theguardian.com/football/2026/oct/21/champions-league-roundup-real-madrid-leipzig-inter-shakhtar-sporting-lask-brugge-lens-betis-feyenoord
+  published: '2026-10-21'
+- name: Guardian Sport (Bayern vs Arsenal)
+  url: https://www.theguardian.com/football/2026/oct/21/bayern-munich-arsenal-champions-league-match-report
+  published: '2026-10-21'
 tickers: []
 quiz:
-  question: "Who scored RB Leipzig's only goal in their 4-1 defeat to Real Madrid on 21 October 2026?"
-  options: ["Harry Kane", "Tidiam Gomis", "Bukayo Saka"]
+  question: Who scored RB Leipzig's only goal in their 4-1 defeat to Real Madrid on
+    21 October 2026?
+  options:
+  - Harry Kane
+  - Tidiam Gomis
+  - Bukayo Saka
   answer: 1
-  explanation: "France 24 named Tidiam Gomis as Leipzig's scorer. Kane plays for Bayern Munich and scored a penalty against Arsenal the same night; Saka went off injured in that match."
+  explanation: France 24 named Tidiam Gomis as Leipzig's scorer. Kane plays for Bayern
+    Munich and scored a penalty against Arsenal the same night; Saka went off injured
+    in that match.
 impact:
-  areas: [life]
-  line: "If you follow European football, the first three matchdays of the Champions League league phase have been lopsided in favour of the big names. For a casual viewer that means fewer surprises, more goals and matches where the result is settled before the second half."
-  todo: "Watch what happens from matchday six onward, when the strongest sides finally meet each other. That is when the new 36-team league phase stops being a warm-up and starts separating real contenders from clubs who have only beaten weaker opposition."
+  areas:
+  - life
+  line: If you follow European football, the first three matchdays of the Champions
+    League league phase have been lopsided in favour of the big names. For a casual
+    viewer that means fewer surprises, more goals and matches where the result is
+    settled before the second half.
+  todo: Watch what happens from matchday six onward, when the strongest sides finally
+    meet each other. That is when the new 36-team league phase stops being a warm-up
+    and starts separating real contenders from clubs who have only beaten weaker opposition.
 ---
 
 ## BRIEFLY
