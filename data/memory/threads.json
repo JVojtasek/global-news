@@ -5014,12 +5014,13 @@
    "title": "First human case of Shamonda virus detected in France, officials say",
    "section": "world",
    "entities": [
-    "shamonda",
+    "first",
     "france",
-    "first"
+    "shamonda"
    ],
    "event_ids": [
-    "db746dbf03ec"
+    "db746dbf03ec",
+    "c5548c0cafe9"
    ],
    "first_seen": "2026-10-22",
    "last_seen": "2026-10-22",
@@ -5034,6 +5035,17 @@
       "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Shamonda virus detected in human for first time in France",
+     "sources": 2,
+     "score": 44,
+     "event_id": "c5548c0cafe9",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
+      "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -17385,5 +17397,5 @@
    ]
   }
  ],
- "updated": "2026-10-22T12:38:02+00:00"
+ "updated": "2026-10-22T15:28:54+00:00"
 }
