@@ -12,6 +12,10 @@ date: '2026-09-18'
 status: published
 confidence: 0
 image_query: Ecuador detains former minister José Serrano
+impact:
+  areas: [safety, life]
+  line: "This is an Ecuadorian story. Outside the country daily life is not affected. What matters is the shape of it: a deportation that reads like a political favour and a murder trial of a journalist, both tested against due process at the same time."
+  todo: "If you follow Latin American rule-of-law reporting, Fundamedios and CELS post updates on the Villavicencio case and on conditions at El Encuentro; they are more reliable than government press briefings."
 syndicated:
   source: Global Voices
   author: Gina Yauri

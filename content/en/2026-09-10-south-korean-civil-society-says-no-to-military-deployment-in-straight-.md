@@ -12,6 +12,10 @@ date: '2026-09-10'
 status: published
 confidence: 0
 image_query: South Korean civil society says no
+impact:
+  areas: [safety, money]
+  line: "The question is whether Seoul sends soldiers to the Strait of Hormuz. For readers outside South Korea nothing changes day to day; what matters is whether a wider war would push fuel prices up and strain the global chip supply."
+  todo: "Watch the South Korean parliament vote and any new semiconductor tariffs on Seoul; petrol prices and electronics availability move first."
 syndicated:
   source: Global Voices
   author: Oiwan Lam

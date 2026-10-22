@@ -5,7 +5,7 @@ title: "Loneliness: what has actually been tried, and what the surveys found aft
 dek: "In 2022, 11.2% of people in the EU had nobody to ask for help — up from 7.7% four years earlier. Five countries built policy around it. One can point to a measured effect, and it came from a trial of 235 people."
 status: published
 date: '2026-08-11'
-updated: '2026-08-11'
+updated: '2026-10-22'
 
 measure:
   name: "Share of people aged 16 and over with no one to rely on for help in case of need — the mirror image of Eurostat's published series, which counts the people who do have someone"

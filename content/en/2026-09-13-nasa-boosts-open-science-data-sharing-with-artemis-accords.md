@@ -12,6 +12,10 @@ date: '2026-09-13'
 status: published
 confidence: 0
 image_query: NASA Boosts Open Science, Data Sharing
+impact:
+  areas: [life]
+  line: "Nothing in daily life changes with this. The practical point is modest but real: lunar samples and datasets stay publicly accessible, so students, teachers and amateur astronomers anywhere can use them without a paywall."
+  todo: "If you teach science or write about space, check NASA's Planetary Data System directly before citing lunar numbers; it is updated more often than press releases suggest."
 syndicated:
   source: NASA
   author: Elizabeth Shaw

@@ -11,6 +11,10 @@ date: '2026-09-19'
 status: published
 confidence: 0
 image_query: How Togolese people are reinventing political
+impact:
+  areas: [safety, life]
+  line: "Outside Togo this does not change your day. The pattern it shows is worth seeing: internet shutdowns, prosecution for a 'like', journalists silenced by harassment. It is a short list of tools that many governments now have."
+  todo: "If you follow African politics or press freedom, bookmark CIVICUS Lens and Article 19; both log when a shutdown starts and when it ends, which is the fastest useful signal."
 syndicated:
   source: Global Voices
   author: Jean Sovon

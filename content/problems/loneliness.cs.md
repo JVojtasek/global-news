@@ -5,7 +5,7 @@ title: "Osamělost: co se opravdu zkusilo a co pak ukázala šetření"
 dek: "V roce 2022 nemělo 11,2 % lidí v EU nikoho, koho by mohli požádat o pomoc — o čtyři roky dřív to bylo 7,7 %. Pět zemí na tom postavilo politiku. Jediná se může opřít o naměřený účinek a pochází z pokusu na 235 lidech."
 status: published
 date: '2026-08-11'
-updated: '2026-08-11'
+updated: '2026-10-22'
 
 measure:
   name: "Podíl lidí ve věku 16 a více let, kteří nemají o koho se v nouzi opřít — zrcadlový obraz řady, kterou zveřejňuje Eurostat a která počítá ty, kdo někoho mají"

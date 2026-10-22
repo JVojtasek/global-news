@@ -12,6 +12,10 @@ date: '2026-09-15'
 status: published
 confidence: 0
 image_query: What India’s ‘Cockroach’ protests reveal about
+impact:
+  areas: [safety, life]
+  line: "Most readers are not personally affected. The point travels further than India: cameras plus face recognition plus a database can turn joining a protest into a permanent, searchable record long after the march ends. That shift is quietly spreading."
+  todo: "Look up your country's rules on police use of facial recognition and whether consent is required; the EU AI Act and recent US state laws are a useful starting point if your own law is unclear."
 syndicated:
   source: Global Voices
   author: Guest Contributor
