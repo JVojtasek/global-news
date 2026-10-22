@@ -12,6 +12,10 @@ date: '2026-10-22'
 status: published
 confidence: 0
 image_query: Palestine is already living under the
+impact:
+  areas: [safety, life]
+  line: "Most readers are not directly affected. The authors' point is a supply chain: surveillance tools refined in Gaza — the article names Lavender, The Gospel and Palantir's GBP 330 million NHS contract — are already being sold or deployed elsewhere, so the warning is about who buys next."
+  todo: "Follow national audits of commercial surveillance contracts (UK Public Accounts Committee, EU Court of Auditors) and reports by Amnesty International and 7amleh on how specific tools cross borders."
 syndicated:
   source: Global Voices
   author: Guest Contributor

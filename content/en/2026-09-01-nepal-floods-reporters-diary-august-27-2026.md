@@ -12,6 +12,10 @@ date: '2026-09-01'
 status: published
 confidence: 0
 image_query: 'Nepal floods: Reporter’s diary, August 27,'
+impact:
+  areas: [safety, life]
+  line: "Outside Nepal this changes nothing day to day, but the diary is a case study in how a monsoon avalanche-flood kills: not the water alone, but the mud carrying rock and tree. Mountain-river valleys everywhere share that pattern."
+  todo: "If you live downstream of a monsoon or alpine valley, look up the local early-warning system and its known blind spots. If you want to help Nepal, give through a verified channel (Nepal Red Cross, UNICEF Nepal) rather than viral fund pages."
 syndicated:
   source: Global Voices
   author: Nepali Times

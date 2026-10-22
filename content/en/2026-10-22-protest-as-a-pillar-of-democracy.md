@@ -11,6 +11,10 @@ date: '2026-10-22'
 status: published
 confidence: 0
 image_query: Protest as a pillar of democracy
+impact:
+  areas: [life]
+  line: "Day to day this changes nothing for most readers. It is a reading guide — a short map of recent protest journalism from Japan, Russia, Nepal, Bangladesh and Romania — meant to show that protest is normal democratic practice, not fringe behaviour."
+  todo: "Pick one country story you did not know, read it, then compare the tactics named — placards, songs, memes, online allusion — with how recent protests are covered in your own country's press."
 syndicated:
   source: Global Voices
   author: Malka Older

@@ -12,6 +12,10 @@ date: '2026-09-01'
 status: published
 confidence: 0
 image_query: Ice Island Survives Run-In With Joe
+impact:
+  areas: [life]
+  line: "For readers far from the Arctic, this changes nothing today. It is a measured warning: Petermann is one of the glaciers scientists watch as an early signal of Greenland ice loss, which eventually shows up in insurance premiums and coastal planning rather than tomorrow's news."
+  todo: "If you live near a coast or own property there, check your local flood-risk map — in the UK look up Environment Agency flood zones, in the US FEMA, and follow NASA Earth Observatory updates on Greenland for context."
 syndicated:
   source: NASA
   author: the original author

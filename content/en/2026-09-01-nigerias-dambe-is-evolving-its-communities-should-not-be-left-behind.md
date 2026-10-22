@@ -12,6 +12,10 @@ date: '2026-09-01'
 status: published
 confidence: 0
 image_query: Nigeria’s Dambe is evolving. Its communities
+impact:
+  areas: [life]
+  line: "For most readers this is cultural reading, not a news story. The pattern worth watching is the one it describes: a community sport professionalising, with the money and rules drifting away from the community — the same shape appears in Thai Muay, Kenyan long-distance running and elsewhere."
+  todo: "Follow the Nigerian Dambe Warriors tournaments and interviews with practitioners. When a traditional sport goes commercial elsewhere, check who sits on the new governing body and how prize money is split with the original communities."
 syndicated:
   source: Global Voices
   author: Guest Contributor
