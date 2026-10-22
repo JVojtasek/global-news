@@ -1,5 +1,5 @@
 {
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "mode": "normal",
  "days_since_human": 11,
  "confidence_threshold": 82,
@@ -87,6 +87,101 @@
      "published_at": "2026-10-20T23:06:56+00:00",
      "source_countries": [],
      "seen_at": "2026-10-21T06:41:34+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
+   "id": "9f8f826047ea",
+   "headline": "Real Madrid dominate Leipzig for third straight win",
+   "section": "sport",
+   "score": 75,
+   "sources_count": 4,
+   "depth_signal": 0,
+   "created": "2026-10-22T00:55:44+00:00",
+   "event_time": "2026-10-21T21:38:23+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Real Madrid dominate Leipzig for third straight win",
+     "url": "https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Real Madrid maintain their 100 per cent start in the Champions League as they comfortably beat Leipzig 4-1, with Bernardo Silva scoring his first goal for Madrid since moving from Manchester City in the summer.",
+     "published_at": "2026-10-21T21:38:23+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-22T00:55:39+00:00"
+    },
+    {
+     "title": "Villa maintain perfect Champions League start with Viking victory",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cmj47yxry4k9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Aston Villa win their third game from three in the Champions League by defeating Norwegian side Viking - the dominant display taking them up to second in the league phase.",
+     "published_at": "2026-10-21T21:19:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-22T00:55:39+00:00"
+    },
+    {
+     "title": "Real Madrid thrash RB Leipzig as Mbappe scores in Champions League win",
+     "url": "https://www.france24.com/en/sport/20261022-real-madrid-thrash-rb-leipzig-as-mbappe-scores-in-champions-league-win",
+     "source": "France 24",
+     "summary": "Real Madrid thrashed RB Leipzig 4-1 on Wednesday to secure their third consecutive Champions League victory. Bernardo Silva, Arda Guler, Kylian Mbappe and Yan Diomande scored for Jose Mourinho’s side, while Tidiam Gomis replied for Leipzig. Mbappe has scored in all three European matches this season, taking his tally to 12 goals.",
+     "published_at": "2026-10-22T00:11:37+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-22T00:55:39+00:00"
+    },
+    {
+     "title": "‘It doesn’t look good’: Arteta concerned as Saka limps off against Bayern Munich",
+     "url": "https://www.theguardian.com/football/2026/oct/21/champions-league-bayern-munich-arsenal-mikel-arteta-bukayo-saka-injury",
+     "source": "Guardian Sport",
+     "summary": "‘A player off with really sharp pain is never good news’ Winger forced off 10 minutes into Arsenal’s 2-2 draw Mikel Arteta made no attempt to conceal his concern over the quad injury that forced Bukayo Saka out of Arsenal’s 2-2 Champions League draw at Bayern Munich , saying it did not “look good at all”. The manager was delighted with the fight that his players showed, Declan Rice earning a deser",
+     "published_at": "2026-10-21T22:56:42+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-22T00:55:39+00:00"
+    },
+    {
+     "title": "Champions League: Silva sparks Real Madrid’s demolition of Leipzig as Lask stun Sporting",
+     "url": "https://www.theguardian.com/football/2026/oct/21/champions-league-roundup-real-madrid-leipzig-inter-shakhtar-sporting-lask-brugge-lens-betis-feyenoord",
+     "source": "Guardian Sport",
+     "summary": "Bernardo Silva opens scoring as Madrid win 4-1 Galatasaray sweep past Lille; 10-man Inter edge Shakhtar Real Madrid claimed a third Champions League victory in as many games by thrashing RB Leipzig 4-1 on Wednesday, with Kylian Mbappé and Yan Diomande among the goals for José Mourinho’s side. Bernardo Silva opened the scoring for Madrid from close range towards the end of a tight first half, with ",
+     "published_at": "2026-10-21T22:25:12+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-22T00:55:39+00:00"
+    },
+    {
+     "title": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
+     "url": "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Kylian Mbappe and Yan Diomande score stunners as Real beat Leipzig to make it three from three in the Champions League.",
+     "published_at": "2026-10-21T21:36:31+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-22T00:55:39+00:00"
+    },
+    {
+     "title": "Declan Rice grabs Arsenal draw at Bayern Munich in Champions League",
+     "url": "https://www.aljazeera.com/sports/2026/10/21/declan-rice-grabs-arsenal-draw-at-bayern-munich-in-champions-league?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Eze gave Arsenal the lead, but Davies levelled and Kane netted a penalty for the hosts before Rice made it 2-2.",
+     "published_at": "2026-10-21T21:28:34+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-22T00:55:39+00:00"
+    },
+    {
+     "title": "Arsenal’s Declan Rice strikes late to deny Bayern Munich after Harry Kane penalty",
+     "url": "https://www.theguardian.com/football/2026/oct/21/bayern-munich-arsenal-champions-league-match-report",
+     "source": "Guardian Sport",
+     "summary": "It is as if Harry Kane cannot get enough of tormenting Arsenal. The Bayern Munich striker has plenty of form from his Tottenham days. He remains the top scorer in north London derby history with 14 goals. He made an impact yet again here and yet it was not a night when he had the final word. That honour fell to Declan Rice, the Arsenal midfielder storming into the Bayern area in the 82nd minute to",
+     "published_at": "2026-10-21T21:14:31+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-22T00:55:39+00:00"
+    },
+    {
+     "title": "Barkley and Buendía on target as Aston Villa sink Viking to maintain perfect start",
+     "url": "https://www.theguardian.com/football/2026/oct/21/aston-villa-viking-champions-league-match-report",
+     "source": "Guardian Sport",
+     "summary": "For a little over 20 minutes, Aston Villa could look down on the rest of Europe. They had scaled the Champions League summit on goal difference when Henrik Heggheim put through his own net and the fact was not lost on the Holte End, who reflected their position in song and perhaps allowed themselves another glimpse back to the days when their supremacy was undisputed. “We’ve conquered before, we’r",
+     "published_at": "2026-10-21T21:07:48+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-22T00:55:39+00:00"
     }
    ],
    "depth": "open"
@@ -199,56 +294,6 @@
     }
    ],
    "depth": "open"
-  },
-  {
-   "id": "9aad51dd9229",
-   "headline": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-   "section": "world",
-   "score": 66,
-   "sources_count": 4,
-   "depth_signal": 0,
-   "created": "2026-10-19T01:01:24+00:00",
-   "event_time": "2026-10-18T23:20:15+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-     "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
-     "published_at": "2026-10-18T23:20:15+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-19T01:01:18+00:00"
-    },
-    {
-     "title": "Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war'",
-     "url": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "US President Donald Trump again accused Ukrainian President Volodymyr Zelenskyy of not wanting to end the war. The remarks come amid renewed tensions over US policy toward Moscow including waiving some sanctions.",
-     "published_at": "2026-10-19T00:26:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-19T01:01:18+00:00"
-    },
-    {
-     "title": "Trump defends Russia sanctions relief, blasts Zelensky on peace",
-     "url": "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions",
-     "source": "France 24",
-     "summary": "US President Donald Trump on Sunday accused Ukrainian President Volodymyr Zelensky of prolonging the war with Russia, claiming Kyiv had little interest in peace. Trump said negotiations to end the four-year conflict were making “great progress” but alleged Zelensky was reluctant to reach a deal because of European financial support.",
-     "published_at": "2026-10-18T21:59:34+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-19T01:01:18+00:00"
-    },
-    {
-     "title": "Oil prices slide as Trump waives Russia sanctions",
-     "url": "https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158",
-     "source": "Investing.com",
-     "summary": "",
-     "published_at": "2026-10-19T00:14:24+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-19T01:01:18+00:00"
-    }
-   ],
-   "depth": "scripture"
   }
  ],
  "feature_assignments": [
@@ -268,7 +313,7 @@
    "title_hint": "What has actually changed: Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "depth": "open",
-   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-10-14  (2 zdrojů, síla 46)  Manchester City staff invited on government trade trip to India\n  2026-10-14  (2 zdrojů, síla 42)  Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?\n  2026-10-15  (2 zdrojů, síla 44)  Jackson steps up again as Aston Villa revival continues\n  2026-10-15  (2 zdrojů, síla 43)  Manchester City, the UAE and the UK's OM in a political tangle\n  2026-10-15  (1 zdrojů, síla 40)  Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG\n  2026-10-15  (3 zdrojů, síla 53)  Football regulator says he would quit over Man City political interference\n  2026-10-16  (2 zdrojů, síla 43)  Do Manchester City have any grounds to win their appeal?\n  2026-10-17  (2 zdrojů, síla 42)  Newcastle v Aston Villa: Premier League – live\n  2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle\n  2026-10-18  (2 zdrojů, síla 53)  LIVE: Leeds United vs Manchester United – Premier League\n  2026-10-18  (2 zdrojů, síla 40)  Manchester City owner’s £55m housing loan while Burnham was mayor investigated\n  2026-10-18  (3 zdrojů, síla 60)  Man Utd showed 'unity' in draw with Leeds - Carrick\n  2026-10-19  (1 zdrojů, síla 44)  Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson\n  2026-10-20  (2 zdrojů, síla 40)  Ronaldo let Manchester United down - Ten Hag\n  2026-10-20  (2 zdrojů, síla 43)  Liverpool v Villarreal: Champions League – live\n  2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting\n  2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal\n  2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record\n  2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld\n  2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live",
+   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-10-14  (2 zdrojů, síla 42)  Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?\n  2026-10-15  (2 zdrojů, síla 44)  Jackson steps up again as Aston Villa revival continues\n  2026-10-15  (2 zdrojů, síla 43)  Manchester City, the UAE and the UK's OM in a political tangle\n  2026-10-15  (1 zdrojů, síla 40)  Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG\n  2026-10-15  (3 zdrojů, síla 53)  Football regulator says he would quit over Man City political interference\n  2026-10-16  (2 zdrojů, síla 43)  Do Manchester City have any grounds to win their appeal?\n  2026-10-17  (2 zdrojů, síla 42)  Newcastle v Aston Villa: Premier League – live\n  2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle\n  2026-10-18  (2 zdrojů, síla 53)  LIVE: Leeds United vs Manchester United – Premier League\n  2026-10-18  (2 zdrojů, síla 40)  Manchester City owner’s £55m housing loan while Burnham was mayor investigated\n  2026-10-18  (3 zdrojů, síla 60)  Man Utd showed 'unity' in draw with Leeds - Carrick\n  2026-10-19  (1 zdrojů, síla 44)  Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson\n  2026-10-20  (2 zdrojů, síla 40)  Ronaldo let Manchester United down - Ten Hag\n  2026-10-20  (2 zdrojů, síla 43)  Liverpool v Villarreal: Champions League – live\n  2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting\n  2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal\n  2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record\n  2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld\n  2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live\n  2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win",
    "thread_days": 60
   },
   {

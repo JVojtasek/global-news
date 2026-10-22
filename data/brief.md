@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-21
+# ZADÁNÍ PRO REDAKCI — 2026-10-22
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -38,7 +38,39 @@
     <https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html>
     > Musk and President Donald Trump have both recently criticized Ukrainian President Volodymyr Zelenskyy, who has also flagged disruptions in U.S. intel sharing.
 
-### 2. Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
+### 2. Real Madrid dominate Leipzig for third straight win
+- id události: `9f8f826047ea`  ·  rubrika: `sport`  ·  skóre: 75  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Real Madrid dominate Leipzig for third straight win
+    <https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo?at_medium=RSS&at_campaign=rss>
+    > Real Madrid maintain their 100 per cent start in the Champions League as they comfortably beat Leipzig 4-1, with Bernardo Silva scoring his first goal for Madrid since moving from Manchester City in the summer.
+  - **BBC Sport** — Villa maintain perfect Champions League start with Viking victory
+    <https://www.bbc.co.uk/sport/football/videos/cmj47yxry4k9o?at_medium=RSS&at_campaign=rss>
+    > Aston Villa win their third game from three in the Champions League by defeating Norwegian side Viking - the dominant display taking them up to second in the league phase.
+  - **France 24** — Real Madrid thrash RB Leipzig as Mbappe scores in Champions League win
+    <https://www.france24.com/en/sport/20261022-real-madrid-thrash-rb-leipzig-as-mbappe-scores-in-champions-league-win>
+    > Real Madrid thrashed RB Leipzig 4-1 on Wednesday to secure their third consecutive Champions League victory. Bernardo Silva, Arda Guler, Kylian Mbappe and Yan Diomande scored for Jose Mourinho’s side, while Tidiam Gomis replied for Leipzig. Mbappe has scored in all three European
+  - **Guardian Sport** — ‘It doesn’t look good’: Arteta concerned as Saka limps off against Bayern Munich
+    <https://www.theguardian.com/football/2026/oct/21/champions-league-bayern-munich-arsenal-mikel-arteta-bukayo-saka-injury>
+    > ‘A player off with really sharp pain is never good news’ Winger forced off 10 minutes into Arsenal’s 2-2 draw Mikel Arteta made no attempt to conceal his concern over the quad injury that forced Bukayo Saka out of Arsenal’s 2-2 Champions League draw at Bayern Munich , saying it d
+  - **Guardian Sport** — Champions League: Silva sparks Real Madrid’s demolition of Leipzig as Lask stun Sporting
+    <https://www.theguardian.com/football/2026/oct/21/champions-league-roundup-real-madrid-leipzig-inter-shakhtar-sporting-lask-brugge-lens-betis-feyenoord>
+    > Bernardo Silva opens scoring as Madrid win 4-1 Galatasaray sweep past Lille; 10-man Inter edge Shakhtar Real Madrid claimed a third Champions League victory in as many games by thrashing RB Leipzig 4-1 on Wednesday, with Kylian Mbappé and Yan Diomande among the goals for José Mou
+  - **Al Jazeera** — Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start
+    <https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss>
+    > Kylian Mbappe and Yan Diomande score stunners as Real beat Leipzig to make it three from three in the Champions League.
+  - **Al Jazeera** — Declan Rice grabs Arsenal draw at Bayern Munich in Champions League
+    <https://www.aljazeera.com/sports/2026/10/21/declan-rice-grabs-arsenal-draw-at-bayern-munich-in-champions-league?traffic_source=rss>
+    > Eze gave Arsenal the lead, but Davies levelled and Kane netted a penalty for the hosts before Rice made it 2-2.
+  - **Guardian Sport** — Arsenal’s Declan Rice strikes late to deny Bayern Munich after Harry Kane penalty
+    <https://www.theguardian.com/football/2026/oct/21/bayern-munich-arsenal-champions-league-match-report>
+    > It is as if Harry Kane cannot get enough of tormenting Arsenal. The Bayern Munich striker has plenty of form from his Tottenham days. He remains the top scorer in north London derby history with 14 goals. He made an impact yet again here and yet it was not a night when he had the
+  - **Guardian Sport** — Barkley and Buendía on target as Aston Villa sink Viking to maintain perfect start
+    <https://www.theguardian.com/football/2026/oct/21/aston-villa-viking-champions-league-match-report>
+    > For a little over 20 minutes, Aston Villa could look down on the rest of Europe. They had scaled the Champions League summit on goal difference when Henrik Heggheim put through his own net and the fact was not lost on the Holte End, who reflected their position in song and perhap
+
+### 3. Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
 - id události: `eeea44ccd13a`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -55,7 +87,7 @@
     <https://www.france24.com/en/trump-faces-fresh-questions-over-ties-to-humanitarian-putin>
     > US President Donald Trump's pivot away from Ukraine has triggered fresh questions about his attachment to Russian leader Vladimir Putin, the man a top American envoy flattered on Wednesday as a "humanitarian. Trump has cast his dealings with Putin as part of a mega-deal that has 
 
-### 3. Meta ordered to pay $25 billion in Cambridge Analytica case
+### 4. Meta ordered to pay $25 billion in Cambridge Analytica case
 - id události: `324a00b1ff1a`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -74,22 +106,6 @@
   - **The Verge** — Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal
     <https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty>
     > The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's f
-
-### 4. Trump says suspension of Russia sanctions is to keep peace negotiations going
-- id události: `9aad51dd9229`  ·  rubrika: `world`  ·  skóre: 66  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Trump says suspension of Russia sanctions is to keep peace negotiations going
-    <https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss>
-    > The US president blocked numerous sanctions on Russia two days before they were due to take effect.
-  - **DW News** — Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war'
-    <https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf>
-    > US President Donald Trump again accused Ukrainian President Volodymyr Zelenskyy of not wanting to end the war. The remarks come amid renewed tensions over US policy toward Moscow including waiving some sanctions.
-  - **France 24** — Trump defends Russia sanctions relief, blasts Zelensky on peace
-    <https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions>
-    > US President Donald Trump on Sunday accused Ukrainian President Volodymyr Zelensky of prolonging the war with Russia, claiming Kyiv had little interest in peace. Trump said negotiations to end the four-year conflict were making “great progress” but alleged Zelensky was reluctant 
-  - **Investing.com** — Oil prices slide as Trump waives Russia sanctions
-    <https://www.investing.com/news/commodities-news/oil-prices-slide-as-trump-waives-russia-sanctions-4956158>
 
 ---
 
@@ -122,7 +138,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-14  (2 zdrojů, síla 46)  Manchester City staff invited on government trade trip to India
   2026-10-14  (2 zdrojů, síla 42)  Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
   2026-10-15  (2 zdrojů, síla 44)  Jackson steps up again as Aston Villa revival continues
   2026-10-15  (2 zdrojů, síla 43)  Manchester City, the UAE and the UK's OM in a political tangle
@@ -142,6 +157,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record
   2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
   2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
+  2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win
 ```
 
 ### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
