@@ -20,6 +20,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/danova-uleva-na-diesel-proc-muze-byt-pro-energetiku-vic-test-analyza-381901
+impact:
+  areas: [money]
+  line: "Změny daně z nafty se nejdřív promítají do dopravních nákladů a teprve pak dorazí na stojan. Pro většinu domácností je přímý dopad malý a pomalý; pro každého, kdo provozuje dodávku nebo rozvoz, je to posun, který je potřeba hlídat."
+  todo: "Porovnejte v nejbližších dvou měsících cenu nafty na stojanu s velkoobchodní cenou před daní. Pokud se rozdíl zmenší rychleji než snížení daně, úsporu si nechaly rafinérie; pokud se rozdíl zvětší, víc úlevy doteklo k dopravcům."
 ---
 
 Daňová úleva u dieselu může pomoci dopravě a inflaci, ale pro energetiku je klíčové, zda se zlepší fyzický trh a crack spready, ne jen politický titulek.

@@ -17,6 +17,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/danova-uleva-na-diesel-proc-muze-byt-pro-energetiku-vic-test-analyza-381901
+impact:
+  areas: [money]
+  line: "Diesel tax changes mostly move through to haulage costs before they reach the fuel pump. For most households the direct effect is small and slow; for anyone running a van or a delivery business it is a shift worth watching closely."
+  todo: "Compare the pump price of diesel in your country with the official pre-tax wholesale price over the next two months. If the gap narrows faster than the tax cut, refiners kept the margin; if it widens, more of the relief reached the road."
 ---
 
 Tax relief on diesel can help transport and inflation, but for energy the key is whether the physical market and crack spreads improve, not just a political headline.

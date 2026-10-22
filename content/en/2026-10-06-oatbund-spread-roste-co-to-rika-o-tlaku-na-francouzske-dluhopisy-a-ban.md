@@ -17,6 +17,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/oat-bund-spread-roste-co-to-rika-o-tlaku-na-francouzske-dluh-analyza-381765
+impact:
+  areas: [money]
+  line: "If you live outside France this does not change your week. If you live inside the euro area, a wider OAT–Bund spread tends to raise the cost of French bank funding, which can slowly feed into mortgage and small-business rates. Elsewhere in Europe, it is a signal rather than a bill."
+  todo: "Keep an eye on the French ten-year yield next to Germany's. A spread drifting above its usual range for several weeks, together with weak OAT auctions, is the thing to watch — not single days of noise."
 ---
 
 With French bonds, it is not enough to watch the rise in yield alone; the key is whether the gap to German Bunds is widening at the same time, and whether the pressure is spreading through auctions, CDS and bank funding.

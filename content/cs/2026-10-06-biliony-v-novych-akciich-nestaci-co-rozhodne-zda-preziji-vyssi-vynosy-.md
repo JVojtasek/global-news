@@ -19,6 +19,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/biliony-v-novych-akciich-nestaci-co-rozhodne-zda-preziji-vys-analyza-381763
+impact:
+  areas: [money]
+  line: "Pokud držíte akciové fondy, bilion dolarů v nových emisích znamená, že vaše stávající akcie si o stejnou kapsu konkurují s čerstvým papírem. Když zároveň vyšší výnosy dluhopisů stahují kapitál, může to tlačit ceny dolů i při slušných firemních výsledcích."
+  todo: "Sledujte, jak se nově uvedené akcie obchodují tři měsíce po IPO a zda se růst širokého indexu šíří i mimo největší AI jména. Když zůstává růst úzký a nové emise ztrácejí, je to ten signál."
 ---
 
 Samotný objem emisí nestačí: klíčové je, zda nové akcie drží cenu i při vyšších výnosech dluhopisů a zda kapitál proudí i mimo AI šampiony.

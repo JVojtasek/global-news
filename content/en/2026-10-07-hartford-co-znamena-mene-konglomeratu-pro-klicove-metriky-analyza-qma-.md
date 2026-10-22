@@ -17,6 +17,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hartford-co-znamena-mene-konglomeratu-pro-klicove-metriky-analyza-382541
+impact:
+  areas: [money]
+  line: "For most readers this changes nothing day to day. If you hold HIG shares in a pension fund or ETF, the point is that a 'cleaner' insurer is only cleaner if the underlying numbers — book value, ROE and the combined ratio — improve, not just the story around them."
+  todo: "If you own the stock, read the next few quarterly reports and compare book value per share, ROE and the combined ratio with Chubb, Travelers and Cincinnati Financial. If those metrics don't move, the simpler story is only cosmetic."
 ---
 
 With capital recycling, watch above all book value, ROE/ROE ex-AOCI, the combined ratio, capital adequacy and buyback capacity — without improvement in these metrics, a "cleaner story" is just a prettier label on the same bottle.

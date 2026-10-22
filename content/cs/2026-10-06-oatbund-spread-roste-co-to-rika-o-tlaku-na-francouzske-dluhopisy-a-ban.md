@@ -20,6 +20,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/oat-bund-spread-roste-co-to-rika-o-tlaku-na-francouzske-dluh-analyza-381765
+impact:
+  areas: [money]
+  line: "Pokud nežijete ve Francii, tento týden to nic nemění. Pokud ano, širší OAT–Bund spread zpravidla zdražuje francouzským bankám jejich financování, což se pomalu může promítnout do sazeb hypoték a úvěrů pro malé firmy. Jinde v Evropě je to spíš signál než účet."
+  todo: "Sledujte francouzský desetiletý výnos vedle německého. Spread, který se po několik týdnů drží nad obvyklým pásmem a doprovází ho slabé aukce OAT, je to, co stojí za pozornost — ne jednotlivé dny šumu."
 ---
 
 U francouzských dluhopisů nestačí sledovat samotný růst výnosu; klíčové je, zda se zároveň zvětšuje odstup od německých Bundů a zda se tlak přes aukce, CDS a bankovní financování šíří dál.

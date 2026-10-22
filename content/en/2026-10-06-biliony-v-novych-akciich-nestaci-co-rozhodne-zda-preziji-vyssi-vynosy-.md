@@ -17,6 +17,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/biliony-v-novych-akciich-nestaci-co-rozhodne-zda-preziji-vys-analyza-381763
+impact:
+  areas: [money]
+  line: "If you hold stock funds, a trillion dollars of new share issuance means your existing shares are competing with a lot of fresh paper for the same pool of money. In a quarter when bond yields are also pulling capital, that can hold prices back even if company results are fine."
+  todo: "Watch how newly listed shares trade in the three months after their IPO and whether the gains in the broad index are spreading beyond the biggest AI names. If a rally stays narrow and new issues drift, that is the signal."
 ---
 
 The sheer volume of issuance is not enough: the key is whether new shares hold their price even with higher bond yields, and whether capital flows beyond the AI champions too.

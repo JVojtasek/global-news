@@ -20,6 +20,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/odolny-index-nemusi-znamenat-odolny-trh-sirka-rustu-a-kredit-analyza-381626
+impact:
+  areas: [money]
+  line: "Pokud máte penzi v širokém akciovém indexu, hladina na špičce může vypadat klidně i tehdy, kdy většina firem pod ní není. Úzký růst držený hrstkou obrů je jiný trh než ten široký, i když je číslo na obrazovce podobné."
+  todo: "Otevřete si u fondu factsheet a podívejte se, jak velkou část letošního výnosu indexu přinesla jeho největší desítka. Když je tenhle podíl neobvykle vysoký a zároveň se rozšiřují kreditní spready u high-yield dluhopisů, povrch a dno nejsou stejné místo."
 ---
 
 Odolný index ještě nemusí znamenat odolný trh: při růstu výnosů je klíčové sledovat šířku růstu, kreditní spready a to, zda firmy stojí na hotovosti, nebo na dluhu čekajícím na dražší refinancování.

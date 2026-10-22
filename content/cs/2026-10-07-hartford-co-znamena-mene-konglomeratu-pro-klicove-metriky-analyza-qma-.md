@@ -20,6 +20,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hartford-co-znamena-mene-konglomeratu-pro-klicove-metriky-analyza-382541
+impact:
+  areas: [money]
+  line: "Pro většinu čtenářů se denně nemění nic. Kdo drží akcie HIG v penzijním fondu nebo ETF, by měl vědět, že „čistší“ pojišťovna je čistší jen tehdy, když se zlepší i samotná čísla — book value, ROE a combined ratio — ne jen příběh kolem nich."
+  todo: "Pokud ten titul vlastníte, otevřete následující čtvrtletní výsledky a porovnejte book value na akcii, ROE a combined ratio s Chubb, Travelers a Cincinnati Financial. Pokud se metriky nehnou, je jednodušší příběh jen kosmetika."
 ---
 
 U kapitálové recyklace sledujte hlavně book value, ROE/ROE ex-AOCI, combined ratio, kapitálovou přiměřenost a buyback kapacitu — bez zlepšení těchto metrik je „čistší příběh“ jen hezčí etiketa na stejné lahvi.

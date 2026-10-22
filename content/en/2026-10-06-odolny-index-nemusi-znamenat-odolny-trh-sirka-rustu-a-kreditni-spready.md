@@ -17,6 +17,10 @@ origin:
 sources:
 - name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/odolny-index-nemusi-znamenat-odolny-trh-sirka-rustu-a-kredit-analyza-381626
+impact:
+  areas: [money]
+  line: "If your pension sits in a broad stock index, the headline level can look calm even when most of the companies underneath it are not. A narrow rally held up by a handful of giants is a different kind of market from a broad one, even if the number on the screen is similar."
+  todo: "Open the fund's factsheet and look at how much of the index's return has come from the top ten holdings this year. If that share is unusually high, and credit spreads for high-yield bonds are widening, the surface and the floor are not the same place."
 ---
 
 A resilient index doesn't yet mean a resilient market. As yields rise, the key is to watch the breadth of gains, credit spreads and whether companies stand on cash or on debt that is waiting for more expensive refinancing.
