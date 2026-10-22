@@ -138,7 +138,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-14  (2 zdrojů, síla 42)  Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?
   2026-10-15  (2 zdrojů, síla 44)  Jackson steps up again as Aston Villa revival continues
   2026-10-15  (2 zdrojů, síla 43)  Manchester City, the UAE and the UK's OM in a political tangle
   2026-10-15  (1 zdrojů, síla 40)  Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
@@ -158,6 +157,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
   2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
   2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win
+  2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory
 ```
 
 ### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait

@@ -9,7 +9,6 @@ Paměť obsahuje **160 vláken**. Aktivních za posledních 14 dní: **51**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 65 dní · 60 záznamů
 - časová osa:
-  - **2026-10-18** (3 zdrojů) Man Utd showed 'unity' in draw with Leeds - Carrick
   - **2026-10-19** (1 zdrojů) Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
   - **2026-10-20** (2 zdrojů) Ronaldo let Manchester United down - Ten Hag
   - **2026-10-20** (2 zdrojů) Liverpool v Villarreal: Champions League – live
@@ -19,6 +18,7 @@ Paměť obsahuje **160 vláken**. Aktivních za posledních 14 dní: **51**.
   - **2026-10-21** (2 zdrojů) Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
   - **2026-10-21** (2 zdrojů) Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
   - **2026-10-22** (4 zdrojů) Real Madrid dominate Leipzig for third straight win
+  - **2026-10-22** (2 zdrojů) Villa maintain perfect Champions League start with Viking victory
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 74 dní · 60 záznamů
