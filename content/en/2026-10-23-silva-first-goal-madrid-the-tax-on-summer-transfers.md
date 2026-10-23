@@ -1,46 +1,59 @@
 ---
 slug: silva-first-goal-madrid-the-tax-on-summer-transfers
-title: "The quiet relief of a first goal: Bernardo Silva, Real Madrid and the hidden tax on summer transfers"
-dek: "A 4-1 win over RB Leipzig is a scoreline. The real story is how long it can take a world-class midfielder to stop looking like a stranger in his own team."
+title: 'The quiet relief of a first goal: Bernardo Silva, Real Madrid and the hidden
+  tax on summer transfers'
+dek: A 4-1 win over RB Leipzig is a scoreline. The real story is how long it can take
+  a world-class midfielder to stop looking like a stranger in his own team.
 section: sport
 type: analysis
 depth: open
 lang: en
-date: 2026-10-23
-status: draft
-confidence: 62
+date: '2026-10-23'
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 6
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: "9f8f826047ea"
-series: ""
-image_query: "football player celebration stadium night"
+format: ''
+event_id: 9f8f826047ea
+series: ''
+image_query: football player celebration stadium night
 sources:
-  - name: "Guardian Sport"
-    url: "https://www.theguardian.com/football/2026/oct/21/champions-league-roundup-real-madrid-leipzig-inter-shakhtar-sporting-lask-brugge-lens-betis-feyenoord"
-    published: "2026-10-21"
-  - name: "France 24"
-    url: "https://www.france24.com/en/sport/20261022-real-madrid-thrash-rb-leipzig-as-mbappe-scores-in-champions-league-win"
-    published: "2026-10-22"
-  - name: "Al Jazeera"
-    url: "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start"
-    published: "2026-10-21"
-  - name: "BBC Sport"
-    url: "https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo"
-    published: "2026-10-22"
+- name: Guardian Sport
+  url: https://www.theguardian.com/football/2026/oct/21/champions-league-roundup-real-madrid-leipzig-inter-shakhtar-sporting-lask-brugge-lens-betis-feyenoord
+  published: '2026-10-21'
+- name: France 24
+  url: https://www.france24.com/en/sport/20261022-real-madrid-thrash-rb-leipzig-as-mbappe-scores-in-champions-league-win
+  published: '2026-10-22'
+- name: Al Jazeera
+  url: https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start
+  published: '2026-10-21'
+- name: BBC Sport
+  url: https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo
+  published: '2026-10-22'
 impact:
-  areas: [life]
-  line: "For most readers this changes nothing today. The useful part is the pattern underneath — new colleagues, new neighbours and new partners usually look worse than they are for a few weeks."
-  todo: "If someone close to you starts a new job, school or city this autumn, write down how many weeks you were quietly giving them. The number tends to be shorter than fair."
+  areas:
+  - life
+  line: For most readers this changes nothing today. The useful part is the pattern
+    underneath — new colleagues, new neighbours and new partners usually look worse
+    than they are for a few weeks.
+  todo: If someone close to you starts a new job, school or city this autumn, write
+    down how many weeks you were quietly giving them. The number tends to be shorter
+    than fair.
 quiz:
-  question: "Which player scored his first goal for Real Madrid since his summer transfer in the 4-1 win over RB Leipzig?"
-  options: ["Kylian Mbappé", "Bernardo Silva", "Arda Güler"]
+  question: Which player scored his first goal for Real Madrid since his summer transfer
+    in the 4-1 win over RB Leipzig?
+  options:
+  - Kylian Mbappé
+  - Bernardo Silva
+  - Arda Güler
   answer: 1
-  explanation: "Mbappé and Güler also scored, but it was Bernardo Silva who opened the scoring — his first goal since moving from Manchester City in the summer."
+  explanation: Mbappé and Güler also scored, but it was Bernardo Silva who opened
+    the scoring — his first goal since moving from Manchester City in the summer.
+review_reason: 'citlivé téma: children'
 ---
 
 ## BRIEFLY

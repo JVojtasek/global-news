@@ -1,46 +1,61 @@
 ---
 slug: three-things-you-can-claim-when-your-flight-is-late
-title: "Three things you can actually claim when your flight is late: a practical guide to EU, UK and US passenger rights"
-dek: "Many passengers eligible for cash compensation never ask for it. The forms are not hidden and the deadlines are rarely short. Here is what to do, in which order, with which document."
+title: 'Three things you can actually claim when your flight is late: a practical
+  guide to EU, UK and US passenger rights'
+dek: Many passengers eligible for cash compensation never ask for it. The forms are
+  not hidden and the deadlines are rarely short. Here is what to do, in which order,
+  with which document.
 section: travel
 type: analysis
 depth: open
 lang: en
-date: 2026-10-23
-status: draft
-confidence: 76
+date: '2026-10-23'
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 3
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: ""
-image_query: "airport departure board delayed flight passengers"
+format: ''
+event_id: ''
+series: ''
+image_query: airport departure board delayed flight passengers
 sources:
-  - name: "European Commission — Your Europe"
-    url: "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm"
-    published: "2024-05-01"
-  - name: "UK Civil Aviation Authority"
-    url: "https://www.caa.co.uk/passengers/resolving-travel-problems/your-rights/flight-delays-and-cancellations/"
-    published: "2024-01-01"
-  - name: "US Department of Transportation — Fly Rights"
-    url: "https://www.transportation.gov/airconsumer/fly-rights"
-    published: "2024-01-01"
-  - name: "US Department of Transportation — Automatic Refunds Final Rule"
-    url: "https://www.transportation.gov/briefing-room/biden-harris-administration-announces-final-rule-requiring-automatic-refunds-airline"
-    published: "2024-04-24"
+- name: European Commission — Your Europe
+  url: https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm
+  published: '2024-05-01'
+- name: UK Civil Aviation Authority
+  url: https://www.caa.co.uk/passengers/resolving-travel-problems/your-rights/flight-delays-and-cancellations/
+  published: '2024-01-01'
+- name: US Department of Transportation — Fly Rights
+  url: https://www.transportation.gov/airconsumer/fly-rights
+  published: '2024-01-01'
+- name: US Department of Transportation — Automatic Refunds Final Rule
+  url: https://www.transportation.gov/briefing-room/biden-harris-administration-announces-final-rule-requiring-automatic-refunds-airline
+  published: '2024-04-24'
 impact:
-  areas: [money]
-  line: "An arrival delay of three hours or more on a flight leaving the EU or UK — or flying into them on an EU or UK airline — can be worth up to €600 or £520 per passenger. Many eligible travellers never claim it."
-  todo: "Keep the booking email, the boarding pass and a screenshot of the actual arrival time. Claim through the airline's own form first; check the national enforcement body's page for local deadlines."
+  areas:
+  - money
+  line: An arrival delay of three hours or more on a flight leaving the EU or UK —
+    or flying into them on an EU or UK airline — can be worth up to €600 or £520 per
+    passenger. Many eligible travellers never claim it.
+  todo: Keep the booking email, the boarding pass and a screenshot of the actual arrival
+    time. Claim through the airline's own form first; check the national enforcement
+    body's page for local deadlines.
 quiz:
-  question: "Under EU Regulation 261/2004, what is the maximum cash compensation per passenger for a long-haul flight delayed by three hours or more at arrival?"
-  options: ["€250", "€400", "€600"]
+  question: Under EU Regulation 261/2004, what is the maximum cash compensation per
+    passenger for a long-haul flight delayed by three hours or more at arrival?
+  options:
+  - €250
+  - €400
+  - €600
   answer: 2
-  explanation: "EU261 sets compensation at €250, €400 or €600 based on flight distance. The top tier (€600) applies to flights longer than 3,500 kilometres between an EU airport and a non-EU airport."
+  explanation: EU261 sets compensation at €250, €400 or €600 based on flight distance.
+    The top tier (€600) applies to flights longer than 3,500 kilometres between an
+    EU airport and a non-EU airport.
+review_reason: 'citlivé téma: Children'
 ---
 
 ## BRIEFLY
