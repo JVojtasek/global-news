@@ -10,6 +10,10 @@ date: '2026-10-08'
 status: published
 confidence: 0
 image_query: 'data center server racks'
+impact:
+  areas: [money]
+  line: "Most readers feel this only indirectly. When borrowing stays expensive, firms that live on cheap refinancing come under pressure, and mortgages and consumer loans stay dearer for households too."
+  todo: "If you hold a pension or index fund, check its factsheet: how much sits in large tech stocks, and how much in property and utilities."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/vyssi-sazby-nejdou-jen-po-rustu-proc-ai-muze-tezit-z-realne--analyza-383184

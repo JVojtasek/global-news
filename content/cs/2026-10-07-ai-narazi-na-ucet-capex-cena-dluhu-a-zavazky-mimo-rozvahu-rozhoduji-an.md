@@ -13,6 +13,10 @@ date: '2026-10-07'
 status: published
 confidence: 0
 image_query: 'AI naráží na účet: capex,'
+impact:
+  areas: [money]
+  line: "Dnes se přímo nic nemění. Velké technologické firmy mají v mnoha penzijních a indexových fondech velkou váhu, takže to, jestli se jim výdaje na AI vrátí, může hýbat úsporami, které většina lidí aktivně nespravuje."
+  todo: "Najděte si deset největších pozic svého penzijního nebo indexového fondu a zjistěte, kolik z nich připadá na pět zde jmenovaných cloudových gigantů."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-narazi-na-ucet-capex-cena-dluhu-a-zavazky-mimo-rozvahu-ro-analyza-382692

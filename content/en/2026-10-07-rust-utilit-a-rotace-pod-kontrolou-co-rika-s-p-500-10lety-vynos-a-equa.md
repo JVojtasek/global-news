@@ -10,6 +10,10 @@ date: '2026-10-07'
 status: published
 confidence: 0
 image_query: 'electricity pylons power lines'
+impact:
+  areas: [money]
+  line: "Directly, nothing changes for most readers. Indirectly, it hints at what investors are watching: when utilities lead, markets are usually preoccupied with interest rates and steady income rather than fast growth."
+  todo: "Check the sector breakdown of your pension or index fund in its latest factsheet — not to act on it, just to know what it rests on."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rust-utilit-a-rotace-pod-kontrolou-co-rika-s-p-500-10lety-vy-analyza-382396

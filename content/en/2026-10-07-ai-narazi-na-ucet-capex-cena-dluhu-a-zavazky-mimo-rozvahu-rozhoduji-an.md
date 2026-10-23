@@ -10,6 +10,10 @@ date: '2026-10-07'
 status: published
 confidence: 0
 image_query: 'data center server racks'
+impact:
+  areas: [money]
+  line: "No direct change today. Big tech companies weigh heavily in many pension and index funds, so whether their AI spending pays off can move savings that most people never actively manage."
+  todo: "Look up the top ten holdings of your pension or index fund and note how much sits in the five hyperscalers named here."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-narazi-na-ucet-capex-cena-dluhu-a-zavazky-mimo-rozvahu-ro-analyza-382692

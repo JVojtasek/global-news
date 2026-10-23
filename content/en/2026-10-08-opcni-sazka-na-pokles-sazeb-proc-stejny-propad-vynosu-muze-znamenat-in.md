@@ -10,6 +10,10 @@ date: '2026-10-08'
 status: published
 confidence: 0
 image_query: 'bond trading screens'
+impact:
+  areas: [money]
+  line: "Nothing changes directly today. Falling long-term yields can, with a delay, mean cheaper fixed-rate mortgages and lower savings rates — but why yields fall matters as much as the fall itself."
+  todo: "If you are about to fix a mortgage or a savings rate, compare offers over several weeks and ask the lender which market rate its pricing follows."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/opcni-sazka-na-pokles-sazeb-proc-stejny-propad-vynosu-muze-z-analyza-383193

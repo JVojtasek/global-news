@@ -13,6 +13,10 @@ date: '2026-10-08'
 status: published
 confidence: 0
 image_query: Vyšší sazby nejdou jen po
+impact:
+  areas: [money]
+  line: "Většina čtenářů to pocítí jen nepřímo. Když půjčky zůstávají drahé, dostávají se pod tlak firmy závislé na levném refinancování a domácnostem zůstávají dražší i hypotéky a spotřebitelské úvěry."
+  todo: "Máte penzijní nebo indexový fond? Podívejte se do jeho přehledu, kolik drží ve velkých technologických firmách a kolik v nemovitostech a utilitách."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/vyssi-sazby-nejdou-jen-po-rustu-proc-ai-muze-tezit-z-realne--analyza-383184

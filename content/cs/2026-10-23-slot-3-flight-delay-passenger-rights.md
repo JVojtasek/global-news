@@ -1,14 +1,14 @@
 ---
 slug: three-things-you-can-claim-when-your-flight-is-late
-title: "Tři věci, které si můžete nárokovat, když vám letí letadlo pozdě: praktický průvodce právy cestujících v EU, UK a USA"
-dek: "Většina cestujících, kteří mají nárok na náhradu, si o ni nikdy nezažádá. Formuláře nejsou skryté, lhůty nejsou krátké, aerolinka vám to prostě nepřipomene. Co dělat, v jakém pořadí a s jakými papíry."
+title: "Tři věci, které můžete skutečně požadovat, když vám letadlo nabere zpoždění: praktický průvodce právy cestujících v EU, Británii a USA"
+dek: "Mnoho cestujících, kteří mají nárok na peněžní náhradu, si o ni nikdy neřekne. Formuláře nejsou schované a lhůty bývají dlouhé. Co dělat, v jakém pořadí a s jakými papíry."
 section: travel
 type: analysis
 depth: open
 lang: cs
 date: 2026-10-23
 status: draft
-confidence: 83
+confidence: 76
 load: 0
 topics: []
 automation_generated: true
@@ -34,82 +34,84 @@ sources:
     published: "2024-04-24"
 impact:
   areas: [money]
-  line: "A delay of three hours or more on a flight from or into the EU or UK can be worth up to €600 per passenger. Many eligible travellers never claim it, usually because they thought the airline would offer it. It will not."
-  todo: "Save the booking email and your boarding pass. Note the time the aircraft doors actually opened. Submit a claim through the airline's own form within six weeks — the first-round refusals are often reversible by the national regulator."
+  line: "Zpoždění v cíli o tři hodiny a víc u letu z EU nebo Británie — nebo do nich s evropskou či britskou společností — může mít hodnotu až 600 € nebo 520 liber na cestujícího. Mnoho oprávněných cestujících si o ni nikdy neřekne."
+  todo: "Schovejte si e-mail s rezervací, palubní vstupenku a snímek skutečného času příletu. Žádejte nejdřív formulářem společnosti; místní lhůty ověřte na stránce národního dozorového orgánu."
 quiz:
-  question: "Jaká je podle nařízení EU 261/2004 maximální peněžní náhrada na cestujícího za dálkový let zpožděný o tři a více hodin v cíli?"
+  question: "Jaká je podle nařízení EU 261/2004 nejvyšší peněžní náhrada na cestujícího za dálkový let, který přiletí se zpožděním tří a více hodin?"
   options: ["250 €", "400 €", "600 €"]
   answer: 2
-  explanation: "EU261 stanoví náhradu 250 €, 400 € nebo 600 € podle vzdálenosti letu. Nejvyšší pásmo (600 €) platí pro lety nad 3 500 km mezi letištěm v EU a mimo EU."
+  explanation: "EU261 stanoví náhradu 250 €, 400 € nebo 600 € podle vzdálenosti letu. Nejvyšší pásmo (600 €) platí pro lety delší než 3 500 km mezi letištěm v EU a letištěm mimo EU."
 ---
 
 ## BRIEFLY
 
-**Co se stalo.** Pravidla EU, UK i USA dávají cestujícím konkrétní peněžní nárok nebo nárok na vrácení ceny v případě zpoždění, zrušení nebo zásadní změny letu. Většina lidí, kteří nárok mají, ho nepoužije.
+**Co se stalo.** Pravidla EU, Británie i USA dávají cestujícím konkrétní nárok na peníze nebo vrácení jízdného, když je let výrazně zpožděný, zrušený nebo podstatně změněný. Mnoho lidí, kteří nárok mají, ho nikdy nevyužije.
 
-**Co to znamená.** Rozdíl mezi nárokem a jeho uplatněním není právní záhada. Je to součást designu: aerolinka to sama nenabídne a má jen jednu šanci říct ne, než řekne ano regulátor.
+**Co to znamená.** Propast mezi nárokem a jeho uplatněním není právní záhada. Letecká společnost to sama sotva nadhodí a cestující, který se nezeptá, obvykle nedostane nic.
 
-**Rizika a dopady.** Přímé peníze, často mezi 250 a 600 € na cestujícího na linkách EU a UK; automatické refundace v USA od roku 2024. V rodině čtyř lidí nejde o malé částky.
+**Rizika a dopady.** Přímé peníze: 250 až 600 € na cestujícího na letech, na které se vztahují pravidla EU, 220 až 520 liber na britských, a v USA od roku 2024 v mnoha případech automatické vrácení peněz.
 
-**Co se s tím dá dělat.** Mít tři dokumenty, nejdřív použít vlastní formulář aerolinky, a pokud bude první odpověď záporná, eskalovat k národnímu regulátorovi – ne k soudu.
+**Co se s tím dá dělat.** Schovat si tři dokumenty, začít formulářem letecké společnosti, a když přijde zamítnutí, obrátit se na regulátora nebo schválený smírčí orgán dřív, než začnete myslet na soud.
 
-**Na co se dívat dál.** Jestli dlouho otálená revize nařízení EU 261 – zaseklá v Radě EU už řadu let – nakonec projde a změní prahy.
+**Na co se dívat dál.** Jestli se dlouho odkládaná revize nařízení EU 261 nakonec dotáhne a změní hranice zpoždění.
 
 ## FACTS
 
-Tři paralelní systémy chrání cestující na většině tras, které čtenáře tohoto webu zajímají.
+Tři souběžné systémy chrání cestující na trasách, kterými čtenáři tohoto webu nejčastěji létají.
 
-**Nařízení EU 261/2004.** Platí pro jakýkoli let z letiště v EU, Islandu, Norsku nebo Švýcarsku a pro lety provozované aerolinkou s licencí EU přilétající do EU. Pokud zpoždění v cíli dosáhne tří a více hodin, máte nárok na peněžní náhradu 250 € (lety do 1 500 km), 400 € (lety v rámci EU nad 1 500 km a ostatní lety 1 500–3 500 km) nebo 600 € (lety nad 3 500 km mezi letištěm v EU a mimo EU). Zrušení s oznámením kratším než 14 dní funguje podobně. Aerolinka musí také poskytnout jídlo a případně ubytování během čekání. Jedinou úplnou únikovou doložkou jsou „mimořádné okolnosti" – počasí, stávky mimo aerolinku, rozhodnutí řízení letového provozu, srážky s ptáky. Běžné technické závady se nepočítají.
+**Nařízení EU 261/2004.** Vztahuje se na každý let z letiště v EU, na Islandu, v Norsku nebo ve Švýcarsku a na lety evropských leteckých společností, které tam přilétají. Když je zpoždění v cíli tři hodiny a víc, náhrada činí 250 € u letů do 1 500 km, 400 € u delších letů uvnitř EU a ostatních letů mezi 1 500 a 3 500 km a 600 € u letů nad 3 500 km. Podobně se postupuje u letů zrušených méně než 14 dní předem. Společnost musí během čekání zajistit i jídlo a v případě potřeby hotel.
 
-**Nařízení UK 261 (ponechané právo po brexitu).** Zrcadlí pravidla EU v librách: 220, 350 a 520 £. Vymáhá UK Civil Aviation Authority (CAA). Pokrývá lety odlétající z letišť UK a lety britských aerolinek přilétající do UK.
+Jediná úniková klauzule jsou „mimořádné okolnosti“: extrémní počasí, rozhodnutí řízení letového provozu, bezpečnostní rizika, stávky mimo leteckou společnost. Běžné technické závady se zpravidla nepočítají a výmluvu musí doložit společnost.
 
-**Americké ministerstvo dopravy (DOT).** Od roku 2024 pravidlo DOT „Automatic Refunds" vyžaduje, aby aerolinky vydávaly automatické peněžní refundace za zrušení, „významné změny" a zpoždění tří a více hodin na domácích letech (šest a více hodin na mezinárodních). Refundace jde na původní platební metodu a u kreditních karet musí být vydána do sedmi pracovních dnů. Na rozdíl od evropského systému není žádná pevná peněžní náhrada navíc – ale ani není potřeba žádat: refundace má přijít sama.
+**UK261.** Po brexitu si Británie ponechala stejná pravidla v librách: 220, 350 a 520 liber. Dohlíží na ně Úřad pro civilní letectví (CAA). Platí pro lety z britských letišť a pro lety britských společností do Británie.
+
+**Ministerstvo dopravy USA.** Pravidlo DOT oznámené v dubnu 2024 ukládá leteckým společnostem automaticky vracet peníze za zrušené lety, podstatné změny a dlouhá zpoždění – tři hodiny a víc u vnitrostátních letů, šest u mezinárodních – pokud cestující odmítne nabídnutou náhradu. Peníze se vracejí na původní platební prostředek, u plateb kartou do sedmi pracovních dnů. Žádná pevná náhrada navíc není. Vrátí se to, co jste zaplatili, ne víc.
 
 ## EVIDENCE
 
-Předpisy i pravidlo DOT jsou veřejné, konsolidované a aktuální na webech regulátorů – portál Your Europe Evropské komise, UK CAA a stránka DOT Fly Rights spolu s archivem vyhlášky z roku 2024. To jsou primární zdroje; mnoho komerčních stránek na správu nároků, které slibují získat vám peníze za podíl, jsou druhotná shrnutí, ne nezávislý zdroj práva.
+Nařízení i pravidlo DOT jsou veřejná a aktuální na stránkách samotných regulátorů: na portálu Evropské komise Your Europe, u britského CAA a na stránce Fly Rights amerického ministerstva. To jsou primární zdroje. Komerční weby, které za podíl vymáhají vaše peníze, jsou shrnutí, ne samostatné právo.
 
-Co se shoduje napříč všemi třemi systémy: nárok je váš z definice, ne vyjednáváním, a důkazní břemeno pro „mimořádné okolnosti" leží na aerolince, ne na vás.
+V čem se všechny tři systémy shodují: nárok vám náleží automaticky, ne na základě vyjednávání.
 
-Co se liší: model EU/UK je pevná paušální částka na cestujícího; model USA je vrácení toho, co jste zaplatili, nic víc. Pro levnou předem zakoupenou letenku na krátký let v EU může náhrada EU převýšit cenu letenky; pro drahou letenku na poslední chvíli v USA může refundace přesáhnout jakoukoli evropskou náhradu.
+V čem se liší: EU a Británie vyplácejí pevnou částku na cestujícího, USA vracejí jízdné. U levného krátkého letu v Evropě může náhrada převýšit cenu letenky. U drahé letenky koupené na poslední chvíli v USA může být vrácená částka vyšší než jakákoli evropská náhrada.
 
-Co není jisté: data o skutečné míře dodržování z EU. Různé zprávy o vymáhání během let naznačily, že jen menšina způsobilých nároků je skutečně vyplacena. CAA učinila podobná pozorování o britském trhu. Praktické čtení je, že většina cestujících, kterým se peníze dluží, je nedostane, dokud se nezeptají dvakrát.
+Co je nejisté: kolik oprávněných nároků se skutečně vyplatí. Spotřebitelské organizace i regulátoři opakovaně naznačují, že velká část cestujících o náhradu nikdy nepožádá. Praktický závěr je skromný: když se nezeptáte, počítejte s tím, že nikdo nezaplatí.
 
 ## PERSPECTIVES
 
-**Pohled cestujícího.** Pravidla existují, peníze jsou vaše, vezměte si deset minut a požádejte. Pro čtyřčlennou rodinu na dálkovém zpoždění je 2 400 € náhrady EU261 smysluplná suma.
+**Pohled cestujícího.** Pravidla existují, peníze jsou vaše a žádost zabere deset minut. Pro čtyřčlennou rodinu na dálkovém letu se zpožděním může evropská náhrada dosáhnout 2 400 €.
 
-**Pohled aerolinky.** Aerolinky nikoli neoprávněně upozorňují, že náhrada EU261 nesouvisí s cenou letenky, takže letenka za 59 € může spustit výplatu 600 € a deformovat ekonomiku levných letů. Branže více než deset let lobuje za revizi, zatím s omezeným úspěchem.
+**Pohled leteckých společností.** Společnosti namítají, a ne bezdůvodně, že evropská náhrada nemá nic společného s cenou letenky. Letenka za 59 € může vyvolat výplatu 600 €, což podle nich deformuje nízkonákladové létání. O změny lobbují už přes deset let.
 
-**Pohled regulátora.** CAA a národní orgány vymáhání v EU mají pravomoc vynutit platbu, ale omezený rozpočet. Preferovaná cesta je, aby cestující nejdřív použili vlastní proces aerolinky, pak eskalovali k schváleným schématům alternativního řešení sporů (ADR), která jsou bezplatná a pro aerolinku závazná, pokud se k nim přihlásila.
+**Pohled regulátora.** Dozorové orgány umějí společnosti k platbě dotlačit, ale mají málo lidí. Dávají přednost tomu, aby cestující nejdřív použil postup společnosti a potom bezplatné mimosoudní řešení sporů (ADR), pokud je k němu společnost přihlášená.
 
-**Pohled spotřebitelských obhájců.** Jděte přímo a nechte si peníze. Firmy na správu nároků, které si berou 25–35 procent z vaší náhrady, existují hlavně pro cestující, kteří už jednou zkusili a neuspěli; pro čistou první žádost jsou zbytečnou daní.
+**Pohled spotřebitelských organizací.** Jděte napřímo a peníze si nechte. Vymáhací firmy si obvykle berou čtvrtinu náhrady nebo víc. U první, čisté žádosti jsou zbytečnou daní.
 
 ## CONTEXT
 
-Tři konkrétní kroky dělají rozdíl mezi způsobilým a úspěšným nárokem.
+Tři konkrétní kroky dělají z oprávněného nároku vyplacený.
 
-**Jedna: držte si dokumenty.** Potřebujete tři věci. Potvrzení rezervace (ukazuje rozvrh). Palubní vstupenku nebo e-ticket (ukazuje, že jste tam byli). Skutečný čas příletu (ukazuje zpoždění). Čas příletu je ten, který lidé nejčastěji zapomínají; letištní stránky a služby jako FlightAware ho archivují, a screenshot v den letu je ten nejsmysluplnější návyk, který si cestující může vzít. Pro nároky v EU a UK znamená „čas příletu" okamžik, kdy se otevřou první dveře letadla – ne plánovaný čas u gatu, ne dosednutí.
+**Za prvé: schovejte si doklady.** Potřebujete potvrzení rezervace (letový řád), palubní vstupenku (důkaz, že jste letěli) a skutečný čas příletu (zpoždění). Na čas příletu lidé zapomínají. Weby sledující lety ho archivují, ale snímek obrazovky pořízený ten den je nejužitečnější návyk, jaký si cestovatel může osvojit. Podle evropských pravidel, jak je vykládá Soudní dvůr EU, znamená „přílet“ okamžik, kdy se otevřou alespoň jedny dveře letadla – ne dosednutí.
 
-**Dva: začněte vlastním formulářem aerolinky.** Každý velký dopravce má na webu formulář pro práva cestujících nebo EU261, obvykle v sekci „customer relations" nebo „zpětná vazba". Žádost podejte tam. Uchovejte si referenční číslo. Nastavte si upomínku na 14 dní; mnoho dopravců v prvním kole neodpoví vůbec a hodiny na eskalaci se spustí, jakmile není věcná odpověď.
+**Za druhé: začněte formulářem společnosti.** Každý velký dopravce má formulář pro uplatnění práv cestujících, obvykle v sekci zákaznického servisu. Podejte žádost tam a schovejte si číslo podání. Nastavte si připomínku na několik týdnů; některé společnosti odpovídají v prvním kole pomalu.
 
-**Tři: eskalujte jednou, správně.** Pokud aerolinka odmítne nebo neodpoví, použijte národního regulátora nebo schéma ADR – ne soudy. V UK znamená CAA nebo schválené ADR, například CEDR či AviationADR. V EU znamená National Enforcement Body země, odkud let odlétl (nebo kam přilétl, u letů aerolinek EU přilétajících). V USA znamená stížnost u DOT online. Všechno je zdarma. Rozhodnutí ADR a regulátora překlápějí překvapivě velký podíl prvních odmítnutí, zejména ta citující „mimořádné okolnosti", které se ukáží jako běžná technika.
+**Za třetí: eskalujte jednou, a správně.** Když společnost odmítne nebo mlčí, obraťte se na schválený orgán ADR nebo na regulátora. V Británii to znamená orgán ADR, ke kterému je společnost přihlášená, nebo CAA. V EU vnitrostátní subjekt pro vymáhání práv v zemi, odkud let odlétal. V USA stížnost přes online portál DOT. Všechno je zdarma. Zamítnutí odůvodněná „mimořádnými okolnostmi“, za kterými se nakonec skrývá běžná technická závada, bývají často zvrácena.
 
-Čtvrtý, méně připomínaný bod: náhrada je na cestujícího, ne na rezervaci. Děti na vlastní letence také mají nárok. Kojenci na klíně dospělého obvykle ne, protože nemají vlastní sedadlo. Na rodinné cestě tenhle detail zhruba zdvojnásobí částku ve hře.
+Ještě jedna věc, na kterou se zapomíná: náhrada je na cestujícího, ne na rezervaci. Nárok mají i děti s vlastní letenkou. Kojenci na klíně rodiče bývají často vyloučeni.
 
-Lhůty se liší. V UK dává Limitation Act šest let od letu na soudní žalobu; v EU to závisí na zemi (dva roky někde, až deset jinde). V USA nemají stížnosti u DOT zákonnou lhůtu, ale do pár měsíců by měly být podány, aby byly užitečné.
+Lhůty se liší. V Anglii a Walesu lze žalobu podat až šest let po letu. V EU záleží na vnitrostátním právu, které se značně liší. Než budete počítat s roky, podívejte se na stránku národního orgánu.
 
 ## DEEPER
 
-V moderním spotřebitelském právu je tichý vzor. Nároky jsou napsané velkými písmeny v nařízeních, která vlády ráda ohlásí. Proces žádosti je napsaný malými písmeny ve formulářích, které existují jen proto, že je někdo cíleně hledal. Mezera mezi nimi je něco jako neoficiální sleva pro branži.
+V moderních spotřebitelských právech je tichý vzorec. Nároky jsou psané velkým písmem, v nařízeních, která vlády rády ohlašují. Postup, jak je uplatnit, je psaný drobným písmem, ve formulářích, které najdete, jen když je hledáte. Mezera mezi obojím funguje jako neoficiální sleva pro celé odvětví.
 
-Rozvážný čtenář se nemusí nad tím zlobit, aby viděl, co to od něj žádá. Práva, která se musí uplatňovat, zůstanou většinou neuplatněná, a lidé, kteří je uplatní, budou v průměru ti, kdo peníze potřebují nejméně – ti, kdo cestují často, kdo rozumí formulářům, kdo nejsou u pásu úplně vyždímaní. Práva, která se doručují automaticky – jako americká automatická refundace – se chovají jinak a dojdou k více lidem.
+Přemýšlivý čtenář se nemusí zlobit, aby viděl, co to po něm chce. Práva, o která se musí žádat, většinou zůstanou nevyužitá. Žádají spíš ti, kdo peníze potřebují nejméně – časté cestující, kteří formuláře znají, ne vyčerpaná rodina u pásu se zavazadly. Práva poskytovaná automaticky, jako americké vracení peněz, se dostanou k více lidem.
 
-Mezitím je užitečný postoj mírná, informovaná vytrvalost. Aerolinka si zapsala, co vám dluží; vy si můžete přečíst stejnou stránku. Regulátor si zapsal, kdo aerolinky nutí platit; můžete mu napsat mail. Nic z toho není nepřátelské. Jsou to papíry, udělané jednou, včas, se třemi dokumenty v ruce.
+Mezitím se vyplatí mírná, poučená vytrvalost. Povinnosti letecké společnosti jsou sepsané; můžete si přečíst stejnou stránku. Nic z toho není boj. Je to papírování, udělané jednou, včas, se třemi doklady v ruce.
 
-Většina čtenářů za rok proletí párkrát, aniž by narazila na zpoždění dost dlouhé, aby cokoli z tohoto spustilo. Jednoho dne jedno z těch letů bude čtyři hodiny opožděný večer do Prahy, Birminghamu nebo Chicaga, a otázka nebude, jestli jste měli právo, ale jestli jste si vzpomněli.
+Většina čtenářů poletí několikrát do roka bez zpoždění, které by cokoli z toho spustilo. Jednoho dne ale bude jedním z těch letů večerní přílet do Prahy, Birminghamu nebo Chicaga se čtyřhodinovým zpožděním. Otázka pak nebude, jestli jste na to měli právo, ale jestli jste si vzpomněli.
 
 ## REFLECT
 
-- Jaká práva máte ve vlastní zemi, která jste nikdy nepoužili, protože byl ten proces mírně nepohodlný?
-- Kdy vám naposledy firma dala něco, na co jste měli nárok, aniž byste se musel ptát dvakrát?
+- Která práva máte, ale nikdy jste je nevyužili, protože postup byl trochu nepohodlný?
+- Kdy vám naposledy nějaká firma dala něco, na co jste měli nárok, aniž byste se museli ptát dvakrát?

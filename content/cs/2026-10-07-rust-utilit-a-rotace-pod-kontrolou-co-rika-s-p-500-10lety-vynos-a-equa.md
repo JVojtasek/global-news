@@ -13,6 +13,10 @@ date: '2026-10-07'
 status: published
 confidence: 0
 image_query: Růst utilit a rotace pod
+impact:
+  areas: [money]
+  line: "Přímo se většině čtenářů nic nemění. Nepřímo to napovídá, co investory zaměstnává: když vedou utility, trh obvykle řeší úrokové sazby a stabilní příjem víc než rychlý růst."
+  todo: "Podívejte se do posledního přehledu svého penzijního nebo indexového fondu na rozdělení podle sektorů — ne kvůli akci, jen abyste věděli, na čem stojí."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rust-utilit-a-rotace-pod-kontrolou-co-rika-s-p-500-10lety-vy-analyza-382396
