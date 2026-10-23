@@ -87,25 +87,22 @@
     <https://www.france24.com/en/trump-faces-fresh-questions-over-ties-to-humanitarian-putin>
     > US President Donald Trump's pivot away from Ukraine has triggered fresh questions about his attachment to Russian leader Vladimir Putin, the man a top American envoy flattered on Wednesday as a "humanitarian. Trump has cast his dealings with Putin as part of a mega-deal that has 
 
-### 4. Meta ordered to pay $25 billion in Cambridge Analytica case
-- id události: `324a00b1ff1a`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 4. Ukraine troops report ongoing problems with Starlink satellite network
+- id události: `cb9eec62df6f`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **DW News** — Meta ordered to pay $25 billion in Cambridge Analytica case
-    <https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-rdf>
-    > A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign.
-  - **France 24** — Meta fined $25 billion in New Mexico over Cambridge Analytica scandal
-    <https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal>
-    > A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the p
-  - **TechCrunch** — Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal
-    <https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/>
-    > The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.
-  - **SCMP Tech (Čína)** — Meta to pay New Mexico a historic US$25 billion in Cambridge Analytica Facebook case
-    <https://www.scmp.com/news/world/united-states-canada/article/3371689/meta-pay-new-mexico-historic-us25-billion-cambridge-analytica-case>
-    > Meta Platforms was ordered to pay a groundbreaking US$25 billion civil penalty to the state of New Mexico in a consumer deception case spurred by the Cambridge Analytica scandal. The fine issued by state court Judge Francis Mathew is among the largest verdicts issued in US legal 
-  - **The Verge** — Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal
-    <https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty>
-    > The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's f
+  - **The Guardian World** — Ukraine troops report ongoing problems with Starlink satellite network
+    <https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network>
+    > Communications system still faces speed restrictions despite Trump claim that Musk had resumed full service Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row? Ukrainian forces continue to report widespread disruptions to the Starlink satellite network , despi
+  - **Ars Technica** — Ukraine learns to fight without Starlink as Musk plays politics with satellites
+    <https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/>
+    > Ukraine has changed drones and war-fighting tech to reduce reliance on Starlink.
+  - **CNBC Top** — Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine
+    <https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html>
+    > A letter demanding an investigation indicates Democrats will make investigating Starlink's interruption a top priority if they win control of the U.S. House.
+  - **Al Jazeera** — Ukraine plans independent satellite system as Starlink issues persist
+    <https://www.aljazeera.com/news/2026/10/23/ukraine-plans-independent-satellite-system-as-starlink-issues-persist?traffic_source=rss>
+    > Ukraine to team up with Finnish firms as Starshield problems, started amid Trump-Zelenskyy jibes, continue.
 
 ---
 
@@ -167,7 +164,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-09-28  (2 zdrojů, síla 42)  Israel strips Dutch diplomats of status in West Bank
   2026-09-28  (1 zdrojů, síla 50)  NASA Armstrong Celebrates 80 Years of Flight Innovation
   2026-09-29  (1 zdrojů, síla 44)  Israeli settlers attack Jalud village in occupied West Bank, torch homes
   2026-09-29  (2 zdrojů, síla 51)  Israeli settlers attack West Bank village and block Palestinian family's return home
@@ -187,6 +183,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-21  (3 zdrojů, síla 58)  Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
   2026-10-21  (1 zdrojů, síla 40)  African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
   2026-10-23  (3 zdrojů, síla 54)  Israel preparing 'full closure' of West Bank, Netanyahu says
+  2026-10-23  (3 zdrojů, síla 60)  Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
 ```
 
 ---
