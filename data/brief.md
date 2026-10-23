@@ -135,7 +135,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-15  (2 zdrojů, síla 43)  Manchester City, the UAE and the UK's OM in a political tangle
   2026-10-15  (1 zdrojů, síla 40)  Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
   2026-10-15  (3 zdrojů, síla 53)  Football regulator says he would quit over Man City political interference
   2026-10-16  (2 zdrojů, síla 43)  Do Manchester City have any grounds to win their appeal?
@@ -155,6 +154,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win
   2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory
   2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
+  2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
 ```
 
 ### 2. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
@@ -164,7 +164,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-09-28  (1 zdrojů, síla 50)  NASA Armstrong Celebrates 80 Years of Flight Innovation
   2026-09-29  (1 zdrojů, síla 44)  Israeli settlers attack Jalud village in occupied West Bank, torch homes
   2026-09-29  (2 zdrojů, síla 51)  Israeli settlers attack West Bank village and block Palestinian family's return home
   2026-10-01  (2 zdrojů, síla 52)  PM warned Rosebank oil field could breach West Bank sanctions
@@ -184,6 +183,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-21  (1 zdrojů, síla 40)  African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
   2026-10-23  (3 zdrojů, síla 54)  Israel preparing 'full closure' of West Bank, Netanyahu says
   2026-10-23  (3 zdrojů, síla 60)  Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
+  2026-10-23  (3 zdrojů, síla 56)  Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
 ```
 
 ---

@@ -5,46 +5,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "india",
-    "martinez",
-    "champions",
-    "guardiola",
-    "villarreal",
-    "wilson",
-    "phil",
-    "barcelona's",
-    "manchester",
-    "andy",
-    "leeds",
-    "isak",
-    "manzambi",
-    "european",
+    "melbourne",
+    "howe",
+    "jonathan",
+    "brighton",
     "carrick",
     "beckett",
-    "burnham",
-    "premier",
-    "jonathan",
-    "football",
-    "real",
-    "ronaldo",
-    "howe",
-    "aston",
-    "wilcox",
-    "city",
-    "madrid",
-    "gakpo",
-    "brighton",
-    "women",
-    "greenwood",
-    "troy's",
-    "tuchel",
-    "forest",
-    "villa",
-    "uk's",
-    "viking",
-    "glasner",
     "league",
-    "united"
+    "city",
+    "barcelona's",
+    "guardiola",
+    "wilson",
+    "champions",
+    "football",
+    "madrid",
+    "leeds",
+    "phil",
+    "isak",
+    "greenwood",
+    "real",
+    "tuchel",
+    "manchester",
+    "india",
+    "united",
+    "european",
+    "wilcox",
+    "gakpo",
+    "women",
+    "burnham",
+    "martinez",
+    "manzambi",
+    "aston",
+    "forest",
+    "uk's",
+    "a-leagues",
+    "ronaldo",
+    "glasner",
+    "villarreal",
+    "viking",
+    "troy's",
+    "villa"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -174,23 +174,12 @@
     "c5e9b0cf375b",
     "9f8f826047ea",
     "ac201f5941cf",
-    "f2893b4809e8"
+    "f2893b4809e8",
+    "3f159b2422bc"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-10-23",
    "timeline": [
-    {
-     "date": "2026-09-27",
-     "headline": "Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson",
-     "sources": 3,
-     "score": 63,
-     "event_id": "03c4565d185b",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict",
-      "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/27/national-league-gateshead-wealdstone"
-     ]
-    },
     {
      "date": "2026-09-27",
      "headline": "How drawn-out saga of Manchester City’s alleged cheating came to this",
@@ -866,6 +855,17 @@
       "https://www.theguardian.com/football/live/2026/oct/23/manchester-united-latest-european-reaction-and-more-football-news-live",
       "https://www.theguardian.com/football/2026/oct/23/eddie-howe-manchester-united-michael-carrick-jason-wilcox"
      ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby",
+     "sources": 1,
+     "score": 40,
+     "event_id": "3f159b2422bc",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/24/a-leagues-showpiece-melbourne-derby",
+      "https://www.theguardian.com/football/picture/2026/oct/20/david-squires-on-manchester-city-sailing-into-unknown-premier-league-waters"
+     ]
     }
    ]
   },
@@ -874,46 +874,46 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "bank",
-    "lander",
-    "israel",
-    "suggests",
-    "netanyahu",
-    "among",
-    "continue",
-    "true",
     "palestinians",
-    "past",
-    "germany",
-    "long",
-    "strove",
-    "doing",
-    "uk's",
-    "former",
-    "study",
-    "smithsonian",
-    "lizards",
-    "north",
-    "million",
-    "brad",
-    "community",
-    "wandered",
-    "evolved",
-    "jenin",
-    "south",
-    "italy",
-    "many",
-    "elephants",
     "african",
-    "poles",
-    "palestinian",
-    "culture",
-    "israelis",
+    "evolved",
+    "community",
     "ecosystem",
-    "five",
+    "jenin",
+    "among",
     "rajab",
+    "suggests",
+    "poles",
+    "germany",
+    "doing",
+    "million",
+    "five",
+    "long",
+    "study",
+    "lizards",
+    "many",
+    "culture",
     "years",
-    "died"
+    "former",
+    "elephants",
+    "lander",
+    "past",
+    "west",
+    "continue",
+    "israel",
+    "israelis",
+    "south",
+    "died",
+    "strove",
+    "uk's",
+    "true",
+    "italy",
+    "bank",
+    "wandered",
+    "netanyahu",
+    "smithsonian",
+    "israeli",
+    "north"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -982,22 +982,12 @@
     "f24f3fe6d6db",
     "fe8fb25e8f04",
     "47a92798df2a",
-    "7718246191f0"
+    "7718246191f0",
+    "a77c5e49ae6b"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-10-23",
    "timeline": [
-    {
-     "date": "2026-08-18",
-     "headline": "Palestine weekly: Global outcry fails to break West Bank siege",
-     "sources": 1,
-     "score": 40,
-     "event_id": "bdaf2e87b992",
-     "links": [
-      "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-19",
      "headline": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
@@ -1659,6 +1649,726 @@
       "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
       "https://www.france24.com/en/video/20261023-netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election"
      ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
+     "sources": 3,
+     "score": 56,
+     "event_id": "a77c5e49ae6b",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+      "https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/war-in-the-middle-east-israel-launches-west-bank-operations"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d4578d08ad87",
+   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+   "section": "world",
+   "entities": [
+    "oldest",
+    "karoline",
+    "generations",
+    "journalists",
+    "despite",
+    "does",
+    "politico",
+    "sweeping",
+    "tetris",
+    "china",
+    "stars",
+    "ukraine",
+    "inscribed",
+    "intelligence",
+    "trump",
+    "benjamin",
+    "katie",
+    "white",
+    "army",
+    "mines",
+    "israeli",
+    "driscoll",
+    "frequented",
+    "prime",
+    "company",
+    "press",
+    "stewart",
+    "site",
+    "chinese",
+    "come",
+    "melania",
+    "house",
+    "netanyahu",
+    "crypto",
+    "living",
+    "national",
+    "secretary",
+    "monarchs",
+    "land",
+    "leavitt"
+   ],
+   "event_ids": [
+    "d4578d08ad87",
+    "655262c61265",
+    "82ed3a7c13e3",
+    "d411c0b43223",
+    "08f45c7b66fd",
+    "2de7ae790f6c",
+    "1b7fcfb1169d",
+    "1cb3a78483ce",
+    "71a58ed61b0e",
+    "958107abfe36",
+    "eb231f9016df",
+    "ad8ed0c19d7a",
+    "1c66ae5141c6",
+    "153ab8978645",
+    "a49a69926475",
+    "d966c1faf1fe",
+    "eb0e7de10f2c",
+    "d6f846915316",
+    "fbea76a25d72",
+    "ea16baaac907",
+    "99aa363f1f60",
+    "954841d14c5d",
+    "691ba0b74f56",
+    "8ff1f96c6d43",
+    "11cf993dce96",
+    "ed03354ef007",
+    "3f96308a9884",
+    "4bb851cb2ea9",
+    "1846d1bb8cbc",
+    "ee634ff53aaa",
+    "53ba398d416e",
+    "2acf05538835",
+    "763674099d5c",
+    "87ad03b9a8d5",
+    "8884cb4fe214",
+    "6b42ee2bd0f4",
+    "0bbffa145260",
+    "73aadc58464b",
+    "66a4394b14d4",
+    "dc4087d2a219",
+    "363f25d81e31",
+    "c1fa2f6ae218",
+    "fcd1b322a9ec",
+    "e06269fd8cfc",
+    "0d54be219e97",
+    "345d48945e1b",
+    "1cb8c06f74ca",
+    "8e02f42d1654",
+    "2e715ced890e",
+    "1444cfda143e",
+    "5987fe721f68",
+    "5926bff6ce39",
+    "f8deac049ef3"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-10-23",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
+     "sources": 4,
+     "score": 67,
+     "event_id": "d4578d08ad87",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
+      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
+     ]
+    },
+    {
+     "date": "2026-08-12",
+     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
+     "sources": 2,
+     "score": 43,
+     "event_id": "655262c61265",
+     "links": [
+      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-13",
+     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "82ed3a7c13e3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
+      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d411c0b43223",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
+     "sources": 3,
+     "score": 58,
+     "event_id": "08f45c7b66fd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2de7ae790f6c",
+     "links": [
+      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
+      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
+     "sources": 2,
+     "score": 46,
+     "event_id": "1b7fcfb1169d",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
+      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
+     "sources": 2,
+     "score": 43,
+     "event_id": "1cb3a78483ce",
+     "links": [
+      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
+      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
+     "sources": 2,
+     "score": 45,
+     "event_id": "71a58ed61b0e",
+     "links": [
+      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
+      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
+     "sources": 2,
+     "score": 42,
+     "event_id": "958107abfe36",
+     "links": [
+      "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
+      "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Trump White House just tossed a grenade into international space relations",
+     "sources": 2,
+     "score": 42,
+     "event_id": "eb231f9016df",
+     "links": [
+      "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
+      "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Trump administration makes another appeal to the Supreme Court to allow mail-in ballot restrictions",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ad8ed0c19d7a",
+     "links": [
+      "https://www.cnbc.com/2026/09/06/trump-supreme-court-appeal-mail-in-ballots.html",
+      "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
+     "sources": 2,
+     "score": 40,
+     "event_id": "1c66ae5141c6",
+     "links": [
+      "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
+      "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+     "sources": 2,
+     "score": 48,
+     "event_id": "153ab8978645",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+      "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "US Supreme Court denies Trump bid to restrict mail-in ballots",
+     "sources": 3,
+     "score": 59,
+     "event_id": "a49a69926475",
+     "links": [
+      "https://www.dw.com/en/us-supreme-court-denies-trump-bid-to-restrict-mail-in-ballots/a-79267854?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
+      "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Trump says he is banning CNN and Politico from White House",
+     "sources": 7,
+     "score": 80,
+     "event_id": "d966c1faf1fe",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Donald Trump bans three media outlets from the White House, accusing them of spreading 'fake news'",
+     "sources": 2,
+     "score": 42,
+     "event_id": "eb0e7de10f2c",
+     "links": [
+      "https://www.france24.com/en/donald-trump-bans-three-media-outlets-from-the-white-house-accusing-them-of-spreading-fake-news",
+      "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Journalists denied White House access after Trump banned some media outlets",
+     "sources": 5,
+     "score": 73,
+     "event_id": "d6f846915316",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "As White House shields the AI gold rush, Trump family and other allies strike it rich – with few guardrails",
+     "sources": 2,
+     "score": 49,
+     "event_id": "fbea76a25d72",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest",
+      "https://www.france24.com/en/three-media-outlets-barred-from-the-white-house-over-fake-news"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+     "sources": 4,
+     "score": 61,
+     "event_id": "ea16baaac907",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
+      "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "What is the White House press pool and why does it matter?",
+     "sources": 3,
+     "score": 51,
+     "event_id": "99aa363f1f60",
+     "links": [
+      "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-what-is.html",
+      "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
+      "https://www.france24.com/en/americas/20260921-cnn-ms-now-politico-sue-trump-administration-after-white-house-ban"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Jon Stewart on Trump’s White House media ban: ‘authoritarian crackdown’",
+     "sources": 2,
+     "score": 42,
+     "event_id": "954841d14c5d",
+     "links": [
+      "https://www.theguardian.com/culture/2026/sep/22/jon-stewart-trump-white-house-media-ban",
+      "https://www.aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
+     "sources": 2,
+     "score": 51,
+     "event_id": "691ba0b74f56",
+     "links": [
+      "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
+      "https://www.aljazeera.com/news/2026/9/23/trump-administration-to-defend-its-ban-of-major-news-outlets-in-court?traffic_source=rss",
+      "https://www.aljazeera.com/economy/2026/9/23/the-white-house-press-pool-what-is-it-and-how-does-it-work?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Trump greets Xi Jinping at plane as Chinese leader arrives for state visit",
+     "sources": 2,
+     "score": 46,
+     "event_id": "8ff1f96c6d43",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Judge orders Trump administration to restore journalists' access to White House",
+     "sources": 5,
+     "score": 70,
+     "event_id": "11cf993dce96",
+     "links": [
+      "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
+      "https://www.dw.com/en/us-judge-blocks-trump-ban-of-cnn-ms-now-politico-from-white-house-orders-him-to-restore-access/a-79405693?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/24/us-judge-blocks-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Judge temporarily overturns Trump's White House media ban",
+     "sources": 2,
+     "score": 48,
+     "event_id": "ed03354ef007",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "White House 'repeatedly violated' court order to restore press access, say media outlets",
+     "sources": 3,
+     "score": 59,
+     "event_id": "3f96308a9884",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight",
+      "https://www.france24.com/en/video/20260924-judge-orders-white-house-to-restore-access-to-barred-media-companies"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "CNN, MS NOW, Politico regain access to White House",
+     "sources": 3,
+     "score": 56,
+     "event_id": "4bb851cb2ea9",
+     "links": [
+      "https://www.dw.com/en/cnn-ms-now-politico-regain-access-to-white-house/a-79405693?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
+      "https://www.aljazeera.com/economy/2026/9/24/media-outlets-still-denied-access-to-white-house-despite-judges-order?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
+     "sources": 2,
+     "score": 42,
+     "event_id": "1846d1bb8cbc",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
+      "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "US-China talks on trade, AI between Trump, Xi beckon",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ee634ff53aaa",
+     "links": [
+      "https://www.dw.com/en/us-china-talks-on-trade-ai-between-trump-xi-beckon/live-79404511?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/trump-views-us-china-relations-as-a-personal-friendship-xi-views-us-as-an-adversary-to-be-managed"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?",
+     "sources": 2,
+     "score": 44,
+     "event_id": "53ba398d416e",
+     "links": [
+      "https://www.dw.com/en/us-china-ai-race-does-trump-want-to-regulate-ai-by-forming-a-new-task-force-and-a-special-envoy-for-artificial-intelligence-in-the-us/a-79372591?maca=en-rss-en-all-1573-rdf",
+      "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+     "sources": 5,
+     "score": 72,
+     "event_id": "2acf05538835",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
+      "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "White House claims pro-Trump ad it paid Fox to air was ‘public service announcement’",
+     "sources": 2,
+     "score": 43,
+     "event_id": "763674099d5c",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/25/white-house-pro-trump-ad-fox",
+      "https://www.investing.com/news/stock-market-news/tv-networks-to-resume-coverage-of-trump-events-cnn-says-4917665"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "White House bars CNN from travelling with Trump on Air Force One",
+     "sources": 5,
+     "score": 76,
+     "event_id": "87ad03b9a8d5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one",
+      "https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "China, US to open AI ‘communication channel’ after summit, White House says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "8884cb4fe214",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says?traffic_source=rss",
+      "https://www.scmp.com/plus/news/china/diplomacy/article/3368799/xi-white-house-trade-war-truce-extension-golden-week-travel?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "The truth behind Donald Trump’s ‘biggest oil deal in world history’",
+     "sources": 4,
+     "score": 71,
+     "event_id": "6b42ee2bd0f4",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/26/donald-trump-oil-deal-with-venezuela",
+      "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
+      "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Tech leaders arrive at White House for AI luncheon with Trump",
+     "sources": 3,
+     "score": 52,
+     "event_id": "0bbffa145260",
+     "links": [
+      "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
+      "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "https://www.investing.com/news/commodities-news/white-house-urges-eu-to-draw-down-diesel-inventories-sources-say-4923232"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "U.S. Supreme Court sides with Trump administration in third-country deportations",
+     "sources": 2,
+     "score": 40,
+     "event_id": "73aadc58464b",
+     "links": [
+      "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
+      "https://www.cnbc.com/2026/09/29/supreme-court-lets-trump-resume-third-country-deportations.html"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Jon Stewart on Trump offering to sell weapons to China: ‘How does America even stay on the map sometimes?’",
+     "sources": 2,
+     "score": 44,
+     "event_id": "66a4394b14d4",
+     "links": [
+      "https://www.theguardian.com/culture/2026/sep/29/jon-stewart-trump-xi-jinping-visit",
+      "https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
+     "sources": 2,
+     "score": 46,
+     "event_id": "dc4087d2a219",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
+      "https://phys.org/news/2026-09-lost-shark-viral-star-south.html"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Despite praise and White House visits, Trump avoids endorsing Netanyahu",
+     "sources": 2,
+     "score": 44,
+     "event_id": "363f25d81e31",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/1/despite-praise-and-white-house-visits-trump-avoids-endorsing-netanyahu?traffic_source=rss",
+      "https://www.scmp.com/plus/news/china/diplomacy/article/3368799/xi-white-house-trade-war-truce-extension-golden-week-travel?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "South Korea demands Ukraine apology over POW disclosure",
+     "sources": 2,
+     "score": 48,
+     "event_id": "c1fa2f6ae218",
+     "links": [
+      "https://www.dw.com/en/south-korea-demands-ukraine-apology-over-pow-disclosure/a-79510305?maca=en-rss-en-all-1573-rdf",
+      "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/02/south-korea-ukraine-prisoner-north-korea-.html"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+     "sources": 2,
+     "score": 40,
+     "event_id": "fcd1b322a9ec",
+     "links": [
+      "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "https://www.scmp.com/plus/news/china/diplomacy/article/3368799/xi-white-house-trade-war-truce-extension-golden-week-travel?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+     "sources": 2,
+     "score": 41,
+     "event_id": "e06269fd8cfc",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube",
+     "sources": 2,
+     "score": 52,
+     "event_id": "0d54be219e97",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/soldiers-sweeping-for-land-mines-in-south-korea-have-unearthed-the-countrys-oldest-gun-a-600-year-old-inscribed-bronze-tube-180989610/",
+      "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come",
+     "sources": 1,
+     "score": 46,
+     "event_id": "345d48945e1b",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/londons-oldest-restaurant-frequented-by-monarchs-and-pop-stars-alike-is-a-site-of-living-history-now-its-protected-by-the-national-trust-for-generations-to-come-180989688/"
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "headline": "New White House Press Secretary Katie Zacharia on way out after only five days on job, reports say",
+     "sources": 2,
+     "score": 43,
+     "event_id": "1cb8c06f74ca",
+     "links": [
+      "https://www.dw.com/en/new-white-house-press-secretary-katie-zacharia-on-way-out-after-only-five-days-on-job-reports-say/a-79684341?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html"
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "headline": "White House press secretary Zacharia exiting role after short tenure",
+     "sources": 3,
+     "score": 54,
+     "event_id": "8e02f42d1654",
+     "links": [
+      "https://www.dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss",
+      "https://www.france24.com/en/americas/20261016-embattled-new-white-house-press-secretary-zacharia-let-go-from-her-role"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Katie Zacharia leaving her White House role less than five days on the job",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2e715ced890e",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "Trump endorses Netanyahu in Israeli legislative elections",
+     "sources": 3,
+     "score": 52,
+     "event_id": "1444cfda143e",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election",
+      "https://www.investing.com/news/economy-news/iran-appoints-new-defence-minister-amid-escalating-tensions-with-us-4955858"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+     "sources": 2,
+     "score": 40,
+     "event_id": "5987fe721f68",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+     "sources": 3,
+     "score": 60,
+     "event_id": "5926bff6ce39",
+     "links": [
+      "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
+      "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+     "sources": 3,
+     "score": 58,
+     "event_id": "f8deac049ef3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/23/russia-ukraine-agree-to-oleshky-ceasefire-melania-trump-white-house.html",
+      "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1667,46 +2377,46 @@
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
    "entities": [
-    "grokipedia",
-    "anthropic",
-    "skydance",
-    "zoom",
-    "embiricos",
-    "merging",
-    "musk",
-    "starlink",
-    "apple",
-    "here",
-    "netflix",
-    "ukraine",
-    "india's",
-    "machines",
-    "trump",
-    "alexander",
-    "senate",
-    "tesla",
-    "parties",
-    "beyond",
     "billionaire",
     "spacex",
-    "ukraine's",
-    "tesla-spacex",
-    "europe",
-    "dots",
-    "friday's",
-    "networking",
-    "miss",
     "china",
-    "openai",
-    "techcrunch",
-    "deckers",
-    "russia",
     "ambani",
+    "apple",
+    "ukraine",
+    "techcrunch",
+    "dots",
+    "zoom",
+    "trump",
+    "russia",
+    "senate",
+    "tesla",
+    "musk",
+    "iran",
+    "europe",
+    "friday's",
+    "deckers",
+    "networking",
+    "merging",
+    "anthropic",
+    "embiricos",
+    "israel",
+    "sure",
+    "openai",
+    "india's",
+    "beyond",
     "unusual",
-    "open",
+    "starlink",
+    "here",
+    "alexander",
     "talarico",
-    "wednesday's",
-    "side"
+    "skydance",
+    "open",
+    "parties",
+    "side",
+    "ukraine's",
+    "miss",
+    "machines",
+    "tesla-spacex"
    ],
    "event_ids": [
     "95b4d8eb7452",
@@ -1741,7 +2451,9 @@
     "9c464aa25357",
     "18ba53fb28cc",
     "cb9eec62df6f",
-    "e146a0ded080"
+    "e146a0ded080",
+    "4212a5c7dadf",
+    "3992fc4ed3eb"
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-10-23",
@@ -2126,6 +2838,494 @@
       "https://www.cnbc.com/2026/10/23/big-wall-street-analyst-calls-friday-include-spacex-coreweave.html",
       "https://www.cnbc.com/2026/10/23/stocks-making-the-biggest-moves-premarket-att-spacex-moderna-deckers-bloom-energy-and-more.html"
      ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+     "sources": 2,
+     "score": 54,
+     "event_id": "4212a5c7dadf",
+     "links": [
+      "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+      "https://www.cnbc.com/2026/10/22/wall-street-analyst-calls-nvidia-tesla-meta-spacex.html",
+      "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-premarket-tsla-meta-avex-spot.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+     "sources": 3,
+     "score": 50,
+     "event_id": "3992fc4ed3eb",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "87d62c77d066",
+   "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+   "section": "world",
+   "entities": [
+    "danish",
+    "behind",
+    "renoir",
+    "police",
+    "curfews",
+    "settlement",
+    "lithuania",
+    "used",
+    "found",
+    "paintings",
+    "europe",
+    "case",
+    "emmanuel",
+    "were",
+    "wall",
+    "young",
+    "mass",
+    "huge",
+    "nice",
+    "stolen",
+    "near",
+    "searching",
+    "european",
+    "vehicle",
+    "french",
+    "macron",
+    "thousands",
+    "norse",
+    "nato",
+    "greenland",
+    "smoking",
+    "evidence",
+    "president",
+    "france's",
+    "paris",
+    "tracking",
+    "catholics",
+    "red's",
+    "hidden",
+    "gulf"
+   ],
+   "event_ids": [
+    "87d62c77d066",
+    "16c614175ff1",
+    "5847bd600354",
+    "4f89836c1215",
+    "5650625ff0c7",
+    "3263aff4ed39",
+    "bfa030f1f411",
+    "cf6d90b7d356",
+    "0d0ab2de5779",
+    "acfbda7677cf",
+    "a1317b4ff430",
+    "cd28012b247a",
+    "b814a960e804",
+    "9e39130e88dd",
+    "72b1b0ac47d8",
+    "f74700a0c5c1",
+    "0ff76c15106b",
+    "ced850850efe",
+    "d09e5296340e",
+    "f24475a74667",
+    "721ce071533c",
+    "60c1d204b2f8",
+    "fef1e2c2f502",
+    "8d083b78259a",
+    "55d19e02d108",
+    "7531210b2282",
+    "00df4663cdd8",
+    "a7f7b3a35939",
+    "7604d8c4829b",
+    "480c4c18560b",
+    "c55f6bb1af02",
+    "643456b192e6",
+    "15f3ecd91311"
+   ],
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-10-23",
+   "timeline": [
+    {
+     "date": "2026-09-15",
+     "headline": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "87d62c77d066",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
+      "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+      "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+     "sources": 3,
+     "score": 66,
+     "event_id": "16c614175ff1",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
+      "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
+      "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
+     "sources": 3,
+     "score": 54,
+     "event_id": "5847bd600354",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260918-replay-macron-orders-plan-to-counter-russian-hybrid-attacks"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
+     "sources": 1,
+     "score": 42,
+     "event_id": "4f89836c1215",
+     "links": [
+      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+      "https://www.france24.com/en/video/20260918-france-s-macron-summons-party-leaders-for-talks-on-mideast-and-ukraine"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo visits France for first papal visit in 18 years – Europe live",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5650625ff0c7",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
+      "https://www.france24.com/en/replay-pope-leo-xiv-arrives-in-france-for-four-day-visit",
+      "https://www.france24.com/en/pope-leo-xiv-s-france-visit-puts-macron-in-diplomatic-balancing-act"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "'Pope fever' takes hold as Pope Leo visits France",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3263aff4ed39",
+     "links": [
+      "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260924-pope-leo-in-france-huge-amount-of-excitement-building-in-paris"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo XIV begins four-day pilgrimage to France",
+     "sources": 2,
+     "score": 58,
+     "event_id": "bfa030f1f411",
+     "links": [
+      "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-begins-paris-diplomacy-at-the-%C3%A9lys%C3%A9e",
+      "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+     "sources": 4,
+     "score": 65,
+     "event_id": "cf6d90b7d356",
+     "links": [
+      "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+     "sources": 2,
+     "score": 44,
+     "event_id": "0d0ab2de5779",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
+     "sources": 1,
+     "score": 41,
+     "event_id": "acfbda7677cf",
+     "links": [
+      "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
+      "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Thousands turn out to greet Pope in France",
+     "sources": 4,
+     "score": 76,
+     "event_id": "a1317b4ff430",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
+      "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cd28012b247a",
+     "links": [
+      "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+      "https://www.france24.com/en/france-pope-says-authentic-secularity-does-not-exclude-religion"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Paris: Pope Leo XIV to celebrate Mass before huge crowd",
+     "sources": 2,
+     "score": 64,
+     "event_id": "b814a960e804",
+     "links": [
+      "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/pope-leo-set-for-largest-event-of-france-tour-as-paris-crowds-swell",
+      "https://www.france24.com/en/video/20260926-pope-leo-xiv-to-celebrate-giant-paris-mass-after-peace-appeal"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Huge crowds greet Pope in Paris for open-air Mass",
+     "sources": 3,
+     "score": 67,
+     "event_id": "9e39130e88dd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
+     "sources": 3,
+     "score": 61,
+     "event_id": "72b1b0ac47d8",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
+      "https://www.france24.com/en/france/20260926-a-once-in-a-lifetime-event-faithful-and-curious-flock-to-pope-leo-xiv-s-mass-in-paris",
+      "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
+     "sources": 2,
+     "score": 43,
+     "event_id": "f74700a0c5c1",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
+      "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
+     "sources": 2,
+     "score": 41,
+     "event_id": "0ff76c15106b",
+     "links": [
+      "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
+      "https://www.france24.com/en/france/20260927-live-pope-leo-xiv-to-hold-open-air-mass-in-lourdes-pilgrimage-site"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "🔴Follow live: France's Macron, Pope Leo XIV speak on European unity in Metz",
+     "sources": 1,
+     "score": 40,
+     "event_id": "ced850850efe",
+     "links": [
+      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit",
+      "https://www.france24.com/en/video/20260928-pope-to-speak-on-european-unity-on-last-day-of-france-visit",
+      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Pope wraps up 'hugely successful' France visit with Metz speech",
+     "sources": 1,
+     "score": 47,
+     "event_id": "d09e5296340e",
+     "links": [
+      "https://www.france24.com/en/video/20260928-pope-wraps-up-hugely-successful-france-visit-with-metz-speech",
+      "https://www.france24.com/en/video/20260928-replay-pope-urges-peace-and-unity-in-europe-on-final-day-of-france-visit",
+      "https://www.france24.com/en/video/20260928-replay-france-s-macron-speaks-on-european-union-as-pope-visits-metz"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Pope Leo to speak on EU integration from French border town of Metz",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f24475a74667",
+     "links": [
+      "https://www.france24.com/en/france/20260928-pope-to-speak-on-united-eu-from-french-border-town",
+      "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "French high school protests continue despite PM’s promise of action – Europe live",
+     "sources": 2,
+     "score": 42,
+     "event_id": "721ce071533c",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
+      "https://www.france24.com/en/video/20261008-school-protests-part-of-a-broader-french-malaise"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "France: Police clash with protesters at Paris student rally",
+     "sources": 2,
+     "score": 41,
+     "event_id": "60c1d204b2f8",
+     "links": [
+      "https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Two Recently Stolen Renoir Paintings Were Found Hidden Behind a Cinderblock Wall. French Police Used DNA Evidence and Vehicle Tracking to Crack the Case",
+     "sources": 1,
+     "score": 44,
+     "event_id": "fef1e2c2f502",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/two-recently-stolen-renoir-paintings-were-found-hidden-behind-a-cinderblock-wall-french-police-used-dna-evidence-and-vehicle-tracking-to-crack-the-case-180989678/"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "France: Police and protesters clash in nationwide protests",
+     "sources": 2,
+     "score": 42,
+     "event_id": "8d083b78259a",
+     "links": [
+      "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "Macron calls for 'calm and order' after riots across France",
+     "sources": 2,
+     "score": 47,
+     "event_id": "55d19e02d108",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "7531210b2282",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+      "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Macron slams 'failures' over protest unrest in France but refuses interior minister's resignation",
+     "sources": 2,
+     "score": 45,
+     "event_id": "00df4663cdd8",
+     "links": [
+      "https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/tv-shows/perspective/20261019-france-has-to-assist-gulf-states-diplomat-says-as-macron-makes-three-day-visit"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "France: Curfews issued in Paris, Nice after unrest",
+     "sources": 2,
+     "score": 41,
+     "event_id": "a7f7b3a35939",
+     "links": [
+      "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf",
+      "https://www.atlasobscura.com/places/chapel-of-expiation"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+     "sources": 2,
+     "score": 47,
+     "event_id": "7604d8c4829b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "France curfews calm unrest as Macron faces criticism over Gulf trip",
+     "sources": 2,
+     "score": 40,
+     "event_id": "480c4c18560b",
+     "links": [
+      "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Archaeologists Searching for Evidence of a Norse Church in Greenland Have Found 'the Smoking Gun' Near Erik the Red's Settlement",
+     "sources": 1,
+     "score": 41,
+     "event_id": "c55f6bb1af02",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/archaeologists-searching-for-evidence-of-a-norse-church-in-greenland-have-found-the-smoking-gu-near-erik-the-reds-settlement-180989716/"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Macron accuses foreign leaders of exploiting French riots",
+     "sources": 3,
+     "score": 56,
+     "event_id": "643456b192e6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+      "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "French protests: President Emmanuel Macron meets student unions representatives",
+     "sources": 2,
+     "score": 51,
+     "event_id": "15f3ecd91311",
+     "links": [
+      "https://www.france24.com/en/french-protests-president-emmanuel-macron-meets-student-unions-representatives",
+      "https://www.france24.com/en/major-protests-in-france-macron-convenes-student-representatives",
+      "https://www.theguardian.com/travel/2026/may/24/the-return-of-frances-train-of-marvels-from-the-cote-dazur-to-the-southern-french-alps"
+     ]
     }
    ]
   },
@@ -2454,6 +3654,77 @@
      "links": [
       "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "4031aa1963a5",
+   "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+   "section": "world",
+   "entities": [
+    "africa",
+    "uganda",
+    "mystery",
+    "ebola",
+    "east",
+    "nigeria",
+    "abuja"
+   ],
+   "event_ids": [
+    "4031aa1963a5",
+    "869a10547f60",
+    "4461fa45eba6",
+    "9cd41a2cc7c2"
+   ],
+   "first_seen": "2026-10-21",
+   "last_seen": "2026-10-23",
+   "timeline": [
+    {
+     "date": "2026-10-21",
+     "headline": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+     "sources": 3,
+     "score": 55,
+     "event_id": "4031aa1963a5",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+     "sources": 3,
+     "score": 54,
+     "event_id": "869a10547f60",
+     "links": [
+      "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+      "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Nigeria confirms Ebola case linked to East Africa",
+     "sources": 3,
+     "score": 55,
+     "event_id": "4461fa45eba6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
+      "https://medicalxpress.com/news/2026-10-africa-cdc-ebola-crisis-summit.html",
+      "https://www.france24.com/en/video/20261021-nigeria-records-its-first-ebola-case-amid-rapid-regional-spread"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+     "sources": 2,
+     "score": 46,
+     "event_id": "9cd41a2cc7c2",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+      "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak"
      ]
     }
    ]
@@ -7119,457 +8390,6 @@
    ]
   },
   {
-   "id": "87d62c77d066",
-   "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-   "section": "world",
-   "entities": [
-    "mass",
-    "huge",
-    "behind",
-    "france's",
-    "europe",
-    "tracking",
-    "smoking",
-    "settlement",
-    "evidence",
-    "paris",
-    "police",
-    "near",
-    "renoir",
-    "curfews",
-    "metz",
-    "red's",
-    "european",
-    "young",
-    "greenland",
-    "case",
-    "macron",
-    "were",
-    "nice",
-    "gulf",
-    "found",
-    "danish",
-    "stolen",
-    "norse",
-    "paintings",
-    "thousands",
-    "wall",
-    "catholics",
-    "lithuania",
-    "used",
-    "vehicle",
-    "nato",
-    "hidden",
-    "searching",
-    "follow",
-    "french"
-   ],
-   "event_ids": [
-    "87d62c77d066",
-    "16c614175ff1",
-    "5847bd600354",
-    "4f89836c1215",
-    "5650625ff0c7",
-    "3263aff4ed39",
-    "bfa030f1f411",
-    "cf6d90b7d356",
-    "0d0ab2de5779",
-    "acfbda7677cf",
-    "a1317b4ff430",
-    "cd28012b247a",
-    "b814a960e804",
-    "9e39130e88dd",
-    "72b1b0ac47d8",
-    "f74700a0c5c1",
-    "0ff76c15106b",
-    "ced850850efe",
-    "d09e5296340e",
-    "f24475a74667",
-    "721ce071533c",
-    "60c1d204b2f8",
-    "fef1e2c2f502",
-    "8d083b78259a",
-    "55d19e02d108",
-    "7531210b2282",
-    "00df4663cdd8",
-    "a7f7b3a35939",
-    "7604d8c4829b",
-    "480c4c18560b",
-    "c55f6bb1af02",
-    "643456b192e6"
-   ],
-   "first_seen": "2026-09-15",
-   "last_seen": "2026-10-21",
-   "timeline": [
-    {
-     "date": "2026-09-15",
-     "headline": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "87d62c77d066",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
-      "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
-      "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-     "sources": 3,
-     "score": 66,
-     "event_id": "16c614175ff1",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
-      "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
-      "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
-     "sources": 3,
-     "score": 54,
-     "event_id": "5847bd600354",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260918-replay-macron-orders-plan-to-counter-russian-hybrid-attacks"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
-     "sources": 1,
-     "score": 42,
-     "event_id": "4f89836c1215",
-     "links": [
-      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
-      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
-      "https://www.france24.com/en/video/20260918-france-s-macron-summons-party-leaders-for-talks-on-mideast-and-ukraine"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo visits France for first papal visit in 18 years – Europe live",
-     "sources": 3,
-     "score": 68,
-     "event_id": "5650625ff0c7",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
-      "https://www.france24.com/en/replay-pope-leo-xiv-arrives-in-france-for-four-day-visit",
-      "https://www.france24.com/en/pope-leo-xiv-s-france-visit-puts-macron-in-diplomatic-balancing-act"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "'Pope fever' takes hold as Pope Leo visits France",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3263aff4ed39",
-     "links": [
-      "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260924-pope-leo-in-france-huge-amount-of-excitement-building-in-paris"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo XIV begins four-day pilgrimage to France",
-     "sources": 2,
-     "score": 58,
-     "event_id": "bfa030f1f411",
-     "links": [
-      "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-begins-paris-diplomacy-at-the-%C3%A9lys%C3%A9e",
-      "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-     "sources": 4,
-     "score": 65,
-     "event_id": "cf6d90b7d356",
-     "links": [
-      "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-     "sources": 2,
-     "score": 44,
-     "event_id": "0d0ab2de5779",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
-      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
-     "sources": 1,
-     "score": 41,
-     "event_id": "acfbda7677cf",
-     "links": [
-      "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
-      "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Thousands turn out to greet Pope in France",
-     "sources": 4,
-     "score": 76,
-     "event_id": "a1317b4ff430",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
-      "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
-     "sources": 2,
-     "score": 42,
-     "event_id": "cd28012b247a",
-     "links": [
-      "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
-      "https://www.france24.com/en/france-pope-says-authentic-secularity-does-not-exclude-religion"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Paris: Pope Leo XIV to celebrate Mass before huge crowd",
-     "sources": 2,
-     "score": 64,
-     "event_id": "b814a960e804",
-     "links": [
-      "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/pope-leo-set-for-largest-event-of-france-tour-as-paris-crowds-swell",
-      "https://www.france24.com/en/video/20260926-pope-leo-xiv-to-celebrate-giant-paris-mass-after-peace-appeal"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Huge crowds greet Pope in Paris for open-air Mass",
-     "sources": 3,
-     "score": 67,
-     "event_id": "9e39130e88dd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
-     "sources": 3,
-     "score": 61,
-     "event_id": "72b1b0ac47d8",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
-      "https://www.france24.com/en/france/20260926-a-once-in-a-lifetime-event-faithful-and-curious-flock-to-pope-leo-xiv-s-mass-in-paris",
-      "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
-     "sources": 2,
-     "score": 43,
-     "event_id": "f74700a0c5c1",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
-      "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
-     "sources": 2,
-     "score": 41,
-     "event_id": "0ff76c15106b",
-     "links": [
-      "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
-      "https://www.france24.com/en/france/20260927-live-pope-leo-xiv-to-hold-open-air-mass-in-lourdes-pilgrimage-site"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "🔴Follow live: France's Macron, Pope Leo XIV speak on European unity in Metz",
-     "sources": 1,
-     "score": 40,
-     "event_id": "ced850850efe",
-     "links": [
-      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit",
-      "https://www.france24.com/en/video/20260928-pope-to-speak-on-european-unity-on-last-day-of-france-visit",
-      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "Pope wraps up 'hugely successful' France visit with Metz speech",
-     "sources": 1,
-     "score": 47,
-     "event_id": "d09e5296340e",
-     "links": [
-      "https://www.france24.com/en/video/20260928-pope-wraps-up-hugely-successful-france-visit-with-metz-speech",
-      "https://www.france24.com/en/video/20260928-replay-pope-urges-peace-and-unity-in-europe-on-final-day-of-france-visit",
-      "https://www.france24.com/en/video/20260928-replay-france-s-macron-speaks-on-european-union-as-pope-visits-metz"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "Pope Leo to speak on EU integration from French border town of Metz",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f24475a74667",
-     "links": [
-      "https://www.france24.com/en/france/20260928-pope-to-speak-on-united-eu-from-french-border-town",
-      "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "French high school protests continue despite PM’s promise of action – Europe live",
-     "sources": 2,
-     "score": 42,
-     "event_id": "721ce071533c",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
-      "https://www.france24.com/en/video/20261008-school-protests-part-of-a-broader-french-malaise"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "France: Police clash with protesters at Paris student rally",
-     "sources": 2,
-     "score": 41,
-     "event_id": "60c1d204b2f8",
-     "links": [
-      "https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Two Recently Stolen Renoir Paintings Were Found Hidden Behind a Cinderblock Wall. French Police Used DNA Evidence and Vehicle Tracking to Crack the Case",
-     "sources": 1,
-     "score": 44,
-     "event_id": "fef1e2c2f502",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/two-recently-stolen-renoir-paintings-were-found-hidden-behind-a-cinderblock-wall-french-police-used-dna-evidence-and-vehicle-tracking-to-crack-the-case-180989678/"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "France: Police and protesters clash in nationwide protests",
-     "sources": 2,
-     "score": 42,
-     "event_id": "8d083b78259a",
-     "links": [
-      "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "Macron calls for 'calm and order' after riots across France",
-     "sources": 2,
-     "score": 47,
-     "event_id": "55d19e02d108",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "7531210b2282",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-      "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Macron slams 'failures' over protest unrest in France but refuses interior minister's resignation",
-     "sources": 2,
-     "score": 45,
-     "event_id": "00df4663cdd8",
-     "links": [
-      "https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/tv-shows/perspective/20261019-france-has-to-assist-gulf-states-diplomat-says-as-macron-makes-three-day-visit"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "France: Curfews issued in Paris, Nice after unrest",
-     "sources": 2,
-     "score": 41,
-     "event_id": "a7f7b3a35939",
-     "links": [
-      "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf",
-      "https://www.atlasobscura.com/places/chapel-of-expiation"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-     "sources": 2,
-     "score": 47,
-     "event_id": "7604d8c4829b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "France curfews calm unrest as Macron faces criticism over Gulf trip",
-     "sources": 2,
-     "score": 40,
-     "event_id": "480c4c18560b",
-     "links": [
-      "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Archaeologists Searching for Evidence of a Norse Church in Greenland Have Found 'the Smoking Gun' Near Erik the Red's Settlement",
-     "sources": 1,
-     "score": 41,
-     "event_id": "c55f6bb1af02",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/archaeologists-searching-for-evidence-of-a-norse-church-in-greenland-have-found-the-smoking-gu-near-erik-the-reds-settlement-180989716/"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Macron accuses foreign leaders of exploiting French riots",
-     "sources": 3,
-     "score": 56,
-     "event_id": "643456b192e6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-      "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "1301430cb05f",
    "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
    "section": "culture",
@@ -7973,64 +8793,6 @@
      "links": [
       "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
       "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-rdf"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "4031aa1963a5",
-   "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-   "section": "world",
-   "entities": [
-    "ebola",
-    "east",
-    "abuja",
-    "africa",
-    "nigeria",
-    "uganda"
-   ],
-   "event_ids": [
-    "4031aa1963a5",
-    "869a10547f60",
-    "4461fa45eba6"
-   ],
-   "first_seen": "2026-10-21",
-   "last_seen": "2026-10-21",
-   "timeline": [
-    {
-     "date": "2026-10-21",
-     "headline": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
-     "sources": 3,
-     "score": 55,
-     "event_id": "4031aa1963a5",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
-      "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/africa/20261020-nigeria-records-first-ebola-case-as-outbreak-spreads-across-africa"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
-     "sources": 3,
-     "score": 54,
-     "event_id": "869a10547f60",
-     "links": [
-      "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
-      "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Nigeria confirms Ebola case linked to East Africa",
-     "sources": 3,
-     "score": 55,
-     "event_id": "4461fa45eba6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
-      "https://medicalxpress.com/news/2026-10-africa-cdc-ebola-crisis-summit.html",
-      "https://www.france24.com/en/video/20261021-nigeria-records-its-first-ebola-case-amid-rapid-regional-spread"
      ]
     }
    ]
@@ -8823,701 +9585,6 @@
      "links": [
       "https://vlada.gov.cz/en/media-centrum/aktualne/prime-minister-andrej-babis-held-talks-with-romanian-president-nicusor-dan-on-cooperation-and-the-future-of-the-european-union-229264/",
       "https://www.dw.com/en/albania-students-demand-political-change-and-resignation-of-prime-minister-edi-rama/a-79682217?maca=en-rss-en-all-1573-rdf"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d4578d08ad87",
-   "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-   "section": "world",
-   "entities": [
-    "national",
-    "katie",
-    "chinese",
-    "frequented",
-    "prime",
-    "leavitt",
-    "monarchs",
-    "karoline",
-    "generations",
-    "press",
-    "unearthed",
-    "ukraine",
-    "china",
-    "benjamin",
-    "journalists",
-    "mines",
-    "politico",
-    "sweeping",
-    "come",
-    "trump",
-    "crypto",
-    "house",
-    "netanyahu",
-    "israeli",
-    "despite",
-    "land",
-    "stewart",
-    "does",
-    "army",
-    "company",
-    "inscribed",
-    "living",
-    "white",
-    "oldest",
-    "stars",
-    "secretary",
-    "driscoll",
-    "tetris",
-    "site",
-    "intelligence"
-   ],
-   "event_ids": [
-    "d4578d08ad87",
-    "655262c61265",
-    "82ed3a7c13e3",
-    "d411c0b43223",
-    "08f45c7b66fd",
-    "2de7ae790f6c",
-    "1b7fcfb1169d",
-    "1cb3a78483ce",
-    "71a58ed61b0e",
-    "958107abfe36",
-    "eb231f9016df",
-    "ad8ed0c19d7a",
-    "1c66ae5141c6",
-    "153ab8978645",
-    "a49a69926475",
-    "d966c1faf1fe",
-    "eb0e7de10f2c",
-    "d6f846915316",
-    "fbea76a25d72",
-    "ea16baaac907",
-    "99aa363f1f60",
-    "954841d14c5d",
-    "691ba0b74f56",
-    "8ff1f96c6d43",
-    "11cf993dce96",
-    "ed03354ef007",
-    "3f96308a9884",
-    "4bb851cb2ea9",
-    "1846d1bb8cbc",
-    "ee634ff53aaa",
-    "53ba398d416e",
-    "2acf05538835",
-    "763674099d5c",
-    "87ad03b9a8d5",
-    "8884cb4fe214",
-    "6b42ee2bd0f4",
-    "0bbffa145260",
-    "73aadc58464b",
-    "66a4394b14d4",
-    "dc4087d2a219",
-    "363f25d81e31",
-    "c1fa2f6ae218",
-    "fcd1b322a9ec",
-    "e06269fd8cfc",
-    "0d54be219e97",
-    "345d48945e1b",
-    "1cb8c06f74ca",
-    "8e02f42d1654",
-    "2e715ced890e",
-    "1444cfda143e",
-    "5987fe721f68",
-    "5926bff6ce39"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-10-19",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Trump says White House press secretary Karoline Leavitt to leave post",
-     "sources": 4,
-     "score": 67,
-     "event_id": "d4578d08ad87",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/12/nx-s1-5929560/karoline-leavitt-white-house-press-secretary-leaving",
-      "https://www.cnbc.com/2026/08/12/trump-white-house-karoline-leavitt-resigning-.html"
-     ]
-    },
-    {
-     "date": "2026-08-12",
-     "headline": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
-     "sources": 2,
-     "score": 43,
-     "event_id": "655262c61265",
-     "links": [
-      "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-      "https://www.aljazeera.com/news/2026/8/10/trump-names-will-scharf-as-white-house-counsel-ahead-of-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-13",
-     "headline": "Who could potentially replace White House Press Secretary Karoline Leavitt?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "82ed3a7c13e3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0l5273xjnlo?at_medium=RSS&at_campaign=rss",
-      "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Crypto bank part-owned by Trump family offers depositors way to ‘gain favor’ with White House, experts say",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d411c0b43223",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/20/crypto-bank-world-liberty-trust-company-trump"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "US Supreme Court clears way for Trump to keep building White House ballroom",
-     "sources": 3,
-     "score": 58,
-     "event_id": "08f45c7b66fd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Venezuela grants U.S.-backed NABEP 100-year concessions for 17 oil fields, White House says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "2de7ae790f6c",
-     "links": [
-      "https://www.cnbc.com/2026/08/31/venezuela-grants-north-american-blue-energy-partners-100-year-concessions-for-17-oil-fields-white-house-says.html",
-      "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Army Secretary Dan Driscoll is stepping down, White House says",
-     "sources": 2,
-     "score": 46,
-     "event_id": "1b7fcfb1169d",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141337/army-secretary-stepping-down",
-      "https://www.cnbc.com/video/2026/09/01/skybridge-capital-founder-anthony-scaramucci-executive-decisions-with-steve-sedgwick.html"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Days after Trump announces Venezuela oil deal, White House fills in some of the details",
-     "sources": 2,
-     "score": 43,
-     "event_id": "1cb3a78483ce",
-     "links": [
-      "https://www.npr.org/2026/09/01/g-s1-141351/us-venezuelan-oil-deal",
-      "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "The White House’s absurd claim of a Chinese transshipment “scam”",
-     "sources": 2,
-     "score": 45,
-     "event_id": "71a58ed61b0e",
-     "links": [
-      "https://www.economist.com/finance-and-economics/2026/08/18/the-white-houses-absurd-claim-of-a-chinese-transshipment-scam",
-      "https://www.cnbc.com/2026/08/31/trump-refiners-gas-prices-refining-capacity.html"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
-     "sources": 2,
-     "score": 42,
-     "event_id": "958107abfe36",
-     "links": [
-      "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
-      "https://www.cnbc.com/2026/09/02/new-jersey-asks-the-supreme-court-to-take-on-prediction-markets-.html"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Trump White House just tossed a grenade into international space relations",
-     "sources": 2,
-     "score": 42,
-     "event_id": "eb231f9016df",
-     "links": [
-      "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
-      "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Trump administration makes another appeal to the Supreme Court to allow mail-in ballot restrictions",
-     "sources": 2,
-     "score": 41,
-     "event_id": "ad8ed0c19d7a",
-     "links": [
-      "https://www.cnbc.com/2026/09/06/trump-supreme-court-appeal-mail-in-ballots.html",
-      "https://www.investing.com/news/economy-news/trump-administration-asks-supreme-court-to-allow-mail-ballot-limits-93CH-4890313"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
-     "sources": 2,
-     "score": 40,
-     "event_id": "1c66ae5141c6",
-     "links": [
-      "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
-      "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Supreme Court forces TV stations to sell more election ads at steep discounts",
-     "sources": 2,
-     "score": 48,
-     "event_id": "153ab8978645",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
-      "https://www.aljazeera.com/news/2026/9/8/brazil-supreme-court-rift-deepens-as-justice-suspends-federal-police-chief?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "US Supreme Court denies Trump bid to restrict mail-in ballots",
-     "sources": 3,
-     "score": 59,
-     "event_id": "a49a69926475",
-     "links": [
-      "https://www.dw.com/en/us-supreme-court-denies-trump-bid-to-restrict-mail-in-ballots/a-79267854?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/09/14/nx-s1-5962190/supreme-court-mail-in-voting-trump",
-      "https://www.cnbc.com/2026/09/14/supreme-court-trump-mail-ballots-midterms.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Trump says he is banning CNN and Politico from White House",
-     "sources": 7,
-     "score": 80,
-     "event_id": "d966c1faf1fe",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/09/18/g-s1-144112/trump-ban-cnn-msnow-politico-white-house-media"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Donald Trump bans three media outlets from the White House, accusing them of spreading 'fake news'",
-     "sources": 2,
-     "score": 42,
-     "event_id": "eb0e7de10f2c",
-     "links": [
-      "https://www.france24.com/en/donald-trump-bans-three-media-outlets-from-the-white-house-accusing-them-of-spreading-fake-news",
-      "https://www.aljazeera.com/news/2026/9/19/can-trump-ban-cnn-news-outlets-he-doesnt-like-from-the-white-house?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Journalists denied White House access after Trump banned some media outlets",
-     "sources": 5,
-     "score": 73,
-     "event_id": "d6f846915316",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "As White House shields the AI gold rush, Trump family and other allies strike it rich – with few guardrails",
-     "sources": 2,
-     "score": 49,
-     "event_id": "fbea76a25d72",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/20/trump-ai-policy-financial-interest",
-      "https://www.france24.com/en/three-media-outlets-barred-from-the-white-house-over-fake-news"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-     "sources": 4,
-     "score": 61,
-     "event_id": "ea16baaac907",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
-      "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "What is the White House press pool and why does it matter?",
-     "sources": 3,
-     "score": 51,
-     "event_id": "99aa363f1f60",
-     "links": [
-      "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-what-is.html",
-      "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
-      "https://www.france24.com/en/americas/20260921-cnn-ms-now-politico-sue-trump-administration-after-white-house-ban"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Jon Stewart on Trump’s White House media ban: ‘authoritarian crackdown’",
-     "sources": 2,
-     "score": 42,
-     "event_id": "954841d14c5d",
-     "links": [
-      "https://www.theguardian.com/culture/2026/sep/22/jon-stewart-trump-white-house-media-ban",
-      "https://www.aljazeera.com/news/2026/9/22/rubio-defends-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
-     "sources": 2,
-     "score": 51,
-     "event_id": "691ba0b74f56",
-     "links": [
-      "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
-      "https://www.aljazeera.com/news/2026/9/23/trump-administration-to-defend-its-ban-of-major-news-outlets-in-court?traffic_source=rss",
-      "https://www.aljazeera.com/economy/2026/9/23/the-white-house-press-pool-what-is-it-and-how-does-it-work?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Trump greets Xi Jinping at plane as Chinese leader arrives for state visit",
-     "sources": 2,
-     "score": 46,
-     "event_id": "8ff1f96c6d43",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/23/trump-xi-jinping-china-us-state-visit",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/23/chinas-xi-arrives-to-trump-welcome-on-state-visit?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Judge orders Trump administration to restore journalists' access to White House",
-     "sources": 5,
-     "score": 70,
-     "event_id": "11cf993dce96",
-     "links": [
-      "https://www.npr.org/2026/09/24/nx-s1-5979582/judge-order-trump-restore-access-white-house",
-      "https://www.dw.com/en/us-judge-blocks-trump-ban-of-cnn-ms-now-politico-from-white-house-orders-him-to-restore-access/a-79405693?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/24/us-judge-blocks-trumps-white-house-ban-on-cnn-ms-now-and-politico?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Judge temporarily overturns Trump's White House media ban",
-     "sources": 2,
-     "score": 48,
-     "event_id": "ed03354ef007",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqm2mg34x2v7o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "White House 'repeatedly violated' court order to restore press access, say media outlets",
-     "sources": 3,
-     "score": 59,
-     "event_id": "3f96308a9884",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/24/nx-s1-5978805/whats-next-white-house-press-access-fight",
-      "https://www.france24.com/en/video/20260924-judge-orders-white-house-to-restore-access-to-barred-media-companies"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "CNN, MS NOW, Politico regain access to White House",
-     "sources": 3,
-     "score": 56,
-     "event_id": "4bb851cb2ea9",
-     "links": [
-      "https://www.dw.com/en/cnn-ms-now-politico-regain-access-to-white-house/a-79405693?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
-      "https://www.aljazeera.com/economy/2026/9/24/media-outlets-still-denied-access-to-white-house-despite-judges-order?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
-     "sources": 2,
-     "score": 42,
-     "event_id": "1846d1bb8cbc",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
-      "https://www.aljazeera.com/news/2026/9/25/trump-praises-us-china-friendship-at-state-dinner-with-xi-jinping?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "US-China talks on trade, AI between Trump, Xi beckon",
-     "sources": 2,
-     "score": 41,
-     "event_id": "ee634ff53aaa",
-     "links": [
-      "https://www.dw.com/en/us-china-talks-on-trade-ai-between-trump-xi-beckon/live-79404511?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/trump-views-us-china-relations-as-a-personal-friendship-xi-views-us-as-an-adversary-to-be-managed"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?",
-     "sources": 2,
-     "score": 44,
-     "event_id": "53ba398d416e",
-     "links": [
-      "https://www.dw.com/en/us-china-ai-race-does-trump-want-to-regulate-ai-by-forming-a-new-task-force-and-a-special-envoy-for-artificial-intelligence-in-the-us/a-79372591?maca=en-rss-en-all-1573-rdf",
-      "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-     "sources": 5,
-     "score": 72,
-     "event_id": "2acf05538835",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
-      "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "White House claims pro-Trump ad it paid Fox to air was ‘public service announcement’",
-     "sources": 2,
-     "score": 43,
-     "event_id": "763674099d5c",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/25/white-house-pro-trump-ad-fox",
-      "https://www.investing.com/news/stock-market-news/tv-networks-to-resume-coverage-of-trump-events-cnn-says-4917665"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "White House bars CNN from travelling with Trump on Air Force One",
-     "sources": 5,
-     "score": 76,
-     "event_id": "87ad03b9a8d5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/26/g-s1-145142/cnn-left-off-air-force-one",
-      "https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "China, US to open AI ‘communication channel’ after summit, White House says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "8884cb4fe214",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says?traffic_source=rss",
-      "https://www.scmp.com/plus/news/china/diplomacy/article/3368799/xi-white-house-trade-war-truce-extension-golden-week-travel?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "The truth behind Donald Trump’s ‘biggest oil deal in world history’",
-     "sources": 4,
-     "score": 71,
-     "event_id": "6b42ee2bd0f4",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/26/donald-trump-oil-deal-with-venezuela",
-      "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz",
-      "https://www.theguardian.com/world/2026/sep/26/trump-dismiss-iran-seven-day-peace-deal-hormuz"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Tech leaders arrive at White House for AI luncheon with Trump",
-     "sources": 3,
-     "score": 52,
-     "event_id": "0bbffa145260",
-     "links": [
-      "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
-      "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-      "https://www.investing.com/news/commodities-news/white-house-urges-eu-to-draw-down-diesel-inventories-sources-say-4923232"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "U.S. Supreme Court sides with Trump administration in third-country deportations",
-     "sources": 2,
-     "score": 40,
-     "event_id": "73aadc58464b",
-     "links": [
-      "https://www.npr.org/2026/09/29/g-s1-145266/supreme-court-trump-third-country-deportations",
-      "https://www.cnbc.com/2026/09/29/supreme-court-lets-trump-resume-third-country-deportations.html"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Jon Stewart on Trump offering to sell weapons to China: ‘How does America even stay on the map sometimes?’",
-     "sources": 2,
-     "score": 44,
-     "event_id": "66a4394b14d4",
-     "links": [
-      "https://www.theguardian.com/culture/2026/sep/29/jon-stewart-trump-xi-jinping-visit",
-      "https://www.france24.com/en/tv-shows/business/20260929-trump-says-doesn-t-want-to-work-with-china-on-ai-safety"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Restaurant named after Xi Jinping attacked by Chinese nationals in South Korea",
-     "sources": 2,
-     "score": 46,
-     "event_id": "dc4087d2a219",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss",
-      "https://phys.org/news/2026-09-lost-shark-viral-star-south.html"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Despite praise and White House visits, Trump avoids endorsing Netanyahu",
-     "sources": 2,
-     "score": 44,
-     "event_id": "363f25d81e31",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/1/despite-praise-and-white-house-visits-trump-avoids-endorsing-netanyahu?traffic_source=rss",
-      "https://www.scmp.com/plus/news/china/diplomacy/article/3368799/xi-white-house-trade-war-truce-extension-golden-week-travel?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "South Korea demands Ukraine apology over POW disclosure",
-     "sources": 2,
-     "score": 48,
-     "event_id": "c1fa2f6ae218",
-     "links": [
-      "https://www.dw.com/en/south-korea-demands-ukraine-apology-over-pow-disclosure/a-79510305?maca=en-rss-en-all-1573-rdf",
-      "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/02/south-korea-ukraine-prisoner-north-korea-.html"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-     "sources": 2,
-     "score": 40,
-     "event_id": "fcd1b322a9ec",
-     "links": [
-      "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-      "https://www.scmp.com/plus/news/china/diplomacy/article/3368799/xi-white-house-trade-war-truce-extension-golden-week-travel?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-     "sources": 2,
-     "score": 41,
-     "event_id": "e06269fd8cfc",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube",
-     "sources": 2,
-     "score": 52,
-     "event_id": "0d54be219e97",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/soldiers-sweeping-for-land-mines-in-south-korea-have-unearthed-the-countrys-oldest-gun-a-600-year-old-inscribed-bronze-tube-180989610/",
-      "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come",
-     "sources": 1,
-     "score": 46,
-     "event_id": "345d48945e1b",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/londons-oldest-restaurant-frequented-by-monarchs-and-pop-stars-alike-is-a-site-of-living-history-now-its-protected-by-the-national-trust-for-generations-to-come-180989688/"
-     ]
-    },
-    {
-     "date": "2026-10-16",
-     "headline": "New White House Press Secretary Katie Zacharia on way out after only five days on job, reports say",
-     "sources": 2,
-     "score": 43,
-     "event_id": "1cb8c06f74ca",
-     "links": [
-      "https://www.dw.com/en/new-white-house-press-secretary-katie-zacharia-on-way-out-after-only-five-days-on-job-reports-say/a-79684341?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html"
-     ]
-    },
-    {
-     "date": "2026-10-16",
-     "headline": "White House press secretary Zacharia exiting role after short tenure",
-     "sources": 3,
-     "score": 54,
-     "event_id": "8e02f42d1654",
-     "links": [
-      "https://www.dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/16/white-house-press-secretary-katie-zacharia-fired-after-five-days-on-the-job?traffic_source=rss",
-      "https://www.france24.com/en/americas/20261016-embattled-new-white-house-press-secretary-zacharia-let-go-from-her-role"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "Katie Zacharia leaving her White House role less than five days on the job",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2e715ced890e",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "Trump endorses Netanyahu in Israeli legislative elections",
-     "sources": 3,
-     "score": 52,
-     "event_id": "1444cfda143e",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election",
-      "https://www.investing.com/news/economy-news/iran-appoints-new-defence-minister-amid-escalating-tensions-with-us-4955858"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-     "sources": 2,
-     "score": 40,
-     "event_id": "5987fe721f68",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
-     "sources": 3,
-     "score": 60,
-     "event_id": "5926bff6ce39",
-     "links": [
-      "https://www.npr.org/2026/10/19/g-s1-148731/trump-endorses-netanyahu",
-      "https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/19/us-president-donald-trump-endorses-netanyahu-for-israeli-election?traffic_source=rss"
      ]
     }
    ]
@@ -17608,5 +17675,5 @@
    ]
   }
  ],
- "updated": "2026-10-23T12:35:57+00:00"
+ "updated": "2026-10-23T15:28:59+00:00"
 }

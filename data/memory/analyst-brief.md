@@ -9,7 +9,6 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **50**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 66 dní · 60 záznamů
 - časová osa:
-  - **2026-10-20** (2 zdrojů) Ronaldo let Manchester United down - Ten Hag
   - **2026-10-20** (2 zdrojů) Liverpool v Villarreal: Champions League – live
   - **2026-10-20** (2 zdrojů) Audit regulator looking into Manchester City accounting
   - **2026-10-20** (2 zdrojů) PSG end Barcelona's winning run as Liverpool fight back against Villarreal
@@ -19,11 +18,11 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-22** (4 zdrojů) Real Madrid dominate Leipzig for third straight win
   - **2026-10-22** (2 zdrojů) Villa maintain perfect Champions League start with Viking victory
   - **2026-10-23** (1 zdrojů) Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
+  - **2026-10-23** (1 zdrojů) A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 71 dní · 60 záznamů
 - časová osa:
-  - **2026-10-17** (2 zdrojů) 🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
   - **2026-10-17** (2 zdrojů) Israeli settlers attack European diplomats in West Bank
   - **2026-10-18** (2 zdrojů) Israeli settlers attack Palestinians in West Bank during olive harvest
   - **2026-10-18** (2 zdrojů) West Bank: Israeli settlers attack EU diplomats, French mayor
@@ -33,6 +32,7 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-21** (1 zdrojů) African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
   - **2026-10-23** (3 zdrojů) Israel preparing 'full closure' of West Bank, Netanyahu says
   - **2026-10-23** (3 zdrojů) Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
+  - **2026-10-23** (3 zdrojů) Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 74 dní · 60 záznamů
@@ -77,9 +77,8 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 68 dní · 52 záznamů
+- rubrika `world` · sledováno 72 dní · 53 záznamů
 - časová osa:
-  - **2026-10-02** (2 zdrojů) It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
   - **2026-10-05** (2 zdrojů) Trump unveils 'Super Intelligence Force' to oversee AI policy
   - **2026-10-05** (2 zdrojů) Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube
   - **2026-10-15** (1 zdrojů) London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come
@@ -89,6 +88,7 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-18** (3 zdrojů) Trump endorses Netanyahu in Israeli legislative elections
   - **2026-10-19** (2 zdrojů) EU tariffs aimed at China hitting Ukraine, steel boss says
   - **2026-10-19** (3 zdrojů) Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
+  - **2026-10-23** (3 zdrojů) White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'
 
 ---
 
