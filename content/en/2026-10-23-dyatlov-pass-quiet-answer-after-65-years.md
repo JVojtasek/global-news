@@ -1,46 +1,62 @@
 ---
 slug: dyatlov-pass-quiet-answer-after-65-years
-title: "What the Dyatlov Pass actually was: how 66 years of mystery met one quiet avalanche model"
-dek: "Nine young hikers died in the northern Urals on a February night in 1959, and the story became a legend. In 2021 a boring, careful piece of snow science explained most of it. The legend has barely noticed."
+title: 'What the Dyatlov Pass actually was: how 66 years of mystery met one quiet
+  avalanche model'
+dek: Nine young hikers died in the northern Urals on a February night in 1959, and
+  the story became a legend. In 2021 a boring, careful piece of snow science explained
+  most of it. The legend has barely noticed.
 section: mysteries
 type: analysis
 depth: open
 lang: en
-date: 2026-10-23
-status: draft
-confidence: 78
+date: '2026-10-23'
+status: review
+confidence: 94
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 4
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: ""
-image_query: "snowy mountain slope ural pine trees twilight"
+format: ''
+event_id: ''
+series: ''
+image_query: snowy mountain slope ural pine trees twilight
 sources:
-  - name: "Nature — Communications Earth & Environment"
-    url: "https://www.nature.com/articles/s43247-020-00081-8"
-    published: "2021-01-28"
-  - name: "National Geographic"
-    url: "https://www.nationalgeographic.com/history/article/has-the-dyatlov-pass-mystery-been-solved"
-    published: "2021-01-28"
-  - name: "Scientific American"
-    url: "https://www.scientificamerican.com/article/has-science-solved-one-of-historys-greatest-adventure-mysteries/"
-    published: "2021-01-28"
-  - name: "Encyclopaedia Britannica"
-    url: "https://www.britannica.com/event/Dyatlov-Pass-incident"
-    published: "2024-02-01"
+- name: Nature — Communications Earth & Environment
+  url: https://www.nature.com/articles/s43247-020-00081-8
+  published: '2021-01-28'
+- name: National Geographic
+  url: https://www.nationalgeographic.com/history/article/has-the-dyatlov-pass-mystery-been-solved
+  published: '2021-01-28'
+- name: Scientific American
+  url: https://www.scientificamerican.com/article/has-science-solved-one-of-historys-greatest-adventure-mysteries/
+  published: '2021-01-28'
+- name: Encyclopaedia Britannica
+  url: https://www.britannica.com/event/Dyatlov-Pass-incident
+  published: '2024-02-01'
 impact:
-  areas: [life]
-  line: "Nothing in your week changes because of this. The useful thing is what the story shows about how we judge a question — many people prefer an open mystery to a careful answer that only resolves most of it."
-  todo: "Pick a mystery you half-believe in and write down what would count, for you, as a good enough explanation. Notice whether, when you read a sober one, you quietly feel disappointed."
+  areas:
+  - life
+  line: Nothing in your week changes because of this. The useful thing is what the
+    story shows about how we judge a question — many people prefer an open mystery
+    to a careful answer that only resolves most of it.
+  todo: Pick a mystery you half-believe in and write down what would count, for you,
+    as a good enough explanation. Notice whether, when you read a sober one, you quietly
+    feel disappointed.
 quiz:
-  question: "The 2021 scientific study that explained most of the Dyatlov Pass incident identified which triggering mechanism?"
-  options: ["A radioactive weapons test", "A delayed slab avalanche on a shallow slope", "An attack by a native Mansi hunting group"]
+  question: The 2021 scientific study that explained most of the Dyatlov Pass incident
+    identified which triggering mechanism?
+  options:
+  - A radioactive weapons test
+  - A delayed slab avalanche on a shallow slope
+  - An attack by a native Mansi hunting group
   answer: 1
-  explanation: "The researchers Johan Gaume (EPFL) and Alexander Puzrin (ETH Zurich) modelled a delayed slab avalanche. Their simulation showed that even a slope shallower than usual could release hours later if katabatic winds piled dense snow above the hikers' cut."
+  explanation: The researchers Johan Gaume (EPFL) and Alexander Puzrin (ETH Zurich)
+    modelled a delayed slab avalanche. Their simulation showed that even a slope shallower
+    than usual could release hours later if katabatic winds piled dense snow above
+    the hikers' cut.
+review_reason: 'citlivé téma: killed'
 ---
 
 ## BRIEFLY

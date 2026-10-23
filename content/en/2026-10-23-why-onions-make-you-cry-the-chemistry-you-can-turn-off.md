@@ -1,43 +1,56 @@
 ---
 slug: why-onions-make-you-cry-the-chemistry-you-can-turn-off
-title: "Why onions make you cry — and the three kitchen tricks that actually turn the chemistry off"
-dek: "The tears are not sentimental. They are a tiny, very fast chemistry experiment happening in your eye, and three of your kitchen habits can shut it down before it starts."
+title: Why onions make you cry — and the three kitchen tricks that actually turn the
+  chemistry off
+dek: The tears are not sentimental. They are a tiny, very fast chemistry experiment
+  happening in your eye, and three of your kitchen habits can shut it down before
+  it starts.
 section: food
 type: analysis
 depth: open
 lang: en
-date: 2026-10-23
-status: draft
-confidence: 85
+date: '2026-10-23'
+status: published
+confidence: 88
 load: 0
 topics: []
 automation_generated: true
 edition_slot: 5
 automation_role: edition
 generator: claude-code
-format: ""
-event_id: ""
-series: ""
-image_query: "red onion sliced kitchen knife board"
+format: ''
+event_id: ''
+series: ''
+image_query: red onion sliced kitchen knife board
 sources:
-  - name: "Nature"
-    url: "https://www.nature.com/articles/419685a"
-    published: "2002-10-17"
-  - name: "Encyclopaedia Britannica"
-    url: "https://www.britannica.com/plant/onion"
-    published: "2024-01-01"
-  - name: "Royal Society of Chemistry — Chemistry World"
-    url: "https://www.chemistryworld.com/features/the-chemistry-of-the-crying-game/3007500.article"
-    published: "2017-11-01"
+- name: Nature
+  url: https://www.nature.com/articles/419685a
+  published: '2002-10-17'
+- name: Encyclopaedia Britannica
+  url: https://www.britannica.com/plant/onion
+  published: '2024-01-01'
+- name: Royal Society of Chemistry — Chemistry World
+  url: https://www.chemistryworld.com/features/the-chemistry-of-the-crying-game/3007500.article
+  published: '2017-11-01'
 impact:
-  areas: [life]
-  line: "Chopping onions is one of the few parts of cooking where a small change in technique produces an obvious, same-day result. For readers who cook, this is a cheap upgrade."
-  todo: "Try one dinner this week with the onion chilled for twenty minutes beforehand and a knife sharp enough to shave a tomato. Notice if your eyes stay dry."
+  areas:
+  - life
+  line: Chopping onions is one of the few parts of cooking where a small change in
+    technique produces an obvious, same-day result. For readers who cook, this is
+    a cheap upgrade.
+  todo: Try one dinner this week with the onion chilled for twenty minutes beforehand
+    and a knife sharp enough to shave a tomato. Notice if your eyes stay dry.
 quiz:
-  question: "Which enzyme, discovered by Japanese researchers in 2002, is the key reason chopping onions makes you cry?"
-  options: ["Allinase", "Lachrymatory-factor synthase (LFS)", "Catalase"]
+  question: Which enzyme, discovered by Japanese researchers in 2002, is the key reason
+    chopping onions makes you cry?
+  options:
+  - Allinase
+  - Lachrymatory-factor synthase (LFS)
+  - Catalase
   answer: 1
-  explanation: "Allinase is the first enzyme in the chain, but it is the LFS enzyme — identified by Imai and colleagues in Nature in 2002 — that converts the intermediate into the tear-making gas syn-propanethial-S-oxide."
+  explanation: Allinase is the first enzyme in the chain, but it is the LFS enzyme
+    — identified by Imai and colleagues in Nature in 2002 — that converts the intermediate
+    into the tear-making gas syn-propanethial-S-oxide.
 ---
 
 ## BRIEFLY
