@@ -1,6 +1,109 @@
 {
  "threads": [
   {
+   "id": "92331c1455c6",
+   "title": "Who is in the Europa League draw and who is in each pot?",
+   "section": "sport",
+   "entities": [
+    "league",
+    "europa",
+    "bournemouth",
+    "milan",
+    "dream",
+    "crystal",
+    "lyon",
+    "sunderland",
+    "palace",
+    "premier",
+    "torreense"
+   ],
+   "event_ids": [
+    "92331c1455c6",
+    "e57d28176fe6",
+    "e59d3967dead",
+    "53e73380dd88"
+   ],
+   "first_seen": "2026-08-28",
+   "last_seen": "2026-10-23",
+   "timeline": [
+    {
+     "date": "2026-08-28",
+     "headline": "Who is in the Europa League draw and who is in each pot?",
+     "sources": 3,
+     "score": 57,
+     "event_id": "92331c1455c6",
+     "links": [
+      "https://www.bbc.co.uk/sport/articles/cew91j189v2o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/tv-shows/sports/20260828-champions-league-draw-psg-to-face-barcelona-and-man-city",
+      "https://praguemorning.cz/slavia-prague-champions-league-draw-2026-27/"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Sunderland and Bournemouth draw AC Milan in Europa League",
+     "sources": 3,
+     "score": 56,
+     "event_id": "e57d28176fe6",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c5ymr4dxz9mo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/sport/20260828-marseille-and-lyon-to-face-leverkusen-in-europa-league-rennes-take-on-juventus",
+      "https://www.aljazeera.com/sports/2026/8/28/europa-league-draw-bournemouth-sunderland-get-glamour-ties-with-ac-milan?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Lyon v Crystal Palace, Torreense v Sunderland, and more: Europa League – live",
+     "sources": 1,
+     "score": 40,
+     "event_id": "e59d3967dead",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/oct/15/lyon-v-crystal-palace-torreense-v-sunderland-and-more-europa-league-live",
+      "https://www.theguardian.com/football/live/2026/oct/15/bournemouth-v-sturm-graz-benfica-v-celtic-and-more-europa-league-live"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+     "sources": 2,
+     "score": 42,
+     "event_id": "53e73380dd88",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "182cf2709a47",
+   "title": "Approach African GP with humility, says Hamilton",
+   "section": "sport",
+   "entities": [
+    "african",
+    "approach",
+    "hamilton"
+   ],
+   "event_ids": [
+    "182cf2709a47"
+   ],
+   "first_seen": "2026-10-23",
+   "last_seen": "2026-10-23",
+   "timeline": [
+    {
+     "date": "2026-10-23",
+     "headline": "Approach African GP with humility, says Hamilton",
+     "sources": 3,
+     "score": 55,
+     "event_id": "182cf2709a47",
+     "links": [
+      "https://www.bbc.co.uk/sport/formula1/articles/c6vgxd2xyv7do?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+      "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix"
+     ]
+    }
+   ]
+  },
+  {
    "id": "e8a425cbff50",
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
@@ -10307,66 +10410,6 @@
    ]
   },
   {
-   "id": "92331c1455c6",
-   "title": "Who is in the Europa League draw and who is in each pot?",
-   "section": "sport",
-   "entities": [
-    "lyon",
-    "europa",
-    "bournemouth",
-    "torreense",
-    "league",
-    "milan",
-    "crystal",
-    "sunderland",
-    "palace"
-   ],
-   "event_ids": [
-    "92331c1455c6",
-    "e57d28176fe6",
-    "e59d3967dead"
-   ],
-   "first_seen": "2026-08-28",
-   "last_seen": "2026-10-15",
-   "timeline": [
-    {
-     "date": "2026-08-28",
-     "headline": "Who is in the Europa League draw and who is in each pot?",
-     "sources": 3,
-     "score": 57,
-     "event_id": "92331c1455c6",
-     "links": [
-      "https://www.bbc.co.uk/sport/articles/cew91j189v2o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/tv-shows/sports/20260828-champions-league-draw-psg-to-face-barcelona-and-man-city",
-      "https://praguemorning.cz/slavia-prague-champions-league-draw-2026-27/"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Sunderland and Bournemouth draw AC Milan in Europa League",
-     "sources": 3,
-     "score": 56,
-     "event_id": "e57d28176fe6",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c5ymr4dxz9mo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/sport/20260828-marseille-and-lyon-to-face-leverkusen-in-europa-league-rennes-take-on-juventus",
-      "https://www.aljazeera.com/sports/2026/8/28/europa-league-draw-bournemouth-sunderland-get-glamour-ties-with-ac-milan?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Lyon v Crystal Palace, Torreense v Sunderland, and more: Europa League – live",
-     "sources": 1,
-     "score": 40,
-     "event_id": "e59d3967dead",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/oct/15/lyon-v-crystal-palace-torreense-v-sunderland-and-more-europa-league-live",
-      "https://www.theguardian.com/football/live/2026/oct/15/bournemouth-v-sturm-graz-benfica-v-celtic-and-more-europa-league-live"
-     ]
-    }
-   ]
-  },
-  {
    "id": "51d25dbff751",
    "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
    "section": "world",
@@ -17474,5 +17517,5 @@
    ]
   }
  ],
- "updated": "2026-10-22T21:25:02+00:00"
+ "updated": "2026-10-23T00:58:33+00:00"
 }
