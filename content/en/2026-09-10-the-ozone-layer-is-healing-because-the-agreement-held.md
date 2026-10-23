@@ -54,6 +54,10 @@ quiz:
   answer: 2
   explanation: The assessment projects about 2040 for the near-global average, 2045
     for the Arctic and 2066 for the Antarctic.
+impact:
+  areas: [health, safety]
+  line: "The 1987 Montreal Protocol shows a global agreement can push harmful chemicals out of the atmosphere — the ozone layer is recovering, though the Antarctic hole is not expected back to its 1980 state until around 2066."
+  todo: "Before judging a yearly ozone-hole map, check the long trend of chlorine and bromine in the atmosphere (NASA Ozone Watch; WMO/UNEP 2022 assessment); one year, big or small, is not the whole picture."
 ---
 
 ## BRIEFLY

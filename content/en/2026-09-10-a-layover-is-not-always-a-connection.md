@@ -47,6 +47,10 @@ lang: en
 depth: open
 slug: a-layover-is-not-always-a-connection
 review_reason: 'citlivé téma: children'
+impact:
+  areas: [money, life]
+  line: "A cheap combination of flights from different airlines can look like a normal change, but it transfers delay risk to the passenger — on separate tickets, the first airline usually owes nothing for a missed second flight."
+  todo: "Before paying, open fare details: is the whole trip on one ticket, who carries baggage through, and who agrees to rebook the second flight if the first runs late?"
 ---
 
 ## BRIEFLY

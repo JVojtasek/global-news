@@ -46,6 +46,10 @@ quiz:
 lang: en
 depth: open
 slug: frances-glessner-lee-made-investigators-slow-down
+impact:
+  areas: [life]
+  line: "The Nutshell Studies trained investigators to separate observation from the story a scene seems to tell. The same discipline helps when reading a viral photo, a chart or a medical claim — write what the image actually shows before concluding."
+  todo: "When a story pushes a fast verdict, write three columns — observation, inference, and what would change the verdict; return to the first when the second starts explaining everything too neatly."
 ---
 
 ## BRIEFLY

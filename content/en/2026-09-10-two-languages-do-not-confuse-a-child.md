@@ -60,6 +60,10 @@ quiz:
     does not itself cause a disorder, although persistent difficulty across the child’s
     languages or missed milestones still warrants professional evaluation.
 review_reason: 'citlivé téma: children'
+impact:
+  areas: [life, health]
+  line: "If your bilingual child uses fewer words in one language and mixes words from both, that is often not a delay — updated AAP and ASHA guidance says to count vocabulary across every language the child hears."
+  todo: "Before a speech evaluation, note when and with whom your child hears each language; ask the clinician to count words across all languages, not translate a monolingual test."
 ---
 
 ## BRIEFLY

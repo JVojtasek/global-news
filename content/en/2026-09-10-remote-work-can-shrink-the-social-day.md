@@ -61,6 +61,10 @@ quiz:
     penalty, so the evidence supports design and targeting rather than a universal
     ban.
 review_reason: 'citlivé téma: children'
+impact:
+  areas: [health, life]
+  line: "A large U.S. study links the rise of remote work to more days spent alone and worse mental health, especially for people who live alone; saved commuting time does not automatically turn into connection."
+  todo: "For two weeks, note each evening whether you had a live non-work conversation; if empty days outnumber full ones, add one recurring weekly anchor — a shared lunch, a walk, a class."
 ---
 
 ## BRIEFLY
