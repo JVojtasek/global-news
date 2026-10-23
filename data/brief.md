@@ -164,7 +164,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-09-29  (1 zdrojů, síla 44)  Israeli settlers attack Jalud village in occupied West Bank, torch homes
   2026-09-29  (2 zdrojů, síla 51)  Israeli settlers attack West Bank village and block Palestinian family's return home
   2026-10-01  (2 zdrojů, síla 52)  PM warned Rosebank oil field could breach West Bank sanctions
   2026-10-05  (1 zdrojů, síla 43)  Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
@@ -184,6 +183,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-23  (3 zdrojů, síla 54)  Israel preparing 'full closure' of West Bank, Netanyahu says
   2026-10-23  (3 zdrojů, síla 60)  Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
   2026-10-23  (3 zdrojů, síla 56)  Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
+  2026-10-23  (2 zdrojů, síla 57)  Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
 ```
 
 ---

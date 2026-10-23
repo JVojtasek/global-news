@@ -23,7 +23,6 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **50**.
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 71 dní · 60 záznamů
 - časová osa:
-  - **2026-10-17** (2 zdrojů) Israeli settlers attack European diplomats in West Bank
   - **2026-10-18** (2 zdrojů) Israeli settlers attack Palestinians in West Bank during olive harvest
   - **2026-10-18** (2 zdrojů) West Bank: Israeli settlers attack EU diplomats, French mayor
   - **2026-10-18** (3 zdrojů) US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
@@ -33,6 +32,7 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-23** (3 zdrojů) Israel preparing 'full closure' of West Bank, Netanyahu says
   - **2026-10-23** (3 zdrojů) Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
   - **2026-10-23** (3 zdrojů) Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
+  - **2026-10-23** (2 zdrojů) Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 74 dní · 60 záznamů
