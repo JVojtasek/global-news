@@ -7,9 +7,8 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **50**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 65 dní · 60 záznamů
+- rubrika `sport` · sledováno 66 dní · 60 záznamů
 - časová osa:
-  - **2026-10-19** (1 zdrojů) Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
   - **2026-10-20** (2 zdrojů) Ronaldo let Manchester United down - Ten Hag
   - **2026-10-20** (2 zdrojů) Liverpool v Villarreal: Champions League – live
   - **2026-10-20** (2 zdrojů) Audit regulator looking into Manchester City accounting
@@ -19,6 +18,21 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-21** (2 zdrojů) Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
   - **2026-10-22** (4 zdrojů) Real Madrid dominate Leipzig for third straight win
   - **2026-10-22** (2 zdrojů) Villa maintain perfect Champions League start with Viking victory
+  - **2026-10-23** (1 zdrojů) Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
+
+### More troops to be sent to West Bank village besieged by Israeli settlers
+- rubrika `world` · sledováno 71 dní · 60 záznamů
+- časová osa:
+  - **2026-10-16** (4 zdrojů) Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
+  - **2026-10-17** (2 zdrojů) 🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
+  - **2026-10-17** (2 zdrojů) Israeli settlers attack European diplomats in West Bank
+  - **2026-10-18** (2 zdrojů) Israeli settlers attack Palestinians in West Bank during olive harvest
+  - **2026-10-18** (2 zdrojů) West Bank: Israeli settlers attack EU diplomats, French mayor
+  - **2026-10-18** (3 zdrojů) US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
+  - **2026-10-19** (1 zdrojů) Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
+  - **2026-10-21** (3 zdrojů) Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
+  - **2026-10-21** (1 zdrojů) African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
+  - **2026-10-23** (3 zdrojů) Israel preparing 'full closure' of West Bank, Netanyahu says
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 74 dní · 60 záznamů
@@ -61,20 +75,6 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **50**.
   - **2026-10-21** (2 zdrojů) Russia arrests German man, calls him a Ukraine 'mercenary'
   - **2026-10-21** (3 zdrojů) Russia says it is ready to resume talks with Ukraine and US to end war
   - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
-
-### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 69 dní · 60 záznamů
-- časová osa:
-  - **2026-10-16** (2 zdrojů) Repairing Brexit economic damage should be Burnham’s top priority, business chief says
-  - **2026-10-16** (4 zdrojů) Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
-  - **2026-10-17** (2 zdrojů) 🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
-  - **2026-10-17** (2 zdrojů) Israeli settlers attack European diplomats in West Bank
-  - **2026-10-18** (2 zdrojů) Israeli settlers attack Palestinians in West Bank during olive harvest
-  - **2026-10-18** (2 zdrojů) West Bank: Israeli settlers attack EU diplomats, French mayor
-  - **2026-10-18** (3 zdrojů) US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
-  - **2026-10-19** (1 zdrojů) Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
-  - **2026-10-21** (3 zdrojů) Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
-  - **2026-10-21** (1 zdrojů) African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 68 dní · 52 záznamů

@@ -138,7 +138,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-15  (2 zdrojů, síla 44)  Jackson steps up again as Aston Villa revival continues
   2026-10-15  (2 zdrojů, síla 43)  Manchester City, the UAE and the UK's OM in a political tangle
   2026-10-15  (1 zdrojů, síla 40)  Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
   2026-10-15  (3 zdrojů, síla 53)  Football regulator says he would quit over Man City political interference
@@ -158,35 +157,36 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
   2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win
   2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory
+  2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
 ```
 
-### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+### 2. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
+- id: `09443cca3ddd`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-14  (2 zdrojů, síla 50)  How Trump’s diesel deal with Russia will impact the United States and Ukraine
-  2026-10-14  (2 zdrojů, síla 48)  Why is Starlink internet so important on the battlefield in Ukraine?
-  2026-10-15  (2 zdrojů, síla 40)  North Korea says it tested cruise missiles to be launched from sub
-  2026-10-15  (4 zdrojů, síla 73)  Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume
-  2026-10-15  (2 zdrojů, síla 48)  North Korea and China open new bridge after 12-year delay
-  2026-10-15  (2 zdrojů, síla 41)  Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'
-  2026-10-16  (2 zdrojů, síla 46)  Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'
-  2026-10-16  (1 zdrojů, síla 41)  Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time
-  2026-10-17  (3 zdrojů, síla 52)  Trump waives several Russia sanctions as new US law takes effect
-  2026-10-17  (4 zdrojů, síla 67)  Russia wants blackout in Ukraine as winter comes — Zelenskyy
-  2026-10-17  (2 zdrojů, síla 40)  Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
-  2026-10-17  (2 zdrojů, síla 44)  Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
-  2026-10-19  (4 zdrojů, síla 66)  Trump says suspension of Russia sanctions is to keep peace negotiations going
-  2026-10-19  (2 zdrojů, síla 45)  Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
-  2026-10-20  (2 zdrojů, síla 42)  US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
-  2026-10-21  (4 zdrojů, síla 66)  US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
-  2026-10-21  (2 zdrojů, síla 50)  Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
-  2026-10-21  (1 zdrojů, síla 45)  ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
-  2026-10-21  (4 zdrojů, síla 70)  Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
-  2026-10-22  (2 zdrojů, síla 44)  Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live
+VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
+rubrika: world · sledováno od 2026-08-13 · záznamů: 60
+  2026-09-28  (2 zdrojů, síla 42)  Israel strips Dutch diplomats of status in West Bank
+  2026-09-28  (1 zdrojů, síla 50)  NASA Armstrong Celebrates 80 Years of Flight Innovation
+  2026-09-29  (1 zdrojů, síla 44)  Israeli settlers attack Jalud village in occupied West Bank, torch homes
+  2026-09-29  (2 zdrojů, síla 51)  Israeli settlers attack West Bank village and block Palestinian family's return home
+  2026-10-01  (2 zdrojů, síla 52)  PM warned Rosebank oil field could breach West Bank sanctions
+  2026-10-05  (1 zdrojů, síla 43)  Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
+  2026-10-08  (2 zdrojů, síla 44)  Germany news: UK's Burnham visits Berlin for talks with Merz
+  2026-10-12  (2 zdrojů, síla 45)  UK's Burnham accuses Russia of meddling in Brexit vote
+  2026-10-14  (1 zdrojů, síla 41)  Do any of these Israeli candidates support a Palestinian state?
+  2026-10-16  (2 zdrojů, síla 40)  Repairing Brexit economic damage should be Burnham’s top priority, business chief says
+  2026-10-16  (4 zdrojů, síla 71)  Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
+  2026-10-17  (2 zdrojů, síla 50)  🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
+  2026-10-17  (2 zdrojů, síla 45)  Israeli settlers attack European diplomats in West Bank
+  2026-10-18  (2 zdrojů, síla 48)  Israeli settlers attack Palestinians in West Bank during olive harvest
+  2026-10-18  (2 zdrojů, síla 50)  West Bank: Israeli settlers attack EU diplomats, French mayor
+  2026-10-18  (3 zdrojů, síla 62)  US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
+  2026-10-19  (1 zdrojů, síla 41)  Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
+  2026-10-21  (3 zdrojů, síla 58)  Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
+  2026-10-21  (1 zdrojů, síla 40)  African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
+  2026-10-23  (3 zdrojů, síla 54)  Israel preparing 'full closure' of West Bank, Netanyahu says
 ```
 
 ---
