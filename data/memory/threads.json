@@ -3348,46 +3348,46 @@
    "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
    "section": "culture",
    "entities": [
-    "bring",
     "sculpture",
-    "ancient",
-    "dolly",
-    "obsessed",
-    "filmmakers",
-    "photograph",
-    "spewed",
-    "rolls",
-    "risks",
-    "oldest",
-    "year-old",
-    "standing",
-    "still",
-    "humans",
-    "female",
-    "exactly",
-    "cartwheel",
-    "shelter",
-    "celestial",
-    "billion",
-    "codex",
-    "beheaded",
-    "burst",
-    "fast",
-    "events",
-    "solved",
-    "were",
-    "creatures",
-    "predict",
+    "abbey",
     "uncovered",
-    "mystery",
-    "london",
-    "astronomers",
-    "centuries",
-    "tenochtitlan",
-    "festival",
     "once",
+    "westminster",
+    "billion",
+    "dolly",
+    "shelter",
+    "ancient",
+    "sarcophagus",
+    "london",
+    "burst",
+    "still",
+    "fast",
+    "excavated",
+    "events",
+    "bring",
+    "astronomers",
+    "festival",
+    "risks",
     "detect",
-    "radio"
+    "solved",
+    "archaeologists",
+    "predict",
+    "radio",
+    "spewed",
+    "celestial",
+    "photograph",
+    "tenochtitlan",
+    "female",
+    "were",
+    "filmmakers",
+    "centuries",
+    "exactly",
+    "codex",
+    "year-old",
+    "creatures",
+    "humans",
+    "cartwheel",
+    "rolls"
    ],
    "event_ids": [
     "1301430cb05f",
@@ -3415,7 +3415,8 @@
     "05aacc7a1a04",
     "ef31af8617ed",
     "3ab27da8b81a",
-    "3a1bbc567a4d"
+    "3a1bbc567a4d",
+    "98e8250459db"
    ],
    "first_seen": "2026-08-25",
    "last_seen": "2026-10-23",
@@ -3701,6 +3702,17 @@
      "score": 43,
      "event_id": "3a1bbc567a4d",
      "links": [
+      "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Archaeologists May Have Solved the Mystery of a Roman Sarcophagus Excavated at Westminster Abbey in 1869",
+     "sources": 1,
+     "score": 48,
+     "event_id": "98e8250459db",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/",
       "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
      ]
     }
@@ -17711,5 +17723,5 @@
    ]
   }
  ],
- "updated": "2026-10-23T18:32:38+00:00"
+ "updated": "2026-10-23T21:24:53+00:00"
 }
