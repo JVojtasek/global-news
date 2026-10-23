@@ -10,6 +10,10 @@ date: '2026-10-05'
 status: published
 confidence: 0
 image_query: 'oil storage tanks pipeline'
+impact:
+  areas: [money]
+  line: "Drawing on oil stocks softens fuel prices now but adds demand later, when the tanks must be refilled. A calm petrol price today does not mean the bill is gone."
+  todo: "Watch whether the nearest oil futures stay pricier than later ones (backwardation); while they do, the market is still paying extra for barrels right now."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/zasoby-ropy-nejsou-reseni-jen-odklad-uctu-proc-doplnovani-sk-analyza-380981

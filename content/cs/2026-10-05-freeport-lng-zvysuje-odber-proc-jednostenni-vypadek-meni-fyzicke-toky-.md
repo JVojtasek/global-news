@@ -13,6 +13,10 @@ date: '2026-10-05'
 status: published
 confidence: 0
 image_query: 'Freeport LNG zvyšuje odběr: proč'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění. Podstatný je mechanismus: když velký americký exportní terminál odebírá víc plynu, doma ho zbude méně a americká cena plynu může mírně stoupnout."
+  todo: "Kdo sleduje ceny plynu, ať ověří, zda roste odběr na více amerických LNG terminálech, nebo jen Freeport dohání výpadek."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/freeport-lng-zvysuje-odber-proc-jednostenni-vypadek-meni-fyz-analyza-381126

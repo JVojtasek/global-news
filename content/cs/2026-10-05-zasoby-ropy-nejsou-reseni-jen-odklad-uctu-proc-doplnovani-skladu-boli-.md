@@ -13,6 +13,10 @@ date: '2026-10-05'
 status: published
 confidence: 0
 image_query: Zásoby ropy nejsou řešení, jen
+impact:
+  areas: [money]
+  line: "Čerpání zásob ropy teď tlumí ceny paliv, ale později přidá poptávku, až se nádrže budou doplňovat. Klidná cena benzinu dnes neznamená, že účet zmizel."
+  todo: "Sledujte, zda nejbližší ropné kontrakty zůstávají dražší než pozdější (backwardace); dokud ano, trh si pořád připlácí za barely hned."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/zasoby-ropy-nejsou-reseni-jen-odklad-uctu-proc-doplnovani-sk-analyza-380981

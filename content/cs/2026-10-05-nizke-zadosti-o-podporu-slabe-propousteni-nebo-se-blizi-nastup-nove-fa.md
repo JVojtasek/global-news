@@ -13,6 +13,10 @@ date: '2026-10-05'
 status: published
 confidence: 0
 image_query: 'Nízké žádosti o podporu: slabé'
+impact:
+  areas: [money, life]
+  line: "Týká se hlavně těch, kdo pracují nebo hledají práci v USA: propouští se málo, ale málo se i nabírá. Současné místo vypadá jistěji, nové se může hledat déle."
+  todo: "Před změnou práce sledujte týdenní údaj amerického ministerstva práce o pokračujících žádostech; když roste, nová práce se hledá hůř."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nizke-zadosti-o-podporu-slabe-propousteni-nebo-se-blizi-nast-analyza-380874

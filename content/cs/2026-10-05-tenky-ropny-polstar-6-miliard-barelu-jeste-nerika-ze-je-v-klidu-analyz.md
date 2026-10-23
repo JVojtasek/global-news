@@ -13,6 +13,10 @@ date: '2026-10-05'
 status: published
 confidence: 0
 image_query: 'Tenký ropný polštář: 6 miliard'
+impact:
+  areas: [money]
+  line: "Doma se dnes nic nemění. Užitečné poučení: velké číslo o zásobách ropy říká málo, protože velká část se nedostane rychle do rafinerie, která ji potřebuje."
+  todo: "Všimněte si, že varování pochází od šéfa největšího producenta ropy; než mu uvěříte, ověřte, zda ho potvrzují nejbližší ropné kontrakty a marže nafty."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/tenky-ropny-polstar-6-miliard-barelu-jeste-nerika-ze-je-v-kl-analyza-381136

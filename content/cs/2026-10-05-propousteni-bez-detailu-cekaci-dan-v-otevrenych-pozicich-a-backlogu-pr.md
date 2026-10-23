@@ -13,6 +13,10 @@ date: '2026-10-05'
 status: published
 confidence: 0
 image_query: 'Propouštění bez detailů: čekací daň'
+impact:
+  areas: [money, life]
+  line: "Zaměstnance firem, které ohlásí škrty bez toho, koho, kde a kdy se týkají, stojí něco už samotná nejistota: odložené projekty, zmrazené nábory a kolegové, kteří odcházejí předem."
+  todo: "Když zaměstnavatel ohlásí škrty, zeptejte se personálního oddělení, jaké lhůty pro oznámení u vás platí; v USA zákon WARN u části hromadných propouštění obvykle žádá 60 dní."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/propousteni-bez-detailu-cekaci-dan-v-otevrenych-pozicich-a-b-analyza-380861

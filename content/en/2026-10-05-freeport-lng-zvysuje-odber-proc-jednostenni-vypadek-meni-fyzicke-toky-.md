@@ -10,6 +10,10 @@ date: '2026-10-05'
 status: published
 confidence: 0
 image_query: 'LNG export terminal Texas'
+impact:
+  areas: [money]
+  line: "Day to day, this changes nothing for most readers. What matters is the mechanism: when a big US export terminal draws more gas, less stays at home, which can nudge US gas prices up."
+  todo: "If you follow gas prices, check whether intake is rising at several US LNG terminals or only at Freeport catching up after an outage."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/freeport-lng-zvysuje-odber-proc-jednostenni-vypadek-meni-fyz-analyza-381126

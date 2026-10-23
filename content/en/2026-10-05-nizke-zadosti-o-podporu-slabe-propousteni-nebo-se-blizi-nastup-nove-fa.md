@@ -10,6 +10,10 @@ date: '2026-10-05'
 status: published
 confidence: 0
 image_query: 'job centre queue'
+impact:
+  areas: [money, life]
+  line: "Mainly for people working in or job-hunting in the US: few are being laid off, but few are being hired. A current job looks safer; finding a new one may take longer."
+  todo: "Before changing jobs, watch the weekly US continuing-claims figure from the Department of Labor; rising continuing claims mean new work is getting harder to find."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nizke-zadosti-o-podporu-slabe-propousteni-nebo-se-blizi-nast-analyza-380874

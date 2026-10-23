@@ -10,6 +10,10 @@ date: '2026-10-05'
 status: published
 confidence: 0
 image_query: 'oil storage tanks refinery'
+impact:
+  areas: [money]
+  line: "Nothing changes at home today. The useful lesson: a big headline figure for oil stocks says little, because much of it cannot quickly reach the refinery that needs it."
+  todo: "Note that the warning comes from the head of the largest oil producer; check whether near-term oil futures and diesel margins confirm it before trusting it."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/tenky-ropny-polstar-6-miliard-barelu-jeste-nerika-ze-je-v-kl-analyza-381136

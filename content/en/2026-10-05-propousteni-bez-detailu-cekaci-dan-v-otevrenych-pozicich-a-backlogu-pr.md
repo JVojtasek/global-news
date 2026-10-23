@@ -10,6 +10,10 @@ date: '2026-10-05'
 status: published
 confidence: 0
 image_query: 'empty office desks'
+impact:
+  areas: [money, life]
+  line: "For employees of firms that announce cuts without saying who, where and when, the uncertainty itself has a cost: postponed projects, frozen hiring and colleagues leaving early."
+  todo: "If your employer announces cuts, ask HR what advance-notice rules apply where you work; in the US, the WARN Act usually requires 60 days for some mass layoffs."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/propousteni-bez-detailu-cekaci-dan-v-otevrenych-pozicich-a-b-analyza-380861
