@@ -12,6 +12,10 @@ date: '2026-10-23'
 status: published
 confidence: 0
 image_query: 'Complementary forces: Why activism needs art'
+impact:
+  areas: [life]
+  line: "This changes nothing you have to do today. The useful part is the pattern: campaigns that stick in the mind usually pair a clear ask with a small visible gesture, and that is a template any civic or community group can borrow."
+  todo: "Next time you see a campaign that moved you, write down the ask and the image separately. If one is missing, the campaign is unlikely to produce action beyond awareness."
 syndicated:
   source: Global Voices
   author: Guest Contributor

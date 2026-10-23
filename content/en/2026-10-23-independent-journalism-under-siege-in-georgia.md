@@ -12,6 +12,10 @@ date: '2026-10-23'
 status: published
 confidence: 0
 image_query: Independent journalism under siege in Georgia
+impact:
+  areas: [life]
+  line: "Georgian press freedom has fallen sharply in RSF's World Press Freedom Index over the past two years. For readers abroad it changes little day to day; for anyone with family, business or NGO ties to Tbilisi it changes a lot."
+  todo: "If you follow Georgia, open the Reporters Without Borders country page and the OC Media newsletter — these two sources together give a more reliable picture than headlines from either government or opposition outlets."
 syndicated:
   source: Global Voices
   author: GV Contributor
