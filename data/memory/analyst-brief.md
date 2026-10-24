@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-23
+# ANALYTICKÉ ZADÁNÍ — 2026-10-24
 
-Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **50**.
+Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **45**.
 
 ---
 
@@ -96,9 +96,9 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **50**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'** — naposledy 2026-09-08, celkem 4 záznamů
 - **Five dead after Amazon cargo plane crashes at Miami airport** — naposledy 2026-09-07, celkem 4 záznamů
 - **Newcastle showed 'full commitment' in Spurs win - Jaissle** — naposledy 2026-09-05, celkem 3 záznamů
 - **Feminist activist and journalist Gloria Steinem dies, aged 92** — naposledy 2026-09-04, celkem 3 záznamů
 - **Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies** — naposledy 2026-09-03, celkem 3 záznamů
 - **Don't let a Wall Street analyst's downgrade of Apple scare you out of the stock** — naposledy 2026-08-31, celkem 3 záznamů
-- **US states call for big changes to Instagram and Facebook as Meta child privacy trial begins** — naposledy 2026-08-26, celkem 3 záznamů
