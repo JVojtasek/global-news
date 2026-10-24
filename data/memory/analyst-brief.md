@@ -21,9 +21,8 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-24** (2 zdrojů) As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 66 dní · 60 záznamů
+- rubrika `sport` · sledováno 67 dní · 60 záznamů
 - časová osa:
-  - **2026-10-20** (2 zdrojů) Liverpool v Villarreal: Champions League – live
   - **2026-10-20** (2 zdrojů) Audit regulator looking into Manchester City accounting
   - **2026-10-20** (2 zdrojů) PSG end Barcelona's winning run as Liverpool fight back against Villarreal
   - **2026-10-21** (3 zdrojů) No jeopardy but loads of fun - Champions League sets new goals record
@@ -33,6 +32,21 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-22** (2 zdrojů) Villa maintain perfect Champions League start with Viking victory
   - **2026-10-23** (1 zdrojů) Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
   - **2026-10-23** (1 zdrojů) A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
+  - **2026-10-24** (2 zdrojů) Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
+
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 76 dní · 60 záznamů
+- časová osa:
+  - **2026-10-05** (2 zdrojů) Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
+  - **2026-10-06** (2 zdrojů) Nations League roundup: Olise leads late charge as France bowl over Belgium
+  - **2026-10-06** (2 zdrojů) Nations League: France defeat Belgium in second-half comeback
+  - **2026-10-06** (2 zdrojů) How promotion, relegation and knockouts work in Nations League
+  - **2026-10-06** (2 zdrojů) England v Czechia: Nations League football – live
+  - **2026-10-06** (2 zdrojů) Kane scores twice but who else was a 'real threat'? England player ratings
+  - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
+  - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
+  - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
+  - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 74 dní · 60 záznamů
@@ -47,20 +61,6 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-21** (1 zdrojů) ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
   - **2026-10-21** (4 zdrojů) Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
   - **2026-10-22** (2 zdrojů) Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 74 dní · 60 záznamů
-- časová osa:
-  - **2026-10-03** (2 zdrojů) North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
-  - **2026-10-05** (2 zdrojů) Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
-  - **2026-10-06** (2 zdrojů) Nations League roundup: Olise leads late charge as France bowl over Belgium
-  - **2026-10-06** (2 zdrojů) Nations League: France defeat Belgium in second-half comeback
-  - **2026-10-06** (2 zdrojů) How promotion, relegation and knockouts work in Nations League
-  - **2026-10-06** (2 zdrojů) England v Czechia: Nations League football – live
-  - **2026-10-06** (2 zdrojů) Kane scores twice but who else was a 'real threat'? England player ratings
-  - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
-  - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
-  - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 72 dní · 60 záznamů

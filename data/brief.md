@@ -9,36 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Elon Musk says merging Tesla and SpaceX is a good idea. Why?
-- id události: `030e0762a24f`  ·  rubrika: `world`  ·  skóre: 79  ·  nezávislých zdrojů: 8
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Elon Musk says merging Tesla and SpaceX is a good idea. Why?
-    <https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss>
-    > Musk, who is CEO of both companies, says there is "a lot to be gained" from the merger, which would be the biggest in history.
-  - **BBC Business** — Elon Musk says merging Tesla and SpaceX is a good idea. Why?
-    <https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss>
-    > Musk, who is CEO of both companies, says there is "a lot to be gained" from the merger, which would be the biggest in history.
-  - **BBC Technology** — Elon Musk says merging Tesla and SpaceX is a good idea. Why?
-    <https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss>
-    > Musk, who is CEO of both companies, says there is "a lot to be gained" from the merger, which would be the biggest in history.
-  - **BBC Science** — Elon Musk says merging Tesla and SpaceX is a good idea. Why?
-    <https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss>
-    > Musk, who is CEO of both companies, says there is "a lot to be gained" from the merger, which would be the biggest in history.
-  - **DW News** — Elon Musk ordered a slowdown of Starlink in Ukraine — report
-    <https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf>
-    > Elon Musk "capped the speeds at which Ukrainian hardware could stay connected to the satellite-based network," the Wall Street Journal reported.
-  - **Guardian Business** — Tesla and SpaceX explore merger as Elon Musk gives backing
-    <https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report>
-    > Billionaire, on SpaceX earnings call, says ‘special committees’ exploring idea but no agreement reached yet As SpaceX released its second-ever public earnings report Tuesday, Elon Musk declared his support for combining the aerospace and AI company with his electric vehicle compa
-  - **Al Jazeera** — Elon Musk says SpaceX and Tesla exploring largest merger in history
-    <https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss>
-    > Tech mogul says tie-up has a 'lot of merit', given firms' complementary work on AI.
-  - **CNBC Top** — Elon Musk ordered Starlink slowdown for Ukraine: Report
-    <https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html>
-    > Musk and President Donald Trump have both recently criticized Ukrainian President Volodymyr Zelenskyy, who has also flagged disruptions in U.S. intel sharing.
-
-### 2. Real Madrid dominate Leipzig for third straight win
+### 1. Real Madrid dominate Leipzig for third straight win
 - id události: `9f8f826047ea`  ·  rubrika: `sport`  ·  skóre: 75  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -70,7 +41,7 @@
     <https://www.theguardian.com/football/2026/oct/21/aston-villa-viking-champions-league-match-report>
     > For a little over 20 minutes, Aston Villa could look down on the rest of Europe. They had scaled the Champions League summit on goal difference when Henrik Heggheim put through his own net and the fact was not lost on the Holte End, who reflected their position in song and perhap
 
-### 3. Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
+### 2. Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
 - id události: `eeea44ccd13a`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -87,7 +58,7 @@
     <https://www.france24.com/en/trump-faces-fresh-questions-over-ties-to-humanitarian-putin>
     > US President Donald Trump's pivot away from Ukraine has triggered fresh questions about his attachment to Russian leader Vladimir Putin, the man a top American envoy flattered on Wednesday as a "humanitarian. Trump has cast his dealings with Putin as part of a mega-deal that has 
 
-### 4. Ukraine troops report ongoing problems with Starlink satellite network
+### 3. Ukraine troops report ongoing problems with Starlink satellite network
 - id události: `cb9eec62df6f`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -103,6 +74,26 @@
   - **Al Jazeera** — Ukraine plans independent satellite system as Starlink issues persist
     <https://www.aljazeera.com/news/2026/10/23/ukraine-plans-independent-satellite-system-as-starlink-issues-persist?traffic_source=rss>
     > Ukraine to team up with Finnish firms as Starshield problems, started amid Trump-Zelenskyy jibes, continue.
+
+### 4. Meta ordered to pay $25 billion in Cambridge Analytica case
+- id události: `324a00b1ff1a`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **DW News** — Meta ordered to pay $25 billion in Cambridge Analytica case
+    <https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-rdf>
+    > A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign.
+  - **France 24** — Meta fined $25 billion in New Mexico over Cambridge Analytica scandal
+    <https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal>
+    > A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the p
+  - **TechCrunch** — Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal
+    <https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/>
+    > The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.
+  - **SCMP Tech (Čína)** — Meta to pay New Mexico a historic US$25 billion in Cambridge Analytica Facebook case
+    <https://www.scmp.com/news/world/united-states-canada/article/3371689/meta-pay-new-mexico-historic-us25-billion-cambridge-analytica-case>
+    > Meta Platforms was ordered to pay a groundbreaking US$25 billion civil penalty to the state of New Mexico in a consumer deception case spurred by the Cambridge Analytica scandal. The fine issued by state court Judge Francis Mathew is among the largest verdicts issued in US legal 
+  - **The Verge** — Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal
+    <https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty>
+    > The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's f
 
 ---
 
@@ -164,7 +155,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-15  (1 zdrojů, síla 40)  Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG
   2026-10-15  (3 zdrojů, síla 53)  Football regulator says he would quit over Man City political interference
   2026-10-16  (2 zdrojů, síla 43)  Do Manchester City have any grounds to win their appeal?
   2026-10-17  (2 zdrojů, síla 42)  Newcastle v Aston Villa: Premier League – live
@@ -184,6 +174,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory
   2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
   2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
+  2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
 ```
 
 ---

@@ -6,92 +6,6 @@
  "reserve_articles": 11,
  "news_assignments": [
   {
-   "id": "030e0762a24f",
-   "headline": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
-   "section": "world",
-   "score": 79,
-   "sources_count": 8,
-   "depth_signal": 0,
-   "created": "2026-10-21T06:41:40+00:00",
-   "event_time": "2026-10-21T06:36:39+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
-     "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
-     "published_at": "2026-10-21T06:36:39+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T06:41:34+00:00"
-    },
-    {
-     "title": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
-     "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Business",
-     "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
-     "published_at": "2026-10-21T06:36:39+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T06:41:34+00:00"
-    },
-    {
-     "title": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
-     "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Technology",
-     "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
-     "published_at": "2026-10-21T06:36:39+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T06:41:34+00:00"
-    },
-    {
-     "title": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
-     "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Science",
-     "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
-     "published_at": "2026-10-21T06:36:39+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T06:41:34+00:00"
-    },
-    {
-     "title": "Elon Musk ordered a slowdown of Starlink in Ukraine — report",
-     "url": "https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "Elon Musk \"capped the speeds at which Ukrainian hardware could stay connected to the satellite-based network,\" the Wall Street Journal reported.",
-     "published_at": "2026-10-21T03:00:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T06:41:34+00:00"
-    },
-    {
-     "title": "Tesla and SpaceX explore merger as Elon Musk gives backing",
-     "url": "https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report",
-     "source": "Guardian Business",
-     "summary": "Billionaire, on SpaceX earnings call, says ‘special committees’ exploring idea but no agreement reached yet As SpaceX released its second-ever public earnings report Tuesday, Elon Musk declared his support for combining the aerospace and AI company with his electric vehicle company, Tesla. He said both companies had created special committees to explore a potential merger, but have not reached any",
-     "published_at": "2026-10-21T01:10:07+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T06:41:34+00:00"
-    },
-    {
-     "title": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
-     "url": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Tech mogul says tie-up has a 'lot of merit', given firms' complementary work on AI.",
-     "published_at": "2026-10-21T03:51:39+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T06:41:34+00:00"
-    },
-    {
-     "title": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
-     "url": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html",
-     "source": "CNBC Top",
-     "summary": "Musk and President Donald Trump have both recently criticized Ukrainian President Volodymyr Zelenskyy, who has also flagged disruptions in U.S. intel sharing.",
-     "published_at": "2026-10-20T23:06:56+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-21T06:41:34+00:00"
-    }
-   ],
-   "depth": "open"
-  },
-  {
    "id": "9f8f826047ea",
    "headline": "Real Madrid dominate Leipzig for third straight win",
    "section": "sport",
@@ -285,6 +199,65 @@
     }
    ],
    "depth": "scripture"
+  },
+  {
+   "id": "324a00b1ff1a",
+   "headline": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+   "section": "world",
+   "score": 67,
+   "sources_count": 5,
+   "depth_signal": 0,
+   "created": "2026-10-21T21:25:42+00:00",
+   "event_time": "2026-10-21T19:27:00+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+     "url": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign.",
+     "published_at": "2026-10-21T19:27:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T21:25:34+00:00"
+    },
+    {
+     "title": "Meta fined $25 billion in New Mexico over Cambridge Analytica scandal",
+     "url": "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal",
+     "source": "France 24",
+     "summary": "A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the penalty “a tax on speech.”",
+     "published_at": "2026-10-21T21:21:41+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T21:25:34+00:00"
+    },
+    {
+     "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+     "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
+     "source": "TechCrunch",
+     "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
+     "published_at": "2026-10-21T19:42:32+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T21:25:34+00:00"
+    },
+    {
+     "title": "Meta to pay New Mexico a historic US$25 billion in Cambridge Analytica Facebook case",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3371689/meta-pay-new-mexico-historic-us25-billion-cambridge-analytica-case",
+     "source": "SCMP Tech (Čína)",
+     "summary": "Meta Platforms was ordered to pay a groundbreaking US$25 billion civil penalty to the state of New Mexico in a consumer deception case spurred by the Cambridge Analytica scandal. The fine issued by state court Judge Francis Mathew is among the largest verdicts issued in US legal history. The award comes after a jury in Santa Fe determined that Meta had violated the state’s consumer protection over",
+     "published_at": "2026-10-21T19:08:19+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T21:25:34+00:00"
+    },
+    {
+     "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
+     "url": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
+     "source": "The Verge",
+     "summary": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's faced several other losses or […]",
+     "published_at": "2026-10-21T19:02:49+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-21T21:25:34+00:00"
+    }
+   ],
+   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -312,7 +285,7 @@
    "title_hint": "What has actually changed: Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "depth": "open",
-   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-10-15  (1 zdrojů, síla 40)  Football Daily | Guardiola returns to Manchester as City spin into dizzy mess against PSG\n  2026-10-15  (3 zdrojů, síla 53)  Football regulator says he would quit over Man City political interference\n  2026-10-16  (2 zdrojů, síla 43)  Do Manchester City have any grounds to win their appeal?\n  2026-10-17  (2 zdrojů, síla 42)  Newcastle v Aston Villa: Premier League – live\n  2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle\n  2026-10-18  (2 zdrojů, síla 53)  LIVE: Leeds United vs Manchester United – Premier League\n  2026-10-18  (2 zdrojů, síla 40)  Manchester City owner’s £55m housing loan while Burnham was mayor investigated\n  2026-10-18  (3 zdrojů, síla 60)  Man Utd showed 'unity' in draw with Leeds - Carrick\n  2026-10-19  (1 zdrojů, síla 44)  Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson\n  2026-10-20  (2 zdrojů, síla 40)  Ronaldo let Manchester United down - Ten Hag\n  2026-10-20  (2 zdrojů, síla 43)  Liverpool v Villarreal: Champions League – live\n  2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting\n  2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal\n  2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record\n  2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld\n  2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live\n  2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win\n  2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory\n  2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live\n  2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby",
+   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-10-15  (3 zdrojů, síla 53)  Football regulator says he would quit over Man City political interference\n  2026-10-16  (2 zdrojů, síla 43)  Do Manchester City have any grounds to win their appeal?\n  2026-10-17  (2 zdrojů, síla 42)  Newcastle v Aston Villa: Premier League – live\n  2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle\n  2026-10-18  (2 zdrojů, síla 53)  LIVE: Leeds United vs Manchester United – Premier League\n  2026-10-18  (2 zdrojů, síla 40)  Manchester City owner’s £55m housing loan while Burnham was mayor investigated\n  2026-10-18  (3 zdrojů, síla 60)  Man Utd showed 'unity' in draw with Leeds - Carrick\n  2026-10-19  (1 zdrojů, síla 44)  Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson\n  2026-10-20  (2 zdrojů, síla 40)  Ronaldo let Manchester United down - Ten Hag\n  2026-10-20  (2 zdrojů, síla 43)  Liverpool v Villarreal: Champions League – live\n  2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting\n  2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal\n  2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record\n  2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld\n  2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live\n  2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win\n  2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory\n  2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live\n  2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby\n  2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live",
    "thread_days": 60
   }
  ],
