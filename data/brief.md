@@ -126,7 +126,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-05  (1 zdrojů, síla 43)  Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
   2026-10-08  (2 zdrojů, síla 44)  Germany news: UK's Burnham visits Berlin for talks with Merz
   2026-10-12  (2 zdrojů, síla 45)  UK's Burnham accuses Russia of meddling in Brexit vote
   2026-10-14  (1 zdrojů, síla 41)  Do any of these Israeli candidates support a Palestinian state?
@@ -146,6 +145,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-23  (2 zdrojů, síla 57)  Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
   2026-10-24  (2 zdrojů, síla 42)  As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?
   2026-10-24  (2 zdrojů, síla 43)  Israeli PM pledges massive military operation after West Bank checkpoint attack
+  2026-10-24  (2 zdrojů, síla 43)  Israel begins demolitions in West Bank
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

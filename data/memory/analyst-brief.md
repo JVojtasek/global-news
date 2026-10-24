@@ -9,7 +9,6 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **45**.
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 72 dní · 60 záznamů
 - časová osa:
-  - **2026-10-18** (3 zdrojů) US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
   - **2026-10-19** (1 zdrojů) Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
   - **2026-10-21** (3 zdrojů) Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
   - **2026-10-21** (1 zdrojů) African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
@@ -19,6 +18,7 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-23** (2 zdrojů) Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
   - **2026-10-24** (2 zdrojů) As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?
   - **2026-10-24** (2 zdrojů) Israeli PM pledges massive military operation after West Bank checkpoint attack
+  - **2026-10-24** (2 zdrojů) Israel begins demolitions in West Bank
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 67 dní · 60 záznamů
