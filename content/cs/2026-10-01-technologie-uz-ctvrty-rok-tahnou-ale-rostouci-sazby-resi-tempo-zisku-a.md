@@ -12,6 +12,10 @@ date: '2026-10-01'
 status: published
 confidence: 0
 image_query: Technologie už čtvrtý rok táhnou,
+impact:
+  areas: [money]
+  line: "Kdo má penzijní fond, ETF nebo indexový fond s velkým podílem technologických gigantů, může při růstu sazeb vidět větší výkyvy, i když firmy dál vydělávají. Na běžných výdajích se nic nemění."
+  todo: "Podívejte se, jak velkou část vašeho penzijního fondu nebo ETF tvoří největší technologické firmy; hlavní pozice uvádí informační list fondu."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/technologie-uz-ctvrty-rok-tahnou-ale-rostouci-sazby-resi-tem-analyza-378111

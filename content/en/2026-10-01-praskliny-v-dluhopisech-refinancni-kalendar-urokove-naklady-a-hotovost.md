@@ -11,6 +11,10 @@ date: '2026-10-01'
 status: published
 confidence: 0
 image_query: 'corporate bonds financial district'
+impact:
+  areas: [money]
+  line: "Nothing changes day to day for most readers. If weaker companies struggle to refinance their debt, the effect can arrive later as dearer loans, more cautious banks and fewer jobs in sensitive industries."
+  todo: "If you hold a high-yield bond fund, look in its factsheet at average credit rating and how much of the portfolio matures within two years."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/praskliny-v-dluhopisech-refinancni-kalendar-urokove-naklady--analyza-378382

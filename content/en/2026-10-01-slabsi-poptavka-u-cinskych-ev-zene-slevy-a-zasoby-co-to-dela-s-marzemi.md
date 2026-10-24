@@ -12,6 +12,10 @@ date: '2026-10-01'
 status: published
 confidence: 0
 image_query: 'electric cars dealership lot'
+impact:
+  areas: [money]
+  line: "A price war among Chinese EV makers can mean cheaper cars and better equipment for buyers in China, while carmaker shares in pension funds and ETFs may swing more. Most other readers see no direct change."
+  todo: "If you are shopping for an EV, compare discounts across a few months before you buy; the article's checklist names the figures to watch in carmakers' results."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/slabsi-poptavka-u-cinskych-ev-zene-slevy-a-zasoby-co-to-dela-analyza-378393

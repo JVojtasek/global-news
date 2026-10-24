@@ -12,6 +12,10 @@ date: '2026-09-30'
 status: published
 confidence: 0
 image_query: 'steel mill furnace molten metal'
+impact:
+  areas: [money]
+  line: "If US steel tariffs keep domestic steel prices high, buyers in the United States may pay more for cars and appliances. Outside the US, nothing changes day to day."
+  todo: "Before reading a big factory announcement as a done deal, check whether financing, permits and a construction timetable have been published."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ocelarna-za-15-miliard-co-rozhodne-zivotnost-marze-a-volny-c-analyza-377335

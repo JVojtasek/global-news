@@ -13,6 +13,10 @@ date: '2026-10-01'
 status: published
 confidence: 0
 image_query: Slabší poptávka u čínských EV
+impact:
+  areas: [money]
+  line: "Cenová válka čínských výrobců elektroaut může kupcům v Číně přinést levnější auta a lepší výbavu, akcie automobilek v penzijních fondech a ETF ale mohou víc kolísat. Většiny ostatních čtenářů se to přímo nedotkne."
+  todo: "Když vybíráte elektroauto, porovnejte slevy za několik měsíců, než koupíte; kontrolní seznam v článku říká, která čísla ve výsledcích automobilek sledovat."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/slabsi-poptavka-u-cinskych-ev-zene-slevy-a-zasoby-co-to-dela-analyza-378393

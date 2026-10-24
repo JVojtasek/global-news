@@ -13,6 +13,10 @@ date: '2026-09-30'
 status: published
 confidence: 0
 image_query: 'Energetická inflace se může šířit:'
+impact:
+  areas: [money]
+  line: "Pro domácnosti v eurozóně je otázka, jestli dražší energie zůstane na účtu za energie, nebo se přelije do služeb a mezd. Když se přelije, mohou přes vyšší sazby ECB zdražit úvěry a hypotéky."
+  todo: "Až vyjdou další čísla o inflaci, dívejte se kromě hlavního čísla i na jádrovou inflaci a služby; obojí zveřejňují národní statistické úřady."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/energeticka-inflace-se-muze-sirit-ecb-mene-starosti-jen-pri--analyza-377459

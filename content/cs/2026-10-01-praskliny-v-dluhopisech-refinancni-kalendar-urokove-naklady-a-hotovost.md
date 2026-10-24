@@ -12,6 +12,10 @@ date: '2026-10-01'
 status: published
 confidence: 0
 image_query: 'Praskliny v dluhopisech: refinanční kalendář,'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se dnes nic nemění. Když ale slabší firmy nezvládnou refinancovat dluh, může to později dorazit jako dražší úvěry, opatrnější banky a méně pracovních míst v citlivých odvětvích."
+  todo: "Máte-li dluhopisový fond s vysokým výnosem, podívejte se v jeho informačním listu na průměrný rating a na to, kolik portfolia splatí do dvou let."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/praskliny-v-dluhopisech-refinancni-kalendar-urokove-naklady--analyza-378382

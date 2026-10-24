@@ -12,6 +12,10 @@ date: '2026-10-01'
 status: published
 confidence: 0
 image_query: 'stock market screen technology'
+impact:
+  areas: [money]
+  line: "Anyone holding a pension fund, ETF or index fund heavy in big tech can see bigger swings when rates rise, even while the companies keep earning. Nothing changes in day-to-day spending."
+  todo: "Check what share of your pension fund or ETF sits in the largest tech companies; the fund's factsheet lists its top holdings."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/technologie-uz-ctvrty-rok-tahnou-ale-rostouci-sazby-resi-tem-analyza-378111

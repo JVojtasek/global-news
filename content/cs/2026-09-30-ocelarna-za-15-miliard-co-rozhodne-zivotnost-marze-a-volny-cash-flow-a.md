@@ -12,6 +12,10 @@ date: '2026-09-30'
 status: published
 confidence: 0
 image_query: 'Ocelárna za 15 miliard: co'
+impact:
+  areas: [money]
+  line: "Pokud americká cla udrží domácí ocel drahou, kupci ve Spojených státech mohou platit víc za auta a spotřebiče. Mimo USA se v běžném životě nic nemění."
+  todo: "Než velké oznámení o továrně vezmete jako hotovou věc, ověřte, zda bylo zveřejněno financování, povolení a harmonogram stavby."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ocelarna-za-15-miliard-co-rozhodne-zivotnost-marze-a-volny-c-analyza-377335

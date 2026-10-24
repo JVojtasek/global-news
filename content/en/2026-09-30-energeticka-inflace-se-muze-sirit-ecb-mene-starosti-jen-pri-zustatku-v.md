@@ -12,6 +12,10 @@ date: '2026-09-30'
 status: published
 confidence: 0
 image_query: 'electricity meter household energy bill'
+impact:
+  areas: [money]
+  line: "For households in the eurozone, the question is whether dearer energy stays on the energy bill or spreads into services and wages. If it spreads, loans and mortgages may get dearer through higher ECB rates."
+  todo: "When the next inflation figures come out, look past the headline number at core inflation and services; national statistics offices publish both."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/energeticka-inflace-se-muze-sirit-ecb-mene-starosti-jen-pri--analyza-377459
