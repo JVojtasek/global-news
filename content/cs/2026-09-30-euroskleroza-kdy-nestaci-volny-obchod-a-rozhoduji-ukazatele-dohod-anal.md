@@ -13,6 +13,10 @@ date: '2026-09-30'
 status: published
 confidence: 0
 image_query: 'Euroskleróza: kdy nestačí volný obchod'
+impact:
+  areas: [money]
+  line: "Pro většinu čtenářů se v běžném životě nic nemění: zatím zazněly jen výzvy k obchodní dohodě USA a EU, žádný vyjednávací text. Kdyby dohoda přišla, projevila by se nejdřív v zakázkách evropského průmyslu, cenách energie a maržích."
+  todo: "Ověřte, zda už byl zveřejněn skutečný vyjednávací text dohody USA a EU, a sledujte rozdíl mezi cenami průmyslové energie v EU a v USA."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/euroskleroza-kdy-nestaci-volny-obchod-a-rozhoduji-ukazatele--analyza-377606

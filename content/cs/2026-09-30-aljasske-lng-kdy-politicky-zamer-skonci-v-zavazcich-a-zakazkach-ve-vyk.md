@@ -13,6 +13,10 @@ date: '2026-09-30'
 status: published
 confidence: 0
 image_query: 'Aljašské LNG: kdy politický záměr'
+impact:
+  areas: [money]
+  line: "Pro většinu čtenářů se v běžném životě nic nemění. Využití jihokorejského balíku za zhruba 54 miliard dolarů pro Aljašské LNG je zatím jen zmiňovaný politický záměr; skutečným se stane až s odběratelskými smlouvami, konečným investičním rozhodnutím a zakázkami."
+  todo: "Ověřte, zda padlo konečné investiční rozhodnutí o Aljašském LNG a zda jsou korejské peníze vlastní kapitál, úvěry, záruky, nebo jen rámec."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/aljasske-lng-kdy-politicky-zamer-skonci-v-zavazcich-a-zakazk-analyza-377333

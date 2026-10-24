@@ -12,6 +12,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: 'stock market trading screen'
+impact:
+  areas: [money]
+  line: "Anyone with a pension or equity fund tied to the S&P 500 may see bigger swings: the index rests on a few tech giants while most stocks are already in a 5% correction, as yields and oil rise."
+  todo: "Watch the gap between the standard S&P 500 and its equal-weight version; a lag of 5 percentage points or more over several months signals a narrow market."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/s-p-500-kdyz-ridi-trh-par-technologickych-obru-proc-rijen-zv-analyza-376679

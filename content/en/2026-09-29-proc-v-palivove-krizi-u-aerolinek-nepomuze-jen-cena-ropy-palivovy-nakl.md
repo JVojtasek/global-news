@@ -12,6 +12,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: 'aircraft refuelling at airport'
+impact:
+  areas: [money, life]
+  line: "Expensive jet fuel hits weaker, indebted airlines hardest; for travellers it can show up in ticket prices, fees and which routes are flown. Berkshire's reported $5.4 billion Delta stake is a bet on the stronger carrier."
+  todo: "Before booking, compare the total fare including fees; in airline results, watch fuel cost per gallon and operating profit relative to interest."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/proc-v-palivove-krizi-u-aerolinek-nepomuze-jen-cena-ropy-pal-analyza-376836

@@ -13,6 +13,10 @@ date: '2026-09-30'
 status: published
 confidence: 0
 image_query: 'Kashagan a kazachstánské rezervy: co'
+impact:
+  areas: [money]
+  line: "Pro většinu čtenářů se v běžném životě nic nemění. Pokuta 5,22 miliardy dolarů proti konsorciu Kashaganu zkouší hlavně Eni, Shell, Exxon, TotalEnergies a Inpex – a to, zda investoři začnou chtít vyšší rizikovou přirážku za projekty v Kazachstánu."
+  todo: "Ověřte, zda firmy pokutu zaúčtují jako rezervu, nebo ji jen zmíní v příloze, a porovnejte podíl každého partnera s jeho ročním volným cash flow."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kashagan-a-kazachstanske-rezervy-co-zmeni-spor-v-cash-flow-a-analyza-377465

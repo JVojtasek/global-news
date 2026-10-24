@@ -12,6 +12,10 @@ date: '2026-09-30'
 status: published
 confidence: 0
 image_query: 'offshore oil platform Caspian Sea'
+impact:
+  areas: [money]
+  line: "For most readers nothing changes day to day. The $5.22 billion fine against the Kashagan consortium mainly tests Eni, Shell, Exxon, TotalEnergies and Inpex, and whether investors start demanding a higher risk premium for projects in Kazakhstan."
+  todo: "Check whether the companies book a provision or only mention the dispute in the notes, and compare each partner's share of the fine with its annual free cash flow."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kashagan-a-kazachstanske-rezervy-co-zmeni-spor-v-cash-flow-a-analyza-377465

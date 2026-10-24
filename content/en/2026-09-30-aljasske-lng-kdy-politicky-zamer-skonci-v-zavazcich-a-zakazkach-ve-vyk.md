@@ -12,6 +12,10 @@ date: '2026-09-30'
 status: published
 confidence: 0
 image_query: 'Alaska pipeline snowy landscape'
+impact:
+  areas: [money]
+  line: "For most readers nothing changes day to day. Using a roughly $54 billion South Korean package for Alaska LNG is so far a reported political intention; it becomes real only with offtake contracts, a final investment decision and orders."
+  todo: "Check whether a final investment decision on Alaska LNG has been announced and whether the Korean money is equity, loans, guarantees or only a framework."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/aljasske-lng-kdy-politicky-zamer-skonci-v-zavazcich-a-zakazk-analyza-377333

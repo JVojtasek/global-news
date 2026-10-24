@@ -13,6 +13,10 @@ date: '2026-09-30'
 status: published
 confidence: 0
 image_query: 'European factory production line'
+impact:
+  areas: [money]
+  line: "For most readers nothing changes day to day: so far there are only calls for a US–EU trade deal, no negotiating text. If a deal came, it would show first in European factory orders, energy costs and margins."
+  todo: "Check whether an actual US–EU negotiating text has been published, and watch the gap between industrial energy prices in the EU and the US."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/euroskleroza-kdy-nestaci-volny-obchod-a-rozhoduji-ukazatele--analyza-377606

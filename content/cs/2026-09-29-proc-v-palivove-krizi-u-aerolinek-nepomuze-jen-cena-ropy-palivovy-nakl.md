@@ -13,6 +13,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: Proč v palivové krizi u
+impact:
+  areas: [money, life]
+  line: "Drahé letecké palivo nejvíc dopadá na slabší a zadlužené aerolinky; cestující to mohou pocítit na cenách letenek, poplatcích a nabídce linek. Zmiňovaný podíl Berkshire za 5,4 miliardy dolarů v Deltě je sázka na silnějšího dopravce."
+  todo: "Před rezervací porovnejte celkovou cenu včetně poplatků; ve výsledcích aerolinek sledujte náklad na galon paliva a provozní zisk vůči úrokům."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/proc-v-palivove-krizi-u-aerolinek-nepomuze-jen-cena-ropy-pal-analyza-376836

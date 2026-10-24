@@ -13,6 +13,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: 'S&P 500: když řídí trh'
+impact:
+  areas: [money]
+  line: "Kdo má penzijní nebo akciový fond navázaný na S&P 500, může zažít větší výkyvy: index drží pár technologických obrů, zatímco většina akcií je už v pětiprocentní korekci a rostou výnosy i ropa."
+  todo: "Sledujte rozdíl mezi běžným S&P 500 a jeho stejně váženou verzí; zaostávání o 5 a více procentních bodů po několik měsíců značí úzký trh."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/s-p-500-kdyz-ridi-trh-par-technologickych-obru-proc-rijen-zv-analyza-376679
