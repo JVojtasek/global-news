@@ -1,7 +1,7 @@
 # ZADÁNÍ PRO REDAKCI — 2026-10-24
 
-- Režim: **normal**
-- Práh jistoty pro automatické vydání: **82/100**
+- Režim: **autonomous**  ⚠️ nikdo se o projekt 14 dní nestaral – buď opatrnější
+- Práh jistoty pro automatické vydání: **93/100**
 - Článků v zásobě: **11**
 - Jazyk, ve kterém se píše: **en**
 
@@ -75,25 +75,28 @@
     <https://www.aljazeera.com/news/2026/10/23/ukraine-plans-independent-satellite-system-as-starlink-issues-persist?traffic_source=rss>
     > Ukraine to team up with Finnish firms as Starshield problems, started amid Trump-Zelenskyy jibes, continue.
 
-### 4. Meta ordered to pay $25 billion in Cambridge Analytica case
-- id události: `324a00b1ff1a`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 5
+### 4. Spurs clinch rare Stamford Bridge win as Palmer sent off
+- id události: `a8e59462be15`  ·  rubrika: `sport`  ·  skóre: 68  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **DW News** — Meta ordered to pay $25 billion in Cambridge Analytica case
-    <https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-rdf>
-    > A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign.
-  - **France 24** — Meta fined $25 billion in New Mexico over Cambridge Analytica scandal
-    <https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal>
-    > A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the p
-  - **TechCrunch** — Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal
-    <https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/>
-    > The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.
-  - **SCMP Tech (Čína)** — Meta to pay New Mexico a historic US$25 billion in Cambridge Analytica Facebook case
-    <https://www.scmp.com/news/world/united-states-canada/article/3371689/meta-pay-new-mexico-historic-us25-billion-cambridge-analytica-case>
-    > Meta Platforms was ordered to pay a groundbreaking US$25 billion civil penalty to the state of New Mexico in a consumer deception case spurred by the Cambridge Analytica scandal. The fine issued by state court Judge Francis Mathew is among the largest verdicts issued in US legal 
-  - **The Verge** — Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal
-    <https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty>
-    > The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's f
+  - **BBC Sport** — Spurs clinch rare Stamford Bridge win as Palmer sent off
+    <https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss>
+    > Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.
+  - **BBC Sport** — Arsenal beat Everton to go level on points with leaders Man City
+    <https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss>
+    > Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.
+  - **BBC Sport** — Penders error & Palmer sees red - player ratings for Chelsea v Spurs
+    <https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss>
+    > Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.
+  - **Guardian Sport** — Alonso urges Cole Palmer ‘to learn’ from red card in Chelsea’s defeat to Spurs
+    <https://www.theguardian.com/football/2026/oct/24/xabia-alonso-urges-cole-palmer-to-learn-from-red-card-in-chelseas-defeat-to-tottenham>
+    > Forward sent off after 80 minutes for second yellow card ‘We need to have maturity to deal with difficult moments’ Xabi Alonso said that Cole Palmer must learn from his red card during Chelsea’s shock 2-0 defeat to Tottenham , who claimed their first win at Stamford Bridge since 
+  - **Al Jazeera** — Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0
+    <https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss>
+    > Gunners capitalise on City's first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.
+  - **Guardian Sport** — Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off
+    <https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report>
+    > There are days when Tottenham go into these big games and find ways to beat themselves. This time, though, they held their nerve at a ground where they have mostly only known doom. Spurs played with control, stayed patient and won at Stamford Bridge for the first time since 2018 
 
 ---
 

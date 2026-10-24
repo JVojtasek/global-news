@@ -1,8 +1,8 @@
 {
  "date": "2026-10-24",
- "mode": "normal",
- "days_since_human": 13,
- "confidence_threshold": 82,
+ "mode": "autonomous",
+ "days_since_human": 14,
+ "confidence_threshold": 93,
  "reserve_articles": 11,
  "news_assignments": [
   {
@@ -201,60 +201,69 @@
    "depth": "scripture"
   },
   {
-   "id": "324a00b1ff1a",
-   "headline": "Meta ordered to pay $25 billion in Cambridge Analytica case",
-   "section": "world",
-   "score": 67,
-   "sources_count": 5,
-   "depth_signal": 0,
-   "created": "2026-10-21T21:25:42+00:00",
-   "event_time": "2026-10-21T19:27:00+00:00",
+   "id": "a8e59462be15",
+   "headline": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+   "section": "sport",
+   "score": 68,
+   "sources_count": 3,
+   "depth_signal": 2,
+   "created": "2026-10-24T21:24:17+00:00",
+   "event_time": "2026-10-24T19:17:06+00:00",
    "time_kind": "published",
    "items": [
     {
-     "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
-     "url": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign.",
-     "published_at": "2026-10-21T19:27:00+00:00",
+     "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+     "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.",
+     "published_at": "2026-10-24T19:17:06+00:00",
      "source_countries": [],
-     "seen_at": "2026-10-21T21:25:34+00:00"
+     "seen_at": "2026-10-24T21:24:14+00:00"
     },
     {
-     "title": "Meta fined $25 billion in New Mexico over Cambridge Analytica scandal",
-     "url": "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal",
-     "source": "France 24",
-     "summary": "A New Mexico judge ordered Meta to pay $25 billion after a jury found the company deceived users in a case linked to the Cambridge Analytica scandal, media reported Wednesday. The ruling follows an $18 billion settlement with 48 other states over similar claims. Meta called the penalty “a tax on speech.”",
-     "published_at": "2026-10-21T21:21:41+00:00",
+     "title": "Arsenal beat Everton to go level on points with leaders Man City",
+     "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.",
+     "published_at": "2026-10-24T18:59:30+00:00",
      "source_countries": [],
-     "seen_at": "2026-10-21T21:25:34+00:00"
+     "seen_at": "2026-10-24T21:24:14+00:00"
     },
     {
-     "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
-     "url": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-     "source": "TechCrunch",
-     "summary": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
-     "published_at": "2026-10-21T19:42:32+00:00",
+     "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Sport",
+     "summary": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.",
+     "published_at": "2026-10-24T18:26:29+00:00",
      "source_countries": [],
-     "seen_at": "2026-10-21T21:25:34+00:00"
+     "seen_at": "2026-10-24T21:24:14+00:00"
     },
     {
-     "title": "Meta to pay New Mexico a historic US$25 billion in Cambridge Analytica Facebook case",
-     "url": "https://www.scmp.com/news/world/united-states-canada/article/3371689/meta-pay-new-mexico-historic-us25-billion-cambridge-analytica-case",
-     "source": "SCMP Tech (Čína)",
-     "summary": "Meta Platforms was ordered to pay a groundbreaking US$25 billion civil penalty to the state of New Mexico in a consumer deception case spurred by the Cambridge Analytica scandal. The fine issued by state court Judge Francis Mathew is among the largest verdicts issued in US legal history. The award comes after a jury in Santa Fe determined that Meta had violated the state’s consumer protection over",
-     "published_at": "2026-10-21T19:08:19+00:00",
+     "title": "Alonso urges Cole Palmer ‘to learn’ from red card in Chelsea’s defeat to Spurs",
+     "url": "https://www.theguardian.com/football/2026/oct/24/xabia-alonso-urges-cole-palmer-to-learn-from-red-card-in-chelseas-defeat-to-tottenham",
+     "source": "Guardian Sport",
+     "summary": "Forward sent off after 80 minutes for second yellow card ‘We need to have maturity to deal with difficult moments’ Xabi Alonso said that Cole Palmer must learn from his red card during Chelsea’s shock 2-0 defeat to Tottenham , who claimed their first win at Stamford Bridge since 2018 thanks to an own goal from Mike Penders and a late effort from Mathys Tel. Spurs, who had won on one of their previ",
+     "published_at": "2026-10-24T20:19:17+00:00",
      "source_countries": [],
-     "seen_at": "2026-10-21T21:25:34+00:00"
+     "seen_at": "2026-10-24T21:24:14+00:00"
     },
     {
-     "title": "Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal",
-     "url": "https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty",
-     "source": "The Verge",
-     "summary": "The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's faced several other losses or […]",
-     "published_at": "2026-10-21T19:02:49+00:00",
+     "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Gunners capitalise on City's first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.",
+     "published_at": "2026-10-24T20:03:29+00:00",
      "source_countries": [],
-     "seen_at": "2026-10-21T21:25:34+00:00"
+     "seen_at": "2026-10-24T21:24:14+00:00"
+    },
+    {
+     "title": "Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off",
+     "url": "https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report",
+     "source": "Guardian Sport",
+     "summary": "There are days when Tottenham go into these big games and find ways to beat themselves. This time, though, they held their nerve at a ground where they have mostly only known doom. Spurs played with control, stayed patient and won at Stamford Bridge for the first time since 2018 after waiting for Chelsea to press the self-destruct button during a calamitous and comical ending to a cagey game. Chel",
+     "published_at": "2026-10-24T18:32:03+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-24T21:24:14+00:00"
     }
    ],
    "depth": "open"

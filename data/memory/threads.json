@@ -3222,46 +3222,46 @@
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
    "entities": [
-    "parties",
-    "zoom",
-    "iran",
-    "ambani",
-    "merging",
-    "side",
-    "spacex",
-    "friday's",
-    "unusual",
-    "open",
-    "talarico",
-    "here",
-    "miss",
     "europe",
-    "embiricos",
-    "musk",
-    "china",
-    "tesla-spacex",
-    "ukraine",
-    "ukraine's",
-    "india's",
-    "israel",
-    "sure",
+    "open",
     "trump",
-    "billionaire",
-    "techcrunch",
-    "alexander",
-    "anthropic",
-    "machines",
-    "deckers",
+    "openai",
     "senate",
-    "skydance",
+    "musk",
+    "apple",
+    "starlink",
+    "merging",
+    "networking",
+    "unusual",
+    "machines",
+    "china",
+    "anthropic",
+    "friday's",
+    "here",
+    "ukraine's",
+    "deckers",
+    "ukraine",
+    "alexander",
     "musk's",
     "russia",
-    "openai",
-    "apple",
-    "networking",
-    "beyond",
     "dots",
-    "starlink"
+    "tesla-spacex",
+    "beyond",
+    "embiricos",
+    "india's",
+    "zoom",
+    "sure",
+    "talarico",
+    "techcrunch",
+    "iran",
+    "skydance",
+    "side",
+    "israel",
+    "parties",
+    "miss",
+    "spacex",
+    "ambani",
+    "billionaire"
    ],
    "event_ids": [
     "95b4d8eb7452",
@@ -3302,7 +3302,8 @@
     "e406db6a9c15",
     "8b4dc9f3945d",
     "9b5397f83bd4",
-    "19c0d49aeb1d"
+    "19c0d49aeb1d",
+    "e76559e70f02"
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-10-24",
@@ -3754,6 +3755,18 @@
      "links": [
       "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
       "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Ukraine: Starlink satellite speeds restored to normal",
+     "sources": 3,
+     "score": 52,
+     "event_id": "e76559e70f02",
+     "links": [
+      "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
+      "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "https://www.investing.com/news/economy-news/ukraine-says-military-starlink-service-restored-after-10day-disruption-4970760"
      ]
     }
    ]
@@ -4809,6 +4822,36 @@
       "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
       "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
       "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a8e59462be15",
+   "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+   "section": "sport",
+   "entities": [
+    "spurs",
+    "stamford",
+    "palmer",
+    "bridge"
+   ],
+   "event_ids": [
+    "a8e59462be15"
+   ],
+   "first_seen": "2026-10-24",
+   "last_seen": "2026-10-24",
+   "timeline": [
+    {
+     "date": "2026-10-24",
+     "headline": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+     "sources": 3,
+     "score": 68,
+     "event_id": "a8e59462be15",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -17818,5 +17861,5 @@
    ]
   }
  ],
- "updated": "2026-10-24T18:28:40+00:00"
+ "updated": "2026-10-24T21:24:17+00:00"
 }
