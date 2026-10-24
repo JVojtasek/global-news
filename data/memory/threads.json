@@ -1,6 +1,1382 @@
 {
  "threads": [
   {
+   "id": "09443cca3ddd",
+   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+   "section": "world",
+   "entities": [
+    "politically",
+    "five",
+    "among",
+    "west",
+    "elephants",
+    "evolved",
+    "former",
+    "african",
+    "doing",
+    "million",
+    "italy",
+    "uk's",
+    "jenin",
+    "culture",
+    "community",
+    "lizards",
+    "bank",
+    "long",
+    "israelis",
+    "past",
+    "many",
+    "north",
+    "lander",
+    "palestinians",
+    "netanyahu",
+    "years",
+    "wandered",
+    "israeli",
+    "smithsonian",
+    "suggests",
+    "study",
+    "true",
+    "poles",
+    "continue",
+    "strove",
+    "germany",
+    "rajab",
+    "south",
+    "died",
+    "israel"
+   ],
+   "event_ids": [
+    "09443cca3ddd",
+    "69fbd7c00f3b",
+    "c56a140b572c",
+    "727b036de961",
+    "d9fabac5169e",
+    "dd3e8e775a11",
+    "a6b6f34c8e21",
+    "bdaf2e87b992",
+    "f0db32b6db43",
+    "50063425df92",
+    "a0e824c0fefc",
+    "e28573af70a1",
+    "be74360785ae",
+    "5e2205225644",
+    "0f7415ce5b12",
+    "5a37c8f3f9af",
+    "f1f5dde9d5e4",
+    "4dbfa63e7365",
+    "ddc89ece41e7",
+    "a7f4b944d680",
+    "80ad369697ca",
+    "5bd816fda1dc",
+    "1452b76e2d1a",
+    "4e4cfa70881f",
+    "7e2a725de566",
+    "c9484210a14a",
+    "89282106da8b",
+    "4bf27b721bfa",
+    "db9255b11c8f",
+    "04275de624ee",
+    "1ed9a755881d",
+    "af2c3bcc90b1",
+    "832c384b6768",
+    "0a098c22936e",
+    "8f711338f49b",
+    "1214412330e2",
+    "9326ca279071",
+    "437c2493078e",
+    "38cd7f7bd76a",
+    "add4eeadf14c",
+    "00ad11519a0d",
+    "d662c152c195",
+    "094f1c8c1554",
+    "3844ef176c21",
+    "baa979ecc134",
+    "c9a5131a0cf2",
+    "68d7169b2304",
+    "08d575f7bcf4",
+    "22c528648138",
+    "f587e8523cf1",
+    "b8dc19b51d5a",
+    "60578003d7bf",
+    "af8dfe0c8014",
+    "ff5d851a98ea",
+    "e79ac17083df",
+    "8e63af13a49f",
+    "363fbc099b39",
+    "27646b39f22c",
+    "9edf563710cc",
+    "2230e238fea2",
+    "a2bc87581ff4",
+    "483726046d99",
+    "a73367a27080",
+    "f24f3fe6d6db",
+    "fe8fb25e8f04",
+    "47a92798df2a",
+    "7718246191f0",
+    "a77c5e49ae6b",
+    "bb03f4343932",
+    "37a7894265f0"
+   ],
+   "first_seen": "2026-08-13",
+   "last_seen": "2026-10-24",
+   "timeline": [
+    {
+     "date": "2026-08-19",
+     "headline": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+     "sources": 2,
+     "score": 45,
+     "event_id": "a0e824c0fefc",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+     "sources": 2,
+     "score": 46,
+     "event_id": "e28573af70a1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+     "sources": 2,
+     "score": 50,
+     "event_id": "be74360785ae",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
+     "sources": 2,
+     "score": 54,
+     "event_id": "5e2205225644",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
+      "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
+      "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-23",
+     "headline": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
+     "sources": 2,
+     "score": 46,
+     "event_id": "0f7415ce5b12",
+     "links": [
+      "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
+      "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "US-led Gaza peace board warns Hamas over kites after Israeli threat",
+     "sources": 2,
+     "score": 43,
+     "event_id": "5a37c8f3f9af",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260825-us-gaza-peace-board-hamas-kites-israeli-threat",
+      "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+     "sources": 2,
+     "score": 44,
+     "event_id": "f1f5dde9d5e4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Why a Christian group is suing the Dutch government for West Bank trade ban",
+     "sources": 1,
+     "score": 40,
+     "event_id": "4dbfa63e7365",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Israeli strike kills three Palestinians in West Bank’s Jenin",
+     "sources": 2,
+     "score": 43,
+     "event_id": "ddc89ece41e7",
+     "links": [
+      "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "BBC tracks one week of Israeli settler violence in occupied West Bank",
+     "sources": 3,
+     "score": 57,
+     "event_id": "a7f4b944d680",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260829-netanyahu-condemns-criminal-acts-of-violence-by-settlers-in-west-bank-villages"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Palestinian woman and NBC News team reportedly attacked in West Bank",
+     "sources": 2,
+     "score": 46,
+     "event_id": "80ad369697ca",
+     "links": [
+      "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France",
+     "sources": 2,
+     "score": 52,
+     "event_id": "5bd816fda1dc",
+     "links": [
+      "https://www.france24.com/en/asia-pacific/20260830-week-in-pictures-devastating-floods-in-nepal-death-of-dolly-parton-and-a-tornado-in-france",
+      "https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Israeli fire kills three in Gaza City during reported raid, medics say",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1452b76e2d1a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Palestinian teens killed during settler attack on West Bank village, officials say",
+     "sources": 2,
+     "score": 48,
+     "event_id": "4e4cfa70881f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260903-israeli-attacks-in-west-bank-at-unprecedented-level-pni-leader-barghouti-says"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza",
+     "sources": 2,
+     "score": 47,
+     "event_id": "7e2a725de566",
+     "links": [
+      "https://www.theguardian.com/film/2026/sep/04/israel-director-amos-gitai-gaza-the-road-to-jericho-venice",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Israel's West Bank camp displacements could be crime against humanity, UN says",
+     "sources": 2,
+     "score": 44,
+     "event_id": "c9484210a14a",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says",
+      "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+     "sources": 2,
+     "score": 46,
+     "event_id": "89282106da8b",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "US ambassador to Israel visits Palestinian town hit by West Bank settler violence",
+     "sources": 2,
+     "score": 48,
+     "event_id": "4bf27b721bfa",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260905-us-ambassador-to-israel-visits-palestinian-town-hit-by-west-bank-settler-violence",
+      "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "Inside the places that shaped Dolly Parton",
+     "sources": 2,
+     "score": 46,
+     "event_id": "db9255b11c8f",
+     "links": [
+      "https://www.bbc.com/travel/article/20260902-the-places-that-shaped-dolly-parton?ocid=global_travel_rss",
+      "https://www.cnbc.com/2026/09/05/dolly-parton-gloria-steinem-never-retired.html"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Israeli attacks on Gaza kill five Palestinians, including two children",
+     "sources": 2,
+     "score": 44,
+     "event_id": "04275de624ee",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260907-un-rapporteur-says-israeli-rubble-clearing-in-gaza-could-erase-atrocity-crimes-evidence"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1ed9a755881d",
+     "links": [
+      "https://www.france24.com/en/middle-east/20260907-israel-warns-of-full-scale-war-if-palestinian-authority-launches-oct-7-style-attack",
+      "https://www.aljazeera.com/features/2026/9/7/israel-deports-british-activist-who-protected-palestinian-children?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+     "sources": 7,
+     "score": 83,
+     "event_id": "af2c3bcc90b1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
+      "https://www.theguardian.com/politics/video/2026/sep/08/uk-foreign-secretary-sanctions-trade-israeli-west-bank-settlements-video"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+     "sources": 3,
+     "score": 69,
+     "event_id": "832c384b6768",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/commentisfree/picture/2026/sep/08/ella-baron-uk-ban-trade-with-israeli-settlements-cartoon"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Where is Israel's proposed West Bank settlement the UK opposes?",
+     "sources": 2,
+     "score": 46,
+     "event_id": "0a098c22936e",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/tv-shows/a-propos/20260908-uk-france-canada-sanction-israeli-west-bank-goods"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements",
+     "sources": 2,
+     "score": 44,
+     "event_id": "8f711338f49b",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/09/wednesday-briefing-inside-sweeping-uk-sanctions-on-trade-with-israeli-settlements",
+      "https://www.aljazeera.com/news/2026/9/9/as-the-uk-sanctions-israeli-settlements-is-the-two-state-solution-dead?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+     "sources": 2,
+     "score": 47,
+     "event_id": "1214412330e2",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/economy/2026/9/10/israeli-checkpoints-in-the-west-bank-are-choking-the-palestinian-economy?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Former West Ham keeper Miklosko dies aged 64",
+     "sources": 2,
+     "score": 40,
+     "event_id": "9326ca279071",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c77036d68k8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/14/ludek-miklosko-west-ham-qpr-goalkeeper-dies"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank",
+     "sources": 2,
+     "score": 44,
+     "event_id": "437c2493078e",
+     "links": [
+      "https://www.theguardian.com/world/ng-interactive/2026/sep/14/israel-palestinian-living-conditions-eliminated-west-bank-human-rights-report",
+      "https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "An Israeli settler and a Palestinian driver killed in West Bank shootings",
+     "sources": 2,
+     "score": 42,
+     "event_id": "38cd7f7bd76a",
+     "links": [
+      "https://www.france24.com/en/an-israeli-settler-and-a-palestinian-driver-killed-in-west-bank-shootings",
+      "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Israeli president pardons combat medic who shot dead wounded Palestinian attacker",
+     "sources": 2,
+     "score": 42,
+     "event_id": "add4eeadf14c",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/19/israel-president-pardon-elor-azaria-wounded-palestinian-attacker",
+      "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+     "sources": 2,
+     "score": 49,
+     "event_id": "00ad11519a0d",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
+      "https://www.france24.com/en/france/20260920-macron-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting",
+      "https://www.france24.com/en/replay-macron-carney-hail-new-chapter-on-france-canada-ties-at-st-pierre-and-miquelon-meeting"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d662c152c195",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
+      "https://www.france24.com/en/video/20260921-macron-and-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Trump to meet Macron in New York before UN General Assembly",
+     "sources": 2,
+     "score": 43,
+     "event_id": "094f1c8c1554",
+     "links": [
+      "https://www.france24.com/en/americas/20260921-trump-to-meet-macron-in-new-york-before-un-general-assembly",
+      "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Burnham hails Greenland deal ahead of expected first Trump meeting",
+     "sources": 2,
+     "score": 46,
+     "event_id": "3844ef176c21",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'",
+     "sources": 1,
+     "score": 44,
+     "event_id": "baa979ecc134",
+     "links": [
+      "https://www.smithsonianmag.com/history/the-founders-of-the-new-york-times-pledged-to-cover-every-subject-of-public-importance-175-years-later-the-paper-continues-to-publish-all-the-news-thats-fit-to-print-180989512/"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience",
+     "sources": 1,
+     "score": 46,
+     "event_id": "c9a5131a0cf2",
+     "links": [
+      "https://www.smithsonianmag.com/smithsonian-institution/for-years-the-smithsonian-strove-to-bring-the-african-american-history-and-culture-museum-to-the-national-mall-now-it-celebrates-a-decade-as-a-beacon-of-understanding-community-and-resilience-180989535/"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Israel strips Dutch diplomats of status in West Bank",
+     "sources": 2,
+     "score": 42,
+     "event_id": "68d7169b2304",
+     "links": [
+      "https://www.dw.com/en/israel-strips-dutch-diplomats-of-status-in-west-bank/a-79451271?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260927-israel-revokes-dutch-diplomats-credentials-settlement-sanctions"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
+     "sources": 1,
+     "score": 50,
+     "event_id": "08d575f7bcf4",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
+      "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/",
+      "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Israeli settlers attack Jalud village in occupied West Bank, torch homes",
+     "sources": 1,
+     "score": 44,
+     "event_id": "22c528648138",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/29/israeli-settlers-attack-jalud-village-in-occupied-west-bank-torch-homes?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/9/29/israels-west-bank-road-closures-turn-routine-journeys-into-long-ordeals?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+     "sources": 2,
+     "score": 51,
+     "event_id": "f587e8523cf1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20260929-over-100-settlers-attack-occupied-west-bank-village-clash-with-israeli-forces"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "PM warned Rosebank oil field could breach West Bank sanctions",
+     "sources": 2,
+     "score": 52,
+     "event_id": "b8dc19b51d5a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss",
+      "https://www.aljazeera.com/video/inside-story/2026/10/1/whats-driving-israeli-settler-violence-in-the-occupied-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'",
+     "sources": 1,
+     "score": 43,
+     "event_id": "60578003d7bf",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/remarkable-fossil-of-a-feathered-winged-dinosaur-further-hints-that-flight-evolved-multiple-times-among-the-terrible-lizards-180989612/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Germany news: UK's Burnham visits Berlin for talks with Merz",
+     "sources": 2,
+     "score": 44,
+     "event_id": "af8dfe0c8014",
+     "links": [
+      "https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/8/uks-burnham-open-to-germany-joining-gcap-fighter-jet-programme?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "UK's Burnham accuses Russia of meddling in Brexit vote",
+     "sources": 2,
+     "score": 45,
+     "event_id": "ff5d851a98ea",
+     "links": [
+      "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Do any of these Israeli candidates support a Palestinian state?",
+     "sources": 1,
+     "score": 41,
+     "event_id": "e79ac17083df",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "headline": "Repairing Brexit economic damage should be Burnham’s top priority, business chief says",
+     "sources": 2,
+     "score": 40,
+     "event_id": "8e63af13a49f",
+     "links": [
+      "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship",
+      "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship"
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+     "sources": 4,
+     "score": 71,
+     "event_id": "363fbc099b39",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
+      "https://www.france24.com/en/middle-east/20261016-us-journalist-injured-during-israeli-settler-attack-on-west-bank-olive-harvest"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank",
+     "sources": 2,
+     "score": 50,
+     "event_id": "27646b39f22c",
+     "links": [
+      "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",
+      "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",
+      "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Israeli settlers attack European diplomats in West Bank",
+     "sources": 2,
+     "score": 45,
+     "event_id": "9edf563710cc",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
+      "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
+      "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+     "sources": 2,
+     "score": 48,
+     "event_id": "2230e238fea2",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
+      "https://www.investing.com/news/economy-news/us-urges-israel-to-curb-settler-violence-in-west-bank-rubio-says-4955694"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "West Bank: Israeli settlers attack EU diplomats, French mayor",
+     "sources": 2,
+     "score": 50,
+     "event_id": "a2bc87581ff4",
+     "links": [
+      "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’",
+     "sources": 3,
+     "score": 62,
+     "event_id": "483726046d99",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
+      "https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests",
+     "sources": 1,
+     "score": 41,
+     "event_id": "a73367a27080",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/earths-true-north-and-south-poles-have-wandered-four-times-over-the-past-320-million-years-study-suggests-180989698/"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
+     "sources": 3,
+     "score": 58,
+     "event_id": "f24f3fe6d6db",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
+      "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+      "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests",
+     "sources": 1,
+     "score": 40,
+     "event_id": "fe8fb25e8f04",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/african-elephants-shape-the-savanna-ecosystem-and-continue-doing-so-long-after-theyve-died-study-suggests-180989718/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Israel preparing 'full closure' of West Bank, Netanyahu says",
+     "sources": 3,
+     "score": 54,
+     "event_id": "47a92798df2a",
+     "links": [
+      "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+     "sources": 3,
+     "score": 60,
+     "event_id": "7718246191f0",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+      "https://www.france24.com/en/video/20261023-netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
+     "sources": 3,
+     "score": 56,
+     "event_id": "a77c5e49ae6b",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+      "https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/war-in-the-middle-east-israel-launches-west-bank-operations"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
+     "sources": 2,
+     "score": 57,
+     "event_id": "bb03f4343932",
+     "links": [
+      "https://www.france24.com/en/tv-shows/spotlight/20261023-netanyahu-weighs-west-bank-operation-ahead-of-elections-politically-it-will-not-help-anybody",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261023-how-israeli-settlers-wearing-keffiyehs-are-attacking-west-bank-olive-groves"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
+     "sources": 2,
+     "score": 42,
+     "event_id": "37a7894265f0",
+     "links": [
+      "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+      "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eca0fc692bc0",
+   "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+   "section": "world",
+   "entities": [
+    "thames",
+    "burnham",
+    "andy",
+    "france's",
+    "guardian",
+    "pmqs",
+    "u-turn",
+    "stinky",
+    "tory",
+    "john",
+    "crace",
+    "editorial",
+    "sanchez",
+    "macron",
+    "healey",
+    "water",
+    "labour",
+    "wednesday",
+    "london",
+    "britain",
+    "starmer",
+    "spain's",
+    "hospitality",
+    "heathrow"
+   ],
+   "event_ids": [
+    "eca0fc692bc0",
+    "79767a596611",
+    "ccb2c5bc9e36",
+    "ebc944549304",
+    "02df7fa6f0a5",
+    "972b0fe1af77",
+    "cc774da80403",
+    "a6788519913e",
+    "55177db2a4ed",
+    "86fc18c35363",
+    "7393363c7b06",
+    "af201c60dedd",
+    "5d1a9e0758ac",
+    "8c89e651a54b",
+    "04d1070ede74",
+    "23dc0dc71791",
+    "62a29032f7f4",
+    "aa853b613107",
+    "9cf78de3fccf",
+    "bf6279ad02f6"
+   ],
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-10-24",
+   "timeline": [
+    {
+     "date": "2026-09-03",
+     "headline": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+     "sources": 3,
+     "score": 58,
+     "event_id": "eca0fc692bc0",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
+      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260903-tapestry-diplomacy-uk-france-ties-in-focus-as-macron-and-burnham-hold-first-talks"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham | John Crace",
+     "sources": 2,
+     "score": 49,
+     "event_id": "79767a596611",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham",
+      "https://www.france24.com/en/replay-uk-pm-andy-burnham-faces-lawmakers-for-first-time-since-taking-office"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "UK politics: Andy Burnham pressed on borrowing costs and spending at first PMQs – as it happened",
+     "sources": 2,
+     "score": 48,
+     "event_id": "ccb2c5bc9e36",
+     "links": [
+      "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
+      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Andy Burnham blames Tory legacy for leaving UK economy vulnerable",
+     "sources": 2,
+     "score": 44,
+     "event_id": "ebc944549304",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-blames-tory-legacy-uk-economy-vulnerable",
+      "https://www.theguardian.com/politics/video/2026/sep/02/andy-burnham-clashes-with-kemi-badenoch-at-his-first-pmqs-video"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
+     "sources": 1,
+     "score": 41,
+     "event_id": "02df7fa6f0a5",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
+      "https://www.theguardian.com/politics/video/2026/sep/01/andy-burnham-pays-tribute-commons-keir-starmer-stepping-down-mp-video"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Hospitality industry urges Andy Burnham to lay out VAT cut plans",
+     "sources": 2,
+     "score": 46,
+     "event_id": "972b0fe1af77",
+     "links": [
+      "https://www.theguardian.com/business/2026/sep/14/hospitality-industry-andy-burnham-vat-reduction",
+      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
+      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Andy Burnham urged to set dementia waiting-time target",
+     "sources": 2,
+     "score": 46,
+     "event_id": "cc774da80403",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/commentisfree/2026/sep/17/andy-burnham-climate-crisis-funding-peoples-power-projects"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Andy Burnham refuses to back third runway at Heathrow",
+     "sources": 4,
+     "score": 70,
+     "event_id": "a6788519913e",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "The Guardian view on Thames Water: Andy Burnham should nationalise this failed monopoly | Editorial",
+     "sources": 1,
+     "score": 47,
+     "event_id": "55177db2a4ed",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-thames-water-andy-burnham-should-nationalise-this-failed-monopoly",
+      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Wednesday briefing: ​Can Andy Burnham live up to the party’s faith in him?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "86fc18c35363",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/30/wednesday-briefing-can-andy-burnham-live-up-to-the-partys-faith-in-him",
+      "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-review-uk-relationship-with-eu-options"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "France's Macron, Spain's Sanchez welcome idea of UK rejoining EU after Burnham remarks",
+     "sources": 2,
+     "score": 43,
+     "event_id": "7393363c7b06",
+     "links": [
+      "https://www.dw.com/en/france-s-macron-spain-s-sanchez-welcome-idea-of-uk-rejoining-eu-after-burnham-remarks/a-79493469?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/sep/30/macron-welcome-back-burnham-suggestion-uk-could-rejoin-eu"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "‘He persuaded us’: Labour ministers moved by Andy Burnham’s emotional conference speech",
+     "sources": 3,
+     "score": 62,
+     "event_id": "af201c60dedd",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/30/labour-ministers-moved-persuaded-andy-burnham-emotional-conference-speech",
+      "https://www.theguardian.com/football/2026/sep/30/andy-burnham-manchester-city-premier-league",
+      "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Burnham vows to seek new ‘long-term’ relationship with EU in emotional Labour conference speech",
+     "sources": 2,
+     "score": 45,
+     "event_id": "5d1a9e0758ac",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
+      "https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Burnham’s emotional solo act had Labour in raptures – but his promises will take time to come good",
+     "sources": 2,
+     "score": 44,
+     "event_id": "8c89e651a54b",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/29/burnhams-emotional-solo-act-had-labour-in-raptures-but-his-promises-will-take-time-to-come-good",
+      "https://www.theguardian.com/politics/video/2026/sep/29/andy-burnham-father-roy-labour-conference-video"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Andy Burnham’s big bold leap - podcast",
+     "sources": 2,
+     "score": 55,
+     "event_id": "04d1070ede74",
+     "links": [
+      "https://www.theguardian.com/news/audio/2026/sep/30/andy-burnhams-big-bold-leap-podcast",
+      "https://www.theguardian.com/commentisfree/2026/sep/29/the-guardian-view-on-andy-burnham-grounds-to-hope-for-a-better-britain",
+      "https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
+     "sources": 2,
+     "score": 40,
+     "event_id": "23dc0dc71791",
+     "links": [
+      "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
+      "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Stinky business: south London bike shop hit by ‘unbearable’ stench from Thames Water sewer",
+     "sources": 2,
+     "score": 44,
+     "event_id": "62a29032f7f4",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill",
+      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Burnham urges officials to come up with more radical options for Thames Water",
+     "sources": 2,
+     "score": 40,
+     "event_id": "aa853b613107",
+     "links": [
+      "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
+      "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Thames Water creditors secure former Labour minister to drive rescue deal",
+     "sources": 2,
+     "score": 43,
+     "event_id": "9cf78de3fccf",
+     "links": [
+      "https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal",
+      "https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+     "sources": 2,
+     "score": 40,
+     "event_id": "bf6279ad02f6",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "117b4062144e",
+   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+   "section": "science",
+   "entities": [
+    "mars",
+    "splashdown",
+    "photo",
+    "return",
+    "know",
+    "briefing",
+    "humanity",
+    "nasa",
+    "space",
+    "conduct",
+    "missions",
+    "boosts",
+    "origin",
+    "data",
+    "contributions",
+    "partners",
+    "next-gen",
+    "services",
+    "sets",
+    "event",
+    "theft",
+    "arrival",
+    "lander",
+    "farmland",
+    "texas",
+    "flights",
+    "development",
+    "samples",
+    "don't",
+    "japan",
+    "low-altitude",
+    "testing",
+    "technologies",
+    "launched",
+    "readies",
+    "send",
+    "develops",
+    "mission",
+    "dish",
+    "remote"
+   ],
+   "event_ids": [
+    "117b4062144e",
+    "687e9adaf6fb",
+    "887fb7f3bbc2",
+    "730942a6039b",
+    "648eebb8b0ed",
+    "b795c1289008",
+    "b4bda24af3f5",
+    "a2c974f2ab73",
+    "af69ac084ec6",
+    "2dc282f1df7a",
+    "2d1ff4fb2acc",
+    "f33a490284d9",
+    "f57fd11d1f5b",
+    "b85bd3d3a0d8",
+    "dc7b54e8c00a",
+    "b9bfb014cb61",
+    "550aa79730b3",
+    "d5370f4ea3de",
+    "eb8ae8da944a",
+    "7e9b86a23e3d"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-10-24",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+     "sources": 2,
+     "score": 58,
+     "event_id": "117b4062144e",
+     "links": [
+      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "sources": 1,
+     "score": 46,
+     "event_id": "687e9adaf6fb",
+     "links": [
+      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+     "sources": 5,
+     "score": 81,
+     "event_id": "887fb7f3bbc2",
+     "links": [
+      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
+      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+     "sources": 1,
+     "score": 46,
+     "event_id": "730942a6039b",
+     "links": [
+      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
+     "sources": 2,
+     "score": 55,
+     "event_id": "648eebb8b0ed",
+     "links": [
+      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+     "sources": 1,
+     "score": 45,
+     "event_id": "b795c1289008",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b4bda24af3f5",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "NASA Adds New Science Investigations for Moon Base",
+     "sources": 1,
+     "score": 41,
+     "event_id": "a2c974f2ab73",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
+     "sources": 1,
+     "score": 44,
+     "event_id": "af69ac084ec6",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Artemis II Crew Moon Photo Annotations",
+     "sources": 3,
+     "score": 53,
+     "event_id": "2dc282f1df7a",
+     "links": [
+      "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
+      "https://www.nature.com/articles/d41586-026-03197-7",
+      "https://phys.org/news/2026-10-artemis-ii-crew-moon-photo.html"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+     "sources": 1,
+     "score": 42,
+     "event_id": "2d1ff4fb2acc",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+      "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+     "sources": 1,
+     "score": 43,
+     "event_id": "f33a490284d9",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
+      "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
+     "sources": 1,
+     "score": 46,
+     "event_id": "f57fd11d1f5b",
+     "links": [
+      "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
+      "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b85bd3d3a0d8",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+      "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+     "sources": 1,
+     "score": 44,
+     "event_id": "dc7b54e8c00a",
+     "links": [
+      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+     "sources": 2,
+     "score": 52,
+     "event_id": "b9bfb014cb61",
+     "links": [
+      "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+      "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+     "sources": 1,
+     "score": 45,
+     "event_id": "550aa79730b3",
+     "links": [
+      "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
+      "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Scientists Don't Know How Mars Acquired Its Two Moons. Japan Just Launched a Historic Space Mission That Will Fetch Samples to Find Out",
+     "sources": 2,
+     "score": 52,
+     "event_id": "d5370f4ea3de",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/scientists-dont-know-how-mars-acquired-its-two-moons-japan-just-launched-a-historic-space-mission-that-will-fetch-samples-to-find-out-180989713/",
+      "https://phys.org/news/2026-10-japan-world-mission-moon-mars.html"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+     "sources": 1,
+     "score": 45,
+     "event_id": "eb8ae8da944a",
+     "links": [
+      "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+      "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+     "sources": 1,
+     "score": 50,
+     "event_id": "7e9b86a23e3d",
+     "links": [
+      "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+      "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "e8a425cbff50",
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
@@ -865,803 +2241,6 @@
      "links": [
       "https://www.theguardian.com/football/2026/oct/24/a-leagues-showpiece-melbourne-derby",
       "https://www.theguardian.com/football/picture/2026/oct/20/david-squires-on-manchester-city-sailing-into-unknown-premier-league-waters"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "09443cca3ddd",
-   "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-   "section": "world",
-   "entities": [
-    "former",
-    "many",
-    "african",
-    "palestinians",
-    "long",
-    "north",
-    "continue",
-    "italy",
-    "community",
-    "past",
-    "wandered",
-    "million",
-    "elephants",
-    "netanyahu",
-    "bank",
-    "rajab",
-    "suggests",
-    "lander",
-    "israelis",
-    "died",
-    "israel",
-    "jenin",
-    "true",
-    "evolved",
-    "israeli",
-    "west",
-    "five",
-    "culture",
-    "doing",
-    "south",
-    "years",
-    "poles",
-    "smithsonian",
-    "lizards",
-    "germany",
-    "strove",
-    "uk's",
-    "politically",
-    "among",
-    "study"
-   ],
-   "event_ids": [
-    "09443cca3ddd",
-    "69fbd7c00f3b",
-    "c56a140b572c",
-    "727b036de961",
-    "d9fabac5169e",
-    "dd3e8e775a11",
-    "a6b6f34c8e21",
-    "bdaf2e87b992",
-    "f0db32b6db43",
-    "50063425df92",
-    "a0e824c0fefc",
-    "e28573af70a1",
-    "be74360785ae",
-    "5e2205225644",
-    "0f7415ce5b12",
-    "5a37c8f3f9af",
-    "f1f5dde9d5e4",
-    "4dbfa63e7365",
-    "ddc89ece41e7",
-    "a7f4b944d680",
-    "80ad369697ca",
-    "5bd816fda1dc",
-    "1452b76e2d1a",
-    "4e4cfa70881f",
-    "7e2a725de566",
-    "c9484210a14a",
-    "89282106da8b",
-    "4bf27b721bfa",
-    "db9255b11c8f",
-    "04275de624ee",
-    "1ed9a755881d",
-    "af2c3bcc90b1",
-    "832c384b6768",
-    "0a098c22936e",
-    "8f711338f49b",
-    "1214412330e2",
-    "9326ca279071",
-    "437c2493078e",
-    "38cd7f7bd76a",
-    "add4eeadf14c",
-    "00ad11519a0d",
-    "d662c152c195",
-    "094f1c8c1554",
-    "3844ef176c21",
-    "baa979ecc134",
-    "c9a5131a0cf2",
-    "68d7169b2304",
-    "08d575f7bcf4",
-    "22c528648138",
-    "f587e8523cf1",
-    "b8dc19b51d5a",
-    "60578003d7bf",
-    "af8dfe0c8014",
-    "ff5d851a98ea",
-    "e79ac17083df",
-    "8e63af13a49f",
-    "363fbc099b39",
-    "27646b39f22c",
-    "9edf563710cc",
-    "2230e238fea2",
-    "a2bc87581ff4",
-    "483726046d99",
-    "a73367a27080",
-    "f24f3fe6d6db",
-    "fe8fb25e8f04",
-    "47a92798df2a",
-    "7718246191f0",
-    "a77c5e49ae6b",
-    "bb03f4343932"
-   ],
-   "first_seen": "2026-08-13",
-   "last_seen": "2026-10-23",
-   "timeline": [
-    {
-     "date": "2026-08-19",
-     "headline": "Israel admits its soldiers fired at car in which Hind Rajab was killed",
-     "sources": 3,
-     "score": 61,
-     "event_id": "50063425df92",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/19/israel-admits-it-soldiers-fired-at-car-in-which-hind-rajab-was-killed",
-      "https://www.france24.com/en/video/20260819-israeli-military-probes-killings-of-hind-rajab-and-palestinian-paramedics",
-      "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-     "sources": 2,
-     "score": 45,
-     "event_id": "a0e824c0fefc",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-     "sources": 2,
-     "score": 46,
-     "event_id": "e28573af70a1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/middle-east/20260820-france-germany-uk-italy-slam-israel-illegal-e1-west-bank-settler-project"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-     "sources": 2,
-     "score": 50,
-     "event_id": "be74360785ae",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
-     "sources": 2,
-     "score": 54,
-     "event_id": "5e2205225644",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
-      "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
-      "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-23",
-     "headline": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
-     "sources": 2,
-     "score": 46,
-     "event_id": "0f7415ce5b12",
-     "links": [
-      "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
-      "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "US-led Gaza peace board warns Hamas over kites after Israeli threat",
-     "sources": 2,
-     "score": 43,
-     "event_id": "5a37c8f3f9af",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260825-us-gaza-peace-board-hamas-kites-israeli-threat",
-      "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-     "sources": 2,
-     "score": 44,
-     "event_id": "f1f5dde9d5e4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Why a Christian group is suing the Dutch government for West Bank trade ban",
-     "sources": 1,
-     "score": 40,
-     "event_id": "4dbfa63e7365",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-     "sources": 2,
-     "score": 43,
-     "event_id": "ddc89ece41e7",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260828-israel-army-carries-out-rare-west-bank-air-strike-killing-three-terrorists"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "BBC tracks one week of Israeli settler violence in occupied West Bank",
-     "sources": 3,
-     "score": 57,
-     "event_id": "a7f4b944d680",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260829-netanyahu-condemns-criminal-acts-of-violence-by-settlers-in-west-bank-villages"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Palestinian woman and NBC News team reportedly attacked in West Bank",
-     "sources": 2,
-     "score": 46,
-     "event_id": "80ad369697ca",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France",
-     "sources": 2,
-     "score": 52,
-     "event_id": "5bd816fda1dc",
-     "links": [
-      "https://www.france24.com/en/asia-pacific/20260830-week-in-pictures-devastating-floods-in-nepal-death-of-dolly-parton-and-a-tornado-in-france",
-      "https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Israeli fire kills three in Gaza City during reported raid, medics say",
-     "sources": 2,
-     "score": 49,
-     "event_id": "1452b76e2d1a",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Palestinian teens killed during settler attack on West Bank village, officials say",
-     "sources": 2,
-     "score": 48,
-     "event_id": "4e4cfa70881f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260903-israeli-attacks-in-west-bank-at-unprecedented-level-pni-leader-barghouti-says"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "‘Many of us in Israel live in a state of shock at the savagery’: veteran director Amos Gitai returns to Gaza",
-     "sources": 2,
-     "score": 47,
-     "event_id": "7e2a725de566",
-     "links": [
-      "https://www.theguardian.com/film/2026/sep/04/israel-director-amos-gitai-gaza-the-road-to-jericho-venice",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/4/jerusalem-daily-israels-plan-to-expel-gazas-population?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Israel's West Bank camp displacements could be crime against humanity, UN says",
-     "sources": 2,
-     "score": 44,
-     "event_id": "c9484210a14a",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says",
-      "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
-     "sources": 2,
-     "score": 46,
-     "event_id": "89282106da8b",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/4/villagers-vow-rebuild-despite-devastating-mass-demolition-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-05",
-     "headline": "US ambassador to Israel visits Palestinian town hit by West Bank settler violence",
-     "sources": 2,
-     "score": 48,
-     "event_id": "4bf27b721bfa",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260905-us-ambassador-to-israel-visits-palestinian-town-hit-by-west-bank-settler-violence",
-      "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-05",
-     "headline": "Inside the places that shaped Dolly Parton",
-     "sources": 2,
-     "score": 46,
-     "event_id": "db9255b11c8f",
-     "links": [
-      "https://www.bbc.com/travel/article/20260902-the-places-that-shaped-dolly-parton?ocid=global_travel_rss",
-      "https://www.cnbc.com/2026/09/05/dolly-parton-gloria-steinem-never-retired.html"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Israeli attacks on Gaza kill five Palestinians, including two children",
-     "sources": 2,
-     "score": 44,
-     "event_id": "04275de624ee",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/7/israeli-attacks-on-gaza-kill-five-palestinians-including-two-children?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260907-un-rapporteur-says-israeli-rubble-clearing-in-gaza-could-erase-atrocity-crimes-evidence"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Israel warns of 'full-scale war' if Palestinian Authority launches Oct. 7-style attack",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1ed9a755881d",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260907-israel-warns-of-full-scale-war-if-palestinian-authority-launches-oct-7-style-attack",
-      "https://www.aljazeera.com/features/2026/9/7/israel-deports-british-activist-who-protected-palestinian-children?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-     "sources": 7,
-     "score": 83,
-     "event_id": "af2c3bcc90b1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
-      "https://www.theguardian.com/politics/video/2026/sep/08/uk-foreign-secretary-sanctions-trade-israeli-west-bank-settlements-video"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-     "sources": 3,
-     "score": 69,
-     "event_id": "832c384b6768",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/commentisfree/picture/2026/sep/08/ella-baron-uk-ban-trade-with-israeli-settlements-cartoon"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "Where is Israel's proposed West Bank settlement the UK opposes?",
-     "sources": 2,
-     "score": 46,
-     "event_id": "0a098c22936e",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/tv-shows/a-propos/20260908-uk-france-canada-sanction-israeli-west-bank-goods"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "Wednesday briefing: Inside sweeping UK sanctions on trade with Israeli settlements",
-     "sources": 2,
-     "score": 44,
-     "event_id": "8f711338f49b",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/09/wednesday-briefing-inside-sweeping-uk-sanctions-on-trade-with-israeli-settlements",
-      "https://www.aljazeera.com/news/2026/9/9/as-the-uk-sanctions-israeli-settlements-is-the-two-state-solution-dead?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-     "sources": 2,
-     "score": 47,
-     "event_id": "1214412330e2",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/economy/2026/9/10/israeli-checkpoints-in-the-west-bank-are-choking-the-palestinian-economy?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Former West Ham keeper Miklosko dies aged 64",
-     "sources": 2,
-     "score": 40,
-     "event_id": "9326ca279071",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c77036d68k8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/14/ludek-miklosko-west-ham-qpr-goalkeeper-dies"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank",
-     "sources": 2,
-     "score": 44,
-     "event_id": "437c2493078e",
-     "links": [
-      "https://www.theguardian.com/world/ng-interactive/2026/sep/14/israel-palestinian-living-conditions-eliminated-west-bank-human-rights-report",
-      "https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "An Israeli settler and a Palestinian driver killed in West Bank shootings",
-     "sources": 2,
-     "score": 42,
-     "event_id": "38cd7f7bd76a",
-     "links": [
-      "https://www.france24.com/en/an-israeli-settler-and-a-palestinian-driver-killed-in-west-bank-shootings",
-      "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Israeli president pardons combat medic who shot dead wounded Palestinian attacker",
-     "sources": 2,
-     "score": 42,
-     "event_id": "add4eeadf14c",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/19/israel-president-pardon-elor-azaria-wounded-palestinian-attacker",
-      "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
-     "sources": 2,
-     "score": 49,
-     "event_id": "00ad11519a0d",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
-      "https://www.france24.com/en/france/20260920-macron-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting",
-      "https://www.france24.com/en/replay-macron-carney-hail-new-chapter-on-france-canada-ties-at-st-pierre-and-miquelon-meeting"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d662c152c195",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
-      "https://www.france24.com/en/video/20260921-macron-and-carney-hail-new-chapter-in-france-canada-ties-at-symbolic-archipelago-meeting"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Trump to meet Macron in New York before UN General Assembly",
-     "sources": 2,
-     "score": 43,
-     "event_id": "094f1c8c1554",
-     "links": [
-      "https://www.france24.com/en/americas/20260921-trump-to-meet-macron-in-new-york-before-un-general-assembly",
-      "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Burnham hails Greenland deal ahead of expected first Trump meeting",
-     "sources": 2,
-     "score": 46,
-     "event_id": "3844ef176c21",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/21/greenland-trump-denmark-deal-stocks-mining.html"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "The Founders of the 'New York Times' Pledged to Cover 'Every Subject of Public Importance.' 175 Years Later, the Paper Continues to Publish 'All the News That's Fit to Print'",
-     "sources": 1,
-     "score": 44,
-     "event_id": "baa979ecc134",
-     "links": [
-      "https://www.smithsonianmag.com/history/the-founders-of-the-new-york-times-pledged-to-cover-every-subject-of-public-importance-175-years-later-the-paper-continues-to-publish-all-the-news-thats-fit-to-print-180989512/"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "For Years, the Smithsonian Strove to Bring the African American History and Culture Museum to the National Mall. Now, It Celebrates a Decade as a Beacon of Understanding, Community and Resilience",
-     "sources": 1,
-     "score": 46,
-     "event_id": "c9a5131a0cf2",
-     "links": [
-      "https://www.smithsonianmag.com/smithsonian-institution/for-years-the-smithsonian-strove-to-bring-the-african-american-history-and-culture-museum-to-the-national-mall-now-it-celebrates-a-decade-as-a-beacon-of-understanding-community-and-resilience-180989535/"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "Israel strips Dutch diplomats of status in West Bank",
-     "sources": 2,
-     "score": 42,
-     "event_id": "68d7169b2304",
-     "links": [
-      "https://www.dw.com/en/israel-strips-dutch-diplomats-of-status-in-west-bank/a-79451271?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260927-israel-revokes-dutch-diplomats-credentials-settlement-sanctions"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
-     "sources": 1,
-     "score": 50,
-     "event_id": "08d575f7bcf4",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
-      "https://www.nasa.gov/news-release/nasa-celebrates-as-artemis-accords-surpasses-75-signatories/",
-      "https://www.nasa.gov/news-release/meet-nasas-artemis-ii-crew-during-houston-public-event/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Israeli settlers attack Jalud village in occupied West Bank, torch homes",
-     "sources": 1,
-     "score": 44,
-     "event_id": "22c528648138",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/29/israeli-settlers-attack-jalud-village-in-occupied-west-bank-torch-homes?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/9/29/israels-west-bank-road-closures-turn-routine-journeys-into-long-ordeals?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-     "sources": 2,
-     "score": 51,
-     "event_id": "f587e8523cf1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20260929-over-100-settlers-attack-occupied-west-bank-village-clash-with-israeli-forces"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "PM warned Rosebank oil field could breach West Bank sanctions",
-     "sources": 2,
-     "score": 52,
-     "event_id": "b8dc19b51d5a",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss",
-      "https://www.aljazeera.com/video/inside-story/2026/10/1/whats-driving-israeli-settler-violence-in-the-occupied-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'",
-     "sources": 1,
-     "score": 43,
-     "event_id": "60578003d7bf",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/remarkable-fossil-of-a-feathered-winged-dinosaur-further-hints-that-flight-evolved-multiple-times-among-the-terrible-lizards-180989612/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Germany news: UK's Burnham visits Berlin for talks with Merz",
-     "sources": 2,
-     "score": 44,
-     "event_id": "af8dfe0c8014",
-     "links": [
-      "https://www.dw.com/en/germany-news-uk-s-burnham-visits-berlin-for-talks-with-merz/live-79587637?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/8/uks-burnham-open-to-germany-joining-gcap-fighter-jet-programme?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "UK's Burnham accuses Russia of meddling in Brexit vote",
-     "sources": 2,
-     "score": 45,
-     "event_id": "ff5d851a98ea",
-     "links": [
-      "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/europe/20261011-uk-pm-burnham-warns-french-voters-of-russian-political-influence-on-back-of-brexit-vote"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Do any of these Israeli candidates support a Palestinian state?",
-     "sources": 1,
-     "score": 41,
-     "event_id": "e79ac17083df",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/10/14/israeli-air-strike-kills-palestinian-woman-in-gaza-city?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/14/girl-rescued-from-flaming-apartment-after-israeli-attack-on-gaza?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-16",
-     "headline": "Repairing Brexit economic damage should be Burnham’s top priority, business chief says",
-     "sources": 2,
-     "score": 40,
-     "event_id": "8e63af13a49f",
-     "links": [
-      "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship",
-      "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship"
-     ]
-    },
-    {
-     "date": "2026-10-16",
-     "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-     "sources": 4,
-     "score": 71,
-     "event_id": "363fbc099b39",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/16/israeli-settlers-attack-olive-farmers-west-bank-washington-post-journalist-heidi-levine",
-      "https://www.france24.com/en/middle-east/20261016-us-journalist-injured-during-israeli-settler-attack-on-west-bank-olive-harvest"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank",
-     "sources": 2,
-     "score": 50,
-     "event_id": "27646b39f22c",
-     "links": [
-      "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",
-      "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",
-      "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "Israeli settlers attack European diplomats in West Bank",
-     "sources": 2,
-     "score": 45,
-     "event_id": "9edf563710cc",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank",
-      "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
-      "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "Israeli settlers attack Palestinians in West Bank during olive harvest",
-     "sources": 2,
-     "score": 48,
-     "event_id": "2230e238fea2",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
-      "https://www.investing.com/news/economy-news/us-urges-israel-to-curb-settler-violence-in-west-bank-rubio-says-4955694"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "West Bank: Israeli settlers attack EU diplomats, French mayor",
-     "sources": 2,
-     "score": 50,
-     "event_id": "a2bc87581ff4",
-     "links": [
-      "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’",
-     "sources": 3,
-     "score": 62,
-     "event_id": "483726046d99",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/18/us-ambassador-israel-mike-huckabee-west-bank-settler-attack-photojournalist-heidi-levine",
-      "https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests",
-     "sources": 1,
-     "score": 41,
-     "event_id": "a73367a27080",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/earths-true-north-and-south-poles-have-wandered-four-times-over-the-past-320-million-years-study-suggests-180989698/"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
-     "sources": 3,
-     "score": 58,
-     "event_id": "f24f3fe6d6db",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
-      "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
-      "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests",
-     "sources": 1,
-     "score": 40,
-     "event_id": "fe8fb25e8f04",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/african-elephants-shape-the-savanna-ecosystem-and-continue-doing-so-long-after-theyve-died-study-suggests-180989718/"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Israel preparing 'full closure' of West Bank, Netanyahu says",
-     "sources": 3,
-     "score": 54,
-     "event_id": "47a92798df2a",
-     "links": [
-      "https://www.dw.com/en/israel-preparing-full-closure-of-west-bank-netanyahu-says/a-79739292?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20261023-netanyahu-orders-army-to-prepare-for-full-west-bank-closure-after-attack"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-     "sources": 3,
-     "score": 60,
-     "event_id": "7718246191f0",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
-      "https://www.france24.com/en/video/20261023-netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
-     "sources": 3,
-     "score": 56,
-     "event_id": "a77c5e49ae6b",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-      "https://www.dw.com/en/israel-orders-home-demolitions-after-soldiers-killed-in-west-bank/a-79739292?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/war-in-the-middle-east-israel-launches-west-bank-operations"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’",
-     "sources": 2,
-     "score": 57,
-     "event_id": "bb03f4343932",
-     "links": [
-      "https://www.france24.com/en/tv-shows/spotlight/20261023-netanyahu-weighs-west-bank-operation-ahead-of-elections-politically-it-will-not-help-anybody",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20261023-how-israeli-settlers-wearing-keffiyehs-are-attacking-west-bank-olive-groves"
      ]
     }
    ]
@@ -8870,559 +9449,6 @@
       "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/technology/20261021-meta-fined-25-billion-new-mexico-cambridge-analytica-scandal",
       "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "eca0fc692bc0",
-   "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
-   "section": "world",
-   "entities": [
-    "healey",
-    "andy",
-    "labour",
-    "spain's",
-    "hospitality",
-    "stinky",
-    "sanchez",
-    "crace",
-    "water",
-    "editorial",
-    "john",
-    "macron",
-    "heathrow",
-    "london",
-    "guardian",
-    "tory",
-    "u-turn",
-    "france's",
-    "starmer",
-    "burnham",
-    "wednesday",
-    "thames",
-    "pmqs"
-   ],
-   "event_ids": [
-    "eca0fc692bc0",
-    "79767a596611",
-    "ccb2c5bc9e36",
-    "ebc944549304",
-    "02df7fa6f0a5",
-    "972b0fe1af77",
-    "cc774da80403",
-    "a6788519913e",
-    "55177db2a4ed",
-    "86fc18c35363",
-    "7393363c7b06",
-    "af201c60dedd",
-    "5d1a9e0758ac",
-    "8c89e651a54b",
-    "04d1070ede74",
-    "23dc0dc71791",
-    "62a29032f7f4",
-    "aa853b613107",
-    "9cf78de3fccf"
-   ],
-   "first_seen": "2026-09-03",
-   "last_seen": "2026-10-20",
-   "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
-     "sources": 3,
-     "score": 58,
-     "event_id": "eca0fc692bc0",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
-      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260903-tapestry-diplomacy-uk-france-ties-in-focus-as-macron-and-burnham-hold-first-talks"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham | John Crace",
-     "sources": 2,
-     "score": 49,
-     "event_id": "79767a596611",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham",
-      "https://www.france24.com/en/replay-uk-pm-andy-burnham-faces-lawmakers-for-first-time-since-taking-office"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "UK politics: Andy Burnham pressed on borrowing costs and spending at first PMQs – as it happened",
-     "sources": 2,
-     "score": 48,
-     "event_id": "ccb2c5bc9e36",
-     "links": [
-      "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
-      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Andy Burnham blames Tory legacy for leaving UK economy vulnerable",
-     "sources": 2,
-     "score": 44,
-     "event_id": "ebc944549304",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-blames-tory-legacy-uk-economy-vulnerable",
-      "https://www.theguardian.com/politics/video/2026/sep/02/andy-burnham-clashes-with-kemi-badenoch-at-his-first-pmqs-video"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
-     "sources": 1,
-     "score": 41,
-     "event_id": "02df7fa6f0a5",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
-      "https://www.theguardian.com/politics/video/2026/sep/01/andy-burnham-pays-tribute-commons-keir-starmer-stepping-down-mp-video"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Hospitality industry urges Andy Burnham to lay out VAT cut plans",
-     "sources": 2,
-     "score": 46,
-     "event_id": "972b0fe1af77",
-     "links": [
-      "https://www.theguardian.com/business/2026/sep/14/hospitality-industry-andy-burnham-vat-reduction",
-      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
-      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Andy Burnham urged to set dementia waiting-time target",
-     "sources": 2,
-     "score": 46,
-     "event_id": "cc774da80403",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/commentisfree/2026/sep/17/andy-burnham-climate-crisis-funding-peoples-power-projects"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Andy Burnham refuses to back third runway at Heathrow",
-     "sources": 4,
-     "score": 70,
-     "event_id": "a6788519913e",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "The Guardian view on Thames Water: Andy Burnham should nationalise this failed monopoly | Editorial",
-     "sources": 1,
-     "score": 47,
-     "event_id": "55177db2a4ed",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-thames-water-andy-burnham-should-nationalise-this-failed-monopoly",
-      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Wednesday briefing: ​Can Andy Burnham live up to the party’s faith in him?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "86fc18c35363",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/30/wednesday-briefing-can-andy-burnham-live-up-to-the-partys-faith-in-him",
-      "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-review-uk-relationship-with-eu-options"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "France's Macron, Spain's Sanchez welcome idea of UK rejoining EU after Burnham remarks",
-     "sources": 2,
-     "score": 43,
-     "event_id": "7393363c7b06",
-     "links": [
-      "https://www.dw.com/en/france-s-macron-spain-s-sanchez-welcome-idea-of-uk-rejoining-eu-after-burnham-remarks/a-79493469?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/world/2026/sep/30/macron-welcome-back-burnham-suggestion-uk-could-rejoin-eu"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "‘He persuaded us’: Labour ministers moved by Andy Burnham’s emotional conference speech",
-     "sources": 3,
-     "score": 62,
-     "event_id": "af201c60dedd",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/30/labour-ministers-moved-persuaded-andy-burnham-emotional-conference-speech",
-      "https://www.theguardian.com/football/2026/sep/30/andy-burnham-manchester-city-premier-league",
-      "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Burnham vows to seek new ‘long-term’ relationship with EU in emotional Labour conference speech",
-     "sources": 2,
-     "score": 45,
-     "event_id": "5d1a9e0758ac",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
-      "https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Burnham’s emotional solo act had Labour in raptures – but his promises will take time to come good",
-     "sources": 2,
-     "score": 44,
-     "event_id": "8c89e651a54b",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/29/burnhams-emotional-solo-act-had-labour-in-raptures-but-his-promises-will-take-time-to-come-good",
-      "https://www.theguardian.com/politics/video/2026/sep/29/andy-burnham-father-roy-labour-conference-video"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Andy Burnham’s big bold leap - podcast",
-     "sources": 2,
-     "score": 55,
-     "event_id": "04d1070ede74",
-     "links": [
-      "https://www.theguardian.com/news/audio/2026/sep/30/andy-burnhams-big-bold-leap-podcast",
-      "https://www.theguardian.com/commentisfree/2026/sep/29/the-guardian-view-on-andy-burnham-grounds-to-hope-for-a-better-britain",
-      "https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
-     "sources": 2,
-     "score": 40,
-     "event_id": "23dc0dc71791",
-     "links": [
-      "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
-      "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "Stinky business: south London bike shop hit by ‘unbearable’ stench from Thames Water sewer",
-     "sources": 2,
-     "score": 44,
-     "event_id": "62a29032f7f4",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill",
-      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Burnham urges officials to come up with more radical options for Thames Water",
-     "sources": 2,
-     "score": 40,
-     "event_id": "aa853b613107",
-     "links": [
-      "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
-      "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Thames Water creditors secure former Labour minister to drive rescue deal",
-     "sources": 2,
-     "score": 43,
-     "event_id": "9cf78de3fccf",
-     "links": [
-      "https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal",
-      "https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "117b4062144e",
-   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-   "section": "science",
-   "entities": [
-    "nasa",
-    "origin",
-    "samples",
-    "event",
-    "arrival",
-    "send",
-    "remote",
-    "find",
-    "return",
-    "readies",
-    "texas",
-    "photo",
-    "conduct",
-    "three",
-    "boosts",
-    "theft",
-    "mars",
-    "technologies",
-    "japan",
-    "develops",
-    "president",
-    "launched",
-    "next-gen",
-    "farmland",
-    "space",
-    "splashdown",
-    "low-altitude",
-    "services",
-    "dish",
-    "know",
-    "sets",
-    "flights",
-    "testing",
-    "data",
-    "briefing",
-    "mission",
-    "moon",
-    "contributions",
-    "don't",
-    "humanity"
-   ],
-   "event_ids": [
-    "117b4062144e",
-    "687e9adaf6fb",
-    "887fb7f3bbc2",
-    "730942a6039b",
-    "648eebb8b0ed",
-    "b795c1289008",
-    "b4bda24af3f5",
-    "a2c974f2ab73",
-    "af69ac084ec6",
-    "2dc282f1df7a",
-    "2d1ff4fb2acc",
-    "f33a490284d9",
-    "f57fd11d1f5b",
-    "b85bd3d3a0d8",
-    "dc7b54e8c00a",
-    "b9bfb014cb61",
-    "550aa79730b3",
-    "d5370f4ea3de",
-    "eb8ae8da944a"
-   ],
-   "first_seen": "2026-08-29",
-   "last_seen": "2026-10-20",
-   "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-     "sources": 2,
-     "score": 58,
-     "event_id": "117b4062144e",
-     "links": [
-      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
-      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-     "sources": 1,
-     "score": 46,
-     "event_id": "687e9adaf6fb",
-     "links": [
-      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
-      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-     "sources": 5,
-     "score": 81,
-     "event_id": "887fb7f3bbc2",
-     "links": [
-      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
-      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
-      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-     "sources": 1,
-     "score": 46,
-     "event_id": "730942a6039b",
-     "links": [
-      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
-     "sources": 2,
-     "score": 55,
-     "event_id": "648eebb8b0ed",
-     "links": [
-      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-     "sources": 1,
-     "score": 45,
-     "event_id": "b795c1289008",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b4bda24af3f5",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
-      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "NASA Adds New Science Investigations for Moon Base",
-     "sources": 1,
-     "score": 41,
-     "event_id": "a2c974f2ab73",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
-      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
-     "sources": 1,
-     "score": 44,
-     "event_id": "af69ac084ec6",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Artemis II Crew Moon Photo Annotations",
-     "sources": 3,
-     "score": 53,
-     "event_id": "2dc282f1df7a",
-     "links": [
-      "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
-      "https://www.nature.com/articles/d41586-026-03197-7",
-      "https://phys.org/news/2026-10-artemis-ii-crew-moon-photo.html"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
-     "sources": 1,
-     "score": 42,
-     "event_id": "2d1ff4fb2acc",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
-      "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-     "sources": 1,
-     "score": 43,
-     "event_id": "f33a490284d9",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
-      "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
-     "sources": 1,
-     "score": 46,
-     "event_id": "f57fd11d1f5b",
-     "links": [
-      "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
-      "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b85bd3d3a0d8",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
-      "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-     "sources": 1,
-     "score": 44,
-     "event_id": "dc7b54e8c00a",
-     "links": [
-      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-     "sources": 2,
-     "score": 52,
-     "event_id": "b9bfb014cb61",
-     "links": [
-      "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-      "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-     "sources": 1,
-     "score": 45,
-     "event_id": "550aa79730b3",
-     "links": [
-      "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
-      "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Scientists Don't Know How Mars Acquired Its Two Moons. Japan Just Launched a Historic Space Mission That Will Fetch Samples to Find Out",
-     "sources": 2,
-     "score": 52,
-     "event_id": "d5370f4ea3de",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/scientists-dont-know-how-mars-acquired-its-two-moons-japan-just-launched-a-historic-space-mission-that-will-fetch-samples-to-find-out-180989713/",
-      "https://phys.org/news/2026-10-japan-world-mission-moon-mars.html"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-     "sources": 1,
-     "score": 45,
-     "event_id": "eb8ae8da944a",
-     "links": [
-      "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-      "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
      ]
     }
    ]
@@ -17723,5 +17749,5 @@
    ]
   }
  ],
- "updated": "2026-10-24T03:29:56+00:00"
+ "updated": "2026-10-24T06:37:21+00:00"
 }

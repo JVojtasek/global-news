@@ -6,6 +6,20 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **45**.
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
+### More troops to be sent to West Bank village besieged by Israeli settlers
+- rubrika `world` · sledováno 72 dní · 60 záznamů
+- časová osa:
+  - **2026-10-18** (2 zdrojů) West Bank: Israeli settlers attack EU diplomats, French mayor
+  - **2026-10-18** (3 zdrojů) US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
+  - **2026-10-19** (1 zdrojů) Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
+  - **2026-10-21** (3 zdrojů) Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
+  - **2026-10-21** (1 zdrojů) African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
+  - **2026-10-23** (3 zdrojů) Israel preparing 'full closure' of West Bank, Netanyahu says
+  - **2026-10-23** (3 zdrojů) Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
+  - **2026-10-23** (3 zdrojů) Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
+  - **2026-10-23** (2 zdrojů) Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
+  - **2026-10-24** (2 zdrojů) As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?
+
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 66 dní · 60 záznamů
 - časová osa:
@@ -19,20 +33,6 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-22** (2 zdrojů) Villa maintain perfect Champions League start with Viking victory
   - **2026-10-23** (1 zdrojů) Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
   - **2026-10-23** (1 zdrojů) A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
-
-### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 71 dní · 60 záznamů
-- časová osa:
-  - **2026-10-18** (2 zdrojů) Israeli settlers attack Palestinians in West Bank during olive harvest
-  - **2026-10-18** (2 zdrojů) West Bank: Israeli settlers attack EU diplomats, French mayor
-  - **2026-10-18** (3 zdrojů) US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
-  - **2026-10-19** (1 zdrojů) Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
-  - **2026-10-21** (3 zdrojů) Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
-  - **2026-10-21** (1 zdrojů) African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
-  - **2026-10-23** (3 zdrojů) Israel preparing 'full closure' of West Bank, Netanyahu says
-  - **2026-10-23** (3 zdrojů) Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
-  - **2026-10-23** (3 zdrojů) Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
-  - **2026-10-23** (2 zdrojů) Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 74 dní · 60 záznamů

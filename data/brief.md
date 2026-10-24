@@ -128,7 +128,36 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
+### 1. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
+- id: `09443cca3ddd`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
+rubrika: world · sledováno od 2026-08-13 · záznamů: 60
+  2026-10-01  (2 zdrojů, síla 52)  PM warned Rosebank oil field could breach West Bank sanctions
+  2026-10-05  (1 zdrojů, síla 43)  Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
+  2026-10-08  (2 zdrojů, síla 44)  Germany news: UK's Burnham visits Berlin for talks with Merz
+  2026-10-12  (2 zdrojů, síla 45)  UK's Burnham accuses Russia of meddling in Brexit vote
+  2026-10-14  (1 zdrojů, síla 41)  Do any of these Israeli candidates support a Palestinian state?
+  2026-10-16  (2 zdrojů, síla 40)  Repairing Brexit economic damage should be Burnham’s top priority, business chief says
+  2026-10-16  (4 zdrojů, síla 71)  Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
+  2026-10-17  (2 zdrojů, síla 50)  🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
+  2026-10-17  (2 zdrojů, síla 45)  Israeli settlers attack European diplomats in West Bank
+  2026-10-18  (2 zdrojů, síla 48)  Israeli settlers attack Palestinians in West Bank during olive harvest
+  2026-10-18  (2 zdrojů, síla 50)  West Bank: Israeli settlers attack EU diplomats, French mayor
+  2026-10-18  (3 zdrojů, síla 62)  US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
+  2026-10-19  (1 zdrojů, síla 41)  Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
+  2026-10-21  (3 zdrojů, síla 58)  Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
+  2026-10-21  (1 zdrojů, síla 40)  African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
+  2026-10-23  (3 zdrojů, síla 54)  Israel preparing 'full closure' of West Bank, Netanyahu says
+  2026-10-23  (3 zdrojů, síla 60)  Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
+  2026-10-23  (3 zdrojů, síla 56)  Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
+  2026-10-23  (2 zdrojů, síla 57)  Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
+  2026-10-24  (2 zdrojů, síla 42)  As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?
+```
+
+### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
 - id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -155,35 +184,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory
   2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
   2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
-```
-
-### 2. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
-- id: `09443cca3ddd`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
-rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-09-29  (2 zdrojů, síla 51)  Israeli settlers attack West Bank village and block Palestinian family's return home
-  2026-10-01  (2 zdrojů, síla 52)  PM warned Rosebank oil field could breach West Bank sanctions
-  2026-10-05  (1 zdrojů, síla 43)  Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
-  2026-10-08  (2 zdrojů, síla 44)  Germany news: UK's Burnham visits Berlin for talks with Merz
-  2026-10-12  (2 zdrojů, síla 45)  UK's Burnham accuses Russia of meddling in Brexit vote
-  2026-10-14  (1 zdrojů, síla 41)  Do any of these Israeli candidates support a Palestinian state?
-  2026-10-16  (2 zdrojů, síla 40)  Repairing Brexit economic damage should be Burnham’s top priority, business chief says
-  2026-10-16  (4 zdrojů, síla 71)  Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
-  2026-10-17  (2 zdrojů, síla 50)  🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
-  2026-10-17  (2 zdrojů, síla 45)  Israeli settlers attack European diplomats in West Bank
-  2026-10-18  (2 zdrojů, síla 48)  Israeli settlers attack Palestinians in West Bank during olive harvest
-  2026-10-18  (2 zdrojů, síla 50)  West Bank: Israeli settlers attack EU diplomats, French mayor
-  2026-10-18  (3 zdrojů, síla 62)  US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
-  2026-10-19  (1 zdrojů, síla 41)  Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
-  2026-10-21  (3 zdrojů, síla 58)  Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
-  2026-10-21  (1 zdrojů, síla 40)  African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
-  2026-10-23  (3 zdrojů, síla 54)  Israel preparing 'full closure' of West Bank, Netanyahu says
-  2026-10-23  (3 zdrojů, síla 60)  Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
-  2026-10-23  (3 zdrojů, síla 56)  Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
-  2026-10-23  (2 zdrojů, síla 57)  Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
 ```
 
 ---
