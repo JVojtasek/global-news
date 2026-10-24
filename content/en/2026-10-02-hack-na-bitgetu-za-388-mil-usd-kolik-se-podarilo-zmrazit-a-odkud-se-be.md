@@ -12,6 +12,10 @@ date: '2026-10-02'
 status: published
 confidence: 0
 image_query: 'server room security lock'
+impact:
+  areas: [money, safety]
+  line: "If you keep crypto on an exchange, this is a reminder that stolen funds are rarely recovered: Bitget froze about 0.3% of what was taken. Whether clients are covered depends on the platform's protection fund and reserves."
+  todo: "Check who holds the keys to your crypto, how the exchange segregates client assets, and what its protection fund covers and how it is financed."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hack-na-bitgetu-za-388-mil-usd-kolik-se-podarilo-zmrazit-a-o-analyza-378865

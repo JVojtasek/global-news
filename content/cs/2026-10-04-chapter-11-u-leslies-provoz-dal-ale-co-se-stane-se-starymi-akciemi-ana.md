@@ -13,6 +13,10 @@ date: '2026-10-04'
 status: published
 confidence: 0
 image_query: 'Chapter 11 u Leslie’s: provoz'
+impact:
+  areas: [money]
+  line: "Zákazníkům v USA může ubýt poboček Leslie’s a cesta pro bazénovou chemii se prodlouží, značka ale funguje dál. Skutečné riziko nesou držitelé starých akcií: při reorganizaci stojí ve frontě poslední."
+  todo: "Když firma, jejíž akcie vlastníte, požádá o Chapter 11, zjistěte z reorganizačního plánu, kdo dostane nové akcie a kde v pořadí splácení stojí DIP financování."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/chapter-11-u-leslie-s-provoz-dal-ale-co-se-stane-se-starymi--analyza-380000

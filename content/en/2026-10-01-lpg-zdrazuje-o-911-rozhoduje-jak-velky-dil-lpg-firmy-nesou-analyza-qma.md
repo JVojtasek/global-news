@@ -12,6 +12,10 @@ date: '2026-10-01'
 status: published
 confidence: 0
 image_query: 'LPG gas tanker ship'
+impact:
+  areas: [money]
+  line: "Aramco's 9–11% rise in official LPG prices for October can reach households that cook, heat or drive on LPG, though distributors often pass prices on with a lag. Further along, it can nudge transport, chemicals and some goods."
+  todo: "If you use LPG at home or in a car, watch your supplier's next price list and ask whether your contract price is fixed or follows the market."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/lpg-zdrazuje-o-9-11-rozhoduje-jak-velky-dil-lpg-firmy-nesou-analyza-378241

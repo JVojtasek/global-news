@@ -13,6 +13,10 @@ date: '2026-10-02'
 status: published
 confidence: 0
 image_query: Hack na Bitgetu za 388
+impact:
+  areas: [money, safety]
+  line: "Kdo drží kryptoměny na burze, má připomínku, že ukradené peníze se vracejí zřídka: Bitget zmrazil zhruba 0,3 % odcizené částky. Jestli jsou klienti krytí, záleží na ochranném fondu a rezervách platformy."
+  todo: "Ověřte si, kdo drží klíče k vašim kryptoměnám, jak burza odděluje majetek klientů a co pokrývá její ochranný fond a z čeho je financovaný."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hack-na-bitgetu-za-388-mil-usd-kolik-se-podarilo-zmrazit-a-o-analyza-378865

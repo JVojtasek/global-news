@@ -13,6 +13,10 @@ date: '2026-10-04'
 status: published
 confidence: 0
 image_query: 'stock market trading screen'
+impact:
+  areas: [money]
+  line: "Most readers' daily costs don't change; this does not mean cheaper living right away. What moves is asset prices, including pensions held in investment portfolios, as markets bet on less pressure on interest rates."
+  todo: "With the next jobs report, look past the headline: revisions to past months, wage growth and hours worked show whether it is cooling or something breaking."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/slabsi-pracovni-data-a-nasdaq-kdy-trh-vidi-mensi-tlak-na-mzd-analyza-379996

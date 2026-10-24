@@ -13,6 +13,10 @@ date: '2026-10-03'
 status: published
 confidence: 0
 image_query: 'Trump a zákaz vývozu nafty:'
+impact:
+  areas: [money]
+  line: "U pumpy se přes noc nic nemění. Nafta se ale propisuje do dopravy, rozvozu a cen zboží v regálech, takže to, jak USA naloží s vývozem a jak G7 uvolní rezervy, se může později projevit v nákladech na přepravu."
+  todo: "Zda napětí u nafty opravdu povoluje, poznáte ze zásob destilátů podle EIA vůči pětiletému sezonnímu rozpětí a z crack spreadu nafty, ne z politických titulků."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/trump-a-zakaz-vyvozu-nafty-proc-rozhoduji-zasoby-a-crack-spr-analyza-379588

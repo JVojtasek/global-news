@@ -13,6 +13,10 @@ date: '2026-10-03'
 status: published
 confidence: 0
 image_query: 'diesel fuel tanker truck'
+impact:
+  areas: [money]
+  line: "Nothing changes at the pump overnight. But diesel feeds into transport, deliveries and shelf prices, so how the US handles exports and how the G7 releases reserves can later show up in the cost of moving goods."
+  todo: "To judge whether diesel tension is easing, watch EIA distillate stocks against the five-year seasonal range and the diesel crack spread, not political headlines."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/trump-a-zakaz-vyvozu-nafty-proc-rozhoduji-zasoby-a-crack-spr-analyza-379588

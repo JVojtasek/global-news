@@ -13,6 +13,10 @@ date: '2026-10-01'
 status: published
 confidence: 0
 image_query: 'LPG zdražuje o 9–11 %:'
+impact:
+  areas: [money]
+  line: "Zdražení oficiálních cen LPG od Aramca o 9–11 % na říjen může dolehnout na domácnosti, které LPG používají k vaření, topení nebo jízdě, distributoři ale ceny často přenášejí se zpožděním. Dál může přitlačit dopravu, chemii a část zboží."
+  todo: "Pokud LPG používáte doma nebo v autě, sledujte příští ceník dodavatele a zeptejte se, zda je cena ve smlouvě pevná, nebo se řídí trhem."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/lpg-zdrazuje-o-9-11-rozhoduje-jak-velky-dil-lpg-firmy-nesou-analyza-378241

@@ -13,6 +13,10 @@ date: '2026-10-04'
 status: published
 confidence: 0
 image_query: 'swimming pool supplies store'
+impact:
+  areas: [money]
+  line: "US shoppers may see fewer Leslie’s branches and a longer trip for pool chemicals, but the brand keeps operating. The real risk sits with holders of the old shares: in a reorganisation they stand last in line."
+  todo: "If a company you own shares in files for Chapter 11, read who gets the new shares under the reorganisation plan and where DIP financing ranks in repayment."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/chapter-11-u-leslie-s-provoz-dal-ale-co-se-stane-se-starymi--analyza-380000

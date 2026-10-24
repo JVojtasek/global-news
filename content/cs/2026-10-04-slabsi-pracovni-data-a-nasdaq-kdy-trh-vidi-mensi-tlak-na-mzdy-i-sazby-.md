@@ -13,6 +13,10 @@ date: '2026-10-04'
 status: published
 confidence: 0
 image_query: 'Slabší pracovní data a Nasdaq:'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se každodenní náklady nemění; levnější život to hned neznamená. Hýbou se hlavně ceny aktiv včetně penzí uložených v investičních portfoliích, protože trh sází na menší tlak na úrokové sazby."
+  todo: "U příští zprávy z trhu práce se nedívejte jen na titulek: revize minulých měsíců, růst mezd a odpracované hodiny ukážou, jestli jde o ochlazení, nebo o zlom."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/slabsi-pracovni-data-a-nasdaq-kdy-trh-vidi-mensi-tlak-na-mzd-analyza-379996
