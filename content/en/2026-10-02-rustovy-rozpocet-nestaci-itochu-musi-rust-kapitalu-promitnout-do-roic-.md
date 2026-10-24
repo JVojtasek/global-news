@@ -12,6 +12,10 @@ date: '2026-10-02'
 status: published
 confidence: 0
 image_query: 'Tokyo business district skyline'
+impact:
+  areas: [money]
+  line: "Most readers' daily lives are not affected; what matters is whether Itochu's ¥1.5 trillion growth budget, over a quarter of it spent in Q1, earns more than it costs. Itochu's shareholders and bondholders are the ones directly concerned."
+  todo: "If you hold Itochu directly or through a fund, watch the company's reported ROIC, cash flow and debt in its next results, not just revenue."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rustovy-rozpocet-nestaci-itochu-musi-rust-kapitalu-promitnou-analyza-379020

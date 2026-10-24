@@ -13,6 +13,10 @@ date: '2026-10-02'
 status: published
 confidence: 0
 image_query: 'Multifamily REITy: kdy diskont k'
+impact:
+  areas: [money]
+  line: "Většiny čtenářů se to v běžném životě netýká. Nájemníkům tam, kde se dokončuje hodně nových bytů, článek prozatím slibuje ústupky pronajímatelů a pomalejší růst nájmů; pokud velké REITy později skoupí slabší majitele, vyjednávací síla se může vrátit pronajímatelům."
+  todo: "Pokud bydlíte v nájmu, porovnejte nabídku na prodloužení smlouvy s aktuálními inzeráty v okolí a zeptejte se na ústupky, třeba měsíce zdarma; máte-li realitní fond, podívejte se, co drží."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/multifamily-reity-kdy-diskont-k-nav-skutecne-odrazi-vyssi-im-analyza-378868

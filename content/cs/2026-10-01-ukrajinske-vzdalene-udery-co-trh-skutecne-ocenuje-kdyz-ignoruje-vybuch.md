@@ -13,6 +13,10 @@ date: '2026-10-01'
 status: published
 confidence: 0
 image_query: 'Ukrajinské vzdálené údery: co trh'
+impact:
+  areas: [money]
+  line: "Většiny čtenářů se to v běžném životě zatím netýká; Ukrajina schválila plán dalších úderů na vzdálené cíle, zpráva ale neuvádí cíle ani termíny. Pokud údery zasáhnou energetiku nebo dopravu, i lidé daleko odtud to mohou pocítit v cenách paliv, energií a letenek."
+  todo: "Sledujte, zda ceny ropy, evropského plynu a pojištění lodní dopravy zůstanou výš několik obchodních dní a zda další zprávy potvrdí zásahy energetické infrastruktury."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ukrajinske-vzdalene-udery-co-trh-skutecne-ocenuje-kdyz-ignor-analyza-378215

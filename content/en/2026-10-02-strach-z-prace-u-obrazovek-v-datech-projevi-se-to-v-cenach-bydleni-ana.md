@@ -13,6 +13,10 @@ date: '2026-10-02'
 status: published
 confidence: 0
 image_query: 'office worker laptop suburban houses'
+impact:
+  areas: [money]
+  line: "Most readers' daily lives are not affected; what matters is whether fear for office jobs, raised by an Egan-Jones AI report, shows up in hard data. Home buyers and sellers in tech-heavy US cities would feel it first."
+  todo: "If you plan to buy or sell a home, watch local listings, price cuts and days on market in your city rather than viral reports."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/strach-z-prace-u-obrazovek-v-datech-projevi-se-to-v-cenach-b-analyza-379026

@@ -13,6 +13,10 @@ date: '2026-10-02'
 status: published
 confidence: 0
 image_query: Strach z práce u obrazovek
+impact:
+  areas: [money]
+  line: "Většiny čtenářů se to v běžném životě netýká; podstatné je, zda se strach o kancelářskou práci, který vyvolala AI zpráva Egan-Jones, projeví v tvrdých datech. Jako první by to pocítili kupující a prodávající v amerických městech s velkým podílem technologických profesí."
+  todo: "Pokud chystáte koupi nebo prodej bydlení, sledujte ve svém městě počet nabídek, slevy z cen a dobu prodeje, ne virální zprávy."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/strach-z-prace-u-obrazovek-v-datech-projevi-se-to-v-cenach-b-analyza-379026

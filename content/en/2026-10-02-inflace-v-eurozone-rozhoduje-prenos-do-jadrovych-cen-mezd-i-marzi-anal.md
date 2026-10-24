@@ -12,6 +12,10 @@ date: '2026-10-02'
 status: published
 confidence: 0
 image_query: 'euro coins household energy bill'
+impact:
+  areas: [money]
+  line: "Consumer prices in the eurozone rose 3.8% year on year in September, up from 3.2% in August, driven mainly by energy. Households in euro countries feel it in heating and fuel bills, leaving less for other spending."
+  todo: "Watch next month's eurozone flash inflation figure and the core rate excluding energy and food, published by Eurostat; if your energy tariff is variable, check your supplier's next price change."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/inflace-v-eurozone-rozhoduje-prenos-do-jadrovych-cen-mezd-i--analyza-379025

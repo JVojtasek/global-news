@@ -12,6 +12,10 @@ date: '2026-10-01'
 status: published
 confidence: 0
 image_query: 'oil tanker at sea'
+impact:
+  areas: [money]
+  line: "Most readers' daily lives are not affected yet; Ukraine has approved a plan for more long-range strikes, but the report names no targets or timing. If strikes hit energy or transport, people far away could feel it in fuel, energy and air fares."
+  todo: "Watch whether oil, European gas prices and shipping insurance stay higher over several trading days, and whether follow-up reports confirm hits on energy infrastructure."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ukrajinske-vzdalene-udery-co-trh-skutecne-ocenuje-kdyz-ignor-analyza-378215

@@ -12,6 +12,10 @@ date: '2026-10-02'
 status: published
 confidence: 0
 image_query: 'modern apartment building complex'
+impact:
+  areas: [money]
+  line: "Most readers' daily lives are not affected. For tenants where many new apartments are being finished, the article expects landlord concessions and slower rent growth for now; if big REITs later buy out weaker owners, bargaining power may swing back."
+  todo: "If you rent, compare your renewal offer with current listings nearby and ask about concessions such as free months; if you hold a property fund, check its holdings."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/multifamily-reity-kdy-diskont-k-nav-skutecne-odrazi-vyssi-im-analyza-378868

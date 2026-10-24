@@ -13,6 +13,10 @@ date: '2026-10-02'
 status: published
 confidence: 0
 image_query: 'Inflace v eurozóně: rozhoduje přenos'
+impact:
+  areas: [money]
+  line: "Spotřebitelské ceny v eurozóně v září meziročně stouply o 3,8 % po 3,2 % v srpnu, hlavně kvůli energiím. Domácnosti v zemích eura to cítí na účtech za topení a pohonné hmoty a na ostatní útraty jim zbývá méně."
+  todo: "Sledujte příští rychlý odhad inflace v eurozóně a jádrovou inflaci bez energií a potravin, které zveřejňuje Eurostat; máte-li proměnný tarif za energie, ověřte příští změnu ceny u dodavatele."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/inflace-v-eurozone-rozhoduje-prenos-do-jadrovych-cen-mezd-i--analyza-379025

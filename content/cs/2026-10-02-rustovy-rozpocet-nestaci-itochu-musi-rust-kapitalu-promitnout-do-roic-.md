@@ -13,6 +13,10 @@ date: '2026-10-02'
 status: published
 confidence: 0
 image_query: 'Růstový rozpočet nestačí: Itochu musí'
+impact:
+  areas: [money]
+  line: "Většiny čtenářů se to v běžném životě netýká; podstatné je, zda růstový rozpočet Itochu ve výši 1,5 bilionu jenů, z něhož firma přes čtvrtinu utratila už v prvním čtvrtletí, vydělá víc, než stojí. Přímo se to týká akcionářů a věřitelů Itochu."
+  todo: "Pokud Itochu držíte přímo nebo přes fond, sledujte v příštích výsledcích firmy ROIC, peněžní tok a dluh, ne jen tržby."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rustovy-rozpocet-nestaci-itochu-musi-rust-kapitalu-promitnou-analyza-379020
