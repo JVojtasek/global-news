@@ -155,7 +155,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-15  (3 zdrojů, síla 53)  Football regulator says he would quit over Man City political interference
   2026-10-16  (2 zdrojů, síla 43)  Do Manchester City have any grounds to win their appeal?
   2026-10-17  (2 zdrojů, síla 42)  Newcastle v Aston Villa: Premier League – live
   2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle
@@ -175,6 +174,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
   2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
   2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
+  2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live
 ```
 
 ---

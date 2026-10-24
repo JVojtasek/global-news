@@ -802,46 +802,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "football",
-    "forest",
-    "viking",
-    "european",
-    "india",
-    "jonathan",
-    "a-leagues",
-    "martinez",
-    "aston",
-    "greenwood",
-    "manchester",
-    "phil",
-    "glasner",
-    "uk's",
-    "isak",
-    "barcelona's",
-    "gakpo",
-    "beckett",
-    "premier",
-    "carrick",
-    "united",
-    "real",
-    "champions",
     "tuchel",
-    "manzambi",
     "howe",
-    "league",
-    "women",
+    "barcelona's",
+    "aston",
     "city",
-    "madrid",
-    "burnham",
+    "melbourne",
+    "premier",
     "wilson",
-    "ronaldo",
-    "wilcox",
+    "champions",
+    "league",
+    "india",
+    "glasner",
+    "manzambi",
+    "forest",
+    "villa",
     "villarreal",
-    "leeds",
-    "guardiola",
+    "manchester",
+    "beckett",
+    "carrick",
+    "real",
     "troy's",
-    "brighton",
-    "melbourne"
+    "a-leagues",
+    "women",
+    "burnham",
+    "greenwood",
+    "isak",
+    "jonathan",
+    "ronaldo",
+    "leeds",
+    "gakpo",
+    "uk's",
+    "phil",
+    "wilcox",
+    "united",
+    "guardiola",
+    "martinez",
+    "madrid",
+    "football",
+    "european",
+    "brighton"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -973,22 +973,12 @@
     "ac201f5941cf",
     "f2893b4809e8",
     "3f159b2422bc",
-    "b83db30c733d"
+    "b83db30c733d",
+    "dd4dd32a7e9a"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-10-24",
    "timeline": [
-    {
-     "date": "2026-09-28",
-     "headline": "Man City CEO defiant over Premier League charges",
-     "sources": 2,
-     "score": 48,
-     "event_id": "4deb38f1b39b",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ckz7zxzdwl7lo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/28/manchester-city-punishment-premier-league-charges"
-     ]
-    },
     {
      "date": "2026-09-29",
      "headline": "Aston Villa sack boss Arroyo after winless WSL start",
@@ -1664,6 +1654,18 @@
       "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-buildup-premier-league-news-wsl-and-more-matchday-live",
       "https://www.theguardian.com/football/2026/oct/24/how-to-watch-premier-league-arsenal-everton",
       "https://www.aljazeera.com/sports/liveblog/2026/10/24/aston-villa-vs-manchester-city-live-premier-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Aston Villa v Manchester City: Premier League – live",
+     "sources": 1,
+     "score": 44,
+     "event_id": "dd4dd32a7e9a",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live",
+      "https://www.theguardian.com/football/live/2026/oct/24/tottenham-arsenal-wsl-premier-league-efl-football-clockwatch-live",
+      "https://www.theguardian.com/football/2026/oct/24/how-to-watch-premier-league-chelsea-tottenham-hotspur"
      ]
     }
    ]
@@ -2487,6 +2489,999 @@
      "links": [
       "https://www.bbc.co.uk/sport/rugby-league/articles/cr93zwx9pzv9o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/sport/live/2026/oct/24/australia-vs-england-womens-rugby-league-world-cup-live-updates"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "95b4d8eb7452",
+   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+   "section": "tech",
+   "entities": [
+    "embiricos",
+    "musk",
+    "india's",
+    "ukraine's",
+    "sure",
+    "merging",
+    "techcrunch",
+    "miss",
+    "tesla-spacex",
+    "here",
+    "side",
+    "billionaire",
+    "senate",
+    "anthropic",
+    "talarico",
+    "ambani",
+    "ukraine",
+    "dots",
+    "openai",
+    "china",
+    "starlink",
+    "zoom",
+    "skydance",
+    "deckers",
+    "beyond",
+    "parties",
+    "iran",
+    "trump",
+    "unusual",
+    "machines",
+    "friday's",
+    "spacex",
+    "russia",
+    "alexander",
+    "musk's",
+    "apple",
+    "open",
+    "networking",
+    "israel",
+    "europe"
+   ],
+   "event_ids": [
+    "95b4d8eb7452",
+    "1b1d0d455584",
+    "572dce99347e",
+    "5afad699a57c",
+    "814772bc922c",
+    "bc11900335c3",
+    "5f6c0a4a0fa6",
+    "1fcf8cc28156",
+    "d7a1c9894fff",
+    "467cf97b1acf",
+    "4f05eeb200ed",
+    "98c90d114a62",
+    "c53837b319d6",
+    "714d1f0b729f",
+    "490a23f57428",
+    "869772203883",
+    "1cc24ddce8a4",
+    "f4290472ac1a",
+    "658159bc4850",
+    "733411f27eae",
+    "b17a25d8c48a",
+    "ed05f4b9715a",
+    "959dcb673548",
+    "030e0762a24f",
+    "5a36fa44b304",
+    "2c9536723835",
+    "ab3660a4efa6",
+    "795b2f9bbb2b",
+    "a3c44a432a3d",
+    "9c464aa25357",
+    "18ba53fb28cc",
+    "cb9eec62df6f",
+    "e146a0ded080",
+    "4212a5c7dadf",
+    "3992fc4ed3eb",
+    "e406db6a9c15",
+    "8b4dc9f3945d"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-24",
+   "timeline": [
+    {
+     "date": "2026-09-14",
+     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+     "sources": 3,
+     "score": 55,
+     "event_id": "95b4d8eb7452",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+     "sources": 3,
+     "score": 50,
+     "event_id": "1b1d0d455584",
+     "links": [
+      "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
+     "sources": 3,
+     "score": 45,
+     "event_id": "572dce99347e",
+     "links": [
+      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+     "sources": 3,
+     "score": 52,
+     "event_id": "5afad699a57c",
+     "links": [
+      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+     "sources": 1,
+     "score": 42,
+     "event_id": "814772bc922c",
+     "links": [
+      "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+     "sources": 1,
+     "score": 46,
+     "event_id": "bc11900335c3",
+     "links": [
+      "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Trump gives top US science awards to Elon Musk and other tech executives",
+     "sources": 2,
+     "score": 44,
+     "event_id": "5f6c0a4a0fa6",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
+      "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Why Elon Musk is taking on India's richest man over Starlink",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1fcf8cc28156",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+     "sources": 1,
+     "score": 46,
+     "event_id": "d7a1c9894fff",
+     "links": [
+      "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+     "sources": 2,
+     "score": 45,
+     "event_id": "467cf97b1acf",
+     "links": [
+      "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Elon Musk has donated over $276 million to Republican midterm efforts",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4f05eeb200ed",
+     "links": [
+      "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+      "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+     "sources": 3,
+     "score": 50,
+     "event_id": "98c90d114a62",
+     "links": [
+      "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+      "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
+      "https://www.investing.com/news/stock-market-news/elon-musk-spends-366-million-on-2026-us-midterm-elections-4945225"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Elon Musk becomes biggest donor of US midterms cycle with $366m spent",
+     "sources": 2,
+     "score": 48,
+     "event_id": "c53837b319d6",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
+      "https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+     "sources": 4,
+     "score": 68,
+     "event_id": "714d1f0b729f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
+     "sources": 2,
+     "score": 44,
+     "event_id": "490a23f57428",
+     "links": [
+      "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+      "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
+     "sources": 3,
+     "score": 56,
+     "event_id": "869772203883",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+      "https://www.france24.com/en/americas/20261014-musk-says-us-govt-responsible-for-any-starshield-restrictions-affecting-ukraine"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+     "sources": 2,
+     "score": 41,
+     "event_id": "1cc24ddce8a4",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+     "sources": 2,
+     "score": 44,
+     "event_id": "f4290472ac1a",
+     "links": [
+      "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
+      "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Elon Musk promises to give one SpaceX share to every child in the US",
+     "sources": 3,
+     "score": 57,
+     "event_id": "658159bc4850",
+     "links": [
+      "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
+      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink?utm_source=rss_feed",
+      "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "China’s milestone in polar region satellite broadband narrows gap with Elon Musk’s Starlink",
+     "sources": 1,
+     "score": 40,
+     "event_id": "733411f27eae",
+     "links": [
+      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink",
+      "https://www.scmp.com/tech/big-tech/article/3371010/tsmc-confirms-talks-elon-musk-over-texas-terafab-insists-operational-control"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Elon Musk says Tesla-SpaceX merger being considered",
+     "sources": 4,
+     "score": 56,
+     "event_id": "b17a25d8c48a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+     "sources": 3,
+     "score": 52,
+     "event_id": "ed05f4b9715a",
+     "links": [
+      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Musk confirms SpaceX and Tesla exploring merger",
+     "sources": 4,
+     "score": 62,
+     "event_id": "959dcb673548",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
+      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+     "sources": 8,
+     "score": 79,
+     "event_id": "030e0762a24f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Netflix, Zoom, Apple, Robinhood & more",
+     "sources": 1,
+     "score": 44,
+     "event_id": "5a36fa44b304",
+     "links": [
+      "https://www.cnbc.com/2026/10/21/wednesday-biggest-analyst-calls-like-spacex.html",
+      "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Tesla to report earnings after Elon Musk floats SpaceX merger plan",
+     "sources": 3,
+     "score": 53,
+     "event_id": "2c9536723835",
+     "links": [
+      "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "James Talarico fires back at Elon Musk in Texas Senate race feud",
+     "sources": 2,
+     "score": 46,
+     "event_id": "ab3660a4efa6",
+     "links": [
+      "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
+      "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Elon Musk invests about $1 billion in Skydance",
+     "sources": 3,
+     "score": 49,
+     "event_id": "795b2f9bbb2b",
+     "links": [
+      "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+      "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
+      "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a3c44a432a3d",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
+      "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
+     "sources": 2,
+     "score": 44,
+     "event_id": "9c464aa25357",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
+     "sources": 2,
+     "score": 43,
+     "event_id": "18ba53fb28cc",
+     "links": [
+      "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
+      "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Ukraine troops report ongoing problems with Starlink satellite network",
+     "sources": 4,
+     "score": 68,
+     "event_id": "cb9eec62df6f",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+      "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, CoreWeave, Deckers, Unusual Machines & more",
+     "sources": 1,
+     "score": 44,
+     "event_id": "e146a0ded080",
+     "links": [
+      "https://www.cnbc.com/2026/10/23/big-wall-street-analyst-calls-friday-include-spacex-coreweave.html",
+      "https://www.cnbc.com/2026/10/23/stocks-making-the-biggest-moves-premarket-att-spacex-moderna-deckers-bloom-energy-and-more.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+     "sources": 2,
+     "score": 54,
+     "event_id": "4212a5c7dadf",
+     "links": [
+      "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+      "https://www.cnbc.com/2026/10/22/wall-street-analyst-calls-nvidia-tesla-meta-spacex.html",
+      "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-premarket-tsla-meta-avex-spot.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+     "sources": 3,
+     "score": 50,
+     "event_id": "3992fc4ed3eb",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e406db6a9c15",
+     "links": [
+      "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+      "https://www.investing.com/news/commodities-news/trump-says-he-will-fix-any-starlink-access-problem-in-ukraine-4970057"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+     "sources": 2,
+     "score": 41,
+     "event_id": "8b4dc9f3945d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "87d62c77d066",
+   "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+   "section": "world",
+   "entities": [
+    "president",
+    "police",
+    "other",
+    "behind",
+    "found",
+    "were",
+    "thousands",
+    "widely",
+    "huge",
+    "paintings",
+    "hidden",
+    "decoder",
+    "used",
+    "lithuania",
+    "greenland",
+    "nato",
+    "tracking",
+    "smoking",
+    "curfews",
+    "near",
+    "gulf",
+    "renoir",
+    "red's",
+    "nice",
+    "french",
+    "python",
+    "affects",
+    "flaw",
+    "young",
+    "software",
+    "stolen",
+    "norse",
+    "case",
+    "vehicle",
+    "brotli",
+    "wall",
+    "searching",
+    "evidence",
+    "european",
+    "danish"
+   ],
+   "event_ids": [
+    "87d62c77d066",
+    "16c614175ff1",
+    "5847bd600354",
+    "4f89836c1215",
+    "5650625ff0c7",
+    "3263aff4ed39",
+    "bfa030f1f411",
+    "cf6d90b7d356",
+    "0d0ab2de5779",
+    "acfbda7677cf",
+    "a1317b4ff430",
+    "cd28012b247a",
+    "b814a960e804",
+    "9e39130e88dd",
+    "72b1b0ac47d8",
+    "f74700a0c5c1",
+    "0ff76c15106b",
+    "ced850850efe",
+    "d09e5296340e",
+    "f24475a74667",
+    "721ce071533c",
+    "60c1d204b2f8",
+    "fef1e2c2f502",
+    "8d083b78259a",
+    "55d19e02d108",
+    "7531210b2282",
+    "00df4663cdd8",
+    "a7f7b3a35939",
+    "7604d8c4829b",
+    "480c4c18560b",
+    "c55f6bb1af02",
+    "643456b192e6",
+    "15f3ecd91311",
+    "a0a9e49aec28"
+   ],
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-10-24",
+   "timeline": [
+    {
+     "date": "2026-09-15",
+     "headline": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "87d62c77d066",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
+      "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+      "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+     "sources": 3,
+     "score": 66,
+     "event_id": "16c614175ff1",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
+      "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
+      "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
+     "sources": 3,
+     "score": 54,
+     "event_id": "5847bd600354",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260918-replay-macron-orders-plan-to-counter-russian-hybrid-attacks"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
+     "sources": 1,
+     "score": 42,
+     "event_id": "4f89836c1215",
+     "links": [
+      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+      "https://www.france24.com/en/video/20260918-france-s-macron-summons-party-leaders-for-talks-on-mideast-and-ukraine"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo visits France for first papal visit in 18 years – Europe live",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5650625ff0c7",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
+      "https://www.france24.com/en/replay-pope-leo-xiv-arrives-in-france-for-four-day-visit",
+      "https://www.france24.com/en/pope-leo-xiv-s-france-visit-puts-macron-in-diplomatic-balancing-act"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "'Pope fever' takes hold as Pope Leo visits France",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3263aff4ed39",
+     "links": [
+      "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260924-pope-leo-in-france-huge-amount-of-excitement-building-in-paris"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo XIV begins four-day pilgrimage to France",
+     "sources": 2,
+     "score": 58,
+     "event_id": "bfa030f1f411",
+     "links": [
+      "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-begins-paris-diplomacy-at-the-%C3%A9lys%C3%A9e",
+      "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+     "sources": 4,
+     "score": 65,
+     "event_id": "cf6d90b7d356",
+     "links": [
+      "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+     "sources": 2,
+     "score": 44,
+     "event_id": "0d0ab2de5779",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
+     "sources": 1,
+     "score": 41,
+     "event_id": "acfbda7677cf",
+     "links": [
+      "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
+      "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Thousands turn out to greet Pope in France",
+     "sources": 4,
+     "score": 76,
+     "event_id": "a1317b4ff430",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
+      "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cd28012b247a",
+     "links": [
+      "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+      "https://www.france24.com/en/france-pope-says-authentic-secularity-does-not-exclude-religion"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Paris: Pope Leo XIV to celebrate Mass before huge crowd",
+     "sources": 2,
+     "score": 64,
+     "event_id": "b814a960e804",
+     "links": [
+      "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/pope-leo-set-for-largest-event-of-france-tour-as-paris-crowds-swell",
+      "https://www.france24.com/en/video/20260926-pope-leo-xiv-to-celebrate-giant-paris-mass-after-peace-appeal"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Huge crowds greet Pope in Paris for open-air Mass",
+     "sources": 3,
+     "score": 67,
+     "event_id": "9e39130e88dd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
+     "sources": 3,
+     "score": 61,
+     "event_id": "72b1b0ac47d8",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
+      "https://www.france24.com/en/france/20260926-a-once-in-a-lifetime-event-faithful-and-curious-flock-to-pope-leo-xiv-s-mass-in-paris",
+      "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
+     "sources": 2,
+     "score": 43,
+     "event_id": "f74700a0c5c1",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
+      "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
+     "sources": 2,
+     "score": 41,
+     "event_id": "0ff76c15106b",
+     "links": [
+      "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
+      "https://www.france24.com/en/france/20260927-live-pope-leo-xiv-to-hold-open-air-mass-in-lourdes-pilgrimage-site"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "🔴Follow live: France's Macron, Pope Leo XIV speak on European unity in Metz",
+     "sources": 1,
+     "score": 40,
+     "event_id": "ced850850efe",
+     "links": [
+      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit",
+      "https://www.france24.com/en/video/20260928-pope-to-speak-on-european-unity-on-last-day-of-france-visit",
+      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Pope wraps up 'hugely successful' France visit with Metz speech",
+     "sources": 1,
+     "score": 47,
+     "event_id": "d09e5296340e",
+     "links": [
+      "https://www.france24.com/en/video/20260928-pope-wraps-up-hugely-successful-france-visit-with-metz-speech",
+      "https://www.france24.com/en/video/20260928-replay-pope-urges-peace-and-unity-in-europe-on-final-day-of-france-visit",
+      "https://www.france24.com/en/video/20260928-replay-france-s-macron-speaks-on-european-union-as-pope-visits-metz"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Pope Leo to speak on EU integration from French border town of Metz",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f24475a74667",
+     "links": [
+      "https://www.france24.com/en/france/20260928-pope-to-speak-on-united-eu-from-french-border-town",
+      "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "French high school protests continue despite PM’s promise of action – Europe live",
+     "sources": 2,
+     "score": 42,
+     "event_id": "721ce071533c",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
+      "https://www.france24.com/en/video/20261008-school-protests-part-of-a-broader-french-malaise"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "France: Police clash with protesters at Paris student rally",
+     "sources": 2,
+     "score": 41,
+     "event_id": "60c1d204b2f8",
+     "links": [
+      "https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Two Recently Stolen Renoir Paintings Were Found Hidden Behind a Cinderblock Wall. French Police Used DNA Evidence and Vehicle Tracking to Crack the Case",
+     "sources": 1,
+     "score": 44,
+     "event_id": "fef1e2c2f502",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/two-recently-stolen-renoir-paintings-were-found-hidden-behind-a-cinderblock-wall-french-police-used-dna-evidence-and-vehicle-tracking-to-crack-the-case-180989678/"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "France: Police and protesters clash in nationwide protests",
+     "sources": 2,
+     "score": 42,
+     "event_id": "8d083b78259a",
+     "links": [
+      "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "Macron calls for 'calm and order' after riots across France",
+     "sources": 2,
+     "score": 47,
+     "event_id": "55d19e02d108",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "7531210b2282",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+      "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Macron slams 'failures' over protest unrest in France but refuses interior minister's resignation",
+     "sources": 2,
+     "score": 45,
+     "event_id": "00df4663cdd8",
+     "links": [
+      "https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/tv-shows/perspective/20261019-france-has-to-assist-gulf-states-diplomat-says-as-macron-makes-three-day-visit"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "France: Curfews issued in Paris, Nice after unrest",
+     "sources": 2,
+     "score": 41,
+     "event_id": "a7f7b3a35939",
+     "links": [
+      "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf",
+      "https://www.atlasobscura.com/places/chapel-of-expiation"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+     "sources": 2,
+     "score": 47,
+     "event_id": "7604d8c4829b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "France curfews calm unrest as Macron faces criticism over Gulf trip",
+     "sources": 2,
+     "score": 40,
+     "event_id": "480c4c18560b",
+     "links": [
+      "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Archaeologists Searching for Evidence of a Norse Church in Greenland Have Found 'the Smoking Gun' Near Erik the Red's Settlement",
+     "sources": 1,
+     "score": 41,
+     "event_id": "c55f6bb1af02",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/archaeologists-searching-for-evidence-of-a-norse-church-in-greenland-have-found-the-smoking-gu-near-erik-the-reds-settlement-180989716/"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Macron accuses foreign leaders of exploiting French riots",
+     "sources": 3,
+     "score": 56,
+     "event_id": "643456b192e6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+      "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "French protests: President Emmanuel Macron meets student unions representatives",
+     "sources": 2,
+     "score": 51,
+     "event_id": "15f3ecd91311",
+     "links": [
+      "https://www.france24.com/en/french-protests-president-emmanuel-macron-meets-student-unions-representatives",
+      "https://www.france24.com/en/major-protests-in-france-macron-convenes-student-representatives",
+      "https://www.theguardian.com/travel/2026/may/24/the-return-of-frances-train-of-marvels-from-the-cote-dazur-to-the-southern-french-alps"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+     "sources": 1,
+     "score": 44,
+     "event_id": "a0a9e49aec28",
+     "links": [
+      "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html"
      ]
     }
    ]
@@ -3774,975 +4769,6 @@
       "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
       "https://www.cnbc.com/2026/10/23/russia-ukraine-agree-to-oleshky-ceasefire-melania-trump-white-house.html",
       "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "95b4d8eb7452",
-   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-   "section": "tech",
-   "entities": [
-    "sure",
-    "parties",
-    "friday's",
-    "ukraine's",
-    "billionaire",
-    "dots",
-    "merging",
-    "tesla-spacex",
-    "techcrunch",
-    "musk's",
-    "spacex",
-    "russia",
-    "beyond",
-    "machines",
-    "ambani",
-    "open",
-    "china",
-    "alexander",
-    "deckers",
-    "ukraine",
-    "trump",
-    "skydance",
-    "senate",
-    "networking",
-    "talarico",
-    "iran",
-    "europe",
-    "embiricos",
-    "here",
-    "israel",
-    "india's",
-    "side",
-    "starlink",
-    "musk",
-    "anthropic",
-    "miss",
-    "zoom",
-    "openai",
-    "unusual",
-    "apple"
-   ],
-   "event_ids": [
-    "95b4d8eb7452",
-    "1b1d0d455584",
-    "572dce99347e",
-    "5afad699a57c",
-    "814772bc922c",
-    "bc11900335c3",
-    "5f6c0a4a0fa6",
-    "1fcf8cc28156",
-    "d7a1c9894fff",
-    "467cf97b1acf",
-    "4f05eeb200ed",
-    "98c90d114a62",
-    "c53837b319d6",
-    "714d1f0b729f",
-    "490a23f57428",
-    "869772203883",
-    "1cc24ddce8a4",
-    "f4290472ac1a",
-    "658159bc4850",
-    "733411f27eae",
-    "b17a25d8c48a",
-    "ed05f4b9715a",
-    "959dcb673548",
-    "030e0762a24f",
-    "5a36fa44b304",
-    "2c9536723835",
-    "ab3660a4efa6",
-    "795b2f9bbb2b",
-    "a3c44a432a3d",
-    "9c464aa25357",
-    "18ba53fb28cc",
-    "cb9eec62df6f",
-    "e146a0ded080",
-    "4212a5c7dadf",
-    "3992fc4ed3eb",
-    "e406db6a9c15"
-   ],
-   "first_seen": "2026-09-14",
-   "last_seen": "2026-10-23",
-   "timeline": [
-    {
-     "date": "2026-09-14",
-     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-     "sources": 3,
-     "score": 55,
-     "event_id": "95b4d8eb7452",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-     "sources": 3,
-     "score": 50,
-     "event_id": "1b1d0d455584",
-     "links": [
-      "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
-     "sources": 3,
-     "score": 45,
-     "event_id": "572dce99347e",
-     "links": [
-      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-     "sources": 3,
-     "score": 52,
-     "event_id": "5afad699a57c",
-     "links": [
-      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-     "sources": 1,
-     "score": 42,
-     "event_id": "814772bc922c",
-     "links": [
-      "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-     "sources": 1,
-     "score": 46,
-     "event_id": "bc11900335c3",
-     "links": [
-      "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Trump gives top US science awards to Elon Musk and other tech executives",
-     "sources": 2,
-     "score": 44,
-     "event_id": "5f6c0a4a0fa6",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
-      "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Why Elon Musk is taking on India's richest man over Starlink",
-     "sources": 2,
-     "score": 49,
-     "event_id": "1fcf8cc28156",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-     "sources": 1,
-     "score": 46,
-     "event_id": "d7a1c9894fff",
-     "links": [
-      "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-     "sources": 2,
-     "score": 45,
-     "event_id": "467cf97b1acf",
-     "links": [
-      "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Elon Musk has donated over $276 million to Republican midterm efforts",
-     "sources": 2,
-     "score": 42,
-     "event_id": "4f05eeb200ed",
-     "links": [
-      "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-      "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
-     "sources": 3,
-     "score": 50,
-     "event_id": "98c90d114a62",
-     "links": [
-      "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
-      "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
-      "https://www.investing.com/news/stock-market-news/elon-musk-spends-366-million-on-2026-us-midterm-elections-4945225"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Elon Musk becomes biggest donor of US midterms cycle with $366m spent",
-     "sources": 2,
-     "score": 48,
-     "event_id": "c53837b319d6",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
-      "https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-     "sources": 4,
-     "score": 68,
-     "event_id": "714d1f0b729f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
-     "sources": 2,
-     "score": 44,
-     "event_id": "490a23f57428",
-     "links": [
-      "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
-      "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
-     "sources": 3,
-     "score": 56,
-     "event_id": "869772203883",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
-      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
-      "https://www.france24.com/en/americas/20261014-musk-says-us-govt-responsible-for-any-starshield-restrictions-affecting-ukraine"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-     "sources": 2,
-     "score": 41,
-     "event_id": "1cc24ddce8a4",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
-     "sources": 2,
-     "score": 44,
-     "event_id": "f4290472ac1a",
-     "links": [
-      "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
-      "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Elon Musk promises to give one SpaceX share to every child in the US",
-     "sources": 3,
-     "score": 57,
-     "event_id": "658159bc4850",
-     "links": [
-      "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
-      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink?utm_source=rss_feed",
-      "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "China’s milestone in polar region satellite broadband narrows gap with Elon Musk’s Starlink",
-     "sources": 1,
-     "score": 40,
-     "event_id": "733411f27eae",
-     "links": [
-      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink",
-      "https://www.scmp.com/tech/big-tech/article/3371010/tsmc-confirms-talks-elon-musk-over-texas-terafab-insists-operational-control"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Elon Musk says Tesla-SpaceX merger being considered",
-     "sources": 4,
-     "score": 56,
-     "event_id": "b17a25d8c48a",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-     "sources": 3,
-     "score": 52,
-     "event_id": "ed05f4b9715a",
-     "links": [
-      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Musk confirms SpaceX and Tesla exploring merger",
-     "sources": 4,
-     "score": 62,
-     "event_id": "959dcb673548",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
-      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
-     "sources": 8,
-     "score": 79,
-     "event_id": "030e0762a24f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Netflix, Zoom, Apple, Robinhood & more",
-     "sources": 1,
-     "score": 44,
-     "event_id": "5a36fa44b304",
-     "links": [
-      "https://www.cnbc.com/2026/10/21/wednesday-biggest-analyst-calls-like-spacex.html",
-      "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Tesla to report earnings after Elon Musk floats SpaceX merger plan",
-     "sources": 3,
-     "score": 53,
-     "event_id": "2c9536723835",
-     "links": [
-      "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
-      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-      "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "James Talarico fires back at Elon Musk in Texas Senate race feud",
-     "sources": 2,
-     "score": 46,
-     "event_id": "ab3660a4efa6",
-     "links": [
-      "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
-      "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Elon Musk invests about $1 billion in Skydance",
-     "sources": 3,
-     "score": 49,
-     "event_id": "795b2f9bbb2b",
-     "links": [
-      "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
-      "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
-      "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a3c44a432a3d",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
-      "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
-     "sources": 2,
-     "score": 44,
-     "event_id": "9c464aa25357",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
-     "sources": 2,
-     "score": 43,
-     "event_id": "18ba53fb28cc",
-     "links": [
-      "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
-      "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Ukraine troops report ongoing problems with Starlink satellite network",
-     "sources": 4,
-     "score": 68,
-     "event_id": "cb9eec62df6f",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
-      "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
-      "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, CoreWeave, Deckers, Unusual Machines & more",
-     "sources": 1,
-     "score": 44,
-     "event_id": "e146a0ded080",
-     "links": [
-      "https://www.cnbc.com/2026/10/23/big-wall-street-analyst-calls-friday-include-spacex-coreweave.html",
-      "https://www.cnbc.com/2026/10/23/stocks-making-the-biggest-moves-premarket-att-spacex-moderna-deckers-bloom-energy-and-more.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-     "sources": 2,
-     "score": 54,
-     "event_id": "4212a5c7dadf",
-     "links": [
-      "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
-      "https://www.cnbc.com/2026/10/22/wall-street-analyst-calls-nvidia-tesla-meta-spacex.html",
-      "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-premarket-tsla-meta-avex-spot.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-     "sources": 3,
-     "score": 50,
-     "event_id": "3992fc4ed3eb",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e406db6a9c15",
-     "links": [
-      "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-      "https://www.investing.com/news/commodities-news/trump-says-he-will-fix-any-starlink-access-problem-in-ukraine-4970057"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "87d62c77d066",
-   "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-   "section": "world",
-   "entities": [
-    "danish",
-    "behind",
-    "renoir",
-    "police",
-    "curfews",
-    "settlement",
-    "lithuania",
-    "used",
-    "found",
-    "paintings",
-    "europe",
-    "case",
-    "emmanuel",
-    "were",
-    "wall",
-    "young",
-    "mass",
-    "huge",
-    "nice",
-    "stolen",
-    "near",
-    "searching",
-    "european",
-    "vehicle",
-    "french",
-    "macron",
-    "thousands",
-    "norse",
-    "nato",
-    "greenland",
-    "smoking",
-    "evidence",
-    "president",
-    "france's",
-    "paris",
-    "tracking",
-    "catholics",
-    "red's",
-    "hidden",
-    "gulf"
-   ],
-   "event_ids": [
-    "87d62c77d066",
-    "16c614175ff1",
-    "5847bd600354",
-    "4f89836c1215",
-    "5650625ff0c7",
-    "3263aff4ed39",
-    "bfa030f1f411",
-    "cf6d90b7d356",
-    "0d0ab2de5779",
-    "acfbda7677cf",
-    "a1317b4ff430",
-    "cd28012b247a",
-    "b814a960e804",
-    "9e39130e88dd",
-    "72b1b0ac47d8",
-    "f74700a0c5c1",
-    "0ff76c15106b",
-    "ced850850efe",
-    "d09e5296340e",
-    "f24475a74667",
-    "721ce071533c",
-    "60c1d204b2f8",
-    "fef1e2c2f502",
-    "8d083b78259a",
-    "55d19e02d108",
-    "7531210b2282",
-    "00df4663cdd8",
-    "a7f7b3a35939",
-    "7604d8c4829b",
-    "480c4c18560b",
-    "c55f6bb1af02",
-    "643456b192e6",
-    "15f3ecd91311"
-   ],
-   "first_seen": "2026-09-15",
-   "last_seen": "2026-10-23",
-   "timeline": [
-    {
-     "date": "2026-09-15",
-     "headline": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "87d62c77d066",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
-      "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
-      "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-     "sources": 3,
-     "score": 66,
-     "event_id": "16c614175ff1",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
-      "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
-      "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
-     "sources": 3,
-     "score": 54,
-     "event_id": "5847bd600354",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260918-replay-macron-orders-plan-to-counter-russian-hybrid-attacks"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
-     "sources": 1,
-     "score": 42,
-     "event_id": "4f89836c1215",
-     "links": [
-      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
-      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
-      "https://www.france24.com/en/video/20260918-france-s-macron-summons-party-leaders-for-talks-on-mideast-and-ukraine"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo visits France for first papal visit in 18 years – Europe live",
-     "sources": 3,
-     "score": 68,
-     "event_id": "5650625ff0c7",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
-      "https://www.france24.com/en/replay-pope-leo-xiv-arrives-in-france-for-four-day-visit",
-      "https://www.france24.com/en/pope-leo-xiv-s-france-visit-puts-macron-in-diplomatic-balancing-act"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "'Pope fever' takes hold as Pope Leo visits France",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3263aff4ed39",
-     "links": [
-      "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260924-pope-leo-in-france-huge-amount-of-excitement-building-in-paris"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo XIV begins four-day pilgrimage to France",
-     "sources": 2,
-     "score": 58,
-     "event_id": "bfa030f1f411",
-     "links": [
-      "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-begins-paris-diplomacy-at-the-%C3%A9lys%C3%A9e",
-      "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-     "sources": 4,
-     "score": 65,
-     "event_id": "cf6d90b7d356",
-     "links": [
-      "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-     "sources": 2,
-     "score": 44,
-     "event_id": "0d0ab2de5779",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
-      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
-     "sources": 1,
-     "score": 41,
-     "event_id": "acfbda7677cf",
-     "links": [
-      "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
-      "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Thousands turn out to greet Pope in France",
-     "sources": 4,
-     "score": 76,
-     "event_id": "a1317b4ff430",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
-      "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
-     "sources": 2,
-     "score": 42,
-     "event_id": "cd28012b247a",
-     "links": [
-      "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
-      "https://www.france24.com/en/france-pope-says-authentic-secularity-does-not-exclude-religion"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Paris: Pope Leo XIV to celebrate Mass before huge crowd",
-     "sources": 2,
-     "score": 64,
-     "event_id": "b814a960e804",
-     "links": [
-      "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/pope-leo-set-for-largest-event-of-france-tour-as-paris-crowds-swell",
-      "https://www.france24.com/en/video/20260926-pope-leo-xiv-to-celebrate-giant-paris-mass-after-peace-appeal"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Huge crowds greet Pope in Paris for open-air Mass",
-     "sources": 3,
-     "score": 67,
-     "event_id": "9e39130e88dd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
-     "sources": 3,
-     "score": 61,
-     "event_id": "72b1b0ac47d8",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
-      "https://www.france24.com/en/france/20260926-a-once-in-a-lifetime-event-faithful-and-curious-flock-to-pope-leo-xiv-s-mass-in-paris",
-      "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
-     "sources": 2,
-     "score": 43,
-     "event_id": "f74700a0c5c1",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
-      "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
-     "sources": 2,
-     "score": 41,
-     "event_id": "0ff76c15106b",
-     "links": [
-      "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
-      "https://www.france24.com/en/france/20260927-live-pope-leo-xiv-to-hold-open-air-mass-in-lourdes-pilgrimage-site"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "🔴Follow live: France's Macron, Pope Leo XIV speak on European unity in Metz",
-     "sources": 1,
-     "score": 40,
-     "event_id": "ced850850efe",
-     "links": [
-      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit",
-      "https://www.france24.com/en/video/20260928-pope-to-speak-on-european-unity-on-last-day-of-france-visit",
-      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "Pope wraps up 'hugely successful' France visit with Metz speech",
-     "sources": 1,
-     "score": 47,
-     "event_id": "d09e5296340e",
-     "links": [
-      "https://www.france24.com/en/video/20260928-pope-wraps-up-hugely-successful-france-visit-with-metz-speech",
-      "https://www.france24.com/en/video/20260928-replay-pope-urges-peace-and-unity-in-europe-on-final-day-of-france-visit",
-      "https://www.france24.com/en/video/20260928-replay-france-s-macron-speaks-on-european-union-as-pope-visits-metz"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "Pope Leo to speak on EU integration from French border town of Metz",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f24475a74667",
-     "links": [
-      "https://www.france24.com/en/france/20260928-pope-to-speak-on-united-eu-from-french-border-town",
-      "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "French high school protests continue despite PM’s promise of action – Europe live",
-     "sources": 2,
-     "score": 42,
-     "event_id": "721ce071533c",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
-      "https://www.france24.com/en/video/20261008-school-protests-part-of-a-broader-french-malaise"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "France: Police clash with protesters at Paris student rally",
-     "sources": 2,
-     "score": 41,
-     "event_id": "60c1d204b2f8",
-     "links": [
-      "https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Two Recently Stolen Renoir Paintings Were Found Hidden Behind a Cinderblock Wall. French Police Used DNA Evidence and Vehicle Tracking to Crack the Case",
-     "sources": 1,
-     "score": 44,
-     "event_id": "fef1e2c2f502",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/two-recently-stolen-renoir-paintings-were-found-hidden-behind-a-cinderblock-wall-french-police-used-dna-evidence-and-vehicle-tracking-to-crack-the-case-180989678/"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "France: Police and protesters clash in nationwide protests",
-     "sources": 2,
-     "score": 42,
-     "event_id": "8d083b78259a",
-     "links": [
-      "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "Macron calls for 'calm and order' after riots across France",
-     "sources": 2,
-     "score": 47,
-     "event_id": "55d19e02d108",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "7531210b2282",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-      "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Macron slams 'failures' over protest unrest in France but refuses interior minister's resignation",
-     "sources": 2,
-     "score": 45,
-     "event_id": "00df4663cdd8",
-     "links": [
-      "https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/tv-shows/perspective/20261019-france-has-to-assist-gulf-states-diplomat-says-as-macron-makes-three-day-visit"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "France: Curfews issued in Paris, Nice after unrest",
-     "sources": 2,
-     "score": 41,
-     "event_id": "a7f7b3a35939",
-     "links": [
-      "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf",
-      "https://www.atlasobscura.com/places/chapel-of-expiation"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-     "sources": 2,
-     "score": 47,
-     "event_id": "7604d8c4829b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "France curfews calm unrest as Macron faces criticism over Gulf trip",
-     "sources": 2,
-     "score": 40,
-     "event_id": "480c4c18560b",
-     "links": [
-      "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Archaeologists Searching for Evidence of a Norse Church in Greenland Have Found 'the Smoking Gun' Near Erik the Red's Settlement",
-     "sources": 1,
-     "score": 41,
-     "event_id": "c55f6bb1af02",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/archaeologists-searching-for-evidence-of-a-norse-church-in-greenland-have-found-the-smoking-gu-near-erik-the-reds-settlement-180989716/"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Macron accuses foreign leaders of exploiting French riots",
-     "sources": 3,
-     "score": 56,
-     "event_id": "643456b192e6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-      "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "French protests: President Emmanuel Macron meets student unions representatives",
-     "sources": 2,
-     "score": 51,
-     "event_id": "15f3ecd91311",
-     "links": [
-      "https://www.france24.com/en/french-protests-president-emmanuel-macron-meets-student-unions-representatives",
-      "https://www.france24.com/en/major-protests-in-france-macron-convenes-student-representatives",
-      "https://www.theguardian.com/travel/2026/may/24/the-return-of-frances-train-of-marvels-from-the-cote-dazur-to-the-southern-french-alps"
      ]
     }
    ]
@@ -17752,5 +17778,5 @@
    ]
   }
  ],
- "updated": "2026-10-24T09:26:01+00:00"
+ "updated": "2026-10-24T12:32:54+00:00"
 }
