@@ -126,7 +126,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-01  (2 zdrojů, síla 52)  PM warned Rosebank oil field could breach West Bank sanctions
   2026-10-05  (1 zdrojů, síla 43)  Remarkable Fossil of a Feathered, Winged Dinosaur Further Hints That Flight Evolved Multiple Times Among the 'Terrible Lizards'
   2026-10-08  (2 zdrojů, síla 44)  Germany news: UK's Burnham visits Berlin for talks with Merz
   2026-10-12  (2 zdrojů, síla 45)  UK's Burnham accuses Russia of meddling in Brexit vote
@@ -146,6 +145,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-23  (3 zdrojů, síla 56)  Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
   2026-10-23  (2 zdrojů, síla 57)  Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
   2026-10-24  (2 zdrojů, síla 42)  As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?
+  2026-10-24  (2 zdrojů, síla 43)  Israeli PM pledges massive military operation after West Bank checkpoint attack
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -155,7 +155,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-16  (2 zdrojů, síla 43)  Do Manchester City have any grounds to win their appeal?
   2026-10-17  (2 zdrojů, síla 42)  Newcastle v Aston Villa: Premier League – live
   2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle
   2026-10-18  (2 zdrojů, síla 53)  LIVE: Leeds United vs Manchester United – Premier League
@@ -175,6 +174,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
   2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
   2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live
+  2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City
 ```
 
 ---

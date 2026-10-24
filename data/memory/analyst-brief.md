@@ -9,7 +9,6 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **45**.
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 72 dní · 60 záznamů
 - časová osa:
-  - **2026-10-18** (2 zdrojů) West Bank: Israeli settlers attack EU diplomats, French mayor
   - **2026-10-18** (3 zdrojů) US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
   - **2026-10-19** (1 zdrojů) Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
   - **2026-10-21** (3 zdrojů) Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
@@ -19,11 +18,11 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-23** (3 zdrojů) Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
   - **2026-10-23** (2 zdrojů) Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
   - **2026-10-24** (2 zdrojů) As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?
+  - **2026-10-24** (2 zdrojů) Israeli PM pledges massive military operation after West Bank checkpoint attack
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 67 dní · 60 záznamů
 - časová osa:
-  - **2026-10-20** (2 zdrojů) PSG end Barcelona's winning run as Liverpool fight back against Villarreal
   - **2026-10-21** (3 zdrojů) No jeopardy but loads of fun - Champions League sets new goals record
   - **2026-10-21** (2 zdrojů) Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
   - **2026-10-21** (2 zdrojů) Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
@@ -33,6 +32,7 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-23** (1 zdrojů) A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
   - **2026-10-24** (2 zdrojů) Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
   - **2026-10-24** (1 zdrojů) Aston Villa v Manchester City: Premier League – live
+  - **2026-10-24** (3 zdrojů) Jackson stars with two goals - player ratings for Aston Villa v Man City
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 76 dní · 60 záznamů
@@ -77,9 +77,8 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 72 dní · 53 záznamů
+- rubrika `world` · sledováno 73 dní · 54 záznamů
 - časová osa:
-  - **2026-10-05** (2 zdrojů) Trump unveils 'Super Intelligence Force' to oversee AI policy
   - **2026-10-05** (2 zdrojů) Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube
   - **2026-10-15** (1 zdrojů) London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come
   - **2026-10-16** (2 zdrojů) New White House Press Secretary Katie Zacharia on way out after only five days on job, reports say
@@ -89,6 +88,7 @@ Paměť obsahuje **161 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-19** (2 zdrojů) EU tariffs aimed at China hitting Ukraine, steel boss says
   - **2026-10-19** (3 zdrojů) Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
   - **2026-10-23** (3 zdrojů) White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'
+  - **2026-10-24** (2 zdrojů) White House lifts tariffs on some Canadian goods as midterm elections loom
 
 ---
 
