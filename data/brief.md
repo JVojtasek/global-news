@@ -117,7 +117,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-08  (2 zdrojů, síla 44)  Germany news: UK's Burnham visits Berlin for talks with Merz
   2026-10-12  (2 zdrojů, síla 45)  UK's Burnham accuses Russia of meddling in Brexit vote
   2026-10-14  (1 zdrojů, síla 41)  Do any of these Israeli candidates support a Palestinian state?
   2026-10-16  (2 zdrojů, síla 40)  Repairing Brexit economic damage should be Burnham’s top priority, business chief says
@@ -137,6 +136,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-24  (2 zdrojů, síla 42)  As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?
   2026-10-24  (2 zdrojů, síla 43)  Israeli PM pledges massive military operation after West Bank checkpoint attack
   2026-10-24  (2 zdrojů, síla 43)  Israel begins demolitions in West Bank
+  2026-10-25  (2 zdrojů, síla 40)  Israel to close occupied West Bank crossings as it locks down Hebron
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
