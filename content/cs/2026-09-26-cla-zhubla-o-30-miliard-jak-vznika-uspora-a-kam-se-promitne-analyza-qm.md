@@ -13,6 +13,10 @@ date: '2026-09-26'
 status: published
 confidence: 0
 image_query: 'CLA zhubla o 30 miliard:'
+impact:
+  areas: [money]
+  line: "Zatím se tím pro většinu čtenářů nic nemění: není známo, kterého zboží se nižší cla týkají ani od kdy platí. Levnější zboží v obchodech přijde nejdřív po vyprodání starých zásob, a jen když firmy úsporu nenechají v marži."
+  todo: "Počkejte na zveřejněný seznam tarifních položek a datum účinnosti; ve výsledcích firem pak sledujte komentář k clům a hrubé marži."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/cla-zhubla-o-30-miliard-jak-vznika-uspora-a-kam-se-promitne-analyza-373987

@@ -13,6 +13,10 @@ date: '2026-09-27'
 status: published
 confidence: 0
 image_query: 'TransMedics (TMDX): kdy růst tržeb'
+impact:
+  areas: [money, health]
+  line: "Většině čtenářů se tím den po dni nemění nic. Týká se to investorů do TMDX a medtechu; pro pacienty na čekací listině je podstatné, jestli se přeprava orgánů podaří rozšířit a zlevnit."
+  todo: "Ve výkazech TMDX porovnejte růst tržeb s náklady na tržby a provozním cash flow; u ledvinového produktu sledujte podání k FDA."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/transmedics-tmdx-kdy-rust-trzeb-zlepsuje-marzi-a-cash-flow-a-analyza-374664

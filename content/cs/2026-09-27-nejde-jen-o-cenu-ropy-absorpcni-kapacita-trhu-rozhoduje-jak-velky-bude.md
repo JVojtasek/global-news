@@ -13,6 +13,10 @@ date: '2026-09-27'
 status: published
 confidence: 0
 image_query: 'Nejde jen o cenu ropy:'
+impact:
+  areas: [money]
+  line: "Když jsou ropné rezervy tenčí, další geopolitický zádrhel může rychleji zdražit dopravu, energie a zboží, které někam vozí kamion, loď nebo letadlo. Dnes se ceny nemění; mění se, jak silně by mohl zasáhnout další šok."
+  todo: "Sledujte ceny pohonných hmot na čerpacích stanicích a zprávy o stavu strategických a komerčních zásob ropy."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nejde-jen-o-cenu-ropy-absorpcni-kapacita-trhu-rozhoduje-jak--analyza-374741

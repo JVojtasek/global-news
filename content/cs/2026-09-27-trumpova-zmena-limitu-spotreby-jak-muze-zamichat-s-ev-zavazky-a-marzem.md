@@ -13,6 +13,10 @@ date: '2026-09-27'
 status: published
 confidence: 0
 image_query: 'Trumpova změna limitů spotřeby: jak'
+impact:
+  areas: [money]
+  line: "Kupujícím nových aut v USA to může časem ponechat širší nabídku klasických spalovacích modelů, ale spotřeba paliva celého vozového parku bude klesat pomaleji. Investorům do automobilek a výrobců EV to mění hodnotu regulatorních kreditů."
+  todo: "Ve výsledcích automobilek sledujte podíl EV a hybridů na prodejích a komentář managementu k regulatorním kreditům a pokutám."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/trumpova-zmena-limitu-spotreby-jak-muze-zamichat-s-ev-zavazk-analyza-374644

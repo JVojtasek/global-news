@@ -10,6 +10,10 @@ date: '2026-09-27'
 status: published
 confidence: 0
 image_query: 'pickup trucks dealership lot'
+impact:
+  areas: [money]
+  line: "New-car buyers in the US may keep a wider choice of conventional petrol models for longer, but the fleet's fuel use will fall more slowly. For investors in carmakers and EV makers, it changes what regulatory credits are worth."
+  todo: "In carmakers' results, watch the share of EVs and hybrids in sales and what management says about regulatory credits and fines."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/trumpova-zmena-limitu-spotreby-jak-muze-zamichat-s-ev-zavazk-analyza-374644

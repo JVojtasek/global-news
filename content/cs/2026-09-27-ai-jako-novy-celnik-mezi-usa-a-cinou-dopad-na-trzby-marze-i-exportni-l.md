@@ -13,6 +13,10 @@ date: '2026-09-27'
 status: published
 confidence: 0
 image_query: AI jako nový „celník“ mezi
+impact:
+  areas: [money]
+  line: "Dnes se tím pro většinu čtenářů nic nemění. Když se ale dodavatelské řetězce zdvojují, někdo to zaplatí: akcionář nižší marží, nebo zákazník časem dražší elektronikou a pomalejším nástupem AI služeb."
+  todo: "V příštích výsledcích technologických firem sledujte, kolik tržeb souvisí s Čínou, co management říká o exportních licencích a zda zásoby rostou rychleji než tržby."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-jako-novy-celnik-mezi-usa-a-cinou-dopad-na-trzby-marze-i--analyza-374665

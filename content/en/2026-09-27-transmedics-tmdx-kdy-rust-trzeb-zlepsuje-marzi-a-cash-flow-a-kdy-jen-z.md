@@ -10,6 +10,10 @@ date: '2026-09-27'
 status: published
 confidence: 0
 image_query: 'organ transport medical team'
+impact:
+  areas: [money, health]
+  line: "For most readers nothing changes day to day. It matters to investors in TMDX and medtech; for patients on a waiting list, what counts is whether organ transport can be scaled up and made cheaper."
+  todo: "In TMDX filings, compare revenue growth with cost of revenue and operating cash flow; for the kidney product, watch for the FDA submission."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/transmedics-tmdx-kdy-rust-trzeb-zlepsuje-marzi-a-cash-flow-a-analyza-374664

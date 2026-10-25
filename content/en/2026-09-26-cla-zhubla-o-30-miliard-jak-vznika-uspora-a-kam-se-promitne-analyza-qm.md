@@ -10,6 +10,10 @@ date: '2026-09-26'
 status: published
 confidence: 0
 image_query: 'container port cranes cargo'
+impact:
+  areas: [money]
+  line: "For now nothing changes for most readers: it is not yet known which goods the lower tariffs cover or when they apply. Cheaper goods in shops would come only after old stock sells, and only if companies don't keep the saving as margin."
+  todo: "Wait for the published list of tariff lines and the effective date; then watch what companies say about tariffs and gross margin in their results."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/cla-zhubla-o-30-miliard-jak-vznika-uspora-a-kam-se-promitne-analyza-373987
