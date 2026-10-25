@@ -5,46 +5,46 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "doing",
-    "many",
-    "culture",
-    "smithsonian",
-    "south",
-    "million",
-    "evolved",
-    "politically",
-    "study",
-    "poles",
-    "long",
-    "north",
-    "wandered",
-    "west",
-    "lizards",
-    "african",
-    "former",
-    "bank",
-    "israel",
-    "palestinians",
-    "strove",
-    "germany",
-    "elephants",
     "israelis",
-    "uk's",
-    "past",
-    "years",
-    "israeli",
-    "netanyahu",
-    "lander",
-    "five",
-    "hebron",
-    "jenin",
-    "continue",
-    "community",
-    "among",
+    "study",
+    "doing",
+    "bank",
     "italy",
-    "true",
+    "south",
+    "jenin",
+    "smithsonian",
+    "evolved",
+    "years",
+    "long",
+    "politically",
     "rajab",
-    "died"
+    "elephants",
+    "wandered",
+    "israel",
+    "netanyahu",
+    "past",
+    "palestinians",
+    "lander",
+    "many",
+    "israeli",
+    "true",
+    "west",
+    "strove",
+    "former",
+    "germany",
+    "poles",
+    "uk's",
+    "lizards",
+    "five",
+    "continue",
+    "died",
+    "north",
+    "community",
+    "culture",
+    "hebron",
+    "among",
+    "million",
+    "african"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -119,23 +119,12 @@
     "37a7894265f0",
     "8672db372927",
     "64f7defd22cd",
-    "39d85814d543"
+    "39d85814d543",
+    "77413990dbda"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-10-25",
    "timeline": [
-    {
-     "date": "2026-08-21",
-     "headline": "Why Israeli tenders for illegal E1 West Bank settlement prompted outrage",
-     "sources": 2,
-     "score": 54,
-     "event_id": "5e2205225644",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
-      "https://www.france24.com/en/video/20260821-key-european-leaders-demand-israel-halt-west-bank-settlement-project",
-      "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-23",
      "headline": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
@@ -796,6 +785,17 @@
      "links": [
       "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
       "https://www.france24.com/en/middle-east/20261024-israel-to-close-all-land-crossings-with-west-bank-on-election-day"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+     "sources": 2,
+     "score": 42,
+     "event_id": "77413990dbda",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+      "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers"
      ]
     }
    ]
@@ -17912,5 +17912,5 @@
    ]
   }
  ],
- "updated": "2026-10-25T09:25:47+00:00"
+ "updated": "2026-10-25T12:32:56+00:00"
 }
