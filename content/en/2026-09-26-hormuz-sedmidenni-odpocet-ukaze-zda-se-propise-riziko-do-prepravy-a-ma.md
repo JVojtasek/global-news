@@ -10,6 +10,10 @@ date: '2026-09-26'
 status: published
 confidence: 0
 image_query: 'oil tankers waiting at sea'
+impact:
+  areas: [money]
+  line: "Drivers and air travellers would feel any relief only with a delay. The offer to reopen the strait within seven days is not yet a finished deal, and fuel prices move through inventories, insurance and hedging."
+  todo: "Watch whether both sides confirm the deal and whether tanker transits actually resume. A headline about talks does not yet mean cheaper fuel."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hormuz-sedmidenni-odpocet-ukaze-zda-se-propise-riziko-do-pre-analyza-374228

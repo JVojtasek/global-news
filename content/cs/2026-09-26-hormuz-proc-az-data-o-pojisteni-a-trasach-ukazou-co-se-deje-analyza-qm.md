@@ -13,6 +13,10 @@ date: '2026-09-26'
 status: published
 confidence: 0
 image_query: 'Hormuz: proč až data o'
+impact:
+  areas: [money]
+  line: "Sedmidenní plán na otevření průlivu byl odmítnut, takže riziko dražší ropy trvá. Řidičů a cestujících by se dotklo přes ceny paliv a letenek; podklady ale zatím nedokládají měřitelný nárůst nákladů."
+  todo: "Než uvěříte titulku, sledujte konkrétní čísla: ceny pohonných hmot, tankerové sazby a zprávy o skutečném průjezdu lodí."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hormuz-proc-az-data-o-pojisteni-a-trasach-ukazou-co-se-deje-analyza-374232

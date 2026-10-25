@@ -10,6 +10,10 @@ date: '2026-09-26'
 status: published
 confidence: 0
 image_query: 'bank building warsaw'
+impact:
+  areas: [money]
+  line: "For most readers nothing changes day to day; this is a deal between banks. It matters mainly to shareholders of Erste and Polish banks: the offer price and the hit to the bank's capital cushion will decide it."
+  todo: "Erste shareholders can watch the offer price against the pre-announcement price, the final stake, the financing and management comments on capital."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/erste-a-vetsi-akvizice-v-polsku-proc-nejde-jen-o-podil-analyza-374015

@@ -12,6 +12,10 @@ date: '2026-09-25'
 status: published
 confidence: 0
 image_query: 'Ropa zlevnila: mizí fyzická těsnost,'
+impact:
+  areas: [money]
+  line: "Pokles ceny ropy se k řidičům a cestujícím může dostat přes paliva a dopravu, ale ne okamžitě a ne vždy stejně silně. Jednodenní pohyb po diplomatické zprávě ještě neznamená trvale levnější benzín."
+  todo: "Sledujte, zda pokles potvrdí i oficiální statistiky zásob, produkce a exportů, ne jen titulek o diplomacii."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ropa-zlevnila-mizi-fyzicka-tesnost-nebo-jen-prirazka-za-stra-analyza-373587

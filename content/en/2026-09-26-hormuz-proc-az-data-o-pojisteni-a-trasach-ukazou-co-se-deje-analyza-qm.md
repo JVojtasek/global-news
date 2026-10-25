@@ -10,6 +10,10 @@ date: '2026-09-26'
 status: published
 confidence: 0
 image_query: 'oil tanker strait at sea'
+impact:
+  areas: [money]
+  line: "The seven-day plan to reopen the strait was rejected, so the risk of pricier oil remains. Drivers and travellers would feel it through fuel and airfares, but the sources do not yet show a measurable rise in costs."
+  todo: "Before trusting a headline, watch concrete numbers: pump prices, tanker rates and reports of ships actually passing through."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hormuz-proc-az-data-o-pojisteni-a-trasach-ukazou-co-se-deje-analyza-374232

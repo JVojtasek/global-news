@@ -10,6 +10,10 @@ date: '2026-09-25'
 status: published
 confidence: 0
 image_query: 'oil tanker at sea'
+impact:
+  areas: [money]
+  line: "A drop in oil prices can reach drivers and travellers through fuel and transport, but not immediately and not always with the same force. A one-day move after diplomatic news does not yet mean lastingly cheaper fuel."
+  todo: "Watch whether official statistics on inventories, production and exports confirm the drop, not just a headline about diplomacy."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ropa-zlevnila-mizi-fyzicka-tesnost-nebo-jen-prirazka-za-stra-analyza-373587

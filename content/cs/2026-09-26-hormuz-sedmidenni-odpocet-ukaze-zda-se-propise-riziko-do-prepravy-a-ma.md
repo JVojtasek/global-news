@@ -13,6 +13,10 @@ date: '2026-09-26'
 status: published
 confidence: 0
 image_query: 'Hormuz: sedmidenní odpočet ukáže, zda'
+impact:
+  areas: [money]
+  line: "Kdo tankuje nebo létá, pocítí případnou úlevu až se zpožděním. Nabídka otevřít průliv do sedmi dnů zatím není hotová dohoda a ceny paliv se mění přes zásoby, pojištění a zajištění cen."
+  todo: "Sledujte, zda dohodu potvrdí obě strany a zda se skutečně obnoví průjezdy tankerů. Titulek o jednání ještě neznamená levnější palivo."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hormuz-sedmidenni-odpocet-ukaze-zda-se-propise-riziko-do-pre-analyza-374228

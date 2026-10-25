@@ -13,6 +13,10 @@ date: '2026-09-26'
 status: published
 confidence: 0
 image_query: 'AI rizika mimo regulaci: opakované'
+impact:
+  areas: [money, safety]
+  line: "Pro většinu čtenářů se tím zatím nic nemění: jde o politickou výzvu, ne o přijatý zákon. Otevřená zůstává otázka, kdo zaplatí bezpečnost AI a elektřinu pro datová centra — firmy, akcionáři, nebo místní odběratelé energie."
+  todo: "Sledujte, zda z výzvy vznikne konkrétní návrh zákona, slyšení nebo metodika úřadu. Do té doby jde jen o politickou rétoriku."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-rizika-mimo-regulaci-opakovane-naklady-na-bezpecnost-audi-analyza-374000

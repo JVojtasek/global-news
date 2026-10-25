@@ -10,6 +10,10 @@ date: '2026-09-26'
 status: published
 confidence: 0
 image_query: 'data center server racks'
+impact:
+  areas: [money, safety]
+  line: "For most readers nothing changes yet: this is a political call, not a passed law. The open question is who pays for AI security and data-centre electricity — companies, shareholders or local energy customers."
+  todo: "Watch whether the call turns into a concrete bill, a hearing or agency guidance. Until then it is political rhetoric."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-rizika-mimo-regulaci-opakovane-naklady-na-bezpecnost-audi-analyza-374000

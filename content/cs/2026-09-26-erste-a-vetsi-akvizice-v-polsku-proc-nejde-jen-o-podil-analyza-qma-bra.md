@@ -11,6 +11,10 @@ date: '2026-09-26'
 status: published
 confidence: 0
 image_query: Erste a větší akvizice v
+impact:
+  areas: [money]
+  line: "Pro většinu čtenářů se tím denně nic nemění; jde o transakci mezi bankami. Týká se hlavně akcionářů Erste a polských bank: rozhodne cena nabídky a dopad na kapitálový polštář banky."
+  todo: "Kdo drží akcie Erste, ať sleduje nabídkovou cenu proti ceně před oznámením, konečný podíl, způsob financování a komentář vedení ke kapitálu."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/erste-a-vetsi-akvizice-v-polsku-proc-nejde-jen-o-podil-analyza-374015
