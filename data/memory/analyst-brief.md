@@ -21,9 +21,8 @@ Paměť obsahuje **163 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-25** (3 zdrojů) Israel to close all West Bank land crossings on election day
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 67 dní · 60 záznamů
+- rubrika `sport` · sledováno 68 dní · 60 záznamů
 - časová osa:
-  - **2026-10-21** (3 zdrojů) No jeopardy but loads of fun - Champions League sets new goals record
   - **2026-10-21** (2 zdrojů) Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
   - **2026-10-21** (2 zdrojů) Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
   - **2026-10-22** (4 zdrojů) Real Madrid dominate Leipzig for third straight win
@@ -33,6 +32,7 @@ Paměť obsahuje **163 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-24** (2 zdrojů) Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
   - **2026-10-24** (1 zdrojů) Aston Villa v Manchester City: Premier League – live
   - **2026-10-24** (3 zdrojů) Jackson stars with two goals - player ratings for Aston Villa v Man City
+  - **2026-10-25** (2 zdrojů) Terland strikes late as United end Manchester City’s winning start in WSL
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 76 dní · 60 záznamů

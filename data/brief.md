@@ -1,6 +1,6 @@
 # ZADÁNÍ PRO REDAKCI — 2026-10-25
 
-- Režim: **autonomous**  ⚠️ nikdo se o projekt 14 dní nestaral – buď opatrnější
+- Režim: **autonomous**  ⚠️ nikdo se o projekt 15 dní nestaral – buď opatrnější
 - Práh jistoty pro automatické vydání: **93/100**
 - Článků v zásobě: **10**
 - Jazyk, ve kterém se píše: **en**
@@ -69,22 +69,25 @@
     <https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report>
     > There are days when Tottenham go into these big games and find ways to beat themselves. This time, though, they held their nerve at a ground where they have mostly only known doom. Spurs played with control, stayed patient and won at Stamford Bridge for the first time since 2018 
 
-### 4. US to host first Women's Club World Cup in 2028
-- id události: `7072fa7b7a3b`  ·  rubrika: `sport`  ·  skóre: 66  ·  nezávislých zdrojů: 4
+### 4. Jackson stars with two goals - player ratings for Aston Villa v Man City
+- id události: `5bc56480607d`  ·  rubrika: `sport`  ·  skóre: 66  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC Sport** — US to host first Women's Club World Cup in 2028
-    <https://www.bbc.co.uk/sport/football/articles/c6n9r7wgp9q0o?at_medium=RSS&at_campaign=rss>
-    > Arsenal are named as one of the teams to compete at the inaugural Women's Club World Cup, to be hosted in the United States in 2028.
-  - **Guardian Sport** — Fifa increases preparation money for Women’s World Cup to match men’s teams
-    <https://www.theguardian.com/football/2026/oct/22/fifa-increase-funds-2027-womens-world-cup-teams>
-    > Funds for 2027 will match men’s World Cup in 2026 Players given better flights and individual hotel rooms Teams in the 2027’s Women’s World Cup in Brazil will receive the same preparation money from Fifa as those that played at the 2026 men’s tournament, the world’s governing bod
-  - **CNBC Top** — FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year
-    <https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html>
-    > FIFA is formally auctioning its U.S. media rights and wants bids by Nov. 19.
-  - **Al Jazeera** — FIFA announces USA to host first Women’s Club World Cup in 2028
-    <https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss>
-    > FIFA to stage inaugural Women's Club World Cup, with 16 of football's top teams, in United States in 2028.
+  - **BBC Sport** — Jackson stars with two goals - player ratings for Aston Villa v Man City
+    <https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&at_campaign=rss>
+    > How Aston Villa and Man City players rated following their Premier League match.
+  - **Guardian Sport** — Chelsea v Tottenham: Premier League – live
+    <https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live>
+    > ⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Live scores | Table | Read Football Daily | Mail Scott Chelsea: Penders, Acheampong, Lacroix, Colwill, Neto, Caicedo, Henderson, Hato, Palmer, Quenda, Rogers. Tottenham Hotspur: Kinsky, Robertson, van Hecke, Maddison, Tel, G
+  - **Guardian Sport** — Maresca ‘not worried’ by Guéhi’s gaffes as Aston Villa end City’s flawless start
+    <https://www.theguardian.com/football/2026/oct/24/maresca-guehi-errors-aston-villa-manchester-city-premier-league>
+    > Defender costs three goals in past two league matches Emery praises ‘fantastic’ match-winner Jackson Enzo Maresca is not concerned by the form of Marc Guéhi despite the defender costing his side three goals in the past two Premier League matches, the Manchester City manager said 
+  - **Al Jazeera** — Man City beaten at Aston Villa as perfect Premier League start ends
+    <https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss>
+    > Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.
+  - **Guardian Sport** — Nicolas Jackson double sees Aston Villa end Manchester City’s perfect start
+    <https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report>
+    > Manchester City added a loss in the Premier League to one to the Premier League, as their perfect record this season vanished without an independent commission in sight. Two of the most in-form strikers in England did battle and it was Nicolas Jackson’s double that meant his side
 
 ---
 
@@ -146,7 +149,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-17  (2 zdrojů, síla 42)  Newcastle v Aston Villa: Premier League – live
   2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle
   2026-10-18  (2 zdrojů, síla 53)  LIVE: Leeds United vs Manchester United – Premier League
   2026-10-18  (2 zdrojů, síla 40)  Manchester City owner’s £55m housing loan while Burnham was mayor investigated
@@ -166,6 +168,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
   2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live
   2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City
+  2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL
 ```
 
 ---

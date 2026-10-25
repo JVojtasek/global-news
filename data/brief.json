@@ -1,7 +1,7 @@
 {
  "date": "2026-10-25",
  "mode": "autonomous",
- "days_since_human": 14,
+ "days_since_human": 15,
  "confidence_threshold": 93,
  "reserve_articles": 10,
  "news_assignments": [
@@ -183,51 +183,60 @@
    "depth": "open"
   },
   {
-   "id": "7072fa7b7a3b",
-   "headline": "US to host first Women's Club World Cup in 2028",
+   "id": "5bc56480607d",
+   "headline": "Jackson stars with two goals - player ratings for Aston Villa v Man City",
    "section": "sport",
    "score": 66,
-   "sources_count": 4,
-   "depth_signal": 0,
-   "created": "2026-10-22T18:30:56+00:00",
-   "event_time": "2026-10-22T17:49:08+00:00",
+   "sources_count": 3,
+   "depth_signal": 2,
+   "created": "2026-10-24T15:24:02+00:00",
+   "event_time": "2026-10-24T13:25:59+00:00",
    "time_kind": "published",
    "items": [
     {
-     "title": "US to host first Women's Club World Cup in 2028",
-     "url": "https://www.bbc.co.uk/sport/football/articles/c6n9r7wgp9q0o?at_medium=RSS&at_campaign=rss",
+     "title": "Jackson stars with two goals - player ratings for Aston Villa v Man City",
+     "url": "https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC Sport",
-     "summary": "Arsenal are named as one of the teams to compete at the inaugural Women's Club World Cup, to be hosted in the United States in 2028.",
-     "published_at": "2026-10-22T17:49:08+00:00",
+     "summary": "How Aston Villa and Man City players rated following their Premier League match.",
+     "published_at": "2026-10-24T13:25:59+00:00",
      "source_countries": [],
-     "seen_at": "2026-10-22T18:30:49+00:00"
+     "seen_at": "2026-10-24T15:23:58+00:00"
     },
     {
-     "title": "Fifa increases preparation money for Women’s World Cup to match men’s teams",
-     "url": "https://www.theguardian.com/football/2026/oct/22/fifa-increase-funds-2027-womens-world-cup-teams",
+     "title": "Chelsea v Tottenham: Premier League – live",
+     "url": "https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live",
      "source": "Guardian Sport",
-     "summary": "Funds for 2027 will match men’s World Cup in 2026 Players given better flights and individual hotel rooms Teams in the 2027’s Women’s World Cup in Brazil will receive the same preparation money from Fifa as those that played at the 2026 men’s tournament, the world’s governing body has announced. The preparation money for the 32 teams has been more than doubled to $2.5m (£1.86m) each. In 2023, the ",
-     "published_at": "2026-10-22T17:35:41+00:00",
+     "summary": "⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Live scores | Table | Read Football Daily | Mail Scott Chelsea: Penders, Acheampong, Lacroix, Colwill, Neto, Caicedo, Henderson, Hato, Palmer, Quenda, Rogers. Tottenham Hotspur: Kinsky, Robertson, van Hecke, Maddison, Tel, Gray, Tonali, Fernandes, Kudus, Marmoush, van de Ven. Continue reading...",
+     "published_at": "2026-10-24T15:17:32+00:00",
      "source_countries": [],
-     "seen_at": "2026-10-22T18:30:49+00:00"
+     "seen_at": "2026-10-24T15:23:58+00:00"
     },
     {
-     "title": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
-     "url": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
-     "source": "CNBC Top",
-     "summary": "FIFA is formally auctioning its U.S. media rights and wants bids by Nov. 19.",
-     "published_at": "2026-10-22T17:01:08+00:00",
+     "title": "Maresca ‘not worried’ by Guéhi’s gaffes as Aston Villa end City’s flawless start",
+     "url": "https://www.theguardian.com/football/2026/oct/24/maresca-guehi-errors-aston-villa-manchester-city-premier-league",
+     "source": "Guardian Sport",
+     "summary": "Defender costs three goals in past two league matches Emery praises ‘fantastic’ match-winner Jackson Enzo Maresca is not concerned by the form of Marc Guéhi despite the defender costing his side three goals in the past two Premier League matches, the Manchester City manager said after seeing his side lose in the league for the first time this season. Nicolas Jackson’s double earned Aston Villa a 2",
+     "published_at": "2026-10-24T15:16:45+00:00",
      "source_countries": [],
-     "seen_at": "2026-10-22T18:30:49+00:00"
+     "seen_at": "2026-10-24T15:23:58+00:00"
     },
     {
-     "title": "FIFA announces USA to host first Women’s Club World Cup in 2028",
-     "url": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss",
+     "title": "Man City beaten at Aston Villa as perfect Premier League start ends",
+     "url": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
      "source": "Al Jazeera",
-     "summary": "FIFA to stage inaugural Women's Club World Cup, with 16 of football's top teams, in United States in 2028.",
-     "published_at": "2026-10-22T16:34:38+00:00",
+     "summary": "Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.",
+     "published_at": "2026-10-24T14:04:27+00:00",
      "source_countries": [],
-     "seen_at": "2026-10-22T18:30:49+00:00"
+     "seen_at": "2026-10-24T15:23:58+00:00"
+    },
+    {
+     "title": "Nicolas Jackson double sees Aston Villa end Manchester City’s perfect start",
+     "url": "https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report",
+     "source": "Guardian Sport",
+     "summary": "Manchester City added a loss in the Premier League to one to the Premier League, as their perfect record this season vanished without an independent commission in sight. Two of the most in-form strikers in England did battle and it was Nicolas Jackson’s double that meant his side came out on top against Erling Haaland. City are certainly fallible, losing for the fourth time in a row here, and it w",
+     "published_at": "2026-10-24T13:33:01+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-24T15:23:58+00:00"
     }
    ],
    "depth": "open"
@@ -258,7 +267,7 @@
    "title_hint": "What has actually changed: Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "depth": "open",
-   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-10-17  (2 zdrojů, síla 42)  Newcastle v Aston Villa: Premier League – live\n  2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle\n  2026-10-18  (2 zdrojů, síla 53)  LIVE: Leeds United vs Manchester United – Premier League\n  2026-10-18  (2 zdrojů, síla 40)  Manchester City owner’s £55m housing loan while Burnham was mayor investigated\n  2026-10-18  (3 zdrojů, síla 60)  Man Utd showed 'unity' in draw with Leeds - Carrick\n  2026-10-19  (1 zdrojů, síla 44)  Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson\n  2026-10-20  (2 zdrojů, síla 40)  Ronaldo let Manchester United down - Ten Hag\n  2026-10-20  (2 zdrojů, síla 43)  Liverpool v Villarreal: Champions League – live\n  2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting\n  2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal\n  2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record\n  2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld\n  2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live\n  2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win\n  2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory\n  2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live\n  2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby\n  2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live\n  2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live\n  2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City",
+   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle\n  2026-10-18  (2 zdrojů, síla 53)  LIVE: Leeds United vs Manchester United – Premier League\n  2026-10-18  (2 zdrojů, síla 40)  Manchester City owner’s £55m housing loan while Burnham was mayor investigated\n  2026-10-18  (3 zdrojů, síla 60)  Man Utd showed 'unity' in draw with Leeds - Carrick\n  2026-10-19  (1 zdrojů, síla 44)  Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson\n  2026-10-20  (2 zdrojů, síla 40)  Ronaldo let Manchester United down - Ten Hag\n  2026-10-20  (2 zdrojů, síla 43)  Liverpool v Villarreal: Champions League – live\n  2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting\n  2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal\n  2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record\n  2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld\n  2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live\n  2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win\n  2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory\n  2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live\n  2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby\n  2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live\n  2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live\n  2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City\n  2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL",
    "thread_days": 60
   }
  ],
