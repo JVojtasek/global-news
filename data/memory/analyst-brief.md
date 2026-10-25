@@ -9,7 +9,6 @@ Paměť obsahuje **162 vláken**. Aktivních za posledních 14 dní: **43**.
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 73 dní · 60 záznamů
 - časová osa:
-  - **2026-10-21** (1 zdrojů) African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
   - **2026-10-23** (3 zdrojů) Israel preparing 'full closure' of West Bank, Netanyahu says
   - **2026-10-23** (3 zdrojů) Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
   - **2026-10-23** (3 zdrojů) Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
@@ -19,6 +18,7 @@ Paměť obsahuje **162 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-24** (2 zdrojů) Israel begins demolitions in West Bank
   - **2026-10-25** (2 zdrojů) Israel to close occupied West Bank crossings as it locks down Hebron
   - **2026-10-25** (2 zdrojů) Israeli soldiers raze neighbourhood in Hebron, driving families from homes
+  - **2026-10-25** (3 zdrojů) Israel to close all West Bank land crossings on election day
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 67 dní · 60 záznamů

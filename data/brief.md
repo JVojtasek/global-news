@@ -49,27 +49,7 @@
     <https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report>
     > There are days when Tottenham go into these big games and find ways to beat themselves. This time, though, they held their nerve at a ground where they have mostly only known doom. Spurs played with control, stayed patient and won at Stamford Bridge for the first time since 2018 
 
-### 3. First human case of Shamonda virus detected in France, officials say
-- id události: `db746dbf03ec`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — First human case of Shamonda virus detected in France, officials say
-    <https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss>
-    > The disease, which usually affects cattle, has been identified in a patient who died in early October.
-  - **BBC Science** — First human case of Shamonda virus detected in France, officials say
-    <https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss>
-    > The disease, which usually affects cattle, has been identified in a patient who died in early October.
-  - **BBC Health** — First human case of Shamonda virus detected in France, officials say
-    <https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss>
-    > The disease, which usually affects cattle, has been identified in a patient who died in early October.
-  - **France 24** — France reports first human case of Shamonda virus, but says there's no public health risk
-    <https://www.france24.com/en/france/20261022-france-reports-first-human-case-of-shamonda-virus-but-says-there-s-no-public-health-risk>
-    > France has reported the first-ever recorded case of a human contracting the Shamonda livestock virus, which is most commonly found in cattle. Public health authorities stressed that there did not appear to be any health risk to the public, adding that the infection had been "an e
-  - **Al Jazeera** — France reports first human Shamonda virus case, says no health risk
-    <https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss>
-    > Until now, the virus was considered non-transferable to humans, making the patient the first documented human case.
-
-### 4. US to host first Women's Club World Cup in 2028
+### 3. US to host first Women's Club World Cup in 2028
 - id události: `7072fa7b7a3b`  ·  rubrika: `sport`  ·  skóre: 66  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -85,6 +65,26 @@
   - **Al Jazeera** — FIFA announces USA to host first Women’s Club World Cup in 2028
     <https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss>
     > FIFA to stage inaugural Women's Club World Cup, with 16 of football's top teams, in United States in 2028.
+
+### 4. Jackson stars with two goals - player ratings for Aston Villa v Man City
+- id události: `5bc56480607d`  ·  rubrika: `sport`  ·  skóre: 66  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Jackson stars with two goals - player ratings for Aston Villa v Man City
+    <https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&at_campaign=rss>
+    > How Aston Villa and Man City players rated following their Premier League match.
+  - **Guardian Sport** — Chelsea v Tottenham: Premier League – live
+    <https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live>
+    > ⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Live scores | Table | Read Football Daily | Mail Scott Chelsea: Penders, Acheampong, Lacroix, Colwill, Neto, Caicedo, Henderson, Hato, Palmer, Quenda, Rogers. Tottenham Hotspur: Kinsky, Robertson, van Hecke, Maddison, Tel, G
+  - **Guardian Sport** — Maresca ‘not worried’ by Guéhi’s gaffes as Aston Villa end City’s flawless start
+    <https://www.theguardian.com/football/2026/oct/24/maresca-guehi-errors-aston-villa-manchester-city-premier-league>
+    > Defender costs three goals in past two league matches Emery praises ‘fantastic’ match-winner Jackson Enzo Maresca is not concerned by the form of Marc Guéhi despite the defender costing his side three goals in the past two Premier League matches, the Manchester City manager said 
+  - **Al Jazeera** — Man City beaten at Aston Villa as perfect Premier League start ends
+    <https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss>
+    > Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.
+  - **Guardian Sport** — Nicolas Jackson double sees Aston Villa end Manchester City’s perfect start
+    <https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report>
+    > Manchester City added a loss in the Premier League to one to the Premier League, as their perfect record this season vanished without an independent commission in sight. Two of the most in-form strikers in England did battle and it was Nicolas Jackson’s double that meant his side
 
 ---
 
@@ -117,7 +117,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-14  (1 zdrojů, síla 41)  Do any of these Israeli candidates support a Palestinian state?
   2026-10-16  (2 zdrojů, síla 40)  Repairing Brexit economic damage should be Burnham’s top priority, business chief says
   2026-10-16  (4 zdrojů, síla 71)  Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
   2026-10-17  (2 zdrojů, síla 50)  🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
@@ -137,6 +136,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-24  (2 zdrojů, síla 43)  Israel begins demolitions in West Bank
   2026-10-25  (2 zdrojů, síla 40)  Israel to close occupied West Bank crossings as it locks down Hebron
   2026-10-25  (2 zdrojů, síla 42)  Israeli soldiers raze neighbourhood in Hebron, driving families from homes
+  2026-10-25  (3 zdrojů, síla 52)  Israel to close all West Bank land crossings on election day
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

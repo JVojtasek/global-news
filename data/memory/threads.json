@@ -5,46 +5,46 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "israelis",
-    "study",
-    "doing",
-    "bank",
-    "italy",
-    "south",
-    "jenin",
-    "smithsonian",
-    "evolved",
-    "years",
-    "long",
-    "politically",
-    "rajab",
     "elephants",
-    "wandered",
-    "israel",
-    "netanyahu",
+    "north",
+    "five",
+    "hebron",
+    "bank",
+    "study",
+    "many",
     "past",
     "palestinians",
     "lander",
-    "many",
-    "israeli",
-    "true",
+    "years",
+    "italy",
     "west",
-    "strove",
-    "former",
+    "african",
+    "rajab",
+    "south",
+    "wandered",
+    "true",
     "germany",
-    "poles",
-    "uk's",
-    "lizards",
-    "five",
-    "continue",
-    "died",
-    "north",
-    "community",
     "culture",
-    "hebron",
-    "among",
+    "uk's",
+    "doing",
+    "poles",
+    "former",
     "million",
-    "african"
+    "lizards",
+    "evolved",
+    "politically",
+    "israelis",
+    "long",
+    "jenin",
+    "netanyahu",
+    "community",
+    "smithsonian",
+    "israel",
+    "strove",
+    "died",
+    "israeli",
+    "among",
+    "continue"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -120,22 +120,12 @@
     "8672db372927",
     "64f7defd22cd",
     "39d85814d543",
-    "77413990dbda"
+    "77413990dbda",
+    "e5a0f3aaf92c"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-10-25",
    "timeline": [
-    {
-     "date": "2026-08-23",
-     "headline": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
-     "sources": 2,
-     "score": 46,
-     "event_id": "0f7415ce5b12",
-     "links": [
-      "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
-      "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-26",
      "headline": "US-led Gaza peace board warns Hamas over kites after Israeli threat",
@@ -797,6 +787,18 @@
       "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
       "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers"
      ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Israel to close all West Bank land crossings on election day",
+     "sources": 3,
+     "score": 52,
+     "event_id": "e5a0f3aaf92c",
+     "links": [
+      "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
+      "https://www.france24.com/en/west-bank-families-forcibly-displaced-in-hebron"
+     ]
     }
    ]
   },
@@ -805,44 +807,45 @@
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
    "section": "world",
    "entities": [
-    "aden",
-    "houthi",
-    "egypt's",
-    "yemeni",
-    "davos",
-    "ssisi",
-    "second",
-    "taiz",
-    "middle",
-    "arabia's",
-    "yemen",
-    "trump",
-    "mecca",
-    "turkey",
-    "israel-bound",
-    "pakistan",
-    "president",
-    "attack",
-    "riyadh",
-    "western",
-    "houthis",
-    "somalia",
-    "king",
-    "bangladesh",
-    "salman",
-    "yemen's",
-    "asian",
-    "some",
-    "saudi",
-    "desert",
-    "saudi-backed",
     "east",
     "york",
-    "aramco",
     "three",
-    "arabia",
+    "aramco",
+    "saudi",
+    "trump",
+    "president",
+    "pakistan",
+    "bangladesh",
+    "taiz",
+    "egypt's",
+    "houthis",
+    "desert",
+    "asian",
+    "second",
+    "riyadh",
+    "attack",
+    "western",
+    "some",
+    "saudi-backed",
+    "yemeni",
+    "king",
+    "ssisi",
+    "arabia's",
+    "turkey",
+    "iran-backed",
+    "aden",
+    "yemen",
     "deadly",
-    "maritime"
+    "israel-bound",
+    "mecca",
+    "salman",
+    "arabia",
+    "somalia",
+    "yemen's",
+    "maritime",
+    "davos",
+    "houthi",
+    "middle"
    ],
    "event_ids": [
     "d16d38017cfe",
@@ -893,7 +896,8 @@
     "543863fdee3d",
     "e74ce2d51380",
     "250c5583ffcd",
-    "acf02c7de9a8"
+    "acf02c7de9a8",
+    "bfabd481a216"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-25",
@@ -1456,6 +1460,17 @@
       "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
       "https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080"
      ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+     "sources": 2,
+     "score": 43,
+     "event_id": "bfabd481a216",
+     "links": [
+      "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
+      "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175"
+     ]
     }
    ]
   },
@@ -1464,46 +1479,46 @@
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
    "entities": [
-    "beyond",
-    "open",
+    "networking",
+    "europe",
     "starlink",
-    "ukraine's",
-    "unusual",
-    "musk's",
+    "deckers",
+    "miss",
+    "sure",
+    "anthropic",
     "china",
-    "musk",
+    "trump",
+    "friday's",
+    "ukraine's",
+    "senate",
+    "machines",
+    "dots",
+    "spacex",
+    "billionaire",
+    "beyond",
+    "olympic",
+    "open",
+    "embiricos",
+    "unusual",
+    "here",
+    "side",
+    "techcrunch",
+    "india's",
     "openai",
     "iran",
-    "billionaire",
-    "zoom",
-    "sure",
-    "senate",
-    "here",
-    "miss",
-    "networking",
-    "tesla-spacex",
-    "trump",
-    "ambani",
-    "israel",
-    "embiricos",
-    "machines",
-    "ukraine",
-    "deckers",
-    "techcrunch",
     "russia",
-    "spacex",
-    "parties",
-    "anthropic",
+    "zoom",
+    "ambani",
+    "tesla-spacex",
+    "ukraine",
+    "musk",
     "apple",
     "alexander",
-    "india's",
-    "talarico",
+    "parties",
+    "merging",
+    "israel",
     "skydance",
-    "side",
-    "friday's",
-    "dots",
-    "europe",
-    "merging"
+    "talarico"
    ],
    "event_ids": [
     "95b4d8eb7452",
@@ -1546,7 +1561,8 @@
     "9b5397f83bd4",
     "19c0d49aeb1d",
     "e76559e70f02",
-    "2f7ad053a046"
+    "2f7ad053a046",
+    "c85cd878b1f9"
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-10-25",
@@ -2022,6 +2038,17 @@
       "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
      ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Russia to host first Olympic federation world event since Ukraine invasion",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c85cd878b1f9",
+     "links": [
+      "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
+     ]
     }
    ]
   },
@@ -2030,14 +2057,14 @@
    "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
    "section": "world",
    "entities": [
+    "brazil",
+    "brazil's",
     "brazilians",
     "polls",
     "voting",
-    "lula",
-    "brazil",
-    "brazil's",
     "bolsonaro",
-    "thousands"
+    "thousands",
+    "lula"
    ],
    "event_ids": [
     "d92458626c90",
@@ -2051,7 +2078,8 @@
     "a4565fbd5c2a",
     "f9c920be19b6",
     "a30f9cf554f4",
-    "17bbb9e07e27"
+    "17bbb9e07e27",
+    "99ee164ff663"
    ],
    "first_seen": "2026-10-04",
    "last_seen": "2026-10-25",
@@ -2195,6 +2223,17 @@
       "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
       "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss",
       "https://www.cnbc.com/2026/10/25/lula-bolsonaro-rally-supporters-before-brazil-presidential-runoff.html"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Brazil election: Lula, Bolsonaro cast votes in final bout",
+     "sources": 2,
+     "score": 45,
+     "event_id": "99ee164ff663",
+     "links": [
+      "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro"
      ]
     }
    ]
@@ -17912,5 +17951,5 @@
    ]
   }
  ],
- "updated": "2026-10-25T12:32:56+00:00"
+ "updated": "2026-10-25T15:24:25+00:00"
 }
