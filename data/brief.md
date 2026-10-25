@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-24
+# ZADÁNÍ PRO REDAKCI — 2026-10-25
 
 - Režim: **autonomous**  ⚠️ nikdo se o projekt 14 dní nestaral – buď opatrnější
 - Práh jistoty pro automatické vydání: **93/100**
@@ -9,56 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Real Madrid dominate Leipzig for third straight win
-- id události: `9f8f826047ea`  ·  rubrika: `sport`  ·  skóre: 75  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — Real Madrid dominate Leipzig for third straight win
-    <https://www.bbc.co.uk/sport/football/videos/c3qjnerzngkqo?at_medium=RSS&at_campaign=rss>
-    > Real Madrid maintain their 100 per cent start in the Champions League as they comfortably beat Leipzig 4-1, with Bernardo Silva scoring his first goal for Madrid since moving from Manchester City in the summer.
-  - **BBC Sport** — Villa maintain perfect Champions League start with Viking victory
-    <https://www.bbc.co.uk/sport/football/videos/cmj47yxry4k9o?at_medium=RSS&at_campaign=rss>
-    > Aston Villa win their third game from three in the Champions League by defeating Norwegian side Viking - the dominant display taking them up to second in the league phase.
-  - **France 24** — Real Madrid thrash RB Leipzig as Mbappe scores in Champions League win
-    <https://www.france24.com/en/sport/20261022-real-madrid-thrash-rb-leipzig-as-mbappe-scores-in-champions-league-win>
-    > Real Madrid thrashed RB Leipzig 4-1 on Wednesday to secure their third consecutive Champions League victory. Bernardo Silva, Arda Guler, Kylian Mbappe and Yan Diomande scored for Jose Mourinho’s side, while Tidiam Gomis replied for Leipzig. Mbappe has scored in all three European
-  - **Guardian Sport** — ‘It doesn’t look good’: Arteta concerned as Saka limps off against Bayern Munich
-    <https://www.theguardian.com/football/2026/oct/21/champions-league-bayern-munich-arsenal-mikel-arteta-bukayo-saka-injury>
-    > ‘A player off with really sharp pain is never good news’ Winger forced off 10 minutes into Arsenal’s 2-2 draw Mikel Arteta made no attempt to conceal his concern over the quad injury that forced Bukayo Saka out of Arsenal’s 2-2 Champions League draw at Bayern Munich , saying it d
-  - **Guardian Sport** — Champions League: Silva sparks Real Madrid’s demolition of Leipzig as Lask stun Sporting
-    <https://www.theguardian.com/football/2026/oct/21/champions-league-roundup-real-madrid-leipzig-inter-shakhtar-sporting-lask-brugge-lens-betis-feyenoord>
-    > Bernardo Silva opens scoring as Madrid win 4-1 Galatasaray sweep past Lille; 10-man Inter edge Shakhtar Real Madrid claimed a third Champions League victory in as many games by thrashing RB Leipzig 4-1 on Wednesday, with Kylian Mbappé and Yan Diomande among the goals for José Mou
-  - **Al Jazeera** — Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start
-    <https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss>
-    > Kylian Mbappe and Yan Diomande score stunners as Real beat Leipzig to make it three from three in the Champions League.
-  - **Al Jazeera** — Declan Rice grabs Arsenal draw at Bayern Munich in Champions League
-    <https://www.aljazeera.com/sports/2026/10/21/declan-rice-grabs-arsenal-draw-at-bayern-munich-in-champions-league?traffic_source=rss>
-    > Eze gave Arsenal the lead, but Davies levelled and Kane netted a penalty for the hosts before Rice made it 2-2.
-  - **Guardian Sport** — Arsenal’s Declan Rice strikes late to deny Bayern Munich after Harry Kane penalty
-    <https://www.theguardian.com/football/2026/oct/21/bayern-munich-arsenal-champions-league-match-report>
-    > It is as if Harry Kane cannot get enough of tormenting Arsenal. The Bayern Munich striker has plenty of form from his Tottenham days. He remains the top scorer in north London derby history with 14 goals. He made an impact yet again here and yet it was not a night when he had the
-  - **Guardian Sport** — Barkley and Buendía on target as Aston Villa sink Viking to maintain perfect start
-    <https://www.theguardian.com/football/2026/oct/21/aston-villa-viking-champions-league-match-report>
-    > For a little over 20 minutes, Aston Villa could look down on the rest of Europe. They had scaled the Champions League summit on goal difference when Henrik Heggheim put through his own net and the fact was not lost on the Holte End, who reflected their position in song and perhap
-
-### 2. Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
-- id události: `eeea44ccd13a`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **DW News** — Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
-    <https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-rdf>
-    > Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?
-  - **Ars Technica** — Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump
-    <https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/>
-    > Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.
-  - **CNBC Top** — Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did
-    <https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html>
-    > Asked if Elon Musk ordered the slowdown, Trump said, "I don't know who did it, but I was not involved."
-  - **France 24** — Trump faces fresh questions over ties to 'humanitarian' Putin
-    <https://www.france24.com/en/trump-faces-fresh-questions-over-ties-to-humanitarian-putin>
-    > US President Donald Trump's pivot away from Ukraine has triggered fresh questions about his attachment to Russian leader Vladimir Putin, the man a top American envoy flattered on Wednesday as a "humanitarian. Trump has cast his dealings with Putin as part of a mega-deal that has 
-
-### 3. Ukraine troops report ongoing problems with Starlink satellite network
+### 1. Ukraine troops report ongoing problems with Starlink satellite network
 - id události: `cb9eec62df6f`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -75,7 +26,7 @@
     <https://www.aljazeera.com/news/2026/10/23/ukraine-plans-independent-satellite-system-as-starlink-issues-persist?traffic_source=rss>
     > Ukraine to team up with Finnish firms as Starshield problems, started amid Trump-Zelenskyy jibes, continue.
 
-### 4. Spurs clinch rare Stamford Bridge win as Palmer sent off
+### 2. Spurs clinch rare Stamford Bridge win as Palmer sent off
 - id události: `a8e59462be15`  ·  rubrika: `sport`  ·  skóre: 68  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -97,6 +48,43 @@
   - **Guardian Sport** — Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off
     <https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report>
     > There are days when Tottenham go into these big games and find ways to beat themselves. This time, though, they held their nerve at a ground where they have mostly only known doom. Spurs played with control, stayed patient and won at Stamford Bridge for the first time since 2018 
+
+### 3. First human case of Shamonda virus detected in France, officials say
+- id události: `db746dbf03ec`  ·  rubrika: `world`  ·  skóre: 67  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — First human case of Shamonda virus detected in France, officials say
+    <https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss>
+    > The disease, which usually affects cattle, has been identified in a patient who died in early October.
+  - **BBC Science** — First human case of Shamonda virus detected in France, officials say
+    <https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss>
+    > The disease, which usually affects cattle, has been identified in a patient who died in early October.
+  - **BBC Health** — First human case of Shamonda virus detected in France, officials say
+    <https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss>
+    > The disease, which usually affects cattle, has been identified in a patient who died in early October.
+  - **France 24** — France reports first human case of Shamonda virus, but says there's no public health risk
+    <https://www.france24.com/en/france/20261022-france-reports-first-human-case-of-shamonda-virus-but-says-there-s-no-public-health-risk>
+    > France has reported the first-ever recorded case of a human contracting the Shamonda livestock virus, which is most commonly found in cattle. Public health authorities stressed that there did not appear to be any health risk to the public, adding that the infection had been "an e
+  - **Al Jazeera** — France reports first human Shamonda virus case, says no health risk
+    <https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss>
+    > Until now, the virus was considered non-transferable to humans, making the patient the first documented human case.
+
+### 4. US to host first Women's Club World Cup in 2028
+- id události: `7072fa7b7a3b`  ·  rubrika: `sport`  ·  skóre: 66  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — US to host first Women's Club World Cup in 2028
+    <https://www.bbc.co.uk/sport/football/articles/c6n9r7wgp9q0o?at_medium=RSS&at_campaign=rss>
+    > Arsenal are named as one of the teams to compete at the inaugural Women's Club World Cup, to be hosted in the United States in 2028.
+  - **Guardian Sport** — Fifa increases preparation money for Women’s World Cup to match men’s teams
+    <https://www.theguardian.com/football/2026/oct/22/fifa-increase-funds-2027-womens-world-cup-teams>
+    > Funds for 2027 will match men’s World Cup in 2026 Players given better flights and individual hotel rooms Teams in the 2027’s Women’s World Cup in Brazil will receive the same preparation money from Fifa as those that played at the 2026 men’s tournament, the world’s governing bod
+  - **CNBC Top** — FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year
+    <https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html>
+    > FIFA is formally auctioning its U.S. media rights and wants bids by Nov. 19.
+  - **Al Jazeera** — FIFA announces USA to host first Women’s Club World Cup in 2028
+    <https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss>
+    > FIFA to stage inaugural Women's Club World Cup, with 16 of football's top teams, in United States in 2028.
 
 ---
 
