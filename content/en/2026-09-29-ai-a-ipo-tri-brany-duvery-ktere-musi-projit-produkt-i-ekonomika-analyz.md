@@ -12,6 +12,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: 'stock exchange trading floor'
+impact:
+  areas: [money]
+  line: "For most readers nothing changes day to day; what matters is that delayed AI launches and a postponed Oura IPO show investors now paying for proven safety and profit, not just fast growth."
+  todo: "When a company delays a product or listing, check whether it is the first delay or a repeated one, and read its published losses and safety documents."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-a-ipo-tri-brany-duvery-ktere-musi-projit-produkt-i-ekonom-analyza-376830

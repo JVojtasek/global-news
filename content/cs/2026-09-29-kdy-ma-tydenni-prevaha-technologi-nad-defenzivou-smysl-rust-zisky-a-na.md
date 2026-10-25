@@ -13,6 +13,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: Kdy má týdenní převaha technologí
+impact:
+  areas: [money]
+  line: "Většině čtenářů se denně nemění nic; podstatné je, že jeden silný týden technologií o celém trhu mnoho neříká a dražší dluhy se mohou pomalu propsat do nájmů a účtů za energie."
+  todo: "Než skok indexu vezmete jako sílu celého trhu, ověřte, zda rostl i rovnoměrně vážený index a zda se nezhoršují výnosy dluhopisů a úvěrové přirážky."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdy-ma-tydenni-prevaha-technologi-nad-defenzivou-smysl-rust--analyza-376672

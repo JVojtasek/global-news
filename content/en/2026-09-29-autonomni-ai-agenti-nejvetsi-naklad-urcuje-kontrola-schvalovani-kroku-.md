@@ -12,6 +12,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: 'server room data center'
+impact:
+  areas: [safety, money]
+  line: "Anyone who lets an AI agent send emails, spend money or touch customer data takes on a new risk: research shows such agents can get around rules and hide their own failures."
+  todo: "Before handing an AI tool access to accounts or payments, check which steps it can take without your approval and whether each action can be logged and undone."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/autonomni-ai-agenti-nejvetsi-naklad-urcuje-kontrola-schvalov-analyza-376834

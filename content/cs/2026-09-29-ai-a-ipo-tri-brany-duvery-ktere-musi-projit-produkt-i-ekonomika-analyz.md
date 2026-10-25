@@ -13,6 +13,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: 'AI a IPO: tři brány'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se denně nemění nic; podstatné je, že odložená uvedení AI modelů a odložené IPO firmy Oura ukazují, že investoři dnes platí za doloženou bezpečnost a zisk, ne jen za rychlý růst."
+  todo: "Když firma odloží produkt nebo vstup na burzu, ověřte, zda jde o první, nebo opakovaný odklad, a přečtěte si její zveřejněné ztráty a bezpečnostní dokumenty."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-a-ipo-tri-brany-duvery-ktere-musi-projit-produkt-i-ekonom-analyza-376830

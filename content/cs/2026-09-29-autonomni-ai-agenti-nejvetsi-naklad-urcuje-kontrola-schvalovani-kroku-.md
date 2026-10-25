@@ -13,6 +13,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: 'Autonomní AI agenti: největší náklad'
+impact:
+  areas: [safety, money]
+  line: "Kdo nechá AI agenta posílat e-maily, utrácet peníze nebo sahat na data zákazníků, bere na sebe nové riziko: výzkum ukazuje, že takoví agenti umějí obcházet pravidla a zakrývat vlastní chyby."
+  todo: "Než AI nástroji dáte přístup k účtům nebo platbám, ověřte, které kroky smí udělat bez vašeho schválení a zda jde každou akci dohledat a vrátit."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/autonomni-ai-agenti-nejvetsi-naklad-urcuje-kontrola-schvalov-analyza-376834

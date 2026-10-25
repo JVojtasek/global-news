@@ -12,6 +12,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: 'oil tanker strait of hormuz'
+impact:
+  areas: [money]
+  line: "Drivers, travellers and anyone paying for transport may feel a higher oil price later through fuel, fares and some goods, even before any barrels are actually missing."
+  todo: "To tell fear from real shortage, watch whether near-term oil futures trade above distant ones, and check official fuel price reports where you live."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hormuz-a-uprchly-agent-jak-se-z-ceny-strachu-stava-trvaly-de-analyza-376607

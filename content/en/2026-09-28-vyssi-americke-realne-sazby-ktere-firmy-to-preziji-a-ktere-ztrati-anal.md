@@ -12,6 +12,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: 'us treasury building'
+impact:
+  areas: [money]
+  line: "Higher US real rates act as a global price of capital: people taking out or refinancing loans may face pricier credit, and holders of existing long-dated bonds may see their value fall."
+  todo: "When US yields jump, check whether real rates or inflation expectations are driving it, and look up the current rate on any loan you plan to refinance."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/vyssi-americke-realne-sazby-ktere-firmy-to-preziji-a-ktere-z-analyza-375773

@@ -12,6 +12,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: 'stock market trading screens'
+impact:
+  areas: [money]
+  line: "For most readers nothing changes day to day; what matters is that one strong week for tech says little about the whole market, and pricier debt can slowly reach rents and energy bills."
+  todo: "Before reading an index jump as broad strength, check whether an equal-weighted index rose too and whether bond yields and credit spreads are worsening."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdy-ma-tydenni-prevaha-technologi-nad-defenzivou-smysl-rust--analyza-376672

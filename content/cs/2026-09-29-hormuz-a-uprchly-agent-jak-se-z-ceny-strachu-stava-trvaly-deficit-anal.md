@@ -13,6 +13,10 @@ date: '2026-09-29'
 status: published
 confidence: 0
 image_query: 'Hormuz a „uprchlý agent“: jak'
+impact:
+  areas: [money]
+  line: "Řidiči, cestující a každý, kdo platí za dopravu, mohou dražší ropu časem pocítit na palivech, jízdenkách a části zboží – i dřív, než barely skutečně začnou chybět."
+  todo: "Strach od skutečného nedostatku odlišíte tak, že sledujete, zda jsou blízké futures na ropu dražší než vzdálené; ceny paliv ověřte v oficiálních přehledech."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hormuz-a-uprchly-agent-jak-se-z-ceny-strachu-stava-trvaly-de-analyza-376607
