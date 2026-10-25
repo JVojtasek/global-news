@@ -10,6 +10,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: 'oil tanker at port'
+impact:
+  areas: [money]
+  line: "Mainly a cost question for Indian refiners. Elsewhere it reaches drivers only if higher crude costs and fuel margins later feed through to pump prices."
+  todo: "Follow diesel and gasoline crack spreads alongside Brent: if both rise, part of the cost may reach the pump; official fuel price statistics show whether it has."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ruska-ropa-pro-indii-mizi-sleva-v-dorucene-cene-sledujte-vic-analyza-375889

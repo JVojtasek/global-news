@@ -10,6 +10,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: 'data center server racks'
+impact:
+  areas: [money]
+  line: "Most readers will feel this, if at all, through tech shares in a pension or index fund, which can swing on whether AI spending turns into cash, and through what AI services end up costing."
+  todo: "In the next results of big cloud companies, compare capital spending with free cash flow after investment; a fund's factsheet shows how much tech it holds."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-boom-narazi-na-ucet-za-infrastrukturu-capex-odpisy-a-infe-analyza-376121

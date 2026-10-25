@@ -10,6 +10,10 @@ date: '2026-09-27'
 status: published
 confidence: 0
 image_query: 'data center server racks'
+impact:
+  areas: [money]
+  line: "Day to day this changes little for most readers. It matters mainly to investors in data-centre suppliers and operators, whose returns depend on electricity costs, permits and regulators' scrutiny of foreign involvement."
+  todo: "If a deal with Chinese involvement is announced, check the role: supplier, lender, minority investor, landlord or operator. Regulators treat each very differently."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-ai-datovych-center-rozhoduje-i-cinsky-kapital-kdo-zaplati--analyza-374661

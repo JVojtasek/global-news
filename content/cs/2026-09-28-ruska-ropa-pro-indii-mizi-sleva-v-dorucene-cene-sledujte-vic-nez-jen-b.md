@@ -13,6 +13,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: 'Ruská ropa pro Indii: mizí'
+impact:
+  areas: [money]
+  line: "Jde hlavně o náklady indických rafinerií. Jinde se to řidičů dotkne jen tehdy, když se dražší ropa a marže na palivech později propíšou do cen u pumpy."
+  todo: "Vedle Brentu sledujte crack spready nafty a benzinu: když rostou oba, část nákladů může dojít až k pumpě; zda se to stalo, ukáže oficiální statistika cen pohonných hmot."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ruska-ropa-pro-indii-mizi-sleva-v-dorucene-cene-sledujte-vic-analyza-375889

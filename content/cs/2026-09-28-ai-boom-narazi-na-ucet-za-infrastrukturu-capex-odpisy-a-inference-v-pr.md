@@ -13,6 +13,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: AI boom narazí na účet
+impact:
+  areas: [money]
+  line: "Většina čtenářů to pocítí nanejvýš přes technologické akcie v penzijním nebo indexovém fondu, které mohou kolísat podle toho, zda se výdaje na AI promění v hotovost, a přes cenu služeb AI."
+  todo: "V příštích výsledcích velkých cloudových firem porovnejte kapitálové výdaje s volným cash flow po investicích; kolik technologií fond drží, ukáže jeho informační list."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-boom-narazi-na-ucet-za-infrastrukturu-capex-odpisy-a-infe-analyza-376121

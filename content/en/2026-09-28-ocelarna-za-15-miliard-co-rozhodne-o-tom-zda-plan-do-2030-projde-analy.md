@@ -10,6 +10,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: 'steel mill furnace sparks'
+impact:
+  areas: [money]
+  line: "Day to day this changes nothing for most readers: production is planned for 2030. In Iowa it could mean jobs; elsewhere any effect would come later through steel prices in cars, houses and machinery."
+  todo: "Watch whether the project names its steelmaking technology, energy supply, financing and long-term buyers; those details show whether the plan is moving."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ocelarna-za-15-miliard-co-rozhodne-o-tom-zda-plan-do-2030-pr-analyza-376024

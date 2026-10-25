@@ -12,6 +12,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: 'Ocelárna za 15 miliard: co'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se dnes nemění nic: výroba má začít až v roce 2030. V Iowě by to mohlo znamenat pracovní místa; jinde by se případný dopad projevil později přes cenu oceli v autech, domech a strojích."
+  todo: "Sledujte, zda projekt upřesní technologii výroby oceli, zdroj energie, financování a dlouhodobé odběratele; podle těchto detailů poznáte, jestli se plán hýbe."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ocelarna-za-15-miliard-co-rozhodne-o-tom-zda-plan-do-2030-pr-analyza-376024

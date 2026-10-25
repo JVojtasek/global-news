@@ -13,6 +13,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: 'Trump–Xi: příměří pro trhy je'
+impact:
+  areas: [money]
+  line: "Samotný summit den po dni mění málo. Kdo kupuje elektroniku nebo drží akcie firem obchodujících mezi USA a Čínou, to může časem pocítit přes náklady firem, ceny a dostupnost zboží."
+  todo: "Sledujte, zda přijdou konkrétní kroky ke clům nebo vývozním licencím, a v příštích výsledcích firem, které držíte, si přečtěte, co říkají o maržích a zásobách."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/trump-xi-primeri-pro-trhy-je-otazka-marzi-zasob-a-capexu-ne--analyza-375750

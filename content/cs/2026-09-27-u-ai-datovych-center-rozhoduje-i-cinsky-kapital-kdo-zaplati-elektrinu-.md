@@ -13,6 +13,10 @@ date: '2026-09-27'
 status: published
 confidence: 0
 image_query: U AI datových center rozhoduje
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím den po dni mění málo. Týká se to hlavně investorů do dodavatelů a provozovatelů datových center, jejichž výnosy závisí na ceně elektřiny, povoleních a tom, jak regulátoři posuzují zahraniční účast."
+  todo: "Když se oznámí obchod s čínskou účastí, ověřte jeho roli: dodavatel, věřitel, menšinový investor, pronajímatel, nebo provozovatel. Regulátoři každou posuzují úplně jinak."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-ai-datovych-center-rozhoduje-i-cinsky-kapital-kdo-zaplati--analyza-374661

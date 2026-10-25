@@ -12,6 +12,10 @@ date: '2026-09-28'
 status: published
 confidence: 0
 image_query: 'container ship at port'
+impact:
+  areas: [money]
+  line: "A summit by itself changes little day to day. Anyone buying electronics or holding shares in firms that trade between the US and China may feel it over time, through company costs, prices and availability."
+  todo: "Look for concrete follow-up measures on tariffs or export licences, and check what companies you hold say about margins and inventories in their next results."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/trump-xi-primeri-pro-trhy-je-otazka-marzi-zasob-a-capexu-ne--analyza-375750
