@@ -2,7 +2,7 @@
 
 - Režim: **autonomous**  ⚠️ nikdo se o projekt 14 dní nestaral – buď opatrnější
 - Práh jistoty pro automatické vydání: **93/100**
-- Článků v zásobě: **11**
+- Článků v zásobě: **10**
 - Jazyk, ve kterém se píše: **en**
 
 ---
