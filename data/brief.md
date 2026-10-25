@@ -9,7 +9,27 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Ukraine troops report ongoing problems with Starlink satellite network
+### 1. Venezuelan opposition leader María Machado returns after months in exile
+- id události: `b4c30b6342df`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Venezuelan opposition leader María Machado returns after months in exile
+    <https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss>
+    > Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.
+  - **The Guardian World** — Exiled opposition leader María Corina Machado returns to Venezuela
+    <https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return>
+    > Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader María Corina Machado has announced she has returned to Venezuela almost a year after she left the country to receive the Nobel p
+  - **NPR News** — Venezuela's opposition leader María Corina Machado returns after months in exile
+    <https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile>
+    > Machado announced her arrival on social media, writing "I am here. With you."
+  - **CNBC Top** — Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen
+    <https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html>
+    > Venezuela's opposition leader Edmundo Gonzalez wrote on X, confirming Machado's arrival and saying he would be next to her "very soon."
+  - **France 24** — Opposition leader Machado returns to Venezuela after 10 months in exile
+    <https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile>
+    > Venezuelan opposition leader Maria Corina Machado announced on Sunday that she has returned to her homeland following almost a year in exile, after covertly leaving Venezuela in late 2025 to receive the Nobel Peace Prize. She returns as doubts about her country’s democratic futur
+
+### 2. Ukraine troops report ongoing problems with Starlink satellite network
 - id události: `cb9eec62df6f`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -26,7 +46,7 @@
     <https://www.aljazeera.com/news/2026/10/23/ukraine-plans-independent-satellite-system-as-starlink-issues-persist?traffic_source=rss>
     > Ukraine to team up with Finnish firms as Starshield problems, started amid Trump-Zelenskyy jibes, continue.
 
-### 2. Spurs clinch rare Stamford Bridge win as Palmer sent off
+### 3. Spurs clinch rare Stamford Bridge win as Palmer sent off
 - id události: `a8e59462be15`  ·  rubrika: `sport`  ·  skóre: 68  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -49,7 +69,7 @@
     <https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report>
     > There are days when Tottenham go into these big games and find ways to beat themselves. This time, though, they held their nerve at a ground where they have mostly only known doom. Spurs played with control, stayed patient and won at Stamford Bridge for the first time since 2018 
 
-### 3. US to host first Women's Club World Cup in 2028
+### 4. US to host first Women's Club World Cup in 2028
 - id události: `7072fa7b7a3b`  ·  rubrika: `sport`  ·  skóre: 66  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -65,26 +85,6 @@
   - **Al Jazeera** — FIFA announces USA to host first Women’s Club World Cup in 2028
     <https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss>
     > FIFA to stage inaugural Women's Club World Cup, with 16 of football's top teams, in United States in 2028.
-
-### 4. Jackson stars with two goals - player ratings for Aston Villa v Man City
-- id události: `5bc56480607d`  ·  rubrika: `sport`  ·  skóre: 66  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — Jackson stars with two goals - player ratings for Aston Villa v Man City
-    <https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&at_campaign=rss>
-    > How Aston Villa and Man City players rated following their Premier League match.
-  - **Guardian Sport** — Chelsea v Tottenham: Premier League – live
-    <https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live>
-    > ⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Live scores | Table | Read Football Daily | Mail Scott Chelsea: Penders, Acheampong, Lacroix, Colwill, Neto, Caicedo, Henderson, Hato, Palmer, Quenda, Rogers. Tottenham Hotspur: Kinsky, Robertson, van Hecke, Maddison, Tel, G
-  - **Guardian Sport** — Maresca ‘not worried’ by Guéhi’s gaffes as Aston Villa end City’s flawless start
-    <https://www.theguardian.com/football/2026/oct/24/maresca-guehi-errors-aston-villa-manchester-city-premier-league>
-    > Defender costs three goals in past two league matches Emery praises ‘fantastic’ match-winner Jackson Enzo Maresca is not concerned by the form of Marc Guéhi despite the defender costing his side three goals in the past two Premier League matches, the Manchester City manager said 
-  - **Al Jazeera** — Man City beaten at Aston Villa as perfect Premier League start ends
-    <https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss>
-    > Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.
-  - **Guardian Sport** — Nicolas Jackson double sees Aston Villa end Manchester City’s perfect start
-    <https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report>
-    > Manchester City added a loss in the Premier League to one to the Premier League, as their perfect record this season vanished without an independent commission in sight. Two of the most in-form strikers in England did battle and it was Nicolas Jackson’s double that meant his side
 
 ---
 
