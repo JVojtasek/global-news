@@ -3,12 +3,12 @@ title: Alice Coachman Had One Olympic Chance
 dek: Two Games disappeared into war while the high jumper kept winning at home. When
   the Olympics returned in 1948, she cleared the bar on her first attempt and made
   history that segregation still tried to contain.
-date: '2026-09-12'
+date: '2026-10-25'
 section: sport
 type: feature
 format: ''
 series: ''
-status: reserve
+status: published
 confidence: 89
 load: 0
 topics: []
