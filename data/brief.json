@@ -1,10 +1,87 @@
 {
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "mode": "autonomous",
  "days_since_human": 15,
  "confidence_threshold": 93,
  "reserve_articles": 10,
  "news_assignments": [
+  {
+   "id": "7a695e6a87c7",
+   "headline": "Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces",
+   "section": "world",
+   "score": 82,
+   "sources_count": 6,
+   "depth_signal": 2,
+   "created": "2026-10-26T01:00:09+00:00",
+   "event_time": "2026-10-26T00:44:10+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces",
+     "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+     "source": "The Guardian World",
+     "summary": "Leftist president Luiz Inácio Lula da Silva defeated far-right senator Flávio Bolsonaro and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport se",
+     "published_at": "2026-10-26T00:44:10+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-26T01:00:03+00:00"
+    },
+    {
+     "title": "Brazil's left-wing President Lula elected for fourth term",
+     "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+     "source": "NPR News",
+     "summary": "Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.",
+     "published_at": "2026-10-26T00:35:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-26T01:00:03+00:00"
+    },
+    {
+     "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+     "url": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+     "source": "The Guardian World",
+     "summary": "Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, has staged a dramatic election fightback , defeating his far-right opponent, Flávio Bolsonaro , to claim a historic fourth term in power. With nearly 99% of votes counted the",
+     "published_at": "2026-10-26T00:19:05+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-26T01:00:03+00:00"
+    },
+    {
+     "title": "Brazil's Lula wins presidential election in runoff vote",
+     "url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+     "source": "CNBC Top",
+     "summary": "Brazil's Lula wins record fourth term in presidential runoff with markets falling and real set to weaken.",
+     "published_at": "2026-10-26T00:47:09+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-26T01:00:03+00:00"
+    },
+    {
+     "title": "Brazil's President Lula da Silva beats Flavio Bolsonaro to win re-election",
+     "url": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election",
+     "source": "France 24",
+     "summary": "Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Flavio Bolsonaro on Sunday. The leftist leader won 51.7 percent of the vote, compared to 48.2 percent for the son of former president Jair Bolsonaro, official results showed.",
+     "published_at": "2026-10-26T00:23:59+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-26T01:00:03+00:00"
+    },
+    {
+     "title": "Lula holds off far right with victory in Brazil presidential election",
+     "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Leftist president mounts stunning comeback after unexpected first round loss galvanised supporters of Flavio Bolsonaro.",
+     "published_at": "2026-10-26T00:16:29+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-26T01:00:03+00:00"
+    },
+    {
+     "title": "Five economic challenges facing Brazil’s re-elected President Lula",
+     "url": "https://www.investing.com/news/economy-news/five-economic-challenges-facing-brazils-reelected-president-lula-4971326",
+     "source": "Investing.com",
+     "summary": "",
+     "published_at": "2026-10-26T00:42:24+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-26T01:00:03+00:00"
+    }
+   ],
+   "depth": "scripture"
+  },
   {
    "id": "b4c30b6342df",
    "headline": "Venezuelan opposition leader María Machado returns after months in exile",
@@ -178,65 +255,6 @@
      "published_at": "2026-10-24T18:32:03+00:00",
      "source_countries": [],
      "seen_at": "2026-10-24T21:24:14+00:00"
-    }
-   ],
-   "depth": "open"
-  },
-  {
-   "id": "5bc56480607d",
-   "headline": "Jackson stars with two goals - player ratings for Aston Villa v Man City",
-   "section": "sport",
-   "score": 66,
-   "sources_count": 3,
-   "depth_signal": 2,
-   "created": "2026-10-24T15:24:02+00:00",
-   "event_time": "2026-10-24T13:25:59+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Jackson stars with two goals - player ratings for Aston Villa v Man City",
-     "url": "https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "How Aston Villa and Man City players rated following their Premier League match.",
-     "published_at": "2026-10-24T13:25:59+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-24T15:23:58+00:00"
-    },
-    {
-     "title": "Chelsea v Tottenham: Premier League – live",
-     "url": "https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live",
-     "source": "Guardian Sport",
-     "summary": "⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Live scores | Table | Read Football Daily | Mail Scott Chelsea: Penders, Acheampong, Lacroix, Colwill, Neto, Caicedo, Henderson, Hato, Palmer, Quenda, Rogers. Tottenham Hotspur: Kinsky, Robertson, van Hecke, Maddison, Tel, Gray, Tonali, Fernandes, Kudus, Marmoush, van de Ven. Continue reading...",
-     "published_at": "2026-10-24T15:17:32+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-24T15:23:58+00:00"
-    },
-    {
-     "title": "Maresca ‘not worried’ by Guéhi’s gaffes as Aston Villa end City’s flawless start",
-     "url": "https://www.theguardian.com/football/2026/oct/24/maresca-guehi-errors-aston-villa-manchester-city-premier-league",
-     "source": "Guardian Sport",
-     "summary": "Defender costs three goals in past two league matches Emery praises ‘fantastic’ match-winner Jackson Enzo Maresca is not concerned by the form of Marc Guéhi despite the defender costing his side three goals in the past two Premier League matches, the Manchester City manager said after seeing his side lose in the league for the first time this season. Nicolas Jackson’s double earned Aston Villa a 2",
-     "published_at": "2026-10-24T15:16:45+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-24T15:23:58+00:00"
-    },
-    {
-     "title": "Man City beaten at Aston Villa as perfect Premier League start ends",
-     "url": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.",
-     "published_at": "2026-10-24T14:04:27+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-24T15:23:58+00:00"
-    },
-    {
-     "title": "Nicolas Jackson double sees Aston Villa end Manchester City’s perfect start",
-     "url": "https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report",
-     "source": "Guardian Sport",
-     "summary": "Manchester City added a loss in the Premier League to one to the Premier League, as their perfect record this season vanished without an independent commission in sight. Two of the most in-form strikers in England did battle and it was Nicolas Jackson’s double that meant his side came out on top against Erling Haaland. City are certainly fallible, losing for the fourth time in a row here, and it w",
-     "published_at": "2026-10-24T13:33:01+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-24T15:23:58+00:00"
     }
    ],
    "depth": "open"

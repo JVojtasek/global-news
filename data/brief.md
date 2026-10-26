@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-25
+# ZADÁNÍ PRO REDAKCI — 2026-10-26
 
 - Režim: **autonomous**  ⚠️ nikdo se o projekt 15 dní nestaral – buď opatrnější
 - Práh jistoty pro automatické vydání: **93/100**
@@ -9,7 +9,32 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Venezuelan opposition leader María Machado returns after months in exile
+### 1. Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces
+- id události: `7a695e6a87c7`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 6
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **The Guardian World** — Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces
+    <https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula>
+    > Leftist president Luiz Inácio Lula da Silva defeated far-right senator Flávio Bolsonaro and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local elector
+  - **NPR News** — Brazil's left-wing President Lula elected for fourth term
+    <https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election>
+    > Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.
+  - **The Guardian World** — Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro
+    <https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election>
+    > Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, has staged a dramatic election fightback , defeating h
+  - **CNBC Top** — Brazil's Lula wins presidential election in runoff vote
+    <https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html>
+    > Brazil's Lula wins record fourth term in presidential runoff with markets falling and real set to weaken.
+  - **France 24** — Brazil's President Lula da Silva beats Flavio Bolsonaro to win re-election
+    <https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election>
+    > Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Flavio Bolsonaro on Sunday. The leftist leader won 51.7 percent of the vote, compared to 48.2 percent for the son of former president Jair Bolsonaro, official resu
+  - **Al Jazeera** — Lula holds off far right with victory in Brazil presidential election
+    <https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss>
+    > Leftist president mounts stunning comeback after unexpected first round loss galvanised supporters of Flavio Bolsonaro.
+  - **Investing.com** — Five economic challenges facing Brazil’s re-elected President Lula
+    <https://www.investing.com/news/economy-news/five-economic-challenges-facing-brazils-reelected-president-lula-4971326>
+
+### 2. Venezuelan opposition leader María Machado returns after months in exile
 - id události: `b4c30b6342df`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -29,7 +54,7 @@
     <https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile>
     > Venezuelan opposition leader Maria Corina Machado announced on Sunday that she has returned to her homeland following almost a year in exile, after covertly leaving Venezuela in late 2025 to receive the Nobel Peace Prize. She returns as doubts about her country’s democratic futur
 
-### 2. Ukraine troops report ongoing problems with Starlink satellite network
+### 3. Ukraine troops report ongoing problems with Starlink satellite network
 - id události: `cb9eec62df6f`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -46,7 +71,7 @@
     <https://www.aljazeera.com/news/2026/10/23/ukraine-plans-independent-satellite-system-as-starlink-issues-persist?traffic_source=rss>
     > Ukraine to team up with Finnish firms as Starshield problems, started amid Trump-Zelenskyy jibes, continue.
 
-### 3. Spurs clinch rare Stamford Bridge win as Palmer sent off
+### 4. Spurs clinch rare Stamford Bridge win as Palmer sent off
 - id události: `a8e59462be15`  ·  rubrika: `sport`  ·  skóre: 68  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -68,26 +93,6 @@
   - **Guardian Sport** — Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off
     <https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report>
     > There are days when Tottenham go into these big games and find ways to beat themselves. This time, though, they held their nerve at a ground where they have mostly only known doom. Spurs played with control, stayed patient and won at Stamford Bridge for the first time since 2018 
-
-### 4. Jackson stars with two goals - player ratings for Aston Villa v Man City
-- id události: `5bc56480607d`  ·  rubrika: `sport`  ·  skóre: 66  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — Jackson stars with two goals - player ratings for Aston Villa v Man City
-    <https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&at_campaign=rss>
-    > How Aston Villa and Man City players rated following their Premier League match.
-  - **Guardian Sport** — Chelsea v Tottenham: Premier League – live
-    <https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live>
-    > ⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Live scores | Table | Read Football Daily | Mail Scott Chelsea: Penders, Acheampong, Lacroix, Colwill, Neto, Caicedo, Henderson, Hato, Palmer, Quenda, Rogers. Tottenham Hotspur: Kinsky, Robertson, van Hecke, Maddison, Tel, G
-  - **Guardian Sport** — Maresca ‘not worried’ by Guéhi’s gaffes as Aston Villa end City’s flawless start
-    <https://www.theguardian.com/football/2026/oct/24/maresca-guehi-errors-aston-villa-manchester-city-premier-league>
-    > Defender costs three goals in past two league matches Emery praises ‘fantastic’ match-winner Jackson Enzo Maresca is not concerned by the form of Marc Guéhi despite the defender costing his side three goals in the past two Premier League matches, the Manchester City manager said 
-  - **Al Jazeera** — Man City beaten at Aston Villa as perfect Premier League start ends
-    <https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss>
-    > Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.
-  - **Guardian Sport** — Nicolas Jackson double sees Aston Villa end Manchester City’s perfect start
-    <https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report>
-    > Manchester City added a loss in the Premier League to one to the Premier League, as their perfect record this season vanished without an independent commission in sight. Two of the most in-form strikers in England did battle and it was Nicolas Jackson’s double that meant his side
 
 ---
 
