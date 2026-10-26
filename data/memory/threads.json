@@ -5,14 +5,17 @@
    "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
    "section": "world",
    "entities": [
-    "thousands",
+    "voting",
     "brazilians",
     "bolsonaro",
+    "thousands",
+    "brazil's",
+    "president",
     "brazil",
     "lula",
-    "voting",
-    "polls",
-    "brazil's"
+    "flavio",
+    "brazilian",
+    "polls"
    ],
    "event_ids": [
     "d92458626c90",
@@ -28,7 +31,8 @@
     "a30f9cf554f4",
     "17bbb9e07e27",
     "99ee164ff663",
-    "7a695e6a87c7"
+    "7a695e6a87c7",
+    "aed458d584ac"
    ],
    "first_seen": "2026-10-04",
    "last_seen": "2026-10-26",
@@ -195,6 +199,17 @@
       "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
       "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
       "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
+     "sources": 2,
+     "score": 46,
+     "event_id": "aed458d584ac",
+     "links": [
+      "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/economy-news/brazils-lula-beats-bolsonaro-to-win-fourth-term-as-president-4971348"
      ]
     }
    ]
@@ -18006,5 +18021,5 @@
    ]
   }
  ],
- "updated": "2026-10-26T01:00:09+00:00"
+ "updated": "2026-10-26T03:35:54+00:00"
 }
