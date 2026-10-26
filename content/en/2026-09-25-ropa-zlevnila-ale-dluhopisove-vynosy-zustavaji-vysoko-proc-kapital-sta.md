@@ -10,6 +10,10 @@ date: '2026-09-25'
 status: published
 confidence: 0
 image_query: 'oil pump jack sunset'
+impact:
+  areas: [money]
+  line: "Cheaper oil may help at the pump, but high bond yields keep the price of money high: mortgages and loans do not get cheaper just because oil fell."
+  todo: "When oil falls, check separately whether long-term government bond yields are falling too; that decides loan and mortgage rates more than the barrel price."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ropa-zlevnila-ale-dluhopisove-vynosy-zustavaji-vysoko-proc-k-analyza-373727

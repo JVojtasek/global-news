@@ -13,6 +13,10 @@ date: '2026-09-25'
 status: published
 confidence: 0
 image_query: Když se zvedá volatilita a
+impact:
+  areas: [money]
+  line: "Většině čtenářů se zatím denně nic nemění. Pokud se kreditní spready udrží široké, podle článku se to časem může projevit dražšími úvěry, opatrnějšími bankami a většími výkyvy investičních účtů."
+  todo: "Sledujte, zda se volatilita dluhopisů, akcie bank a kreditní spready hýbou společně celé týdny, ne jeden červený den; ověřte si, kdy se mění sazba vašeho úvěru."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdyz-se-zveda-volatilita-a-rozsiruji-kreditni-spready-co-hli-analyza-373735

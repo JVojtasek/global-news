@@ -13,6 +13,10 @@ date: '2026-09-25'
 status: published
 confidence: 0
 image_query: 'Miliardové licenční dohody: kolik je'
+impact:
+  areas: [money, health]
+  line: "Lidem s Parkinsonovou nemocí se teď nic nemění: exidavnemab má za sebou jen fázi 1 a míří do fáze 2. Z titulkových 1,2 miliardy USD je jistých jen 100 milionů."
+  todo: "U každé miliardové lékové dohody hledejte nejdřív platbu předem a klinickou fázi, teprve potom věřte číslu v titulku."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/miliardove-licencni-dohody-kolik-je-skutecne-jiste-a-co-jsou-analyza-373582

@@ -13,6 +13,10 @@ date: '2026-09-08'
 status: published
 confidence: 0
 image_query: Eurozóna zrychluje, ale při energetickém
+impact:
+  areas: [money]
+  line: "Pro většinu čtenářů se zatím nic nemění. Pokud by blokace Hormuzského průlivu trvala, může to znamenat dražší energie, dopravu a část zboží v obchodech, i když HDP eurozóny roste."
+  todo: "Sledujte, zda energetický pohyb trvá týdny, ne jen den, a zda firmy ve výsledcích mluví o stlačení marží, nebo o schopnosti zdražit."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/eurozona-zrychluje-ale-pri-energetickem-soku-u-firem-rozhodu-analyza-360371

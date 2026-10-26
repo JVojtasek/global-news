@@ -13,6 +13,10 @@ date: '2026-09-25'
 status: published
 confidence: 0
 image_query: 'Další AI vlna: už nejde'
+impact:
+  areas: [money]
+  line: "Pro většinu čtenářů se dnes nic nemění. Dopad na peněženku je nepřímý: pokud AI zvedne produktivitu, může časem tlačit na ceny služeb a mzdy a ovlivnit hodnotu penzijních a investičních portfolií."
+  todo: "U firem, které mluví o AI, sledujte, zda rostou marže a zda výnosy rostou rychleji než náklady na AI infrastrukturu."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/dalsi-ai-vlna-uz-nejde-jen-o-cipy-ale-o-marze-cash-flow-a-zi-analyza-373461

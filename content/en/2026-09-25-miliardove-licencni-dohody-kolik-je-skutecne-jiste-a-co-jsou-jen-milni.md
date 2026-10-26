@@ -10,6 +10,10 @@ date: '2026-09-25'
 status: published
 confidence: 0
 image_query: 'pharmaceutical laboratory research'
+impact:
+  areas: [money, health]
+  line: "For people with Parkinson's disease nothing changes now: exidavnemab has only completed phase 1 and is heading into phase 2. Of the USD 1.2 billion headline, only USD 100 million is certain."
+  todo: "With any billion-dollar drug deal, look for the upfront payment and the clinical phase before trusting the headline number."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/miliardove-licencni-dohody-kolik-je-skutecne-jiste-a-co-jsou-analyza-373582

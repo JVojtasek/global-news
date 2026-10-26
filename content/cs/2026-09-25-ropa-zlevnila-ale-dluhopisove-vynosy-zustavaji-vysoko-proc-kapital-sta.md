@@ -12,6 +12,10 @@ date: '2026-09-25'
 status: published
 confidence: 0
 image_query: Ropa zlevnila, ale dluhopisové výnosy
+impact:
+  areas: [money]
+  line: "Levnější ropa může pomoct u pumpy, ale vysoké výnosy dluhopisů drží cenu peněz vysoko: hypotéky a úvěry kvůli levnější ropě samy nezlevní."
+  todo: "Když ropa klesá, ověřte zvlášť, zda klesají i dlouhé výnosy státních dluhopisů; o sazbách úvěrů a hypoték rozhodují víc než cena barelu."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ropa-zlevnila-ale-dluhopisove-vynosy-zustavaji-vysoko-proc-k-analyza-373727

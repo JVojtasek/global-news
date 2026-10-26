@@ -13,6 +13,10 @@ date: '2026-09-25'
 status: published
 confidence: 0
 image_query: Růst dlouhých výnosů a term
+impact:
+  areas: [money]
+  line: "Když výnosy nejdelších amerických státních dluhopisů vystoupají na maxima za dvě dekády, dlouhé peníze zdražují. Většina čtenářů to pocítí jen nepřímo: dražšími hypotékami a úvěry a tlakem na fondy růstových akcií."
+  todo: "Sledujte reálné výnosy a term prémii, které zveřejňuje americké ministerstvo financí, trh TIPS a modely Fedu, ne jen titulek o AI."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rust-dlouhych-vynosu-a-term-premie-co-meni-valuace-rustovych-analyza-373456

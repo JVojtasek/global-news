@@ -10,6 +10,10 @@ date: '2026-09-25'
 status: published
 confidence: 0
 image_query: 'trading floor screens'
+impact:
+  areas: [money]
+  line: "Day to day, nothing changes for most readers yet. If wider credit spreads hold, the article says it can show up over time as dearer loans, more cautious banks and bigger swings in investment accounts."
+  todo: "Watch whether bond volatility, bank shares and credit spreads move together for weeks, not one red day; check your own loan's next rate reset."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdyz-se-zveda-volatilita-a-rozsiruji-kreditni-spready-co-hli-analyza-373735

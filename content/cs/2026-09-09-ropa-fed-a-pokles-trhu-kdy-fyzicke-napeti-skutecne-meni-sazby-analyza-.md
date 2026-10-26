@@ -13,6 +13,10 @@ date: '2026-09-09'
 status: published
 confidence: 0
 image_query: 'Ropa, Fed a pokles trhu:'
+impact:
+  areas: [money]
+  line: "Pro většinu čtenářů se zatím nic nemění. Pokud se fyzické napětí na trhu s ropou potvrdí a Fed zpřísní, může se to projevit dražším tankováním, letenkami a dopravou zboží."
+  todo: "Sledujte, zda dvě týdenní zprávy EIA o zásobách po sobě ukážou stejný směr a zda se drží přecenění dvouletých amerických výnosů."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ropa-fed-a-pokles-trhu-kdy-fyzicke-napeti-skutecne-meni-sazb-analyza-361145

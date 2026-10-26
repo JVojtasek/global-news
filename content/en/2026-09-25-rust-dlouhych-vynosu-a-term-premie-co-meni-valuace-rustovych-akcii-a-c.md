@@ -10,6 +10,10 @@ date: '2026-09-25'
 status: published
 confidence: 0
 image_query: 'treasury bonds wall street'
+impact:
+  areas: [money]
+  line: "When the longest US government bond yields hit two-decade highs, long-term money gets dearer. Most readers feel it only indirectly: through pricier mortgages and loans and pressure on growth-stock funds."
+  todo: "Watch real yields and the term premium, which the US Treasury, the TIPS market and Federal Reserve models publish, not just the headline about AI."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rust-dlouhych-vynosu-a-term-premie-co-meni-valuace-rustovych-analyza-373456
