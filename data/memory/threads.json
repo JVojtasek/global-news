@@ -5,17 +5,17 @@
    "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
    "section": "world",
    "entities": [
+    "brazil",
+    "polls",
+    "lula",
+    "bolsonaro",
+    "flavio",
     "voting",
     "brazilians",
-    "bolsonaro",
-    "thousands",
-    "brazil's",
     "president",
-    "brazil",
-    "lula",
-    "flavio",
     "brazilian",
-    "polls"
+    "thousands",
+    "brazil's"
    ],
    "event_ids": [
     "d92458626c90",
@@ -32,7 +32,8 @@
     "17bbb9e07e27",
     "99ee164ff663",
     "7a695e6a87c7",
-    "aed458d584ac"
+    "aed458d584ac",
+    "3624607e43ac"
    ],
    "first_seen": "2026-10-04",
    "last_seen": "2026-10-26",
@@ -211,6 +212,17 @@
       "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
       "https://www.investing.com/news/economy-news/brazils-lula-beats-bolsonaro-to-win-fourth-term-as-president-4971348"
      ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Brazil keeps left: what Lula’s victory means for his country and beyond",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3624607e43ac",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
+      "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -339,6 +351,37 @@
      "links": [
       "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
       "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "be0f10ab2a6e",
+   "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+   "section": "world",
+   "entities": [
+    "trump",
+    "minaj",
+    "michigan",
+    "nicki",
+    "rapper"
+   ],
+   "event_ids": [
+    "be0f10ab2a6e"
+   ],
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "timeline": [
+    {
+     "date": "2026-10-26",
+     "headline": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+     "sources": 3,
+     "score": 57,
+     "event_id": "be0f10ab2a6e",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss"
      ]
     }
    ]
@@ -18021,5 +18064,5 @@
    ]
   }
  ],
- "updated": "2026-10-26T03:35:54+00:00"
+ "updated": "2026-10-26T06:53:43+00:00"
 }
