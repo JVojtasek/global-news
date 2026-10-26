@@ -4389,6 +4389,69 @@
    ]
   },
   {
+   "id": "db746dbf03ec",
+   "title": "First human case of Shamonda virus detected in France, officials say",
+   "section": "world",
+   "entities": [
+    "france",
+    "pathogen",
+    "first",
+    "usually",
+    "know",
+    "virus",
+    "time",
+    "infected",
+    "found",
+    "person",
+    "shamonda",
+    "livestock",
+    "killed",
+    "here's"
+   ],
+   "event_ids": [
+    "db746dbf03ec",
+    "c5548c0cafe9",
+    "04841d9b21fa"
+   ],
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-10-26",
+   "timeline": [
+    {
+     "date": "2026-10-22",
+     "headline": "First human case of Shamonda virus detected in France, officials say",
+     "sources": 5,
+     "score": 67,
+     "event_id": "db746dbf03ec",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Shamonda virus detected in human for first time in France",
+     "sources": 2,
+     "score": 44,
+     "event_id": "c5548c0cafe9",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
+      "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Shamonda Virus Infected and Killed a Person for the First Time. Here's What to Know About the Pathogen Usually Found in Livestock",
+     "sources": 1,
+     "score": 43,
+     "event_id": "04841d9b21fa",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/shamonda-virus-infected-and-killed-a-person-for-the-first-time-heres-what-to-know-about-the-pathogen-usually-found-in-livestock-180989756/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "c9833fcbd131",
    "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
    "section": "world",
@@ -4442,6 +4505,35 @@
       "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/brazil-what-does-lula-s-re-election-mean-for-the-amazon",
       "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "84f97e2b56f8",
+   "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+   "section": "world",
+   "entities": [
+    "comey's",
+    "james",
+    "trump"
+   ],
+   "event_ids": [
+    "84f97e2b56f8"
+   ],
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "timeline": [
+    {
+     "date": "2026-10-26",
+     "headline": "Trump administration illegally fired James Comey's daughter, judge rules",
+     "sources": 3,
+     "score": 56,
+     "event_id": "84f97e2b56f8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+      "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss"
      ]
     }
    ]
@@ -10366,47 +10458,6 @@
      "links": [
       "https://www.bbc.co.uk/sport/cycling/articles/cq1kd0z33r8ro?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/sport/2026/oct/22/tour-de-france-2027-routes-revealed"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "db746dbf03ec",
-   "title": "First human case of Shamonda virus detected in France, officials say",
-   "section": "world",
-   "entities": [
-    "first",
-    "france",
-    "shamonda"
-   ],
-   "event_ids": [
-    "db746dbf03ec",
-    "c5548c0cafe9"
-   ],
-   "first_seen": "2026-10-22",
-   "last_seen": "2026-10-22",
-   "timeline": [
-    {
-     "date": "2026-10-22",
-     "headline": "First human case of Shamonda virus detected in France, officials say",
-     "sources": 5,
-     "score": 67,
-     "event_id": "db746dbf03ec",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Shamonda virus detected in human for first time in France",
-     "sources": 2,
-     "score": 44,
-     "event_id": "c5548c0cafe9",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
-      "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -18273,5 +18324,5 @@
    ]
   }
  ],
- "updated": "2026-10-26T18:40:42+00:00"
+ "updated": "2026-10-26T21:26:36+00:00"
 }
