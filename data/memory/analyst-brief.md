@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-26
 
-Paměť obsahuje **165 vláken**. Aktivních za posledních 14 dní: **45**.
+Paměť obsahuje **166 vláken**. Aktivních za posledních 14 dní: **45**.
 
 ---
 
@@ -37,9 +37,6 @@ Paměť obsahuje **165 vláken**. Aktivních za posledních 14 dní: **45**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 78 dní · 60 záznamů
 - časová osa:
-  - **2026-10-17** (2 zdrojů) Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
-  - **2026-10-19** (4 zdrojů) Trump says suspension of Russia sanctions is to keep peace negotiations going
-  - **2026-10-19** (2 zdrojů) Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
   - **2026-10-20** (2 zdrojů) US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
   - **2026-10-21** (4 zdrojů) US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
   - **2026-10-21** (2 zdrojů) Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
@@ -47,6 +44,9 @@ Paměť obsahuje **165 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-21** (4 zdrojů) Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
   - **2026-10-22** (2 zdrojů) Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live
   - **2026-10-26** (3 zdrojů) Donald Trump has been a disaster for rural America | Steven Greenhouse
+  - **2026-10-26** (2 zdrojů) Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours
+  - **2026-10-26** (2 zdrojů) What Germany thinks of carmaker Audi's $4 billion deal with Trump
+  - **2026-10-26** (2 zdrojů) Trump announces Audi will build $4 billion factory in US
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 76 dní · 60 záznamů

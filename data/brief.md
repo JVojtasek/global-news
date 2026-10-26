@@ -1,6 +1,6 @@
 # ZADÁNÍ PRO REDAKCI — 2026-10-26
 
-- Režim: **autonomous**  ⚠️ nikdo se o projekt 15 dní nestaral – buď opatrnější
+- Režim: **autonomous**  ⚠️ nikdo se o projekt 16 dní nestaral – buď opatrnější
 - Práh jistoty pro automatické vydání: **93/100**
 - Článků v zásobě: **10**
 - Jazyk, ve kterém se píše: **en**

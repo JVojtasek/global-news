@@ -1685,46 +1685,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "ukraine",
-    "ukrainian",
-    "block",
-    "saudi",
-    "modi",
-    "seoul's",
-    "kuwait",
-    "brics",
+    "roth",
+    "putin",
+    "vladimir",
+    "andrew",
+    "president",
+    "poland",
+    "germany",
+    "merz",
+    "tiny",
     "briton",
     "united",
-    "europe",
-    "steven",
-    "roth",
-    "down",
-    "putin",
-    "starlink",
-    "president",
-    "korea",
-    "times",
-    "beijing",
-    "greenhouse",
-    "andrew",
-    "vladimir",
-    "states",
+    "asia",
+    "block",
     "britain",
-    "kyiv's",
-    "poland",
-    "america",
-    "northeastern",
+    "states",
+    "audi",
     "saudis",
-    "gulf",
     "trump",
-    "russian",
-    "kyiv",
-    "riyadh",
+    "modi",
     "bringing",
-    "tiny",
-    "removals",
+    "chancellor",
+    "iran's",
+    "kyiv",
+    "russian",
     "american",
-    "iran's"
+    "saudi",
+    "northeastern",
+    "audi's",
+    "removals",
+    "ukrainian",
+    "korea",
+    "gulf",
+    "brics",
+    "union",
+    "ukraine",
+    "riyadh",
+    "seoul's",
+    "steven",
+    "kuwait",
+    "beijing"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -1886,44 +1886,14 @@
     "54022857dc5a",
     "eeea44ccd13a",
     "1928454a3088",
-    "e088e48f01a5"
+    "e088e48f01a5",
+    "fc89a62ac6e6",
+    "c9c8578e0908",
+    "3fe21f14fc96"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-10-26",
    "timeline": [
-    {
-     "date": "2026-09-28",
-     "headline": "Saudis 'furious': Trump ‘flips & flops’ between deals with Iran and ‘attacks in devastating fashion’",
-     "sources": 2,
-     "score": 42,
-     "event_id": "e2d5740f3cee",
-     "links": [
-      "https://www.france24.com/en/tv-shows/spotlight/20260928-saudis-furious-trump-flips-flops-between-deal-with-iran-and-attacks-in-devastating-fashion",
-      "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets",
-     "sources": 2,
-     "score": 46,
-     "event_id": "1bef1a0a3ff1",
-     "links": [
-      "https://www.cnbc.com/2026/09/29/luckin-coffee-mubadala-middle-east-temasek-centurium-capital.html",
-      "https://www.investing.com/news/commodities-news/oil-prices-rise-for-second-session-on-continued-middle-east-supply-concern-4921465"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Iran says it expects US response Tuesday on plan to reopen Strait of Hormuz",
-     "sources": 2,
-     "score": 46,
-     "event_id": "b66853ff84fa",
-     "links": [
-      "https://www.france24.com/en/middle-east/20260929-iran-says-expects-us-response-tuesday-plan-reopen-strait-of-hormuz",
-      "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-09-29",
      "headline": "Danger zone: why war in the Middle East has landed the RBA’s inflation fight in tricky territory",
@@ -2575,6 +2545,39 @@
       "https://www.france24.com/en/americas/20261026-lula-wins-brazil-election-but-faces-uphill-battle-to-govern",
       "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours",
+     "sources": 2,
+     "score": 52,
+     "event_id": "fc89a62ac6e6",
+     "links": [
+      "https://www.dw.com/en/germany-news-union-slams-audi-ceo-for-joining-trump-at-campaign-rally-while-chancellor-merz-and-president-steinmeier-embark-on-separate-asia-tours/live-79760097?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/stock-market-news/audi-ceos-appearance-at-trump-rally-was-deeply-embarrassing-ig-metall-head-says-4971531"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
+     "sources": 2,
+     "score": 44,
+     "event_id": "c9c8578e0908",
+     "links": [
+      "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Trump announces Audi will build $4 billion factory in US",
+     "sources": 2,
+     "score": 41,
+     "event_id": "3fe21f14fc96",
+     "links": [
+      "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/economy-news/trump-touts-4-billion-audi-plant-in-georgia-as-he-defends-tariffs-4971027"
+     ]
     }
    ]
   },
@@ -3173,32 +3176,32 @@
    "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
    "section": "world",
    "entities": [
-    "sanchez",
-    "andy",
-    "britain",
-    "stinky",
-    "water",
     "wednesday",
-    "pmqs",
-    "hospitality",
-    "crace",
-    "guardian",
-    "tory",
-    "macron",
-    "london",
-    "editorial",
-    "british",
-    "brexit",
-    "thames",
-    "burnham",
-    "john",
-    "starmer",
-    "healey",
     "u-turn",
     "labour",
+    "guardian",
+    "heathrow",
+    "stinky",
+    "pmqs",
+    "hospitality",
+    "thames",
+    "starmer",
+    "andy",
+    "tory",
+    "sanchez",
+    "john",
+    "burnham",
     "france's",
+    "british",
+    "britain",
+    "london",
+    "crace",
     "spain's",
-    "heathrow"
+    "editorial",
+    "water",
+    "brexit",
+    "macron",
+    "healey"
    ],
    "event_ids": [
     "eca0fc692bc0",
@@ -3221,7 +3224,8 @@
     "aa853b613107",
     "9cf78de3fccf",
     "bf6279ad02f6",
-    "115a57eb0db7"
+    "115a57eb0db7",
+    "e85e227fa364"
    ],
    "first_seen": "2026-09-03",
    "last_seen": "2026-10-26",
@@ -3461,6 +3465,18 @@
       "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
       "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham"
      ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
+     "sources": 2,
+     "score": 47,
+     "event_id": "e85e227fa364",
+     "links": [
+      "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
+      "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
+      "https://www.theguardian.com/politics/audio/2026/oct/26/what-makes-andy-burnham-think-britain-can-rejoin-the-eu-podcast"
+     ]
     }
    ]
   },
@@ -3469,17 +3485,17 @@
    "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
    "section": "world",
    "entities": [
-    "voting",
-    "flavio",
     "lula",
-    "president",
+    "brazil",
     "brazilians",
-    "brazil's",
-    "brazilian",
+    "president",
+    "flavio",
+    "voting",
+    "thousands",
     "bolsonaro",
     "polls",
-    "brazil",
-    "thousands"
+    "brazilian",
+    "brazil's"
    ],
    "event_ids": [
     "d92458626c90",
@@ -3499,7 +3515,8 @@
     "aed458d584ac",
     "3624607e43ac",
     "f5819427a8c6",
-    "199eecef3d47"
+    "199eecef3d47",
+    "9b5228a9b7e3"
    ],
    "first_seen": "2026-10-04",
    "last_seen": "2026-10-26",
@@ -3712,6 +3729,18 @@
       "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/lula-wins-fourth-term-what-are-the-reactions-in-brazil",
       "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "How the streets and social media drove Lula to a historic comeback in Brazil",
+     "sources": 3,
+     "score": 63,
+     "event_id": "9b5228a9b7e3",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+      "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
+      "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win"
      ]
     }
    ]
@@ -4383,6 +4412,36 @@
       "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/music/2026/oct/26/chris-brown-suspended-sentence-bottle-attack-london-club"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "706af2d11176",
+   "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+   "section": "world",
+   "entities": [
+    "lula's",
+    "whatsapp",
+    "brazil",
+    "army"
+   ],
+   "event_ids": [
+    "706af2d11176"
+   ],
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-26",
+   "timeline": [
+    {
+     "date": "2026-10-26",
+     "headline": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+     "sources": 2,
+     "score": 60,
+     "event_id": "706af2d11176",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/brazil-what-does-lula-s-re-election-mean-for-the-amazon",
+      "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election"
      ]
     }
    ]
@@ -18214,5 +18273,5 @@
    ]
   }
  ],
- "updated": "2026-10-26T15:39:51+00:00"
+ "updated": "2026-10-26T18:40:42+00:00"
 }
