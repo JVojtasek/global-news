@@ -54,24 +54,7 @@
     <https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile>
     > Venezuelan opposition leader Maria Corina Machado announced on Sunday that she has returned to her homeland following almost a year in exile, after covertly leaving Venezuela in late 2025 to receive the Nobel Peace Prize. She returns as doubts about her country’s democratic futur
 
-### 3. Ukraine troops report ongoing problems with Starlink satellite network
-- id události: `cb9eec62df6f`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **The Guardian World** — Ukraine troops report ongoing problems with Starlink satellite network
-    <https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network>
-    > Communications system still faces speed restrictions despite Trump claim that Musk had resumed full service Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row? Ukrainian forces continue to report widespread disruptions to the Starlink satellite network , despi
-  - **Ars Technica** — Ukraine learns to fight without Starlink as Musk plays politics with satellites
-    <https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/>
-    > Ukraine has changed drones and war-fighting tech to reduce reliance on Starlink.
-  - **CNBC Top** — Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine
-    <https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html>
-    > A letter demanding an investigation indicates Democrats will make investigating Starlink's interruption a top priority if they win control of the U.S. House.
-  - **Al Jazeera** — Ukraine plans independent satellite system as Starlink issues persist
-    <https://www.aljazeera.com/news/2026/10/23/ukraine-plans-independent-satellite-system-as-starlink-issues-persist?traffic_source=rss>
-    > Ukraine to team up with Finnish firms as Starshield problems, started amid Trump-Zelenskyy jibes, continue.
-
-### 4. Spurs clinch rare Stamford Bridge win as Palmer sent off
+### 3. Spurs clinch rare Stamford Bridge win as Palmer sent off
 - id události: `a8e59462be15`  ·  rubrika: `sport`  ·  skóre: 68  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -93,6 +76,26 @@
   - **Guardian Sport** — Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off
     <https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report>
     > There are days when Tottenham go into these big games and find ways to beat themselves. This time, though, they held their nerve at a ground where they have mostly only known doom. Spurs played with control, stayed patient and won at Stamford Bridge for the first time since 2018 
+
+### 4. Jackson stars with two goals - player ratings for Aston Villa v Man City
+- id události: `5bc56480607d`  ·  rubrika: `sport`  ·  skóre: 66  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — Jackson stars with two goals - player ratings for Aston Villa v Man City
+    <https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&at_campaign=rss>
+    > How Aston Villa and Man City players rated following their Premier League match.
+  - **Guardian Sport** — Chelsea v Tottenham: Premier League – live
+    <https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live>
+    > ⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Live scores | Table | Read Football Daily | Mail Scott Chelsea: Penders, Acheampong, Lacroix, Colwill, Neto, Caicedo, Henderson, Hato, Palmer, Quenda, Rogers. Tottenham Hotspur: Kinsky, Robertson, van Hecke, Maddison, Tel, G
+  - **Guardian Sport** — Maresca ‘not worried’ by Guéhi’s gaffes as Aston Villa end City’s flawless start
+    <https://www.theguardian.com/football/2026/oct/24/maresca-guehi-errors-aston-villa-manchester-city-premier-league>
+    > Defender costs three goals in past two league matches Emery praises ‘fantastic’ match-winner Jackson Enzo Maresca is not concerned by the form of Marc Guéhi despite the defender costing his side three goals in the past two Premier League matches, the Manchester City manager said 
+  - **Al Jazeera** — Man City beaten at Aston Villa as perfect Premier League start ends
+    <https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss>
+    > Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.
+  - **Guardian Sport** — Nicolas Jackson double sees Aston Villa end Manchester City’s perfect start
+    <https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report>
+    > Manchester City added a loss in the Premier League to one to the Premier League, as their perfect record this season vanished without an independent commission in sight. Two of the most in-form strikers in England did battle and it was Nicolas Jackson’s double that meant his side
 
 ---
 
@@ -125,7 +128,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-16  (2 zdrojů, síla 40)  Repairing Brexit economic damage should be Burnham’s top priority, business chief says
   2026-10-16  (4 zdrojů, síla 71)  Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
   2026-10-17  (2 zdrojů, síla 50)  🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
   2026-10-17  (2 zdrojů, síla 45)  Israeli settlers attack European diplomats in West Bank
@@ -145,6 +147,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-25  (2 zdrojů, síla 40)  Israel to close occupied West Bank crossings as it locks down Hebron
   2026-10-25  (2 zdrojů, síla 42)  Israeli soldiers raze neighbourhood in Hebron, driving families from homes
   2026-10-25  (3 zdrojů, síla 52)  Israel to close all West Bank land crossings on election day
+  2026-10-26  (2 zdrojů, síla 42)  Who are the Israeli candidates trying to unseat Netanyahu?
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -154,7 +157,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-17  (2 zdrojů, síla 42)  Manzambi heads Villa to victory at Newcastle
   2026-10-18  (2 zdrojů, síla 53)  LIVE: Leeds United vs Manchester United – Premier League
   2026-10-18  (2 zdrojů, síla 40)  Manchester City owner’s £55m housing loan while Burnham was mayor investigated
   2026-10-18  (3 zdrojů, síla 60)  Man Utd showed 'unity' in draw with Leeds - Carrick
@@ -174,6 +176,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live
   2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City
   2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL
+  2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?
 ```
 
 ---

@@ -1,15 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-26
 
-Paměť obsahuje **164 vláken**. Aktivních za posledních 14 dní: **43**.
+Paměť obsahuje **165 vláken**. Aktivních za posledních 14 dní: **45**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 73 dní · 60 záznamů
+- rubrika `world` · sledováno 74 dní · 60 záznamů
 - časová osa:
-  - **2026-10-23** (3 zdrojů) Israel preparing 'full closure' of West Bank, Netanyahu says
   - **2026-10-23** (3 zdrojů) Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
   - **2026-10-23** (3 zdrojů) Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
   - **2026-10-23** (2 zdrojů) Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
@@ -19,11 +18,11 @@ Paměť obsahuje **164 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-25** (2 zdrojů) Israel to close occupied West Bank crossings as it locks down Hebron
   - **2026-10-25** (2 zdrojů) Israeli soldiers raze neighbourhood in Hebron, driving families from homes
   - **2026-10-25** (3 zdrojů) Israel to close all West Bank land crossings on election day
+  - **2026-10-26** (2 zdrojů) Who are the Israeli candidates trying to unseat Netanyahu?
 
 ### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 68 dní · 60 záznamů
+- rubrika `sport` · sledováno 69 dní · 60 záznamů
 - časová osa:
-  - **2026-10-21** (2 zdrojů) Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
   - **2026-10-21** (2 zdrojů) Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
   - **2026-10-22** (4 zdrojů) Real Madrid dominate Leipzig for third straight win
   - **2026-10-22** (2 zdrojů) Villa maintain perfect Champions League start with Viking victory
@@ -33,6 +32,21 @@ Paměť obsahuje **164 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-24** (1 zdrojů) Aston Villa v Manchester City: Premier League – live
   - **2026-10-24** (3 zdrojů) Jackson stars with two goals - player ratings for Aston Villa v Man City
   - **2026-10-25** (2 zdrojů) Terland strikes late as United end Manchester City’s winning start in WSL
+  - **2026-10-26** (2 zdrojů) Manchester United crisis: What are the top five problems facing the club?
+
+### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- rubrika `world` · sledováno 78 dní · 60 záznamů
+- časová osa:
+  - **2026-10-17** (2 zdrojů) Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
+  - **2026-10-19** (4 zdrojů) Trump says suspension of Russia sanctions is to keep peace negotiations going
+  - **2026-10-19** (2 zdrojů) Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
+  - **2026-10-20** (2 zdrojů) US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
+  - **2026-10-21** (4 zdrojů) US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
+  - **2026-10-21** (2 zdrojů) Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
+  - **2026-10-21** (1 zdrojů) ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
+  - **2026-10-21** (4 zdrojů) Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
+  - **2026-10-22** (2 zdrojů) Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live
+  - **2026-10-26** (3 zdrojů) Donald Trump has been a disaster for rural America | Steven Greenhouse
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 76 dní · 60 záznamů
@@ -47,20 +61,6 @@ Paměť obsahuje **164 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
   - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
   - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
-
-### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 74 dní · 60 záznamů
-- časová osa:
-  - **2026-10-17** (2 zdrojů) Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
-  - **2026-10-17** (2 zdrojů) Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
-  - **2026-10-19** (4 zdrojů) Trump says suspension of Russia sanctions is to keep peace negotiations going
-  - **2026-10-19** (2 zdrojů) Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
-  - **2026-10-20** (2 zdrojů) US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
-  - **2026-10-21** (4 zdrojů) US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
-  - **2026-10-21** (2 zdrojů) Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
-  - **2026-10-21** (1 zdrojů) ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
-  - **2026-10-21** (4 zdrojů) Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
-  - **2026-10-22** (2 zdrojů) Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 72 dní · 60 záznamů
