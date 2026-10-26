@@ -13,6 +13,10 @@ date: '2026-09-23'
 status: published
 confidence: 0
 image_query: 'Hormuz: jak šoky mění rozdíl'
+impact:
+  areas: [money]
+  line: "Kdo létá nebo platí za přepravu zboží, může dopad potkat později v dražších letenkách či dopravních příplatcích. Nedostatek hotové nafty a leteckého paliva zvyšuje náklady aerolinek i přepravních firem."
+  todo: "U letenky si ověřte, zda cena obsahuje palivový příplatek; ve zprávách sledujte, co zdražuje nejvíc: ropa, nafta, nebo letecké palivo."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hormuz-jak-soky-meni-rozdil-mezi-jet-crackem-a-diesel-ulsd-c-analyza-371891

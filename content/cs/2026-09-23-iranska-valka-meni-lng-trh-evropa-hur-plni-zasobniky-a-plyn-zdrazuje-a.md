@@ -12,6 +12,10 @@ date: '2026-09-23'
 status: published
 confidence: 0
 image_query: 'Íránská válka mění LNG trh:'
+impact:
+  areas: [money]
+  line: "Kdo platí účty za plyn či elektřinu, může tlak pocítit postupně, ne hned a ne všude stejně: napjatější trh LNG zdražuje plyn a to se propisuje do elektřiny, hnojiv, chemie i účtů domácností."
+  todo: "Sledujte tempo plnění evropských zásobníků proti sezónnímu normálu (data zveřejňuje platforma AGSI+) a rozdíl mezi evropskou cenou TTF a asijskou JKM."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/iranska-valka-meni-lng-trh-evropa-hur-plni-zasobniky-a-plyn--analyza-372007

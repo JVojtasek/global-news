@@ -12,6 +12,10 @@ date: '2026-09-23'
 status: published
 confidence: 0
 image_query: 'LNG tanker at sea'
+impact:
+  areas: [money]
+  line: "Anyone paying gas or electricity bills may feel the pressure gradually, not at once and not equally everywhere: a tighter LNG market raises gas prices, which feeds into electricity, fertiliser, chemicals and household bills."
+  todo: "Watch how fast European gas storage fills against the seasonal norm (the AGSI+ platform publishes the data) and the gap between Europe's TTF and Asia's JKM prices."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/iranska-valka-meni-lng-trh-evropa-hur-plni-zasobniky-a-plyn--analyza-372007

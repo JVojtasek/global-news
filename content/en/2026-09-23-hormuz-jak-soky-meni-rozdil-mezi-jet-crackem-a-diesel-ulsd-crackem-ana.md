@@ -14,6 +14,10 @@ date: '2026-09-23'
 status: published
 confidence: 0
 image_query: 'oil refinery at dusk'
+impact:
+  areas: [money]
+  line: "Anyone who flies or pays to ship goods may meet the effect later in pricier tickets or transport surcharges. A shortage of finished diesel and jet fuel raises costs for airlines and freight companies."
+  todo: "Check whether a ticket price includes a fuel surcharge; in the news, watch which is rising fastest: crude oil, diesel or jet fuel."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hormuz-jak-soky-meni-rozdil-mezi-jet-crackem-a-diesel-ulsd-c-analyza-371891

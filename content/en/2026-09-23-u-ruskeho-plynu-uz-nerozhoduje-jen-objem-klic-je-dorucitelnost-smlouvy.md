@@ -13,6 +13,10 @@ date: '2026-09-23'
 status: published
 confidence: 0
 image_query: 'natural gas pipeline compressor station'
+impact:
+  areas: [money]
+  line: "Day to day, nothing changes for most readers; what matters is that gas prices depend not only on output, but on whether a route and a contract reach the customer. That can make energy bills more sensitive to disruptions."
+  todo: "In similar news, ask three things: where the gas can physically flow, who will buy and pay for it, and what the producer keeps after transport and discounts."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-ruskeho-plynu-uz-nerozhoduje-jen-objem-klic-je-dorucitelno-analyza-372017

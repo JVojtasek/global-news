@@ -10,6 +10,10 @@ date: '2026-09-24'
 status: published
 confidence: 0
 image_query: 'bank skyscraper glass facade'
+impact:
+  areas: [money]
+  line: "Day to day, nothing changes for most readers; what matters is that a bank's profit also depends on how much it must pay depositors. For BAC shareholders, earnings quality decides: margins, reserves and loan charge-offs, not just the discount to fair value."
+  todo: "In a bank's results, check net interest income, deposit costs, loan-loss reserves and net loan charge-offs."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/bank-of-america-po-vyprodeji-deposit-beta-rezervy-a-odpisy-u-analyza-372794

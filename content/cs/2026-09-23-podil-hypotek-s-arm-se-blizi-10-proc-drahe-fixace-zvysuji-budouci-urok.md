@@ -13,6 +13,10 @@ date: '2026-09-23'
 status: published
 confidence: 0
 image_query: Podíl hypoték s ARM se
+impact:
+  areas: [money]
+  line: "Kdo zvažuje hypotéku s pohyblivou sazbou kvůli nižší úvodní splátce, nese větší riziko, že splátka po změně sazby vzroste. Nižší startovní splátka není totéž co levnější riziko."
+  todo: "Nechte si od banky vysvětlit, kdy a podle čeho se sazba mění, zda má strop a jaká by byla splátka při vyšší sazbě."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/podil-hypotek-s-arm-se-blizi-10-proc-drahe-fixace-zvysuji-bu-analyza-372015

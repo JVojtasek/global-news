@@ -13,6 +13,10 @@ date: '2026-09-23'
 status: published
 confidence: 0
 image_query: U ruského plynu už nerozhoduje
+impact:
+  areas: [money]
+  line: "Většině čtenářů se denně nic nemění; podstatné je, že cenu plynu neurčuje jen objem těžby, ale i to, zda k zákazníkovi vede trasa a smlouva. Proto mohou být účty za energie citlivější na výpadky."
+  todo: "U podobných zpráv hledejte tři věci: kudy plyn fyzicky poteče, kdo ho odebere a zaplatí a kolik producentovi zůstane po dopravě a slevách."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-ruskeho-plynu-uz-nerozhoduje-jen-objem-klic-je-dorucitelno-analyza-372017

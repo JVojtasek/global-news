@@ -13,6 +13,10 @@ date: '2026-09-24'
 status: published
 confidence: 0
 image_query: 'Bank of America po výprodeji:'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se denně nic nemění; podstatné je, že zisk banky závisí i na tom, kolik musí platit vkladatelům. Pro držitele akcií BAC rozhoduje kvalita zisku: marže, rezervy a odpisy úvěrů, ne jen sleva proti férové hodnotě."
+  todo: "Ve výsledcích banky si ověřte čistý úrokový výnos, náklady vkladů, rezervy na úvěrové ztráty a čisté odpisy úvěrů."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/bank-of-america-po-vyprodeji-deposit-beta-rezervy-a-odpisy-u-analyza-372794

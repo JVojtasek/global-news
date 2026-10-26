@@ -13,6 +13,10 @@ date: '2026-09-23'
 status: published
 confidence: 0
 image_query: 'suburban house for sale'
+impact:
+  areas: [money]
+  line: "Anyone weighing a variable-rate mortgage for its lower starting payment carries more risk that the payment rises when the rate resets. A lower starting payment is not the same as lower risk."
+  todo: "Ask the lender when and how the rate resets, whether there is a cap, and what the payment would be at a higher rate."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/podil-hypotek-s-arm-se-blizi-10-proc-drahe-fixace-zvysuji-bu-analyza-372015
