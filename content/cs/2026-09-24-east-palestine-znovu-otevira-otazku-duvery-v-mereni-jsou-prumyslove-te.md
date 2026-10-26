@@ -12,6 +12,10 @@ date: '2026-09-24'
 status: published
 confidence: 0
 image_query: East Palestine znovu otevírá otázku
+impact:
+  areas: [safety]
+  line: "Většině čtenářů se denně nic nemění; podstatné je, že nula v laboratorní zprávě nemusí znamenat nic, jen hodnotu pod limitem detekce. Na důvěře v taková měření stojí uzavírání ekologických kauz."
+  todo: "U zprávy o testech vody, půdy či vzduchu ověřte, zda uvádí limit detekce a zda výsledky potvrdilo nezávislé přetestování."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/east-palestine-znovu-otevira-otazku-duvery-v-mereni-jsou-pru-analyza-372671

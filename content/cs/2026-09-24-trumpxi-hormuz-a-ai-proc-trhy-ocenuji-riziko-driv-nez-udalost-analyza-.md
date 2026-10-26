@@ -13,6 +13,10 @@ date: '2026-09-24'
 status: published
 confidence: 0
 image_query: 'Trump–Xi, Hormuz a AI: proč'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se zatím nic nemění. Hrozba kolem Hormuzu, kudy podle EIA prochází zhruba pětina světové spotřeby ropných kapalin, ale může zdražit ropu, LNG, letenky a dopravu zboží dřív, než se fyzicky cokoli stane."
+  todo: "U summitu Trump–Si hledejte písemný text o clech a licencích, ne jen optimistickou rétoriku; u energií sledujte cenu ropy Brent místo titulků o hrozbách."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/trump-xi-hormuz-a-ai-proc-trhy-ocenuji-riziko-driv-nez-udalo-analyza-372678

@@ -13,6 +13,10 @@ date: '2026-09-24'
 status: published
 confidence: 0
 image_query: 'oil tanker strait sea'
+impact:
+  areas: [money]
+  line: "Nothing changes for most readers yet. But the threat around Hormuz, which the EIA says carries about a fifth of global oil liquids consumption, can push up oil, LNG, airfares and freight before anything physically happens."
+  todo: "For the Trump–Xi summit, look for written terms on tariffs and licences, not just upbeat rhetoric; for energy, watch the Brent oil price rather than threat headlines."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/trump-xi-hormuz-a-ai-proc-trhy-ocenuji-riziko-driv-nez-udalo-analyza-372678

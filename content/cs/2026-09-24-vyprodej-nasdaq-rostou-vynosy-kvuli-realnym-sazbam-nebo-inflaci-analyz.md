@@ -13,6 +13,10 @@ date: '2026-09-24'
 status: published
 confidence: 0
 image_query: 'Výprodej Nasdaq: rostou výnosy kvůli'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se denně nic nemění. Podle článku ale rostoucí reálné výnosy mohou pro běžného člověka znamenat dražší financování a nervóznější trhy; dražší ropa k tomu přidává obavu z návratu inflace."
+  todo: "U zprávy o propadu Nasdaqu ověřte, zda roste hlavně reálný výnos amerických dluhopisů TIPS, nebo inflační očekávání; každé vypráví jiný příběh."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/vyprodej-nasdaq-rostou-vynosy-kvuli-realnym-sazbam-nebo-infl-analyza-372791

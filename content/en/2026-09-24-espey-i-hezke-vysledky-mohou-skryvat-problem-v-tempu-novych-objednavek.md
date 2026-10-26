@@ -13,6 +13,10 @@ date: '2026-09-24'
 status: published
 confidence: 0
 image_query: 'electronics manufacturing assembly line'
+impact:
+  areas: [money]
+  line: "Day to day, nothing changes for most readers; what matters is that strong revenue can hide a thinning flow of orders. Espey's book-to-bill is about 0.77, so new orders did not cover the work delivered."
+  todo: "For order-driven companies, compare new orders with revenue: a book-to-bill below 1 means the backlog of work is shrinking."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/espey-i-hezke-vysledky-mohou-skryvat-problem-v-tempu-novych--analyza-372967

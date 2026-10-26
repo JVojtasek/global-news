@@ -13,6 +13,10 @@ date: '2026-09-24'
 status: published
 confidence: 0
 image_query: 'environmental water sampling laboratory'
+impact:
+  areas: [safety]
+  line: "Day to day, nothing changes for most readers; what matters is that a zero in a lab report may not mean nothing, only a value below the detection limit. Closing environmental cases rests on trust in such measurements."
+  todo: "With any report on water, soil or air tests, check whether it states the detection limit and whether independent retesting confirmed the results."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/east-palestine-znovu-otevira-otazku-duvery-v-mereni-jsou-pru-analyza-372671

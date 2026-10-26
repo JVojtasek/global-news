@@ -13,6 +13,10 @@ date: '2026-09-24'
 status: published
 confidence: 0
 image_query: HDP roste 5 %, ale
+impact:
+  areas: [money]
+  line: "Většině čtenářů se denně nic nemění. Americký 10letý výnos nad 5 % ale podle článku zdražuje čas: pro běžného člověka to může znamenat dražší hypotéky a úvěry a opatrnější firmy při najímání."
+  todo: "Sledujte, zda americký 10letý výnos zůstává nad 5 % a zda ho táhne inflace, nebo reálné sazby; ověřte si, kdy se mění sazba vašeho úvěru."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hdp-roste-5-ale-vynos-10letych-nad-5-meni-logiku-pro-akcie-p-analyza-372801

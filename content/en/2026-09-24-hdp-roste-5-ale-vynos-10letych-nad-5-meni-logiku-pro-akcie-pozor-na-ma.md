@@ -13,6 +13,10 @@ date: '2026-09-24'
 status: published
 confidence: 0
 image_query: bond trading floor screens
+impact:
+  areas: [money]
+  line: "Day to day, nothing changes for most readers. But the article says a US 10-year yield above 5% makes time more expensive: for ordinary people that can mean dearer mortgages and loans and more cautious hiring."
+  todo: "Watch whether the US 10-year yield stays above 5% and whether inflation or real rates are pushing it; check when your own loan's rate next resets."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/hdp-roste-5-ale-vynos-10letych-nad-5-meni-logiku-pro-akcie-p-analyza-372801

@@ -13,6 +13,10 @@ date: '2026-09-24'
 status: published
 confidence: 0
 image_query: 'Espey: i hezké výsledky mohou'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se denně nic nemění; podstatné je, že silné tržby mohou skrývat slábnoucí přísun zakázek. Espey má book-to-bill asi 0,77, nové objednávky tedy nepokryly odvedenou práci."
+  todo: "U firem žijících ze zakázek porovnejte nové objednávky s tržbami: book-to-bill pod 1 znamená, že zásoba práce ubývá."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/espey-i-hezke-vysledky-mohou-skryvat-problem-v-tempu-novych--analyza-372967

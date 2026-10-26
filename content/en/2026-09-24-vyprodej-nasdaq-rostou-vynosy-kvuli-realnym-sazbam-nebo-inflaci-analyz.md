@@ -13,6 +13,10 @@ date: '2026-09-24'
 status: published
 confidence: 0
 image_query: 'stock market trading screen'
+impact:
+  areas: [money]
+  line: "Day to day, nothing changes for most readers. But the article says rising real yields can mean dearer borrowing and jumpier markets for ordinary people; pricier oil adds the worry that inflation returns."
+  todo: "When Nasdaq drops, check whether the real yield on US TIPS bonds or inflation expectations is doing most of the rising; each tells a different story."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/vyprodej-nasdaq-rostou-vynosy-kvuli-realnym-sazbam-nebo-infl-analyza-372791
