@@ -13,6 +13,10 @@ date: '2026-09-22'
 status: published
 confidence: 0
 image_query: oil tanker at sea
+impact:
+  areas: [money]
+  line: "Most readers' daily lives don't change; what matters is that a discount per barrel needn't make gasoline cheaper if pricier shipping and insurance eat it up. Ordinary people feel it only indirectly, through fuel and transport prices."
+  todo: "With news of cheaper oil, it helps to ask whether the price is at the source or delivered to the refinery, and who pays for shipping and insurance."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/proc-nizsi-cena-venezuelske-ropy-nemusi-snizit-dorucenou-cen-analyza-371243

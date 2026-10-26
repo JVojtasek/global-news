@@ -13,6 +13,10 @@ date: '2026-09-22'
 status: published
 confidence: 0
 image_query: LNG tanker ship at sea
+impact:
+  areas: [money]
+  line: "The Qatari LNG outage keeps the gas market tight even as oil calms down. For households that means possible pressure on energy bills and on the prices of products that take a lot of energy to make."
+  todo: "Worth watching: gas storage levels and how long the Qatar outage lasts. An energy supplier can say when and on what basis it changes its price."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-lng-nestaci-sledovat-cenu-komodity-zasoby-rozdily-regionu--analyza-371087

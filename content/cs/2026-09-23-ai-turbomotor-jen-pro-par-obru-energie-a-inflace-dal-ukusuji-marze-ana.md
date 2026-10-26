@@ -12,6 +12,10 @@ date: '2026-09-23'
 status: published
 confidence: 0
 image_query: AI turbomotor jen pro pár
+impact:
+  areas: [money]
+  line: "Index může vypadat silně díky několika AI obrům, zatímco dražší energie se může propsat do účtů, dopravy a cen zboží. Kdo sleduje jen index, snadno přehlédne, jak se daří většině firem."
+  todo: "Sledovat lze, zda index táhne jen pár největších firem, a jak se hýbou inflační očekávání a výnosy dluhopisů, které zveřejňují centrální banky a statistické úřady."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-turbomotor-jen-pro-par-obru-energie-a-inflace-dal-ukusuji-analyza-371890

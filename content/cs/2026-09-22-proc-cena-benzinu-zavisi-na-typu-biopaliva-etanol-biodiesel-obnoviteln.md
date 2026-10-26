@@ -13,6 +13,10 @@ date: '2026-09-22'
 status: published
 confidence: 0
 image_query: Proč cena benzínu závisí na
+impact:
+  areas: [money]
+  line: "Vyšší povinné přimíchávání biopaliv zvyšuje poptávku po kukuřici, rostlinných olejích a tucích. Když tyto suroviny zdraží, část účtu může skončit u zákazníků, v ceně paliv nebo potravin."
+  todo: "U zpráv o biopalivech se vyplatí ptát, o který typ jde, zda růst určuje zákon, nebo cena, a kdo má surovinu zajištěnou."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/proc-cena-benzinu-zavisi-na-typu-biopaliva-etanol-biodiesel--analyza-371406

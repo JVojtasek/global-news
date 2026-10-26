@@ -13,6 +13,10 @@ date: '2026-09-23'
 status: published
 confidence: 0
 image_query: data center servers racks
+impact:
+  areas: [money]
+  line: "Most readers' daily lives don't change; what matters is that part of reported AI cloud growth may rest on money, credits and commitments from the same giants. Anyone holding tech stocks or funds carries more sensitivity to a slowdown in their spending."
+  todo: "In cloud companies' annual reports, the numbers to watch are CapEx against operating cash flow, RPO (contracted future revenue) and any mention of cloud credits."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-cloud-proc-rust-capexu-nestaci-a-co-odhali-poptavka-pres--analyza-371884

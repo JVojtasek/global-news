@@ -13,6 +13,10 @@ date: '2026-09-23'
 status: published
 confidence: 0
 image_query: ai chip stocks energy market
+impact:
+  areas: [money]
+  line: "An index can look strong thanks to a few AI giants while pricier energy feeds into bills, transport and the price of goods. Anyone watching only the index can easily miss how most companies are doing."
+  todo: "Worth watching: whether a handful of the largest companies drive the index, and how inflation expectations and bond yields move, as published by central banks and statistics offices."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-turbomotor-jen-pro-par-obru-energie-a-inflace-dal-ukusuji-analyza-371890

@@ -14,6 +14,10 @@ date: '2026-09-22'
 status: published
 confidence: 0
 image_query: biofuel corn ethanol plant
+impact:
+  areas: [money]
+  line: "Higher biofuel blending mandates raise demand for corn, vegetable oils and fats. When those feedstocks get pricier, part of the bill can end up with customers, in the price of fuel or food."
+  todo: "With biofuel news, it helps to ask which type is meant, whether growth is set by law or by price, and who has the feedstock secured."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/proc-cena-benzinu-zavisi-na-typu-biopaliva-etanol-biodiesel--analyza-371406

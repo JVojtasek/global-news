@@ -13,6 +13,10 @@ date: '2026-09-22'
 status: published
 confidence: 0
 image_query: Proč nižší cena venezuelské ropy
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění; podstatné je, že sleva na barel nemusí zlevnit benzín, pokud ji sežere dražší doprava a pojištění. Běžných lidí se to dotkne jen nepřímo, přes ceny paliv a dopravy."
+  todo: "U zpráv o levnější ropě se vyplatí ptát, zda jde o cenu u zdroje, nebo po doručení do rafinerie, a kdo platí dopravu a pojištění."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/proc-nizsi-cena-venezuelske-ropy-nemusi-snizit-dorucenou-cen-analyza-371243

@@ -13,6 +13,10 @@ date: '2026-09-22'
 status: published
 confidence: 0
 image_query: U LNG nestačí sledovat cenu
+impact:
+  areas: [money]
+  line: "Výpadek katarského LNG drží trh s plynem napjatý, i když se ropa uklidňuje. Pro domácnosti to znamená možný tlak na účty za energie a na ceny výrobků, jejichž výroba spotřebuje hodně energie."
+  todo: "Sledovat lze stav zásob plynu v zásobnících a délku výpadku v Kataru. Dodavatele energie se lze zeptat, kdy a podle čeho mění cenu."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-lng-nestaci-sledovat-cenu-komodity-zasoby-rozdily-regionu--analyza-371087

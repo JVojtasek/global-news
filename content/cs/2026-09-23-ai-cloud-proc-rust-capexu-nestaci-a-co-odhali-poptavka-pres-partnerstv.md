@@ -13,6 +13,10 @@ date: '2026-09-23'
 status: published
 confidence: 0
 image_query: 'AI cloud: proč růst CapExu'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění; podstatné je, že část vykazovaného růstu AI cloudu může stát na penězích, kreditech a závazcích od stejných gigantů. Kdo drží technologické akcie nebo fondy, nese větší citlivost na zpomalení jejich investic."
+  todo: "Ve výročních zprávách cloudových firem lze sledovat poměr CapExu k provoznímu cash flow, RPO neboli nasmlouvané budoucí výnosy a zmínky o cloudových kreditech."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-cloud-proc-rust-capexu-nestaci-a-co-odhali-poptavka-pres--analyza-371884
