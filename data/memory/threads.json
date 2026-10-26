@@ -3469,17 +3469,17 @@
    "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
    "section": "world",
    "entities": [
-    "brazil's",
-    "polls",
-    "thousands",
     "voting",
+    "flavio",
+    "lula",
     "president",
+    "brazilians",
+    "brazil's",
     "brazilian",
     "bolsonaro",
-    "flavio",
-    "brazilians",
-    "lula",
-    "brazil"
+    "polls",
+    "brazil",
+    "thousands"
    ],
    "event_ids": [
     "d92458626c90",
@@ -3498,7 +3498,8 @@
     "7a695e6a87c7",
     "aed458d584ac",
     "3624607e43ac",
-    "f5819427a8c6"
+    "f5819427a8c6",
+    "199eecef3d47"
    ],
    "first_seen": "2026-10-04",
    "last_seen": "2026-10-26",
@@ -3699,6 +3700,18 @@
       "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
       "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
       "https://www.france24.com/en/brazil-s-lula-wins-historic-fourth-term"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Lula wins fourth term in dramatic Brazil election comeback",
+     "sources": 3,
+     "score": 55,
+     "event_id": "199eecef3d47",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/lula-wins-fourth-term-what-are-the-reactions-in-brazil",
+      "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/"
      ]
     }
    ]
@@ -18201,5 +18214,5 @@
    ]
   }
  ],
- "updated": "2026-10-26T14:02:10+00:00"
+ "updated": "2026-10-26T15:39:51+00:00"
 }
