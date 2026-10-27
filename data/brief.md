@@ -102,8 +102,8 @@
 - rubrika: `motoring`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
-  - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
   - Electric car — <https://en.wikipedia.org/wiki/Electric_car>
+  - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
 
 ---
 
@@ -159,7 +159,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-29  (2 zdrojů, síla 43)  Gordon and Kane fire England to Nations League victory against 10-man Czechia
   2026-09-30  (2 zdrojů, síla 42)  Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
   2026-09-30  (2 zdrojů, síla 51)  Republic of Ireland will play second Israel game - Hallgrimsson
   2026-10-01  (2 zdrojů, síla 42)  Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
@@ -179,6 +178,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes
   2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
   2026-10-27  (4 zdrojů, síla 70)  'A dream come true' - Harry Kane on his Ballon d'Or win
+  2026-10-27  (2 zdrojů, síla 52)  Quiz: Kane and who else? Name every men's Ballon d'Or winner
 ```
 
 ---
