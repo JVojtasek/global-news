@@ -34,7 +34,32 @@
   - **Investing.com** — Five economic challenges facing Brazil’s re-elected President Lula
     <https://www.investing.com/news/economy-news/five-economic-challenges-facing-brazils-reelected-president-lula-4971326>
 
-### 2. London City's Putellas wins record-equalling third Ballon d'Or
+### 2. Genie 4: A new generation of world simulation
+- id události: `d17d13a0006a`  ·  rubrika: `ai`  ·  skóre: 80  ·  nezávislých zdrojů: 6
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **Google DeepMind** — Genie 4: A new generation of world simulation
+    <https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/>
+    > Genie 4: our new world model unlocking unprecedented realism in real-time simulation.
+  - **Ars Technica** — DeepMind unveils Genie 4 world model promising more realistic physics and humans
+    <https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/>
+    > Genie 4 will roll out to developers and Google AI Ultra subscribers soon.
+  - **Ars Technica AI** — DeepMind unveils Genie 4 world model promising more realistic physics and humans
+    <https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/>
+    > Genie 4 will roll out to developers and Google AI Ultra subscribers soon.
+  - **Google DeepMind** — Google DeepMind and A24 announce first-of-its-kind research partnership
+    <https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/>
+  - **TechCrunch** — Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering
+    <https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/>
+    > Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.
+  - **The Verge** — Google’s next Genie AI model generates more realistic experiences
+    <https://www.theverge.com/tech/1019076/google-genie-4-ai-model>
+    > Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, 
+  - **The Verge AI** — Google’s next Genie AI model generates more realistic experiences
+    <https://www.theverge.com/tech/1019076/google-genie-4-ai-model>
+    > Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, 
+
+### 3. London City's Putellas wins record-equalling third Ballon d'Or
 - id události: `291d02b3b2d2`  ·  rubrika: `sport`  ·  skóre: 77  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -57,7 +82,7 @@
     <https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor>
     > Alexia Putellas picks up women’s award for third time England captain acclaimed in London ceremony Harry Kane is the Ballon d’Or winner for 2026, the first Englishman to win football’s most prestigious individual trophy in 25 years. Two hours into a lavishly excitable ceremony at
 
-### 3. Venezuelan opposition leader María Machado returns after months in exile
+### 4. Venezuelan opposition leader María Machado returns after months in exile
 - id události: `b4c30b6342df`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -76,23 +101,6 @@
   - **France 24** — Opposition leader Machado returns to Venezuela after 10 months in exile
     <https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile>
     > Venezuelan opposition leader Maria Corina Machado announced on Sunday that she has returned to her homeland following almost a year in exile, after covertly leaving Venezuela in late 2025 to receive the Nobel Peace Prize. She returns as doubts about her country’s democratic futur
-
-### 4. 'A dream come true' - Harry Kane on his Ballon d'Or win
-- id události: `8ec3cd6502b6`  ·  rubrika: `sport`  ·  skóre: 70  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — 'A dream come true' - Harry Kane on his Ballon d'Or win
-    <https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss>
-    > It's the first time an English player has lifted the trophy since Michael Owen in 2001.
-  - **BBC Sport** — Ballon d'Or winner Kane explains how his game has evolved
-    <https://www.bbc.co.uk/sport/football/videos/cwg7xevnyrjpo?at_medium=RSS&at_campaign=rss>
-    > Speaking in August, Harry Kane tells Umir Irfan how he has evolved in recent seasons - leading him to winning the coveted Ballon d'Or.
-  - **France 24** — Harry Kane wins Ballon d'Or, with Kylian Mbappé second ahead of Lamine Yamal
-    <https://www.france24.com/en/tv-shows/sports/20261027-harry-kane-wins-ballon-d-or-with-kylian-mbapp%C3%A9-in-second-ahead-of-lamine-yamal>
-    > Harry Kane has won the 2026 Ballon d’Or, which was awarded in London for the first time. He becomes the fifth Englishman to win the trophy, 25 years after Michael Owen.
-  - **Guardian Sport** — Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay
-    <https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay>
-    > The England captain spoke movingly on night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming flavour. There was a lovely moment at London’s Palladium theatre, with the clock creeping towa
 
 ---
 
