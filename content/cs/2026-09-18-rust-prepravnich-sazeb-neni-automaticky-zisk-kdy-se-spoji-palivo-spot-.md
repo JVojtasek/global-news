@@ -13,6 +13,10 @@ date: '2026-09-18'
 status: published
 confidence: 0
 image_query: Růst přepravních sazeb není automatický
+impact:
+  areas: [money]
+  line: "Spotová sazba za kontejnery z Číny na východní pobřeží USA se vrátila k úrovním z doby covidu. Nejvíc to tlačí dovozce s nízkou marží a obchodní řetězce; běžnému člověku se to může časem propsat do cen zboží, které cestuje přes oceán."
+  todo: "Rozlišit tři vrstvy: cenu lodního paliva, spotové sazby oproti kontraktním a zmínky firem mimo dopravu o tlaku na marže. Silnější signál je, až se potkají všechny tři."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rust-prepravnich-sazeb-neni-automaticky-zisk-kdy-se-spoji-pa-analyza-368019

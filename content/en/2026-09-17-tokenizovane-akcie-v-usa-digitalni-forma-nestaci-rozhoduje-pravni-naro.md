@@ -13,6 +13,10 @@ date: '2026-09-17'
 status: published
 confidence: 0
 image_query: 'stock exchange trading screens'
+impact:
+  areas: [money]
+  line: "It concerns anyone offered a “tokenized stock” by an app or crypto exchange. The U.S. SEC let selected venues trade such tokens, but issuers can block them; the digital wrapper alone doesn't tell you what you actually own."
+  todo: "With any offer, find out who holds the real share, whether the token carries dividend or voting rights, and who oversees settlement. The SEC publishes the exemption terms."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/tokenizovane-akcie-v-usa-digitalni-forma-nestaci-rozhoduje-p-analyza-367523

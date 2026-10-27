@@ -13,6 +13,10 @@ date: '2026-09-17'
 status: published
 confidence: 0
 image_query: 'oil refinery at dusk'
+impact:
+  areas: [money]
+  line: "Markets price U.S. rates around 4.7% in 2027; the Fed's own target is 4.1%. When oil drives inflation, rate hikes don't remove the cause, so mortgages, loans and energy bills may stay expensive for longer."
+  todo: "With rate news, ask what is rising: inflation expectations, real yields or the risk premium. And check whether only near-term oil is pricier, or the whole futures curve."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/jestrabi-fed-nestaci-kdyz-inflaci-ridi-ropa-co-se-zmeni-pro--analyza-367347

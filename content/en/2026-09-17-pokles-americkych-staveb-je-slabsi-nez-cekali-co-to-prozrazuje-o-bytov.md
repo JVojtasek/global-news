@@ -13,6 +13,10 @@ date: '2026-09-17'
 status: published
 confidence: 0
 image_query: 'residential construction site framing'
+impact:
+  areas: [money, life]
+  line: "Most readers will see no day-to-day change; it matters for U.S. homebuilders, building suppliers and landlords. Fewer U.S. housing starts today may mean fewer new homes and apartments in a few quarters, not higher rents right away."
+  todo: "Before turning one number into a story, wait for building permits, completions and the single-family versus multifamily split. The U.S. Census Bureau publishes the data."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/pokles-americkych-staveb-je-slabsi-nez-cekali-co-to-prozrazu-analyza-367526

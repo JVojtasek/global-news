@@ -12,6 +12,10 @@ date: '2026-09-17'
 status: published
 confidence: 0
 image_query: 'Tokenizované akcie v USA: digitální'
+impact:
+  areas: [money]
+  line: "Týká se těch, komu aplikace nebo kryptoburza nabízí „tokenizovanou akcii“. Americká SEC povolila vybraným místům takové tokeny obchodovat, ale emitent je může zablokovat; digitální obal sám neříká, co člověk opravdu vlastní."
+  todo: "U nabídky zjistit, kdo drží skutečnou akcii, zda token nese nárok na dividendy či hlasování a kdo dohlíží na vypořádání. Podmínky výjimek zveřejňuje SEC."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/tokenizovane-akcie-v-usa-digitalni-forma-nestaci-rozhoduje-p-analyza-367523

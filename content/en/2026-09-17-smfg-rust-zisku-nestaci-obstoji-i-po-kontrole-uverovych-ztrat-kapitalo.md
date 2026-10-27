@@ -13,6 +13,10 @@ date: '2026-09-17'
 status: published
 confidence: 0
 image_query: 'Tokyo financial district skyline'
+impact:
+  areas: [money]
+  line: "Most readers will see no day-to-day change; it matters for people who follow Japanese banks. SMFG promises growth in India, Indonesia and through its Olive app, but this is a plan to 2029, not a delivered result."
+  todo: "Tell a plan from a result: in SMFG's next reports, watch non-performing loans and loss provisions in India and Indonesia, not just profit growth."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/smfg-rust-zisku-nestaci-obstoji-i-po-kontrole-uverovych-ztra-analyza-367490

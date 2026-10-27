@@ -13,6 +13,10 @@ date: '2026-09-17'
 status: published
 confidence: 0
 image_query: 'SMFG růst zisku nestačí: obstojí'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se denně nic nemění; podstatné je to pro ty, kdo sledují japonské banky. SMFG slibuje růst v Indii, Indonésii a přes aplikaci Olive, ale jde o plán do roku 2029, ne o splněný výsledek."
+  todo: "Rozlišit plán od výsledku: v dalších zprávách SMFG sledovat podíl nesplácených úvěrů a rezervy na ztráty v Indii a Indonésii, nejen růst zisku."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/smfg-rust-zisku-nestaci-obstoji-i-po-kontrole-uverovych-ztra-analyza-367490

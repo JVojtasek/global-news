@@ -13,6 +13,10 @@ date: '2026-09-17'
 status: published
 confidence: 0
 image_query: Pokles amerických staveb je slabší
+impact:
+  areas: [money, life]
+  line: "Většině čtenářů se denně nic nemění; podstatné je to pro americké stavitele, dodavatele materiálu a pronajímatele. Méně započatých staveb v USA dnes může za pár čtvrtletí znamenat méně nových domů a bytů, ale ne hned vyšší nájmy."
+  todo: "Než z jednoho čísla uděláte příběh, počkat na stavební povolení, dokončené stavby a rozpad na rodinné a bytové domy. Data zveřejňuje US Census Bureau."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/pokles-americkych-staveb-je-slabsi-nez-cekali-co-to-prozrazu-analyza-367526

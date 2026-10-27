@@ -13,6 +13,10 @@ date: '2026-09-17'
 status: published
 confidence: 0
 image_query: 'Jestřábí Fed nestačí: když inflaci'
+impact:
+  areas: [money]
+  line: "Trh čeká v roce 2027 americké sazby kolem 4,7 %, Fed sám 4,1 %. Když inflaci táhne ropa, zvyšování sazeb příčinu neodstraní; pro domácnosti to znamená, že hypotéky, úvěry a energie mohou zůstat dražší déle."
+  todo: "U zprávy o sazbách rozlišit, co roste: inflační očekávání, reálné výnosy, nebo riziková prémie. A sledovat, zda zdražuje jen blízká ropa, nebo celá křivka budoucích kontraktů."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/jestrabi-fed-nestaci-kdyz-inflaci-ridi-ropa-co-se-zmeni-pro--analyza-367347

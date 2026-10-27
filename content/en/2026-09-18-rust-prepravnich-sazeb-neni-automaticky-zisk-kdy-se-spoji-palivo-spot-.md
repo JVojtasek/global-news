@@ -13,6 +13,10 @@ date: '2026-09-18'
 status: published
 confidence: 0
 image_query: 'container ship cargo port'
+impact:
+  areas: [money]
+  line: "The spot rate for shipping containers from China to the U.S. East Coast is back at levels last seen during covid. It squeezes low-margin importers and retailers hardest; ordinary shoppers may see it later in prices of goods that cross the ocean."
+  todo: "Separate three layers: the price of ship fuel, spot rates versus contract rates, and companies outside shipping talking about margin pressure. The signal is stronger when all three line up."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rust-prepravnich-sazeb-neni-automaticky-zisk-kdy-se-spoji-pa-analyza-368019
