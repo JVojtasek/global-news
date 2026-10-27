@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-26
+# ANALYTICKÉ ZADÁNÍ — 2026-10-27
 
-Paměť obsahuje **167 vláken**. Aktivních za posledních 14 dní: **45**.
+Paměť obsahuje **169 vláken**. Aktivních za posledních 14 dní: **45**.
 
 ---
 
@@ -96,9 +96,9 @@ Paměť obsahuje **167 vláken**. Aktivních za posledních 14 dní: **45**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **Hong Kong's Tiananmen activists guilty in national security trial** — naposledy 2026-09-11, celkem 6 záznamů
 - **Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention** — naposledy 2026-09-10, celkem 4 záznamů
 - **Odegaard and Saka star - player ratings for Arsenal v Chelsea** — naposledy 2026-09-10, celkem 3 záznamů
 - **Favourite Kane makes Ballon d'Or shortlist** — naposledy 2026-09-09, celkem 3 záznamů
 - **The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'** — naposledy 2026-09-08, celkem 4 záznamů
 - **Five dead after Amazon cargo plane crashes at Miami airport** — naposledy 2026-09-07, celkem 4 záznamů
-- **Newcastle showed 'full commitment' in Spurs win - Jaissle** — naposledy 2026-09-05, celkem 3 záznamů

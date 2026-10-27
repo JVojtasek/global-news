@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-26
+# ZADÁNÍ PRO REDAKCI — 2026-10-27
 
 - Režim: **autonomous**  ⚠️ nikdo se o projekt 16 dní nestaral – buď opatrnější
 - Práh jistoty pro automatické vydání: **93/100**
@@ -34,7 +34,30 @@
   - **Investing.com** — Five economic challenges facing Brazil’s re-elected President Lula
     <https://www.investing.com/news/economy-news/five-economic-challenges-facing-brazils-reelected-president-lula-4971326>
 
-### 2. Venezuelan opposition leader María Machado returns after months in exile
+### 2. London City's Putellas wins record-equalling third Ballon d'Or
+- id události: `291d02b3b2d2`  ·  rubrika: `sport`  ·  skóre: 77  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Sport** — London City's Putellas wins record-equalling third Ballon d'Or
+    <https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss>
+    > Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third time.
+  - **BBC Sport** — Kane ends England's 25-year Ballon d'Or wait - how he bucked the trend
+    <https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss>
+    > Harry Kane becomes the first English player to win the Ballon d'Or since Michael Owen in 2001 after being crowned the world's best player at a ceremony in London.
+  - **DW News** — England and Bayern Munich striker Harry Kane wins Ballon d'Or
+    <https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf>
+    > The England captain ends his country's 25-year wait for the prestigious award after scoring 73 goals for club and country last season, beating competition from Lamine Yamal and Kylian Mbappe.
+  - **France 24** — Harry Kane ends England's 25-year Ballon d'Or drought, Putellas wins third crown
+    <https://www.france24.com/en/sport/20261026-harry-kane-ballon-dor-2026-alexia-putellas>
+    > Harry Kane became the first Englishman in 25 years to win the Ballon d’Or on Monday after scoring 73 goals for club and country last season. Spain’s Alexia Putellas claimed her third women’s award after helping Barcelona win the Champions League, ending teammate Aitana Bonmati’s 
+  - **Al Jazeera** — England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award
+    <https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss>
+    > Bayern Munich striker becomes the first Englishman to win the prestigious award in 25 years, after Michael Owen in 2001.
+  - **Guardian Sport** — Harry Kane claims men’s Ballon d’Or to end England’s 25-year wait for winner
+    <https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor>
+    > Alexia Putellas picks up women’s award for third time England captain acclaimed in London ceremony Harry Kane is the Ballon d’Or winner for 2026, the first Englishman to win football’s most prestigious individual trophy in 25 years. Two hours into a lavishly excitable ceremony at
+
+### 3. Venezuelan opposition leader María Machado returns after months in exile
 - id události: `b4c30b6342df`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -54,7 +77,7 @@
     <https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile>
     > Venezuelan opposition leader Maria Corina Machado announced on Sunday that she has returned to her homeland following almost a year in exile, after covertly leaving Venezuela in late 2025 to receive the Nobel Peace Prize. She returns as doubts about her country’s democratic futur
 
-### 3. Spurs clinch rare Stamford Bridge win as Palmer sent off
+### 4. Spurs clinch rare Stamford Bridge win as Palmer sent off
 - id události: `a8e59462be15`  ·  rubrika: `sport`  ·  skóre: 68  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -77,31 +100,16 @@
     <https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report>
     > There are days when Tottenham go into these big games and find ways to beat themselves. This time, though, they held their nerve at a ground where they have mostly only known doom. Spurs played with control, stayed patient and won at Stamford Bridge for the first time since 2018 
 
-### 4. Jackson stars with two goals - player ratings for Aston Villa v Man City
-- id události: `5bc56480607d`  ·  rubrika: `sport`  ·  skóre: 66  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Sport** — Jackson stars with two goals - player ratings for Aston Villa v Man City
-    <https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&at_campaign=rss>
-    > How Aston Villa and Man City players rated following their Premier League match.
-  - **Guardian Sport** — Chelsea v Tottenham: Premier League – live
-    <https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live>
-    > ⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Live scores | Table | Read Football Daily | Mail Scott Chelsea: Penders, Acheampong, Lacroix, Colwill, Neto, Caicedo, Henderson, Hato, Palmer, Quenda, Rogers. Tottenham Hotspur: Kinsky, Robertson, van Hecke, Maddison, Tel, G
-  - **Guardian Sport** — Maresca ‘not worried’ by Guéhi’s gaffes as Aston Villa end City’s flawless start
-    <https://www.theguardian.com/football/2026/oct/24/maresca-guehi-errors-aston-villa-manchester-city-premier-league>
-    > Defender costs three goals in past two league matches Emery praises ‘fantastic’ match-winner Jackson Enzo Maresca is not concerned by the form of Marc Guéhi despite the defender costing his side three goals in the past two Premier League matches, the Manchester City manager said 
-  - **Al Jazeera** — Man City beaten at Aston Villa as perfect Premier League start ends
-    <https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss>
-    > Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.
-  - **Guardian Sport** — Nicolas Jackson double sees Aston Villa end Manchester City’s perfect start
-    <https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report>
-    > Manchester City added a loss in the Premier League to one to the Premier League, as their perfect record this season vanished without an independent commission in sight. Two of the most in-form strikers in England did battle and it was Nicolas Jackson’s double that meant his side
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-_Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
+### electric car battery
+- rubrika: `motoring`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+- PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
+  - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
+  - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
+  - Electric car — <https://en.wikipedia.org/wiki/Electric_car>
 
 ---
 

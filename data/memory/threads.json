@@ -1,6 +1,385 @@
 {
  "threads": [
   {
+   "id": "d92458626c90",
+   "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+   "section": "world",
+   "entities": [
+    "polls",
+    "brazilian",
+    "lula",
+    "brazil's",
+    "brazil",
+    "brazilians",
+    "president",
+    "thousands",
+    "bolsonaro",
+    "flavio",
+    "voting"
+   ],
+   "event_ids": [
+    "d92458626c90",
+    "815bb45801bb",
+    "9d43071b47fc",
+    "85ac007f42df",
+    "a52a65200ba2",
+    "f9c2830a1de0",
+    "e1556ad0fb1c",
+    "4c4ca491ca92",
+    "a4565fbd5c2a",
+    "f9c920be19b6",
+    "a30f9cf554f4",
+    "17bbb9e07e27",
+    "99ee164ff663",
+    "7a695e6a87c7",
+    "aed458d584ac",
+    "3624607e43ac",
+    "f5819427a8c6",
+    "199eecef3d47",
+    "9b5228a9b7e3",
+    "d7a1fd79d5b5"
+   ],
+   "first_seen": "2026-10-04",
+   "last_seen": "2026-10-27",
+   "timeline": [
+    {
+     "date": "2026-10-04",
+     "headline": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+     "sources": 3,
+     "score": 65,
+     "event_id": "d92458626c90",
+     "links": [
+      "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
+      "https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Brazil elections live: Lula faces Bolsonaro in close presidential race",
+     "sources": 2,
+     "score": 46,
+     "event_id": "815bb45801bb",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-elections-live-voters-head-to-polls-for-close-presidential-race?traffic_source=rss",
+      "https://www.france24.com/en/brazil-a-portrait-of-flavio-bolsonaro",
+      "https://www.france24.com/en/video/20261003-lula-and-bolsonaro-in-final-push-for-votes-ahead-of-brazil-s-knife-edge-election"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
+     "sources": 2,
+     "score": 44,
+     "event_id": "9d43071b47fc",
+     "links": [
+      "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+     "sources": 3,
+     "score": 57,
+     "event_id": "85ac007f42df",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Brazil election: Bolsonaro and Lula head to runoff",
+     "sources": 4,
+     "score": 71,
+     "event_id": "a52a65200ba2",
+     "links": [
+      "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+      "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f9c2830a1de0",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Brazil heads to run-off as Bolsonaro pulls off shock first place finish in first round",
+     "sources": 1,
+     "score": 45,
+     "event_id": "e1556ad0fb1c",
+     "links": [
+      "https://www.france24.com/en/video/20261005-brazil-heads-to-run-off-as-bolsonaro-pulls-off-shock-first-place-finish-in-first-round",
+      "https://www.france24.com/en/video/20261005-bolsonaro-in-very-strong-position-as-brazil-election-heads-to-run-off",
+      "https://www.france24.com/en/americas/20261005-family-members-of-jailed-ex-president-jair-bolsonaro-win-big-in-multiple-brazil-polls"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Brazil presidential election: 'Bolsonaro being ahead is a surprise,' researcher says",
+     "sources": 3,
+     "score": 54,
+     "event_id": "4c4ca491ca92",
+     "links": [
+      "https://www.france24.com/en/tv-shows/perspective/20261005-brazil-presidential-election-bolsonaro-being-ahead-is-a-surprise-researcher-says",
+      "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Brazil: Thousands of students march against Bolsonaro",
+     "sources": 3,
+     "score": 53,
+     "event_id": "a4565fbd5c2a",
+     "links": [
+      "https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss",
+      "https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil"
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "headline": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+     "sources": 2,
+     "score": 42,
+     "event_id": "f9c920be19b6",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
+      "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
+     "sources": 3,
+     "score": 52,
+     "event_id": "a30f9cf554f4",
+     "links": [
+      "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
+      "https://www.france24.com/en/americas/20261019-brazil-lula-bolsonaro-debate-election-runoff"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+     "sources": 3,
+     "score": 54,
+     "event_id": "17bbb9e07e27",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+      "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/25/lula-bolsonaro-rally-supporters-before-brazil-presidential-runoff.html"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Brazil election: Lula, Bolsonaro cast votes in final bout",
+     "sources": 2,
+     "score": 45,
+     "event_id": "99ee164ff663",
+     "links": [
+      "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces",
+     "sources": 6,
+     "score": 82,
+     "event_id": "7a695e6a87c7",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+      "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+      "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
+     "sources": 2,
+     "score": 46,
+     "event_id": "aed458d584ac",
+     "links": [
+      "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/economy-news/brazils-lula-beats-bolsonaro-to-win-fourth-term-as-president-4971348"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Brazil keeps left: what Lula’s victory means for his country and beyond",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3624607e43ac",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
+      "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+     "sources": 3,
+     "score": 59,
+     "event_id": "f5819427a8c6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
+      "https://www.france24.com/en/brazil-s-lula-wins-historic-fourth-term"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Lula wins fourth term in dramatic Brazil election comeback",
+     "sources": 3,
+     "score": 55,
+     "event_id": "199eecef3d47",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/lula-wins-fourth-term-what-are-the-reactions-in-brazil",
+      "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "How the streets and social media drove Lula to a historic comeback in Brazil",
+     "sources": 3,
+     "score": 63,
+     "event_id": "9b5228a9b7e3",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+      "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
+      "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win"
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+     "sources": 3,
+     "score": 57,
+     "event_id": "d7a1fd79d5b5",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+      "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "84f97e2b56f8",
+   "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+   "section": "world",
+   "entities": [
+    "comey",
+    "trump",
+    "james",
+    "director",
+    "comey's"
+   ],
+   "event_ids": [
+    "84f97e2b56f8",
+    "692893e33c3f"
+   ],
+   "first_seen": "2026-10-26",
+   "last_seen": "2026-10-27",
+   "timeline": [
+    {
+     "date": "2026-10-26",
+     "headline": "Trump administration illegally fired James Comey's daughter, judge rules",
+     "sources": 3,
+     "score": 56,
+     "event_id": "84f97e2b56f8",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+      "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Trump administration attempting to prosecute former FBI Director James Comey again",
+     "sources": 2,
+     "score": 42,
+     "event_id": "692893e33c3f",
+     "links": [
+      "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
+      "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "291d02b3b2d2",
+   "title": "London City's Putellas wins record-equalling third Ballon d'Or",
+   "section": "sport",
+   "entities": [
+    "putellas",
+    "ballon",
+    "city's",
+    "london"
+   ],
+   "event_ids": [
+    "291d02b3b2d2"
+   ],
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "timeline": [
+    {
+     "date": "2026-10-27",
+     "headline": "London City's Putellas wins record-equalling third Ballon d'Or",
+     "sources": 5,
+     "score": 77,
+     "event_id": "291d02b3b2d2",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "23d2793d96c1",
+   "title": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
+   "section": "world",
+   "entities": [
+    "syria",
+    "jordan"
+   ],
+   "event_ids": [
+    "23d2793d96c1"
+   ],
+   "first_seen": "2026-10-27",
+   "last_seen": "2026-10-27",
+   "timeline": [
+    {
+     "date": "2026-10-27",
+     "headline": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
+     "sources": 3,
+     "score": 57,
+     "event_id": "23d2793d96c1",
+     "links": [
+      "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+      "https://www.aljazeera.com/news/2026/10/26/jordan-launches-air-strikes-in-syria-in-response-to-a-fatal-church-shooting?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "09443cca3ddd",
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
@@ -3481,271 +3860,6 @@
    ]
   },
   {
-   "id": "d92458626c90",
-   "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-   "section": "world",
-   "entities": [
-    "lula",
-    "brazil",
-    "brazilians",
-    "president",
-    "flavio",
-    "voting",
-    "thousands",
-    "bolsonaro",
-    "polls",
-    "brazilian",
-    "brazil's"
-   ],
-   "event_ids": [
-    "d92458626c90",
-    "815bb45801bb",
-    "9d43071b47fc",
-    "85ac007f42df",
-    "a52a65200ba2",
-    "f9c2830a1de0",
-    "e1556ad0fb1c",
-    "4c4ca491ca92",
-    "a4565fbd5c2a",
-    "f9c920be19b6",
-    "a30f9cf554f4",
-    "17bbb9e07e27",
-    "99ee164ff663",
-    "7a695e6a87c7",
-    "aed458d584ac",
-    "3624607e43ac",
-    "f5819427a8c6",
-    "199eecef3d47",
-    "9b5228a9b7e3"
-   ],
-   "first_seen": "2026-10-04",
-   "last_seen": "2026-10-26",
-   "timeline": [
-    {
-     "date": "2026-10-04",
-     "headline": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-     "sources": 3,
-     "score": 65,
-     "event_id": "d92458626c90",
-     "links": [
-      "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
-      "https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Brazil elections live: Lula faces Bolsonaro in close presidential race",
-     "sources": 2,
-     "score": 46,
-     "event_id": "815bb45801bb",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-elections-live-voters-head-to-polls-for-close-presidential-race?traffic_source=rss",
-      "https://www.france24.com/en/brazil-a-portrait-of-flavio-bolsonaro",
-      "https://www.france24.com/en/video/20261003-lula-and-bolsonaro-in-final-push-for-votes-ahead-of-brazil-s-knife-edge-election"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
-     "sources": 2,
-     "score": 44,
-     "event_id": "9d43071b47fc",
-     "links": [
-      "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
-     "sources": 3,
-     "score": 57,
-     "event_id": "85ac007f42df",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Brazil election: Bolsonaro and Lula head to runoff",
-     "sources": 4,
-     "score": 71,
-     "event_id": "a52a65200ba2",
-     "links": [
-      "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
-      "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f9c2830a1de0",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Brazil heads to run-off as Bolsonaro pulls off shock first place finish in first round",
-     "sources": 1,
-     "score": 45,
-     "event_id": "e1556ad0fb1c",
-     "links": [
-      "https://www.france24.com/en/video/20261005-brazil-heads-to-run-off-as-bolsonaro-pulls-off-shock-first-place-finish-in-first-round",
-      "https://www.france24.com/en/video/20261005-bolsonaro-in-very-strong-position-as-brazil-election-heads-to-run-off",
-      "https://www.france24.com/en/americas/20261005-family-members-of-jailed-ex-president-jair-bolsonaro-win-big-in-multiple-brazil-polls"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Brazil presidential election: 'Bolsonaro being ahead is a surprise,' researcher says",
-     "sources": 3,
-     "score": 54,
-     "event_id": "4c4ca491ca92",
-     "links": [
-      "https://www.france24.com/en/tv-shows/perspective/20261005-brazil-presidential-election-bolsonaro-being-ahead-is-a-surprise-researcher-says",
-      "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Brazil: Thousands of students march against Bolsonaro",
-     "sources": 3,
-     "score": 53,
-     "event_id": "a4565fbd5c2a",
-     "links": [
-      "https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss",
-      "https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil"
-     ]
-    },
-    {
-     "date": "2026-10-16",
-     "headline": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
-     "sources": 2,
-     "score": 42,
-     "event_id": "f9c920be19b6",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
-      "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
-     "sources": 3,
-     "score": 52,
-     "event_id": "a30f9cf554f4",
-     "links": [
-      "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
-      "https://www.france24.com/en/americas/20261019-brazil-lula-bolsonaro-debate-election-runoff"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-     "sources": 3,
-     "score": 54,
-     "event_id": "17bbb9e07e27",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-      "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/25/lula-bolsonaro-rally-supporters-before-brazil-presidential-runoff.html"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Brazil election: Lula, Bolsonaro cast votes in final bout",
-     "sources": 2,
-     "score": 45,
-     "event_id": "99ee164ff663",
-     "links": [
-      "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces",
-     "sources": 6,
-     "score": 82,
-     "event_id": "7a695e6a87c7",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
-      "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
-     "sources": 2,
-     "score": 46,
-     "event_id": "aed458d584ac",
-     "links": [
-      "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
-      "https://www.investing.com/news/economy-news/brazils-lula-beats-bolsonaro-to-win-fourth-term-as-president-4971348"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Brazil keeps left: what Lula’s victory means for his country and beyond",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3624607e43ac",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
-      "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
-     "sources": 3,
-     "score": 59,
-     "event_id": "f5819427a8c6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
-      "https://www.france24.com/en/brazil-s-lula-wins-historic-fourth-term"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Lula wins fourth term in dramatic Brazil election comeback",
-     "sources": 3,
-     "score": 55,
-     "event_id": "199eecef3d47",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/lula-wins-fourth-term-what-are-the-reactions-in-brazil",
-      "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "How the streets and social media drove Lula to a historic comeback in Brazil",
-     "sources": 3,
-     "score": 63,
-     "event_id": "9b5228a9b7e3",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
-      "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
-      "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win"
-     ]
-    }
-   ]
-  },
-  {
    "id": "81515d5a1191",
    "title": "Robinson and Tongue guide England to strong start against Pakistan",
    "section": "sport",
@@ -4505,35 +4619,6 @@
       "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/brazil-what-does-lula-s-re-election-mean-for-the-amazon",
       "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "84f97e2b56f8",
-   "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-   "section": "world",
-   "entities": [
-    "comey's",
-    "james",
-    "trump"
-   ],
-   "event_ids": [
-    "84f97e2b56f8"
-   ],
-   "first_seen": "2026-10-26",
-   "last_seen": "2026-10-26",
-   "timeline": [
-    {
-     "date": "2026-10-26",
-     "headline": "Trump administration illegally fired James Comey's daughter, judge rules",
-     "sources": 3,
-     "score": 56,
-     "event_id": "84f97e2b56f8",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
-      "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss"
      ]
     }
    ]
@@ -18324,5 +18409,5 @@
    ]
   }
  ],
- "updated": "2026-10-26T21:26:36+00:00"
+ "updated": "2026-10-27T00:58:57+00:00"
 }
