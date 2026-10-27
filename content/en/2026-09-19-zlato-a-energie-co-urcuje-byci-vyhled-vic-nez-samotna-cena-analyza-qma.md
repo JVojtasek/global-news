@@ -13,6 +13,10 @@ date: '2026-09-19'
 status: published
 confidence: 0
 image_query: gold bullion oil barrels
+impact:
+  areas: [money]
+  line: "Most readers will see no day-to-day change. It matters for anyone holding gold or funds with commodity stocks: a higher metal or oil price does not mean higher miner profits if their costs rise faster."
+  todo: "Alongside the gold price, watch real yields (interest after inflation), dollar strength and producer margins, not just the headline commodity price."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/zlato-a-energie-co-urcuje-byci-vyhled-vic-nez-samotna-cena-analyza-368547

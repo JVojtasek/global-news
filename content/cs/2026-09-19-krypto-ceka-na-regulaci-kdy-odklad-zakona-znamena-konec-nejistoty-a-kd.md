@@ -13,6 +13,10 @@ date: '2026-09-19'
 status: published
 confidence: 0
 image_query: 'Krypto čeká na regulaci: kdy'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění. Pro držitele kryptoměn platí, že odklad Clarity Actu v americkém Senátu nejistotu neodstranil: pravidla dál dopisují úřady SEC a CFTC a ceny mohou zůstat prudce pohyblivé."
+  todo: "U každé zprávy si ověřit, zda jde o návrh pravidla, finální pravidlo, zásah regulátora, soudní rozhodnutí, nebo jen politický odklad. Oficiální texty zveřejňují SEC a CFTC na svých webech."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/krypto-ceka-na-regulaci-kdy-odklad-zakona-znamena-konec-neji-analyza-368887

@@ -13,6 +13,10 @@ date: '2026-09-19'
 status: published
 confidence: 0
 image_query: 'Zlato a energie: co určuje'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění. Podstatné je to pro ty, kdo drží zlato nebo fondy s komoditními akciemi: vyšší cena kovu či ropy ještě neznamená vyšší zisky těžařů, když jim náklady rostou rychleji."
+  todo: "Vedle ceny zlata sledovat reálné výnosy (úrok po odečtení inflace), sílu dolaru a marže producentů, ne jen titulek o ceně komodity."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/zlato-a-energie-co-urcuje-byci-vyhled-vic-nez-samotna-cena-analyza-368547

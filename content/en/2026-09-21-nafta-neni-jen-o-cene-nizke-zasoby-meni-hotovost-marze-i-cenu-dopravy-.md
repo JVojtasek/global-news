@@ -13,6 +13,10 @@ date: '2026-09-21'
 status: published
 confidence: 0
 image_query: diesel fuel tanker truck refinery storage
+impact:
+  areas: [money]
+  line: "Anyone who fills up with diesel or pays to ship goods may feel it in prices: the report says the diesel shortage will probably last into 2027. Hauliers' fuel costs rise before fuel surcharges catch up."
+  todo: "Worth watching: diesel prices at the pump, fuel surcharges in a carrier's price list, and whether diesel for immediate delivery costs more than for later delivery."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nafta-neni-jen-o-cene-nizke-zasoby-meni-hotovost-marze-i-cen-analyza-370463

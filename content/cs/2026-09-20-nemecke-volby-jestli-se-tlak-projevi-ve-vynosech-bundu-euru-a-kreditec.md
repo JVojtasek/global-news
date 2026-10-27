@@ -13,6 +13,10 @@ date: '2026-09-20'
 status: published
 confidence: 0
 image_query: 'Německé volby: jestli se tlak'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění. Podstatné je to nepřímo: kdyby politický tlak zvedl výnosy německých státních dluhopisů (Bundů), mohlo by se to časem propsat do ceny firemních úvěrů i hypoték."
+  todo: "Sledovat lze desetiletý výnos Bundu, kurz eura k dolaru a kreditní spready; když se hnou všechny najednou, nejde jen o politický šum."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nemecke-volby-jestli-se-tlak-projevi-ve-vynosech-bundu-euru--analyza-369449

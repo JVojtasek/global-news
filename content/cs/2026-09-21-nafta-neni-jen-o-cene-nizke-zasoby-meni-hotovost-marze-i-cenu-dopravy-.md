@@ -13,6 +13,10 @@ date: '2026-09-21'
 status: published
 confidence: 0
 image_query: 'Nafta není jen o ceně:'
+impact:
+  areas: [money]
+  line: "Kdo tankuje naftu nebo platí za dopravu zboží, může to cítit v cenách: nedostatek nafty podle zprávy pravděpodobně potrvá až do roku 2027. Dopravcům rostou náklady na palivo dřív, než je pokryjí palivové příplatky."
+  todo: "Sledovat lze cenu nafty u pump, palivové příplatky v ceníku dopravce a to, zda je nafta k okamžité dodávce dražší než k pozdější."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nafta-neni-jen-o-cene-nizke-zasoby-meni-hotovost-marze-i-cen-analyza-370463

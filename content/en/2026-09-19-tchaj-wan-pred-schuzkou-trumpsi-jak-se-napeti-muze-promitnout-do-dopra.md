@@ -13,6 +13,10 @@ date: '2026-09-19'
 status: published
 confidence: 0
 image_query: Taiwan Strait shipping
+impact:
+  areas: [money]
+  line: "Most readers will see no day-to-day change; the drill itself does not predict conflict. What matters is that Taiwan is a key hub of chip production: if tension hit supply chains, electronics, transport or energy could eventually cost more."
+  todo: "Watch whether the drills affect civilian air and sea routes (NOTAMs, navigational warnings) and whether shipping insurance prices move at the same time."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/tchaj-wan-pred-schuzkou-trump-si-jak-se-napeti-muze-promitno-analyza-368796

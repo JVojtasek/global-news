@@ -14,6 +14,10 @@ date: '2026-09-19'
 status: published
 confidence: 0
 image_query: bitcoin regulation capitol
+impact:
+  areas: [money]
+  line: "Most readers will see no day-to-day change. For crypto holders, the stalled Clarity Act in the US Senate has not removed uncertainty: the SEC and CFTC keep writing the rules, and prices may stay highly volatile."
+  todo: "Check whether each item is a proposed rule, final rule, enforcement action, court ruling or mere political delay. Official texts are on the SEC and CFTC websites."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/krypto-ceka-na-regulaci-kdy-odklad-zakona-znamena-konec-neji-analyza-368887

@@ -13,6 +13,10 @@ date: '2026-09-19'
 status: published
 confidence: 0
 image_query: 'Tchaj-wan před schůzkou Trump–Si: jak'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění; samotné cvičení není předpověď konfliktu. Podstatné je, že Tchaj-wan je klíčovým uzlem výroby čipů: kdyby napětí zasáhlo dodavatelské řetězce, časem by mohla zdražit elektronika, doprava nebo energie."
+  todo: "Sledovat, zda cvičení zasahují civilní letecké a lodní trasy (NOTAMy, námořní výstrahy) a zda se zároveň hýbou ceny pojištění lodní dopravy."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/tchaj-wan-pred-schuzkou-trump-si-jak-se-napeti-muze-promitno-analyza-368796

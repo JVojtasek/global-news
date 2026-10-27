@@ -13,6 +13,10 @@ date: '2026-09-20'
 status: published
 confidence: 0
 image_query: German Bundestag parliament bond market
+impact:
+  areas: [money]
+  line: "Most readers will see no day-to-day change. It matters indirectly: if political pressure pushed up yields on German government bonds (Bunds), that could over time feed into the cost of business loans and mortgages."
+  todo: "Watch the 10-year Bund yield, the euro against the dollar and credit spreads; if they all move at once, it is more than political noise."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nemecke-volby-jestli-se-tlak-projevi-ve-vynosech-bundu-euru--analyza-369449
