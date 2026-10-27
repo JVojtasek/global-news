@@ -5,46 +5,46 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "former",
-    "million",
-    "uk's",
-    "evolved",
-    "rajab",
-    "lander",
-    "past",
-    "strove",
-    "five",
-    "poles",
-    "israeli",
-    "israel",
-    "israelis",
-    "wandered",
-    "continue",
-    "italy",
-    "netanyahu",
-    "long",
-    "lizards",
-    "south",
-    "politically",
-    "many",
-    "north",
-    "african",
-    "germany",
-    "doing",
-    "west",
-    "among",
-    "palestinians",
-    "community",
     "jenin",
-    "study",
-    "culture",
-    "elephants",
-    "bank",
-    "years",
-    "died",
+    "past",
+    "five",
+    "many",
+    "west",
     "hebron",
+    "israelis",
+    "italy",
+    "turnout",
+    "among",
+    "germany",
+    "lizards",
+    "uk's",
+    "doing",
+    "community",
+    "elephants",
+    "died",
+    "former",
+    "wandered",
+    "million",
+    "bank",
+    "lander",
     "october",
-    "true"
+    "south",
+    "evolved",
+    "true",
+    "israel",
+    "strove",
+    "rajab",
+    "israeli",
+    "politically",
+    "african",
+    "years",
+    "netanyahu",
+    "poles",
+    "north",
+    "study",
+    "continue",
+    "palestinians",
+    "culture"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -123,22 +123,12 @@
     "77413990dbda",
     "e5a0f3aaf92c",
     "1328bd0c6f2f",
-    "1a0b856b794d"
+    "1a0b856b794d",
+    "7d1585723c9f"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-10-27",
    "timeline": [
-    {
-     "date": "2026-08-26",
-     "headline": "Why a Christian group is suing the Dutch government for West Bank trade ban",
-     "sources": 1,
-     "score": 40,
-     "event_id": "4dbfa63e7365",
-     "links": [
-      "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-28",
      "headline": "Israeli strike kills three Palestinians in West Bank’s Jenin",
@@ -801,6 +791,18 @@
      "links": [
       "https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7"
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Turnout high as Israeli voters deliver verdict on Netanyahu",
+     "sources": 1,
+     "score": 40,
+     "event_id": "7d1585723c9f",
+     "links": [
+      "https://www.france24.com/en/turnout-high-as-israeli-voters-deliver-verdict-on-netanyahu",
+      "https://www.france24.com/en/tv-shows/press-review/20261027-israeli-election-a-referendum-on-bibi-netanyahu",
+      "https://www.france24.com/en/israeli-pm-casts-his-ballot-as-voters-voice-opposition-to-netanyahu-outside-polling-stations"
      ]
     }
    ]
@@ -18482,5 +18484,5 @@
    ]
   }
  ],
- "updated": "2026-10-27T12:39:19+00:00"
+ "updated": "2026-10-27T15:30:13+00:00"
 }

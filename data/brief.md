@@ -102,8 +102,8 @@
 - rubrika: `motoring`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
-  - Electric car — <https://en.wikipedia.org/wiki/Electric_car>
   - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
+  - Electric car — <https://en.wikipedia.org/wiki/Electric_car>
 
 ---
 
@@ -130,7 +130,6 @@
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-17  (2 zdrojů, síla 50)  🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
   2026-10-17  (2 zdrojů, síla 45)  Israeli settlers attack European diplomats in West Bank
   2026-10-18  (2 zdrojů, síla 48)  Israeli settlers attack Palestinians in West Bank during olive harvest
   2026-10-18  (2 zdrojů, síla 50)  West Bank: Israeli settlers attack EU diplomats, French mayor
@@ -150,6 +149,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-25  (3 zdrojů, síla 52)  Israel to close all West Bank land crossings on election day
   2026-10-26  (2 zdrojů, síla 42)  Who are the Israeli candidates trying to unseat Netanyahu?
   2026-10-27  (2 zdrojů, síla 47)  Israel election: Israelis vote for 1st time since October 7 terror attack
+  2026-10-27  (1 zdrojů, síla 40)  Turnout high as Israeli voters deliver verdict on Netanyahu
 ```
 
 ### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
