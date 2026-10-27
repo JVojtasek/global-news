@@ -12,6 +12,10 @@ date: '2026-09-18'
 status: published
 confidence: 0
 image_query: Copyright u AI jako skrytá
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění. Podstatné je to pro vydavatele, autory a firmy, které na AI nástrojích stavějí: když soudy nebo dohody zdraží licence k obsahu, může zdražit provoz AI služeb a jejich provozovatelům se ztenčí marže."
+  todo: "Sledovat soudní milníky ve sporu The New York Times s OpenAI a Microsoftem a zmínky o licencích obsahu ve výsledkových zprávách AI firem, ne jen titulky o žalobách."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/copyright-u-ai-jako-skryta-nakladova-polozka-co-udela-s-ceno-analyza-368008

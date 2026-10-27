@@ -13,6 +13,10 @@ date: '2026-09-18'
 status: published
 confidence: 0
 image_query: diesel tanker truck highway
+impact:
+  areas: [money]
+  line: "Anyone expecting cheaper crude to make freight and goods cheaper right away may be disappointed: diesel can stay expensive, and carriers' fuel surcharges often follow an index from last week or last month. It affects carriers, their customers and eventually goods prices."
+  todo: "Alongside crude, watch the diesel price and distillate inventories in weekly EIA data; with carriers, find out which index their fuel surcharge uses and how long it lags."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/pokles-ropy-nemusi-ulevit-dopravcum-sledujte-ulsd-crack-spre-analyza-368021

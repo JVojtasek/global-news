@@ -13,6 +13,10 @@ date: '2026-09-18'
 status: published
 confidence: 0
 image_query: oil price trader screen
+impact:
+  areas: [money]
+  line: "Most readers will see no day-to-day change; this concerns investors who buy dips believing Donald Trump always backs down on threats toward Iran. If he does not, pricier oil can show up indirectly in fuel prices and airfares."
+  todo: "Don't mistake a headline for data: check whether oil holds its rise for more than one day after a new threat, and whether airlines and bond yields move too."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdy-ustupovani-v-obchodech-prestava-fungovat-co-zmeni-neusto-analyza-368018

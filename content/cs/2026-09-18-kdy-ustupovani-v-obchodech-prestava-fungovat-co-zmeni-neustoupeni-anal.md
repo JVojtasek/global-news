@@ -13,6 +13,10 @@ date: '2026-09-18'
 status: published
 confidence: 0
 image_query: Kdy „ustupování“ v obchodech přestává
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění; jde o investory, kteří kupují poklesy s vírou, že Donald Trump v hrozbách vůči Íránu vždy ustoupí. Kdyby neustoupil, dražší ropa se může nepřímo projevit v cenách paliv a letenek."
+  todo: "Neplést si titulek s daty: sledovat, zda ropa po nové hrozbě drží růst déle než jeden den a zda se pohyb ukáže i u aerolinek a výnosů dluhopisů."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdy-ustupovani-v-obchodech-prestava-fungovat-co-zmeni-neusto-analyza-368018

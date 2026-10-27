@@ -13,6 +13,10 @@ date: '2026-09-18'
 status: published
 confidence: 0
 image_query: 'Pokles ropy nemusí ulevit dopravcům:'
+impact:
+  areas: [money]
+  line: "Kdo čeká, že levnější ropa hned zlevní dopravu a zboží, může být zklamaný: nafta může zůstat drahá a palivové příplatky dopravců se často řídí indexem z minulého týdne či měsíce. Týká se to dopravců, jejich zákazníků a nakonec cen zboží."
+  todo: "Vedle ceny ropy sledovat cenu nafty a zásoby destilátů v týdenních datech EIA; u dopravců zjistit, podle jakého indexu a s jakým zpožděním počítají palivový příplatek."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/pokles-ropy-nemusi-ulevit-dopravcum-sledujte-ulsd-crack-spre-analyza-368021

@@ -13,6 +13,10 @@ date: '2026-09-18'
 status: published
 confidence: 0
 image_query: 'small modular nuclear reactor'
+impact:
+  areas: [money]
+  line: "Most readers will see no day-to-day change: this is EDF's plan to build ten small reactors in Europe by 2035, not construction. Cheaper electricity won't appear from the announcement alone; it matters for engineering, construction and energy suppliers."
+  todo: "Tell ambition from an order: watch whether the project gets an approved design from a national nuclear regulator, a final investment decision and a grid connection agreement."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/edf-10-malych-reaktoru-narazi-na-licence-zakazky-a-dohodu-o--analyza-368143

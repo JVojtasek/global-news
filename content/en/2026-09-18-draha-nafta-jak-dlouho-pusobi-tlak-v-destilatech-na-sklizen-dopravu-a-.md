@@ -13,6 +13,10 @@ date: '2026-09-18'
 status: published
 confidence: 0
 image_query: diesel refinery storage tanks
+impact:
+  areas: [money]
+  line: "Right now it hits U.S. farmers in the middle of harvest, truckers and food processors hardest: for them diesel is a cost they cannot postpone. It may reach shop prices only later, and only if the pressure lasts."
+  todo: "Watch the weekly diesel price and distillate inventories in EIA data, and tell a short refinery-outage shock apart from lasting food inflation."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/draha-nafta-jak-dlouho-pusobi-tlak-v-destilatech-na-sklizen--analyza-368145

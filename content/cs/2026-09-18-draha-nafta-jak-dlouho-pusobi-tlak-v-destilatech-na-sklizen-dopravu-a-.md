@@ -13,6 +13,10 @@ date: '2026-09-18'
 status: published
 confidence: 0
 image_query: 'Drahá nafta: jak dlouho působí'
+impact:
+  areas: [money]
+  line: "Nejvíc to teď cítí američtí farmáři uprostřed sklizně, dopravci a zpracovatelé potravin: nafta je u nich náklad, který nejde odložit. Do cen v obchodech se to může propsat až později, a jen když tlak vydrží."
+  todo: "Sledovat týdenní cenu nafty a zásoby destilátů v datech EIA a rozlišit krátký šok z odstávky rafinerie od dlouhodobého zdražování potravin."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/draha-nafta-jak-dlouho-pusobi-tlak-v-destilatech-na-sklizen--analyza-368145

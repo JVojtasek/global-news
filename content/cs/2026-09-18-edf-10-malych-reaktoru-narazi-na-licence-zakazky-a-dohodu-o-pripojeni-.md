@@ -13,6 +13,10 @@ date: '2026-09-18'
 status: published
 confidence: 0
 image_query: 'EDF: 10 malých reaktorů naráží'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění: jde o plán EDF postavit do roku 2035 deset malých reaktorů v Evropě, ne o stavbu. Levnější elektřina se jen díky oznámení neobjeví; podstatné je to pro inženýrské, stavební a energetické dodavatele."
+  todo: "Rozlišovat ambici od objednávky: sledovat, zda projekt získá schválený design od národního jaderného regulátora, finální investiční rozhodnutí a dohodu o připojení do sítě."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/edf-10-malych-reaktoru-narazi-na-licence-zakazky-a-dohodu-o--analyza-368143

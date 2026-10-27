@@ -12,6 +12,10 @@ date: '2026-09-18'
 status: published
 confidence: 0
 image_query: generative AI copyright
+impact:
+  areas: [money]
+  line: "Most readers will see no day-to-day change. It matters for publishers, authors and businesses building on AI tools: if courts or deals make content licenses pricier, AI services may cost more to run and their operators may lose margin."
+  todo: "Follow court milestones in The New York Times case against OpenAI and Microsoft, and mentions of content licensing in AI companies' earnings reports, not just lawsuit headlines."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/copyright-u-ai-jako-skryta-nakladova-polozka-co-udela-s-ceno-analyza-368008
