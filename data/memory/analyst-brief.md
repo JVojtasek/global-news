@@ -23,7 +23,6 @@ Paměť obsahuje **169 vláken**. Aktivních za posledních 14 dní: **46**.
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 79 dní · 60 záznamů
 - časová osa:
-  - **2026-10-06** (2 zdrojů) Nations League roundup: Olise leads late charge as France bowl over Belgium
   - **2026-10-06** (2 zdrojů) Nations League: France defeat Belgium in second-half comeback
   - **2026-10-06** (2 zdrojů) How promotion, relegation and knockouts work in Nations League
   - **2026-10-06** (2 zdrojů) England v Czechia: Nations League football – live
@@ -33,6 +32,7 @@ Paměť obsahuje **169 vláken**. Aktivních za posledních 14 dní: **46**.
   - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
   - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
   - **2026-10-27** (3 zdrojů) Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
+  - **2026-10-27** (4 zdrojů) 'A dream come true' - Harry Kane on his Ballon d'Or win
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 69 dní · 60 záznamů

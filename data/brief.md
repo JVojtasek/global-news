@@ -77,28 +77,22 @@
     <https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile>
     > Venezuelan opposition leader Maria Corina Machado announced on Sunday that she has returned to her homeland following almost a year in exile, after covertly leaving Venezuela in late 2025 to receive the Nobel Peace Prize. She returns as doubts about her country’s democratic futur
 
-### 4. Spurs clinch rare Stamford Bridge win as Palmer sent off
-- id události: `a8e59462be15`  ·  rubrika: `sport`  ·  skóre: 68  ·  nezávislých zdrojů: 3
+### 4. 'A dream come true' - Harry Kane on his Ballon d'Or win
+- id události: `8ec3cd6502b6`  ·  rubrika: `sport`  ·  skóre: 70  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC Sport** — Spurs clinch rare Stamford Bridge win as Palmer sent off
-    <https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss>
-    > Tottenham claim just their second victory over Chelsea at Stamford Bridge in 36 years, winning 2-0 as the hosts finish with 10 men after a red card for Cole Palmer.
-  - **BBC Sport** — Arsenal beat Everton to go level on points with leaders Man City
-    <https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss>
-    > Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat Everton 2-0 at the Emirates to move level on points with league leaders Manchester City.
-  - **BBC Sport** — Penders error & Palmer sees red - player ratings for Chelsea v Spurs
-    <https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss>
-    > Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in Spurs' 2-0 win at Chelsea. Here's how we - and you - rated the players.
-  - **Guardian Sport** — Alonso urges Cole Palmer ‘to learn’ from red card in Chelsea’s defeat to Spurs
-    <https://www.theguardian.com/football/2026/oct/24/xabia-alonso-urges-cole-palmer-to-learn-from-red-card-in-chelseas-defeat-to-tottenham>
-    > Forward sent off after 80 minutes for second yellow card ‘We need to have maturity to deal with difficult moments’ Xabi Alonso said that Cole Palmer must learn from his red card during Chelsea’s shock 2-0 defeat to Tottenham , who claimed their first win at Stamford Bridge since 
-  - **Al Jazeera** — Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0
-    <https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss>
-    > Gunners capitalise on City's first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.
-  - **Guardian Sport** — Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off
-    <https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report>
-    > There are days when Tottenham go into these big games and find ways to beat themselves. This time, though, they held their nerve at a ground where they have mostly only known doom. Spurs played with control, stayed patient and won at Stamford Bridge for the first time since 2018 
+  - **BBC World** — 'A dream come true' - Harry Kane on his Ballon d'Or win
+    <https://www.bbc.co.uk/news/videos/cm9wznvx1l17o?at_medium=RSS&at_campaign=rss>
+    > It's the first time an English player has lifted the trophy since Michael Owen in 2001.
+  - **BBC Sport** — Ballon d'Or winner Kane explains how his game has evolved
+    <https://www.bbc.co.uk/sport/football/videos/cwg7xevnyrjpo?at_medium=RSS&at_campaign=rss>
+    > Speaking in August, Harry Kane tells Umir Irfan how he has evolved in recent seasons - leading him to winning the coveted Ballon d'Or.
+  - **France 24** — Harry Kane wins Ballon d'Or, with Kylian Mbappé second ahead of Lamine Yamal
+    <https://www.france24.com/en/tv-shows/sports/20261027-harry-kane-wins-ballon-d-or-with-kylian-mbapp%C3%A9-in-second-ahead-of-lamine-yamal>
+    > Harry Kane has won the 2026 Ballon d’Or, which was awarded in London for the first time. He becomes the fifth Englishman to win the trophy, 25 years after Michael Owen.
+  - **Guardian Sport** — Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay
+    <https://www.theguardian.com/football/2026/oct/27/harry-kane-ballon-dor-triumph-ceremony-barney-ronay>
+    > The England captain spoke movingly on night of deserving winners and unintentional hilarity in London Well, there’s something new. Football: now available in new, genuinely heartwarming flavour. There was a lovely moment at London’s Palladium theatre, with the clock creeping towa
 
 ---
 
@@ -165,7 +159,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-29  (2 zdrojů, síla 52)  Czechia v England: Nations League football – live
   2026-09-29  (2 zdrojů, síla 43)  Gordon and Kane fire England to Nations League victory against 10-man Czechia
   2026-09-30  (2 zdrojů, síla 42)  Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
   2026-09-30  (2 zdrojů, síla 51)  Republic of Ireland will play second Israel game - Hallgrimsson
@@ -185,6 +178,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-22  (2 zdrojů, síla 46)  Harry Kane: Ballon d’Or for Bayern Munich striker?
   2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes
   2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
+  2026-10-27  (4 zdrojů, síla 70)  'A dream come true' - Harry Kane on his Ballon d'Or win
 ```
 
 ---
