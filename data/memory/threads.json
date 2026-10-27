@@ -283,15 +283,17 @@
    "title": "Trump administration illegally fired James Comey's daughter, judge rules",
    "section": "world",
    "entities": [
+    "ex-fbi",
     "comey",
-    "trump",
-    "james",
+    "comey's",
     "director",
-    "comey's"
+    "trump",
+    "james"
    ],
    "event_ids": [
     "84f97e2b56f8",
-    "692893e33c3f"
+    "692893e33c3f",
+    "1ab5871f3434"
    ],
    "first_seen": "2026-10-26",
    "last_seen": "2026-10-27",
@@ -317,6 +319,18 @@
      "links": [
       "https://www.npr.org/2026/10/26/nx-s1-6018628/trump-administration-attempting-to-prosecute-former-fbi-director-james-comey-again",
       "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Ex-FBI chief James Comey faces federal charges for third time",
+     "sources": 3,
+     "score": 56,
+     "event_id": "1ab5871f3434",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-seeks-new-charges-against-former-fbi-chief-james-comey/a-79771256?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss"
      ]
     }
    ]
@@ -18409,5 +18423,5 @@
    ]
   }
  ],
- "updated": "2026-10-27T00:58:57+00:00"
+ "updated": "2026-10-27T03:33:00+00:00"
 }
