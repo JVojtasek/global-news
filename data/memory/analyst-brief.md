@@ -1,15 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-27
 
-Paměť obsahuje **169 vláken**. Aktivních za posledních 14 dní: **45**.
+Paměť obsahuje **169 vláken**. Aktivních za posledních 14 dní: **46**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 74 dní · 60 záznamů
+- rubrika `world` · sledováno 75 dní · 60 záznamů
 - časová osa:
-  - **2026-10-23** (3 zdrojů) Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
   - **2026-10-23** (3 zdrojů) Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
   - **2026-10-23** (2 zdrojů) Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
   - **2026-10-24** (2 zdrojů) As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?
@@ -19,6 +18,21 @@ Paměť obsahuje **169 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-25** (2 zdrojů) Israeli soldiers raze neighbourhood in Hebron, driving families from homes
   - **2026-10-25** (3 zdrojů) Israel to close all West Bank land crossings on election day
   - **2026-10-26** (2 zdrojů) Who are the Israeli candidates trying to unseat Netanyahu?
+  - **2026-10-27** (2 zdrojů) Israel election: Israelis vote for 1st time since October 7 terror attack
+
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 79 dní · 60 záznamů
+- časová osa:
+  - **2026-10-06** (2 zdrojů) Nations League roundup: Olise leads late charge as France bowl over Belgium
+  - **2026-10-06** (2 zdrojů) Nations League: France defeat Belgium in second-half comeback
+  - **2026-10-06** (2 zdrojů) How promotion, relegation and knockouts work in Nations League
+  - **2026-10-06** (2 zdrojů) England v Czechia: Nations League football – live
+  - **2026-10-06** (2 zdrojů) Kane scores twice but who else was a 'real threat'? England player ratings
+  - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
+  - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
+  - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
+  - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
+  - **2026-10-27** (3 zdrojů) Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 69 dní · 60 záznamů
@@ -47,20 +61,6 @@ Paměť obsahuje **169 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-26** (2 zdrojů) Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours
   - **2026-10-26** (2 zdrojů) What Germany thinks of carmaker Audi's $4 billion deal with Trump
   - **2026-10-26** (2 zdrojů) Trump announces Audi will build $4 billion factory in US
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 76 dní · 60 záznamů
-- časová osa:
-  - **2026-10-05** (2 zdrojů) Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
-  - **2026-10-06** (2 zdrojů) Nations League roundup: Olise leads late charge as France bowl over Belgium
-  - **2026-10-06** (2 zdrojů) Nations League: France defeat Belgium in second-half comeback
-  - **2026-10-06** (2 zdrojů) How promotion, relegation and knockouts work in Nations League
-  - **2026-10-06** (2 zdrojů) England v Czechia: Nations League football – live
-  - **2026-10-06** (2 zdrojů) Kane scores twice but who else was a 'real threat'? England player ratings
-  - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
-  - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
-  - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
-  - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 72 dní · 60 záznamů

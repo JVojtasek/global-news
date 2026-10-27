@@ -1034,6 +1034,46 @@
   ]
  },
  {
+  "id": "88d004656f72",
+  "headline": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or",
+  "section": "sport",
+  "score": 55,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-10-27T06:42:38+00:00",
+  "event_time": "2026-10-27T06:30:54+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or",
+    "url": "https://www.npr.org/2026/10/27/nx-s1-6019097/harry-kane-alexia-putellas-ballon-dor",
+    "source": "NPR News",
+    "summary": "Kane was followed in the voting by Kylian Mbappé. Spain star Alexia Putellas won her third women's Ballon d'Or. Outside, fans packed the streets and climbed light poles near the London Palladium.",
+    "published_at": "2026-10-27T06:30:54+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   },
+   {
+    "title": "Ranking England's Ballon d'Or winners - how does Kane compare?",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckx2qdxgzzz7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "From Stanley Matthews to Harry Kane, how do England's Ballon d'Or winners rank?",
+    "published_at": "2026-10-27T06:20:58+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   },
+   {
+    "title": "Harry Kane ends England's 25-year wait for a Ballon d'Or winner – video",
+    "url": "https://www.theguardian.com/football/video/2026/oct/27/harry-kane-ends-englands-25-year-wait-for-a-ballon-dor-winner-video",
+    "source": "Guardian Sport",
+    "summary": "Harry Kane became the first Englishman to win football’s most prestigious individual trophy in 25 years at a lavish ceremony in London. The Bayern Munich striker followed in Michael Owen's footsteps after finishing ahead of co-favourites Lamine Yamal of Barcelona and Kylian Mbappé of Real Madrid. Harry Kane claims men’s Ballon d’Or to end England’s 25-year wait for winner Continue reading...",
+    "published_at": "2026-10-27T04:28:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   }
+  ]
+ },
+ {
   "id": "17bbb9e07e27",
   "headline": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
   "section": "world",
@@ -1350,46 +1390,6 @@
     "published_at": "2026-10-25T09:29:39+00:00",
     "source_countries": [],
     "seen_at": "2026-10-25T12:32:53+00:00"
-   }
-  ]
- },
- {
-  "id": "7e9b86a23e3d",
-  "headline": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-  "section": "science",
-  "score": 50,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-24T06:37:21+00:00",
-  "event_time": "2026-10-23T22:39:39+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-    "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-    "source": "NASA",
-    "summary": "As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and SpaceX […]",
-    "published_at": "2026-10-23T22:39:39+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
-   },
-   {
-    "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
-    "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-    "source": "NASA",
-    "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history. Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit […]",
-    "published_at": "2026-10-23T22:37:53+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
-   },
-   {
-    "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
-    "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
-    "source": "NASA",
-    "summary": "NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its final observation on Oct. 20. It is expected to […]",
-    "published_at": "2026-10-23T21:51:19+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
    }
   ]
  },
@@ -1763,6 +1763,37 @@
     "published_at": "2026-10-26T16:36:33+00:00",
     "source_countries": [],
     "seen_at": "2026-10-26T18:40:39+00:00"
+   }
+  ]
+ },
+ {
+  "id": "1a0b856b794d",
+  "headline": "Israel election: Israelis vote for 1st time since October 7 terror attack",
+  "section": "world",
+  "score": 47,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-10-27T06:42:38+00:00",
+  "event_time": "2026-10-27T05:59:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Israel election: Israelis vote for 1st time since October 7 terror attack",
+    "url": "https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Israel's longest-serving prime minister, Benjamin Netanyahu, faces a battle to stay in power amid fierce competition from a bloc led by former military chief Gadi Eisenkot. Arab parties are projected to play kingmakers.",
+    "published_at": "2026-10-27T05:59:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   },
+   {
+    "title": "Israel votes in first election since October 7 attack as Netanyahu faces crucial test",
+    "url": "https://www.france24.com/en/middle-east/20261027-israel-election-2026-netanyahu-october-7",
+    "source": "France 24",
+    "summary": "Israelis are voting Tuesday in the first general elections since the October 7, 2023, Hamas attack with Prime Minister Benjamin Netanyahu facing a fight for political survival. The vote follows three years of regional wars, with Netanyahu running neck and neck with centrist rival Gadi Eisenkot.",
+    "published_at": "2026-10-27T04:12:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
    }
   ]
  },
@@ -2728,37 +2759,6 @@
   ]
  },
  {
-  "id": "37a7894265f0",
-  "headline": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
-  "section": "world",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-24T06:37:21+00:00",
-  "event_time": "2026-10-24T05:00:24+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
-    "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
-    "source": "The Guardian World",
-    "summary": "The prime minister has defined and dominated his country’s politics for three decades and is putting his rivals on the defensive before Tuesday’s general election They chant his name, they cheer and clap – and yet he is not the most dominant person in the room. Looming over the crowd that has gathered to hear Gadi Eisenkot, the former general who is the lead opposition challenger in Tuesday’s Isra",
-    "published_at": "2026-10-24T05:00:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
-   },
-   {
-    "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
-    "url": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.",
-    "published_at": "2026-10-24T05:29:07+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
-   }
-  ]
- },
- {
   "id": "a344deb0b7ae",
   "headline": "White House lifts tariffs on some Canadian goods as midterm elections loom",
   "section": "world",
@@ -3264,37 +3264,6 @@
   ]
  },
  {
-  "id": "8878215c0656",
-  "headline": "More than third of post offices in TG Jones stores to shut by early 2027",
-  "section": "world",
-  "score": 41,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-10-24T06:37:21+00:00",
-  "event_time": "2026-10-24T06:00:27+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "More than third of post offices in TG Jones stores to shut by early 2027",
-    "url": "https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027",
-    "source": "The Guardian World",
-    "summary": "Closures within chain formerly under the WH Smith brand raise fears of high streets becoming ‘postal deserts’ Towns and even city centres face being left as “postal deserts” after it emerged that more than a third of post offices within the troubled TG Jones chain are closing. So far this year 36 branches within the high street chain formerly known as WH Smith have closed and a further 34 are set ",
-    "published_at": "2026-10-24T06:00:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
-   },
-   {
-    "title": "More than third of post offices in TG Jones stores to shut by early 2027",
-    "url": "https://www.theguardian.com/business/2026/oct/24/more-than-third-of-post-offices-in-tg-jones-stores-to-shut-by-early-2027",
-    "source": "Guardian Business",
-    "summary": "Closures within chain formerly under the WH Smith brand raise fears of high streets becoming ‘postal deserts’ Towns and even city centres face being left as “postal deserts” after it emerged that more than a third of post offices within the troubled TG Jones chain are closing. So far this year 36 branches within the high street chain formerly known as WH Smith have closed and a further 34 are set ",
-    "published_at": "2026-10-24T06:00:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
-   }
-  ]
- },
- {
   "id": "b6b092c3cf5d",
   "headline": "City Holding Co director Reyes buys $13,502 in stock",
   "section": "business",
@@ -3628,68 +3597,6 @@
     "published_at": "2026-10-27T00:10:05+00:00",
     "source_countries": [],
     "seen_at": "2026-10-27T00:58:54+00:00"
-   }
-  ]
- },
- {
-  "id": "4cd4e797bff9",
-  "headline": "Most levelling up projects still unfinished years after funding allocated",
-  "section": "world",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-10-24T06:37:21+00:00",
-  "event_time": "2026-10-24T06:00:27+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Most levelling up projects still unfinished years after funding allocated",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation",
-    "source": "The Guardian World",
-    "summary": "Data released under freedom of information laws reveals hundreds of projects unfinished despite Tory promises on regional equality • Can a £5.8bn scheme help revive Grimsby and other town centres? Most levelling up projects are not finished, years after funds were allocated, highlighting how ambitious Conservative promises of quick progress on regional equality have faltered. Data released under f",
-    "published_at": "2026-10-24T06:00:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
-   },
-   {
-    "title": "Most levelling up projects still unfinished years after funding allocated",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation",
-    "source": "Guardian Business",
-    "summary": "Data released under freedom of information laws reveals hundreds of projects unfinished despite Tory promises on regional equality • Can a £5.8bn scheme help revive Grimsby and other town centres? Most levelling up projects are not finished, years after funds were allocated, highlighting how ambitious Conservative promises of quick progress on regional equality have faltered. Data released under f",
-    "published_at": "2026-10-24T06:00:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
-   }
-  ]
- },
- {
-  "id": "bf6279ad02f6",
-  "headline": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
-  "section": "world",
-  "score": 40,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-10-24T06:37:21+00:00",
-  "event_time": "2026-10-24T05:00:24+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
-    "source": "The Guardian World",
-    "summary": "Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AI John Healey has pledged to use Wednesday’s budget to harness the power of artificial intelligence to bolster Britain’s security and prosperity against the risks in the accelerating global technology arms race. As he prepares for his debut budget, the chancellor said that Andy Burnham’s gover",
-    "published_at": "2026-10-24T05:00:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
-   },
-   {
-    "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
-    "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
-    "source": "Guardian Business",
-    "summary": "Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AI John Healey has pledged to use Wednesday’s budget to harness the power of artificial intelligence to bolster Britain’s security and prosperity against the risks in the accelerating global technology arms race. As he prepares for his debut budget, the chancellor said that Andy Burnham’s gover",
-    "published_at": "2026-10-24T05:00:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
    }
   ]
  },
@@ -4172,6 +4079,99 @@
   ]
  },
  {
+  "id": "8a7169ca9484",
+  "headline": "Meghan to co-host Junior MasterChef Australia",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-10-27T06:42:38+00:00",
+  "event_time": "2026-10-27T04:43:56+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Meghan to co-host Junior MasterChef Australia",
+    "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+    "published_at": "2026-10-27T04:43:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   },
+   {
+    "title": "Meghan to co-host Junior MasterChef Australia",
+    "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+    "published_at": "2026-10-27T04:43:56+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a88593915f48",
+  "headline": "Landowners could scupper free Land Registry access plans, campaigners warn",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-10-27T06:42:38+00:00",
+  "event_time": "2026-10-27T06:00:04+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Landowners could scupper free Land Registry access plans, campaigners warn",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/27/landowners-could-scupper-free-land-registry-access-plans-campaigners-warn",
+    "source": "The Guardian World",
+    "summary": "Proposed lifting of paywall would reveal who owns vast majority of land in England and Wales Plans by the government to give the public free access for the first time to information on who owns England’s land are at risk of being scuppered by landowners, campaigners have said. On Tuesday the government set out its proposals to lift the paywall on the Land Registry, arguing that opening it would he",
+    "published_at": "2026-10-27T06:00:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   },
+   {
+    "title": "Landowners could scupper free Land Registry access plans, campaigners warn",
+    "url": "https://www.theguardian.com/uk-news/2026/oct/27/landowners-could-scupper-free-land-registry-access-plans-campaigners-warn",
+    "source": "Guardian Business",
+    "summary": "Proposed lifting of paywall would reveal who owns vast majority of land in England and Wales Plans by the government to give the public free access for the first time to information on who owns England’s land are at risk of being scuppered by landowners, campaigners have said. On Tuesday the government set out its proposals to lift the paywall on the Land Registry, arguing that opening it would he",
+    "published_at": "2026-10-27T06:00:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f6e344455100",
+  "headline": "Macklemore opens ‘Free Palestine’ tour in Dublin",
+  "section": "world",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-10-27T06:42:38+00:00",
+  "event_time": "2026-10-27T05:14:13+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Macklemore opens ‘Free Palestine’ tour in Dublin",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/macklemore-opens-free-palestine-tour-in-dublin?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "American rapper Macklemore opened his ‘Free Palestine’ tour before a sold-out crowd in Dublin",
+    "published_at": "2026-10-27T05:14:13+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   },
+   {
+    "title": "Macklemore holds charity stadium shows to raise funds for Palestine",
+    "url": "https://www.france24.com/en/tv-shows/arts24/20261026-macklemore-holds-charity-stadium-shows-to-raise-funds-for-palestine",
+    "source": "France 24",
+    "summary": "In this arts24 music show, Jennifer Ben Brahim brings us a roundup of the big music releases and news of the week, from US rapper Macklemore's charity stadium shows to raise money for Palestine, to the return of R'n'B crooner John Legend with his 11th album \"Muse\" – his first collaboration with close friend Pharrell Williams.",
+    "published_at": "2026-10-26T16:26:45+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   }
+  ]
+ },
+ {
   "id": "8e3964626413",
   "headline": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
   "section": "business",
@@ -4548,33 +4548,33 @@
   ]
  },
  {
-  "id": "fe7967f82b14",
-  "headline": "‘Comfort in a bowl’: porridge hotter than ever as fibremaxxers get their oats",
-  "section": "world",
-  "score": 38,
+  "id": "dea65faa2c9c",
+  "headline": "Kylian Mbappé dropped by Chinese brands for ‘offending national sentiments’",
+  "section": "business",
+  "score": 39,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-10-24T06:37:21+00:00",
-  "event_time": "2026-10-24T05:00:23+00:00",
+  "created": "2026-10-27T06:42:38+00:00",
+  "event_time": "2026-10-27T06:24:28+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "‘Comfort in a bowl’: porridge hotter than ever as fibremaxxers get their oats",
-    "url": "https://www.theguardian.com/food/2026/oct/24/comfort-in-a-bowl-porridge-hotter-than-ever-as-fibremaxxers-get-their-oats",
-    "source": "The Guardian World",
-    "summary": "Humble breakfast staple at heart of trend stirred up by health concerns and hearty spoonfuls of nostalgia The clocks may be going back in the UK this weekend, but the biggest sign winter is coming is a steaming bowl of porridge on a breakfast table. A staple for centuries, porridge is traditionally made with oats, water and a pinch of salt or sugar. However, the humble dish is now experiencing its",
-    "published_at": "2026-10-24T05:00:23+00:00",
+    "title": "Kylian Mbappé dropped by Chinese brands for ‘offending national sentiments’",
+    "url": "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes",
+    "source": "Guardian Business",
+    "summary": "Video appears to show football star refer to Mao Zedong as a ‘dictator’ Dongpeng Beverage and Mengniu end deals with France captain Kylian Mbappé was dropped Tuesday by two major brands in China after a video circulated online in which the French football superstar apparently joked about former leader Mao Zedong. In China jokes about Mao, the country’s founding leader who died in 1976, are conside",
+    "published_at": "2026-10-27T06:24:28+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
+    "seen_at": "2026-10-27T06:42:36+00:00"
    },
    {
-    "title": "‘Comfort in a bowl’: porridge hotter than ever as fibremaxxers get their oats",
-    "url": "https://www.theguardian.com/food/2026/oct/24/comfort-in-a-bowl-porridge-hotter-than-ever-as-fibremaxxers-get-their-oats",
-    "source": "Guardian Business",
-    "summary": "Humble breakfast staple at heart of trend stirred up by health concerns and hearty spoonfuls of nostalgia The clocks may be going back in the UK this weekend, but the biggest sign winter is coming is a steaming bowl of porridge on a breakfast table. A staple for centuries, porridge is traditionally made with oats, water and a pinch of salt or sugar. However, the humble dish is now experiencing its",
-    "published_at": "2026-10-24T05:00:23+00:00",
+    "title": "Kylian Mbappé dropped by Chinese brands for ‘offending national sentiments’",
+    "url": "https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes",
+    "source": "Guardian Sport",
+    "summary": "Video appears to show football star refer to Mao Zedong as a ‘dictator’ Dongpeng Beverage and Mengniu end deals with France captain Kylian Mbappé was dropped Tuesday by two major brands in China after a video circulated online in which the French football superstar apparently joked about former leader Mao Zedong. In China jokes about Mao, the country’s founding leader who died in 1976, are conside",
+    "published_at": "2026-10-27T06:24:28+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
+    "seen_at": "2026-10-27T06:42:36+00:00"
    }
   ]
  },
@@ -5217,6 +5217,37 @@
     "published_at": "2026-10-27T01:48:04+00:00",
     "source_countries": [],
     "seen_at": "2026-10-27T03:32:57+00:00"
+   }
+  ]
+ },
+ {
+  "id": "22f31d3a6207",
+  "headline": "‘It’s a better experience’: shoppers praise Oxford Street pedestrianisation",
+  "section": "world",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-10-27T06:42:38+00:00",
+  "event_time": "2026-10-27T06:00:04+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘It’s a better experience’: shoppers praise Oxford Street pedestrianisation",
+    "url": "https://www.theguardian.com/cities/2026/oct/27/shoppers-praise-oxford-street-pedestrianisation",
+    "source": "The Guardian World",
+    "summary": "Many punters say inconvenience of bus rerouting is small price to pay for more space, but not everyone is happy To the east of Oxford Circus, there is chaos. A steady stream of red London buses swing round the last junction before the newly pedestrianised Oxford Street begins. The streets are crammed with pedestrians, some squabbling over who poked whom with their umbrella first. To the west, pede",
+    "published_at": "2026-10-27T06:00:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   },
+   {
+    "title": "‘It’s a better experience’: shoppers praise Oxford Street pedestrianisation",
+    "url": "https://www.theguardian.com/cities/2026/oct/27/shoppers-praise-oxford-street-pedestrianisation",
+    "source": "Guardian Business",
+    "summary": "Many punters say inconvenience of bus rerouting is small price to pay for more space, but not everyone is happy To the east of Oxford Circus, there is chaos. A steady stream of red London buses swing round the last junction before the newly pedestrianised Oxford Street begins. The streets are crammed with pedestrians, some squabbling over who poked whom with their umbrella first. To the west, pede",
+    "published_at": "2026-10-27T06:00:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
    }
   ]
  },
@@ -6268,68 +6299,55 @@
   ]
  },
  {
-  "id": "5678b2c2c0f9",
-  "headline": "Trump administration sues to block certification of upcoming Alaska election",
+  "id": "b043ca1b8e43",
+  "headline": "Labor condemns One Nation cartoons depicting Penny Wong being murdered as Hanson says videos ‘not going anywhere’",
   "section": "world",
-  "score": 35,
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-27T06:42:38+00:00",
+  "event_time": "2026-10-27T05:13:57+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Labor condemns One Nation cartoons depicting Penny Wong being murdered as Hanson says videos ‘not going anywhere’",
+    "url": "https://www.theguardian.com/australia-news/2026/oct/27/one-nation-cartoon-penny-wong-beheading-condemned-ntwnfb",
+    "source": "The Guardian World",
+    "summary": "Foreign affairs minister says party’s social media content promotes division and violence as One Nation leader claims Liberal and Labor want cartoons censored Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast Labor has accused Pauline Hanson of stoking division and violence in cartoons showing attacks on the foreign affairs m",
+    "published_at": "2026-10-27T05:13:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   }
+  ]
+ },
+ {
+  "id": "3635adfa8ec8",
+  "headline": "Palestinian citizens of Israel can vote, but cannot expect change",
+  "section": "world",
+  "score": 36,
   "sources_count": 1,
   "depth_signal": 2,
-  "created": "2026-10-24T06:37:21+00:00",
-  "event_time": "2026-10-23T18:49:14+00:00",
+  "created": "2026-10-27T06:42:38+00:00",
+  "event_time": "2026-10-27T06:15:48+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Trump administration sues to block certification of upcoming Alaska election",
-    "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
-    "published_at": "2026-10-23T18:49:14+00:00",
+    "title": "Palestinian citizens of Israel can vote, but cannot expect change",
+    "url": "https://www.aljazeera.com/opinions/2026/10/27/palestinian-citizens-of-israel-can-vote-but-cannot-expect-change?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Elections cannot stop the accelerated process of ‘recolonisation’ of 1948 Palestinian communities.",
+    "published_at": "2026-10-27T06:15:48+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
-   }
-  ]
- },
- {
-  "id": "f1c9ceb59fab",
-  "headline": "A Course Called Ireland: Bill Murray clearly hated making his new golfing show – but it’s extremely fun to binge",
-  "section": "culture",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-24T06:37:21+00:00",
-  "event_time": "2026-10-24T06:00:25+00:00",
-  "time_kind": "published",
-  "items": [
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   },
    {
-    "title": "A Course Called Ireland: Bill Murray clearly hated making his new golfing show – but it’s extremely fun to binge",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/oct/24/a-course-called-ireland-bill-murray-clearly-hated-making-his-new-golfing-show-but-its-extremely-fun-to-binge",
-    "source": "Guardian Culture",
-    "summary": "In his rogue new travelogue, the Hollywood star tees off, has drunken pub singalongs – but mostly just proves how tired he is of fame I’m suspicious of travelogues, which often feature celebrities in contrived situations, serving up a sentimental postcard of a place that is tantamount to a lie. I also hate how famous people are inexorably drawn to golf: a boring game historically predicated on a r",
-    "published_at": "2026-10-24T06:00:25+00:00",
+    "title": "Palestinian citizens of Israel fear they’re next target if far-right wins",
+    "url": "https://www.aljazeera.com/features/2026/10/27/palestinian-citizens-of-israel-fear-theyre-next-target-if-far-right-wins?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Majd al-Krum's protests have forced settlers to withdraw, but fears of further provocations loom after elections.",
+    "published_at": "2026-10-27T06:12:04+00:00",
     "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
-   }
-  ]
- },
- {
-  "id": "eebdb3f4f6ae",
-  "headline": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
-  "section": "safety",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-24T06:37:21+00:00",
-  "event_time": "2026-10-22T17:01:53+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
-    "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
-    "source": "The Hacker News",
-    "summary": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel. One of them, ZDI-CAN-33774, can be triggered before any network authentication. The other, ZDI-CAN-33549, requires the SMB Direct transport and an RDMA-capable network",
-    "published_at": "2026-10-22T17:01:53+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T06:37:18+00:00"
+    "seen_at": "2026-10-27T06:42:36+00:00"
    }
   ]
  },
@@ -7242,6 +7260,28 @@
     "published_at": "2026-10-23T00:00:00+00:00",
     "source_countries": [],
     "seen_at": "2026-10-27T03:32:57+00:00"
+   }
+  ]
+ },
+ {
+  "id": "968629f0ead3",
+  "headline": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+  "section": "safety",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-27T06:42:38+00:00",
+  "event_time": "2026-10-27T04:37:59+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+    "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - CVE-2026-109618 - An out-of-memory",
+    "published_at": "2026-10-27T04:37:59+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
    }
   ]
  },
@@ -8736,6 +8776,59 @@
   ]
  },
  {
+  "id": "e22dcf9162aa",
+  "headline": "Jay-Z picks himself to headline the Super Bowl halftime show in Southern California",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-27T06:42:38+00:00",
+  "event_time": "2026-10-27T05:46:18+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Jay-Z picks himself to headline the Super Bowl halftime show in Southern California",
+    "url": "https://www.npr.org/2026/10/27/g-s1-150043/super-bowl-halftime-jay-z",
+    "source": "NPR News",
+    "summary": "The NFL, Apple Music and Roc Nation announced Monday night that Jay-Z will be the featured performer for the halftime festivities on Feb. 14 at SoFi Stadium in Inglewood, California.",
+    "published_at": "2026-10-27T05:46:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   }
+  ]
+ },
+ {
+  "id": "8a82194b71cd",
+  "headline": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+  "section": "business",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-10-27T06:42:38+00:00",
+  "event_time": "2026-10-27T00:01:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+    "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+    "published_at": "2026-10-27T00:01:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   },
+   {
+    "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+    "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+    "published_at": "2026-10-27T00:01:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-10-27T06:42:36+00:00"
+   }
+  ]
+ },
+ {
   "id": "38dc07aa62de",
   "headline": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
   "section": "world",
@@ -8796,72 +8889,6 @@
     "source": "The Guardian World",
     "summary": "Fender criticises stadium pricing, calling it ‘bollocks’ and says it ‘won’t be happening’ on his tour Sam Fender has responded to criticism by fans about ticket prices for his 2027 stadium tour by promising he would lower the cost, telling followers on Instagram: “They’re getting changed.” The 32-year-old musician announced his Proper Massive stadium tour earlier this week. Continue reading...",
     "published_at": "2026-10-24T15:29:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T18:28:36+00:00"
-   }
-  ]
- },
- {
-  "id": "ed92313e189c",
-  "headline": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
-  "section": "world",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-24T18:28:39+00:00",
-  "event_time": "2026-10-21T13:56:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
-    "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "During talks between Vladimir Putin and Steve Witkoff, Putin announced that jailed American Stephen Hubbard had been released. The Kremlin also said Russia was \"in principle\" ready to resume trilateral talks next month.",
-    "published_at": "2026-10-21T13:56:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T18:28:36+00:00"
-   }
-  ]
- },
- {
-  "id": "38a1025854dc",
-  "headline": "Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
-  "section": "science",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-24T18:28:39+00:00",
-  "event_time": "2026-10-22T00:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
-    "url": "https://www.nature.com/articles/s41586-026-11312-x",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 22 October 2026; doi:10.1038/s41586-026-11312-x Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
-    "published_at": "2026-10-22T00:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-10-24T18:28:36+00:00"
-   }
-  ]
- },
- {
-  "id": "5075b5017e5b",
-  "headline": "Scotland to be hit with 80mph wind gusts as Storm Boelo warning upgraded to amber",
-  "section": "science",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-10-24T18:28:39+00:00",
-  "event_time": "2026-10-23T16:13:11+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo warning upgraded to amber",
-    "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday.",
-    "published_at": "2026-10-23T16:13:11+00:00",
     "source_countries": [],
     "seen_at": "2026-10-24T18:28:36+00:00"
    }

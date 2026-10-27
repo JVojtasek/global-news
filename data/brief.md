@@ -136,7 +136,6 @@
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-16  (4 zdrojů, síla 71)  Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack
   2026-10-17  (2 zdrojů, síla 50)  🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank
   2026-10-17  (2 zdrojů, síla 45)  Israeli settlers attack European diplomats in West Bank
   2026-10-18  (2 zdrojů, síla 48)  Israeli settlers attack Palestinians in West Bank during olive harvest
@@ -156,35 +155,36 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-25  (2 zdrojů, síla 42)  Israeli soldiers raze neighbourhood in Hebron, driving families from homes
   2026-10-25  (3 zdrojů, síla 52)  Israel to close all West Bank land crossings on election day
   2026-10-26  (2 zdrojů, síla 42)  Who are the Israeli candidates trying to unseat Netanyahu?
+  2026-10-27  (2 zdrojů, síla 47)  Israel election: Israelis vote for 1st time since October 7 terror attack
 ```
 
-### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
-- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
+### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
-rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-18  (2 zdrojů, síla 53)  LIVE: Leeds United vs Manchester United – Premier League
-  2026-10-18  (2 zdrojů, síla 40)  Manchester City owner’s £55m housing loan while Burnham was mayor investigated
-  2026-10-18  (3 zdrojů, síla 60)  Man Utd showed 'unity' in draw with Leeds - Carrick
-  2026-10-19  (1 zdrojů, síla 44)  Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
-  2026-10-20  (2 zdrojů, síla 40)  Ronaldo let Manchester United down - Ten Hag
-  2026-10-20  (2 zdrojů, síla 43)  Liverpool v Villarreal: Champions League – live
-  2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting
-  2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal
-  2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record
-  2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
-  2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
-  2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win
-  2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory
-  2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
-  2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
-  2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
-  2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live
-  2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City
-  2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL
-  2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?
+VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+rubrika: world · sledováno od 2026-08-09 · záznamů: 60
+  2026-09-29  (2 zdrojů, síla 52)  Czechia v England: Nations League football – live
+  2026-09-29  (2 zdrojů, síla 43)  Gordon and Kane fire England to Nations League victory against 10-man Czechia
+  2026-09-30  (2 zdrojů, síla 42)  Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming
+  2026-09-30  (2 zdrojů, síla 51)  Republic of Ireland will play second Israel game - Hallgrimsson
+  2026-10-01  (2 zdrojů, síla 42)  Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
+  2026-10-02  (3 zdrojů, síla 55)  Klopp wins first game as Germany coach, without 'top dogs'
+  2026-10-03  (2 zdrojů, síla 46)  Who has 'no ceiling' as Northern Ireland shine in Nations League?
+  2026-10-03  (2 zdrojů, síla 44)  LIVE: Croatia vs England – UEFA Nations League
+  2026-10-03  (2 zdrojů, síla 54)  North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
+  2026-10-05  (2 zdrojů, síla 56)  Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
+  2026-10-06  (2 zdrojů, síla 43)  Nations League roundup: Olise leads late charge as France bowl over Belgium
+  2026-10-06  (2 zdrojů, síla 44)  Nations League: France defeat Belgium in second-half comeback
+  2026-10-06  (2 zdrojů, síla 47)  How promotion, relegation and knockouts work in Nations League
+  2026-10-06  (2 zdrojů, síla 45)  England v Czechia: Nations League football – live
+  2026-10-06  (2 zdrojů, síla 52)  Kane scores twice but who else was a 'real threat'? England player ratings
+  2026-10-07  (2 zdrojů, síla 42)  Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
+  2026-10-08  (3 zdrojů, síla 58)  Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
+  2026-10-22  (2 zdrojů, síla 46)  Harry Kane: Ballon d’Or for Bayern Munich striker?
+  2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes
+  2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
 ```
 
 ---
