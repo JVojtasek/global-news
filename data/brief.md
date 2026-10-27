@@ -1,6 +1,6 @@
 # ZADÁNÍ PRO REDAKCI — 2026-10-27
 
-- Režim: **autonomous**  ⚠️ nikdo se o projekt 16 dní nestaral – buď opatrnější
+- Režim: **autonomous**  ⚠️ nikdo se o projekt 17 dní nestaral – buď opatrnější
 - Práh jistoty pro automatické vydání: **93/100**
 - Článků v zásobě: **10**
 - Jazyk, ve kterém se píše: **en**
@@ -82,25 +82,28 @@
     <https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor>
     > Alexia Putellas picks up women’s award for third time England captain acclaimed in London ceremony Harry Kane is the Ballon d’Or winner for 2026, the first Englishman to win football’s most prestigious individual trophy in 25 years. Two hours into a lavishly excitable ceremony at
 
-### 4. Venezuelan opposition leader María Machado returns after months in exile
-- id události: `b4c30b6342df`  ·  rubrika: `world`  ·  skóre: 73  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+### 4. Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
+- id události: `bcc76393f0bd`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — Venezuelan opposition leader María Machado returns after months in exile
-    <https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss>
-    > Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.
-  - **The Guardian World** — Exiled opposition leader María Corina Machado returns to Venezuela
-    <https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return>
-    > Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader María Corina Machado has announced she has returned to Venezuela almost a year after she left the country to receive the Nobel p
-  - **NPR News** — Venezuela's opposition leader María Corina Machado returns after months in exile
-    <https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile>
-    > Machado announced her arrival on social media, writing "I am here. With you."
-  - **CNBC Top** — Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen
-    <https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html>
-    > Venezuela's opposition leader Edmundo Gonzalez wrote on X, confirming Machado's arrival and saying he would be next to her "very soon."
-  - **France 24** — Opposition leader Machado returns to Venezuela after 10 months in exile
-    <https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile>
-    > Venezuelan opposition leader Maria Corina Machado announced on Sunday that she has returned to her homeland following almost a year in exile, after covertly leaving Venezuela in late 2025 to receive the Nobel Peace Prize. She returns as doubts about her country’s democratic futur
+  - **The Guardian World** — Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
+    <https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats>
+    > Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Israel’s election was too close to call on Tuesday night after a historic turnout by voters for an election described by some as the most
+  - **DW News** — Israel election: Anti-Netanyahu bloc ahead, but no majority
+    <https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-rdf>
+    > While Netanyahu's party is projected to be the biggest in parliament, the anti-Netanyahu coalition looks set to have more seats. But no bloc has a clear majority.
+  - **CNBC Top** — No clear winner in Israeli election, exit polls suggest, as Netanyahu’s fate hangs in the balance
+    <https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html>
+    > Israel's election ended Tuesday with no clear winner, exit polls indicate, likely setting off weeks of jockeying before a leader is declared.
+  - **Al Jazeera** — Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp
+    <https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss>
+    > High turnout in vote widely described as the most consequential in Israel's history.
+  - **France 24** — Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'
+    <https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy>
+    > Erin Ogunkeye is pleased to welcome Ron Gerlitz, CEO of aChord Center at Hebrew University, an Israeli organization specialising in the social psychology of intergroup relations. “The main issue in this election is the fight for Israeli democracy,” explains Gerlitz. And beneath t
+  - **Al Jazeera** — Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters
+    <https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss>
+    > In one social media post, PM Netanyahu accused Arab voters of 'raiding the polling stations and stealing the elections'.
 
 ---
 
@@ -138,7 +141,6 @@
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-17  (2 zdrojů, síla 45)  Israeli settlers attack European diplomats in West Bank
   2026-10-18  (2 zdrojů, síla 48)  Israeli settlers attack Palestinians in West Bank during olive harvest
   2026-10-18  (2 zdrojů, síla 50)  West Bank: Israeli settlers attack EU diplomats, French mayor
   2026-10-18  (3 zdrojů, síla 62)  US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
@@ -158,6 +160,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-26  (2 zdrojů, síla 42)  Who are the Israeli candidates trying to unseat Netanyahu?
   2026-10-27  (2 zdrojů, síla 47)  Israel election: Israelis vote for 1st time since October 7 terror attack
   2026-10-27  (1 zdrojů, síla 40)  Turnout high as Israeli voters deliver verdict on Netanyahu
+  2026-10-27  (5 zdrojů, síla 77)  Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
 ```
 
 ### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says

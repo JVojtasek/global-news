@@ -1,7 +1,7 @@
 {
  "date": "2026-10-27",
  "mode": "autonomous",
- "days_since_human": 16,
+ "days_since_human": 17,
  "confidence_threshold": 93,
  "reserve_articles": 10,
  "news_assignments": [
@@ -228,63 +228,72 @@
    "depth": "open"
   },
   {
-   "id": "b4c30b6342df",
-   "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+   "id": "bcc76393f0bd",
+   "headline": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
    "section": "world",
-   "score": 73,
+   "score": 77,
    "sources_count": 5,
    "depth_signal": 0,
-   "created": "2026-10-25T18:29:03+00:00",
-   "event_time": "2026-10-25T16:21:40+00:00",
+   "created": "2026-10-27T21:19:11+00:00",
+   "event_time": "2026-10-27T20:56:23+00:00",
    "time_kind": "published",
    "items": [
     {
-     "title": "Venezuelan opposition leader María Machado returns after months in exile",
-     "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-     "published_at": "2026-10-25T16:21:40+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-25T18:29:00+00:00"
-    },
-    {
-     "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
-     "url": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+     "title": "Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
+     "url": "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
      "source": "The Guardian World",
-     "summary": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader María Corina Machado has announced she has returned to Venezuela almost a year after she left the country to receive the Nobel peace prize. “I’m here. With you,” she wrote on X on Sunday lunchtime. Continue reading...",
-     "published_at": "2026-10-25T17:18:28+00:00",
+     "summary": "Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Israel’s election was too close to call on Tuesday night after a historic turnout by voters for an election described by some as the most consequential in the country’s history, and marked by a record participation by Israeli Arab voters. Exit polls publish",
+     "published_at": "2026-10-27T20:56:23+00:00",
      "source_countries": [],
-     "seen_at": "2026-10-25T18:29:00+00:00"
+     "seen_at": "2026-10-27T21:19:08+00:00"
     },
     {
-     "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-     "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
-     "source": "NPR News",
-     "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
-     "published_at": "2026-10-25T16:18:41+00:00",
+     "title": "Israel election: Anti-Netanyahu bloc ahead, but no majority",
+     "url": "https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "While Netanyahu's party is projected to be the biggest in parliament, the anti-Netanyahu coalition looks set to have more seats. But no bloc has a clear majority.",
+     "published_at": "2026-10-27T20:21:00+00:00",
      "source_countries": [],
-     "seen_at": "2026-10-25T18:29:00+00:00"
+     "seen_at": "2026-10-27T21:19:08+00:00"
     },
     {
-     "title": "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
-     "url": "https://www.cnbc.com/2026/10/25/venezuelas-machado-returns-from-exile-as-doubts-over-democracy-deepen.html",
+     "title": "No clear winner in Israeli election, exit polls suggest, as Netanyahu’s fate hangs in the balance",
+     "url": "https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html",
      "source": "CNBC Top",
-     "summary": "Venezuela's opposition leader Edmundo Gonzalez wrote on X, confirming Machado's arrival and saying he would be next to her \"very soon.\"",
-     "published_at": "2026-10-25T18:26:50+00:00",
+     "summary": "Israel's election ended Tuesday with no clear winner, exit polls indicate, likely setting off weeks of jockeying before a leader is declared.",
+     "published_at": "2026-10-27T20:22:39+00:00",
      "source_countries": [],
-     "seen_at": "2026-10-25T18:29:00+00:00"
+     "seen_at": "2026-10-27T21:19:08+00:00"
     },
     {
-     "title": "Opposition leader Machado returns to Venezuela after 10 months in exile",
-     "url": "https://www.france24.com/en/americas/20261025-opposition-leader-machado-returns-to-venezuela-after-10-months-in-exile",
-     "source": "France 24",
-     "summary": "Venezuelan opposition leader Maria Corina Machado announced on Sunday that she has returned to her homeland following almost a year in exile, after covertly leaving Venezuela in late 2025 to receive the Nobel Peace Prize. She returns as doubts about her country’s democratic future and the role of the US are growing.",
-     "published_at": "2026-10-25T17:10:11+00:00",
+     "title": "Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "High turnout in vote widely described as the most consequential in Israel's history.",
+     "published_at": "2026-10-27T19:28:12+00:00",
      "source_countries": [],
-     "seen_at": "2026-10-25T18:29:00+00:00"
+     "seen_at": "2026-10-27T21:19:08+00:00"
+    },
+    {
+     "title": "Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'",
+     "url": "https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy",
+     "source": "France 24",
+     "summary": "Erin Ogunkeye is pleased to welcome Ron Gerlitz, CEO of aChord Center at Hebrew University, an Israeli organization specialising in the social psychology of intergroup relations. “The main issue in this election is the fight for Israeli democracy,” explains Gerlitz. And beneath the struggle over democratic institutions lies the erosion of Benjamin Netanyahu's longstanding association with national",
+     "published_at": "2026-10-27T18:34:19+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-27T21:19:08+00:00"
+    },
+    {
+     "title": "Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters",
+     "url": "https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "In one social media post, PM Netanyahu accused Arab voters of 'raiding the polling stations and stealing the elections'.",
+     "published_at": "2026-10-27T18:11:57+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-27T21:19:08+00:00"
     }
    ],
-   "depth": "scripture"
+   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -304,7 +313,7 @@
    "title_hint": "What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "depth": "open",
-   "timeline": "VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers\nrubrika: world · sledováno od 2026-08-13 · záznamů: 60\n  2026-10-17  (2 zdrojů, síla 45)  Israeli settlers attack European diplomats in West Bank\n  2026-10-18  (2 zdrojů, síla 48)  Israeli settlers attack Palestinians in West Bank during olive harvest\n  2026-10-18  (2 zdrojů, síla 50)  West Bank: Israeli settlers attack EU diplomats, French mayor\n  2026-10-18  (3 zdrojů, síla 62)  US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’\n  2026-10-19  (1 zdrojů, síla 41)  Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests\n  2026-10-21  (3 zdrojů, síla 58)  Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander\n  2026-10-21  (1 zdrojů, síla 40)  African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests\n  2026-10-23  (3 zdrojů, síla 54)  Israel preparing 'full closure' of West Bank, Netanyahu says\n  2026-10-23  (3 zdrojů, síla 60)  Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting\n  2026-10-23  (3 zdrojů, síla 56)  Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed\n  2026-10-23  (2 zdrojů, síla 57)  Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’\n  2026-10-24  (2 zdrojů, síla 42)  As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?\n  2026-10-24  (2 zdrojů, síla 43)  Israeli PM pledges massive military operation after West Bank checkpoint attack\n  2026-10-24  (2 zdrojů, síla 43)  Israel begins demolitions in West Bank\n  2026-10-25  (2 zdrojů, síla 40)  Israel to close occupied West Bank crossings as it locks down Hebron\n  2026-10-25  (2 zdrojů, síla 42)  Israeli soldiers raze neighbourhood in Hebron, driving families from homes\n  2026-10-25  (3 zdrojů, síla 52)  Israel to close all West Bank land crossings on election day\n  2026-10-26  (2 zdrojů, síla 42)  Who are the Israeli candidates trying to unseat Netanyahu?\n  2026-10-27  (2 zdrojů, síla 47)  Israel election: Israelis vote for 1st time since October 7 terror attack\n  2026-10-27  (1 zdrojů, síla 40)  Turnout high as Israeli voters deliver verdict on Netanyahu",
+   "timeline": "VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers\nrubrika: world · sledováno od 2026-08-13 · záznamů: 60\n  2026-10-18  (2 zdrojů, síla 48)  Israeli settlers attack Palestinians in West Bank during olive harvest\n  2026-10-18  (2 zdrojů, síla 50)  West Bank: Israeli settlers attack EU diplomats, French mayor\n  2026-10-18  (3 zdrojů, síla 62)  US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’\n  2026-10-19  (1 zdrojů, síla 41)  Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests\n  2026-10-21  (3 zdrojů, síla 58)  Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander\n  2026-10-21  (1 zdrojů, síla 40)  African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests\n  2026-10-23  (3 zdrojů, síla 54)  Israel preparing 'full closure' of West Bank, Netanyahu says\n  2026-10-23  (3 zdrojů, síla 60)  Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting\n  2026-10-23  (3 zdrojů, síla 56)  Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed\n  2026-10-23  (2 zdrojů, síla 57)  Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’\n  2026-10-24  (2 zdrojů, síla 42)  As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?\n  2026-10-24  (2 zdrojů, síla 43)  Israeli PM pledges massive military operation after West Bank checkpoint attack\n  2026-10-24  (2 zdrojů, síla 43)  Israel begins demolitions in West Bank\n  2026-10-25  (2 zdrojů, síla 40)  Israel to close occupied West Bank crossings as it locks down Hebron\n  2026-10-25  (2 zdrojů, síla 42)  Israeli soldiers raze neighbourhood in Hebron, driving families from homes\n  2026-10-25  (3 zdrojů, síla 52)  Israel to close all West Bank land crossings on election day\n  2026-10-26  (2 zdrojů, síla 42)  Who are the Israeli candidates trying to unseat Netanyahu?\n  2026-10-27  (2 zdrojů, síla 47)  Israel election: Israelis vote for 1st time since October 7 terror attack\n  2026-10-27  (1 zdrojů, síla 40)  Turnout high as Israeli voters deliver verdict on Netanyahu\n  2026-10-27  (5 zdrojů, síla 77)  Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats",
    "thread_days": 60
   },
   {

@@ -9,7 +9,6 @@ Paměť obsahuje **169 vláken**. Aktivních za posledních 14 dní: **47**.
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 75 dní · 60 záznamů
 - časová osa:
-  - **2026-10-23** (2 zdrojů) Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
   - **2026-10-24** (2 zdrojů) As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?
   - **2026-10-24** (2 zdrojů) Israeli PM pledges massive military operation after West Bank checkpoint attack
   - **2026-10-24** (2 zdrojů) Israel begins demolitions in West Bank
@@ -19,6 +18,7 @@ Paměť obsahuje **169 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-10-26** (2 zdrojů) Who are the Israeli candidates trying to unseat Netanyahu?
   - **2026-10-27** (2 zdrojů) Israel election: Israelis vote for 1st time since October 7 terror attack
   - **2026-10-27** (1 zdrojů) Turnout high as Israeli voters deliver verdict on Netanyahu
+  - **2026-10-27** (5 zdrojů) Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 79 dní · 60 záznamů
