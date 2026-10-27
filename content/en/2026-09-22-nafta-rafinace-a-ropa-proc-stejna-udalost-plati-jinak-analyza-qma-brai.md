@@ -13,6 +13,10 @@ date: '2026-09-22'
 status: published
 confidence: 0
 image_query: diesel fuel pump truck
+impact:
+  areas: [money]
+  line: "Expensive diesel raises the cost of moving food, parcels and building materials, so it feeds into everyday prices even for people who don't own a diesel car. An energy ceasefire may not make it cheaper right away if refining stays tight."
+  todo: "Worth watching: diesel prices at the pump and news on refinery capacity. The oil price on its own says little about the diesel price."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nafta-rafinace-a-ropa-proc-stejna-udalost-plati-jinak-analyza-371251

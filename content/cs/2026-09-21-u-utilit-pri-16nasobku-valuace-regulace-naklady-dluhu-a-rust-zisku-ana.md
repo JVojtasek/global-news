@@ -13,6 +13,10 @@ date: '2026-09-21'
 status: published
 confidence: 0
 image_query: 'U utilit při 16násobku valuace:'
+impact:
+  areas: [money]
+  line: "Investice do elektrických sítí se do účtů domácností dostávají přes regulátora. Časem to může znamenat modernější a spolehlivější síť, ale i tlak na vyšší účty za elektřinu; tempo určuje, co regulátor schválí."
+  todo: "Sledovat lze rozhodnutí regulátora o tarifech a povolené návratnosti. Na vyúčtování je vidět, kolik z ceny tvoří distribuce a kolik samotná elektřina."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-utilit-pri-16nasobku-valuace-regulace-naklady-dluhu-a-rust-analyza-370325

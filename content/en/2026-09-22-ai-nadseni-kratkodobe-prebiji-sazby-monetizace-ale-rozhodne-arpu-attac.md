@@ -13,6 +13,10 @@ date: '2026-09-22'
 status: published
 confidence: 0
 image_query: stock market trading screens
+impact:
+  areas: [money]
+  line: "Most readers will see no day-to-day change. What matters is for anyone holding tech shares or funds: their prices are now driven more by the AI story than by interest rates, and that can flip quickly."
+  todo: "In company quarterly results, watch ARPU, the attach rate of AI add-ons, customer churn, gross margin and capex as a share of revenue."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-nadseni-kratkodobe-prebiji-sazby-monetizace-ale-rozhodne--analyza-371390

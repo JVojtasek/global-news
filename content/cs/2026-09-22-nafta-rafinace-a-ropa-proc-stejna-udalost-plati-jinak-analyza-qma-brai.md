@@ -12,6 +12,10 @@ date: '2026-09-22'
 status: published
 confidence: 0
 image_query: 'Nafta, rafinace a ropa: proč'
+impact:
+  areas: [money]
+  line: "Drahá nafta zdražuje převoz jídla, balíků i stavebního materiálu, takže se promítá do cen běžného zboží i u lidí bez dieselového auta. Případné energetické příměří ji nemusí zlevnit hned, pokud dál vázne rafinace."
+  todo: "Sledovat lze cenu nafty u pump a zprávy o kapacitě rafinerií. Samotný pohyb ceny ropy o ceně nafty mnoho neřekne."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nafta-rafinace-a-ropa-proc-stejna-udalost-plati-jinak-analyza-371251

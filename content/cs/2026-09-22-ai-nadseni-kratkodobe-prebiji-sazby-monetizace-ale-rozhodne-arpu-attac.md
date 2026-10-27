@@ -13,6 +13,10 @@ date: '2026-09-22'
 status: published
 confidence: 0
 image_query: AI nadšení krátkodobě přebíjí sazby,
+impact:
+  areas: [money]
+  line: "Většina čtenářů ve svém dni žádnou změnu nepozná. Podstatné je to pro každého, kdo má technologické akcie nebo fondy: jejich cenu teď víc hýbe AI příběh než sazby, a to se může rychle otočit."
+  todo: "Ve čtvrtletních výsledcích firem lze sledovat ARPU, attach rate AI doplňků, odchodovost zákazníků, hrubou marži a capex jako podíl tržeb."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-nadseni-kratkodobe-prebiji-sazby-monetizace-ale-rozhodne--analyza-371390

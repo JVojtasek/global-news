@@ -13,6 +13,10 @@ date: '2026-09-21'
 status: published
 confidence: 0
 image_query: 'Trump–Si a cla: co mění'
+impact:
+  areas: [money]
+  line: "Většina čtenářů ve svém dni zatím žádnou změnu nepozná, jednání USA a Číny teprve probíhá. Podstatné je, zda výsledná pravidla pro čipy a čínská auta nepřímo zdraží technologie, zpomalí inovace, nebo přinesou nová pracovní místa."
+  todo: "Sledovat lze, zda nová pravidla míří na výkon čipů, licence, servis, nebo cloudový výpočet, a kdy končí obchodní příměří."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/trump-si-a-cla-co-meni-pro-export-ai-cipu-sluzeb-v-cloudu-a--analyza-370619

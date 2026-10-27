@@ -13,6 +13,10 @@ date: '2026-09-21'
 status: published
 confidence: 0
 image_query: Zisky rostou, ale cash flow
+impact:
+  areas: [money]
+  line: "Většina čtenářů ve svém dni žádnou změnu nepozná. Podstatné je to pro každého, kdo má penzijní nebo investiční účet s indexovými fondy: technologické akcie v nich váží hodně a mohou spadnout i po dobrých ziscích."
+  todo: "Ve výsledcích firem lze sledovat poměr volného cash flow k EBITDA, capex jako podíl tržeb a dny zásob a pohledávek."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/zisky-rostou-ale-cash-flow-ne-proc-ai-firmam-nestaci-dobre-v-analyza-370596

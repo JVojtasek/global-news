@@ -13,6 +13,10 @@ date: '2026-09-21'
 status: published
 confidence: 0
 image_query: data center servers artificial intelligence investment
+impact:
+  areas: [money]
+  line: "Most readers will see no day-to-day change. What matters is for anyone with a pension or investment account in index funds: tech stocks weigh heavily there and can fall even after good profits."
+  todo: "In company results, watch free cash flow relative to EBITDA, capex as a share of revenue, and days of inventory and receivables."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/zisky-rostou-ale-cash-flow-ne-proc-ai-firmam-nestaci-dobre-v-analyza-370596

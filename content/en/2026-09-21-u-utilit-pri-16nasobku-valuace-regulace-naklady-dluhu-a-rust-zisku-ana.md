@@ -13,6 +13,10 @@ date: '2026-09-21'
 status: published
 confidence: 0
 image_query: power grid substation electricity transmission lines
+impact:
+  areas: [money]
+  line: "Grid investment reaches household bills through the regulator. Over time that can mean a more modern, reliable grid, but also pressure toward higher electricity bills; the pace depends on what the regulator approves."
+  todo: "Worth watching: regulator decisions on tariffs and allowed returns. A power bill shows how much of the price is network charges and how much is the electricity itself."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-utilit-pri-16nasobku-valuace-regulace-naklady-dluhu-a-rust-analyza-370325

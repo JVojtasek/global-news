@@ -14,6 +14,10 @@ date: '2026-09-21'
 status: published
 confidence: 0
 image_query: semiconductor chip export AI electric vehicle factory
+impact:
+  areas: [money]
+  line: "Most readers will see no day-to-day change yet; the US–China talks are still under way. What matters is whether the resulting rules on chips and Chinese cars indirectly make technology pricier, slow innovation, or bring new jobs."
+  todo: "Worth watching: whether new rules target chip performance, licences, servicing or cloud computing, and when the trade truce expires."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/trump-si-a-cla-co-meni-pro-export-ai-cipu-sluzeb-v-cloudu-a--analyza-370619
