@@ -13,6 +13,10 @@ date: '2026-09-16'
 status: published
 confidence: 0
 image_query: Fed má před sebou „sazební
+impact:
+  areas: [money]
+  line: "Většině čtenářů se samotným zvýšením o čtvrt bodu, které trh čeká na víc než 90 %, denně nic nemění; podstatné je, jak Fed popíše další dráhu sazeb. Ta rozhoduje o ceně hypoték a úvěrů."
+  todo: "Po rozhodnutí Fedu sledovat dvouletý americký výnos, dolar a kreditní spready; víc než samotný krok prozradí, jak trh čte další dráhu sazeb."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/fed-ma-pred-sebou-sazebni-sudoku-trh-ceka-zvyseni-riziko-je--analyza-366457

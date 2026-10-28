@@ -12,6 +12,10 @@ date: '2026-09-17'
 status: published
 confidence: 0
 image_query: Vysoké sazby už nejde jen
+impact:
+  areas: [money]
+  line: "Čím déle Fed drží sazby vysoko, tím déle zůstávají dražší hypotéky a úvěry, zatímco spoření nese víc. Ztrácejí dříve vydané dluhopisy s dlouhou splatností a akcie firem, jejichž velké zisky leží daleko v budoucnu."
+  todo: "Sledovat kreditní spready, tedy přirážku firemních dluhopisů nad státními: když zůstávají klidné, jde spíš o přecenění akcií; když se rozšiřují, roste strach z problémů s financováním."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/vysoke-sazby-uz-nejde-jen-o-vysi-ale-o-to-jak-dlouho-trvaji-analyza-367425

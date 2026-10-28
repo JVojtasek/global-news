@@ -13,6 +13,10 @@ date: '2026-09-17'
 status: published
 confidence: 0
 image_query: 'power plant electricity grid'
+impact:
+  areas: [money]
+  line: "For most readers nothing changes day to day; what matters is that the utilities label hides three different businesses. Anyone holding a utilities sector fund carries different risk depending on whether regulated firms, power producers or developers dominate it."
+  todo: "In a utilities sector fund, check the largest holdings: whether returns come from just a few names, and whether they are regulated firms or power producers."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-utilit-nestaci-jedna-kategorie-co-odlisuje-vistra-a-talen-analyza-367209

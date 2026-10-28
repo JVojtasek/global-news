@@ -13,6 +13,10 @@ date: '2026-09-16'
 status: published
 confidence: 0
 image_query: 'Revolut a falešný úřad: slabé'
+impact:
+  areas: [money, safety]
+  line: "Revolut podle zprávy předal data stovek zákazníků člověku, který se vydával za úřad, a teď čelí vydírání. Pro zasažené klienty to je riziko: ukradené osobní údaje jsou surovina pro cílené podvody."
+  todo: "Kdo je klientem Revolutu, může sledovat oficiální vyjádření banky; a když volá nebo píše „úřad“ či „banka“, ověřit to zpětně přes kontakt z oficiálního webu."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/revolut-a-falesny-urad-slabe-overovani-identity-muze-byt-dra-analyza-366617

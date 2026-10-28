@@ -13,6 +13,10 @@ date: '2026-09-16'
 status: published
 confidence: 0
 image_query: 'oil tanker at sea'
+impact:
+  areas: [money]
+  line: "The Houthis threaten to block Saudi oil exports through the Red Sea. A risk premium can lift oil prices before a single barrel goes missing; over time it shows up mainly in fuel and in goods that travel far."
+  todo: "Watch Brent against WTI and petrol and diesel prices: if mainly Brent rises, the market is pricing above all the risk to shipping routes."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ropne-trasy-a-rude-more-kdyz-nejde-o-vypadek-ale-jen-drazsi--analyza-366450

@@ -13,6 +13,10 @@ date: '2026-09-17'
 status: published
 confidence: 0
 image_query: 'U utilit nestačí „jedna kategorie“:'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění; podstatné je, že pod nálepkou „utility“ jsou tři různé byznysy. Kdo má sektorový fond utilit, nese jiné riziko podle toho, zda v něm převažují regulované firmy, výrobci elektřiny, nebo developeři."
+  todo: "U sektorového fondu utilit projít největší pozice: zda výnos táhne jen pár jmen a zda jde o regulované firmy, nebo o výrobce elektřiny."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/u-utilit-nestaci-jedna-kategorie-co-odlisuje-vistra-a-talen-analyza-367209

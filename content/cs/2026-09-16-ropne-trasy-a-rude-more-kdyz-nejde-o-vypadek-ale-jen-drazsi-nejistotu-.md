@@ -13,6 +13,10 @@ date: '2026-09-16'
 status: published
 confidence: 0
 image_query: 'Ropné trasy a Rudé moře:'
+impact:
+  areas: [money]
+  line: "Húthíové hrozí blokovat saúdský vývoz ropy přes Rudé moře. Riziková přirážka může zvednout cenu ropy dřív, než chybí jediný barel; časem se to projeví hlavně u paliv a zboží, které cestuje daleko."
+  todo: "Sledovat Brent proti WTI a ceny benzínu a nafty: když roste hlavně Brent, trh oceňuje především riziko námořních tras."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ropne-trasy-a-rude-more-kdyz-nejde-o-vypadek-ale-jen-drazsi--analyza-366450

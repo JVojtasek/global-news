@@ -13,6 +13,10 @@ date: '2026-09-16'
 status: published
 confidence: 0
 image_query: 'smartphone banking app security'
+impact:
+  areas: [money, safety]
+  line: "According to the report, Revolut handed data on hundreds of customers to someone posing as a government agency and now faces extortion. For affected customers that is a real risk: stolen personal data is raw material for targeted fraud."
+  todo: "Revolut customers can follow the bank's official statements; and when an agency or bank calls or writes, verify it by calling back via contacts on the official website."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/revolut-a-falesny-urad-slabe-overovani-identity-muze-byt-dra-analyza-366617

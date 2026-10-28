@@ -13,6 +13,10 @@ date: '2026-09-17'
 status: published
 confidence: 0
 image_query: Federal Reserve building interest rates
+impact:
+  areas: [money]
+  line: "The longer the Fed keeps rates high, the longer mortgages and loans stay expensive, while savings earn more. Older long-dated bonds lose value, as do shares of companies whose big profits lie far in the future."
+  todo: "Watch credit spreads, the premium corporate bonds pay over government bonds: if they stay calm, stocks are being repriced; if they widen, fear of funding trouble is growing."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/vysoke-sazby-uz-nejde-jen-o-vysi-ale-o-to-jak-dlouho-trvaji-analyza-367425

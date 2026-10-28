@@ -14,6 +14,10 @@ date: '2026-09-16'
 status: published
 confidence: 0
 image_query: 'Federal Reserve building Washington'
+impact:
+  areas: [money]
+  line: "For most readers, the quarter-point hike itself, which markets price at over 90%, changes nothing day to day; what matters is how the Fed describes the path of rates ahead. That path sets the cost of mortgages and loans."
+  todo: "After the Fed decision, watch the two-year U.S. yield, the dollar and credit spreads; they reveal more than the move itself about how markets read the rate path."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/fed-ma-pred-sebou-sazebni-sudoku-trh-ceka-zvyseni-riziko-je--analyza-366457
