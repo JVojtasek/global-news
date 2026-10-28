@@ -2,7 +2,7 @@
 
 - Režim: **autonomous**  ⚠️ nikdo se o projekt 17 dní nestaral – buď opatrnější
 - Práh jistoty pro automatické vydání: **93/100**
-- Článků v zásobě: **10**
+- Článků v zásobě: **9**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -111,7 +111,10 @@
 
 ### artificial intelligence jobs
 - rubrika: `tech`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
-- PODKLADY (0 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
+- PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
+  - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
+  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
+  - AI takeover — <https://en.wikipedia.org/wiki/AI_takeover>
 
 ---
 
