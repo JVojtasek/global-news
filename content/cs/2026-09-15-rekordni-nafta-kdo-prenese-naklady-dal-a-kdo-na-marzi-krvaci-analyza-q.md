@@ -13,6 +13,10 @@ date: '2026-09-15'
 status: published
 confidence: 0
 image_query: 'Rekordní nafta: kdo přenese náklady'
+impact:
+  areas: [money]
+  line: "Rekordní nafta za 6,27 dolaru za galon zdražuje v USA přepravu potravin, balíků a stavebního materiálu; náklad nakonec zaplatí dopravce, zákazník, nebo spotřebitel. Zároveň dává Fedu důvod držet přísnější sazby."
+  todo: "Ve výsledcích dopravců jako FedEx nebo UPS sledovat palivové příplatky a provozní marži; ukazují, kdo náklad na naftu skutečně nese."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rekordni-nafta-kdo-prenese-naklady-dal-a-kdo-na-marzi-krvaci-analyza-365804

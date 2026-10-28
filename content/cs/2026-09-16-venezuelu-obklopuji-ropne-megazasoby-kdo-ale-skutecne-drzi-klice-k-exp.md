@@ -13,6 +13,10 @@ date: '2026-09-16'
 status: published
 confidence: 0
 image_query: Venezuelu obklopují ropné megazásoby. Kdo
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění; dohoda Continental Resources s PDVSA o bloku Ayacucho 2 je zatím opce na budoucí ropu, ne barel na trhu. Ceny paliv by pohnula až skutečná těžba a export."
+  todo: "Sledovat, zda přibudou povolení a sankční výjimky, vrtné soupravy, servisní kontrakty a exportní kapacita; teprve ty dělají z 30 miliard barelů skutečnou nabídku."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/venezuelu-obklopuji-ropne-megazasoby-kdo-ale-skutecne-drzi-k-analyza-366707

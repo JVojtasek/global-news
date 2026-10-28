@@ -13,6 +13,10 @@ date: '2026-09-15'
 status: published
 confidence: 0
 image_query: 'semi truck highway'
+impact:
+  areas: [money]
+  line: "Record diesel at 6.27 dollars a gallon makes moving food, parcels and building materials in the U.S. more expensive; the carrier, the customer or the consumer ends up paying. It also gives the Fed a reason to keep rates tighter."
+  todo: "In results from carriers such as FedEx or UPS, watch fuel surcharges and operating margin; they show who actually bears the cost of diesel."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rekordni-nafta-kdo-prenese-naklady-dal-a-kdo-na-marzi-krvaci-analyza-365804

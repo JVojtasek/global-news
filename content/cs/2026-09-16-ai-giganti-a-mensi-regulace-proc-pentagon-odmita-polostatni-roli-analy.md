@@ -13,6 +13,10 @@ date: '2026-09-16'
 status: published
 confidence: 0
 image_query: 'AI giganti a „menší regulace“:'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění; jde o výrok Emila Michaela z Pentagonu, že vláda USA nemá brát podíly v AI firmách, ne o nový zákon. Nepřímo se dotýká lidí s technologickými akciemi v indexových a penzijních fondech."
+  todo: "Sledovat, zda výsledky AI firem potvrzují tržby, hrubé marže, backlog či RPO a revize odhadů zisků, nebo roste jen cena akcií."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-giganti-a-mensi-regulace-proc-pentagon-odmita-polostatni--analyza-366712

@@ -13,6 +13,10 @@ date: '2026-09-15'
 status: published
 confidence: 0
 image_query: 'Magnificent Seven znovu v čele:'
+impact:
+  areas: [money]
+  line: "Sedm technologických obrů tvoří zhruba 34 % indexu S&P 500, takže kdo má fond na tento index, má v nich asi třetinu peněz. Jejich růst může zakrýt, že průměrná akcie stojí na místě."
+  todo: "Porovnat výkon S&P 500 s jeho rovnováženou verzí a ve výkazech cash flow Microsoftu, Amazonu, Alphabetu a Mety sledovat kapitálové výdaje vůči provoznímu cash flow."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/magnificent-seven-znovu-v-cele-sirka-trhu-a-jestli-ai-kapex--analyza-365968

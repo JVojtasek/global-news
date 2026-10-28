@@ -13,6 +13,10 @@ date: '2026-09-15'
 status: published
 confidence: 0
 image_query: 'stock market ticker screen'
+impact:
+  areas: [money]
+  line: "Seven tech giants make up roughly 34% of the S&P 500, so anyone holding a fund that tracks this index has about a third of that money in them. Their gains can hide that the average stock is standing still."
+  todo: "Compare the S&P 500 with its equal-weighted version, and in Microsoft, Amazon, Alphabet and Meta cash flow statements watch capital spending against operating cash flow."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/magnificent-seven-znovu-v-cele-sirka-trhu-a-jestli-ai-kapex--analyza-365968

@@ -13,6 +13,10 @@ date: '2026-09-16'
 status: published
 confidence: 0
 image_query: 'heavy oil drilling rig'
+impact:
+  areas: [money]
+  line: "For most readers this changes nothing day to day; Continental Resources' deal with PDVSA on the Ayacucho 2 block is so far an option on future oil, not a barrel on the market. Fuel prices would move only with actual production and exports."
+  todo: "Watch whether permits and sanctions waivers, drilling rigs, service contracts and export capacity follow; only those turn 30 billion barrels into real supply."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/venezuelu-obklopuji-ropne-megazasoby-kdo-ale-skutecne-drzi-k-analyza-366707

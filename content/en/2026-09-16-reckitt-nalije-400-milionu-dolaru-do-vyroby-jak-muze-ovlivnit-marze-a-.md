@@ -13,6 +13,10 @@ date: '2026-09-16'
 status: published
 confidence: 0
 image_query: pharmacy shelf cough medicine
+impact:
+  areas: [health, money]
+  line: "Mucinex maker Reckitt is putting 400 million dollars into plants in North Carolina and New Jersey to keep up with swings in U.S. demand. For shoppers there, it is meant to mean fewer empty shelves in cold season, not a cheaper medicine."
+  todo: "In Reckitt's results, watch the inventory-to-sales ratio, gross margin and capital spending versus operating cash flow; they show whether the plants pay off."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/reckitt-nalije-400-milionu-dolaru-do-vyroby-jak-muze-ovlivni-analyza-366583

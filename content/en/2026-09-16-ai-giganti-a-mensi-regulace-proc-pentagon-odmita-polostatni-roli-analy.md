@@ -13,6 +13,10 @@ date: '2026-09-16'
 status: published
 confidence: 0
 image_query: 'data center server racks'
+impact:
+  areas: [money]
+  line: "For most readers this changes nothing day to day; it is a statement by the Pentagon's Emil Michael that the U.S. government shouldn't take stakes in AI firms, not a new law. It touches people indirectly through tech shares in index and pension funds."
+  todo: "Watch whether AI companies' results confirm revenue, gross margins, backlog or RPO and earnings-estimate revisions, or whether only the share price is rising."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-giganti-a-mensi-regulace-proc-pentagon-odmita-polostatni--analyza-366712

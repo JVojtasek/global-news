@@ -13,6 +13,10 @@ date: '2026-09-16'
 status: published
 confidence: 0
 image_query: Reckitt nalije 400 milionů dolarů
+impact:
+  areas: [health, money]
+  line: "Výrobce Mucinexu Reckitt dává 400 milionů dolarů do výroby v Severní Karolíně a New Jersey, aby lépe stíhal výkyvy poptávky v USA. Pro tamní kupující to má znamenat méně prázdných regálů v sezoně nachlazení, ne levnější lék."
+  todo: "Ve výsledcích Reckittu sledovat poměr zásob k tržbám, hrubou marži a kapitálové výdaje vůči provoznímu cash flow; ukážou, zda se továrna vyplácí."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/reckitt-nalije-400-milionu-dolaru-do-vyroby-jak-muze-ovlivni-analyza-366583
