@@ -1,6 +1,6 @@
 # ZADÁNÍ PRO REDAKCI — 2026-10-28
 
-- Režim: **autonomous**  ⚠️ nikdo se o projekt 17 dní nestaral – buď opatrnější
+- Režim: **autonomous**  ⚠️ nikdo se o projekt 18 dní nestaral – buď opatrnější
 - Práh jistoty pro automatické vydání: **93/100**
 - Článků v zásobě: **9**
 - Jazyk, ve kterém se píše: **en**
@@ -147,7 +147,6 @@
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-19  (1 zdrojů, síla 41)  Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
   2026-10-21  (3 zdrojů, síla 58)  Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
   2026-10-21  (1 zdrojů, síla 40)  African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
   2026-10-23  (3 zdrojů, síla 54)  Israel preparing 'full closure' of West Bank, Netanyahu says
@@ -167,6 +166,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-28  (3 zdrojů, síla 60)  Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority
   2026-10-28  (2 zdrojů, síla 45)  Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory
   2026-10-28  (2 zdrojů, síla 44)  'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'
+  2026-10-28  (2 zdrojů, síla 43)  Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition
 ```
 
 ### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
