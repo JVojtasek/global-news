@@ -5,46 +5,46 @@
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "north",
-    "coalition",
-    "palestinians",
-    "west",
-    "among",
-    "many",
-    "politically",
-    "rajab",
-    "hebron",
-    "african",
-    "strove",
-    "israeli",
-    "south",
-    "italy",
-    "arab",
-    "wandered",
-    "died",
-    "eisenkot",
-    "elephants",
-    "culture",
-    "israel",
-    "lizards",
-    "lander",
-    "turnout",
-    "true",
-    "past",
-    "bank",
-    "million",
-    "doing",
-    "jenin",
-    "continue",
-    "study",
-    "poles",
-    "five",
-    "uk's",
     "years",
-    "netanyahu",
+    "continue",
+    "among",
+    "italy",
+    "many",
+    "strove",
+    "elephants",
+    "lander",
+    "south",
     "october",
+    "politically",
+    "north",
+    "hebron",
+    "israeli",
+    "west",
+    "million",
+    "poles",
+    "orthodox",
+    "israelis",
+    "african",
+    "uk's",
+    "netanyahu",
+    "coalition",
+    "lizards",
+    "turnout",
+    "arab",
+    "rajab",
+    "doing",
+    "five",
+    "bank",
+    "eisenkot",
+    "true",
+    "israel",
+    "past",
+    "study",
     "former",
-    "israelis"
+    "wandered",
+    "culture",
+    "died",
+    "palestinians"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -127,22 +127,12 @@
     "7d1585723c9f",
     "bcc76393f0bd",
     "e9f9d6a24eaa",
-    "019f471259aa"
+    "019f471259aa",
+    "3f1a4a0ae4b5"
    ],
    "first_seen": "2026-08-13",
    "last_seen": "2026-10-28",
    "timeline": [
-    {
-     "date": "2026-08-30",
-     "headline": "Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France",
-     "sources": 2,
-     "score": 52,
-     "event_id": "5bd816fda1dc",
-     "links": [
-      "https://www.france24.com/en/asia-pacific/20260830-week-in-pictures-devastating-floods-in-nepal-death-of-dolly-parton-and-a-tornado-in-france",
-      "https://www.goodnewsnetwork.org/in-memorium-dolly-parton-the-country-music-star-philanthropist-and-champion-of-literacy/"
-     ]
-    },
     {
      "date": "2026-09-01",
      "headline": "Israeli fire kills three in Gaza City during reported raid, medics say",
@@ -808,6 +798,18 @@
       "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/video/20261028-israel-netanyahu-and-eisenkot-both-pledge-to-form-government"
      ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "3f1a4a0ae4b5",
+     "links": [
+      "https://www.france24.com/en/video/20261028-israeli-president-trying-to-form-unity-govt-they-will-not-need-arab-parties-nor-orthodox-parties",
+      "https://www.aljazeera.com/news/2026/10/28/can-israeli-leader-eisenkot-ally-with-arab-parties-to-unseat-netanyahu?traffic_source=rss",
+      "https://www.france24.com/en/tv-shows/perspective/20261028-no-clear-winner-from-israeli-election-expert-says"
+     ]
     }
    ]
   },
@@ -1427,22 +1429,408 @@
    ]
   },
   {
+   "id": "1301430cb05f",
+   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+   "section": "culture",
+   "entities": [
+    "sarcophagus",
+    "bring",
+    "scientists",
+    "marvel",
+    "shelter",
+    "filmmakers",
+    "burst",
+    "archaeologists",
+    "made",
+    "glass",
+    "solved",
+    "radio",
+    "exactly",
+    "billion",
+    "creatures",
+    "risks",
+    "rolls",
+    "cartwheel",
+    "photograph",
+    "female",
+    "sculpture",
+    "discovered",
+    "romans",
+    "astronomers",
+    "centuries",
+    "abbey",
+    "codex",
+    "year-old",
+    "excavated",
+    "replicate",
+    "celestial",
+    "were",
+    "color-changing",
+    "still",
+    "uncovered",
+    "london",
+    "detect",
+    "fast",
+    "ancient",
+    "nanotechnology"
+   ],
+   "event_ids": [
+    "1301430cb05f",
+    "510624bdc84f",
+    "f98076571ee0",
+    "5bb13a447624",
+    "8f63c883fb07",
+    "4d5d929d3f9b",
+    "13c0684b4af3",
+    "92a48ee35a16",
+    "dbe2fb28d382",
+    "200127734810",
+    "d314b5251d2f",
+    "38850f6a5dfa",
+    "f14aa1a495df",
+    "bdbcab469084",
+    "bcab6080a3cb",
+    "cd253afe8e24",
+    "79091fcbef11",
+    "a7bc879393f4",
+    "4d7f8e0023db",
+    "2b08b8fb7a6d",
+    "18524fe8a6bd",
+    "ed32fdd8eb37",
+    "05aacc7a1a04",
+    "ef31af8617ed",
+    "3ab27da8b81a",
+    "3a1bbc567a4d",
+    "98e8250459db",
+    "5c3abce3db29"
+   ],
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-10-28",
+   "timeline": [
+    {
+     "date": "2026-08-25",
+     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+     "sources": 5,
+     "score": 71,
+     "event_id": "1301430cb05f",
+     "links": [
+      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-25",
+     "headline": "Remembering Dolly Parton: 8 facts about the icon",
+     "sources": 6,
+     "score": 79,
+     "event_id": "510624bdc84f",
+     "links": [
+      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton – a life in pictures",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f98076571ee0",
+     "links": [
+      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5bb13a447624",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
+     "sources": 4,
+     "score": 78,
+     "event_id": "8f63c883fb07",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
+     "sources": 6,
+     "score": 83,
+     "event_id": "4d5d929d3f9b",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
+      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
+     "sources": 6,
+     "score": 86,
+     "event_id": "13c0684b4af3",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02676-1",
+      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter",
+     "sources": 2,
+     "score": 54,
+     "event_id": "92a48ee35a16",
+     "links": [
+      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
+      "https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "This week's quiz includes two Dolly Parton questions, because she deserves it",
+     "sources": 2,
+     "score": 47,
+     "event_id": "dbe2fb28d382",
+     "links": [
+      "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
+      "https://www.theguardian.com/music/2026/aug/27/dolly-parton-dollywood"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Briefing Chat: How Dolly Parton left her mark on science",
+     "sources": 3,
+     "score": 66,
+     "event_id": "200127734810",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02732-w",
+      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
+      "https://www.theguardian.com/music/2026/aug/28/dolly-parton-sister-stella-tribute-act-of-kindness-cancer-drugs"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan",
+     "sources": 2,
+     "score": 45,
+     "event_id": "d314b5251d2f",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
+      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+     "sources": 3,
+     "score": 58,
+     "event_id": "38850f6a5dfa",
+     "links": [
+      "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
+      "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
+      "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Dolly Parton laid to rest alongside husband in Nashville",
+     "sources": 2,
+     "score": 43,
+     "event_id": "f14aa1a495df",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief",
+     "sources": 1,
+     "score": 40,
+     "event_id": "bdbcab469084",
+     "links": [
+      "https://www.smithsonianmag.com/innovation/many-americans-covid-still-chronic-disabling-disease-scientists-working-tirelessly-bring-them-relief-180989290/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Festival honouring Dolly Parton set for Nashville and London",
+     "sources": 3,
+     "score": 55,
+     "event_id": "bcab6080a3cb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History",
+     "sources": 1,
+     "score": 44,
+     "event_id": "cd253afe8e24",
+     "links": [
+      "https://www.smithsonianmag.com/smithsonian-institution/kermit-the-frog-was-just-trying-to-put-on-a-variety-show-fifty-years-later-the-muppets-are-some-of-the-biggest-stars-in-television-history-180989451/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "For Decades, Scientists Thought an 'American Cheetah' Once Roamed North America. Turns Out the Extinct Cat Wasn't a Cheetah",
+     "sources": 1,
+     "score": 41,
+     "event_id": "79091fcbef11",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/for-decades-scientists-thought-an-american-cheetah-once-roamed-north-america-ancient-turns-out-the-extinct-cat-wasnt-a-cheetah-180989465/"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Scientists Find a Trove of Denisovan Fossils and Tools in Southwest China, Giving an Unprecedented Glimpse Into Our Extinct Cousins' Lives",
+     "sources": 1,
+     "score": 45,
+     "event_id": "a7bc879393f4",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/scientists-find-a-trove-of-denisovan-fossils-and-tools-in-southwest-china-giving-an-unprecendented-glimpse-into-our-extinct-cousins-lives-180989483/"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "A Rare Marble Sculpture by America’s First Professional Female Sculptor Sat Hidden in Plain Sight for Decades in an English Garden",
+     "sources": 1,
+     "score": 43,
+     "event_id": "4d7f8e0023db",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/a-rare-marble-sculpture-by-americas-first-professional-female-sculptor-sat-hidden-in-plain-sight-for-decades-in-english-garden-180989508/"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "A Rare Aztec Codex Detailing the Rise and Fall of Tenochtitlan Returns to Mexico for the First Time in Nearly Two Centuries",
+     "sources": 1,
+     "score": 41,
+     "event_id": "2b08b8fb7a6d",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/a-rare-aztec-codex-detailing-the-rise-and-fall-of-tenochtitlan-returns-to-mexico-for-the-first-time-in-nearly-two-centuries-180989536/"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Dolly Parton estate in feud with nephew over alleged ‘warfare’ threats",
+     "sources": 2,
+     "score": 47,
+     "event_id": "18524fe8a6bd",
+     "links": [
+      "https://www.theguardian.com/music/2026/sep/23/dolly-parton-estate-in-feud-with-nephew-over-alleged-warfare-threats",
+      "https://www.bbc.co.uk/news/articles/ckwyz06qg983o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "An Unprecedented Trove of Ancient Wooden Tools Uncovered at a Rock Shelter in Spain Shows Neanderthals Were Skilled Woodworkers",
+     "sources": 1,
+     "score": 41,
+     "event_id": "ed32fdd8eb37",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/an-unprecedented-trove-of-ancient-wooden-tools-uncovered-at-a-rock-shelter-in-spain-show-neanderthals-were-skilled-woodworkers-180989668/"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Were Two Ancient Chinese Astronomers Beheaded for Failing to Predict an Eclipse in 2134 B.C.E.? The Story May Be a Myth, but It Underscores the Real Risks of Interpreting Celestial Events",
+     "sources": 1,
+     "score": 44,
+     "event_id": "05aacc7a1a04",
+     "links": [
+      "https://www.smithsonianmag.com/history/were-two-chinese-astronomers-were-beheaded-for-failing-to-predict-an-eclipse-2134-bce-the-story-may-be-a-myth-but-it-underscores-the-real-risks-of-interpreting-celestial-events-180989715/"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "These Snakes Can Cartwheel Away From Danger. Scientists Just Uncovered How the Slithering Creatures Perform Their Acrobatic Rolls",
+     "sources": 1,
+     "score": 44,
+     "event_id": "ef31af8617ed",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/these-snakes-can-cartwheel-away-from-danger-scientists-just-uncovered-how-the-slithering-creatures-perform-their-acrobatic-rolls-180989720/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Astronomers Detect the Oldest Known Fast Radio Burst, Spewed From an Ancient Galaxy Just Three Billion Years After the Big Bang",
+     "sources": 1,
+     "score": 44,
+     "event_id": "3ab27da8b81a",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/astronomers-detect-the-oldest-fast-radio-burst-spewed-from-an-ancient-galaxy-just-three-billion-years-after-the-big-bang-180989730/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Where Exactly Were the First Humans to Be Captured in a Photograph Standing? Three Obsessed Filmmakers Solved the Nearly 200-Year-Old Mystery",
+     "sources": 1,
+     "score": 43,
+     "event_id": "3a1bbc567a4d",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Archaeologists May Have Solved the Mystery of a Roman Sarcophagus Excavated at Westminster Abbey in 1869",
+     "sources": 1,
+     "score": 48,
+     "event_id": "98e8250459db",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/",
+      "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Romans Made Color-Changing Glass With Ancient Nanotechnology. Scientists Just Discovered How to Replicate the 1,600-Year-Old Marvel",
+     "sources": 1,
+     "score": 40,
+     "event_id": "5c3abce3db29",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/romans-made-color-changing-glass-with-ancient-nanotechnology-scientists-just-discovered-how-to-replicate-the-1600-year-old-marvel-180989766/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "d92458626c90",
    "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
    "section": "world",
    "entities": [
     "bolsonaro",
-    "brazil's",
+    "polls",
+    "president",
+    "thousands",
+    "flavio",
     "miami",
     "brazilian",
-    "polls",
-    "brazilians",
-    "president",
-    "flavio",
     "brazil",
     "lula",
-    "thousands",
-    "voting"
+    "brazil's",
+    "voting",
+    "brazilians"
    ],
    "event_ids": [
     "d92458626c90",
@@ -1468,7 +1856,8 @@
     "1d9a88889f65",
     "39f44f4fd443",
     "28352a0200ba",
-    "9cf16528e73b"
+    "9cf16528e73b",
+    "801837f6dfb2"
    ],
    "first_seen": "2026-10-04",
    "last_seen": "2026-10-28",
@@ -1751,6 +2140,17 @@
       "https://www.france24.com/en/video/20261028-brazil-flavio-bolsonaro-leaves-argentina-for-alleged-us-asylum-after-defeat",
       "https://www.france24.com/en/brazil-bolsonaro-defeated-and-on-the-run"
      ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Flavio Bolsonaro lands in Miami after fleeing Brazil for US",
+     "sources": 2,
+     "score": 43,
+     "event_id": "801837f6dfb2",
+     "links": [
+      "https://www.dw.com/en/flavio-bolsonaro-lands-in-miami-after-fleeing-brazil-for-us/a-79788659?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -1759,33 +2159,42 @@
    "title": "Microsoft Patches a Record 570 Security Flaws",
    "section": "safety",
    "entities": [
-    "adobe",
-    "allowing",
-    "arista",
     "record",
-    "collabora",
-    "patches",
-    "flaws",
-    "actively",
-    "velocloud",
-    "campaign",
     "execution",
-    "bypass",
-    "cisa",
-    "fixes",
-    "security",
-    "exploited",
-    "online",
-    "critical",
-    "flags",
-    "microsoft",
     "code",
-    "classic"
+    "hackers",
+    "velocloud",
+    "online",
+    "oracle",
+    "cisa",
+    "patch",
+    "classic",
+    "e-business",
+    "microsoft",
+    "fixes",
+    "flags",
+    "target",
+    "collabora",
+    "bypass",
+    "exploited",
+    "adobe",
+    "critical",
+    "patches",
+    "allowing",
+    "campaign",
+    "arista",
+    "flaws",
+    "suite",
+    "security",
+    "flaw",
+    "actively",
+    "days"
    ],
    "event_ids": [
     "2c2b2700dd7b",
     "42a9e60af11b",
-    "838b4b1ce253"
+    "838b4b1ce253",
+    "29d08fa787d9"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-10-28",
@@ -1822,6 +2231,17 @@
      "links": [
       "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
       "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+     "sources": 1,
+     "score": 44,
+     "event_id": "29d08fa787d9",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+      "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
      ]
     }
    ]
@@ -8062,381 +8482,6 @@
       "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1301430cb05f",
-   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-   "section": "culture",
-   "entities": [
-    "sculpture",
-    "abbey",
-    "uncovered",
-    "once",
-    "westminster",
-    "billion",
-    "dolly",
-    "shelter",
-    "ancient",
-    "sarcophagus",
-    "london",
-    "burst",
-    "still",
-    "fast",
-    "excavated",
-    "events",
-    "bring",
-    "astronomers",
-    "festival",
-    "risks",
-    "detect",
-    "solved",
-    "archaeologists",
-    "predict",
-    "radio",
-    "spewed",
-    "celestial",
-    "photograph",
-    "tenochtitlan",
-    "female",
-    "were",
-    "filmmakers",
-    "centuries",
-    "exactly",
-    "codex",
-    "year-old",
-    "creatures",
-    "humans",
-    "cartwheel",
-    "rolls"
-   ],
-   "event_ids": [
-    "1301430cb05f",
-    "510624bdc84f",
-    "f98076571ee0",
-    "5bb13a447624",
-    "8f63c883fb07",
-    "4d5d929d3f9b",
-    "13c0684b4af3",
-    "92a48ee35a16",
-    "dbe2fb28d382",
-    "200127734810",
-    "d314b5251d2f",
-    "38850f6a5dfa",
-    "f14aa1a495df",
-    "bdbcab469084",
-    "bcab6080a3cb",
-    "cd253afe8e24",
-    "79091fcbef11",
-    "a7bc879393f4",
-    "4d7f8e0023db",
-    "2b08b8fb7a6d",
-    "18524fe8a6bd",
-    "ed32fdd8eb37",
-    "05aacc7a1a04",
-    "ef31af8617ed",
-    "3ab27da8b81a",
-    "3a1bbc567a4d",
-    "98e8250459db"
-   ],
-   "first_seen": "2026-08-25",
-   "last_seen": "2026-10-23",
-   "timeline": [
-    {
-     "date": "2026-08-25",
-     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-     "sources": 5,
-     "score": 71,
-     "event_id": "1301430cb05f",
-     "links": [
-      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
-      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-25",
-     "headline": "Remembering Dolly Parton: 8 facts about the icon",
-     "sources": 6,
-     "score": 79,
-     "event_id": "510624bdc84f",
-     "links": [
-      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton – a life in pictures",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f98076571ee0",
-     "links": [
-      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
-     "sources": 3,
-     "score": 68,
-     "event_id": "5bb13a447624",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
-     "sources": 4,
-     "score": 78,
-     "event_id": "8f63c883fb07",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
-      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
-     "sources": 6,
-     "score": 83,
-     "event_id": "4d5d929d3f9b",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
-      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
-     "sources": 6,
-     "score": 86,
-     "event_id": "13c0684b4af3",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-02676-1",
-      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter",
-     "sources": 2,
-     "score": 54,
-     "event_id": "92a48ee35a16",
-     "links": [
-      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
-      "https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "This week's quiz includes two Dolly Parton questions, because she deserves it",
-     "sources": 2,
-     "score": 47,
-     "event_id": "dbe2fb28d382",
-     "links": [
-      "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
-      "https://www.theguardian.com/music/2026/aug/27/dolly-parton-dollywood"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Briefing Chat: How Dolly Parton left her mark on science",
-     "sources": 3,
-     "score": 66,
-     "event_id": "200127734810",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-02732-w",
-      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
-      "https://www.theguardian.com/music/2026/aug/28/dolly-parton-sister-stella-tribute-act-of-kindness-cancer-drugs"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan",
-     "sources": 2,
-     "score": 45,
-     "event_id": "d314b5251d2f",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
-      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-     "sources": 3,
-     "score": 58,
-     "event_id": "38850f6a5dfa",
-     "links": [
-      "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
-      "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
-      "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Dolly Parton laid to rest alongside husband in Nashville",
-     "sources": 2,
-     "score": 43,
-     "event_id": "f14aa1a495df",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief",
-     "sources": 1,
-     "score": 40,
-     "event_id": "bdbcab469084",
-     "links": [
-      "https://www.smithsonianmag.com/innovation/many-americans-covid-still-chronic-disabling-disease-scientists-working-tirelessly-bring-them-relief-180989290/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Festival honouring Dolly Parton set for Nashville and London",
-     "sources": 3,
-     "score": 55,
-     "event_id": "bcab6080a3cb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
-      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History",
-     "sources": 1,
-     "score": 44,
-     "event_id": "cd253afe8e24",
-     "links": [
-      "https://www.smithsonianmag.com/smithsonian-institution/kermit-the-frog-was-just-trying-to-put-on-a-variety-show-fifty-years-later-the-muppets-are-some-of-the-biggest-stars-in-television-history-180989451/"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "For Decades, Scientists Thought an 'American Cheetah' Once Roamed North America. Turns Out the Extinct Cat Wasn't a Cheetah",
-     "sources": 1,
-     "score": 41,
-     "event_id": "79091fcbef11",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/for-decades-scientists-thought-an-american-cheetah-once-roamed-north-america-ancient-turns-out-the-extinct-cat-wasnt-a-cheetah-180989465/"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Scientists Find a Trove of Denisovan Fossils and Tools in Southwest China, Giving an Unprecedented Glimpse Into Our Extinct Cousins' Lives",
-     "sources": 1,
-     "score": 45,
-     "event_id": "a7bc879393f4",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/scientists-find-a-trove-of-denisovan-fossils-and-tools-in-southwest-china-giving-an-unprecendented-glimpse-into-our-extinct-cousins-lives-180989483/"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "A Rare Marble Sculpture by America’s First Professional Female Sculptor Sat Hidden in Plain Sight for Decades in an English Garden",
-     "sources": 1,
-     "score": 43,
-     "event_id": "4d7f8e0023db",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/a-rare-marble-sculpture-by-americas-first-professional-female-sculptor-sat-hidden-in-plain-sight-for-decades-in-english-garden-180989508/"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "A Rare Aztec Codex Detailing the Rise and Fall of Tenochtitlan Returns to Mexico for the First Time in Nearly Two Centuries",
-     "sources": 1,
-     "score": 41,
-     "event_id": "2b08b8fb7a6d",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/a-rare-aztec-codex-detailing-the-rise-and-fall-of-tenochtitlan-returns-to-mexico-for-the-first-time-in-nearly-two-centuries-180989536/"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Dolly Parton estate in feud with nephew over alleged ‘warfare’ threats",
-     "sources": 2,
-     "score": 47,
-     "event_id": "18524fe8a6bd",
-     "links": [
-      "https://www.theguardian.com/music/2026/sep/23/dolly-parton-estate-in-feud-with-nephew-over-alleged-warfare-threats",
-      "https://www.bbc.co.uk/news/articles/ckwyz06qg983o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "An Unprecedented Trove of Ancient Wooden Tools Uncovered at a Rock Shelter in Spain Shows Neanderthals Were Skilled Woodworkers",
-     "sources": 1,
-     "score": 41,
-     "event_id": "ed32fdd8eb37",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/an-unprecedented-trove-of-ancient-wooden-tools-uncovered-at-a-rock-shelter-in-spain-show-neanderthals-were-skilled-woodworkers-180989668/"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Were Two Ancient Chinese Astronomers Beheaded for Failing to Predict an Eclipse in 2134 B.C.E.? The Story May Be a Myth, but It Underscores the Real Risks of Interpreting Celestial Events",
-     "sources": 1,
-     "score": 44,
-     "event_id": "05aacc7a1a04",
-     "links": [
-      "https://www.smithsonianmag.com/history/were-two-chinese-astronomers-were-beheaded-for-failing-to-predict-an-eclipse-2134-bce-the-story-may-be-a-myth-but-it-underscores-the-real-risks-of-interpreting-celestial-events-180989715/"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "These Snakes Can Cartwheel Away From Danger. Scientists Just Uncovered How the Slithering Creatures Perform Their Acrobatic Rolls",
-     "sources": 1,
-     "score": 44,
-     "event_id": "ef31af8617ed",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/these-snakes-can-cartwheel-away-from-danger-scientists-just-uncovered-how-the-slithering-creatures-perform-their-acrobatic-rolls-180989720/"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Astronomers Detect the Oldest Known Fast Radio Burst, Spewed From an Ancient Galaxy Just Three Billion Years After the Big Bang",
-     "sources": 1,
-     "score": 44,
-     "event_id": "3ab27da8b81a",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/astronomers-detect-the-oldest-fast-radio-burst-spewed-from-an-ancient-galaxy-just-three-billion-years-after-the-big-bang-180989730/"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Where Exactly Were the First Humans to Be Captured in a Photograph Standing? Three Obsessed Filmmakers Solved the Nearly 200-Year-Old Mystery",
-     "sources": 1,
-     "score": 43,
-     "event_id": "3a1bbc567a4d",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Archaeologists May Have Solved the Mystery of a Roman Sarcophagus Excavated at Westminster Abbey in 1869",
-     "sources": 1,
-     "score": 48,
-     "event_id": "98e8250459db",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/",
-      "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
      ]
     }
    ]
@@ -18668,5 +18713,5 @@
    ]
   }
  ],
- "updated": "2026-10-28T12:28:57+00:00"
+ "updated": "2026-10-28T15:21:31+00:00"
 }

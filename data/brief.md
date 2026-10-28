@@ -120,7 +120,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
   - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
-  - AI takeover — <https://en.wikipedia.org/wiki/AI_takeover>
+  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
 
 ---
 
@@ -147,7 +147,6 @@
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-18  (3 zdrojů, síla 62)  US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
   2026-10-19  (1 zdrojů, síla 41)  Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
   2026-10-21  (3 zdrojů, síla 58)  Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
   2026-10-21  (1 zdrojů, síla 40)  African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
@@ -167,6 +166,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-27  (5 zdrojů, síla 77)  Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
   2026-10-28  (3 zdrojů, síla 60)  Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority
   2026-10-28  (2 zdrojů, síla 45)  Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory
+  2026-10-28  (2 zdrojů, síla 44)  'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'
 ```
 
 ### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
