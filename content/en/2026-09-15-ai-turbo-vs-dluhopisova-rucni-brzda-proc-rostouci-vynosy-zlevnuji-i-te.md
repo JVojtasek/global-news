@@ -13,6 +13,10 @@ date: '2026-09-15'
 status: published
 confidence: 0
 image_query: 'data center server racks'
+impact:
+  areas: [money]
+  line: "Day to day, this changes nothing for most readers; what matters is that rising bond yields hit companies with distant profits hardest. At 5% instead of 4%, 100 dollars due in five years is worth 78 dollars today, not 82."
+  todo: "In AI companies' results, watch free cash flow and gross margin, not just revenue; for dividend stocks, compare the dividend yield with government bond yields."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-turbo-vs-dluhopisova-rucni-brzda-proc-rostouci-vynosy-zle-analyza-365969

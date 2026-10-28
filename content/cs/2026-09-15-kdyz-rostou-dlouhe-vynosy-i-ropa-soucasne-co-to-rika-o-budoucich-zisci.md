@@ -12,6 +12,10 @@ date: '2026-09-15'
 status: published
 confidence: 0
 image_query: Když rostou dlouhé výnosy i
+impact:
+  areas: [money]
+  line: "Výnos desetiletého amerického dluhopisu je nejvýš od roku 2007 a ropa zdražuje. Úvěry navázané na tržní sazby se prodražují a firmě s desetiprocentní marží stačí o 3 % vyšší náklady nepřenesené na zákazníky, aby přišla o 27 % zisku."
+  todo: "Sledovat výnos desetiletého amerického dluhopisu, cenu ropy a projekce sazeb Fedu; u úvěru s pohyblivou sazbou si ve smlouvě ověřit, kdy a podle čeho se sazba mění."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdyz-rostou-dlouhe-vynosy-i-ropa-soucasne-co-to-rika-o-budou-analyza-365967

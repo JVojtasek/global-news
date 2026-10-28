@@ -13,6 +13,10 @@ date: '2026-09-15'
 status: published
 confidence: 0
 image_query: 'oil pump jack sunset'
+impact:
+  areas: [money]
+  line: "The 10-year US Treasury yield is at its highest since 2007 and oil keeps rising. Loans tied to market rates get pricier, and a firm with a 10% margin loses 27% of its profit if costs rise 3% and it cannot pass them on."
+  todo: "Watch the 10-year US Treasury yield, oil prices and Fed rate projections; with a floating-rate loan, check your contract for when and how the rate resets."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdyz-rostou-dlouhe-vynosy-i-ropa-soucasne-co-to-rika-o-budou-analyza-365967

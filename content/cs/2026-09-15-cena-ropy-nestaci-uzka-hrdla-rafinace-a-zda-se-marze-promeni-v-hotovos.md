@@ -12,6 +12,10 @@ date: '2026-09-15'
 status: published
 confidence: 0
 image_query: 'Cena ropy nestačí: úzká hrdla'
+impact:
+  areas: [money]
+  line: "Marže za přeměnu ropy na naftu vyskočila na více než 94 dolarů za barel nad cenou Brentu, zhruba 2,24 dolaru na galon. Dražší nafta se může propsat do cen dopravy zboží, a tedy nepřímo i do cen v obchodě."
+  todo: "Kromě ceny Brentu sledovat dieselový crack spread, zásoby středních destilátů a využití rafinerií; u rafinérských firem ve výkazech segment refining a realizovanou marži."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/cena-ropy-nestaci-uzka-hrdla-rafinace-a-zda-se-marze-promeni-analyza-365810

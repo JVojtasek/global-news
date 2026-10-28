@@ -14,6 +14,10 @@ date: '2026-09-14'
 status: published
 confidence: 0
 image_query: 'startup office laptops'
+impact:
+  areas: [money]
+  line: "Day to day, this changes nothing for most readers; what matters is that stricter AI rules raise entry costs for small firms more than for big platforms. Over time this can show up in digital service prices and the pace of new AI products."
+  todo: "Read actual regulatory texts rather than headlines, such as the EU AI Act on the European Commission's site, and in company reports watch capital spending as a share of revenue."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-regulace-a-dopad-na-mensi-firmy-proc-muze-rust-kapitalova-analyza-365191

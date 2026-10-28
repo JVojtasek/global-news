@@ -13,6 +13,10 @@ date: '2026-09-14'
 status: published
 confidence: 0
 image_query: AI regulace a dopad na
+impact:
+  areas: [money]
+  line: "Denně se tím pro většinu čtenářů nic nemění; podstatné je, že přísnější pravidla pro AI zdražují vstup na trh menším firmám víc než velkým platformám. Časem se to může projevit v cenách digitálních služeb a v tempu nových AI produktů."
+  todo: "Místo titulků číst konkrétní regulatorní texty, například evropský AI Act na stránkách Evropské komise, a ve výkazech firem sledovat kapitálové výdaje jako podíl tržeb."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-regulace-a-dopad-na-mensi-firmy-proc-muze-rust-kapitalova-analyza-365191

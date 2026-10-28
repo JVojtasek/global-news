@@ -13,6 +13,10 @@ date: '2026-09-14'
 status: published
 confidence: 0
 image_query: Kdy přecenění očekávání sazeb Fedem
+impact:
+  areas: [money]
+  line: "Když trh začne čekat vyšší sazby na delší dobu, klesají ceny existujících dluhopisů a trpí firmy, jejichž velké zisky mají přijít až za roky. Stejná cena peněz rozhoduje i o tom, kolik stojí hypotéky a půjčky a kolik vynáší spoření."
+  todo: "Sledovat výnos dvouletého amerického dluhopisu, očekávání ve Fed funds futures a jádrové maloobchodní tržby bez aut a benzinu; oficiální rozhodnutí a projekce zveřejňuje Fed na federalreserve.gov."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdy-preceneni-ocekavani-sazeb-fedem-dorazi-do-cen-dluhopisu--analyza-364910

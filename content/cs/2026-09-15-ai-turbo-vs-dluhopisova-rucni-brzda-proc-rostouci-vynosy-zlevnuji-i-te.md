@@ -13,6 +13,10 @@ date: '2026-09-15'
 status: published
 confidence: 0
 image_query: AI turbo vs dluhopisová „ruční
+impact:
+  areas: [money]
+  line: "Denně se tím pro většinu čtenářů nic nemění; podstatné je, že růst výnosů dluhopisů nejvíc bolí firmy se vzdálenými zisky. Při 5 % místo 4 % má 100 dolarů očekávaných za pět let dnes hodnotu 78 dolarů, ne 82."
+  todo: "Ve výsledcích AI firem sledovat volnou hotovost a hrubou marži, nejen tržby; u dividendových akcií porovnávat dividendový výnos s výnosem státních dluhopisů."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-turbo-vs-dluhopisova-rucni-brzda-proc-rostouci-vynosy-zle-analyza-365969

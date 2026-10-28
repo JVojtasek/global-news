@@ -13,6 +13,10 @@ date: '2026-09-15'
 status: published
 confidence: 0
 image_query: 'oil refinery diesel production'
+impact:
+  areas: [money]
+  line: "The margin for turning crude into diesel jumped to more than 94 dollars a barrel over Brent, roughly 2.24 dollars a gallon. Pricier diesel can feed into freight costs and so, indirectly, into shop prices."
+  todo: "Beyond Brent, watch the diesel crack spread, middle-distillate inventories and refinery utilization; in refiners' reports, check the refining segment and realized margin."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/cena-ropy-nestaci-uzka-hrdla-rafinace-a-zda-se-marze-promeni-analyza-365810

@@ -13,6 +13,10 @@ date: '2026-09-14'
 status: published
 confidence: 0
 image_query: 'federal reserve building washington'
+impact:
+  areas: [money]
+  line: "If markets start expecting higher rates for longer, prices of existing bonds fall and companies whose big profits lie years ahead suffer. The same price of money also shapes what mortgages and loans cost and what savings earn."
+  todo: "Watch the 2-year US Treasury yield, Fed funds futures expectations and core retail sales excluding autos and gasoline; the Fed publishes official decisions and projections at federalreserve.gov."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdy-preceneni-ocekavani-sazeb-fedem-dorazi-do-cen-dluhopisu--analyza-364910
