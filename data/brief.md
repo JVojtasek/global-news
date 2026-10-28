@@ -9,7 +9,36 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces
+### 1. What we know so far about deadly Spain train crash
+- id události: `09bc1ee5375a`  ·  rubrika: `world`  ·  skóre: 85  ·  nezávislých zdrojů: 6
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — What we know so far about deadly Spain train crash
+    <https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss>
+    > More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.
+  - **The Guardian World** — Spain train crash: at least 30 dead after collision in Toledo province
+    <https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo>
+    > High-speed service reportedly runs into back of another, knocking two carriages off track Spain train crash – latest updates At least 30 people have been killed after two high-speed trains collided in Toledo province in central Spain, on the line between Madrid and Seville. Foota
+  - **NPR News** — At least 30 dead in crash between two trains in central Spain, media say
+    <https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster>
+    > A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 30 people on Wednesday in central Spain, according to local media.
+  - **CNBC Top** — At least 30 people reported dead in high-speed Spain train crash
+    <https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html>
+    > It is the second deadly high-speed train collision in Spain this year.
+  - **Al Jazeera** — Deadly high-speed train collision in Spain
+    <https://www.aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain?traffic_source=rss>
+    > At least 39 people have been killed after two high-speed trains collided near Urda, Spain.
+  - **France 24** — Spain: Local authorities confirm at least 10 dead in train accident
+    <https://www.france24.com/en/spain-local-authorities-confirm-at-least-10-dead-in-train-accident>
+    > Two trains travelling in opposite directions have collided in southern Spain, on the route between Madrid and Seville. At least 10 deaths have been confirmed, although some media reports put the toll as high as 39. The crash brings back painful memories of a deadly train accident
+  - **France 24** — Spain: At least 10 dead in crash between 2 high-speed trains
+    <https://www.france24.com/en/video/20261028-spain-at-least-10-dead-in-crash-between-2-high-speed-trains>
+    > At least ten people have died in a crash between two trains in central Spain. The crash occurred Wednesday morning in the province of Toledo. Rail service is suspended between Madrid, Ciudad Real and Andalusia. France 24's correspondent in Madrid Sarah Morris reports the latest.
+  - **Al Jazeera** — Train collision in Spain kills at least 30 people
+    <https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain?traffic_source=rss>
+    > Crash occurred near Urda in Toledo province, south of Madrid, on high-speed line connecting the capital with Seville.
+
+### 2. Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces
 - id události: `7a695e6a87c7`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 6
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -34,7 +63,7 @@
   - **Investing.com** — Five economic challenges facing Brazil’s re-elected President Lula
     <https://www.investing.com/news/economy-news/five-economic-challenges-facing-brazils-reelected-president-lula-4971326>
 
-### 2. Genie 4: A new generation of world simulation
+### 3. Genie 4: A new generation of world simulation
 - id události: `d17d13a0006a`  ·  rubrika: `ai`  ·  skóre: 80  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -59,7 +88,7 @@
     <https://www.theverge.com/tech/1019076/google-genie-4-ai-model>
     > Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, 
 
-### 3. London City's Putellas wins record-equalling third Ballon d'Or
+### 4. London City's Putellas wins record-equalling third Ballon d'Or
 - id události: `291d02b3b2d2`  ·  rubrika: `sport`  ·  skóre: 77  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -82,29 +111,6 @@
     <https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor>
     > Alexia Putellas picks up women’s award for third time England captain acclaimed in London ceremony Harry Kane is the Ballon d’Or winner for 2026, the first Englishman to win football’s most prestigious individual trophy in 25 years. Two hours into a lavishly excitable ceremony at
 
-### 4. Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
-- id události: `bcc76393f0bd`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **The Guardian World** — Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
-    <https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats>
-    > Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Israel’s election was too close to call on Tuesday night after a historic turnout by voters for an election described by some as the most
-  - **DW News** — Israel election: Anti-Netanyahu bloc ahead, but no majority
-    <https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-rdf>
-    > While Netanyahu's party is projected to be the biggest in parliament, the anti-Netanyahu coalition looks set to have more seats. But no bloc has a clear majority.
-  - **CNBC Top** — No clear winner in Israeli election, exit polls suggest, as Netanyahu’s fate hangs in the balance
-    <https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html>
-    > Israel's election ended Tuesday with no clear winner, exit polls indicate, likely setting off weeks of jockeying before a leader is declared.
-  - **Al Jazeera** — Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp
-    <https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss>
-    > High turnout in vote widely described as the most consequential in Israel's history.
-  - **France 24** — Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'
-    <https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy>
-    > Erin Ogunkeye is pleased to welcome Ron Gerlitz, CEO of aChord Center at Hebrew University, an Israeli organization specialising in the social psychology of intergroup relations. “The main issue in this election is the fight for Israeli democracy,” explains Gerlitz. And beneath t
-  - **Al Jazeera** — Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters
-    <https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss>
-    > In one social media post, PM Netanyahu accused Arab voters of 'raiding the polling stations and stealing the elections'.
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -112,9 +118,9 @@
 ### artificial intelligence jobs
 - rubrika: `tech`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
   - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
-  - Hallucination (artificial intelligence) — <https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)>
+  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
+  - AI takeover — <https://en.wikipedia.org/wiki/AI_takeover>
 
 ---
 
@@ -141,8 +147,6 @@
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-18  (2 zdrojů, síla 48)  Israeli settlers attack Palestinians in West Bank during olive harvest
-  2026-10-18  (2 zdrojů, síla 50)  West Bank: Israeli settlers attack EU diplomats, French mayor
   2026-10-18  (3 zdrojů, síla 62)  US ambassador to Israel calls West Bank settler attack on American photojournalist ‘terror’
   2026-10-19  (1 zdrojů, síla 41)  Earth's True North and South Poles Have Wandered Four Times Over the Past 320 Million Years, Study Suggests
   2026-10-21  (3 zdrojů, síla 58)  Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
@@ -161,6 +165,8 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-27  (2 zdrojů, síla 47)  Israel election: Israelis vote for 1st time since October 7 terror attack
   2026-10-27  (1 zdrojů, síla 40)  Turnout high as Israeli voters deliver verdict on Netanyahu
   2026-10-27  (5 zdrojů, síla 77)  Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
+  2026-10-28  (3 zdrojů, síla 60)  Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority
+  2026-10-28  (2 zdrojů, síla 45)  Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory
 ```
 
 ### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says

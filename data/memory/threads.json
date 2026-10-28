@@ -1,394 +1,50 @@
 {
  "threads": [
   {
-   "id": "d92458626c90",
-   "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-   "section": "world",
-   "entities": [
-    "brazil's",
-    "thousands",
-    "voting",
-    "flavio",
-    "lula",
-    "polls",
-    "brazil",
-    "president",
-    "brazilians",
-    "bolsonaro",
-    "brazilian"
-   ],
-   "event_ids": [
-    "d92458626c90",
-    "815bb45801bb",
-    "9d43071b47fc",
-    "85ac007f42df",
-    "a52a65200ba2",
-    "f9c2830a1de0",
-    "e1556ad0fb1c",
-    "4c4ca491ca92",
-    "a4565fbd5c2a",
-    "f9c920be19b6",
-    "a30f9cf554f4",
-    "17bbb9e07e27",
-    "99ee164ff663",
-    "7a695e6a87c7",
-    "aed458d584ac",
-    "3624607e43ac",
-    "f5819427a8c6",
-    "199eecef3d47",
-    "9b5228a9b7e3",
-    "d7a1fd79d5b5",
-    "1d9a88889f65",
-    "39f44f4fd443",
-    "28352a0200ba"
-   ],
-   "first_seen": "2026-10-04",
-   "last_seen": "2026-10-28",
-   "timeline": [
-    {
-     "date": "2026-10-04",
-     "headline": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-     "sources": 3,
-     "score": 65,
-     "event_id": "d92458626c90",
-     "links": [
-      "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
-      "https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Brazil elections live: Lula faces Bolsonaro in close presidential race",
-     "sources": 2,
-     "score": 46,
-     "event_id": "815bb45801bb",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-elections-live-voters-head-to-polls-for-close-presidential-race?traffic_source=rss",
-      "https://www.france24.com/en/brazil-a-portrait-of-flavio-bolsonaro",
-      "https://www.france24.com/en/video/20261003-lula-and-bolsonaro-in-final-push-for-votes-ahead-of-brazil-s-knife-edge-election"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
-     "sources": 2,
-     "score": 44,
-     "event_id": "9d43071b47fc",
-     "links": [
-      "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
-     "sources": 3,
-     "score": 57,
-     "event_id": "85ac007f42df",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Brazil election: Bolsonaro and Lula head to runoff",
-     "sources": 4,
-     "score": 71,
-     "event_id": "a52a65200ba2",
-     "links": [
-      "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
-      "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f9c2830a1de0",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Brazil heads to run-off as Bolsonaro pulls off shock first place finish in first round",
-     "sources": 1,
-     "score": 45,
-     "event_id": "e1556ad0fb1c",
-     "links": [
-      "https://www.france24.com/en/video/20261005-brazil-heads-to-run-off-as-bolsonaro-pulls-off-shock-first-place-finish-in-first-round",
-      "https://www.france24.com/en/video/20261005-bolsonaro-in-very-strong-position-as-brazil-election-heads-to-run-off",
-      "https://www.france24.com/en/americas/20261005-family-members-of-jailed-ex-president-jair-bolsonaro-win-big-in-multiple-brazil-polls"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Brazil presidential election: 'Bolsonaro being ahead is a surprise,' researcher says",
-     "sources": 3,
-     "score": 54,
-     "event_id": "4c4ca491ca92",
-     "links": [
-      "https://www.france24.com/en/tv-shows/perspective/20261005-brazil-presidential-election-bolsonaro-being-ahead-is-a-surprise-researcher-says",
-      "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Brazil: Thousands of students march against Bolsonaro",
-     "sources": 3,
-     "score": 53,
-     "event_id": "a4565fbd5c2a",
-     "links": [
-      "https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss",
-      "https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil"
-     ]
-    },
-    {
-     "date": "2026-10-16",
-     "headline": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
-     "sources": 2,
-     "score": 42,
-     "event_id": "f9c920be19b6",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
-      "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
-     "sources": 3,
-     "score": 52,
-     "event_id": "a30f9cf554f4",
-     "links": [
-      "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
-      "https://www.france24.com/en/americas/20261019-brazil-lula-bolsonaro-debate-election-runoff"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-     "sources": 3,
-     "score": 54,
-     "event_id": "17bbb9e07e27",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-      "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/25/lula-bolsonaro-rally-supporters-before-brazil-presidential-runoff.html"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Brazil election: Lula, Bolsonaro cast votes in final bout",
-     "sources": 2,
-     "score": 45,
-     "event_id": "99ee164ff663",
-     "links": [
-      "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces",
-     "sources": 6,
-     "score": 82,
-     "event_id": "7a695e6a87c7",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
-      "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
-     "sources": 2,
-     "score": 46,
-     "event_id": "aed458d584ac",
-     "links": [
-      "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
-      "https://www.investing.com/news/economy-news/brazils-lula-beats-bolsonaro-to-win-fourth-term-as-president-4971348"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Brazil keeps left: what Lula’s victory means for his country and beyond",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3624607e43ac",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
-      "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
-     "sources": 3,
-     "score": 59,
-     "event_id": "f5819427a8c6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
-      "https://www.france24.com/en/brazil-s-lula-wins-historic-fourth-term"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Lula wins fourth term in dramatic Brazil election comeback",
-     "sources": 3,
-     "score": 55,
-     "event_id": "199eecef3d47",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/lula-wins-fourth-term-what-are-the-reactions-in-brazil",
-      "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "How the streets and social media drove Lula to a historic comeback in Brazil",
-     "sources": 3,
-     "score": 63,
-     "event_id": "9b5228a9b7e3",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
-      "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
-      "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win"
-     ]
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
-     "sources": 3,
-     "score": 57,
-     "event_id": "d7a1fd79d5b5",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
-      "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Flavio Bolsonaro flees Brazil for US amid investigation  — reports",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1d9a88889f65",
-     "links": [
-      "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "President Lula calls Bolsonaro’s Brazil exit ‘shameful’",
-     "sources": 1,
-     "score": 41,
-     "event_id": "39f44f4fd443",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Flavio Bolsonaro flees Brazil for US amid investigation",
-     "sources": 2,
-     "score": 49,
-     "event_id": "28352a0200ba",
-     "links": [
-      "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation/a-79781094?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/28/trump-bolsonaro-us-brazil-election.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "9be5b59644b2",
-   "title": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
-   "section": "world",
-   "entities": [
-    "palestinian",
-    "knesset",
-    "rise",
-    "israel"
-   ],
-   "event_ids": [
-    "9be5b59644b2"
-   ],
-   "first_seen": "2026-10-28",
-   "last_seen": "2026-10-28",
-   "timeline": [
-    {
-     "date": "2026-10-28",
-     "headline": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
-     "sources": 3,
-     "score": 64,
-     "event_id": "9be5b59644b2",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "09443cca3ddd",
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
    "entities": [
-    "african",
-    "elephants",
-    "israel",
-    "years",
-    "former",
-    "germany",
-    "evolved",
-    "continue",
-    "five",
-    "wandered",
-    "palestinians",
-    "true",
-    "strove",
-    "netanyahu",
-    "jenin",
-    "israelis",
-    "poles",
-    "died",
     "north",
-    "italy",
-    "uk's",
-    "community",
-    "past",
-    "turnout",
-    "million",
-    "among",
-    "lizards",
-    "hebron",
-    "israeli",
-    "lander",
-    "study",
-    "october",
-    "south",
-    "rajab",
-    "culture",
+    "coalition",
+    "palestinians",
     "west",
-    "doing",
-    "bank",
+    "among",
+    "many",
     "politically",
-    "many"
+    "rajab",
+    "hebron",
+    "african",
+    "strove",
+    "israeli",
+    "south",
+    "italy",
+    "arab",
+    "wandered",
+    "died",
+    "eisenkot",
+    "elephants",
+    "culture",
+    "israel",
+    "lizards",
+    "lander",
+    "turnout",
+    "true",
+    "past",
+    "bank",
+    "million",
+    "doing",
+    "jenin",
+    "continue",
+    "study",
+    "poles",
+    "five",
+    "uk's",
+    "years",
+    "netanyahu",
+    "october",
+    "former",
+    "israelis"
    ],
    "event_ids": [
     "09443cca3ddd",
@@ -469,34 +125,13 @@
     "1328bd0c6f2f",
     "1a0b856b794d",
     "7d1585723c9f",
-    "bcc76393f0bd"
+    "bcc76393f0bd",
+    "e9f9d6a24eaa",
+    "019f471259aa"
    ],
    "first_seen": "2026-08-13",
-   "last_seen": "2026-10-27",
+   "last_seen": "2026-10-28",
    "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "BBC tracks one week of Israeli settler violence in occupied West Bank",
-     "sources": 3,
-     "score": 57,
-     "event_id": "a7f4b944d680",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260829-netanyahu-condemns-criminal-acts-of-violence-by-settlers-in-west-bank-villages"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Palestinian woman and NBC News team reportedly attacked in West Bank",
-     "sources": 2,
-     "score": 46,
-     "event_id": "80ad369697ca",
-     "links": [
-      "https://www.theguardian.com/world/2026/aug/29/nbc-news-team-attacked-west-bank",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-08-30",
      "headline": "Week in pictures: devastating floods in Nepal, death of Dolly Parton and a tornado in France",
@@ -1149,6 +784,1074 @@
       "https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats",
       "https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-rdf",
       "https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+     "sources": 3,
+     "score": 60,
+     "event_id": "e9f9d6a24eaa",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "https://www.aljazeera.com/news/2026/10/28/high-voter-turnout-from-palestinian-citizens-of-israel-threatens-netanyahu?traffic_source=rss",
+      "https://www.france24.com/en/israel-netanyahu-edges-closer-to-a-majority"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory",
+     "sources": 2,
+     "score": 45,
+     "event_id": "019f471259aa",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20261028-israel-netanyahu-and-eisenkot-both-pledge-to-form-government"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "95b4d8eb7452",
+   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+   "section": "tech",
+   "entities": [
+    "miss",
+    "beyond",
+    "billionaire",
+    "ambani",
+    "alexander",
+    "dots",
+    "china",
+    "embiricos",
+    "machines",
+    "olympic",
+    "zoom",
+    "musk",
+    "amazon",
+    "side",
+    "wednesday's",
+    "talarico",
+    "israel",
+    "starlink",
+    "india's",
+    "ukraine's",
+    "unusual",
+    "meta",
+    "russia",
+    "anthropic",
+    "techcrunch",
+    "friday's",
+    "apple",
+    "sure",
+    "senate",
+    "deckers",
+    "skydance",
+    "nvidia",
+    "openai",
+    "trump",
+    "merging",
+    "networking",
+    "europe",
+    "ukraine",
+    "boeing",
+    "spacex"
+   ],
+   "event_ids": [
+    "95b4d8eb7452",
+    "1b1d0d455584",
+    "572dce99347e",
+    "5afad699a57c",
+    "814772bc922c",
+    "bc11900335c3",
+    "5f6c0a4a0fa6",
+    "1fcf8cc28156",
+    "d7a1c9894fff",
+    "467cf97b1acf",
+    "4f05eeb200ed",
+    "98c90d114a62",
+    "c53837b319d6",
+    "714d1f0b729f",
+    "490a23f57428",
+    "869772203883",
+    "1cc24ddce8a4",
+    "f4290472ac1a",
+    "658159bc4850",
+    "733411f27eae",
+    "b17a25d8c48a",
+    "ed05f4b9715a",
+    "959dcb673548",
+    "030e0762a24f",
+    "5a36fa44b304",
+    "2c9536723835",
+    "ab3660a4efa6",
+    "795b2f9bbb2b",
+    "a3c44a432a3d",
+    "9c464aa25357",
+    "18ba53fb28cc",
+    "cb9eec62df6f",
+    "e146a0ded080",
+    "4212a5c7dadf",
+    "3992fc4ed3eb",
+    "e406db6a9c15",
+    "8b4dc9f3945d",
+    "9b5397f83bd4",
+    "19c0d49aeb1d",
+    "e76559e70f02",
+    "2f7ad053a046",
+    "c85cd878b1f9",
+    "b110318e469b",
+    "fa6d08a49746",
+    "fb856fcd1cdb"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-10-28",
+   "timeline": [
+    {
+     "date": "2026-09-14",
+     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+     "sources": 3,
+     "score": 55,
+     "event_id": "95b4d8eb7452",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+     "sources": 3,
+     "score": 50,
+     "event_id": "1b1d0d455584",
+     "links": [
+      "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
+     "sources": 3,
+     "score": 45,
+     "event_id": "572dce99347e",
+     "links": [
+      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+     "sources": 3,
+     "score": 52,
+     "event_id": "5afad699a57c",
+     "links": [
+      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+     "sources": 1,
+     "score": 42,
+     "event_id": "814772bc922c",
+     "links": [
+      "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+     "sources": 1,
+     "score": 46,
+     "event_id": "bc11900335c3",
+     "links": [
+      "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Trump gives top US science awards to Elon Musk and other tech executives",
+     "sources": 2,
+     "score": 44,
+     "event_id": "5f6c0a4a0fa6",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
+      "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Why Elon Musk is taking on India's richest man over Starlink",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1fcf8cc28156",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+     "sources": 1,
+     "score": 46,
+     "event_id": "d7a1c9894fff",
+     "links": [
+      "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+     "sources": 2,
+     "score": 45,
+     "event_id": "467cf97b1acf",
+     "links": [
+      "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Elon Musk has donated over $276 million to Republican midterm efforts",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4f05eeb200ed",
+     "links": [
+      "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+      "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+     "sources": 3,
+     "score": 50,
+     "event_id": "98c90d114a62",
+     "links": [
+      "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+      "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
+      "https://www.investing.com/news/stock-market-news/elon-musk-spends-366-million-on-2026-us-midterm-elections-4945225"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Elon Musk becomes biggest donor of US midterms cycle with $366m spent",
+     "sources": 2,
+     "score": 48,
+     "event_id": "c53837b319d6",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
+      "https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+     "sources": 4,
+     "score": 68,
+     "event_id": "714d1f0b729f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
+     "sources": 2,
+     "score": 44,
+     "event_id": "490a23f57428",
+     "links": [
+      "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+      "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
+     "sources": 3,
+     "score": 56,
+     "event_id": "869772203883",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+      "https://www.france24.com/en/americas/20261014-musk-says-us-govt-responsible-for-any-starshield-restrictions-affecting-ukraine"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+     "sources": 2,
+     "score": 41,
+     "event_id": "1cc24ddce8a4",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+     "sources": 2,
+     "score": 44,
+     "event_id": "f4290472ac1a",
+     "links": [
+      "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
+      "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Elon Musk promises to give one SpaceX share to every child in the US",
+     "sources": 3,
+     "score": 57,
+     "event_id": "658159bc4850",
+     "links": [
+      "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
+      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink?utm_source=rss_feed",
+      "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "China’s milestone in polar region satellite broadband narrows gap with Elon Musk’s Starlink",
+     "sources": 1,
+     "score": 40,
+     "event_id": "733411f27eae",
+     "links": [
+      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink",
+      "https://www.scmp.com/tech/big-tech/article/3371010/tsmc-confirms-talks-elon-musk-over-texas-terafab-insists-operational-control"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Elon Musk says Tesla-SpaceX merger being considered",
+     "sources": 4,
+     "score": 56,
+     "event_id": "b17a25d8c48a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+     "sources": 3,
+     "score": 52,
+     "event_id": "ed05f4b9715a",
+     "links": [
+      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Musk confirms SpaceX and Tesla exploring merger",
+     "sources": 4,
+     "score": 62,
+     "event_id": "959dcb673548",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
+      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+     "sources": 8,
+     "score": 79,
+     "event_id": "030e0762a24f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Netflix, Zoom, Apple, Robinhood & more",
+     "sources": 1,
+     "score": 44,
+     "event_id": "5a36fa44b304",
+     "links": [
+      "https://www.cnbc.com/2026/10/21/wednesday-biggest-analyst-calls-like-spacex.html",
+      "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Tesla to report earnings after Elon Musk floats SpaceX merger plan",
+     "sources": 3,
+     "score": 53,
+     "event_id": "2c9536723835",
+     "links": [
+      "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "James Talarico fires back at Elon Musk in Texas Senate race feud",
+     "sources": 2,
+     "score": 46,
+     "event_id": "ab3660a4efa6",
+     "links": [
+      "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
+      "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Elon Musk invests about $1 billion in Skydance",
+     "sources": 3,
+     "score": 49,
+     "event_id": "795b2f9bbb2b",
+     "links": [
+      "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+      "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
+      "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a3c44a432a3d",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
+      "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
+     "sources": 2,
+     "score": 44,
+     "event_id": "9c464aa25357",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
+     "sources": 2,
+     "score": 43,
+     "event_id": "18ba53fb28cc",
+     "links": [
+      "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
+      "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Ukraine troops report ongoing problems with Starlink satellite network",
+     "sources": 4,
+     "score": 68,
+     "event_id": "cb9eec62df6f",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+      "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, CoreWeave, Deckers, Unusual Machines & more",
+     "sources": 1,
+     "score": 44,
+     "event_id": "e146a0ded080",
+     "links": [
+      "https://www.cnbc.com/2026/10/23/big-wall-street-analyst-calls-friday-include-spacex-coreweave.html",
+      "https://www.cnbc.com/2026/10/23/stocks-making-the-biggest-moves-premarket-att-spacex-moderna-deckers-bloom-energy-and-more.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+     "sources": 2,
+     "score": 54,
+     "event_id": "4212a5c7dadf",
+     "links": [
+      "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+      "https://www.cnbc.com/2026/10/22/wall-street-analyst-calls-nvidia-tesla-meta-spacex.html",
+      "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-premarket-tsla-meta-avex-spot.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+     "sources": 3,
+     "score": 50,
+     "event_id": "3992fc4ed3eb",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e406db6a9c15",
+     "links": [
+      "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+      "https://www.investing.com/news/commodities-news/trump-says-he-will-fix-any-starlink-access-problem-in-ukraine-4970057"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+     "sources": 2,
+     "score": 41,
+     "event_id": "8b4dc9f3945d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+     "sources": 2,
+     "score": 40,
+     "event_id": "9b5397f83bd4",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Ukraine says Starlink is back to normal after disruptions",
+     "sources": 2,
+     "score": 40,
+     "event_id": "19c0d49aeb1d",
+     "links": [
+      "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+      "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Ukraine: Starlink satellite speeds restored to normal",
+     "sources": 3,
+     "score": 52,
+     "event_id": "e76559e70f02",
+     "links": [
+      "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
+      "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "https://www.investing.com/news/economy-news/ukraine-says-military-starlink-service-restored-after-10day-disruption-4970760"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2f7ad053a046",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Russia to host first Olympic federation world event since Ukraine invasion",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c85cd878b1f9",
+     "links": [
+      "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Apple stock has become an anti-AI trade. Here’s why",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b110318e469b",
+     "links": [
+      "https://www.cnbc.com/2026/10/26/apple-stock-has-become-an-anti-ai-trade-heres-why.html",
+      "https://www.cnbc.com/2026/10/26/monday-biggest-wall-street-analyst-calls-like-tesla.html"
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
+     "sources": 2,
+     "score": 43,
+     "event_id": "fa6d08a49746",
+     "links": [
+      "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Here are Wednesday's biggest analyst calls: SpaceX, Nvidia, Apple, AMD, Meta, Amazon, Tesla, Boeing & more",
+     "sources": 2,
+     "score": 54,
+     "event_id": "fb856fcd1cdb",
+     "links": [
+      "https://www.cnbc.com/2026/10/28/big-wall-street-stocks-covered-on-analyst-calls-include-spacex-boeing.html",
+      "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
+      "https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d92458626c90",
+   "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+   "section": "world",
+   "entities": [
+    "bolsonaro",
+    "brazil's",
+    "miami",
+    "brazilian",
+    "polls",
+    "brazilians",
+    "president",
+    "flavio",
+    "brazil",
+    "lula",
+    "thousands",
+    "voting"
+   ],
+   "event_ids": [
+    "d92458626c90",
+    "815bb45801bb",
+    "9d43071b47fc",
+    "85ac007f42df",
+    "a52a65200ba2",
+    "f9c2830a1de0",
+    "e1556ad0fb1c",
+    "4c4ca491ca92",
+    "a4565fbd5c2a",
+    "f9c920be19b6",
+    "a30f9cf554f4",
+    "17bbb9e07e27",
+    "99ee164ff663",
+    "7a695e6a87c7",
+    "aed458d584ac",
+    "3624607e43ac",
+    "f5819427a8c6",
+    "199eecef3d47",
+    "9b5228a9b7e3",
+    "d7a1fd79d5b5",
+    "1d9a88889f65",
+    "39f44f4fd443",
+    "28352a0200ba",
+    "9cf16528e73b"
+   ],
+   "first_seen": "2026-10-04",
+   "last_seen": "2026-10-28",
+   "timeline": [
+    {
+     "date": "2026-10-04",
+     "headline": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
+     "sources": 3,
+     "score": 65,
+     "event_id": "d92458626c90",
+     "links": [
+      "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
+      "https://www.france24.com/en/lula-and-bolsonaro-face-off-in-brazil-presidential-race"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Brazil elections live: Lula faces Bolsonaro in close presidential race",
+     "sources": 2,
+     "score": 46,
+     "event_id": "815bb45801bb",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-elections-live-voters-head-to-polls-for-close-presidential-race?traffic_source=rss",
+      "https://www.france24.com/en/brazil-a-portrait-of-flavio-bolsonaro",
+      "https://www.france24.com/en/video/20261003-lula-and-bolsonaro-in-final-push-for-votes-ahead-of-brazil-s-knife-edge-election"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
+     "sources": 2,
+     "score": 44,
+     "event_id": "9d43071b47fc",
+     "links": [
+      "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+     "sources": 3,
+     "score": 57,
+     "event_id": "85ac007f42df",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-election-results-live-lula-and-bolsonaro-locked-in-a-tight-race?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Brazil election: Bolsonaro and Lula head to runoff",
+     "sources": 4,
+     "score": 71,
+     "event_id": "a52a65200ba2",
+     "links": [
+      "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/10/04/nx-s1-5981181/brazil-presidential-lula-bolsonaro",
+      "https://www.theguardian.com/world/2026/oct/05/brazil-presidential-race-election-result-second-round-lula-flavio-bolsonaro"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Bolsonaro beats expectations in Brazil vote, faces Lula in runoff",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f9c2830a1de0",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/5/bolsonaro-beats-expectations-in-brazil-vote-faces-lula-in-runoff?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Brazil heads to run-off as Bolsonaro pulls off shock first place finish in first round",
+     "sources": 1,
+     "score": 45,
+     "event_id": "e1556ad0fb1c",
+     "links": [
+      "https://www.france24.com/en/video/20261005-brazil-heads-to-run-off-as-bolsonaro-pulls-off-shock-first-place-finish-in-first-round",
+      "https://www.france24.com/en/video/20261005-bolsonaro-in-very-strong-position-as-brazil-election-heads-to-run-off",
+      "https://www.france24.com/en/americas/20261005-family-members-of-jailed-ex-president-jair-bolsonaro-win-big-in-multiple-brazil-polls"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Brazil presidential election: 'Bolsonaro being ahead is a surprise,' researcher says",
+     "sources": 3,
+     "score": 54,
+     "event_id": "4c4ca491ca92",
+     "links": [
+      "https://www.france24.com/en/tv-shows/perspective/20261005-brazil-presidential-election-bolsonaro-being-ahead-is-a-surprise-researcher-says",
+      "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/04/brazil-presidential-election-lula-bolsonaro.html"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Brazil: Thousands of students march against Bolsonaro",
+     "sources": 3,
+     "score": 53,
+     "event_id": "a4565fbd5c2a",
+     "links": [
+      "https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss",
+      "https://www.france24.com/en/americas/20261007-thousands-protest-flavio-bolsonaro-far-right-brazil"
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "headline": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+     "sources": 2,
+     "score": 42,
+     "event_id": "f9c920be19b6",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
+      "https://www.aljazeera.com/news/2026/10/16/latest-poll-shows-bolsonaro-maintaining-edge-over-lula-in-brazil-run-off?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Brazil: Lula, Bolsonaro clash in heated presidential debate",
+     "sources": 3,
+     "score": 52,
+     "event_id": "a30f9cf554f4",
+     "links": [
+      "https://www.dw.com/en/brazil-lula-bolsonaro-clash-in-heated-presidential-debate/a-79695420?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
+      "https://www.france24.com/en/americas/20261019-brazil-lula-bolsonaro-debate-election-runoff"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+     "sources": 3,
+     "score": 54,
+     "event_id": "17bbb9e07e27",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+      "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/25/lula-bolsonaro-rally-supporters-before-brazil-presidential-runoff.html"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Brazil election: Lula, Bolsonaro cast votes in final bout",
+     "sources": 2,
+     "score": 45,
+     "event_id": "99ee164ff663",
+     "links": [
+      "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces",
+     "sources": 6,
+     "score": 82,
+     "event_id": "7a695e6a87c7",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+      "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+      "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
+     "sources": 2,
+     "score": 46,
+     "event_id": "aed458d584ac",
+     "links": [
+      "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/economy-news/brazils-lula-beats-bolsonaro-to-win-fourth-term-as-president-4971348"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Brazil keeps left: what Lula’s victory means for his country and beyond",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3624607e43ac",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
+      "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+     "sources": 3,
+     "score": 59,
+     "event_id": "f5819427a8c6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
+      "https://www.france24.com/en/brazil-s-lula-wins-historic-fourth-term"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Lula wins fourth term in dramatic Brazil election comeback",
+     "sources": 3,
+     "score": 55,
+     "event_id": "199eecef3d47",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/lula-wins-fourth-term-what-are-the-reactions-in-brazil",
+      "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "How the streets and social media drove Lula to a historic comeback in Brazil",
+     "sources": 3,
+     "score": 63,
+     "event_id": "9b5228a9b7e3",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+      "https://www.theguardian.com/news/audio/2026/oct/26/how-lula-beat-far-right-bolsonaro-in-brazil-the-latest",
+      "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win"
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+     "sources": 3,
+     "score": 57,
+     "event_id": "d7a1fd79d5b5",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+      "https://www.france24.com/en/americas/20261026-flavio-bolsonaro-opposition-brazil-court-travel-ban",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-says-police-demand-passports-after-brazil-election-defeat?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Flavio Bolsonaro flees Brazil for US amid investigation  — reports",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1d9a88889f65",
+     "links": [
+      "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "President Lula calls Bolsonaro’s Brazil exit ‘shameful’",
+     "sources": 1,
+     "score": 41,
+     "event_id": "39f44f4fd443",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Flavio Bolsonaro flees Brazil for US amid investigation",
+     "sources": 2,
+     "score": 49,
+     "event_id": "28352a0200ba",
+     "links": [
+      "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation/a-79781094?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/28/trump-bolsonaro-us-brazil-election.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Flávio Bolsonaro on flight to Miami after fleeing Brazil amid election defeat",
+     "sources": 2,
+     "score": 53,
+     "event_id": "9cf16528e73b",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+      "https://www.france24.com/en/video/20261028-brazil-flavio-bolsonaro-leaves-argentina-for-alleged-us-asylum-after-defeat",
+      "https://www.france24.com/en/brazil-bolsonaro-defeated-and-on-the-run"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2c2b2700dd7b",
+   "title": "Microsoft Patches a Record 570 Security Flaws",
+   "section": "safety",
+   "entities": [
+    "adobe",
+    "allowing",
+    "arista",
+    "record",
+    "collabora",
+    "patches",
+    "flaws",
+    "actively",
+    "velocloud",
+    "campaign",
+    "execution",
+    "bypass",
+    "cisa",
+    "fixes",
+    "security",
+    "exploited",
+    "online",
+    "critical",
+    "flags",
+    "microsoft",
+    "code",
+    "classic"
+   ],
+   "event_ids": [
+    "2c2b2700dd7b",
+    "42a9e60af11b",
+    "838b4b1ce253"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-10-28",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "Microsoft Patches a Record 570 Security Flaws",
+     "sources": 2,
+     "score": 56,
+     "event_id": "2c2b2700dd7b",
+     "links": [
+      "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+     "sources": 1,
+     "score": 46,
+     "event_id": "42a9e60af11b",
+     "links": [
+      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+     "sources": 1,
+     "score": 44,
+     "event_id": "838b4b1ce253",
+     "links": [
+      "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9be5b59644b2",
+   "title": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
+   "section": "world",
+   "entities": [
+    "palestinian",
+    "knesset",
+    "rise",
+    "israel"
+   ],
+   "event_ids": [
+    "9be5b59644b2"
+   ],
+   "first_seen": "2026-10-28",
+   "last_seen": "2026-10-28",
+   "timeline": [
+    {
+     "date": "2026-10-28",
+     "headline": "Rise of Palestinian parties in Knesset will redraw Israel’s political landscape",
+     "sources": 3,
+     "score": 64,
+     "event_id": "9be5b59644b2",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/27/palestinian-parties-knesset-election-exit-polls-redraw-israel-political-landscape",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/arab-towns-in-israel-celebrate-historic-knesset-gains-with-fireworks?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/go-home-ben-gvir-arab-bloc-celebrates-record-turnout-in-israel-election?traffic_source=rss"
      ]
     }
    ]
@@ -1977,608 +2680,6 @@
       "https://www.bbc.co.uk/sport/football/articles/cn5q170dnwlo?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/england-s-kane-wins-ballon-d-or-putellas-claims-women-s-award",
       "https://www.france24.com/en/ballon-d-or-winner-harry-kane-delivers-emotional-acceptance-speech"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "95b4d8eb7452",
-   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-   "section": "tech",
-   "entities": [
-    "oleshky",
-    "talarico",
-    "parties",
-    "europe",
-    "sure",
-    "senate",
-    "alexander",
-    "india's",
-    "friday's",
-    "iran",
-    "china",
-    "ukraine",
-    "tesla-spacex",
-    "spacex",
-    "billionaire",
-    "israel",
-    "trump",
-    "openai",
-    "ukraine's",
-    "machines",
-    "starlink",
-    "merging",
-    "olympic",
-    "apple",
-    "embiricos",
-    "anthropic",
-    "here",
-    "miss",
-    "unusual",
-    "zoom",
-    "beyond",
-    "networking",
-    "musk",
-    "ambani",
-    "deckers",
-    "side",
-    "russia",
-    "dots",
-    "skydance",
-    "techcrunch"
-   ],
-   "event_ids": [
-    "95b4d8eb7452",
-    "1b1d0d455584",
-    "572dce99347e",
-    "5afad699a57c",
-    "814772bc922c",
-    "bc11900335c3",
-    "5f6c0a4a0fa6",
-    "1fcf8cc28156",
-    "d7a1c9894fff",
-    "467cf97b1acf",
-    "4f05eeb200ed",
-    "98c90d114a62",
-    "c53837b319d6",
-    "714d1f0b729f",
-    "490a23f57428",
-    "869772203883",
-    "1cc24ddce8a4",
-    "f4290472ac1a",
-    "658159bc4850",
-    "733411f27eae",
-    "b17a25d8c48a",
-    "ed05f4b9715a",
-    "959dcb673548",
-    "030e0762a24f",
-    "5a36fa44b304",
-    "2c9536723835",
-    "ab3660a4efa6",
-    "795b2f9bbb2b",
-    "a3c44a432a3d",
-    "9c464aa25357",
-    "18ba53fb28cc",
-    "cb9eec62df6f",
-    "e146a0ded080",
-    "4212a5c7dadf",
-    "3992fc4ed3eb",
-    "e406db6a9c15",
-    "8b4dc9f3945d",
-    "9b5397f83bd4",
-    "19c0d49aeb1d",
-    "e76559e70f02",
-    "2f7ad053a046",
-    "c85cd878b1f9",
-    "b110318e469b",
-    "fa6d08a49746"
-   ],
-   "first_seen": "2026-09-14",
-   "last_seen": "2026-10-27",
-   "timeline": [
-    {
-     "date": "2026-09-14",
-     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-     "sources": 3,
-     "score": 55,
-     "event_id": "95b4d8eb7452",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-     "sources": 3,
-     "score": 50,
-     "event_id": "1b1d0d455584",
-     "links": [
-      "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
-     "sources": 3,
-     "score": 45,
-     "event_id": "572dce99347e",
-     "links": [
-      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-     "sources": 3,
-     "score": 52,
-     "event_id": "5afad699a57c",
-     "links": [
-      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-     "sources": 1,
-     "score": 42,
-     "event_id": "814772bc922c",
-     "links": [
-      "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-     "sources": 1,
-     "score": 46,
-     "event_id": "bc11900335c3",
-     "links": [
-      "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Trump gives top US science awards to Elon Musk and other tech executives",
-     "sources": 2,
-     "score": 44,
-     "event_id": "5f6c0a4a0fa6",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
-      "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Why Elon Musk is taking on India's richest man over Starlink",
-     "sources": 2,
-     "score": 49,
-     "event_id": "1fcf8cc28156",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-     "sources": 1,
-     "score": 46,
-     "event_id": "d7a1c9894fff",
-     "links": [
-      "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-     "sources": 2,
-     "score": 45,
-     "event_id": "467cf97b1acf",
-     "links": [
-      "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Elon Musk has donated over $276 million to Republican midterm efforts",
-     "sources": 2,
-     "score": 42,
-     "event_id": "4f05eeb200ed",
-     "links": [
-      "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-      "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
-     "sources": 3,
-     "score": 50,
-     "event_id": "98c90d114a62",
-     "links": [
-      "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
-      "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
-      "https://www.investing.com/news/stock-market-news/elon-musk-spends-366-million-on-2026-us-midterm-elections-4945225"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Elon Musk becomes biggest donor of US midterms cycle with $366m spent",
-     "sources": 2,
-     "score": 48,
-     "event_id": "c53837b319d6",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
-      "https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-     "sources": 4,
-     "score": 68,
-     "event_id": "714d1f0b729f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
-     "sources": 2,
-     "score": 44,
-     "event_id": "490a23f57428",
-     "links": [
-      "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
-      "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
-     "sources": 3,
-     "score": 56,
-     "event_id": "869772203883",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
-      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
-      "https://www.france24.com/en/americas/20261014-musk-says-us-govt-responsible-for-any-starshield-restrictions-affecting-ukraine"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-     "sources": 2,
-     "score": 41,
-     "event_id": "1cc24ddce8a4",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
-     "sources": 2,
-     "score": 44,
-     "event_id": "f4290472ac1a",
-     "links": [
-      "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
-      "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Elon Musk promises to give one SpaceX share to every child in the US",
-     "sources": 3,
-     "score": 57,
-     "event_id": "658159bc4850",
-     "links": [
-      "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
-      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink?utm_source=rss_feed",
-      "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "China’s milestone in polar region satellite broadband narrows gap with Elon Musk’s Starlink",
-     "sources": 1,
-     "score": 40,
-     "event_id": "733411f27eae",
-     "links": [
-      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink",
-      "https://www.scmp.com/tech/big-tech/article/3371010/tsmc-confirms-talks-elon-musk-over-texas-terafab-insists-operational-control"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Elon Musk says Tesla-SpaceX merger being considered",
-     "sources": 4,
-     "score": 56,
-     "event_id": "b17a25d8c48a",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-     "sources": 3,
-     "score": 52,
-     "event_id": "ed05f4b9715a",
-     "links": [
-      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Musk confirms SpaceX and Tesla exploring merger",
-     "sources": 4,
-     "score": 62,
-     "event_id": "959dcb673548",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
-      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
-     "sources": 8,
-     "score": 79,
-     "event_id": "030e0762a24f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Netflix, Zoom, Apple, Robinhood & more",
-     "sources": 1,
-     "score": 44,
-     "event_id": "5a36fa44b304",
-     "links": [
-      "https://www.cnbc.com/2026/10/21/wednesday-biggest-analyst-calls-like-spacex.html",
-      "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Tesla to report earnings after Elon Musk floats SpaceX merger plan",
-     "sources": 3,
-     "score": 53,
-     "event_id": "2c9536723835",
-     "links": [
-      "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
-      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-      "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "James Talarico fires back at Elon Musk in Texas Senate race feud",
-     "sources": 2,
-     "score": 46,
-     "event_id": "ab3660a4efa6",
-     "links": [
-      "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
-      "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Elon Musk invests about $1 billion in Skydance",
-     "sources": 3,
-     "score": 49,
-     "event_id": "795b2f9bbb2b",
-     "links": [
-      "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
-      "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
-      "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a3c44a432a3d",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
-      "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
-     "sources": 2,
-     "score": 44,
-     "event_id": "9c464aa25357",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
-     "sources": 2,
-     "score": 43,
-     "event_id": "18ba53fb28cc",
-     "links": [
-      "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
-      "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Ukraine troops report ongoing problems with Starlink satellite network",
-     "sources": 4,
-     "score": 68,
-     "event_id": "cb9eec62df6f",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
-      "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
-      "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, CoreWeave, Deckers, Unusual Machines & more",
-     "sources": 1,
-     "score": 44,
-     "event_id": "e146a0ded080",
-     "links": [
-      "https://www.cnbc.com/2026/10/23/big-wall-street-analyst-calls-friday-include-spacex-coreweave.html",
-      "https://www.cnbc.com/2026/10/23/stocks-making-the-biggest-moves-premarket-att-spacex-moderna-deckers-bloom-energy-and-more.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-     "sources": 2,
-     "score": 54,
-     "event_id": "4212a5c7dadf",
-     "links": [
-      "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
-      "https://www.cnbc.com/2026/10/22/wall-street-analyst-calls-nvidia-tesla-meta-spacex.html",
-      "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-premarket-tsla-meta-avex-spot.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-     "sources": 3,
-     "score": 50,
-     "event_id": "3992fc4ed3eb",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e406db6a9c15",
-     "links": [
-      "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-      "https://www.investing.com/news/commodities-news/trump-says-he-will-fix-any-starlink-access-problem-in-ukraine-4970057"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
-     "sources": 2,
-     "score": 41,
-     "event_id": "8b4dc9f3945d",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-     "sources": 2,
-     "score": 40,
-     "event_id": "9b5397f83bd4",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Ukraine says Starlink is back to normal after disruptions",
-     "sources": 2,
-     "score": 40,
-     "event_id": "19c0d49aeb1d",
-     "links": [
-      "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
-      "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Ukraine: Starlink satellite speeds restored to normal",
-     "sources": 3,
-     "score": 52,
-     "event_id": "e76559e70f02",
-     "links": [
-      "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
-      "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "https://www.investing.com/news/economy-news/ukraine-says-military-starlink-service-restored-after-10day-disruption-4970760"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-     "sources": 2,
-     "score": 42,
-     "event_id": "2f7ad053a046",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Russia to host first Olympic federation world event since Ukraine invasion",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c85cd878b1f9",
-     "links": [
-      "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Apple stock has become an anti-AI trade. Here’s why",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b110318e469b",
-     "links": [
-      "https://www.cnbc.com/2026/10/26/apple-stock-has-become-an-anti-ai-trade-heres-why.html",
-      "https://www.cnbc.com/2026/10/26/monday-biggest-wall-street-analyst-calls-like-tesla.html"
-     ]
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
-     "sources": 2,
-     "score": 43,
-     "event_id": "fa6d08a49746",
-     "links": [
-      "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html"
      ]
     }
    ]
@@ -18482,37 +18583,6 @@
    ]
   },
   {
-   "id": "2c2b2700dd7b",
-   "title": "Microsoft Patches a Record 570 Security Flaws",
-   "section": "safety",
-   "entities": [
-    "security",
-    "patches",
-    "microsoft",
-    "record",
-    "flaws"
-   ],
-   "event_ids": [
-    "2c2b2700dd7b"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-08-10",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "Microsoft Patches a Record 570 Security Flaws",
-     "sources": 2,
-     "score": 56,
-     "event_id": "2c2b2700dd7b",
-     "links": [
-      "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-      "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
-     ]
-    }
-   ]
-  },
-  {
    "id": "47ff75c42b0f",
    "title": "Lorry turns over as typhoon hits China",
    "section": "world",
@@ -18598,5 +18668,5 @@
    ]
   }
  ],
- "updated": "2026-10-28T09:23:14+00:00"
+ "updated": "2026-10-28T12:28:57+00:00"
 }

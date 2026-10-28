@@ -1,16 +1,14 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-28
 
-Paměť obsahuje **170 vláken**. Aktivních za posledních 14 dní: **43**.
+Paměť obsahuje **170 vláken**. Aktivních za posledních 14 dní: **44**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 75 dní · 60 záznamů
+- rubrika `world` · sledováno 76 dní · 60 záznamů
 - časová osa:
-  - **2026-10-24** (2 zdrojů) As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?
-  - **2026-10-24** (2 zdrojů) Israeli PM pledges massive military operation after West Bank checkpoint attack
   - **2026-10-24** (2 zdrojů) Israel begins demolitions in West Bank
   - **2026-10-25** (2 zdrojů) Israel to close occupied West Bank crossings as it locks down Hebron
   - **2026-10-25** (2 zdrojů) Israeli soldiers raze neighbourhood in Hebron, driving families from homes
@@ -19,6 +17,8 @@ Paměť obsahuje **170 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-27** (2 zdrojů) Israel election: Israelis vote for 1st time since October 7 terror attack
   - **2026-10-27** (1 zdrojů) Turnout high as Israeli voters deliver verdict on Netanyahu
   - **2026-10-27** (5 zdrojů) Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
+  - **2026-10-28** (3 zdrojů) Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority
+  - **2026-10-28** (2 zdrojů) Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 79 dní · 60 záznamů
