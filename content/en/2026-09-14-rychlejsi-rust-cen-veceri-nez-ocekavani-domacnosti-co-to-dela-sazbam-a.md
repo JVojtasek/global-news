@@ -13,6 +13,10 @@ date: '2026-09-14'
 status: published
 confidence: 0
 image_query: 'grocery store shopping cart'
+impact:
+  areas: [money, life]
+  line: "Pricier food hits every household that shops, and it can make central banks slower to cut rates, which keeps loans and mortgages more expensive for longer."
+  todo: "Check your national statistics office's monthly food price figures and compare them with your own receipts over a few months."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rychlejsi-rust-cen-veceri-nez-ocekavani-domacnosti-co-to-del-analyza-364907

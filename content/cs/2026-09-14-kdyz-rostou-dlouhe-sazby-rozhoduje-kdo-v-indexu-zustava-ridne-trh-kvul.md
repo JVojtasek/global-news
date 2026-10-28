@@ -13,6 +13,10 @@ date: '2026-09-14'
 status: published
 confidence: 0
 image_query: Když rostou dlouhé sazby, rozhoduje
+impact:
+  areas: [money]
+  line: "Denně se tím pro většinu čtenářů nic nemění; podstatné je, že klidný hlavní index může skrývat slabost menších a zadlužených firem. Široké fondy a penzijní portfolia pak mohou dopadat hůř, než naznačují titulky."
+  todo: "Porovnat rovnovážně vážený index s běžným, nebo se podívat, jak je váš penzijní či indexový fond skutečně rozložen mezi sektory a velikosti firem."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdyz-rostou-dlouhe-sazby-rozhoduje-kdo-v-indexu-zustava-ridn-analyza-365035

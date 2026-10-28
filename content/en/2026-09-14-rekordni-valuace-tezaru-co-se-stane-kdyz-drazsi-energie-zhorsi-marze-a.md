@@ -13,6 +13,10 @@ date: '2026-09-14'
 status: published
 confidence: 0
 image_query: 'open pit mine trucks'
+impact:
+  areas: [money]
+  line: "Most readers won't feel this directly; it matters to those holding mining stocks or commodity funds, where pricier energy can shrink profits even when metal prices hold steady."
+  todo: "In miners' quarterly reports, look for all-in sustaining costs per ounce or unit costs per ton, and compare them with the previous quarter."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rekordni-valuace-tezaru-co-se-stane-kdyz-drazsi-energie-zhor-analyza-365023

@@ -14,6 +14,10 @@ date: '2026-09-14'
 status: published
 confidence: 0
 image_query: 'stock exchange trading floor'
+impact:
+  areas: [money]
+  line: "Day to day, this changes nothing for most readers; what matters is that a calm headline index can hide weakness in smaller and indebted companies. Broad funds and pension portfolios may do worse than the headline suggests."
+  todo: "Compare an equal-weight index with the regular one, or check how your pension or index fund is actually spread across sectors and company sizes."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdyz-rostou-dlouhe-sazby-rozhoduje-kdo-v-indexu-zustava-ridn-analyza-365035

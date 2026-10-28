@@ -13,6 +13,10 @@ date: '2026-09-14'
 status: published
 confidence: 0
 image_query: 'Rekordní valuace těžařů: co se'
+impact:
+  areas: [money]
+  line: "Většina čtenářů to přímo nepocítí; týká se to držitelů akcií těžařů nebo komoditních fondů, kterým dražší energie může ukrajovat zisky, i když ceny kovů stojí."
+  todo: "Ve čtvrtletních zprávách těžařů hledat celkové udržovací náklady na unci nebo jednotkové náklady na tunu a porovnat je s předchozím čtvrtletím."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rekordni-valuace-tezaru-co-se-stane-kdyz-drazsi-energie-zhor-analyza-365023

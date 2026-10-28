@@ -13,6 +13,10 @@ date: '2026-09-14'
 status: published
 confidence: 0
 image_query: Rychlejší růst cen večeří než
+impact:
+  areas: [money, life]
+  line: "Dražší jídlo zasahuje každou domácnost, která nakupuje, a může centrální banky přimět ke snižování sazeb později, takže úvěry a hypotéky zůstanou dražší déle."
+  todo: "Podívat se na měsíční údaje národního statistického úřadu o cenách potravin a pár měsíců je porovnávat s vlastními účtenkami."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rychlejsi-rust-cen-veceri-nez-ocekavani-domacnosti-co-to-del-analyza-364907

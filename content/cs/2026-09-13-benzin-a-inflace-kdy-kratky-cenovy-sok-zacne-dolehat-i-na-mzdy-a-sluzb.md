@@ -13,6 +13,10 @@ date: '2026-09-13'
 status: published
 confidence: 0
 image_query: 'Benzín a inflace: kdy krátký'
+impact:
+  areas: [money]
+  line: "Dražší palivo zasáhne každého, kdo jezdí nebo platí za dopravu. Větší otázka je, zda se rozleje do služeb a mezd, což by mohlo udržet úrokové sazby výš déle."
+  todo: "V měsíčních údajích o inflaci porovnávat položku energie se službami; když služby dál rostou i po uklidnění paliv, tlak se šíří."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/benzin-a-inflace-kdy-kratky-cenovy-sok-zacne-dolehat-i-na-mz-analyza-363805

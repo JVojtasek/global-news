@@ -13,6 +13,10 @@ date: '2026-09-14'
 status: published
 confidence: 0
 image_query: 'Starwood Property Trust: jak přeměna'
+impact:
+  areas: [money]
+  line: "Většina čtenářů to přímo nepocítí; týká se to držitelů hypotečních REIT a vysokodividendových fondů, kde vysoký výnos může stát na úrokových příjmech, které se zmenšují."
+  todo: "Než uvěříte dividendě REIT, porovnejte v poslední čtvrtletní zprávě distribuovatelný zisk na akcii s dividendou na akcii."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/starwood-property-trust-jak-premena-uveru-do-nemovitosti-sni-analyza-365015

@@ -14,6 +14,10 @@ date: '2026-09-14'
 status: published
 confidence: 0
 image_query: 'empty office building'
+impact:
+  areas: [money]
+  line: "Most readers won't feel this directly; it matters to holders of mortgage REITs and high-dividend funds, where a high yield may rest on interest income that is shrinking."
+  todo: "Before trusting a REIT dividend, compare distributable earnings per share with the dividend per share in its latest quarterly report."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/starwood-property-trust-jak-premena-uveru-do-nemovitosti-sni-analyza-365015

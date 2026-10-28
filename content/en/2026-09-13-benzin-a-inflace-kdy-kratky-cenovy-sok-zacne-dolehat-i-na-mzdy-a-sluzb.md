@@ -13,6 +13,10 @@ date: '2026-09-13'
 status: published
 confidence: 0
 image_query: 'gas station price sign'
+impact:
+  areas: [money]
+  line: "Pricier fuel reaches everyone who drives or pays for transport. The bigger question is whether it spreads into services and wages, which could keep interest rates higher for longer."
+  todo: "In monthly inflation data, compare the energy item with services; if services keep climbing after fuel calms down, the pressure is spreading."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/benzin-a-inflace-kdy-kratky-cenovy-sok-zacne-dolehat-i-na-mz-analyza-363805
