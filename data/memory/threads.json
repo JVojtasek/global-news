@@ -5,17 +5,17 @@
    "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
    "section": "world",
    "entities": [
-    "brazilian",
-    "president",
-    "bolsonaro",
-    "brazil",
-    "voting",
-    "polls",
     "brazil's",
-    "lula",
+    "thousands",
+    "voting",
     "flavio",
+    "lula",
+    "polls",
+    "brazil",
+    "president",
     "brazilians",
-    "thousands"
+    "bolsonaro",
+    "brazilian"
    ],
    "event_ids": [
     "d92458626c90",
@@ -39,7 +39,8 @@
     "9b5228a9b7e3",
     "d7a1fd79d5b5",
     "1d9a88889f65",
-    "39f44f4fd443"
+    "39f44f4fd443",
+    "28352a0200ba"
    ],
    "first_seen": "2026-10-04",
    "last_seen": "2026-10-28",
@@ -298,6 +299,17 @@
      "links": [
       "https://www.aljazeera.com/video/newsfeed/2026/10/27/president-lula-calls-bolsonaros-brazil-exit?traffic_source=rss",
       "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Flavio Bolsonaro flees Brazil for US amid investigation",
+     "sources": 2,
+     "score": 49,
+     "event_id": "28352a0200ba",
+     "links": [
+      "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation/a-79781094?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/28/trump-bolsonaro-us-brazil-election.html"
      ]
     }
    ]
@@ -18586,5 +18598,5 @@
    ]
   }
  ],
- "updated": "2026-10-28T06:31:34+00:00"
+ "updated": "2026-10-28T09:23:14+00:00"
 }
