@@ -1,10 +1,24 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-10-29
 
-Paměť obsahuje **170 vláken**. Aktivních za posledních 14 dní: **45**.
+Paměť obsahuje **171 vláken**. Aktivních za posledních 14 dní: **45**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- rubrika `world` · sledováno 81 dní · 60 záznamů
+- časová osa:
+  - **2026-10-21** (4 zdrojů) US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
+  - **2026-10-21** (2 zdrojů) Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
+  - **2026-10-21** (1 zdrojů) ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
+  - **2026-10-21** (4 zdrojů) Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
+  - **2026-10-22** (2 zdrojů) Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live
+  - **2026-10-26** (3 zdrojů) Donald Trump has been a disaster for rural America | Steven Greenhouse
+  - **2026-10-26** (2 zdrojů) Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours
+  - **2026-10-26** (2 zdrojů) What Germany thinks of carmaker Audi's $4 billion deal with Trump
+  - **2026-10-26** (2 zdrojů) Trump announces Audi will build $4 billion factory in US
+  - **2026-10-29** (2 zdrojů) Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 76 dní · 60 záznamů
@@ -47,20 +61,6 @@ Paměť obsahuje **170 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-24** (3 zdrojů) Jackson stars with two goals - player ratings for Aston Villa v Man City
   - **2026-10-25** (2 zdrojů) Terland strikes late as United end Manchester City’s winning start in WSL
   - **2026-10-26** (2 zdrojů) Manchester United crisis: What are the top five problems facing the club?
-
-### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 78 dní · 60 záznamů
-- časová osa:
-  - **2026-10-20** (2 zdrojů) US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
-  - **2026-10-21** (4 zdrojů) US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
-  - **2026-10-21** (2 zdrojů) Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
-  - **2026-10-21** (1 zdrojů) ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
-  - **2026-10-21** (4 zdrojů) Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
-  - **2026-10-22** (2 zdrojů) Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live
-  - **2026-10-26** (3 zdrojů) Donald Trump has been a disaster for rural America | Steven Greenhouse
-  - **2026-10-26** (2 zdrojů) Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours
-  - **2026-10-26** (2 zdrojů) What Germany thinks of carmaker Audi's $4 billion deal with Trump
-  - **2026-10-26** (2 zdrojů) Trump announces Audi will build $4 billion factory in US
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 72 dní · 60 záznamů
