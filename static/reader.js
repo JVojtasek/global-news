@@ -1213,7 +1213,7 @@
         if (mark) mark.hidden = !(briefMode === "mix" && relevant);
       });
       var empty = section.querySelector(".brief-scope-empty");
-      if (empty) empty.hidden = !(items.length && visible === 0);
+      if (empty) empty.hidden = !(visible === 0 && (items.length || role === "home"));
     });
   }
 

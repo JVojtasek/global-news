@@ -178,7 +178,10 @@
     })
       .slice(0, localLimit).forEach(function (item) { home.appendChild(makeBriefItem(box, item)); });
     var loading = box.querySelector("[data-live-brief-loading]");
-    if (loading) loading.hidden = valid.length > 0;
+    if (loading) {
+      loading.hidden = valid.length > 0;
+      if (!valid.length) loading.textContent = csvText(box, "data-empty-label", "No verified headline yet.");
+    }
     if (typeof window.tdsRefreshBriefing === "function") window.tdsRefreshBriefing();
   }
 
