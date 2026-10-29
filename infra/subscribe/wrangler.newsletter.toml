@@ -12,9 +12,9 @@ invocation_logs = true
 persist = true
 head_sampling_rate = 1
 [vars]
-ENABLE_DELIVERY = "false"
+ENABLE_DELIVERY = "true"
 MAIL_PROVIDER = "brevo"
 PUBLIC_WORKER_URL = "https://mypaper-briefing-subscribe.jarda-vojtasek.workers.dev"
-# Draft only: schedule is present, but delivery stays disabled until verified.
+# The worker checks the Prague time window before delivering.
 [triggers]
 crons = ["*/5 * * * *"]
