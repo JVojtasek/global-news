@@ -13,6 +13,10 @@ date: '2026-09-13'
 status: published
 confidence: 0
 image_query: 'oil pipeline desert'
+impact:
+  areas: [money]
+  line: "Anyone who fills up, flies or pays for transport may feel a 'nervousness surcharge' in the oil price, even if no barrels are physically missing. A longer rise would feed into airfares and some goods."
+  todo: "Watch statements from Saudi Aramco and the Saudi energy ministry on the pipeline's operation, weekly EIA inventory data and the Brent crude price."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/utok-na-ropovod-proc-nejvetsi-zdrazeni-hrozi-pri-zasahu-zalo-analyza-363806

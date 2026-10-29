@@ -13,6 +13,10 @@ date: '2026-09-13'
 status: published
 confidence: 0
 image_query: 'Indie–Čína: jak „klid na hranici“'
+impact:
+  areas: [money]
+  line: "Denně se tím většině čtenářů nic nemění; podstatné je, že klidnější hranice může snížit rizikovou přirážku u firem s výrobou a logistikou v Asii a časem stabilizovat dostupnost elektroniky."
+  todo: "Sledovat data indického ministerstva obchodu o dovozu čínských komponentů, příliv přímých investic podle RBI a DPIIT a export elektroniky podle MeitY."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/indie-cina-jak-klid-na-hranici-poznate-v-fdi-elektronice-i-d-analyza-364042

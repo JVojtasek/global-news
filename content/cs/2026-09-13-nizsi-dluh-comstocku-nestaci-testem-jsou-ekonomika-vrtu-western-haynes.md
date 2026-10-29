@@ -13,6 +13,10 @@ date: '2026-09-13'
 status: published
 confidence: 0
 image_query: 'Nižší dluh Comstocku nestačí: testem'
+impact:
+  areas: [money]
+  line: "Denně se tím většině čtenářů nic nemění; týká se to hlavně těch, kdo drží akcie Comstocku nebo fondy s plynaři. Nižší dluh firmě kupuje čas, ale marži sám nevytvoří."
+  todo: "Ve výsledcích Comstocku sledovat čistý dluh vůči EBITDAX, náklady na vrty a zajištění cen a srovnávat je s cenou plynu Henry Hub."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nizsi-dluh-comstocku-nestaci-testem-jsou-ekonomika-vrtu-west-analyza-363800

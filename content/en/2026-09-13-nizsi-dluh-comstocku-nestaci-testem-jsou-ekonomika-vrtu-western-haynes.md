@@ -13,6 +13,10 @@ date: '2026-09-13'
 status: published
 confidence: 0
 image_query: 'natural gas drilling rig'
+impact:
+  areas: [money]
+  line: "For most readers nothing changes day to day; this mainly concerns holders of Comstock shares or funds with gas producers. Lower debt buys the company time, but it does not create a margin on its own."
+  todo: "In Comstock's results, watch net debt to EBITDAX, drilling and completion costs and hedging, and compare them with the Henry Hub gas price."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/nizsi-dluh-comstocku-nestaci-testem-jsou-ekonomika-vrtu-west-analyza-363800

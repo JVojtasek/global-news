@@ -13,6 +13,10 @@ date: '2026-09-12'
 status: published
 confidence: 0
 image_query: Když se sečte benzin, 30letá
+impact:
+  areas: [money]
+  line: "Týká se hlavně amerických domácností: dražší benzin a rostoucí sazby 30letých hypoték zvedají měsíční výdaje a odkládají nákup bydlení. Kdo drží akcie stavitelů domů nebo spotřebních firem, pozná to i na jejich výsledcích."
+  todo: "Sledovat průměrnou 30letou hypoteční sazbu Freddie Mac, týdenní data EIA o benzinu, inflaci CPI od BLS a výnos 10letého amerického dluhopisu."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdyz-se-secte-benzin-30leta-hypoteka-a-10lety-vynos-jak-infl-analyza-363492

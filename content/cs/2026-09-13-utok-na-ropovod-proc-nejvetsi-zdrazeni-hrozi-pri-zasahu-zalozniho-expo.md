@@ -13,6 +13,10 @@ date: '2026-09-13'
 status: published
 confidence: 0
 image_query: 'Útok na ropovod: proč největší'
+impact:
+  areas: [money]
+  line: "Kdo tankuje, létá nebo platí za dopravu, může v ceně ropy cítit „příplatek za nervozitu“, i když barely fyzicky nechybí. Delší zdražení by se propsalo do letenek a části zboží."
+  todo: "Sledovat vyjádření Saudi Aramco a saúdského ministerstva energetiky k provozu ropovodu, týdenní data EIA o zásobách a cenu ropy Brent."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/utok-na-ropovod-proc-nejvetsi-zdrazeni-hrozi-pri-zasahu-zalo-analyza-363806

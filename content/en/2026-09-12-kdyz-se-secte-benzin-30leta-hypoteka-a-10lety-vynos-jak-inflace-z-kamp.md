@@ -14,6 +14,10 @@ date: '2026-09-12'
 status: published
 confidence: 0
 image_query: 'gas station price sign'
+impact:
+  areas: [money]
+  line: "This mainly concerns US households: pricier gasoline and rising 30-year mortgage rates lift monthly spending and push home purchases back. Holders of homebuilder or consumer company shares may see it in those companies' results too."
+  todo: "Watch Freddie Mac's average 30-year mortgage rate, weekly EIA gasoline data, CPI inflation from the BLS and the 10-year US Treasury yield."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/kdyz-se-secte-benzin-30leta-hypoteka-a-10lety-vynos-jak-infl-analyza-363492

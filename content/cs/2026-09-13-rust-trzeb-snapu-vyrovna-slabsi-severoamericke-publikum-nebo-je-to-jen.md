@@ -13,6 +13,10 @@ date: '2026-09-13'
 status: published
 confidence: 0
 image_query: 'Růst tržeb Snapu: vyrovná slabší'
+impact:
+  areas: [money]
+  line: "Denně se tím většině čtenářů nic nemění; uživatel Snapchatu může nanejvýš vidět víc nebo lépe cílené reklamy. Pro držitele akcií sociálních sítí, i přes fondy, je otázkou, zda růst nepřichází hlavně z méně výnosných regionů."
+  todo: "Ve čtvrtletních výsledcích Snapu porovnat uživatele a ARPU po regionech, hlavně v Severní Americe, a poměr denních a měsíčních uživatelů."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rust-trzeb-snapu-vyrovna-slabsi-severoamericke-publikum-nebo-analyza-363808

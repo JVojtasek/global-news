@@ -13,6 +13,10 @@ date: '2026-09-13'
 status: published
 confidence: 0
 image_query: 'container ship port cranes'
+impact:
+  areas: [money]
+  line: "For most readers nothing changes day to day; what matters is that a calmer border could shrink the risk premium on companies making and shipping goods in Asia, and over time steady the supply of electronics."
+  todo: "Watch India's trade ministry data on imports of Chinese components, foreign direct investment figures from the RBI and DPIIT, and electronics exports reported by MeitY."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/indie-cina-jak-klid-na-hranici-poznate-v-fdi-elektronice-i-d-analyza-364042

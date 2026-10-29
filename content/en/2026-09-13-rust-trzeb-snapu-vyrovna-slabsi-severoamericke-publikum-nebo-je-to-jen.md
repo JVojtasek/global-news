@@ -13,6 +13,10 @@ date: '2026-09-13'
 status: published
 confidence: 0
 image_query: 'teenagers using smartphones'
+impact:
+  areas: [money]
+  line: "For most readers nothing changes day to day; Snapchat users may at most see more or better-targeted ads. For holders of social media shares, including through funds, the question is whether growth comes mainly from less lucrative regions."
+  todo: "In Snap's quarterly results, compare users and ARPU by region, especially North America, and the ratio of daily to monthly users."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/rust-trzeb-snapu-vyrovna-slabsi-severoamericke-publikum-nebo-analyza-363808
