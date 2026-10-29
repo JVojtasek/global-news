@@ -7,7 +7,7 @@ const health = {u:'/cs/science/sensitive-topic/',s:'science',g:'h_heart'};
 const req = payload => new Request('https://metrics.example/',{method:'POST',headers:{origin:'https://mypaper.news'},body:JSON.stringify(payload)});
 const fetcher = async () => Response.json([article,health]);
 let writes;
-const env = {DB:{prepare:() => ({bind:(...args) => ({run:async()=>{writes.push(args)}})})}};
+const env = {ENABLE_COLLECTOR:'true',DB:{prepare:() => ({bind:(...args) => ({run:async()=>{writes.push(args)}})})}};
 
 test('accepts a known eligible article and stores only daily totals',async()=>{
   writes=[];
@@ -28,6 +28,9 @@ test('rejects health tags, unknown articles, private fields and invalid duration
 test('rejects requests from other origins',async()=>{
   const r=await handle(new Request('https://metrics.example/',{method:'POST',headers:{origin:'https://other.example'}}),env,fetcher);
   assert.equal(r.status,403);
+});
+test('collection is disabled unless explicitly enabled',async()=>{
+  assert.equal((await handle(req({kind:'click',path:article.u,seconds:0}),{},fetcher)).status,503);
 });
 test('Cloudflare execution context is not mistaken for a fetch function',async()=>{
   writes=[]; const previous=globalThis.fetch; globalThis.fetch=fetcher;

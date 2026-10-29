@@ -13,6 +13,7 @@ export function validArticle(a) {
 }
 
 export async function handle(request, env, fetcher = fetch) {
+  if (env.ENABLE_COLLECTOR !== 'true') return new Response(null,{status:503});
   if (request.headers.get('Origin') !== ORIGIN) return new Response(null,{status:403});
   if (request.method === 'OPTIONS') return new Response(null,{status:204,headers:{...headers,'Access-Control-Allow-Methods':'POST, OPTIONS','Access-Control-Allow-Headers':'content-type'}});
   if (request.method !== 'POST') return new Response(null,{status:405,headers});
