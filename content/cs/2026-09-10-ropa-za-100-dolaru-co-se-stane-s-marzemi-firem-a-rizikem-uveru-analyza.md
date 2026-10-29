@@ -13,6 +13,10 @@ date: '2026-09-10'
 status: published
 confidence: 0
 image_query: 'Ropa za 100 dolarů: co'
+impact:
+  areas: [money]
+  line: "Drahá ropa působí jako malá daň z pohybu. Kdo tankuje, platí za dopravu a rozvoz nebo létá, ji pocítí dřív než akciový index, který teď táhnou technologické firmy a banky."
+  todo: "Sledovat, jestli se cena ropy nad 100 dolary drží týdny, ne jen dny, a zda se promítá do cen benzinu a dopravy."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ropa-za-100-dolaru-co-se-stane-s-marzemi-firem-a-rizikem-uve-analyza-361917

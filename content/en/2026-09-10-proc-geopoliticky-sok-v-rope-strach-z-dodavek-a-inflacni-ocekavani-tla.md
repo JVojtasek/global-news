@@ -13,6 +13,10 @@ date: '2026-09-10'
 status: published
 confidence: 0
 image_query: 'oil refinery at dusk'
+impact:
+  areas: [money]
+  line: "A brief price spike alone changes little in the wallet. But if fear of war turns into a lasting disruption of oil supply, drivers, travellers and anyone paying to ship goods will feel it through petrol, fares and prices."
+  todo: "Watch whether only the nearest oil contract rises or longer-dated ones too, and whether reports of disrupted shipping and tanker insurance multiply."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/proc-geopoliticky-sok-v-rope-strach-z-dodavek-a-inflacni-oce-analyza-361914

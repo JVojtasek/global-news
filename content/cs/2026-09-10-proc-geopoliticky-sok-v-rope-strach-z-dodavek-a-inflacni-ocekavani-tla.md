@@ -13,6 +13,10 @@ date: '2026-09-10'
 status: published
 confidence: 0
 image_query: Proč geopolitický šok v ropě,
+impact:
+  areas: [money]
+  line: "Krátký cenový skok peněženku sám o sobě nezmění. Pokud se ale strach z války promění v delší omezení dodávek ropy, pocítí to řidiči, cestující i kdo platí za dopravu zboží, přes benzin, letenky a ceny."
+  todo: "Sledovat, zda roste jen nejbližší ropný kontrakt, nebo i vzdálenější, a zda přibývají zprávy o narušené dopravě a pojištění tankerů."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/proc-geopoliticky-sok-v-rope-strach-z-dodavek-a-inflacni-oce-analyza-361914

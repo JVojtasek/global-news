@@ -14,6 +14,10 @@ date: '2026-09-10'
 status: published
 confidence: 0
 image_query: 'stock exchange trading screen'
+impact:
+  areas: [money]
+  line: "This concerns anyone whose app offers tokenized shares. Cheaper round-the-clock trading is not the same as safer ownership; what counts is whether you hold a real share, only a claim on the platform, or a derivative."
+  todo: "Before buying, check in the terms what the token actually represents, who holds the underlying shares in custody and which regulator supervises the platform."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/tokenizovane-akcie-podle-ceho-poznate-skutecne-akcionarske-p-analyza-362035

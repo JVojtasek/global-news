@@ -13,6 +13,10 @@ date: '2026-09-10'
 status: published
 confidence: 0
 image_query: 'gas station fuel prices'
+impact:
+  areas: [money]
+  line: "Expensive oil works like a small tax on getting around. People who fill up, pay for transport and delivery or fly feel it sooner than the stock index, which tech firms and banks are currently carrying."
+  todo: "Watch whether oil stays above 100 dollars for weeks rather than days, and whether it feeds into petrol and transport prices."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ropa-za-100-dolaru-co-se-stane-s-marzemi-firem-a-rizikem-uve-analyza-361917

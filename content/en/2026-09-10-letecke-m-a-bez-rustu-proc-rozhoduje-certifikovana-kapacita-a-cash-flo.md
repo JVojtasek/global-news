@@ -13,6 +13,10 @@ date: '2026-09-10'
 status: published
 confidence: 0
 image_query: 'aircraft parts factory'
+impact:
+  areas: [money]
+  line: "For most readers nothing changes day to day. This mainly concerns shareholders of aerospace suppliers; travellers only indirectly, if higher costs in the supply chain eventually make fares more expensive."
+  todo: "Anyone holding aerospace supplier shares can check net debt to EBITDA, free cash flow after interest and inventory growth in the company filings."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/letecke-m-a-bez-rustu-proc-rozhoduje-certifikovana-kapacita--analyza-362054

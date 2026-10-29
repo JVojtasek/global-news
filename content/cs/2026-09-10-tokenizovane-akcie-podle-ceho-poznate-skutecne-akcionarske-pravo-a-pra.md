@@ -13,6 +13,10 @@ date: '2026-09-10'
 status: published
 confidence: 0
 image_query: 'Tokenizované akcie: podle čeho poznáte'
+impact:
+  areas: [money]
+  line: "Týká se každého, komu aplikace nabízí tokenizované akcie. Levnější obchodování nonstop samo o sobě neznamená bezpečnější vlastnictví; rozhoduje, jestli držíte skutečnou akcii, jen nárok vůči platformě, nebo derivát."
+  todo: "Před nákupem si v podmínkách ověřit, co token přesně představuje, kdo podkladové akcie úschovává a pod dohledem kterého regulátora platforma je."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/tokenizovane-akcie-podle-ceho-poznate-skutecne-akcionarske-p-analyza-362035

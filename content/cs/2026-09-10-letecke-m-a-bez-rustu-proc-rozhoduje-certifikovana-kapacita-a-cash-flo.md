@@ -13,6 +13,10 @@ date: '2026-09-10'
 status: published
 confidence: 0
 image_query: 'Letecké M&A bez růstu: proč'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nemění nic. Týká se hlavně akcionářů leteckých dodavatelů; cestujících jen nepřímo, pokud vyšší náklady v dodavatelském řetězci časem prodraží letenky."
+  todo: "Kdo drží akcie leteckých dodavatelů, může ve výkazech sledovat poměr čistého dluhu k EBITDA, volné cash flow po úrocích a růst zásob."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/letecke-m-a-bez-rustu-proc-rozhoduje-certifikovana-kapacita--analyza-362054
