@@ -9,7 +9,6 @@ Paměť obsahuje **171 vláken**. Aktivních za posledních 14 dní: **45**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 81 dní · 60 záznamů
 - časová osa:
-  - **2026-10-21** (4 zdrojů) US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
   - **2026-10-21** (2 zdrojů) Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
   - **2026-10-21** (1 zdrojů) ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
   - **2026-10-21** (4 zdrojů) Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
@@ -19,11 +18,11 @@ Paměť obsahuje **171 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-26** (2 zdrojů) What Germany thinks of carmaker Audi's $4 billion deal with Trump
   - **2026-10-26** (2 zdrojů) Trump announces Audi will build $4 billion factory in US
   - **2026-10-29** (2 zdrojů) Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
+  - **2026-10-29** (2 zdrojů) Russian drone attack on Ukrainian train station kills at least 14, officials say
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 76 dní · 60 záznamů
+- rubrika `world` · sledováno 77 dní · 60 záznamů
 - časová osa:
-  - **2026-10-25** (2 zdrojů) Israeli soldiers raze neighbourhood in Hebron, driving families from homes
   - **2026-10-25** (3 zdrojů) Israel to close all West Bank land crossings on election day
   - **2026-10-26** (2 zdrojů) Who are the Israeli candidates trying to unseat Netanyahu?
   - **2026-10-27** (2 zdrojů) Israel election: Israelis vote for 1st time since October 7 terror attack
@@ -33,6 +32,7 @@ Paměť obsahuje **171 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-28** (2 zdrojů) Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory
   - **2026-10-28** (2 zdrojů) 'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'
   - **2026-10-28** (2 zdrojů) Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition
+  - **2026-10-29** (1 zdrojů) Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 79 dní · 60 záznamů

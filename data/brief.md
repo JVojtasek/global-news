@@ -147,7 +147,6 @@
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-15  (2 zdrojů, síla 41)  Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'
   2026-10-16  (2 zdrojů, síla 46)  Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'
   2026-10-16  (1 zdrojů, síla 41)  Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time
   2026-10-17  (3 zdrojů, síla 52)  Trump waives several Russia sanctions as new US law takes effect
@@ -167,6 +166,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-26  (2 zdrojů, síla 44)  What Germany thinks of carmaker Audi's $4 billion deal with Trump
   2026-10-26  (2 zdrojů, síla 41)  Trump announces Audi will build $4 billion factory in US
   2026-10-29  (2 zdrojů, síla 43)  Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
+  2026-10-29  (2 zdrojů, síla 44)  Russian drone attack on Ukrainian train station kills at least 14, officials say
 ```
 
 ### 2. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
@@ -176,7 +176,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-21  (3 zdrojů, síla 58)  Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander
   2026-10-21  (1 zdrojů, síla 40)  African Elephants Shape the Savanna Ecosystem—and Continue Doing So Long After They've Died, Study Suggests
   2026-10-23  (3 zdrojů, síla 54)  Israel preparing 'full closure' of West Bank, Netanyahu says
   2026-10-23  (3 zdrojů, síla 60)  Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
@@ -196,6 +195,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-28  (2 zdrojů, síla 45)  Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory
   2026-10-28  (2 zdrojů, síla 44)  'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'
   2026-10-28  (2 zdrojů, síla 43)  Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition
+  2026-10-29  (1 zdrojů, síla 40)  Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago
 ```
 
 ---
