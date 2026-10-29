@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import {brevoConfirmation} from '../src/brevo-confirmation.js';
+const token='a'.repeat(64);let request;
+const mail=brevoConfirmation({apiKey:'test',workerOrigin:'https://brief.example',fetcher:async(url,opts)=>{request={url,opts};return Response.json({messageId:'test-id'},{status:201})}});
+await mail.sendConfirmation({email:'reader@example.invalid',lang:'en',token});
+assert.equal(request.url,'https://api.brevo.com/v3/smtp/email');
+const body=JSON.parse(request.opts.body);
+assert.equal(body.to[0].email,'reader@example.invalid');
+assert.match(body.textContent,/confirm#t=a{64}&lang=en/);
+assert.match(body.htmlContent,/href="https:\/\/brief\.example\/confirm#t=a{64}&amp;lang=en"/);
+assert.equal(body.sender.email,'confirm@mail.mypaper.news');
+await assert.rejects(()=>mail.sendConfirmation({email:'reader@example.invalid',lang:'en',token:'bad'}));
+const fail=brevoConfirmation({apiKey:'test',workerOrigin:'https://brief.example',fetcher:async()=>new Response('',{status:429})});
+await assert.rejects(()=>fail.sendConfirmation({email:'reader@example.invalid',lang:'cs',token}));
+console.log('Brevo confirmation adapter: request, validation and provider failures passed');

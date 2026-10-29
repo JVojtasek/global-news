@@ -1,0 +1,11 @@
+import assert from 'node:assert/strict';
+import {requestSubscription} from '../src/newsletter-core.js';
+import {makeHandler} from '../src/newsletter-worker.js';
+let removed=false;
+const store={async registerPending(){return {accepted:true}},async cancelPending(){removed=true}};
+const mail={async sendConfirmation(){throw new Error('provider unavailable')}};
+const body={email:'test@example.com',lang:'en',sections:['world'],consent:true};
+await assert.rejects(()=>requestSubscription(body,{store,mail,origin:'https://mypaper.news'}));assert.equal(removed,true);
+removed=false;const handler=makeHandler({store,mail,verifyChallenge:async t=>t==='valid'});const response=await handler(new Request('https://worker.example/subscribe',{method:'POST',headers:{origin:'https://mypaper.news'},body:JSON.stringify({...body,challenge:'valid'})}));
+assert.equal(response.status,503);assert.equal(removed,true);assert.equal((await response.json()).ok,false);
+console.log('Confirmation delivery failures are reported and pending request is cleared');

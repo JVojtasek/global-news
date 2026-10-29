@@ -1,0 +1,11 @@
+import assert from 'node:assert/strict';
+import {deliverBatch,pragueDay} from '../src/newsletter-delivery.js';
+assert.equal(pragueDay(new Date('2026-10-28T23:30:00Z')),'2026-10-29');
+const user={id:'u1',email:'a@example.com',lang:'cs',sections:['world']};let calls=[],sent=[];
+const query=async (sql,p)=>{calls.push({sql,p});if(sql.startsWith('SELECT s.id'))return [user];if(sql.startsWith('INSERT'))return [{subscriber_id:'u1'}];return []};
+const mail={async send(v){sent.push(v);return {id:'mail1'}}};
+const rows={cs:[{u:'/cs/item/',t:'Zpráva',dt:'2026-10-29',s:'world'}]};
+const opts={query,mail,articleIndex:rows,unsubscribeSecret:'0123456789abcdef0123456789abcdef',workerOrigin:'https://brief.example',day:'2026-10-29'};
+assert.deepEqual(await deliverBatch(opts),{sent:1,skipped:0,unknown:0});assert.equal(sent[0].key,'briefing/2026-10-29/u1');assert.ok(sent[0].text.includes('/unsubscribe?t='));assert.ok(calls.at(-1).sql.includes("state='sent'"));
+const failed=await deliverBatch({...opts,mail:{async send(){throw Error('timeout')}}});assert.equal(failed.unknown,1);assert.ok(calls.at(-1).sql.includes("state='unknown'"));
+console.log('Delivery: timezone, claim, idempotency and uncertain failures passed');

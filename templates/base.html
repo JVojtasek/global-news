@@ -117,8 +117,28 @@
 <section class="signup" id="newsletter">
   <div class="wrap">
     <h2>{{ nl_headline }}</h2>
-    <p>{{ nl_text }}</p>
-    {% if newsletter.form_action %}
+    {% if newsletter.briefing_api and newsletter.turnstile_site_key %}<p>{{ 'Ranní výběr článků podle rubrik, které si vyberete pro e-mail.' if lang == 'cs' else 'A morning selection based on the sections you choose for email.' }}</p><p>{{ 'Zkušební provoz má nejvýše 100 odběratelů. Přihlašování může být dočasně pozastavené.' if lang == 'cs' else 'The pilot is limited to 100 subscribers. Sign-ups may be temporarily unavailable.' }}</p>{% else %}<p>{{ nl_text }}</p>{% endif %}
+    {% if newsletter.briefing_api and newsletter.turnstile_site_key %}
+    <form id="briefing-email-form" data-api="{{ newsletter.briefing_api }}" data-lang="{{ lang }}"
+          data-success="{{ 'Pokud lze adresu přihlásit, pošleme odkaz k potvrzení.' if lang == 'cs' else 'If the address can be subscribed, we will send a confirmation link.' }}"
+          data-error="{{ 'Přihlášení se nepodařilo nebo je kapacita naplněná. Zkuste to prosím později.' if lang == 'cs' else 'Sign-up failed or the pilot is full. Please try again later.' }}"
+          data-sections-error="{{ 'Vyberte jednu až deset rubrik.' if lang == 'cs' else 'Choose one to ten sections.' }}"
+          data-challenge-error="{{ 'Dokončete prosím ověření formuláře.' if lang == 'cs' else 'Please complete the form verification.' }}">
+      <label>{{ 'E-mailová adresa' if lang == 'cs' else 'Email address' }} <input type="email" name="email" required autocomplete="email" maxlength="254"></label>
+      <fieldset><legend>{{ 'Vyberte rubriky pro e-mail' if lang == 'cs' else 'Choose email sections' }}</legend>
+        {% for section in sections if section.id != 'health' %}
+        <label><input type="checkbox" name="section" value="{{ section.id }}"> {{ section[lang] or section.en }}</label>
+        {% endfor %}
+      </fieldset>
+      <p>{{ 'Výběr pro e-mail je samostatný a nečte nastavení tohoto zařízení.' if lang == 'cs' else 'Email choices are separate and do not read this device’s settings.' }}</p>
+      <label><input type="checkbox" name="consent" required> {{ 'Souhlasím se zasíláním ranního briefingu a se zpracováním adresy pro tento odběr.' if lang == 'cs' else 'I agree to receive the morning briefing and to the use of my address for this subscription.' }}</label>
+      <div class="cf-turnstile" data-sitekey="{{ newsletter.turnstile_site_key }}" data-action="newsletter"></div>
+      <button type="submit">{{ 'Poslat potvrzovací odkaz' if lang == 'cs' else 'Send confirmation link' }}</button>
+      <p role="status" aria-live="polite"></p>
+    </form>
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+    <script src="{{ base }}/briefing-subscribe.js?v={{ asset_version }}" defer></script>
+    {% elif newsletter.form_action %}
     {# Odeslání zůstává na stránce (viz reader.js). Bez JavaScriptu se
        formulář odešle normálně a program odpoví přesměrováním na
        děkovnou stránku — funguje to tak jako tak.
@@ -155,7 +175,7 @@
     </form>
     <p class="soon">{{ t.newsletter_soon }}</p>
     {% endif %}
-    <p class="nl-priv">{{ t.nl_privacy }}</p>
+    <p class="nl-priv">{% if newsletter.briefing_api and newsletter.turnstile_site_key %}{{ 'Odběr lze odhlásit odkazem v každém e-mailu.' if lang == 'cs' else 'You can unsubscribe using the link in every email.' }} <a href="{{ base }}/{{ lang }}/privacy/">{{ t.privacy_link }}</a>{% else %}{{ t.nl_privacy }}{% endif %}</p>
   </div>
 </section>
 {% endif %}

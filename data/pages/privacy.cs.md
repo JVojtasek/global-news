@@ -1,6 +1,6 @@
 # Soukromí srozumitelně
 
-Nastavení čtení zůstává ve vašem zařízení. Veřejný web nemá čtenářské účty ani databázi osobních zájmů. Pokud nám ale sami napíšete e-mail, dostaneme vaši adresu a obsah zprávy.
+Nastavení čtení zůstává ve vašem zařízení. Veřejný web nemá čtenářské účty ani kopii nastavení čtení. Pokud nám ale sami napíšete e-mail, dostaneme vaši adresu a obsah zprávy.
 
 ## Co si pamatuje prohlížeč
 

@@ -1689,3 +1689,7 @@ nav.sections a.nav-brief{color:var(--accent);font-weight:700;letter-spacing:.1em
 .k-span-start{display:block;margin:0 auto}
 .k-note{display:block;margin-top:2.4rem;padding-top:1rem;border-top:1px solid var(--line);
   color:var(--ink-soft);font-size:.86rem}
+#briefing-email-form fieldset{display:flex;flex-wrap:wrap;gap:.5rem 1rem;margin:1rem 0;border:0;padding:0}
+#briefing-email-form fieldset legend{font-weight:700;margin-bottom:.5rem}
+#briefing-email-form fieldset label{display:inline-flex;align-items:center;gap:.35rem}
+#briefing-email-form [role=status]{min-height:1.4em}

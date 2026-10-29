@@ -1,0 +1,17 @@
+import assert from 'node:assert/strict';
+import {neonStore,neonQuery,unsubscribeToken} from '../src/neon-store.js';
+import {digest} from '../src/newsletter-core.js';
+const secret='0123456789abcdef0123456789abcdef';
+const a=await unsubscribeToken(secret,'a@example.com');
+assert.match(a,/^[a-f0-9]{64}$/);assert.notEqual(a,await unsubscribeToken(secret,'b@example.com'));
+assert.throws(()=>neonQuery('https://example.com'));
+let commands=[];
+const query=async (sql, params)=>{ commands.push({sql,params});if(sql.startsWith('SELECT email'))return [{email:'a@example.com'}];if(sql.startsWith('SELECT briefing.confirm_pending'))return [{status:'confirmed'}];return [{id:'one'}]; };
+const store=neonStore(query,secret);
+assert.equal((await store.registerPending({email:'a@example.com',lang:'cs',sections:['world'],tokenHash:'f'.repeat(64),now:0,expiresAt:1000})).accepted,true);
+assert.equal(await store.consumeConfirmation('f'.repeat(64),500),true);
+assert.equal(commands[2].params[2],await digest(a));
+assert.ok(commands[2].sql.includes('briefing.confirm_pending'));
+assert.ok(!commands[2].sql.includes('a@example.com'));
+assert.equal(await store.unsubscribeByHash(await digest(a)),true);
+console.log('Neon adapter: parameter binding and confirmation checks passed');

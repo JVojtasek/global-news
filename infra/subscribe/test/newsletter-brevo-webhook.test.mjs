@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import {makeHandler} from '../src/newsletter-worker.js';
+const secret='s'.repeat(48),calls=[];
+const handler=makeHandler({webhookSecret:secret,query:async(sql,p)=>{calls.push({sql,p});return []}});
+const event={event:'unsubscribed',email:'reader@example.com',tag:'["mypaper-briefing"]',ts_event:1793309000};
+const req=auth=>new Request('https://worker.example/brevo-events',{method:'POST',headers:{'Content-Type':'application/json',Authorization:auth},body:JSON.stringify(event)});
+assert.equal((await handler(req('Bearer wrong'))).status,403);
+assert.equal(calls.length,0);
+assert.equal((await handler(req('Bearer '+secret))).status,204);
+assert.equal(calls.length,1);
+assert.equal(calls[0].p[0],'reader@example.com');
+assert.equal((await handler(new Request('https://worker.example/brevo-events',{method:'POST',headers:{Authorization:'Bearer '+secret},body:'not-json'}))).status,400);
+console.log('Brevo webhook: authentication, suppression and invalid payload passed');

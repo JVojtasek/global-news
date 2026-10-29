@@ -1,7 +1,7 @@
 # Privacy — the short version
 
 Your reading preferences stay on your device. The public site has no reader
-accounts or database of personal interests. If you choose to email us, however,
+accounts or a copy of your reading settings. If you choose to email us, however,
 we receive your address and the contents of that message.
 
 ## What is remembered, and where
@@ -18,10 +18,10 @@ localStorage:
 - **the place you chose for the weather**
 - **whether you prefer the light or the dark version of the page**
 
-None of it is sent to us, because there is nowhere to send it: this is a static
+None of these reading settings is sent to us: the public site is a static
 site, a folder of files. Your personal page is assembled by your own browser from
 a list of articles identical for every reader, so ranking it tells us nothing
-about you. No login, no profile on our side, nothing for us to look at.
+about you. No login or copy of those reading settings is kept on our side.
 
 That matters most for the health interests. What you tick there is among the most
 sensitive things a person can say about themselves, and our answer is

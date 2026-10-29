@@ -1727,6 +1727,30 @@ def _e404_html(t: dict, nav: list, lang: str) -> str:
 
 def _privacy_note(text: str, site: dict, t: dict) -> str:
     """Dopíše do stránky o soukromí odstavec o měření — jen když běží."""
+    newsletter = site.get("newsletter") or {}
+    if newsletter.get("briefing_api") and newsletter.get("turnstile_site_key"):
+        if "## Zeptejte se nás na cokoli" in text:
+            note = ("## Ranní briefing e-mailem\n\n"
+                    "Pokud se přihlásíte k e-mailovému briefingu, uložíme vaši adresu, jazyk, "
+                    "rubriky vybrané pro e-mail a stav potvrzení a odhlášení. Výběr pro e-mail "
+                    "je oddělený od nastavení čtení v zařízení; zdravotní zájmy neshromažďujeme. "
+                    "Databázi provozuje Neon, zprávy odesílá Brevo a formulář před zneužitím "
+                    "chrání Cloudflare Turnstile. Odběr potvrdíte odkazem a můžete jej odhlásit "
+                    "odkazem v každém e-mailu. Brevo zaznamenává doručení, otevření a kliknutí "
+                    "na odkazy; informace o odhlášení a nedoručení předává naší službě. "
+                    "S dotazy k údajům pište na hello@mypaper.news.")
+            text = text.replace("## Zeptejte se nás na cokoli", note + "\n\n## Zeptejte se nás na cokoli", 1)
+        elif "## Ask us anything" in text:
+            note = ("## Morning briefing by email\n\n"
+                    "If you subscribe, we store your email address, language, sections chosen for "
+                    "email, and confirmation and unsubscribe status. Email choices are separate "
+                    "from your device's reading settings; we do not collect health interests. "
+                    "Neon hosts the database, Brevo sends the messages, and Cloudflare Turnstile "
+                    "protects the form. Confirm via the link and unsubscribe using the link in "
+                    "each email. Brevo records delivery, opens and link clicks, and shares "
+                    "unsubscribe and delivery-failure events with our service. For questions "
+                    "about your data, write to hello@mypaper.news.")
+            text = text.replace("## Ask us anything", note + "\n\n## Ask us anything", 1)
     cfg = site.get("analytics") or {}
     which = ("cloudflare" if cfg.get("cloudflare_token")
              else "plausible" if cfg.get("plausible_domain") else "")
@@ -2041,7 +2065,7 @@ def _write(path, text: str) -> None:
 def _asset_version() -> str:
     """Short content hash used to invalidate cached CSS and JavaScript."""
     digest = hashlib.sha256()
-    for name in ("style.css", "radar.css", "reader.js", "live.js", "quiz.js", "know.js"):
+    for name in ("style.css", "radar.css", "reader.js", "live.js", "quiz.js", "know.js", "briefing-subscribe.js"):
         path = config.STATIC / name
         digest.update(name.encode("utf-8"))
         digest.update(path.read_bytes())

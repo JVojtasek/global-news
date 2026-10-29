@@ -1,0 +1,11 @@
+import assert from 'node:assert/strict';
+import {processBrevoEvent} from '../src/brevo-events.js';
+let calls=[];const query=async(sql,params)=>{calls.push({sql,params});return []};
+assert.deepEqual(await processBrevoEvent({event:'unsubscribed',email:' Reader@Example.com ',ts_event:1793309000,tag:'["mypaper-briefing"]'},query),{suppressed:true});
+assert.deepEqual(calls[0].params,['reader@example.com',1793309000]);
+assert.match(calls[0].sql,/confirmed_at <= to_timestamp/);
+assert.deepEqual(await processBrevoEvent({event:'delivered'},query),{ignored:true});
+assert.deepEqual(await processBrevoEvent({event:'spam',email:'reader@example.com',ts_event:123,tags:['other']},query),{ignored:true});
+await assert.rejects(()=>processBrevoEvent({event:'spam',email:'not-valid',ts_event:123,tags:['mypaper-briefing']},query));
+assert.equal(calls.length,1);
+console.log('Brevo suppression events: validation and consent ordering passed');

@@ -1,0 +1,15 @@
+import assert from 'node:assert/strict';
+import {brevoDelivery} from '../src/brevo-delivery.js';
+let sent;
+const mail=brevoDelivery({apiKey:'test',fetcher:async(url,init)=>{sent={url,init};return Response.json({messageId:'example-id'},{status:201});}});
+const link='https://worker.example/unsubscribe?t=abc&lang=cs';
+assert.deepEqual(await mail.send({email:'reader@example.invalid',lang:'cs',text:'<Title>\n'+link,unsubscribeUrl:link}),{id:'example-id'});
+const body=JSON.parse(sent.init.body);
+assert.equal(sent.url,'https://api.brevo.com/v3/smtp/email');
+assert.match(body.htmlContent,/&lt;Title&gt;/);
+assert.match(body.htmlContent,/href="https:\/\/worker.example\/unsubscribe\?t=abc&amp;lang=cs"/);
+assert.equal(body.sender.email,'briefing@mail.mypaper.news');
+await assert.rejects(()=>mail.send({email:'reader@example.invalid',lang:'cs',text:'hello',unsubscribeUrl:link}));
+const failure=brevoDelivery({apiKey:'test',fetcher:async()=>new Response('',{status:429})});
+await assert.rejects(()=>failure.send({email:'reader@example.invalid',lang:'cs',text:link,unsubscribeUrl:link}));
+console.log('Brevo delivery adapter: HTML escaping, unsubscribe and failures passed');

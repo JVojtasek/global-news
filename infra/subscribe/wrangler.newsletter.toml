@@ -1,0 +1,20 @@
+# Separate draft worker; do not deploy without completing the launch gates.
+name = "mypaper-briefing-subscribe"
+main = "src/newsletter-worker.js"
+compatibility_date = "2026-10-29"
+preview_urls = false
+keep_vars = true
+[observability]
+enabled = true
+[observability.logs]
+enabled = true
+invocation_logs = true
+persist = true
+head_sampling_rate = 1
+[vars]
+ENABLE_DELIVERY = "false"
+MAIL_PROVIDER = "brevo"
+PUBLIC_WORKER_URL = "https://mypaper-briefing-subscribe.jarda-vojtasek.workers.dev"
+# Draft only: schedule is present, but delivery stays disabled until verified.
+[triggers]
+crons = ["*/5 * * * *"]
