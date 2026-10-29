@@ -1,7 +1,9 @@
 # Reading metrics — draft, not deployed
 
 This is an isolated prototype. It is not linked from the public site and the
-client endpoint is deliberately blank. `wrangler.toml` has a placeholder D1 id.
+client endpoint is deliberately blank. A separate D1 database and collector
+have been created for My Paper; only the schema is present. Collector integration
+tests were removed from the database, and the public site does not use it.
 
 The collector accepts only the two reviewed article paths in `reviewedPaths`;
 do not remove this restriction based solely on `g` health tags. Article tags

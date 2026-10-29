@@ -33,10 +33,20 @@ export async function handle(request, env, fetcher = fetch) {
     return new Response(null,{status:400,headers});
   const day = new Date().toISOString().slice(0,10);
   await env.DB.prepare(`INSERT INTO daily_metrics (day,path,clicks,reading_samples,reading_seconds)
-    VALUES (?1,?2,?3,?4,?5) ON CONFLICT(day,path) DO UPDATE SET
+    SELECT ?1,?2,?3,?4,?5 WHERE
+    COALESCE((SELECT SUM(clicks + reading_samples) FROM daily_metrics WHERE day=?1),0) < 5000
+    ON CONFLICT(day,path) DO UPDATE SET
     clicks=clicks+excluded.clicks, reading_samples=reading_samples+excluded.reading_samples,
     reading_seconds=reading_seconds+excluded.reading_seconds`)
     .bind(day,data.path,data.kind === 'click' ? 1 : 0,data.kind === 'reading' ? 1 : 0,data.seconds).run();
   return new Response(null,{status:204,headers});
 }
-export default { fetch: handle };
+export default {
+  async fetch(request, env) {
+    try { return await handle(request, env); }
+    catch { return new Response(null, {status:500}); }
+  },
+  async scheduled(event, env) {
+    await env.DB.prepare("DELETE FROM daily_metrics WHERE day < date('now','-90 days')").run();
+  }
+};

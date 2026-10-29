@@ -9,8 +9,9 @@ enabled = false
 enabled = false
 invocation_logs = false
 persist = false
-# Provision a separate D1 database and set the resulting id before deployment.
+[triggers]
+crons = ["0 3 * * *"]
 [[d1_databases]]
 binding = "DB"
 database_name = "mypaper-reading-metrics"
-database_id = "REPLACE_BEFORE_DEPLOY"
+database_id = "5a8cae6c-d657-4a62-b852-ab9bad83abce"

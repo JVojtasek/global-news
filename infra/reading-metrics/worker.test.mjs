@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import {handle, validArticle} from './worker.mjs';
+import worker, {handle, validArticle} from './worker.mjs';
 
 const article = {u:'/cs/tech/a-backup-is-only-a-promise/',s:'tech',g:'security'};
 const health = {u:'/cs/science/sensitive-topic/',s:'science',g:'h_heart'};
@@ -28,4 +28,11 @@ test('rejects health tags, unknown articles, private fields and invalid duration
 test('rejects requests from other origins',async()=>{
   const r=await handle(new Request('https://metrics.example/',{method:'POST',headers:{origin:'https://other.example'}}),env,fetcher);
   assert.equal(r.status,403);
+});
+test('Cloudflare execution context is not mistaken for a fetch function',async()=>{
+  writes=[]; const previous=globalThis.fetch; globalThis.fetch=fetcher;
+  try {
+    const r=await worker.fetch(req({kind:'click',path:article.u,seconds:0}),env,{waitUntil(){}});
+    assert.equal(r.status,204); assert.equal(writes.length,1);
+  } finally { globalThis.fetch=previous; }
 });
