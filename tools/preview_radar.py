@@ -30,7 +30,8 @@ def context(lang: str) -> dict:
         current_section=None, asset_version=build._asset_version(), seo=site.get("seo", {}),
         newsletter=site.get("newsletter", {}), wider_lens=site.get("wider_lens", {}),
         interest_groups=interests.catalogue(), partners=[], mem=members.cfg(),
-        analytics=site.get("analytics") or {}, brand_email=site["brand"]["email"],
+        # Local previews must not contaminate the live site's analytics.
+        analytics={}, brand_email=site["brand"]["email"],
         today_label=build._date_label(lang), og_locale=build.LOCALES[lang],
         og_locales=build.LOCALES, share_image=build._share_image({}, site),
         canonical="", alt_path="", page_type="page", page_jsonld="", noindex=False,
