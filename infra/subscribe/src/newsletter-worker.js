@@ -38,6 +38,8 @@ async function sameSecret(a,b) {
 export function makeHandler({store,mail,verifyChallenge,webhookSecret,query}) {
  return async request => {
   const url=new URL(request.url), method=request.method;
+  // Support the initial published form until its corrected URL reaches caches.
+  if(url.pathname==='/' && (method==='POST'||method==='OPTIONS')) url.pathname='/subscribe';
   if(url.pathname==='/brevo-events' && method==='POST') {
    const auth=request.headers.get('authorization')||'';
    if(!webhookSecret || webhookSecret.length<32 || !await sameSecret(auth,'Bearer '+webhookSecret) || !query) return new Response('Forbidden',{status:403,headers});
@@ -56,7 +58,7 @@ export function makeHandler({store,mail,verifyChallenge,webhookSecret,query}) {
     const {challenge,...subscription}=input;
     await requestSubscription(subscription,{store,mail,origin});
     return new Response(JSON.stringify({ok:true}),{headers:{...headers,'Access-Control-Allow-Origin':origin,'Vary':'Origin','Content-Type':'application/json'}});
-   } catch (err) {return new Response(JSON.stringify({ok:false}),{status:(err instanceof SyntaxError || err.message==='invalid')?400:503,headers:{...headers,'Access-Control-Allow-Origin':origin,'Vary':'Origin','Content-Type':'application/json'}});}
+   } catch (err) {const safeErrors=['invalid','capacity','daily sending budget exhausted','Database request failed','delivery failed','confirmation delivery failed','invalid configuration']; console.error('newsletter-subscribe-failed',safeErrors.includes(err.message)?err.message:'other');return new Response(JSON.stringify({ok:false}),{status:(err instanceof SyntaxError || err.message==='invalid')?400:503,headers:{...headers,'Access-Control-Allow-Origin':origin,'Vary':'Origin','Content-Type':'application/json'}});}
   }
   if (url.pathname==='/subscribe' && method==='OPTIONS') {
    if(request.headers.get('origin')!=='https://mypaper.news') return new Response(null,{status:403,headers});

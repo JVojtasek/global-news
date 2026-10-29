@@ -341,7 +341,7 @@ seo:
 
 newsletter:
   enabled: true
-  briefing_api: "https://mypaper-briefing-subscribe.jarda-vojtasek.workers.dev"
+  briefing_api: "https://mypaper-briefing-subscribe.jarda-vojtasek.workers.dev/subscribe"
   turnstile_site_key: "0x4AAAAAAFroKcGJ8rI2LTyB"
   # Sem patří adresa formuláře od tvé e-mailové služby (MailerLite, Buttondown,
   # Mailchimp, Listmonk…). Dokud je prázdná, ukáže se jen text „připravujeme“.

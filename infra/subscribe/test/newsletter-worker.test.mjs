@@ -8,6 +8,8 @@ const subscribe=()=>new Request('https://worker.example/subscribe',{method:'POST
 const blocked=makeHandler({store,mail,verifyChallenge:async()=>false});
 assert.equal((await blocked(subscribe())).status,403);assert.equal(pending,undefined);
 assert.equal((await handler(subscribe())).status,200);
+const rootSubscribe=new Request('https://worker.example/',{method:'OPTIONS',headers:{origin:'https://mypaper.news'}});
+assert.equal((await handler(rootSubscribe)).status,204);
 let response=await handler(new Request('https://worker.example/confirm?t='+token));assert.equal(response.status,200);assert.equal(confirmed,0);
 let fields=new URLSearchParams({token});response=await handler(new Request('https://worker.example/confirm',{method:'POST',body:fields}));assert.equal(response.status,200);assert.equal(confirmed,1);
 response=await handler(new Request('https://worker.example/unsubscribe?t='+token));assert.equal(response.status,200);assert.equal(unsubscribed,0);

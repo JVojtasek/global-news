@@ -126,7 +126,7 @@
           data-challenge-error="{{ 'Dokončete prosím ověření formuláře.' if lang == 'cs' else 'Please complete the form verification.' }}">
       <label>{{ 'E-mailová adresa' if lang == 'cs' else 'Email address' }} <input type="email" name="email" required autocomplete="email" maxlength="254"></label>
       <fieldset><legend>{{ 'Vyberte rubriky pro e-mail' if lang == 'cs' else 'Choose email sections' }}</legend>
-        {% for section in sections if section.id != 'health' %}
+        {% for section in sections if section.id != 'health' and '/' not in section.id %}
         <label><input type="checkbox" name="section" value="{{ section.id }}"> {{ section[lang] or section.en }}</label>
         {% endfor %}
       </fieldset>
