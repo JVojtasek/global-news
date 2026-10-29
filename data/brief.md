@@ -38,32 +38,7 @@
     <https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain?traffic_source=rss>
     > Crash occurred near Urda in Toledo province, south of Madrid, on high-speed line connecting the capital with Seville.
 
-### 2. Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces
-- id události: `7a695e6a87c7`  ·  rubrika: `world`  ·  skóre: 82  ·  nezávislých zdrojů: 6
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **The Guardian World** — Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces
-    <https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula>
-    > Leftist president Luiz Inácio Lula da Silva defeated far-right senator Flávio Bolsonaro and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local elector
-  - **NPR News** — Brazil's left-wing President Lula elected for fourth term
-    <https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election>
-    > Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.
-  - **The Guardian World** — Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro
-    <https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election>
-    > Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, has staged a dramatic election fightback , defeating h
-  - **CNBC Top** — Brazil's Lula wins presidential election in runoff vote
-    <https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html>
-    > Brazil's Lula wins record fourth term in presidential runoff with markets falling and real set to weaken.
-  - **France 24** — Brazil's President Lula da Silva beats Flavio Bolsonaro to win re-election
-    <https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election>
-    > Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Flavio Bolsonaro on Sunday. The leftist leader won 51.7 percent of the vote, compared to 48.2 percent for the son of former president Jair Bolsonaro, official resu
-  - **Al Jazeera** — Lula holds off far right with victory in Brazil presidential election
-    <https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss>
-    > Leftist president mounts stunning comeback after unexpected first round loss galvanised supporters of Flavio Bolsonaro.
-  - **Investing.com** — Five economic challenges facing Brazil’s re-elected President Lula
-    <https://www.investing.com/news/economy-news/five-economic-challenges-facing-brazils-reelected-president-lula-4971326>
-
-### 3. Genie 4: A new generation of world simulation
+### 2. Genie 4: A new generation of world simulation
 - id události: `d17d13a0006a`  ·  rubrika: `ai`  ·  skóre: 80  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -88,7 +63,7 @@
     <https://www.theverge.com/tech/1019076/google-genie-4-ai-model>
     > Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, 
 
-### 4. London City's Putellas wins record-equalling third Ballon d'Or
+### 3. London City's Putellas wins record-equalling third Ballon d'Or
 - id události: `291d02b3b2d2`  ·  rubrika: `sport`  ·  skóre: 77  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -111,6 +86,29 @@
     <https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor>
     > Alexia Putellas picks up women’s award for third time England captain acclaimed in London ceremony Harry Kane is the Ballon d’Or winner for 2026, the first Englishman to win football’s most prestigious individual trophy in 25 years. Two hours into a lavishly excitable ceremony at
 
+### 4. Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
+- id události: `bcc76393f0bd`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Guardian World** — Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
+    <https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats>
+    > Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Israel’s election was too close to call on Tuesday night after a historic turnout by voters for an election described by some as the most
+  - **DW News** — Israel election: Anti-Netanyahu bloc ahead, but no majority
+    <https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-rdf>
+    > While Netanyahu's party is projected to be the biggest in parliament, the anti-Netanyahu coalition looks set to have more seats. But no bloc has a clear majority.
+  - **CNBC Top** — No clear winner in Israeli election, exit polls suggest, as Netanyahu’s fate hangs in the balance
+    <https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html>
+    > Israel's election ended Tuesday with no clear winner, exit polls indicate, likely setting off weeks of jockeying before a leader is declared.
+  - **Al Jazeera** — Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp
+    <https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss>
+    > High turnout in vote widely described as the most consequential in Israel's history.
+  - **France 24** — Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'
+    <https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy>
+    > Erin Ogunkeye is pleased to welcome Ron Gerlitz, CEO of aChord Center at Hebrew University, an Israeli organization specialising in the social psychology of intergroup relations. “The main issue in this election is the fight for Israeli democracy,” explains Gerlitz. And beneath t
+  - **Al Jazeera** — Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters
+    <https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss>
+    > In one social media post, PM Netanyahu accused Arab voters of 'raiding the polling stations and stealing the elections'.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -118,8 +116,8 @@
 ### why relationships fail
 - rubrika: `relationships`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
   - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
   - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
 
 ---
