@@ -6,6 +6,7 @@ Nepotřebuje server, databázi ani Node.js. Výsledek se dá nahrát kamkoli
 from __future__ import annotations
 
 import datetime as dt
+from functools import lru_cache
 import hashlib
 import html as _html_mod
 import json
@@ -1588,23 +1589,36 @@ def _ticker(site: dict, lang: str, limit: int = 14, preferred_section: str = "")
             "preferred": preferred_section, "limit": limit}
 
 
+_RELATED_STOP = frozenset("about after again against among around because before between could first from have into just more most other over people should some than their there these they those through today under very what when where which while with would your podle který která které kterých jejich jejichž tento tato těchto také jako jsou nebo ještě pouze právě často kteří které byla byly bude může můžeš může být každý která kteří před tímto noviny článku články proč místo další svět jejich když která které".split())
+
+
+@lru_cache(maxsize=16384)
+def _related_words(text: str) -> frozenset[str]:
+    """Unicode words preserve Czech accents; common filler is not evidence."""
+    return frozenset(w for w in re.findall(r"[^\W\d_]+", text.casefold())
+                     if len(w) >= 5 and w not in _RELATED_STOP)
+
+
 def _related(a: dict, pool: list, n: int) -> list:
-    """Vybere související články: nejdřív stejná rubrika, pak společná slova."""
-    import re as _re
-    words = set(_re.findall(r"[a-z]{5,}", (a.get("title", "") + " " + a.get("dek", "")).lower()))
+    """Link only articles with textual evidence of a shared subject."""
+    title = _related_words(a.get("title", "") or "")
+    words = title | _related_words(a.get("dek", "") or "")
+    tags = set(filter(None, (a.get("tags_csv") or "").split(",")))
     scored = []
     for other in pool:
         if other["slug"] == a["slug"]:
             continue
-        w = set(_re.findall(r"[a-z]{5,}", (other.get("title", "") + " " + other.get("dek", "")).lower()))
-        score = len(words & w) * 3
+        other_title = _related_words(other.get("title", "") or "")
+        overlap = words & (other_title | _related_words(other.get("dek", "") or ""))
+        title_overlap = title & other_title
+        if not ((title_overlap and len(overlap) >= 2) or len(overlap) >= 3):
+            continue
+        score = len(overlap) * 3 + len(title_overlap) * 2
+        score += min(3, len(tags & set(filter(None, (other.get("tags_csv") or "").split(",")))))
         if other["section"] == a["section"]:
-            score += 5
-        if other.get("type") in ("daily", "feature", "demand"):
-            score += 2      # hlubší články drží čtenáře déle
-        if score > 0:
-            scored.append((score, other))
-    scored.sort(key=lambda t: (-t[0], t[1]["date"]))
+            score += 2
+        scored.append((score, other))
+    scored.sort(key=lambda t: (t[0], t[1].get("date", ""), t[1]["slug"]), reverse=True)
     return [o for _, o in scored[:n]]
 
 
