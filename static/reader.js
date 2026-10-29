@@ -1538,7 +1538,11 @@
     // hello() bere argument, a ten se sem z časovače nesmí připlést
     /* Briefing má vlastní kompaktní nastavení. Průvodce přes něj nesmí
        na první návštěvě vyskočit a zakrýt dvě hlavní zpravodajská okna. */
-    if (cfg === null && !briefBox) window.setTimeout(function () { hello(); }, WAIT);
+    if (cfg === null && !briefBox) {
+      if (!doc.body.hasAttribute("data-skip-onboarding")) {
+        window.setTimeout(function () { hello(); }, WAIT);
+      }
+    }
   }
 
   // stránka „pro tebe“ si tímhle otevírá nastavení

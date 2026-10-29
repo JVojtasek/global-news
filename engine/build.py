@@ -19,7 +19,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from . import analyst, article, config, countries, images, impact, interests, members, morning, quizzes
 from . import problems, quotes, reader
-from . import weekend
+from . import weekend, radar
 from . import seo as indexnow          # `seo` je uvnitř run() nastavení z site.yml
 
 # Jazyk stránky pro sdílení na sítích. Web píše britskou angličtinou,
@@ -1516,7 +1516,7 @@ def _ticker_time(value, lang: str) -> tuple[str, str]:
         age = "právě teď" if mins < 1 else (f"před {mins} min" if mins < 60 else
               (f"před {mins // 60} h" if mins < 1440 else f"před {mins // 1440} d"))
     else:
-        exact = stamp.strftime("%-d %b · %H:%M")
+        exact = f"{stamp.day} {stamp:%b} · {stamp:%H:%M}"
         age = "just now" if mins < 1 else (f"{mins} min ago" if mins < 60 else
               (f"{mins // 60}h ago" if mins < 1440 else f"{mins // 1440}d ago"))
     return exact, age
@@ -2041,7 +2041,7 @@ def _write(path, text: str) -> None:
 def _asset_version() -> str:
     """Short content hash used to invalidate cached CSS and JavaScript."""
     digest = hashlib.sha256()
-    for name in ("style.css", "reader.js", "live.js", "quiz.js", "know.js"):
+    for name in ("style.css", "radar.css", "reader.js", "live.js", "quiz.js", "know.js"):
         path = config.STATIC / name
         digest.update(name.encode("utf-8"))
         digest.update(path.read_bytes())
@@ -2168,6 +2168,7 @@ def run() -> None:
             asset_version=asset_version,
             seo=site.get("seo", {}), newsletter=site.get("newsletter", {}),
             wider_lens=site.get("wider_lens", {}),
+            radar=radar.load(),
             wit=quotes.wit(),
             interest_groups=interests.catalogue(),
             partners=site.get("partners", []),
@@ -2642,6 +2643,10 @@ def run() -> None:
                    env.get_template("members.html").render(
                        tiers=members.tiers(lang), early=in_early,
                        by_mail=by_mail, **page("members/", "page")))
+
+        # Public radar proposal and dated sample; no checkout or subscription.
+        for radar_path, radar_html in radar.pages(env, common, site).items():
+            _write(out / radar_path, radar_html)
 
         # --- statické stránky ---
         for name in ("about", "start", "privacy", "terms", "thanks"):

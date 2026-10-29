@@ -1,0 +1,109 @@
+enabled: true
+status: pilot_preparation
+sample_date: '2026-10-29'
+# Only a non-binding enquiry is available. No checkout, recurring charge or
+# automatic newsletter subscription is enabled by this configuration.
+contact_email: hello@mypaper.news
+prices_czk:
+  individual: 249
+  team: 1490
+  team_seats: 5
+cs:
+  name: AI radar pro menší firmy
+  description: 'AI a automatizace pro menší firmy: ověřené souvislosti, konkrétní pracovní postupy a otázky před nákupem. Podívejte se na ukázkové vydání.'
+  headline: Co z AI se vyplatí řešit ve vaší firmě?
+  intro: 'Nástrojů přibývá. Času na jejich zkoušení ne. Připravujeme stručný radar pro majitele menších firem a lidi, kteří mají na starosti obchod nebo provoz.'
+  status: 'Připravovaný placený pilot. Ukázka je zdarma.'
+  sample_link: Přečíst ukázkové vydání
+  enquiry_link: Napsat o pilotu
+  email_subject: 'AI radar: nezávazný zájem o pilot'
+  email_body: "Dobrý den,\n\nmám nezávazný zájem o pilot AI radaru.\nZajímá mě: jednotlivec / tým.\nV práci řešíme:\n\nProsím o informace k zahájení a konečné nabídce."
+  email_help: 'Odkaz otevře vaši e-mailovou aplikaci. Zprávu zkontrolujete a odešlete sami. Nejde o objednávku ani přihlášení k pravidelné rozesílce.'
+  email_fallback: 'Bez poštovní aplikace napište na'
+  deliverables_title: Méně oznámení. Více podkladů pro rozhodnutí.
+  deliverables:
+    - title: Co se změnilo
+      text: 'Ověřené změny nástrojů a pracovních postupů. S datem a odkazem na původní dokument, ne jen na cizí titulek.'
+    - title: Co to znamená pro práci
+      text: 'Koho se změna týká, kde může pomoci a co zatím neumíme doložit. Tvrzení dodavatele oddělujeme od vlastního ověření.'
+    - title: Co si ověřit před nákupem
+      text: 'Oprávnění, práce s daty, dostupnost ve vašem tarifu a náklady na kontrolu. Ušetřené hodiny bez měření neslibujeme.'
+  pricing_title: Navržené ceny pilotu
+  individual: Pro jednoho čtenáře
+  individual_detail: 'Stejná oborová edice, připravovaná dvakrát týdně. Součástí má být měsíční vyhodnocení sledovaných témat.'
+  team: Pro malý tým
+  team_detail: 'Stejná oborová edice až pro pět lidí v jedné firmě a stručný podklad na poradu. Nezahrnuje individuální poradenství ani zavádění automatizací.'
+  per_month: Kč měsíčně
+  pricing_note: 'Ceny slouží k ověření zájmu a nejsou nyní závaznou nabídkou k uzavření smlouvy. Před případnou platbou dostanete identifikaci dodavatele, konečnou cenu včetně daňového režimu, termín zahájení a podmínky ukončení. Nyní nic neplatíte.'
+  scope_title: Začínáme úzkým záběrem
+  scope: 'Obchod a poptávky, práce s dokumenty a řízená automatizace kanceláře. Nejprve připravujeme český pilot. Anglická stránka představuje stejný návrh, nikoli druhou spuštěnou službu.'
+  limits: 'Radar není individuální právní, investiční ani bezpečnostní audit. Zákaznická data do něj neposílejte. Na této stránce nezakládáme účet a nepřijímáme platby.'
+  faq_title: Než nám napíšete
+  faq:
+    - question: Je už služba spuštěná?
+      answer: 'Ne. Toto je ukázka a ověření zájmu. Datum prvního placeného vydání ještě není stanovené.'
+    - question: Je ukázka skutečný test nástrojů?
+      answer: 'Je to redakční rozbor aktuálně dostupné dokumentace a navržený test pro firmu. Nepředstíráme provozní měření ani zákaznickou případovou studii.'
+    - question: Co se stane s mou adresou?
+      answer: 'Pokud nám napíšete, použijeme adresu pro odpověď na váš dotaz. Pravidelný odběr vyžaduje samostatné přihlášení. Nastavení zájmů z prohlížeče k e-mailu nepřipojujeme.'
+  sample_title: 'AI u poptávek: nejdřív návrh, potom odeslání'
+  sample_description: 'Ukázka AI radaru: schvalování automatických akcí, firemní data a návrh malého testu při zpracování poptávek.'
+  sample_label: Ukázkové vydání
+  sample_notice: 'Stav dokumentace ověřen 29. října 2026. Jde o úvodní rozbor, nikoli přehled novinek za tento týden. Ukázku nepřepisujeme při každém vydání webu.'
+  back: Zpět na nabídku radaru
+  print: Vytisknout nebo uložit jako PDF
+  source_title: Původní zdroje
+  source_note: 'Dokumentace popisuje možnosti produktů. Nenahrazuje ověření vašeho tarifu, konfigurace a konkrétního pracovního postupu.'
+en:
+  name: AI radar for small businesses
+  description: 'AI and automation for small businesses: sourced explanations, practical workflows and questions to ask before buying. Read the sample issue.'
+  headline: Which AI changes deserve your business’s attention?
+  intro: 'More tools. No extra time to try them. We are preparing a concise radar for small-business owners and people responsible for sales or operations.'
+  status: 'Paid pilot in preparation. The sample is free.'
+  sample_link: Read the sample issue
+  enquiry_link: Ask about the pilot
+  email_subject: 'AI radar: non-binding pilot enquiry'
+  email_body: "Hello,\n\nI am interested in the proposed AI radar pilot.\nMy interest: individual / team.\nOur current work challenge:\n\nPlease send information about the launch and final offer."
+  email_help: 'The link opens your email application. You review and send the message yourself. This is neither an order nor a subscription to recurring emails.'
+  email_fallback: 'Without an email application, write to'
+  deliverables_title: Fewer announcements. Better decision material.
+  deliverables:
+    - title: What changed
+      text: 'Verified changes to tools and workflows, dated and linked to the original document rather than another headline.'
+    - title: What it means at work
+      text: 'Who is affected, where it may help and what remains unproven. Vendor claims are distinguished from our own verification.'
+    - title: What to check before buying
+      text: 'Permissions, data handling, plan availability and review costs. No promises about hours saved without measurement.'
+  pricing_title: Proposed pilot prices
+  individual: For one reader
+  individual_detail: 'A shared industry edition, planned twice a week, with a monthly review of the subjects being followed.'
+  team: For a small team
+  team_detail: 'The same edition for up to five people in one business, with a short meeting brief. Bespoke advice and implementation are not included.'
+  per_month: CZK per month
+  pricing_note: 'These prices test interest and are not currently a binding contractual offer. Before any payment you will receive the supplier’s identity, final price including tax treatment, start date and cancellation terms. There is nothing to pay now.'
+  scope_title: A focused start
+  scope: 'Sales enquiries, document work and controlled office automation. We are preparing a Czech-language pilot first. This English page explains the same proposal; it is not a separately launched service.'
+  limits: 'The radar is not an individual legal, investment or security audit. Do not send customer data. This page creates no account and accepts no payment.'
+  faq_title: Before you write
+  faq:
+    - question: Has the service launched?
+      answer: 'No. This is a sample and an interest test. The first paid issue has no confirmed launch date yet.'
+    - question: Is the sample a hands-on product test?
+      answer: 'It is an editorial review of currently available documentation and a proposed business test. We do not claim operational measurements or a customer case study.'
+    - question: What happens to my email address?
+      answer: 'If you write to us, we use your address to reply to that enquiry. Recurring emails require separate registration. Browser interest settings are never attached to your email.'
+  sample_title: 'AI and sales enquiries: draft first, send later'
+  sample_description: 'An AI radar sample on approval gates, business data and a small proposed test for handling sales enquiries.'
+  sample_label: Sample issue
+  sample_notice: 'Documentation checked on 29 October 2026. This is an introductory analysis, not a roundup of this week’s announcements. Rebuilding the website does not update this issue.'
+  back: Back to the radar offer
+  print: Print or save as PDF
+  source_title: Primary sources
+  source_note: 'Documentation describes product capabilities. It does not verify your plan, configuration or particular workflow.'
+sources:
+  - name: 'Microsoft Learn: Get started with approvals'
+    url: https://learn.microsoft.com/en-us/power-automate/get-started-approvals
+  - name: 'n8n Docs: Human-in-the-loop for tools'
+    url: https://docs.n8n.io/build/integrate-ai/ai-examples/human-in-the-loop-for-tools.md
+  - name: 'OpenAI: Enterprise privacy'
+    url: https://openai.com/enterprise-privacy/

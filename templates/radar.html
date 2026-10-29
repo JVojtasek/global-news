@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}{{ r.sample_title if is_sample else r.name }} — {{ brand }}{% endblock %}
+{% block description %}{{ r.sample_description if is_sample else r.description }}{% endblock %}
+{% block head %}<link rel="stylesheet" href="{{ base }}/radar.css?v={{ asset_version }}">{% endblock %}
+{% block body %}
+<main class="radar-page wide">
+{% if is_sample %}
+  <div class="radar-issue-meta"><a href="{{ base }}/{{ lang }}/ai-radar/">{{ r.back }}</a><span>{{ r.sample_label }} · <time datetime="{{ radar.sample_date }}">{{ radar.sample_date }}</time></span></div>
+  <article class="radar-issue">
+    <header><h1>{{ r.sample_title }}</h1><p class="radar-notice">{{ r.sample_notice }}</p></header>
+    <div class="radar-body">{{ sample_html|safe }}</div>
+    <section class="radar-sources" aria-labelledby="radar-sources-title">
+      <h2 id="radar-sources-title">{{ r.source_title }}</h2>
+      <ul>{% for source in radar.sources %}<li><a href="{{ source.url }}" rel="noopener">{{ source.name }}</a></li>{% endfor %}</ul>
+      <p>{{ r.source_note }}</p>
+    </section>
+    <div class="radar-actions"><a class="radar-button" href="{{ base }}/{{ lang }}/ai-radar/#pilot">{{ r.enquiry_link }}</a><button class="radar-print" type="button" onclick="window.print()">{{ r.print }}</button></div>
+  </article>
+{% else %}
+  <header class="radar-hero">
+    <div>
+      <p class="radar-name">{{ r.name }}</p>
+      <h1>{{ r.headline }}</h1>
+      <p class="radar-intro">{{ r.intro }}</p>
+      <div class="radar-actions"><a class="radar-button" href="{{ base }}/{{ lang }}/ai-radar/sample/">{{ r.sample_link }}</a><a href="#pilot">{{ r.enquiry_link }}</a></div>
+      <p class="radar-status">{{ r.status }}</p>
+    </div>
+    <aside class="radar-preview" aria-label="{{ r.sample_label }}">
+      <span>{{ r.sample_label }}</span>
+      <h2><a href="{{ base }}/{{ lang }}/ai-radar/sample/">{{ r.sample_title }}</a></h2>
+      <p>{{ r.sample_description }}</p>
+      <p><time datetime="{{ radar.sample_date }}">{{ radar.sample_date }}</time></p>
+    </aside>
+  </header>
+  <section class="radar-section" aria-labelledby="radar-value"><h2 id="radar-value">{{ r.deliverables_title }}</h2>
+    <dl class="radar-deliverables">{% for item in r.deliverables %}<div><dt>{{ item.title }}</dt><dd>{{ item.text }}</dd></div>{% endfor %}</dl>
+  </section>
+  <section class="radar-section" aria-labelledby="radar-scope"><h2 id="radar-scope">{{ r.scope_title }}</h2><p>{{ r.scope }}</p></section>
+  <section class="radar-section" aria-labelledby="radar-prices"><h2 id="radar-prices">{{ r.pricing_title }}</h2>
+    <div class="radar-pricing">
+      <div><h3>{{ r.individual }}</h3><p class="radar-price">{{ radar.prices_czk.individual }} <span>{{ r.per_month }}</span></p><p>{{ r.individual_detail }}</p></div>
+      <div><h3>{{ r.team }}</h3><p class="radar-price">{{ '{:,}'.format(radar.prices_czk.team).replace(',', ' ') }} <span>{{ r.per_month }}</span></p><p>{{ r.team_detail }}</p></div>
+    </div><p class="radar-note">{{ r.pricing_note }}</p>
+  </section>
+  <section class="radar-section radar-contact" id="pilot" aria-labelledby="radar-contact"><h2 id="radar-contact">{{ r.enquiry_link }}</h2>
+    <a class="radar-button" href="{{ radar_email_url }}">{{ r.enquiry_link }}</a>
+    <p>{{ r.email_help }}</p><p>{{ r.email_fallback }} <a href="mailto:{{ radar.contact_email }}">{{ radar.contact_email }}</a>.</p>
+  </section>
+  <section class="radar-section"><h2>{{ r.faq_title }}</h2>{% for item in r.faq %}<details class="radar-faq"><summary>{{ item.question }}</summary><p>{{ item.answer }}</p></details>{% endfor %}<p class="radar-note">{{ r.limits }}</p></section>
+{% endif %}
+</main>
+{% endblock %}

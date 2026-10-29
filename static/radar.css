@@ -1,0 +1,21 @@
+/* AI radar: the paper's typography, with a blue working-desk accent. */
+.radar-page{--radar-blue:#254c68;padding-top:2.5rem;padding-bottom:4rem}
+.radar-page h1{font-size:clamp(2.15rem,4.5vw,3.5rem);line-height:1.12;letter-spacing:-.025em;margin:.6rem 0 1.2rem}
+.radar-page h2{font-size:1.65rem;line-height:1.25;margin:0 0 1rem}.radar-page h3{font-size:1.2rem;margin:0 0 .7rem}.radar-page p,.radar-page dd{max-width:68ch}
+.radar-hero{display:grid;grid-template-columns:minmax(0,1.65fr) minmax(14rem,1fr);gap:3rem;align-items:center}
+.radar-name,.radar-status,.radar-note,.radar-issue-meta,.radar-preview>span{font:.85rem/1.6 ui-sans-serif,system-ui,sans-serif;color:var(--ink-soft)}
+.radar-name{margin:0}.radar-intro{font-size:1.15rem}.radar-status{margin-top:1.1rem}
+.radar-preview{border-left:.3rem solid var(--radar-blue);background:var(--bg-soft);padding:1.5rem}.radar-preview h2{margin-top:.8rem;font-size:1.55rem}.radar-preview h2 a{text-decoration:none}.radar-preview p{font-size:.94rem}.radar-preview p:last-child{margin-bottom:0;color:var(--ink-soft)}
+.radar-actions{display:flex;align-items:center;flex-wrap:wrap;gap:1rem;margin:1.6rem 0}
+.radar-button{display:inline-block;background:var(--radar-blue);color:#fff;padding:.75rem 1.1rem;text-decoration:none;font:600 .95rem/1.4 ui-sans-serif,system-ui,sans-serif;border-radius:.2rem}
+.radar-page a:focus-visible,.radar-page button:focus-visible,.radar-page summary:focus-visible{outline:3px solid var(--radar-blue);outline-offset:4px}
+.radar-section{border-top:1px solid var(--line);padding-top:1.8rem;margin-top:2.5rem}.radar-deliverables{margin:0}.radar-deliverables>div{display:grid;grid-template-columns:13rem 1fr;gap:1.8rem;padding:.9rem 0;border-bottom:1px solid var(--line)}.radar-deliverables dt{font-weight:700}.radar-deliverables dd{margin:0}
+.radar-pricing{display:grid;grid-template-columns:1fr 1fr;gap:2.5rem}.radar-pricing>div{padding:1rem 0}.radar-price{font-size:2rem;font-weight:700;margin:.5rem 0}.radar-price span{font:.85rem ui-sans-serif,system-ui,sans-serif;color:var(--ink-soft)}
+.radar-contact{scroll-margin-top:2rem}.radar-contact>p{font-size:.95rem}.radar-note{margin-top:1.5rem}.radar-faq{padding:1rem 0;border-bottom:1px solid var(--line)}.radar-faq summary{cursor:pointer;font-weight:700}.radar-faq p{margin-bottom:0}
+.radar-issue{max-width:46rem;margin:auto}.radar-issue-meta{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin-bottom:2rem}.radar-issue h1{font-size:clamp(2rem,4vw,3rem)}.radar-notice{border-left:3px solid var(--radar-blue);padding:.6rem 1rem;background:var(--bg-soft);font-size:.95rem}.radar-body h2{margin-top:2.2rem}.radar-body p{margin:.9rem 0}.radar-body a,.radar-sources a{overflow-wrap:anywhere}
+.radar-sources{border-top:1px solid var(--line);padding-top:1.5rem;margin-top:2rem;font-size:.9rem}.radar-sources h2{font-size:1.3rem}.radar-print{background:transparent;border:1px solid var(--line);color:var(--ink);padding:.7rem 1rem;cursor:pointer;font:inherit}
+.radar-home{padding:1.4rem 0;border-bottom:1px solid var(--line)}.radar-home .wide{display:flex;gap:1rem;align-items:baseline;justify-content:space-between}.radar-home p{margin:0}.radar-home a{font-weight:700}
+html[data-theme="dark"] .radar-page{--radar-blue:#8bc5e8}html[data-theme="dark"] .radar-button{color:#14232e}
+@media(prefers-color-scheme:dark){html[data-theme="auto"] .radar-page{--radar-blue:#8bc5e8}html[data-theme="auto"] .radar-button{color:#14232e}}
+@media(max-width:700px){.radar-page{padding-top:1.5rem}.radar-hero,.radar-pricing{grid-template-columns:1fr;gap:1.2rem}.radar-deliverables>div{grid-template-columns:1fr;gap:.4rem}.radar-home .wide{display:block}.radar-home p{margin-top:.4rem}.radar-issue-meta{font-size:.8rem}}
+@media print{header.site,footer.site,.signup,#reader-panel,.radar-issue-meta,.radar-actions,.radar-contact,.radar-print{display:none!important}.radar-page,.radar-issue{max-width:none;color:#000;background:#fff;padding:0}.radar-hero{display:block}.radar-preview{background:none}.radar-page h1{font-size:26pt}.radar-page h2{break-after:avoid;font-size:17pt}.radar-page p,.radar-page li{orphans:3;widows:3}.radar-notice{background:none}.radar-page a{color:#000}.radar-sources a::after{content:' (' attr(href) ')';font-size:8pt}}

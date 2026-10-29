@@ -6,6 +6,10 @@
 {% block description %}{{ t.home_desc }}{% endblock %}
 {% block body %}
 
+{% if radar is defined and radar.enabled %}
+<aside class="radar-home"><div class="wide"><a href="{{ base }}/{{ lang }}/ai-radar/">{{ radar[lang].name }}</a><p>{{ radar[lang].status }} <a href="{{ base }}/{{ lang }}/ai-radar/sample/">{{ radar[lang].sample_link }}</a></p></div></aside>
+{% endif %}
+
 {# Myšlenka dne stojí nad novinami, ne pod nimi: tenká linka, malá
    kapitálka, kurzíva. Žádná karta a žádná plocha barvy — plakát z toho
    být nemá. Na úzkém displeji se to zalomí pod sebe. #}

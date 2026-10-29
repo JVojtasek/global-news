@@ -1,8 +1,8 @@
 # Privacy — the short version
 
-We do not have your data. That is not a slogan but a consequence of how the site
-is built: no server that could receive anything, no database that could hold it,
-no account for you to log into.
+Your reading preferences stay on your device. The public site has no reader
+accounts or database of personal interests. If you choose to email us, however,
+we receive your address and the contents of that message.
 
 ## What is remembered, and where
 
@@ -74,9 +74,18 @@ and everything is measured against a fixed set of editorial rules before it
 appears. Sensitive categories never publish without a human first. More on the
 [about page](../about/).
 
+## Enquiries about the AI radar
+
+The pilot enquiry link opens your email application. Nothing is sent until you
+send the message yourself. We use the message and your email address to answer
+your enquiry; this is not registration for recurring newsletters. Do not send
+customer documents or sensitive personal data. Browser interests, including
+health interests, are never attached to the enquiry. To ask about deletion of
+correspondence, write to hello@mypaper.news.
+
 ## Ask us anything
 
 hello@mypaper.news
 
-That includes "what do you have on me". The answer is nothing, and we will gladly
-explain why.
+That includes questions about correspondence you have sent us. We hold no copy
+of your browser reading preferences.
