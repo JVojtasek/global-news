@@ -1,0 +1,16 @@
+name = "mypaper-reading-metrics"
+main = "worker.mjs"
+compatibility_date = "2026-10-01"
+workers_dev = true
+preview_urls = false
+[observability]
+enabled = false
+[observability.logs]
+enabled = false
+invocation_logs = false
+persist = false
+# Provision a separate D1 database and set the resulting id before deployment.
+[[d1_databases]]
+binding = "DB"
+database_name = "mypaper-reading-metrics"
+database_id = "REPLACE_BEFORE_DEPLOY"
