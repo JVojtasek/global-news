@@ -13,6 +13,10 @@ date: '2026-09-09'
 status: published
 confidence: 0
 image_query: 'data center server racks'
+impact:
+  areas: [money]
+  line: "Day to day, nothing changes for most readers. It matters most in regions where data centers compete with other users for grid capacity, and for firms building their power and cooling."
+  todo: "For any announced data center project, check whether it has a signed customer, allocated power, permits and clear financing, or is only a plan."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-datacentra-uz-nejsou-jen-o-cipech-rozhoduje-elektrina-pov-analyza-361424

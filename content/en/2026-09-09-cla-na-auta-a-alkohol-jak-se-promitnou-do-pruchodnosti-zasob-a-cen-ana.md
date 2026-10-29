@@ -13,6 +13,10 @@ date: '2026-09-09'
 status: published
 confidence: 0
 image_query: 'new cars dealership lot'
+impact:
+  areas: [money]
+  line: "It mainly concerns buyers of cars and alcohol in Canada and the US. If tariffs move from political dispute into prices, a car, a bottle of whisky and a lease payment may all cost more."
+  todo: "Watch whether dealer inventories and discounts rise at the same time, and whether the tariffs show up in inflation data, not just in headlines."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/cla-na-auta-a-alkohol-jak-se-promitnou-do-pruchodnosti-zasob-analyza-361401

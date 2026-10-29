@@ -12,6 +12,10 @@ date: '2026-09-09'
 status: published
 confidence: 0
 image_query: 'Cla na auta a alkohol:'
+impact:
+  areas: [money]
+  line: "Týká se to hlavně kupců aut a alkoholu v Kanadě a USA. Pokud se cla z politického sporu propíšou do cen, může zdražit auto, lahev whisky i leasingová splátka."
+  todo: "Sledujte, zda u prodejců aut zároveň rostou zásoby a slevy, a zda se clo objeví v inflačních datech, ne jen v titulcích."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/cla-na-auta-a-alkohol-jak-se-promitnou-do-pruchodnosti-zasob-analyza-361401

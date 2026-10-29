@@ -14,6 +14,10 @@ date: '2026-09-09'
 status: published
 confidence: 0
 image_query: 'restaurant card payment terminal'
+impact:
+  areas: [money]
+  line: "Day to day, nothing changes for most readers. It mainly concerns restaurants that pay Toast for software and for every card payment, and people who follow payment company shares."
+  todo: "In Toast's results, check which definition of growth and margin the company uses for the ‘Rule of 60’ and how payment volume (GPV) and take rate are moving."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/toast-sedi-rust-a-marze-na-rule-of-60-nebo-jde-jen-o-vyprode-analyza-361427

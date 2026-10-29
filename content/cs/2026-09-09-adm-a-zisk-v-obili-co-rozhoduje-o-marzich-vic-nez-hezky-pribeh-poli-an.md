@@ -13,6 +13,10 @@ date: '2026-09-09'
 status: published
 confidence: 0
 image_query: 'ADM a zisk v obilí:'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění. Pokud ale zásoby obilí zůstanou nízké, může se to přes celý potravinový řetězec časem projevit v cenách pečiva, masa a krmiv."
+  todo: "Sledujte v měsíční zprávě USDA WASDE poměr zásob ke spotřebě u kukuřice a sóji a porovnejte ho s pětiletým průměrem."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/adm-a-zisk-v-obili-co-rozhoduje-o-marzich-vic-nez-hezky-prib-analyza-361274

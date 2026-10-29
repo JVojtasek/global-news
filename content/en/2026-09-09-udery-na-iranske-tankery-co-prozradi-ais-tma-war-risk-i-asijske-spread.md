@@ -13,6 +13,10 @@ date: '2026-09-09'
 status: published
 confidence: 0
 image_query: 'oil tanker at sea'
+impact:
+  areas: [money]
+  line: "Nothing changes for most readers yet. If shipping Iranian oil becomes slower and costlier, it may over time feed into the prices of fuel, flights and transport of goods."
+  todo: "Watch whether war risk insurance and tanker rates to Asia move alongside Brent; a price jump without them is more often panic."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/udery-na-iranske-tankery-co-prozradi-ais-tma-war-risk-i-asij-analyza-361139

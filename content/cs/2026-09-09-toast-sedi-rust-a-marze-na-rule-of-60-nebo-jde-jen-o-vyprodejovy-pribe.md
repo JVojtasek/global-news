@@ -13,6 +13,10 @@ date: '2026-09-09'
 status: published
 confidence: 0
 image_query: 'Toast: sedí růst a marže'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění. Týká se to hlavně restaurací, které platí Toastu za software a za každou platbu kartou, a lidí, kteří sledují akcie platebních firem."
+  todo: "Ve výsledcích Toastu si ověřte, jakou definici růstu a marže firma pro „Rule of 60“ používá a jak se vyvíjí objem plateb (GPV) a take rate."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/toast-sedi-rust-a-marze-na-rule-of-60-nebo-jde-jen-o-vyprode-analyza-361427

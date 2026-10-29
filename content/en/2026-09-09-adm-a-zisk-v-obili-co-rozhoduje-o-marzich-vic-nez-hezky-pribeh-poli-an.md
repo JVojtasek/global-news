@@ -14,6 +14,10 @@ date: '2026-09-09'
 status: published
 confidence: 0
 image_query: 'grain silos harvest'
+impact:
+  areas: [money]
+  line: "Day to day, nothing changes for most readers. But if grain stocks stay low, it may over time show up in the prices of bread, meat and animal feed through the whole food chain."
+  todo: "In the monthly USDA WASDE report, watch the stocks-to-use ratio for corn and soybeans and compare it with the five-year average."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/adm-a-zisk-v-obili-co-rozhoduje-o-marzich-vic-nez-hezky-prib-analyza-361274

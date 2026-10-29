@@ -13,6 +13,10 @@ date: '2026-09-09'
 status: published
 confidence: 0
 image_query: 'Údery na íránské tankery: co'
+impact:
+  areas: [money]
+  line: "Zatím se většině čtenářů nic nemění. Pokud se přeprava íránské ropy zpomalí a zdraží, může se to časem propsat do cen paliv, letenek a dopravy zboží."
+  todo: "Sledujte, zda se kromě ceny Brentu hýbe i pojistné war risk a sazby tankerů do Asie; samotný skok ceny bez nich bývá spíš panika."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/udery-na-iranske-tankery-co-prozradi-ais-tma-war-risk-i-asij-analyza-361139

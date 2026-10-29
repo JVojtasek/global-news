@@ -12,6 +12,10 @@ date: '2026-09-09'
 status: published
 confidence: 0
 image_query: AI datacentra už nejsou jen
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění. Nejvíc se to dotkne regionů, kde datacentra soupeří s ostatními odběrateli o kapacitu elektrické sítě, a firem, které pro ně staví napájení a chlazení."
+  todo: "U oznámeného projektu datacentra si ověřte, zda má podepsaného odběratele, přidělený příkon, povolení a jasné financování, nebo jde jen o plán."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ai-datacentra-uz-nejsou-jen-o-cipech-rozhoduje-elektrina-pov-analyza-361424
