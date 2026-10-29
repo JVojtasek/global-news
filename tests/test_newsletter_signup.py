@@ -30,4 +30,13 @@ class NewsletterSignupTest(unittest.TestCase):
         self.assertNotIn('name="section" value="health"',html)
         self.assertNotIn('jedenkrát v sobotu',html)
 
+    def test_weekend_navigation_is_not_an_email_section(self):
+        data=context('cs')
+        data.update(briefing=morning.edition([],config.site(),'cs'),country_catalogue=countries.catalogue(),daily_quiz=None,page_type='briefing')
+        data['newsletter']={'enabled':True,'briefing_api':'https://brief.example/subscribe','turnstile_site_key':'sitekey'}
+        data['sections']=[{'id':'world','cs':'Svět','en':'World'}, {'id':'weekend/11','cs':'Sobotní vydání','en':'Weekend'}]
+        html=environment().get_template('briefing.html').render(**data)
+        self.assertIn('name="section" value="world"',html)
+        self.assertNotIn('name="section" value="weekend/11"',html)
+
 if __name__ == '__main__': unittest.main()
