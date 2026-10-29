@@ -77,9 +77,8 @@ Paměť obsahuje **170 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 73 dní · 54 záznamů
+- rubrika `world` · sledováno 78 dní · 55 záznamů
 - časová osa:
-  - **2026-10-05** (2 zdrojů) Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube
   - **2026-10-15** (1 zdrojů) London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come
   - **2026-10-16** (2 zdrojů) New White House Press Secretary Katie Zacharia on way out after only five days on job, reports say
   - **2026-10-16** (3 zdrojů) White House press secretary Zacharia exiting role after short tenure
@@ -89,6 +88,7 @@ Paměť obsahuje **170 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-19** (3 zdrojů) Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
   - **2026-10-23** (3 zdrojů) White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'
   - **2026-10-24** (2 zdrojů) White House lifts tariffs on some Canadian goods as midterm elections loom
+  - **2026-10-29** (3 zdrojů) What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump
 
 ---
 

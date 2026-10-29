@@ -1,7 +1,7 @@
 # ZADÁNÍ PRO REDAKCI — 2026-10-29
 
-- Režim: **autonomous**  ⚠️ nikdo se o projekt 18 dní nestaral – buď opatrnější
-- Práh jistoty pro automatické vydání: **93/100**
+- Režim: **normal**
+- Práh jistoty pro automatické vydání: **82/100**
 - Článků v zásobě: **9**
 - Jazyk, ve kterém se píše: **en**
 

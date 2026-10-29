@@ -1,8 +1,8 @@
 {
  "date": "2026-10-29",
- "mode": "autonomous",
- "days_since_human": 18,
- "confidence_threshold": 93,
+ "mode": "normal",
+ "days_since_human": 0,
+ "confidence_threshold": 82,
  "reserve_articles": 9,
  "news_assignments": [
   {
