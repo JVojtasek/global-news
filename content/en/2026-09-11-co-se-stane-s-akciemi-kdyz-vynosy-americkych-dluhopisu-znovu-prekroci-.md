@@ -13,6 +13,10 @@ date: '2026-09-11'
 status: published
 confidence: 0
 image_query: 'stock exchange trading floor'
+impact:
+  areas: [money]
+  line: "For most readers nothing changes day to day; what matters is that US Treasury yields near 5% make borrowing pricier for companies and households and weigh on expensive growth stocks. Holders of equity funds or tech shares will notice it in the swings."
+  todo: "Watch the 10-year US Treasury yield, whether it holds below 5% and how fast it moves, and the ratio of rising to falling stocks in the S&P 500."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/co-se-stane-s-akciemi-kdyz-vynosy-americkych-dluhopisu-znovu-analyza-362818

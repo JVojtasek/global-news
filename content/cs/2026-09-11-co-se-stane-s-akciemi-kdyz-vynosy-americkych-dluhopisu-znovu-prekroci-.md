@@ -13,6 +13,10 @@ date: '2026-09-11'
 status: published
 confidence: 0
 image_query: Co se stane s akciemi,
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění; podstatné je, že výnos amerických dluhopisů kolem 5 % zdražuje financování firem i domácností a tlačí na drahé růstové akcie. Kdo drží akciové fondy nebo technologické akcie, pozná to na jejich kolísání."
+  todo: "Sledovat výnos 10letého amerického dluhopisu, zda se drží pod 5 % a jak rychle se hýbe, a poměr rostoucích a klesajících akcií v S&P 500."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/co-se-stane-s-akciemi-kdyz-vynosy-americkych-dluhopisu-znovu-analyza-362818

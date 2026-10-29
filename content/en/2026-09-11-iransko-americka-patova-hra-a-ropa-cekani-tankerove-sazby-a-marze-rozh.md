@@ -13,6 +13,10 @@ date: '2026-09-11'
 status: published
 confidence: 0
 image_query: 'oil tankers Strait of Hormuz'
+impact:
+  areas: [money]
+  line: "Drawn-out tension around the Strait of Hormuz can keep oil pricier even without a full supply outage. Anyone who fills up, flies or buys goods that depend on shipping feels it indirectly through diesel, airfares and inflation."
+  todo: "Watch the Brent price, weekly EIA data on oil and fuel inventories, and UKMTO incident reports on shipping in the Persian Gulf."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/iransko-americka-patova-hra-a-ropa-cekani-tankerove-sazby-a--analyza-362679

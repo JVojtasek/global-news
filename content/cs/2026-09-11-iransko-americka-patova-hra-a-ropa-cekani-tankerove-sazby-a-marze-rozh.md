@@ -13,6 +13,10 @@ date: '2026-09-11'
 status: published
 confidence: 0
 image_query: 'Íránsko-americká patová hra a ropa:'
+impact:
+  areas: [money]
+  line: "Vleklé napětí kolem Hormuzského průlivu může držet ropu dražší i bez úplného výpadku dodávek. Kdo tankuje, létá nebo kupuje zboží závislé na dopravě, to pocítí oklikou přes naftu, letenky a inflaci."
+  todo: "Sledovat cenu Brent, týdenní data EIA o zásobách ropy a paliv a incidentní hlášení UKMTO o lodní dopravě v Perském zálivu."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/iransko-americka-patova-hra-a-ropa-cekani-tankerove-sazby-a--analyza-362679

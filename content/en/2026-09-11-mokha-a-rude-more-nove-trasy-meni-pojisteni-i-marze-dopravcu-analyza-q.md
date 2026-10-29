@@ -13,6 +13,10 @@ date: '2026-09-11'
 status: published
 confidence: 0
 image_query: 'container ship Red Sea'
+impact:
+  areas: [money]
+  line: "For most readers nothing changes day to day; what matters is that longer ship routes and pricier insurance around the Bab el-Mandeb strait can gradually make moving goods more expensive. It shows up slowly in product prices rather than in one jump."
+  todo: "Watch maritime security advisories for the Red Sea and Bab el-Mandeb (for example UKMTO), container freight rates and the Brent price."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/mokha-a-rude-more-nove-trasy-meni-pojisteni-i-marze-dopravcu-analyza-362833

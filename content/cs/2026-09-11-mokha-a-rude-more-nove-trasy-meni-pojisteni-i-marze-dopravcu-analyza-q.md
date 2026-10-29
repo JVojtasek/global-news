@@ -12,6 +12,10 @@ date: '2026-09-11'
 status: published
 confidence: 0
 image_query: 'Mokha a Rudé moře: nové'
+impact:
+  areas: [money]
+  line: "Většině čtenářů se tím denně nic nemění; podstatné je, že delší trasy lodí a dražší pojištění kolem úžiny Bab el-Mandeb mohou časem prodražit dopravu zboží. Spíš než jedním skokem se to projeví pomalu v cenách výrobků."
+  todo: "Sledovat námořní bezpečnostní varování pro Rudé moře a Bab el-Mandeb (např. UKMTO), kontejnerové přepravní sazby a cenu Brent."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/mokha-a-rude-more-nove-trasy-meni-pojisteni-i-marze-dopravcu-analyza-362833

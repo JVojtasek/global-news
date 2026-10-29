@@ -13,6 +13,10 @@ date: '2026-09-12'
 status: published
 confidence: 0
 image_query: 'Ropa padá o 4 %:'
+impact:
+  areas: [money]
+  line: "Kdo tankuje, létá nebo platí za dopravu, může s poklesem ropy časem pocítit levnější benzin a naftu. Kdo drží akcie ropných firem, vidí opačný tlak na jejich tržby. Zatím jde o očekávání z jednání, ne o hotovou změnu dodávek."
+  todo: "Sledovat cenu Brent a WTI, týdenní data EIA o zásobách ropy a to, zda íránské exporty podle dat o pohybu tankerů skutečně rostou."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ropa-pada-o-4-proc-jednani-s-iranem-meni-vic-nez-jen-cenu-ba-analyza-363100

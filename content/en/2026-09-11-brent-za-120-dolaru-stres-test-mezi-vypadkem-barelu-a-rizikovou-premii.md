@@ -13,6 +13,10 @@ date: '2026-09-11'
 status: published
 confidence: 0
 image_query: 'oil tanker in gulf'
+impact:
+  areas: [money]
+  line: "This is a Goldman Sachs stress scenario, not its base case. If it happened, energy could get pricier before any real oil shortage, and anyone who fills up, pays for transport or buys food would feel it in their wallet."
+  todo: "Watch the Brent price, weekly EIA data on oil inventories, and the gap between near-term and longer-dated oil futures contracts."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/brent-za-120-dolaru-stres-test-mezi-vypadkem-barelu-a-riziko-analyza-362700

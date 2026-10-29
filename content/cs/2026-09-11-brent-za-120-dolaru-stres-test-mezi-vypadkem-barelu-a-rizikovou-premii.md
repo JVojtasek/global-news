@@ -13,6 +13,10 @@ date: '2026-09-11'
 status: published
 confidence: 0
 image_query: 'Brent za 120 dolarů: stres'
+impact:
+  areas: [money]
+  line: "Jde o stresový scénář Goldman Sachs, ne o základní výhled. Kdyby nastal, energie by mohly zdražit dřív než skutečný nedostatek ropy a kdo tankuje, platí za dopravu nebo nakupuje potraviny, by to pocítil v peněžence."
+  todo: "Sledovat cenu Brent, týdenní data EIA o zásobách ropy a rozdíl mezi blízkými a vzdálenými futures kontrakty na ropu."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/brent-za-120-dolaru-stres-test-mezi-vypadkem-barelu-a-riziko-analyza-362700

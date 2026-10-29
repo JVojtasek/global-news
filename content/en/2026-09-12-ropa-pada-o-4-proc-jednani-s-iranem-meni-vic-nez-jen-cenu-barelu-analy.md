@@ -13,6 +13,10 @@ date: '2026-09-12'
 status: published
 confidence: 0
 image_query: 'oil tanker at sea'
+impact:
+  areas: [money]
+  line: "Anyone who fills up, flies or pays for transport may eventually feel cheaper gasoline and diesel as oil falls. Holders of oil company shares see the opposite pressure on those companies' revenue. For now this is an expectation from talks, not a settled change in supply."
+  todo: "Watch Brent and WTI prices, weekly EIA data on oil inventories, and whether Iranian exports actually rise according to tanker-tracking data."
 origin:
   name: QMA
   url: https://quantummarketanalyzer.com/magazin/analyza/ropa-pada-o-4-proc-jednani-s-iranem-meni-vic-nez-jen-cenu-ba-analyza-363100
