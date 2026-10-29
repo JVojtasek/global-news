@@ -91,8 +91,22 @@ export function makeHandler({store,mail,verifyChallenge,webhookSecret,query}) {
   return new Response('Not found',{status:404,headers});
  };
 }
+// Keep operations observable without logging recipient addresses or topics.
+export async function reportScheduled(run, logger=console) {
+ try {
+  const result=await run();
+  if (Number.isInteger(result?.unknown) && result.unknown>0)
+   logger.error('briefing-delivery-uncertain', {sent:result.sent,skipped:result.skipped,unknown:result.unknown});
+  else if (Number.isInteger(result?.sent) && (result.sent>0 || result.skipped>0))
+   logger.log('briefing-delivery-batch', {sent:result.sent,skipped:result.skipped,unknown:result.unknown});
+  return result;
+ } catch (_error) {
+  logger.error('briefing-scheduled-failed');
+  throw new Error('briefing scheduled failed');
+ }
+}
 export default {
- async scheduled(event,env,ctx) { ctx.waitUntil(runScheduled(env,new Date(event.scheduledTime))); },
+ async scheduled(event,env,ctx) { ctx.waitUntil(reportScheduled(()=>runScheduled(env,new Date(event.scheduledTime)))); },
  async fetch(request,env) {
  const brevo=env.MAIL_PROVIDER==='brevo';
  if (!['brevo','resend'].includes(env.MAIL_PROVIDER)) return new Response('Not configured',{status:503,headers});

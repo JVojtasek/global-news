@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import {reportScheduled} from '../src/newsletter-worker.js';
+const events=[];
+const logger={log:(...x)=>events.push(x),error:(...x)=>events.push(x)};
+await reportScheduled(async()=>({outsideWindow:true}),logger);
+assert.equal(events.length,0);
+await reportScheduled(async()=>({sent:1,skipped:0,unknown:0}),logger);
+assert.deepEqual(events.pop(),['briefing-delivery-batch',{sent:1,skipped:0,unknown:0}]);
+await reportScheduled(async()=>({sent:0,skipped:0,unknown:1}),logger);
+assert.deepEqual(events.pop(),['briefing-delivery-uncertain',{sent:0,skipped:0,unknown:1}]);
+await assert.rejects(reportScheduled(async()=>{throw Error('sensitive recipient detail')},logger));
+assert.deepEqual(events.pop(),['briefing-scheduled-failed']);
+console.log('Scheduled logs report counts and failures without recipient data.');
