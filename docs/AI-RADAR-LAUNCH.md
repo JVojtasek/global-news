@@ -5,7 +5,8 @@
 - `/cs/ai-radar/` and `/en/ai-radar/`: offer for a proposed Czech-language pilot.
 - `/cs/ai-radar/sample/` and `/en/ai-radar/sample/`: dated documentation-based sample, with print styling and three primary sources.
 - Proposed prices: CZK 249/month individual, CZK 1,490/month for up to five people. These are interest-test prices, not an active checkout or a signed offer.
-- Sample links in the main navigation, footer and home page.
+- The business radar is an optional extension: public articles, morning briefing and Saturday edition remain free. The homepage keeps its public editorial lead; the optional business notice appears after the news rows.
+- Links under “Pro firmy / For businesses” in the navigation and footer.
 - Real Google verification meta value obtained from Search Console for `https://mypaper.news/` in the owner's signed-in account. Verification itself requires the published meta value.
 - Existing canonical, hreflang, Open Graph, sitemap and robots infrastructure reused. Sample dates stay fixed when the site rebuilds.
 - No paywall, account, payment collection, fabricated reference, or invented benchmark.
@@ -24,8 +25,8 @@ The sample distinguishes vendor documentation, editorial interpretation and a pr
 
 ## Actual activation gates
 
-1. **Cloudflare analytics:** the owner's dashboard currently requests sign-in. Obtain the actual Web Analytics beacon token for `mypaper.news`, put it in `data/site.yml -> analytics.cloudflare_token`, rebuild, then verify an actual page load in the dashboard. Do not substitute an account ID, zone ID, API credential or invented token. Inspect automatic injection to avoid duplicate beacons. Only aggregate page views; never attach browser settings or email addresses.
-2. **Google:** after deployment, verify the URL-prefix property and submit `https://mypaper.news/sitemap.xml`. A published meta tag alone is not verified ownership or guaranteed indexing.
+1. **Cloudflare analytics:** after the owner signed in, the existing `mypaper.news` analytics site was found with zero reported visits in the last 24 hours. Switched from automatic injection to manual snippet installation, copied the actual beacon token into `data/site.yml`, and matched the dashboard's module script. Verify a deployed page load in the dashboard before claiming data collection. Only aggregate page views; never attach browser settings or email addresses. No API credential is stored in the repository.
+2. **Google:** ownership of `https://mypaper.news/` was successfully verified by HTML tag on 29 October 2026. The sitemap index `https://mypaper.news/sitemap.xml` was then submitted and reported as successful. Ownership and accepted sitemaps are not guaranteed indexing. The overview already has search/indexing history; it is not a brand-new site with no data.
 3. **Bing/Seznam:** the existing IndexNow key and robots sitemap entries support discovery. Announcing URLs is not proof that they are indexed. Dashboard ownership requires a real verification value or an authorized import.
 4. **Newsletter:** no provider form URL is configured. Before claiming registration works, test double opt-in, correct language/cadence, unsubscribe, actual delivery and suppression of removed addresses. Avoid advertising pixels and individual click/open tracking. Store no health interests. Do not silently add enquiries to a mailing list.
 5. **Commerce:** supplier identity, final tax-inclusive price/treatment, launch date, terms and cancellation must be provided before accepting payment. Never enable recurring billing merely by toggling this pilot file.

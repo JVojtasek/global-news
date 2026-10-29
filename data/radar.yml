@@ -9,6 +9,8 @@ prices_czk:
   team: 1490
   team_seats: 5
 cs:
+  nav: Pro firmy
+  public_note: 'My Paper zůstávají novinami pro širokou veřejnost. Veřejné články, ranní briefing i sobotní vydání zůstávají volně přístupné. Firemní radar je samostatné, volitelné rozšíření.'
   name: AI radar pro menší firmy
   description: 'AI a automatizace pro menší firmy: ověřené souvislosti, konkrétní pracovní postupy a otázky před nákupem. Podívejte se na ukázkové vydání.'
   headline: Co z AI se vyplatí řešit ve vaší firmě?
@@ -55,6 +57,8 @@ cs:
   source_title: Původní zdroje
   source_note: 'Dokumentace popisuje možnosti produktů. Nenahrazuje ověření vašeho tarifu, konfigurace a konkrétního pracovního postupu.'
 en:
+  nav: For businesses
+  public_note: 'My Paper remains a newspaper for everyone. Public articles, the morning briefing and the Saturday edition remain freely accessible. The business radar is a separate, optional extension.'
   name: AI radar for small businesses
   description: 'AI and automation for small businesses: sourced explanations, practical workflows and questions to ask before buying. Read the sample issue.'
   headline: Which AI changes deserve your business’s attention?

@@ -85,7 +85,7 @@
   <div class="inner">
     <nav class="sections">
       <a class="nav-brief{% if page_type == 'briefing' %} on{% endif %}" href="{{ base }}/{{ lang }}/briefing/">{{ t.brief_nav }}</a>
-      {% if radar is defined and radar.enabled %}<a href="{{ base }}/{{ lang }}/ai-radar/"{% if page_type in ['ai-radar', 'ai-radar-sample'] %} class="on"{% endif %}>AI radar</a>{% endif %}
+      {% if radar is defined and radar.enabled %}<a href="{{ base }}/{{ lang }}/ai-radar/"{% if page_type in ['ai-radar', 'ai-radar-sample'] %} class="on"{% endif %}>{{ radar[lang].nav }}</a>{% endif %}
       <a class="nav-quiz{% if page_type in ['quiz', 'quizzes'] %} on{% endif %}" href="{{ base }}/{{ lang }}/quizzes/">{{ t.quiz_nav }}</a>
       <a class="nav-you" href="{{ base }}/{{ lang }}/foryou/">{{ t.foryou }}</a>
       {% if wider_lens.enabled %}<a class="nav-lens" href="{{ base }}/{{ lang }}/wider-lens/">{{ wider_lens['nav_' ~ lang] or wider_lens.nav_en }}</a>{% endif %}
@@ -164,7 +164,7 @@
     <div>
       <strong>{{ brand }}</strong><br>{{ tagline }}<br>
       <a href="{{ base }}/{{ lang }}/about/">{{ t.about }}</a> · <a href="{{ base }}/{{ lang }}/archive/">{{ t.archive_link }}</a> ·
-      {% if radar is defined and radar.enabled %}<a href="{{ base }}/{{ lang }}/ai-radar/">AI radar</a> · {% endif %}
+      {% if radar is defined and radar.enabled %}<a href="{{ base }}/{{ lang }}/ai-radar/">{{ radar[lang].nav }}</a> · {% endif %}
       {# Stránka členství vzniká, jen když je členství zapnuté v data/members.yml.
          Dokud zapnuté není, tenhle odkaz vedl na chybu 404 — a to ze všech
          stránek webu naráz, což je to nejhorší místo, kde ji mít. #}
@@ -375,7 +375,7 @@ function tdsTheme(){
     Ani jedna z těch služeb nesleduje jednotlivé lidi a ani jedné se
     nikdy nesmí předat nic z nastavení čtenáře (EDITORIAL-CODE, oddíl 5).  #}
 {%- if analytics.cloudflare_token %}
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ analytics.cloudflare_token }}"}'></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ analytics.cloudflare_token }}"}'></script>
 {%- elif analytics.plausible_domain %}
 <script defer data-domain="{{ analytics.plausible_domain }}" src="https://plausible.io/js/script.js"></script>
 {%- endif %}

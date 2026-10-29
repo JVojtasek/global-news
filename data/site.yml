@@ -407,7 +407,7 @@ analytics:
   # Token vezmeš v Cloudflare → Analytics & Logs → Web Analytics →
   # Add a site → mypaper.news → zkopíruj hodnotu "token".
   # Dokud je prázdné, na web se nevkládá vůbec nic.
-  cloudflare_token: ""
+  cloudflare_token: "6c1e28e6f18c4d37be2327020fcbc891"
   # Náhradní možnost, kdybys chtěl jinou službu (Plausible, Umami).
   # Vyplň jen jedno z toho, ne obojí.
   plausible_domain: ""
