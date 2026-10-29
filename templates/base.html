@@ -136,7 +136,6 @@
       <button type="submit">{{ 'Poslat potvrzovací odkaz' if lang == 'cs' else 'Send confirmation link' }}</button>
       <p role="status" aria-live="polite"></p>
     </form>
-    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
     <script src="{{ base }}/briefing-subscribe.js?v={{ asset_version }}" defer></script>
     {% elif newsletter.form_action %}
     {# Odeslání zůstává na stránce (viz reader.js). Bez JavaScriptu se
