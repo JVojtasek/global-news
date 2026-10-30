@@ -9,9 +9,6 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **43**.
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 78 dní · 60 záznamů
 - časová osa:
-  - **2026-10-27** (1 zdrojů) Turnout high as Israeli voters deliver verdict on Netanyahu
-  - **2026-10-27** (5 zdrojů) Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
-  - **2026-10-28** (3 zdrojů) Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority
   - **2026-10-28** (2 zdrojů) Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory
   - **2026-10-28** (2 zdrojů) 'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'
   - **2026-10-28** (2 zdrojů) Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition
@@ -19,6 +16,9 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-30** (2 zdrojů) Netanyahu attacks Israel’s Arab parties as he falls short of majority
   - **2026-10-30** (2 zdrojů) Palestinian voter turnout exposes Israel’s attitude towards Arab citizens
   - **2026-10-30** (1 zdrojů) Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries
+  - **2026-10-30** (2 zdrojů) Some Monkeys Seem to Become Germophobic After Living Through a Disease Outbreak, Just Like Humans
+  - **2026-10-30** (1 zdrojů) For Over Four Years, the Hirshhorn Worked to Revitalize Its Sculpture Garden. Today, It's Home to a 'King and Queen,' a 'Wish Tree' and a 55,000-Pound Vertical Swimming Pool Artwork
+  - **2026-10-30** (1 zdrojů) Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 82 dní · 60 záznamů

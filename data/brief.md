@@ -63,32 +63,7 @@
     <https://www.france24.com/en/europe/20261029-ecb-president-christine-lagarde-to-step-down-in-february-2027-nine-months-before-term-ends>
     > European Central Bank President Christine Lagarde will step down on February 7, 2027, nearly nine months before her term expires, the ECB said Thursday. Her successor will be appointed by the European Council under EU treaty rules.
 
-### 3. Genie 4: A new generation of world simulation
-- id události: `d17d13a0006a`  ·  rubrika: `ai`  ·  skóre: 80  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **Google DeepMind** — Genie 4: A new generation of world simulation
-    <https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/>
-    > Genie 4: our new world model unlocking unprecedented realism in real-time simulation.
-  - **Ars Technica** — DeepMind unveils Genie 4 world model promising more realistic physics and humans
-    <https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/>
-    > Genie 4 will roll out to developers and Google AI Ultra subscribers soon.
-  - **Ars Technica AI** — DeepMind unveils Genie 4 world model promising more realistic physics and humans
-    <https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/>
-    > Genie 4 will roll out to developers and Google AI Ultra subscribers soon.
-  - **Google DeepMind** — Google DeepMind and A24 announce first-of-its-kind research partnership
-    <https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/>
-  - **TechCrunch** — Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering
-    <https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/>
-    > Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.
-  - **The Verge** — Google’s next Genie AI model generates more realistic experiences
-    <https://www.theverge.com/tech/1019076/google-genie-4-ai-model>
-    > Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, 
-  - **The Verge AI** — Google’s next Genie AI model generates more realistic experiences
-    <https://www.theverge.com/tech/1019076/google-genie-4-ai-model>
-    > Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, 
-
-### 4. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
+### 3. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
 - id události: `31077fabb6a0`  ·  rubrika: `world`  ·  skóre: 79  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -111,6 +86,29 @@
     <https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss>
     > Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.
 
+### 4. Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
+- id události: `bcc76393f0bd`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Guardian World** — Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
+    <https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats>
+    > Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Israel’s election was too close to call on Tuesday night after a historic turnout by voters for an election described by some as the most
+  - **DW News** — Israel election: Anti-Netanyahu bloc ahead, but no majority
+    <https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-rdf>
+    > While Netanyahu's party is projected to be the biggest in parliament, the anti-Netanyahu coalition looks set to have more seats. But no bloc has a clear majority.
+  - **CNBC Top** — No clear winner in Israeli election, exit polls suggest, as Netanyahu’s fate hangs in the balance
+    <https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html>
+    > Israel's election ended Tuesday with no clear winner, exit polls indicate, likely setting off weeks of jockeying before a leader is declared.
+  - **Al Jazeera** — Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp
+    <https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss>
+    > High turnout in vote widely described as the most consequential in Israel's history.
+  - **France 24** — Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'
+    <https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy>
+    > Erin Ogunkeye is pleased to welcome Ron Gerlitz, CEO of aChord Center at Hebrew University, an Israeli organization specialising in the social psychology of intergroup relations. “The main issue in this election is the fight for Israeli democracy,” explains Gerlitz. And beneath t
+  - **Al Jazeera** — Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters
+    <https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss>
+    > In one social media post, PM Netanyahu accused Arab voters of 'raiding the polling stations and stealing the elections'.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -119,8 +117,8 @@
 - rubrika: `science`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
-  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
   - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
+  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
 
 ---
 
@@ -147,9 +145,6 @@
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-23  (3 zdrojů, síla 56)  Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
-  2026-10-23  (2 zdrojů, síla 57)  Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
-  2026-10-24  (2 zdrojů, síla 42)  As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?
   2026-10-24  (2 zdrojů, síla 43)  Israeli PM pledges massive military operation after West Bank checkpoint attack
   2026-10-24  (2 zdrojů, síla 43)  Israel begins demolitions in West Bank
   2026-10-25  (2 zdrojů, síla 40)  Israel to close occupied West Bank crossings as it locks down Hebron
@@ -167,6 +162,9 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-30  (2 zdrojů, síla 41)  Netanyahu attacks Israel’s Arab parties as he falls short of majority
   2026-10-30  (2 zdrojů, síla 43)  Palestinian voter turnout exposes Israel’s attitude towards Arab citizens
   2026-10-30  (1 zdrojů, síla 40)  Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries
+  2026-10-30  (2 zdrojů, síla 52)  Some Monkeys Seem to Become Germophobic After Living Through a Disease Outbreak, Just Like Humans
+  2026-10-30  (1 zdrojů, síla 44)  For Over Four Years, the Hirshhorn Worked to Revitalize Its Sculpture Garden. Today, It's Home to a 'King and Queen,' a 'Wish Tree' and a 55,000-Pound Vertical Swimming Pool Artwork
+  2026-10-30  (1 zdrojů, síla 40)  Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
 ```
 
 ### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
