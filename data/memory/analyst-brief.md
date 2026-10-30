@@ -9,7 +9,6 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 78 dní · 60 záznamů
 - časová osa:
-  - **2026-10-26** (2 zdrojů) Who are the Israeli candidates trying to unseat Netanyahu?
   - **2026-10-27** (2 zdrojů) Israel election: Israelis vote for 1st time since October 7 terror attack
   - **2026-10-27** (1 zdrojů) Turnout high as Israeli voters deliver verdict on Netanyahu
   - **2026-10-27** (5 zdrojů) Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
@@ -19,6 +18,21 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-28** (2 zdrojů) Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition
   - **2026-10-29** (1 zdrojů) Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago
   - **2026-10-30** (2 zdrojů) Netanyahu attacks Israel’s Arab parties as he falls short of majority
+  - **2026-10-30** (2 zdrojů) Palestinian voter turnout exposes Israel’s attitude towards Arab citizens
+
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 82 dní · 60 záznamů
+- časová osa:
+  - **2026-10-06** (2 zdrojů) England v Czechia: Nations League football – live
+  - **2026-10-06** (2 zdrojů) Kane scores twice but who else was a 'real threat'? England player ratings
+  - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
+  - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
+  - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
+  - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
+  - **2026-10-27** (3 zdrojů) Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
+  - **2026-10-27** (4 zdrojů) 'A dream come true' - Harry Kane on his Ballon d'Or win
+  - **2026-10-27** (2 zdrojů) Quiz: Kane and who else? Name every men's Ballon d'Or winner
+  - **2026-10-30** (2 zdrojů) England thrash Wales to begin World Cup defence
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 81 dní · 60 záznamů
@@ -33,20 +47,6 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-26** (2 zdrojů) Trump announces Audi will build $4 billion factory in US
   - **2026-10-29** (2 zdrojů) Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
   - **2026-10-29** (2 zdrojů) Russian drone attack on Ukrainian train station kills at least 14, officials say
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 79 dní · 60 záznamů
-- časová osa:
-  - **2026-10-06** (2 zdrojů) How promotion, relegation and knockouts work in Nations League
-  - **2026-10-06** (2 zdrojů) England v Czechia: Nations League football – live
-  - **2026-10-06** (2 zdrojů) Kane scores twice but who else was a 'real threat'? England player ratings
-  - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
-  - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
-  - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
-  - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
-  - **2026-10-27** (3 zdrojů) Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
-  - **2026-10-27** (4 zdrojů) 'A dream come true' - Harry Kane on his Ballon d'Or win
-  - **2026-10-27** (2 zdrojů) Quiz: Kane and who else? Name every men's Ballon d'Or winner
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 69 dní · 60 záznamů
