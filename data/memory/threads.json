@@ -3125,24 +3125,142 @@
    ]
   },
   {
+   "id": "f2d111d4fd57",
+   "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+   "section": "science",
+   "entities": [
+    "seoul",
+    "drone",
+    "north",
+    "south",
+    "korea"
+   ],
+   "event_ids": [
+    "f2d111d4fd57",
+    "20472af8545b",
+    "ff20ca98c7ed",
+    "d00a10e57fef",
+    "a0eb33a029f0",
+    "8b5f45fb18a6",
+    "869c210d8444",
+    "8a1bc8a90ce5"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-10-30",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+     "sources": 2,
+     "score": 56,
+     "event_id": "f2d111d4fd57",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+      "https://www.smithsonianmag.com/smart-news/a-spacex-rocket-part-just-slammed-into-the-moon-creating-a-dust-plume-and-crater-heres-what-some-scientific-instruments-saw-180989299/"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "South Korea proposes talks to officially end war with North",
+     "sources": 2,
+     "score": 46,
+     "event_id": "20472af8545b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "North Korea fires ballistic missile into sea, Seoul says",
+     "sources": 2,
+     "score": 46,
+     "event_id": "ff20ca98c7ed",
+     "links": [
+      "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
+      "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d00a10e57fef",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
+      "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a0eb33a029f0",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
+      "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "South Korea proposes military talks with North again",
+     "sources": 2,
+     "score": 45,
+     "event_id": "8b5f45fb18a6",
+     "links": [
+      "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf",
+      "https://www.scmp.com/tech/tech-trends/article/3371888/chinas-humanoid-robots-hunt-work-south-korea-seoul-bets-physical-ai"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "North Korea fires missiles as row over landmine blast intensifies",
+     "sources": 2,
+     "score": 41,
+     "event_id": "869c210d8444",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20261029-north-korea-launches-around-a-dozen-ballistic-missiles-amid-rising-tensions-with-south-korea"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Seoul fears being sidelined as US reaches out to North Korea",
+     "sources": 3,
+     "score": 59,
+     "event_id": "8a1bc8a90ce5",
+     "links": [
+      "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+      "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "9826c96e0bea",
    "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
    "section": "world",
    "entities": [
+    "patrick",
     "stewart",
     "mckellen",
-    "patrick",
     "captain",
-    "trek",
-    "x-men",
     "star",
-    "picard"
+    "trek",
+    "picard",
+    "x-men"
    ],
    "event_ids": [
     "9826c96e0bea",
     "e47c8cc9a04a",
     "fdb9df443096",
-    "8917d17ab6fd"
+    "8917d17ab6fd",
+    "47295b449e3f"
    ],
    "first_seen": "2026-10-29",
    "last_seen": "2026-10-30",
@@ -3192,6 +3310,18 @@
      "links": [
       "https://www.nature.com/articles/d41586-026-03543-9",
       "https://www.goodnewsnetwork.org/in-lieu-of-flowers-or-tributes-patrick-stewarts-family-suggests-a-donation-to-alzheimers-research/"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "‘His honesty gave courage to survivors’: domestic abuse charities praise Patrick Stewart’s legacy",
+     "sources": 2,
+     "score": 60,
+     "event_id": "47295b449e3f",
+     "links": [
+      "https://www.theguardian.com/culture/2026/oct/30/domestic-abuse-charities-patrick-stewart-amnesty-international-refuge",
+      "https://www.theguardian.com/culture/2026/oct/30/patrick-stewart-jean-luc-picard-star-trek",
+      "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero"
      ]
     }
    ]
@@ -5365,110 +5495,6 @@
      "links": [
       "https://www.cnbc.com/2026/10/29/trump-california-election-.html",
       "https://www.aljazeera.com/news/2026/10/29/judge-rejects-trump-effort-to-block-california-noncitizen-ballots?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "f2d111d4fd57",
-   "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
-   "section": "science",
-   "entities": [
-    "north",
-    "seoul",
-    "drone",
-    "korea",
-    "south"
-   ],
-   "event_ids": [
-    "f2d111d4fd57",
-    "20472af8545b",
-    "ff20ca98c7ed",
-    "d00a10e57fef",
-    "a0eb33a029f0",
-    "8b5f45fb18a6",
-    "869c210d8444"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-10-29",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
-     "sources": 2,
-     "score": 56,
-     "event_id": "f2d111d4fd57",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-      "https://www.smithsonianmag.com/smart-news/a-spacex-rocket-part-just-slammed-into-the-moon-creating-a-dust-plume-and-crater-heres-what-some-scientific-instruments-saw-180989299/"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "South Korea proposes talks to officially end war with North",
-     "sources": 2,
-     "score": 46,
-     "event_id": "20472af8545b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-03",
-     "headline": "North Korea fires ballistic missile into sea, Seoul says",
-     "sources": 2,
-     "score": 46,
-     "event_id": "ff20ca98c7ed",
-     "links": [
-      "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
-      "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-03",
-     "headline": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d00a10e57fef",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
-      "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a0eb33a029f0",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
-      "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "South Korea proposes military talks with North again",
-     "sources": 2,
-     "score": 45,
-     "event_id": "8b5f45fb18a6",
-     "links": [
-      "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf",
-      "https://www.scmp.com/tech/tech-trends/article/3371888/chinas-humanoid-robots-hunt-work-south-korea-seoul-bets-physical-ai"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "North Korea fires missiles as row over landmine blast intensifies",
-     "sources": 2,
-     "score": 41,
-     "event_id": "869c210d8444",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
-      "https://www.france24.com/en/asia-pacific/20261029-north-korea-launches-around-a-dozen-ballistic-missiles-amid-rising-tensions-with-south-korea"
      ]
     }
    ]
@@ -19139,5 +19165,5 @@
    ]
   }
  ],
- "updated": "2026-10-30T12:29:03+00:00"
+ "updated": "2026-10-30T15:20:13+00:00"
 }
