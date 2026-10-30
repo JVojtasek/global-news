@@ -2076,10 +2076,28 @@ def _write(path, text: str) -> None:
     path.write_text(text, encoding="utf-8")
 
 
+def _reviewed_metrics_paths(root, published_urls):
+    """Fail closed if a reviewed article changes, disappears or is unpublished."""
+    manifest = root / "infra/reading-metrics/reviewed-paths.json"
+    try:
+        entries = json.loads(manifest.read_text(encoding="utf-8"))
+        allowed = []
+        for entry in entries:
+            source = (root / entry["source"]).resolve()
+            if not source.is_relative_to((root / "content").resolve()):
+                continue
+            data = source.read_bytes().replace(b"\r\n", b"\n")
+            if entry["path"] in published_urls and hashlib.sha256(data).hexdigest() == entry["sha256"]:
+                allowed.append(entry["path"])
+        return sorted(set(allowed))
+    except (OSError, KeyError, ValueError, TypeError):
+        return []
+
+
 def _asset_version() -> str:
     """Short content hash used to invalidate cached CSS and JavaScript."""
     digest = hashlib.sha256()
-    for name in ("style.css", "radar.css", "reader.js", "live.js", "quiz.js", "know.js", "briefing-subscribe.js"):
+    for name in ("style.css", "radar.css", "reader.js", "live.js", "quiz.js", "know.js", "briefing-subscribe.js", "reading-metrics.js"):
         path = config.STATIC / name
         digest.update(name.encode("utf-8"))
         digest.update(path.read_bytes())
@@ -2823,6 +2841,9 @@ def run() -> None:
         if item.name == "covers":
             continue
         (shutil.copytree if item.is_dir() else shutil.copy2)(item, out / item.name)
+
+    published_urls = {a["url"] for lang in langs for a in everything[lang]["arts"]}
+    _write(out / "reading-metrics-allowlist.json", json.dumps(_reviewed_metrics_paths(config.ROOT, published_urls)))
 
     # rejstřík pro admin — díky němu si admin nemusí stahovat všechny články
     index = []

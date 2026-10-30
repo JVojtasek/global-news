@@ -5,9 +5,9 @@ import worker, {handle, validArticle} from './worker.mjs';
 const article = {u:'/cs/tech/a-backup-is-only-a-promise/',s:'tech',g:'security'};
 const health = {u:'/cs/science/sensitive-topic/',s:'science',g:'h_heart'};
 const req = payload => new Request('https://metrics.example/',{method:'POST',headers:{origin:'https://mypaper.news'},body:JSON.stringify(payload)});
-const fetcher = async () => Response.json([article,health]);
+const fetcher = async () => Response.json([article.u]);
 let writes;
-const env = {ENABLE_COLLECTOR:'true',DB:{prepare:() => ({bind:(...args) => ({run:async()=>{writes.push(args)}})})}};
+const env = {ENABLE_COLLECTOR:'true',RATE_LIMITER:{limit:async()=>({success:true})},DB:{prepare:() => ({bind:(...args) => ({run:async()=>{writes.push(args)}})})}};
 
 test('accepts a known eligible article and stores only daily totals',async()=>{
   writes=[];
@@ -23,7 +23,12 @@ test('rejects health tags, unknown articles, private fields and invalid duration
     {kind:'reading',path:article.u,seconds:22},
     {kind:'click',path:article.u+'?h_heart=1',seconds:0},
   ]) assert.equal((await handle(req(p),env,fetcher)).status,400);
-  assert.equal(writes.length,0); assert.equal(validArticle(health),false);
+  assert.equal(writes.length,0); assert.equal(validArticle(health.u,[article.u]),false);
+});
+test('global rate limit denies excessive events without recording identifiers',async()=>{
+  writes=[]; const limited={...env,RATE_LIMITER:{limit:async({key})=>{assert.equal(key,'collector'); return {success:false}}}};
+  assert.equal((await handle(req({kind:'click',path:article.u,seconds:0}),limited,fetcher)).status,429);
+  assert.equal(writes.length,0);
 });
 test('rejects requests from other origins',async()=>{
   const r=await handle(new Request('https://metrics.example/',{method:'POST',headers:{origin:'https://other.example'}}),env,fetcher);

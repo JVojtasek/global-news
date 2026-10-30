@@ -398,5 +398,6 @@ function tdsTheme(){
 {%- elif analytics.plausible_domain %}
 <script defer data-domain="{{ analytics.plausible_domain }}" src="https://plausible.io/js/script.js"></script>
 {%- endif %}
+<script defer src="{{ base }}/reading-metrics.js?v={{ asset_version }}"></script>
 </body>
 </html>

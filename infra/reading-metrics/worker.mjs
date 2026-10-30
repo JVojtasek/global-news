@@ -2,14 +2,10 @@
 // referrers, browser storage, form values or reader preferences.
 const ORIGIN = 'https://mypaper.news';
 const safePath = /^\/(cs|en)\/(?:world|business|tech|science|culture|history|sport|travel)\/[a-z0-9-]{1,100}\/$/;
-// Fail closed: automatic health tags can be absent or truncated, so only
-// explicitly reviewed articles may be measured. Extend after editorial review.
-const reviewedPaths = new Set(['/cs/tech/a-backup-is-only-a-promise/', '/en/science/summer-triangle-corner-deneb/']);
 const headers = {'Access-Control-Allow-Origin': ORIGIN, 'Vary':'Origin', 'Cache-Control':'no-store'};
 
-export function validArticle(a) {
-  return typeof a?.u === 'string' && reviewedPaths.has(a.u) && safePath.test(a.u) && a.s !== 'health' &&
-    typeof a.g === 'string' && !a.g.split(',').some(x => x.trim().startsWith('h_'));
+export function validArticle(path, reviewedPaths) {
+  return typeof path === 'string' && safePath.test(path) && reviewedPaths.includes(path);
 }
 
 export async function handle(request, env, fetcher = fetch) {
@@ -17,8 +13,19 @@ export async function handle(request, env, fetcher = fetch) {
   if (request.headers.get('Origin') !== ORIGIN) return new Response(null,{status:403});
   if (request.method === 'OPTIONS') return new Response(null,{status:204,headers:{...headers,'Access-Control-Allow-Methods':'POST, OPTIONS','Access-Control-Allow-Headers':'content-type'}});
   if (request.method !== 'POST') return new Response(null,{status:405,headers});
-  const raw = await request.text();
-  if (raw.length > 256) return new Response(null,{status:400,headers});
+  if (!env.RATE_LIMITER || !(await env.RATE_LIMITER.limit({key:'collector'})).success)
+    return new Response(null,{status:429,headers});
+  if (Number(request.headers.get('content-length') || 0) > 256) return new Response(null,{status:400,headers});
+  const reader = request.body?.getReader();
+  if (!reader) return new Response(null,{status:400,headers});
+  let raw = '', size = 0; const decoder = new TextDecoder();
+  for (;;) {
+    const {done,value} = await reader.read(); if (done) break;
+    size += value.byteLength;
+    if (size > 256) { await reader.cancel(); return new Response(null,{status:400,headers}); }
+    raw += decoder.decode(value,{stream:true});
+  }
+  raw += decoder.decode();
   let data;
   try { data = JSON.parse(raw); } catch { return new Response(null,{status:400,headers}); }
   if (!data || Object.keys(data).sort().join(',') !== 'kind,path,seconds' ||
@@ -26,11 +33,10 @@ export async function handle(request, env, fetcher = fetch) {
       !Number.isInteger(data.seconds) || data.seconds < 0 || data.seconds > 1800 ||
       data.seconds % 15 !== 0 || (data.kind === 'click' && data.seconds !== 0))
     return new Response(null,{status:400,headers});
-  const lang = data.path.split('/')[1];
-  const res = await fetcher(`${ORIGIN}/${lang}/articles.json`);
+  const res = await fetcher(`${ORIGIN}/reading-metrics-allowlist.json`, {cache:'no-store'});
   if (!res.ok) return new Response(null,{status:503,headers});
-  const articles = await res.json();
-  if (!Array.isArray(articles) || !articles.some(a => a.u === data.path && validArticle(a)))
+  const reviewed = await res.json();
+  if (!Array.isArray(reviewed) || !validArticle(data.path,reviewed))
     return new Response(null,{status:400,headers});
   const day = new Date().toISOString().slice(0,10);
   await env.DB.prepare(`INSERT INTO daily_metrics (day,path,clicks,reading_samples,reading_seconds)

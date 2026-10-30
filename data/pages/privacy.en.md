@@ -20,8 +20,9 @@ localStorage:
 
 None of these reading settings is sent to us: the public site is a static
 site, a folder of files. Your personal page is assembled by your own browser from
-a list of articles identical for every reader, so ranking it tells us nothing
-about you. No login or copy of those reading settings is kept on our side.
+a list of articles identical for every reader; the ranking itself is not sent
+to us. No login or copy of those reading settings is kept on our side. Clicks
+on selected, reviewed article links are counted as described below.
 
 That matters most for the health interests. What you tick there is among the most
 sensitive things a person can say about themselves, and our answer is
@@ -36,6 +37,8 @@ also does not follow you to your phone or another browser. You would set it up
 again there, which is the honest price of having no accounts.
 
 ## What other people see
+
+For selected, individually reviewed articles, we count clicks on their links and estimate how long an article stays visible in a browser. We store daily totals in a separate Cloudflare database, not accounts, visitor identifiers, email addresses, form contents or interest settings. We exclude health topics from this measurement. Time visible is not proof that a person read the article. Totals are retained for approximately 90 days and small counts are suppressed in reports. Cloudflare, as a network provider, may see IP addresses. The measurement respects Do Not Track and Global Privacy Control.
 
 We would rather name them than let you find them.
 

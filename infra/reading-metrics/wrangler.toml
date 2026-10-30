@@ -13,6 +13,12 @@ invocation_logs = false
 persist = false
 [triggers]
 crons = ["0 3 * * *"]
+[[ratelimits]]
+name = "RATE_LIMITER"
+namespace_id = "897653102"
+  [ratelimits.simple]
+  limit = 30
+  period = 60
 [[d1_databases]]
 binding = "DB"
 database_name = "mypaper-reading-metrics"

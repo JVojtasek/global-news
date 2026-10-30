@@ -12,6 +12,8 @@ Platí to i pro zdravotní zájmy. Zaškrtnutí znamená „tohle mě zajímá�
 
 ## Co vidí jiné služby
 
+Na vybraných, předem prověřených článcích měříme počet kliknutí na jejich odkazy a přibližnou dobu, po kterou je článek viditelný v prohlížeči. Do samostatné databáze Cloudflare ukládáme denní součty, nikoli účty, identifikátory návštěvníků, e-maily, obsah formulářů ani nastavení zájmů. Zdravotní témata do tohoto měření nezařazujeme. Čas na otevřené stránce není důkaz, že ji někdo četl. Součty uchováváme nejvýše přibližně 90 dní; malé počty v přehledu skrýváme. Cloudflare jako poskytovatel připojení může vidět IP adresu. Měření respektuje nastavení Do Not Track a Global Privacy Control.
+
 - [GitHub Pages](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement) hostuje veřejný web. Jako každý hosting může v provozních záznamech vidět IP adresu a údaje o prohlížeči.
 - [Open-Meteo](https://open-meteo.com/en/terms) poskytuje předpověď, kvalitu ovzduší a pyl; [RainViewer](https://www.rainviewer.com/privacy-policy.html) dešťový radar. Na stránce počasí dostávají souřadnice hledaného místa. Při použití vaší polohy jde její údaj do volání předpovědi; neposíláme jej další službě jen kvůli převodu na název obce.
 - [OpenStreetMap](https://www.openstreetmap.org/copyright) poskytuje podklad mapy a unpkg.com mapovou knihovnu. Spojení s nimi vzniká na stránce počasí a vidí při něm IP adresu.

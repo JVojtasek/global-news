@@ -1,18 +1,15 @@
-# Reading metrics — draft, not deployed
+# Reading metrics — controlled pilot
 
-This is an isolated prototype. It is not linked from the public site and the
-client endpoint is deliberately blank. A separate D1 database and collector
-have been created for My Paper; only the schema is present. Collector integration
-tests were removed from the database, the collector is disabled, and the public
-site does not use it.
+The pilot uses a dedicated My Paper Cloudflare Worker and D1 database. The
+collector is independently switchable with `ENABLE_COLLECTOR` in wrangler.toml.
 
-The collector accepts only the two reviewed article paths in `reviewedPaths`;
-do not remove this restriction based solely on `g` health tags. Article tags
+The collector accepts only explicitly reviewed article paths in the generated
+public allowlist; do not replace this restriction with `g` health tags. Article tags
 are incomplete: matching is English-oriented, capped at five, and can be
-overridden by article metadata. A real launch needs an editorially reviewed
-allowlist generated from one shared source for client and server, and a policy
-for new or edited articles. The present prototype therefore does not provide
-site-wide analytics.
+overridden by article metadata. `reviewed-paths.json` records the reviewed
+source and its SHA-256 with normalised line endings. The build removes an item
+if the source changes or the article stops being published. Additions require
+review of the complete text in each language. This pilot is not site-wide.
 
 Only daily counts and rounded visible-tab duration totals are written to a
 separate D1 table. There are no session identifiers or reader preference fields.
@@ -21,10 +18,10 @@ logs do not prove that all platform-level logs are disabled. Visible-tab time is
 an estimate, not proof of reading. Requests can be forged, and small totals can
 be identifying in context. Do not display small cohorts as anonymous results.
 
-Before launch: review privacy and retention, add CS/EN privacy disclosures,
-provide a private aggregate dashboard with suppression of small samples, review
-abuse/rate limits and free-tier capacity, test CSP/CORS and browsing flows,
-provision isolated D1, deploy collector, then activate client and verify both
-languages and refusal of health or form data. Do not put credentials in git.
+`report.ps1` queries a private aggregate report for the last 30 days and writes
+an HTML file in the current user's temp folder. It suppresses low counts. The
+global per-location rate limiter is approximate, and the D1 daily cap limits
+accepted events, not requests. Shared free Worker limits still apply. Do not
+put credentials in git. Source preference fields must never be submitted.
 
 Run local checks with `node --test infra/reading-metrics/*.test.mjs`.
