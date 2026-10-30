@@ -6,6 +6,20 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
+### More troops to be sent to West Bank village besieged by Israeli settlers
+- rubrika `world` · sledováno 78 dní · 60 záznamů
+- časová osa:
+  - **2026-10-26** (2 zdrojů) Who are the Israeli candidates trying to unseat Netanyahu?
+  - **2026-10-27** (2 zdrojů) Israel election: Israelis vote for 1st time since October 7 terror attack
+  - **2026-10-27** (1 zdrojů) Turnout high as Israeli voters deliver verdict on Netanyahu
+  - **2026-10-27** (5 zdrojů) Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
+  - **2026-10-28** (3 zdrojů) Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority
+  - **2026-10-28** (2 zdrojů) Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory
+  - **2026-10-28** (2 zdrojů) 'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'
+  - **2026-10-28** (2 zdrojů) Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition
+  - **2026-10-29** (1 zdrojů) Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago
+  - **2026-10-30** (2 zdrojů) Netanyahu attacks Israel’s Arab parties as he falls short of majority
+
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 81 dní · 60 záznamů
 - časová osa:
@@ -19,20 +33,6 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-26** (2 zdrojů) Trump announces Audi will build $4 billion factory in US
   - **2026-10-29** (2 zdrojů) Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
   - **2026-10-29** (2 zdrojů) Russian drone attack on Ukrainian train station kills at least 14, officials say
-
-### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 77 dní · 60 záznamů
-- časová osa:
-  - **2026-10-25** (3 zdrojů) Israel to close all West Bank land crossings on election day
-  - **2026-10-26** (2 zdrojů) Who are the Israeli candidates trying to unseat Netanyahu?
-  - **2026-10-27** (2 zdrojů) Israel election: Israelis vote for 1st time since October 7 terror attack
-  - **2026-10-27** (1 zdrojů) Turnout high as Israeli voters deliver verdict on Netanyahu
-  - **2026-10-27** (5 zdrojů) Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
-  - **2026-10-28** (3 zdrojů) Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority
-  - **2026-10-28** (2 zdrojů) Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory
-  - **2026-10-28** (2 zdrojů) 'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'
-  - **2026-10-28** (2 zdrojů) Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition
-  - **2026-10-29** (1 zdrojů) Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 79 dní · 60 záznamů
