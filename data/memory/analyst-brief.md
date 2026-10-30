@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-10-29
+# ANALYTICKÉ ZADÁNÍ — 2026-10-30
 
-Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **45**.
+Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
 
 ---
 
@@ -77,9 +77,8 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 78 dní · 55 záznamů
+- rubrika `world` · sledováno 79 dní · 56 záznamů
 - časová osa:
-  - **2026-10-15** (1 zdrojů) London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come
   - **2026-10-16** (2 zdrojů) New White House Press Secretary Katie Zacharia on way out after only five days on job, reports say
   - **2026-10-16** (3 zdrojů) White House press secretary Zacharia exiting role after short tenure
   - **2026-10-17** (2 zdrojů) Katie Zacharia leaving her White House role less than five days on the job
@@ -89,6 +88,7 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-10-23** (3 zdrojů) White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'
   - **2026-10-24** (2 zdrojů) White House lifts tariffs on some Canadian goods as midterm elections loom
   - **2026-10-29** (3 zdrojů) What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump
+  - **2026-10-30** (2 zdrojů) Israeli opposition accuses Netanyahu of trying to 'delegitimise' election
 
 ---
 
@@ -96,9 +96,9 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **45**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **Shelton beats Alcaraz in latest-ever US Open finish to reach semis** — naposledy 2026-09-14, celkem 4 záznamů
 - **Hong Kong's Tiananmen activists guilty in national security trial** — naposledy 2026-09-11, celkem 6 záznamů
 - **Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention** — naposledy 2026-09-10, celkem 4 záznamů
 - **Odegaard and Saka star - player ratings for Arsenal v Chelsea** — naposledy 2026-09-10, celkem 3 záznamů
 - **Favourite Kane makes Ballon d'Or shortlist** — naposledy 2026-09-09, celkem 3 záznamů
 - **The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'** — naposledy 2026-09-08, celkem 4 záznamů
-- **Five dead after Amazon cargo plane crashes at Miami airport** — naposledy 2026-09-07, celkem 4 záznamů
