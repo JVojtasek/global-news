@@ -2132,19 +2132,171 @@
    ]
   },
   {
+   "id": "2c2b2700dd7b",
+   "title": "Microsoft Patches a Record 570 Security Flaws",
+   "section": "safety",
+   "entities": [
+    "deploy",
+    "actively",
+    "days",
+    "microsoft",
+    "patches",
+    "encryption",
+    "lazarus",
+    "authorization",
+    "south",
+    "trojans",
+    "token",
+    "cisa",
+    "collabora",
+    "security",
+    "bypass",
+    "allowing",
+    "record",
+    "plant",
+    "weaponized",
+    "patch",
+    "code",
+    "critical",
+    "execution",
+    "keys",
+    "banking",
+    "target",
+    "software",
+    "commerce",
+    "hackers",
+    "exploited",
+    "flaws",
+    "drupal",
+    "theft",
+    "oracle",
+    "exploit",
+    "rented",
+    "steal",
+    "cisco",
+    "arista",
+    "highly"
+   ],
+   "event_ids": [
+    "2c2b2700dd7b",
+    "42a9e60af11b",
+    "838b4b1ce253",
+    "29d08fa787d9",
+    "aabd8e14b270",
+    "cf5c346fcefd",
+    "7325900e53d9",
+    "6d2a0802c49f"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-10-30",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "Microsoft Patches a Record 570 Security Flaws",
+     "sources": 2,
+     "score": 56,
+     "event_id": "2c2b2700dd7b",
+     "links": [
+      "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+     "sources": 1,
+     "score": 46,
+     "event_id": "42a9e60af11b",
+     "links": [
+      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+     "sources": 1,
+     "score": 44,
+     "event_id": "838b4b1ce253",
+     "links": [
+      "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+     "sources": 1,
+     "score": 44,
+     "event_id": "29d08fa787d9",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+      "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+     "sources": 1,
+     "score": 44,
+     "event_id": "aabd8e14b270",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+     "sources": 2,
+     "score": 50,
+     "event_id": "cf5c346fcefd",
+     "links": [
+      "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+     "sources": 1,
+     "score": 46,
+     "event_id": "7325900e53d9",
+     "links": [
+      "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+     "sources": 1,
+     "score": 44,
+     "event_id": "6d2a0802c49f",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "9826c96e0bea",
    "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
    "section": "world",
    "entities": [
-    "stewart",
-    "patrick",
     "star",
+    "mckellen",
+    "stewart",
     "x-men",
+    "patrick",
     "trek"
    ],
    "event_ids": [
     "9826c96e0bea",
-    "e47c8cc9a04a"
+    "e47c8cc9a04a",
+    "fdb9df443096"
    ],
    "first_seen": "2026-10-29",
    "last_seen": "2026-10-30",
@@ -2171,6 +2323,18 @@
       "https://www.dw.com/en/star-trek-star-patrick-stewart-dies-age-86/a-79803071?maca=en-rss-en-all-1573-rdf",
       "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
       "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+     "sources": 1,
+     "score": 44,
+     "event_id": "fdb9df443096",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c6e9lpg2j5z3o?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -4448,144 +4612,6 @@
      "links": [
       "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
       "https://www.france24.com/en/asia-pacific/20261029-north-korea-launches-around-a-dozen-ballistic-missiles-amid-rising-tensions-with-south-korea"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2c2b2700dd7b",
-   "title": "Microsoft Patches a Record 570 Security Flaws",
-   "section": "safety",
-   "entities": [
-    "deploy",
-    "microsoft",
-    "actively",
-    "keys",
-    "arista",
-    "encryption",
-    "classic",
-    "code",
-    "critical",
-    "cisa",
-    "banking",
-    "threatsday",
-    "rented",
-    "token",
-    "allowing",
-    "lazarus",
-    "theft",
-    "steal",
-    "patch",
-    "bypass",
-    "collabora",
-    "security",
-    "hackers",
-    "software",
-    "record",
-    "execution",
-    "weaponized",
-    "plant",
-    "days",
-    "exploited",
-    "flags",
-    "campaign",
-    "trojans",
-    "south",
-    "flaws",
-    "target",
-    "patches",
-    "oracle",
-    "flaw",
-    "cisco"
-   ],
-   "event_ids": [
-    "2c2b2700dd7b",
-    "42a9e60af11b",
-    "838b4b1ce253",
-    "29d08fa787d9",
-    "aabd8e14b270",
-    "cf5c346fcefd",
-    "7325900e53d9"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-10-29",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "Microsoft Patches a Record 570 Security Flaws",
-     "sources": 2,
-     "score": 56,
-     "event_id": "2c2b2700dd7b",
-     "links": [
-      "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-      "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-     "sources": 1,
-     "score": 46,
-     "event_id": "42a9e60af11b",
-     "links": [
-      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-      "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-     "sources": 1,
-     "score": 44,
-     "event_id": "838b4b1ce253",
-     "links": [
-      "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-     "sources": 1,
-     "score": 44,
-     "event_id": "29d08fa787d9",
-     "links": [
-      "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-     "sources": 1,
-     "score": 44,
-     "event_id": "aabd8e14b270",
-     "links": [
-      "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-      "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-     "sources": 2,
-     "score": 50,
-     "event_id": "cf5c346fcefd",
-     "links": [
-      "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-     "sources": 1,
-     "score": 46,
-     "event_id": "7325900e53d9",
-     "links": [
-      "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"
      ]
     }
    ]
@@ -19084,5 +19110,5 @@
    ]
   }
  ],
- "updated": "2026-10-30T06:31:07+00:00"
+ "updated": "2026-10-30T09:22:57+00:00"
 }
