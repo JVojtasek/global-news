@@ -4,7 +4,7 @@ if (!(Test-Path -LiteralPath $Wrangler)) { throw 'Wrangler nebyl nalezen. Nainst
 $env:NODE_OPTIONS = '--use-system-ca'
 $env:CLOUDFLARE_ACCOUNT_ID = '527c0911d8eef3c3834ea7a8db705eef'
 $sql = (Get-Content -LiteralPath (Join-Path $PSScriptRoot 'report.sql') -Raw) -replace '(?m)^--.*$', '' -replace '\s+', ' '
-$json = & $Wrangler d1 execute mypaper-reading-metrics --remote --command $sql --json
+$json = & $Wrangler d1 execute 5a8cae6c-d657-4a62-b852-ab9bad83abce --remote --command $sql --json
 if ($LASTEXITCODE -ne 0) { throw 'Nepodařilo se načíst souhrny z Cloudflare.' }
 $response = $json | ConvertFrom-Json
 if (-not $response[0].success) { throw 'Cloudflare nevrátil úspěšný výsledek.' }
