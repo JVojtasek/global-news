@@ -88,28 +88,28 @@
     <https://www.theverge.com/tech/1019076/google-genie-4-ai-model>
     > Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, 
 
-### 4. Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
-- id události: `bcc76393f0bd`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
+### 4. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
+- id události: `31077fabb6a0`  ·  rubrika: `world`  ·  skóre: 79  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **The Guardian World** — Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
-    <https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats>
-    > Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Israel’s election was too close to call on Tuesday night after a historic turnout by voters for an election described by some as the most
-  - **DW News** — Israel election: Anti-Netanyahu bloc ahead, but no majority
-    <https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-rdf>
-    > While Netanyahu's party is projected to be the biggest in parliament, the anti-Netanyahu coalition looks set to have more seats. But no bloc has a clear majority.
-  - **CNBC Top** — No clear winner in Israeli election, exit polls suggest, as Netanyahu’s fate hangs in the balance
-    <https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html>
-    > Israel's election ended Tuesday with no clear winner, exit polls indicate, likely setting off weeks of jockeying before a leader is declared.
-  - **Al Jazeera** — Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp
-    <https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss>
-    > High turnout in vote widely described as the most consequential in Israel's history.
-  - **France 24** — Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'
-    <https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy>
-    > Erin Ogunkeye is pleased to welcome Ron Gerlitz, CEO of aChord Center at Hebrew University, an Israeli organization specialising in the social psychology of intergroup relations. “The main issue in this election is the fight for Israeli democracy,” explains Gerlitz. And beneath t
-  - **Al Jazeera** — Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters
-    <https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss>
-    > In one social media post, PM Netanyahu accused Arab voters of 'raiding the polling stations and stealing the elections'.
+  - **BBC World** — Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
+    <https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss>
+    > The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.
+  - **BBC Technology** — Who could be behind the Binance hack and what we know so far
+    <https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss>
+    > Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far
+  - **The Guardian World** — How crypto hacking funds isolated North Korea’s nuclear programme
+    <https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme>
+    > Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it
+  - **CNBC Top** — Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds
+    <https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html>
+    > More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.
+  - **Al Jazeera** — Kim Jong Un calls for North Korea’s drone technology superiority
+    <https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss>
+    > North Korean leader Kim Jong Un calls for “absolute superiority” in drone capabilities.
+  - **Al Jazeera** — Swiss foreign minister talks political ties on rare visit to North Korea
+    <https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss>
+    > Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.
 
 ---
 
@@ -147,7 +147,6 @@
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-23  (3 zdrojů, síla 60)  Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
   2026-10-23  (3 zdrojů, síla 56)  Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed
   2026-10-23  (2 zdrojů, síla 57)  Netanyahu weighs West Bank operation ahead of elections: ‘Politically, it will not help anybody’
   2026-10-24  (2 zdrojů, síla 42)  As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?
@@ -167,6 +166,7 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-29  (1 zdrojů, síla 40)  Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago
   2026-10-30  (2 zdrojů, síla 41)  Netanyahu attacks Israel’s Arab parties as he falls short of majority
   2026-10-30  (2 zdrojů, síla 43)  Palestinian voter turnout exposes Israel’s attitude towards Arab citizens
+  2026-10-30  (1 zdrojů, síla 40)  Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries
 ```
 
 ### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
