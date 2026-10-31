@@ -34,6 +34,20 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-31** (2 zdrojů) Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
   - **2026-10-31** (2 zdrojů) Chelsea v Manchester United: Premier League – live
 
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 83 dní · 60 záznamů
+- časová osa:
+  - **2026-10-06** (2 zdrojů) Kane scores twice but who else was a 'real threat'? England player ratings
+  - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
+  - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
+  - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
+  - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
+  - **2026-10-27** (3 zdrojů) Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
+  - **2026-10-27** (4 zdrojů) 'A dream come true' - Harry Kane on his Ballon d'Or win
+  - **2026-10-27** (2 zdrojů) Quiz: Kane and who else? Name every men's Ballon d'Or winner
+  - **2026-10-30** (2 zdrojů) England thrash Wales to begin World Cup defence
+  - **2026-10-31** (2 zdrojů) Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live
+
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 78 dní · 60 záznamů
 - časová osa:
@@ -47,20 +61,6 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-30** (2 zdrojů) Some Monkeys Seem to Become Germophobic After Living Through a Disease Outbreak, Just Like Humans
   - **2026-10-30** (1 zdrojů) For Over Four Years, the Hirshhorn Worked to Revitalize Its Sculpture Garden. Today, It's Home to a 'King and Queen,' a 'Wish Tree' and a 55,000-Pound Vertical Swimming Pool Artwork
   - **2026-10-30** (1 zdrojů) Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 82 dní · 60 záznamů
-- časová osa:
-  - **2026-10-06** (2 zdrojů) England v Czechia: Nations League football – live
-  - **2026-10-06** (2 zdrojů) Kane scores twice but who else was a 'real threat'? England player ratings
-  - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
-  - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
-  - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
-  - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
-  - **2026-10-27** (3 zdrojů) Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
-  - **2026-10-27** (4 zdrojů) 'A dream come true' - Harry Kane on his Ballon d'Or win
-  - **2026-10-27** (2 zdrojů) Quiz: Kane and who else? Name every men's Ballon d'Or winner
-  - **2026-10-30** (2 zdrojů) England thrash Wales to begin World Cup defence
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 81 dní · 60 záznamů
@@ -77,10 +77,8 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-29** (2 zdrojů) Russian drone attack on Ukrainian train station kills at least 14, officials say
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 79 dní · 56 záznamů
+- rubrika `world` · sledováno 80 dní · 58 záznamů
 - časová osa:
-  - **2026-10-16** (2 zdrojů) New White House Press Secretary Katie Zacharia on way out after only five days on job, reports say
-  - **2026-10-16** (3 zdrojů) White House press secretary Zacharia exiting role after short tenure
   - **2026-10-17** (2 zdrojů) Katie Zacharia leaving her White House role less than five days on the job
   - **2026-10-18** (3 zdrojů) Trump endorses Netanyahu in Israeli legislative elections
   - **2026-10-19** (2 zdrojů) EU tariffs aimed at China hitting Ukraine, steel boss says
@@ -89,6 +87,8 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-24** (2 zdrojů) White House lifts tariffs on some Canadian goods as midterm elections loom
   - **2026-10-29** (3 zdrojů) What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump
   - **2026-10-30** (2 zdrojů) Israeli opposition accuses Netanyahu of trying to 'delegitimise' election
+  - **2026-10-31** (2 zdrojů) Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory
+  - **2026-10-31** (2 zdrojů) How has the ceasefire in Russian-occupied Oleshky been unfolding?
 
 ---
 
