@@ -23,7 +23,6 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 74 dní · 60 záznamů
 - časová osa:
-  - **2026-10-22** (2 zdrojů) Villa maintain perfect Champions League start with Viking victory
   - **2026-10-23** (1 zdrojů) Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
   - **2026-10-23** (1 zdrojů) A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
   - **2026-10-24** (2 zdrojů) Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
@@ -33,6 +32,7 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-26** (2 zdrojů) Manchester United crisis: What are the top five problems facing the club?
   - **2026-10-30** (2 zdrojů) Chelsea vs Manchester United: Premier League – teams, prediction, lineups
   - **2026-10-31** (2 zdrojů) Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
+  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United: Premier League – live
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 78 dní · 60 záznamů

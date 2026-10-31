@@ -174,7 +174,6 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-18  (3 zdrojů, síla 60)  Man Utd showed 'unity' in draw with Leeds - Carrick
   2026-10-19  (1 zdrojů, síla 44)  Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
   2026-10-20  (2 zdrojů, síla 40)  Ronaldo let Manchester United down - Ten Hag
   2026-10-20  (2 zdrojů, síla 43)  Liverpool v Villarreal: Champions League – live
@@ -194,6 +193,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?
   2026-10-30  (2 zdrojů, síla 42)  Chelsea vs Manchester United: Premier League – teams, prediction, lineups
   2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
+  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United: Premier League – live
 ```
 
 ---

@@ -812,46 +812,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "madrid",
-    "a-leagues",
-    "beckett",
-    "burnham",
-    "jackson",
-    "aston",
-    "chelsea",
-    "carrick",
-    "guardiola",
-    "manzambi",
-    "barcelona's",
-    "gakpo",
-    "brighton",
-    "league",
-    "howe",
-    "greenwood",
-    "premier",
-    "villarreal",
-    "isak",
-    "united",
     "phil",
-    "wilcox",
-    "leeds",
+    "howe",
+    "villarreal",
+    "league",
+    "gakpo",
     "manchester",
-    "city",
-    "martinez",
-    "uk's",
-    "troy's",
     "football",
-    "melbourne",
-    "jonathan",
-    "wilson",
-    "villa",
-    "forest",
+    "chelsea",
+    "uk's",
+    "greenwood",
     "real",
-    "tuchel",
-    "glasner",
+    "european",
+    "jackson",
+    "manzambi",
+    "wilson",
+    "united",
+    "barcelona's",
+    "martinez",
+    "jonathan",
+    "premier",
+    "troy's",
     "ronaldo",
+    "glasner",
+    "city",
+    "burnham",
+    "madrid",
+    "forest",
+    "beckett",
+    "aston",
+    "wilcox",
+    "melbourne",
+    "tuchel",
+    "brighton",
     "terland",
-    "european"
+    "villa",
+    "carrick",
+    "isak",
+    "leeds",
+    "a-leagues",
+    "guardiola"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -989,22 +989,12 @@
     "3abeec34a5c5",
     "08da36184934",
     "e126ca378e93",
-    "8e58060bf08f"
+    "8e58060bf08f",
+    "05fad3115699"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-10-31",
    "timeline": [
-    {
-     "date": "2026-09-30",
-     "headline": "'Business as usual' for Man City Women despite Premier League guilty verdicts",
-     "sources": 2,
-     "score": 48,
-     "event_id": "fa19e735d50f",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c6kgxrr94dyno?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/live/2026/sep/30/paris-fc-v-arsenal-womens-champions-league-live"
-     ]
-    },
     {
      "date": "2026-10-01",
      "headline": "Manchester City v Real Madrid: Women’s Champions League – live",
@@ -1681,6 +1671,17 @@
       "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-buildup-premier-league-wsl-and-more-matchday-live",
       "https://www.aljazeera.com/sports/liveblog/2026/10/31/chelsea-vs-manchester-united-live-premier-league?traffic_source=rss",
       "https://www.theguardian.com/football/2026/oct/31/how-to-watch-premier-league-chelsea-manchester-united"
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Chelsea v Manchester United: Premier League – live",
+     "sources": 2,
+     "score": 42,
+     "event_id": "05fad3115699",
+     "links": [
+      "https://www.theguardian.com/football/live/2026/oct/31/chelsea-v-manchester-united-premier-league-live",
+      "https://www.aljazeera.com/sports/2026/10/31/liverpool-arsenal-premier-league-predictions-news-lineups?traffic_source=rss"
      ]
     }
    ]
@@ -19298,5 +19299,5 @@
    ]
   }
  ],
- "updated": "2026-10-31T09:19:20+00:00"
+ "updated": "2026-10-31T12:21:46+00:00"
 }
