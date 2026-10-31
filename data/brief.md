@@ -138,7 +138,36 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
+### 1. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
+- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+rubrika: world · sledováno od 2026-08-11 · záznamů: 60
+  2026-09-23  (2 zdrojů, síla 44)  Zelenskyy to present Ukraine’s case to UN general assembly – live
+  2026-09-23  (2 zdrojů, síla 40)  US envoy walks out on Pezeshkian UN speech slamming war on Iran
+  2026-09-24  (2 zdrojů, síla 46)  Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
+  2026-09-29  (3 zdrojů, síla 53)  Estonia blames Russia for arson at defence company supplying Ukraine
+  2026-09-29  (2 zdrojů, síla 40)  Estonia blames Russia for arson attack on defense company
+  2026-09-30  (2 zdrojů, síla 44)  Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
+  2026-09-30  (2 zdrojů, síla 42)  ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
+  2026-09-30  (2 zdrojů, síla 41)  Questions remain over Iran’s link to alleged RAF Fairford bomb plot
+  2026-10-01  (2 zdrojů, síla 48)  Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
+  2026-10-03  (3 zdrojů, síla 56)  Russia strikes second major bridge in Kyiv, mayor says
+  2026-10-04  (2 zdrojů, síla 46)  Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
+  2026-10-04  (2 zdrojů, síla 45)  Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
+  2026-10-04  (2 zdrojů, síla 44)  Ukraine ready for US-backed talks with Russia: Zelenskyy
+  2026-10-13  (2 zdrojů, síla 43)  ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
+  2026-10-14  (2 zdrojů, síla 40)  Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns
+  2026-10-19  (2 zdrojů, síla 40)  Strait of Hormuz scoured for spilt cargo after Iran attacks container ships
+  2026-10-21  (2 zdrojů, síla 42)  Russia arrests German man, calls him a Ukraine 'mercenary'
+  2026-10-21  (3 zdrojů, síla 54)  Russia says it is ready to resume talks with Ukraine and US to end war
+  2026-10-22  (2 zdrojů, síla 43)  Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
+  2026-10-31  (2 zdrojů, síla 40)  Iran says four tankers on fire after striking mines in Hormuz
+```
+
+### 2. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
 - id: `09443cca3ddd`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -165,35 +194,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-30  (2 zdrojů, síla 52)  Some Monkeys Seem to Become Germophobic After Living Through a Disease Outbreak, Just Like Humans
   2026-10-30  (1 zdrojů, síla 44)  For Over Four Years, the Hirshhorn Worked to Revitalize Its Sculpture Garden. Today, It's Home to a 'King and Queen,' a 'Wish Tree' and a 55,000-Pound Vertical Swimming Pool Artwork
   2026-10-30  (1 zdrojů, síla 40)  Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
-```
-
-### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-09-30  (2 zdrojů, síla 51)  Republic of Ireland will play second Israel game - Hallgrimsson
-  2026-10-01  (2 zdrojů, síla 42)  Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live
-  2026-10-02  (3 zdrojů, síla 55)  Klopp wins first game as Germany coach, without 'top dogs'
-  2026-10-03  (2 zdrojů, síla 46)  Who has 'no ceiling' as Northern Ireland shine in Nations League?
-  2026-10-03  (2 zdrojů, síla 44)  LIVE: Croatia vs England – UEFA Nations League
-  2026-10-03  (2 zdrojů, síla 54)  North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
-  2026-10-05  (2 zdrojů, síla 56)  Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
-  2026-10-06  (2 zdrojů, síla 43)  Nations League roundup: Olise leads late charge as France bowl over Belgium
-  2026-10-06  (2 zdrojů, síla 44)  Nations League: France defeat Belgium in second-half comeback
-  2026-10-06  (2 zdrojů, síla 47)  How promotion, relegation and knockouts work in Nations League
-  2026-10-06  (2 zdrojů, síla 45)  England v Czechia: Nations League football – live
-  2026-10-06  (2 zdrojů, síla 52)  Kane scores twice but who else was a 'real threat'? England player ratings
-  2026-10-07  (2 zdrojů, síla 42)  Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
-  2026-10-08  (3 zdrojů, síla 58)  Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
-  2026-10-22  (2 zdrojů, síla 46)  Harry Kane: Ballon d’Or for Bayern Munich striker?
-  2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes
-  2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
-  2026-10-27  (4 zdrojů, síla 70)  'A dream come true' - Harry Kane on his Ballon d'Or win
-  2026-10-27  (2 zdrojů, síla 52)  Quiz: Kane and who else? Name every men's Ballon d'Or winner
-  2026-10-30  (2 zdrojů, síla 57)  England thrash Wales to begin World Cup defence
 ```
 
 ---

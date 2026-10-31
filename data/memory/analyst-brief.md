@@ -6,6 +6,20 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
+### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+- rubrika `world` · sledováno 81 dní · 60 záznamů
+- časová osa:
+  - **2026-10-04** (2 zdrojů) Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
+  - **2026-10-04** (2 zdrojů) Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
+  - **2026-10-04** (2 zdrojů) Ukraine ready for US-backed talks with Russia: Zelenskyy
+  - **2026-10-13** (2 zdrojů) ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
+  - **2026-10-14** (2 zdrojů) Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns
+  - **2026-10-19** (2 zdrojů) Strait of Hormuz scoured for spilt cargo after Iran attacks container ships
+  - **2026-10-21** (2 zdrojů) Russia arrests German man, calls him a Ukraine 'mercenary'
+  - **2026-10-21** (3 zdrojů) Russia says it is ready to resume talks with Ukraine and US to end war
+  - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
+  - **2026-10-31** (2 zdrojů) Iran says four tankers on fire after striking mines in Hormuz
+
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 78 dní · 60 záznamů
 - časová osa:
@@ -61,20 +75,6 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-26** (2 zdrojů) Trump announces Audi will build $4 billion factory in US
   - **2026-10-29** (2 zdrojů) Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
   - **2026-10-29** (2 zdrojů) Russian drone attack on Ukrainian train station kills at least 14, officials say
-
-### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 72 dní · 60 záznamů
-- časová osa:
-  - **2026-10-03** (3 zdrojů) Russia strikes second major bridge in Kyiv, mayor says
-  - **2026-10-04** (2 zdrojů) Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
-  - **2026-10-04** (2 zdrojů) Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
-  - **2026-10-04** (2 zdrojů) Ukraine ready for US-backed talks with Russia: Zelenskyy
-  - **2026-10-13** (2 zdrojů) ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
-  - **2026-10-14** (2 zdrojů) Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns
-  - **2026-10-19** (2 zdrojů) Strait of Hormuz scoured for spilt cargo after Iran attacks container ships
-  - **2026-10-21** (2 zdrojů) Russia arrests German man, calls him a Ukraine 'mercenary'
-  - **2026-10-21** (3 zdrojů) Russia says it is ready to resume talks with Ukraine and US to end war
-  - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 79 dní · 56 záznamů
