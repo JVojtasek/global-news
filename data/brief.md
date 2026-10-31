@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-30
+# ZADÁNÍ PRO REDAKCI — 2026-10-31
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -86,39 +86,39 @@
     <https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss>
     > Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.
 
-### 4. Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
-- id události: `bcc76393f0bd`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
+### 4. Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use
+- id události: `bfd6acefc1fb`  ·  rubrika: `tech`  ·  skóre: 71  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **The Guardian World** — Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
-    <https://www.theguardian.com/world/2026/oct/27/israel-election-too-close-to-call-as-exit-polls-give-netanyahu-bloc-slightly-fewer-seats>
-    > Early indications suggest it will be some time before the shape of new government and who will lead it is clear Israel election – live updates Israel’s election was too close to call on Tuesday night after a historic turnout by voters for an election described by some as the most
-  - **DW News** — Israel election: Anti-Netanyahu bloc ahead, but no majority
-    <https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-rdf>
-    > While Netanyahu's party is projected to be the biggest in parliament, the anti-Netanyahu coalition looks set to have more seats. But no bloc has a clear majority.
-  - **CNBC Top** — No clear winner in Israeli election, exit polls suggest, as Netanyahu’s fate hangs in the balance
-    <https://www.cnbc.com/2026/10/27/no-clear-winner-in-israeli-election-exit-polls-suggest-as-netanyahus-fate-hangs-in-the-balance.html>
-    > Israel's election ended Tuesday with no clear winner, exit polls indicate, likely setting off weeks of jockeying before a leader is declared.
-  - **Al Jazeera** — Israel election results live: Eisenkot bloc ‘ahead’ of Netanyahu camp
-    <https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss>
-    > High turnout in vote widely described as the most consequential in Israel's history.
-  - **France 24** — Israeli elections a 'referendum' on Netanyahu, security and whether Israel will 'remain a democracy'
-    <https://www.france24.com/en/israeli-elections-a-referendum-on-netanyahu-security-and-whether-israel-will-remain-a-democracy>
-    > Erin Ogunkeye is pleased to welcome Ron Gerlitz, CEO of aChord Center at Hebrew University, an Israeli organization specialising in the social psychology of intergroup relations. “The main issue in this election is the fight for Israeli democracy,” explains Gerlitz. And beneath t
-  - **Al Jazeera** — Arab parties in Israel accuse Netanyahu of inciting hatred to scare voters
-    <https://www.aljazeera.com/news/2026/10/27/arab-parties-in-israel-accuse-netanyahu-of-inciting-hatred-to-scare-voters?traffic_source=rss>
-    > In one social media post, PM Netanyahu accused Arab voters of 'raiding the polling stations and stealing the elections'.
+  - **Ars Technica** — Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use
+    <https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/>
+    > Gemini 4 Carbon is essentially a slightly better version of Argon.
+  - **Ars Technica AI** — Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use
+    <https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/>
+    > Gemini 4 Carbon is essentially a slightly better version of Argon.
+  - **The Verge** — Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity
+    <https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier>
+    > Google has released its latest frontier model, Gemini 4 Carbon, offering "significant gains" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Clau
+  - **The Verge AI** — Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity
+    <https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier>
+    > Google has released its latest frontier model, Gemini 4 Carbon, offering "significant gains" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Clau
+  - **TechCrunch** — As AI agents reshape the web, Google opens Gemini and Search to more apps
+    <https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/>
+    > A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.
+  - **Hacker News Best** — Gemini 4 Carbon
+    <https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/>
+    > Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 615 # Comments: 512
 
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### space telescope
-- rubrika: `science`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### toddler tantrums
+- rubrika: `parenting`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
-  - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
-  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
+  - Toddler — <https://en.wikipedia.org/wiki/Toddler>
+  - Tantrum — <https://en.wikipedia.org/wiki/Tantrum>
+  - Toddlers & Tiaras — <https://en.wikipedia.org/wiki/Toddlers_&_Tiaras>
 
 ---
 
