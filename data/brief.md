@@ -9,36 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. What we know so far about deadly Spain train crash
-- id události: `09bc1ee5375a`  ·  rubrika: `world`  ·  skóre: 85  ·  nezávislých zdrojů: 6
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — What we know so far about deadly Spain train crash
-    <https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss>
-    > More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.
-  - **The Guardian World** — Spain train crash: at least 30 dead after collision in Toledo province
-    <https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo>
-    > High-speed service reportedly runs into back of another, knocking two carriages off track Spain train crash – latest updates At least 30 people have been killed after two high-speed trains collided in Toledo province in central Spain, on the line between Madrid and Seville. Foota
-  - **NPR News** — At least 30 dead in crash between two trains in central Spain, media say
-    <https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster>
-    > A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 30 people on Wednesday in central Spain, according to local media.
-  - **CNBC Top** — At least 30 people reported dead in high-speed Spain train crash
-    <https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html>
-    > It is the second deadly high-speed train collision in Spain this year.
-  - **Al Jazeera** — Deadly high-speed train collision in Spain
-    <https://www.aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain?traffic_source=rss>
-    > At least 39 people have been killed after two high-speed trains collided near Urda, Spain.
-  - **France 24** — Spain: Local authorities confirm at least 10 dead in train accident
-    <https://www.france24.com/en/spain-local-authorities-confirm-at-least-10-dead-in-train-accident>
-    > Two trains travelling in opposite directions have collided in southern Spain, on the route between Madrid and Seville. At least 10 deaths have been confirmed, although some media reports put the toll as high as 39. The crash brings back painful memories of a deadly train accident
-  - **France 24** — Spain: At least 10 dead in crash between 2 high-speed trains
-    <https://www.france24.com/en/video/20261028-spain-at-least-10-dead-in-crash-between-2-high-speed-trains>
-    > At least ten people have died in a crash between two trains in central Spain. The crash occurred Wednesday morning in the province of Toledo. Rail service is suspended between Madrid, Ciudad Real and Andalusia. France 24's correspondent in Madrid Sarah Morris reports the latest.
-  - **Al Jazeera** — Train collision in Spain kills at least 30 people
-    <https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain?traffic_source=rss>
-    > Crash occurred near Urda in Toledo province, south of Madrid, on high-speed line connecting the capital with Seville.
-
-### 2. Christine Lagarde departs at a moment of peril
+### 1. Christine Lagarde departs at a moment of peril
 - id události: `517fa132c460`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 6
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -63,7 +34,7 @@
     <https://www.france24.com/en/europe/20261029-ecb-president-christine-lagarde-to-step-down-in-february-2027-nine-months-before-term-ends>
     > European Central Bank President Christine Lagarde will step down on February 7, 2027, nearly nine months before her term expires, the ECB said Thursday. Her successor will be appointed by the European Council under EU treaty rules.
 
-### 3. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
+### 2. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
 - id události: `31077fabb6a0`  ·  rubrika: `world`  ·  skóre: 79  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -86,7 +57,7 @@
     <https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss>
     > Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.
 
-### 4. Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use
+### 3. Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use
 - id události: `bfd6acefc1fb`  ·  rubrika: `tech`  ·  skóre: 71  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -108,6 +79,26 @@
   - **Hacker News Best** — Gemini 4 Carbon
     <https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/>
     > Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 615 # Comments: 512
+
+### 4. Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86
+- id události: `9826c96e0bea`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **NPR News** — Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86
+    <https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead>
+    > Stewart was raised by an abusive father but became best known for playing kind, paternal leaders who united families of misfits.
+  - **BBC Entertainment** — Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare
+    <https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss>
+    > The English actor began his career on stage before finding fame as the captain of the USS Enterprise.
+  - **France 24** — Patrick Stewart, star of 'Star Trek' and 'X men', dies age 86
+    <https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86>
+    > The British actor Patrick Stewart has died at age 86 a statement released on Thursday said. Stewart was an acclaimed actor in Britain with the Royal Shakespeare Company before he starred in the beloved sci-fi TV show "Star Trek" in the 80s and later in the "X-Men" franchise.
+  - **The Verge** — Patrick Stewart has died at age 86
+    <https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death>
+    > Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday "following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia."
+  - **Hacker News Best** — Patrick Stewart has died
+    <https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html>
+    > https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 1287 # Comments: 245
 
 ---
 

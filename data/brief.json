@@ -6,92 +6,6 @@
  "reserve_articles": 9,
  "news_assignments": [
   {
-   "id": "09bc1ee5375a",
-   "headline": "What we know so far about deadly Spain train crash",
-   "section": "world",
-   "score": 85,
-   "sources_count": 6,
-   "depth_signal": 2,
-   "created": "2026-10-28T12:28:57+00:00",
-   "event_time": "2026-10-28T12:14:44+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "What we know so far about deadly Spain train crash",
-     "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
-     "published_at": "2026-10-28T12:14:44+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-28T12:28:52+00:00"
-    },
-    {
-     "title": "Spain train crash: at least 30 dead after collision in Toledo province",
-     "url": "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo",
-     "source": "The Guardian World",
-     "summary": "High-speed service reportedly runs into back of another, knocking two carriages off track Spain train crash – latest updates At least 30 people have been killed after two high-speed trains collided in Toledo province in central Spain, on the line between Madrid and Seville. Footage broadcast by the regional channel CMM TV ​showed a derailed train with at least one carriage remaining on an elevated",
-     "published_at": "2026-10-28T11:01:47+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-28T12:28:52+00:00"
-    },
-    {
-     "title": "At least 30 dead in crash between two trains in central Spain, media say",
-     "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
-     "source": "NPR News",
-     "summary": "A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 30 people on Wednesday in central Spain, according to local media.",
-     "published_at": "2026-10-28T10:09:46+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-28T12:28:52+00:00"
-    },
-    {
-     "title": "At least 30 people reported dead in high-speed Spain train crash",
-     "url": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-     "source": "CNBC Top",
-     "summary": "It is the second deadly high-speed train collision in Spain this year.",
-     "published_at": "2026-10-28T11:43:12+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-28T12:28:52+00:00"
-    },
-    {
-     "title": "Deadly high-speed train collision in Spain",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "At least 39 people have been killed after two high-speed trains collided near Urda, Spain.",
-     "published_at": "2026-10-28T11:02:31+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-28T12:28:52+00:00"
-    },
-    {
-     "title": "Spain: Local authorities confirm at least 10 dead in train accident",
-     "url": "https://www.france24.com/en/spain-local-authorities-confirm-at-least-10-dead-in-train-accident",
-     "source": "France 24",
-     "summary": "Two trains travelling in opposite directions have collided in southern Spain, on the route between Madrid and Seville. At least 10 deaths have been confirmed, although some media reports put the toll as high as 39. The crash brings back painful memories of a deadly train accident in Córdoba in January. The cause of the collision remains unknown. France 24 correspondent Sarah Morris joins us live f",
-     "published_at": "2026-10-28T10:17:48+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-28T12:28:52+00:00"
-    },
-    {
-     "title": "Spain: At least 10 dead in crash between 2 high-speed trains",
-     "url": "https://www.france24.com/en/video/20261028-spain-at-least-10-dead-in-crash-between-2-high-speed-trains",
-     "source": "France 24",
-     "summary": "At least ten people have died in a crash between two trains in central Spain. The crash occurred Wednesday morning in the province of Toledo. Rail service is suspended between Madrid, Ciudad Real and Andalusia. France 24's correspondent in Madrid Sarah Morris reports the latest.",
-     "published_at": "2026-10-28T10:11:43+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-28T12:28:52+00:00"
-    },
-    {
-     "title": "Train collision in Spain kills at least 30 people",
-     "url": "https://www.aljazeera.com/news/2026/10/28/injuries-reported-after-two-trains-collide-in-spain?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Crash occurred near Urda in Toledo province, south of Madrid, on high-speed line connecting the capital with Seville.",
-     "published_at": "2026-10-28T09:26:47+00:00",
-     "source_countries": [],
-     "seen_at": "2026-10-28T12:28:52+00:00"
-    }
-   ],
-   "depth": "scripture"
-  },
-  {
    "id": "517fa132c460",
    "headline": "Christine Lagarde departs at a moment of peril",
    "section": "world",
@@ -300,6 +214,65 @@
      "published_at": "2026-10-28T17:01:23+00:00",
      "source_countries": [],
      "seen_at": "2026-10-28T21:19:38+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
+   "id": "9826c96e0bea",
+   "headline": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
+   "section": "world",
+   "score": 71,
+   "sources_count": 5,
+   "depth_signal": 0,
+   "created": "2026-10-29T21:20:08+00:00",
+   "event_time": "2026-10-29T20:29:13+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
+     "url": "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
+     "source": "NPR News",
+     "summary": "Stewart was raised by an abusive father but became best known for playing kind, paternal leaders who united families of misfits.",
+     "published_at": "2026-10-29T20:29:13+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-29T21:20:03+00:00"
+    },
+    {
+     "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
+     "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Entertainment",
+     "summary": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
+     "published_at": "2026-10-29T20:24:59+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-29T21:20:03+00:00"
+    },
+    {
+     "title": "Patrick Stewart, star of 'Star Trek' and 'X men', dies age 86",
+     "url": "https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86",
+     "source": "France 24",
+     "summary": "The British actor Patrick Stewart has died at age 86 a statement released on Thursday said. Stewart was an acclaimed actor in Britain with the Royal Shakespeare Company before he starred in the beloved sci-fi TV show \"Star Trek\" in the 80s and later in the \"X-Men\" franchise.",
+     "published_at": "2026-10-29T20:21:52+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-29T21:20:03+00:00"
+    },
+    {
+     "title": "Patrick Stewart has died at age 86",
+     "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
+     "source": "The Verge",
+     "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia.\" Born in 1940 in Mirfield, Yorkshire, England, […]",
+     "published_at": "2026-10-29T20:10:02+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-29T21:20:03+00:00"
+    },
+    {
+     "title": "Patrick Stewart has died",
+     "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+     "source": "Hacker News Best",
+     "summary": "https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 1287 # Comments: 245",
+     "published_at": "2026-10-29T19:41:39+00:00",
+     "source_countries": [],
+     "seen_at": "2026-10-29T21:20:03+00:00"
     }
    ],
    "depth": "open"
