@@ -77,9 +77,8 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-29** (2 zdrojů) Russian drone attack on Ukrainian train station kills at least 14, officials say
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 80 dní · 58 záznamů
+- rubrika `world` · sledováno 80 dní · 59 záznamů
 - časová osa:
-  - **2026-10-17** (2 zdrojů) Katie Zacharia leaving her White House role less than five days on the job
   - **2026-10-18** (3 zdrojů) Trump endorses Netanyahu in Israeli legislative elections
   - **2026-10-19** (2 zdrojů) EU tariffs aimed at China hitting Ukraine, steel boss says
   - **2026-10-19** (3 zdrojů) Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
@@ -89,6 +88,7 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-30** (2 zdrojů) Israeli opposition accuses Netanyahu of trying to 'delegitimise' election
   - **2026-10-31** (2 zdrojů) Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory
   - **2026-10-31** (2 zdrojů) How has the ceasefire in Russian-occupied Oleshky been unfolding?
+  - **2026-10-31** (2 zdrojů) Oleshky evacuees reunite with families after truce allows crossing back into Ukraine
 
 ---
 

@@ -2521,46 +2521,46 @@
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
    "entities": [
-    "karoline",
-    "journalists",
-    "monarchs",
-    "netanyahu",
-    "katie",
-    "ukraine-russia",
-    "intelligence",
+    "inscribed",
+    "oleshky",
+    "israeli",
     "evacuees",
-    "kyiv-controlled",
-    "come",
+    "journalists",
     "chinese",
-    "land",
-    "company",
-    "melania",
+    "site",
+    "white",
+    "katie",
+    "secretary",
+    "ukraine",
+    "tetris",
+    "monarchs",
+    "china",
+    "generations",
+    "mines",
+    "crypto",
+    "does",
+    "intelligence",
     "stars",
-    "stewart",
-    "national",
+    "house",
+    "come",
+    "land",
+    "press",
+    "company",
+    "russian-occupied",
+    "netanyahu",
     "prime",
     "canadian",
-    "mines",
     "driscoll",
-    "oleshky",
-    "ukraine",
-    "china",
-    "white",
-    "crypto",
-    "site",
-    "does",
-    "secretary",
-    "house",
-    "inscribed",
     "army",
-    "leavitt",
-    "generations",
+    "karoline",
+    "kyiv-controlled",
     "trump",
-    "israeli",
+    "national",
+    "stewart",
+    "melania",
     "living",
-    "tetris",
-    "press",
-    "russian-occupied"
+    "ukraine-russia",
+    "leavitt"
    ],
    "event_ids": [
     "d4578d08ad87",
@@ -2620,7 +2620,8 @@
     "eaf6f6cabf1e",
     "121deaff89ef",
     "edc679757d8d",
-    "936d143ebe9e"
+    "936d143ebe9e",
+    "f80701f178a4"
    ],
    "first_seen": "2026-08-12",
    "last_seen": "2026-10-31",
@@ -3281,6 +3282,17 @@
      "links": [
       "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/europe/20261030-residents-leave-russian-occupied-oleshky-in-evacuation-operation"
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+     "sources": 2,
+     "score": 42,
+     "event_id": "f80701f178a4",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss"
      ]
     }
    ]
@@ -19364,5 +19376,5 @@
    ]
   }
  ],
- "updated": "2026-10-31T18:19:17+00:00"
+ "updated": "2026-10-31T21:19:18+00:00"
 }
