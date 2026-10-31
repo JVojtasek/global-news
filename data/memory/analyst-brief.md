@@ -20,6 +20,20 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
   - **2026-10-31** (2 zdrojů) Iran says four tankers on fire after striking mines in Hormuz
 
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 74 dní · 60 záznamů
+- časová osa:
+  - **2026-10-22** (2 zdrojů) Villa maintain perfect Champions League start with Viking victory
+  - **2026-10-23** (1 zdrojů) Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
+  - **2026-10-23** (1 zdrojů) A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
+  - **2026-10-24** (2 zdrojů) Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
+  - **2026-10-24** (1 zdrojů) Aston Villa v Manchester City: Premier League – live
+  - **2026-10-24** (3 zdrojů) Jackson stars with two goals - player ratings for Aston Villa v Man City
+  - **2026-10-25** (2 zdrojů) Terland strikes late as United end Manchester City’s winning start in WSL
+  - **2026-10-26** (2 zdrojů) Manchester United crisis: What are the top five problems facing the club?
+  - **2026-10-30** (2 zdrojů) Chelsea vs Manchester United: Premier League – teams, prediction, lineups
+  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
+
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 78 dní · 60 záznamů
 - časová osa:
@@ -47,20 +61,6 @@ Paměť obsahuje **172 vláken**. Aktivních za posledních 14 dní: **42**.
   - **2026-10-27** (4 zdrojů) 'A dream come true' - Harry Kane on his Ballon d'Or win
   - **2026-10-27** (2 zdrojů) Quiz: Kane and who else? Name every men's Ballon d'Or winner
   - **2026-10-30** (2 zdrojů) England thrash Wales to begin World Cup defence
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 73 dní · 60 záznamů
-- časová osa:
-  - **2026-10-22** (4 zdrojů) Real Madrid dominate Leipzig for third straight win
-  - **2026-10-22** (2 zdrojů) Villa maintain perfect Champions League start with Viking victory
-  - **2026-10-23** (1 zdrojů) Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
-  - **2026-10-23** (1 zdrojů) A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
-  - **2026-10-24** (2 zdrojů) Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
-  - **2026-10-24** (1 zdrojů) Aston Villa v Manchester City: Premier League – live
-  - **2026-10-24** (3 zdrojů) Jackson stars with two goals - player ratings for Aston Villa v Man City
-  - **2026-10-25** (2 zdrojů) Terland strikes late as United end Manchester City’s winning start in WSL
-  - **2026-10-26** (2 zdrojů) Manchester United crisis: What are the top five problems facing the club?
-  - **2026-10-30** (2 zdrojů) Chelsea vs Manchester United: Premier League – teams, prediction, lineups
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 81 dní · 60 záznamů

@@ -167,33 +167,33 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
   2026-10-31  (2 zdrojů, síla 40)  Iran says four tankers on fire after striking mines in Hormuz
 ```
 
-### 2. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
-- id: `09443cca3ddd`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
+- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
-rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-24  (2 zdrojů, síla 43)  Israeli PM pledges massive military operation after West Bank checkpoint attack
-  2026-10-24  (2 zdrojů, síla 43)  Israel begins demolitions in West Bank
-  2026-10-25  (2 zdrojů, síla 40)  Israel to close occupied West Bank crossings as it locks down Hebron
-  2026-10-25  (2 zdrojů, síla 42)  Israeli soldiers raze neighbourhood in Hebron, driving families from homes
-  2026-10-25  (3 zdrojů, síla 52)  Israel to close all West Bank land crossings on election day
-  2026-10-26  (2 zdrojů, síla 42)  Who are the Israeli candidates trying to unseat Netanyahu?
-  2026-10-27  (2 zdrojů, síla 47)  Israel election: Israelis vote for 1st time since October 7 terror attack
-  2026-10-27  (1 zdrojů, síla 40)  Turnout high as Israeli voters deliver verdict on Netanyahu
-  2026-10-27  (5 zdrojů, síla 77)  Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
-  2026-10-28  (3 zdrojů, síla 60)  Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority
-  2026-10-28  (2 zdrojů, síla 45)  Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory
-  2026-10-28  (2 zdrojů, síla 44)  'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'
-  2026-10-28  (2 zdrojů, síla 43)  Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition
-  2026-10-29  (1 zdrojů, síla 40)  Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago
-  2026-10-30  (2 zdrojů, síla 41)  Netanyahu attacks Israel’s Arab parties as he falls short of majority
-  2026-10-30  (2 zdrojů, síla 43)  Palestinian voter turnout exposes Israel’s attitude towards Arab citizens
-  2026-10-30  (1 zdrojů, síla 40)  Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries
-  2026-10-30  (2 zdrojů, síla 52)  Some Monkeys Seem to Become Germophobic After Living Through a Disease Outbreak, Just Like Humans
-  2026-10-30  (1 zdrojů, síla 44)  For Over Four Years, the Hirshhorn Worked to Revitalize Its Sculpture Garden. Today, It's Home to a 'King and Queen,' a 'Wish Tree' and a 55,000-Pound Vertical Swimming Pool Artwork
-  2026-10-30  (1 zdrojů, síla 40)  Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
+VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
+rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
+  2026-10-18  (3 zdrojů, síla 60)  Man Utd showed 'unity' in draw with Leeds - Carrick
+  2026-10-19  (1 zdrojů, síla 44)  Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
+  2026-10-20  (2 zdrojů, síla 40)  Ronaldo let Manchester United down - Ten Hag
+  2026-10-20  (2 zdrojů, síla 43)  Liverpool v Villarreal: Champions League – live
+  2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting
+  2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal
+  2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record
+  2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
+  2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
+  2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win
+  2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory
+  2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
+  2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
+  2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
+  2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live
+  2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City
+  2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL
+  2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?
+  2026-10-30  (2 zdrojů, síla 42)  Chelsea vs Manchester United: Premier League – teams, prediction, lineups
+  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
 ```
 
 ---
