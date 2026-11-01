@@ -7,8 +7,8 @@ section: health
 type: feature
 depth: open
 lang: en
-date: '2026-09-19'
-status: reserve
+date: '2026-11-01'
+status: published
 confidence: 95
 load: 0
 topics:
