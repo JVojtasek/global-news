@@ -9,32 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Christine Lagarde departs at a moment of peril
-- id události: `517fa132c460`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 6
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **Economist Finance** — Christine Lagarde departs at a moment of peril
-    <https://www.economist.com/finance-and-economics/2026/10/29/christine-lagarde-departs-at-a-moment-of-peril>
-    > Her successor as ECB chief will have an unenviable job
-  - **The Guardian World** — Europe’s central bank chief Christine Lagarde to step down nine months early
-    <https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early>
-    > Departure of Lagarde, seen as candidate to take over World Economic Forum, comes as eurozone struggles with weak growth and inflation Christine Lagarde, the eurozone’s top central banker, is stepping down nine months early, ending months of speculation about her future. The Europ
-  - **Guardian Business** — Europe’s central bank chief Christine Lagarde to step down nine months early
-    <https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early>
-    > Departure of Lagarde, seen as candidate to take over World Economic Forum, comes as eurozone struggles with weak growth and inflation Christine Lagarde, the eurozone’s top central banker, is stepping down nine months early, ending months of speculation about her future. The Europ
-  - **DW News** — European Central Bank (ECB) head Christine Lagarde to step down in February, before her term ends
-    <https://www.dw.com/en/european-central-bank-ecb-head-christine-lagarde-to-step-down-in-february-before-her-term-ends/a-79794353?maca=en-rss-en-all-1573-rdf>
-    > European Central Bank (ECB) President Christine Lagarde is to resign nine months ahead of the end of her 8-year term. European Council President Antonio Costa has said the process to find a successor is underway.
-  - **CNBC Top** — President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her
-    <https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html>
-    > European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday.
-  - **France 24** — 🔴 ECB President Christine Lagarde to step down in February 2027, months before term ends
-    <https://www.france24.com/en/europe/20261029-ecb-president-christine-lagarde-to-step-down-in-february-2027-nine-months-before-term-ends>
-  - **France 24** — ECB President Christine Lagarde to step down in February 2027, nine months before term ends
-    <https://www.france24.com/en/europe/20261029-ecb-president-christine-lagarde-to-step-down-in-february-2027-nine-months-before-term-ends>
-    > European Central Bank President Christine Lagarde will step down on February 7, 2027, nearly nine months before her term expires, the ECB said Thursday. Her successor will be appointed by the European Council under EU treaty rules.
-
-### 2. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
+### 1. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
 - id události: `31077fabb6a0`  ·  rubrika: `world`  ·  skóre: 79  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -57,7 +32,7 @@
     <https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss>
     > Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.
 
-### 3. Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86
+### 2. Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86
 - id události: `9826c96e0bea`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -77,7 +52,7 @@
     <https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html>
     > https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 1287 # Comments: 245
 
-### 4. 'Star Trek' star Patrick Stewart dies age 86
+### 3. 'Star Trek' star Patrick Stewart dies age 86
 - id události: `e47c8cc9a04a`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -96,6 +71,20 @@
   - **France 24** — Patrick Stewart, star of 'Star Trek' and 'X men', dies at 86
     <https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86>
     > The British actor Patrick Stewart has died at 86, a statement released on Thursday said. Stewart was an acclaimed actor in Britain with the Royal Shakespeare Company before he starred in the beloved sci-fi TV show "Star Trek" in the 80s and later in the "X-Men" franchise.
+
+### 4. Hong Kong’s leader apologises for residential fire that killed 168 people
+- id události: `18979a846cd4`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Guardian World** — Hong Kong’s leader apologises for residential fire that killed 168 people
+    <https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people>
+    > Blaze last year was deadliest housing fire globally since 1980 and some ex-residents and victims’ families say they still need justice Hong Kong’s leader has apologised for government shortcomings that contributed to a fire that killed 168 people in the city last year, a rare sig
+  - **SCMP Tech (Čína)** — Securing a Global Giant: HKSTP Lands Merck to Power Hong Kong’s I&T Ambitions
+    <https://www.scmp.com/presented/tech/topics/hkstp-powering-hks-it-development/article/3372428/securing-global-giant-hkstp-lands-merck-power-hong-kongs-it-ambitions>
+    > [The content of this article has been produced by our advertising partner.] As Hong Kong pushes towards its first Five-Year Plan target of raising R&D expenditure to 3% of GDP, the city’s largest I&T flagship, Hong Kong Science and Technology Parks Corporation (HKSTP), is taking 
+  - **Atlas Obscura** — Tai Hang Fire Dragon Dance in Hong Kong
+    <https://www.atlasobscura.com/places/tai-hang-fire-dragon-dance>
+    > The Tai Hang Fire Dragon Dance was first performed in 1880, in what was then a small Hakka fishing and farming village. The tradition continues to this day, with the ceremony taking place on the evenings of the 14th, 15th and 16th days of the 8th lunar month. According to oral hi
 
 ---
 
