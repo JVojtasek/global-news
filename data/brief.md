@@ -130,7 +130,36 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
+### 1. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+rubrika: world · sledováno od 2026-08-09 · záznamů: 60
+  2026-10-02  (3 zdrojů, síla 55)  Klopp wins first game as Germany coach, without 'top dogs'
+  2026-10-03  (2 zdrojů, síla 46)  Who has 'no ceiling' as Northern Ireland shine in Nations League?
+  2026-10-03  (2 zdrojů, síla 44)  LIVE: Croatia vs England – UEFA Nations League
+  2026-10-03  (2 zdrojů, síla 54)  North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
+  2026-10-05  (2 zdrojů, síla 56)  Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
+  2026-10-06  (2 zdrojů, síla 43)  Nations League roundup: Olise leads late charge as France bowl over Belgium
+  2026-10-06  (2 zdrojů, síla 44)  Nations League: France defeat Belgium in second-half comeback
+  2026-10-06  (2 zdrojů, síla 47)  How promotion, relegation and knockouts work in Nations League
+  2026-10-06  (2 zdrojů, síla 45)  England v Czechia: Nations League football – live
+  2026-10-06  (2 zdrojů, síla 52)  Kane scores twice but who else was a 'real threat'? England player ratings
+  2026-10-07  (2 zdrojů, síla 42)  Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
+  2026-10-08  (3 zdrojů, síla 58)  Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
+  2026-10-22  (2 zdrojů, síla 46)  Harry Kane: Ballon d’Or for Bayern Munich striker?
+  2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes
+  2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
+  2026-10-27  (4 zdrojů, síla 70)  'A dream come true' - Harry Kane on his Ballon d'Or win
+  2026-10-27  (2 zdrojů, síla 52)  Quiz: Kane and who else? Name every men's Ballon d'Or winner
+  2026-10-30  (2 zdrojů, síla 57)  England thrash Wales to begin World Cup defence
+  2026-10-31  (2 zdrojů, síla 46)  Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live
+  2026-11-01  (2 zdrojů, síla 51)  Wales hit by Australia century in World Cup record defeat
+```
+
+### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
 - id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -157,35 +186,6 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
   2026-10-21  (3 zdrojů, síla 54)  Russia says it is ready to resume talks with Ukraine and US to end war
   2026-10-22  (2 zdrojů, síla 43)  Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
   2026-10-31  (2 zdrojů, síla 40)  Iran says four tankers on fire after striking mines in Hormuz
-```
-
-### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
-- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
-rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-19  (1 zdrojů, síla 44)  Brighton are the apex B club – their next target should be a Champions League place | Jonathan Wilson
-  2026-10-20  (2 zdrojů, síla 40)  Ronaldo let Manchester United down - Ten Hag
-  2026-10-20  (2 zdrojů, síla 43)  Liverpool v Villarreal: Champions League – live
-  2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting
-  2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal
-  2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record
-  2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
-  2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
-  2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win
-  2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory
-  2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
-  2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
-  2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
-  2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live
-  2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City
-  2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL
-  2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?
-  2026-10-30  (2 zdrojů, síla 42)  Chelsea vs Manchester United: Premier League – teams, prediction, lineups
-  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
-  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United: Premier League – live
 ```
 
 ---
