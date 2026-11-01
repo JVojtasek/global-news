@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-10-31
+# ZADÁNÍ PRO REDAKCI — 2026-11-01
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -57,30 +57,7 @@
     <https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss>
     > Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.
 
-### 3. Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use
-- id události: `bfd6acefc1fb`  ·  rubrika: `tech`  ·  skóre: 71  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **Ars Technica** — Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use
-    <https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/>
-    > Gemini 4 Carbon is essentially a slightly better version of Argon.
-  - **Ars Technica AI** — Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use
-    <https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/>
-    > Gemini 4 Carbon is essentially a slightly better version of Argon.
-  - **The Verge** — Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity
-    <https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier>
-    > Google has released its latest frontier model, Gemini 4 Carbon, offering "significant gains" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Clau
-  - **The Verge AI** — Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity
-    <https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier>
-    > Google has released its latest frontier model, Gemini 4 Carbon, offering "significant gains" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Clau
-  - **TechCrunch** — As AI agents reshape the web, Google opens Gemini and Search to more apps
-    <https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/>
-    > A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.
-  - **Hacker News Best** — Gemini 4 Carbon
-    <https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/>
-    > Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 615 # Comments: 512
-
-### 4. Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86
+### 3. Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86
 - id události: `9826c96e0bea`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -100,16 +77,40 @@
     <https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html>
     > https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 1287 # Comments: 245
 
+### 4. 'Star Trek' star Patrick Stewart dies age 86
+- id události: `e47c8cc9a04a`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **DW News** — 'Star Trek' star Patrick Stewart dies age 86
+    <https://www.dw.com/en/star-trek-star-patrick-stewart-dies-age-86/a-79803071?maca=en-rss-en-all-1573-rdf>
+    > The Shakespearean actor landed the role of a lifetime as "Star Trek" Captain Picard. He passed away at age 86.
+  - **The Guardian World** — Patrick Stewart, Star Trek actor and acclaimed thespian, dies aged 86
+    <https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead>
+    > Star Trek: the Next Generation and X-Men actor died at his home after ‘a brief and poignant journey with Alzheimer’s disease and Lewy body dementia’ Patrick Stewart – a life in pictures Patrick Stewart dies aged 86 – latest updates Patrick Stewart, the acclaimed British stage and
+  - **Guardian Culture** — Patrick Stewart, Star Trek actor and acclaimed thespian, dies aged 86
+    <https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead>
+    > Star Trek: the Next Generation and X-Men actor died at his home after ‘a brief and poignant journey with Alzheimer’s disease and Lewy body dementia’ Patrick Stewart – a life in pictures Patrick Stewart dies aged 86 – latest updates Patrick Stewart, the acclaimed British stage and
+  - **Al Jazeera** — Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86
+    <https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss>
+    > Stewart died in Los Angeles after living with Alzheimer's disease and Lewy body dementia.
+  - **France 24** — Patrick Stewart, star of 'Star Trek' and 'X men', dies at 86
+    <https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86>
+    > The British actor Patrick Stewart has died at 86, a statement released on Thursday said. Stewart was an acclaimed actor in Britain with the Royal Shakespeare Company before he starred in the beloved sci-fi TV show "Star Trek" in the 80s and later in the "X-Men" franchise.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### toddler tantrums
-- rubrika: `parenting`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### investing for beginners
+- rubrika: `meaning`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
+- otázky, které k tomu lidé píší do vyhledávače:
+  - „how does investing work for beginners“
+  - „how much to start investing for beginners“
+  - „how much should i invest as a beginner“
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Toddler — <https://en.wikipedia.org/wiki/Toddler>
-  - Tantrum — <https://en.wikipedia.org/wiki/Tantrum>
-  - Toddlers & Tiaras — <https://en.wikipedia.org/wiki/Toddlers_&_Tiaras>
+  - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
+  - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
+  - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
 
 ---
 
