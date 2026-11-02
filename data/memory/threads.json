@@ -814,28 +814,28 @@
    "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
    "section": "world",
    "entities": [
-    "secretary",
-    "cornyn",
-    "china",
-    "pentagon",
-    "halloween",
-    "democrat",
-    "wife",
-    "michigan",
     "texas",
-    "senate",
-    "paxton",
-    "hegseth",
-    "karl",
+    "michigan",
+    "rove",
+    "november",
     "trump",
-    "hormuz",
+    "wife",
+    "halloween",
+    "china",
+    "cornyn",
+    "paxton",
+    "senate",
+    "karl",
+    "tankers",
     "massie",
     "iran",
-    "defense",
+    "democrat",
+    "secretary",
+    "pentagon",
     "republican",
-    "november",
-    "rove",
-    "tankers"
+    "hormuz",
+    "defense",
+    "hegseth"
    ],
    "event_ids": [
     "7da4e07716c7",
@@ -854,7 +854,8 @@
     "06237d9feb09",
     "4c1e1d02df87",
     "f5b6d367ab3d",
-    "6ee149854410"
+    "6ee149854410",
+    "660903c7e4d9"
    ],
    "first_seen": "2026-09-11",
    "last_seen": "2026-11-02",
@@ -1050,6 +1051,18 @@
      "links": [
       "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
       "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "How a Democrat in Michigan rocked the party days before the US midterms",
+     "sources": 2,
+     "score": 50,
+     "event_id": "660903c7e4d9",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
+      "https://www.france24.com/en/michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race"
      ]
     }
    ]
@@ -19530,5 +19543,5 @@
    ]
   }
  ],
- "updated": "2026-11-02T06:34:48+00:00"
+ "updated": "2026-11-02T09:23:52+00:00"
 }
