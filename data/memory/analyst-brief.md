@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-02
 
-Paměť obsahuje **174 vláken**. Aktivních za posledních 14 dní: **43**.
+Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **43**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **174 vláken**. Aktivních za posledních 14 dní: **43**.
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 83 dní · 60 záznamů
 - časová osa:
-  - **2026-10-04** (2 zdrojů) Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
   - **2026-10-04** (2 zdrojů) Ukraine ready for US-backed talks with Russia: Zelenskyy
   - **2026-10-13** (2 zdrojů) ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
   - **2026-10-14** (2 zdrojů) Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns
@@ -19,6 +18,21 @@ Paměť obsahuje **174 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
   - **2026-10-31** (2 zdrojů) Iran says four tankers on fire after striking mines in Hormuz
   - **2026-11-02** (3 zdrojů) Ukraine, Russia report hacking attacks on emergency alert apps
+  - **2026-11-02** (2 zdrojů) Ukraine and Russia both hit by cyberattacks on emergency apps
+
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 76 dní · 60 záznamů
+- časová osa:
+  - **2026-10-23** (1 zdrojů) A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
+  - **2026-10-24** (2 zdrojů) Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
+  - **2026-10-24** (1 zdrojů) Aston Villa v Manchester City: Premier League – live
+  - **2026-10-24** (3 zdrojů) Jackson stars with two goals - player ratings for Aston Villa v Man City
+  - **2026-10-25** (2 zdrojů) Terland strikes late as United end Manchester City’s winning start in WSL
+  - **2026-10-26** (2 zdrojů) Manchester United crisis: What are the top five problems facing the club?
+  - **2026-10-30** (2 zdrojů) Chelsea vs Manchester United: Premier League – teams, prediction, lineups
+  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
+  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United: Premier League – live
+  - **2026-11-02** (2 zdrojů) Football: China refuses to air Real Madrid game after Mbappé comment
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 84 dní · 60 záznamů
@@ -47,20 +61,6 @@ Paměť obsahuje **174 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-29** (2 zdrojů) Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
   - **2026-10-29** (2 zdrojů) Russian drone attack on Ukrainian train station kills at least 14, officials say
   - **2026-11-01** (2 zdrojů) Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 74 dní · 60 záznamů
-- časová osa:
-  - **2026-10-23** (1 zdrojů) Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
-  - **2026-10-23** (1 zdrojů) A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
-  - **2026-10-24** (2 zdrojů) Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
-  - **2026-10-24** (1 zdrojů) Aston Villa v Manchester City: Premier League – live
-  - **2026-10-24** (3 zdrojů) Jackson stars with two goals - player ratings for Aston Villa v Man City
-  - **2026-10-25** (2 zdrojů) Terland strikes late as United end Manchester City’s winning start in WSL
-  - **2026-10-26** (2 zdrojů) Manchester United crisis: What are the top five problems facing the club?
-  - **2026-10-30** (2 zdrojů) Chelsea vs Manchester United: Premier League – teams, prediction, lineups
-  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
-  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United: Premier League – live
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 78 dní · 60 záznamů
