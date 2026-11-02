@@ -9,30 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
-- id události: `31077fabb6a0`  ·  rubrika: `world`  ·  skóre: 79  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
-    <https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss>
-    > The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.
-  - **BBC Technology** — Who could be behind the Binance hack and what we know so far
-    <https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss>
-    > Binance has been hit by what could be the biggest crypto hack ever - here's what we know so far
-  - **The Guardian World** — How crypto hacking funds isolated North Korea’s nuclear programme
-    <https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme>
-    > Cryptocurrency theft is estimated to generate half of the country’s foreign currency income North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it
-  - **CNBC Top** — Binance hack: Investigators in a 'cat and mouse game' to recover $6.3 billion in stolen funds
-    <https://www.cnbc.com/2026/10/30/binance-hack-stolen-crypto-recovery.html>
-    > More than $6 billion in crypto was stolen from Binance, setting off a race to recover the funds before North Korea-linked hackers can launder them into cash.
-  - **Al Jazeera** — Kim Jong Un calls for North Korea’s drone technology superiority
-    <https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss>
-    > North Korean leader Kim Jong Un calls for “absolute superiority” in drone capabilities.
-  - **Al Jazeera** — Swiss foreign minister talks political ties on rare visit to North Korea
-    <https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss>
-    > Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.
-
-### 2. Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates
+### 1. Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates
 - id události: `f5b6d367ab3d`  ·  rubrika: `world`  ·  skóre: 63  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -49,7 +26,7 @@
     <https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss>
     > US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race.
 
-### 3. Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack
+### 2. Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack
 - id události: `49fc6e1403de`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -65,7 +42,7 @@
   - **Investing.com** — FBI links record $6.3 billion Binance crypto theft to North Korea
     <https://www.investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353>
 
-### 4. Crypto firm Binance covers 90% of losses after $6.3bn hack
+### 3. Crypto firm Binance covers 90% of losses after $6.3bn hack
 - id události: `641fcec3e146`  ·  rubrika: `business`  ·  skóre: 60  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -80,6 +57,23 @@
   - **Investing.com** — Binance says it has replaced 90% of $6.3 billion stolen in record crypto hack
     <https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304>
 
+### 4. Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack
+- id události: `2bbdae702ea1`  ·  rubrika: `world`  ·  skóre: 60  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack
+    <https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss>
+    > Stores in Sweden say temperatures for its freezers were raised to 50 C (122F).
+  - **BBC Business** — Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack
+    <https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss>
+    > Stores in Sweden say temperatures for its freezers were raised to 50 C (122F).
+  - **The Guardian World** — Supermarket freezers across Europe hit by second suspected cyber-attack
+    <https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack>
+    > Chains in Sweden, Belgium and Luxembourg say fridge temperatures rose overnight, similar to hack of French stores Supermarket chains in Sweden, Belgium and Luxembourg have said the temperatures of their refrigerators and freezers in dozens of stores rose overnight, prompting fear
+  - **Guardian Business** — Supermarket freezers across Europe hit by second suspected cyber-attack
+    <https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack>
+    > Chains in Sweden, Belgium and Luxembourg say fridge temperatures rose overnight, similar to hack of French stores Supermarket chains in Sweden, Belgium and Luxembourg have said the temperatures of their refrigerators and freezers in dozens of stores rose overnight, prompting fear
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -88,7 +82,7 @@
 - rubrika: `history`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Ancient Rome — <https://en.wikipedia.org/wiki/Ancient_Rome>
-  - Homosexuality in ancient Rome — <https://en.wikipedia.org/wiki/Homosexuality_in_ancient_Rome>
+  - Sexuality in ancient Rome — <https://en.wikipedia.org/wiki/Sexuality_in_ancient_Rome>
   - Patrician (ancient Rome) — <https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)>
 
 ---
@@ -145,7 +139,6 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-20  (2 zdrojů, síla 40)  Ronaldo let Manchester United down - Ten Hag
   2026-10-20  (2 zdrojů, síla 43)  Liverpool v Villarreal: Champions League – live
   2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting
   2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal
@@ -165,6 +158,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
   2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United: Premier League – live
   2026-11-02  (2 zdrojů, síla 44)  Football: China refuses to air Real Madrid game after Mbappé comment
+  2026-11-02  (2 zdrojů, síla 40)  Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
 ```
 
 ---

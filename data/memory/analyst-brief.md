@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-02
 
-Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **43**.
+Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **44**.
 
 ---
 
@@ -23,7 +23,6 @@ Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **43**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 76 dní · 60 záznamů
 - časová osa:
-  - **2026-10-23** (1 zdrojů) A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
   - **2026-10-24** (2 zdrojů) Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
   - **2026-10-24** (1 zdrojů) Aston Villa v Manchester City: Premier League – live
   - **2026-10-24** (3 zdrojů) Jackson stars with two goals - player ratings for Aston Villa v Man City
@@ -33,6 +32,7 @@ Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-31** (2 zdrojů) Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
   - **2026-10-31** (2 zdrojů) Chelsea v Manchester United: Premier League – live
   - **2026-11-02** (2 zdrojů) Football: China refuses to air Real Madrid game after Mbappé comment
+  - **2026-11-02** (2 zdrojů) Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 84 dní · 60 záznamů

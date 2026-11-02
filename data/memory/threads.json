@@ -816,46 +816,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "european",
-    "brighton",
-    "gakpo",
-    "uk's",
-    "wilcox",
+    "chelsea",
     "jonathan",
-    "melbourne",
-    "real",
-    "jackson",
-    "isak",
     "football",
-    "carrick",
-    "villa",
-    "manchester",
-    "burnham",
-    "city",
-    "premier",
     "martinez",
+    "forest",
+    "jackson",
+    "carrick",
+    "madrid",
+    "burnham",
     "ronaldo",
+    "troy's",
+    "united",
+    "melbourne",
+    "gakpo",
+    "howe",
+    "leeds",
     "tuchel",
-    "barcelona's",
-    "aston",
-    "guardiola",
     "glasner",
     "phil",
-    "league",
-    "chelsea",
-    "greenwood",
-    "terland",
-    "manzambi",
     "a-leagues",
-    "united",
-    "wilson",
-    "howe",
-    "china",
-    "troy's",
-    "madrid",
+    "league",
+    "barcelona's",
+    "aston",
     "beckett",
-    "leeds",
-    "forest"
+    "greenwood",
+    "wilcox",
+    "brighton",
+    "wilson",
+    "city",
+    "uk's",
+    "isak",
+    "premier",
+    "china",
+    "guardiola",
+    "terland",
+    "real",
+    "european",
+    "villa",
+    "roma",
+    "manzambi"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -995,23 +995,12 @@
     "e126ca378e93",
     "8e58060bf08f",
     "05fad3115699",
-    "bcdcf00da7f9"
+    "bcdcf00da7f9",
+    "bb3c9fbeb219"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-11-02",
    "timeline": [
-    {
-     "date": "2026-10-01",
-     "headline": "How success of Manchester City helped put Andy Burnham in power",
-     "sources": 4,
-     "score": 74,
-     "event_id": "e9c5b4c67393",
-     "links": [
-      "https://www.theguardian.com/politics/2026/oct/01/success-manchester-city-helped-put-andy-burnham-in-power",
-      "https://www.theguardian.com/news/audio/2026/oct/01/billionaire-sheiks-and-sham-contracts-the-manchester-city-scandal-podcast",
-      "https://www.theguardian.com/news/audio/2026/sep/30/andy-burnhams-big-bold-leap-podcast"
-     ]
-    },
     {
      "date": "2026-10-02",
      "headline": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
@@ -1688,6 +1677,17 @@
       "https://www.france24.com/en/video/20261102-football-china-refuses-to-air-real-madrid-game-after-mbapp%C3%A9-comment",
       "https://www.aljazeera.com/sports/2026/11/2/chinese-state-tv-continues-real-madrid-blackout-after-mbappe-mao-meme-row?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Carrick not concerned about Martínez’s attitude as United prepare for Roma visit",
+     "sources": 2,
+     "score": 40,
+     "event_id": "bb3c9fbeb219",
+     "links": [
+      "https://www.theguardian.com/football/2026/nov/02/michael-carrick-lisandro-martinez-manchester-united-roma-champions-league",
+      "https://www.aljazeera.com/sports/2026/11/2/carrick-not-distracted-by-speculation-over-united-future?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -2093,28 +2093,28 @@
    "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
    "section": "world",
    "entities": [
+    "karl",
+    "halloween",
+    "senate",
     "texas",
-    "michigan",
-    "rove",
     "november",
     "trump",
     "wife",
-    "halloween",
-    "china",
+    "michigan",
     "cornyn",
-    "paxton",
-    "senate",
-    "karl",
     "tankers",
-    "massie",
-    "iran",
-    "democrat",
-    "secretary",
-    "pentagon",
-    "republican",
-    "hormuz",
+    "china",
     "defense",
-    "hegseth"
+    "hegseth",
+    "secretary",
+    "republican",
+    "paxton",
+    "massie",
+    "hormuz",
+    "democrat",
+    "pentagon",
+    "rove",
+    "iran"
    ],
    "event_ids": [
     "7da4e07716c7",
@@ -2134,7 +2134,8 @@
     "4c1e1d02df87",
     "f5b6d367ab3d",
     "6ee149854410",
-    "660903c7e4d9"
+    "660903c7e4d9",
+    "7cf106926362"
    ],
    "first_seen": "2026-09-11",
    "last_seen": "2026-11-02",
@@ -2342,6 +2343,17 @@
       "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
       "https://www.france24.com/en/michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "What might Trump have planned for Iran following the midterm election?",
+     "sources": 2,
+     "score": 44,
+     "event_id": "7cf106926362",
+     "links": [
+      "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html"
      ]
     }
    ]
@@ -2563,6 +2575,231 @@
      "links": [
       "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
       "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9739585c4084",
+   "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+   "section": "world",
+   "entities": [
+    "california",
+    "trump's",
+    "american",
+    "indian",
+    "court",
+    "verizon",
+    "supreme",
+    "thousands"
+   ],
+   "event_ids": [
+    "9739585c4084",
+    "bead7cd93cfe",
+    "be7b7e3d8994",
+    "246b3636a67b",
+    "ca9a582da53c",
+    "a957e56e03fd",
+    "37f7a7a40e7d",
+    "e28037d5cfc2",
+    "2cdce35538df"
+   ],
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-11-02",
+   "timeline": [
+    {
+     "date": "2026-08-17",
+     "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+     "sources": 3,
+     "score": 60,
+     "event_id": "9739585c4084",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+      "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
+      "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
+     "sources": 3,
+     "score": 56,
+     "event_id": "bead7cd93cfe",
+     "links": [
+      "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
+      "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
+      "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+     "sources": 2,
+     "score": 50,
+     "event_id": "be7b7e3d8994",
+     "links": [
+      "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+      "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "GOP heads to Supreme Court after losing case over TV election ad prices",
+     "sources": 2,
+     "score": 43,
+     "event_id": "246b3636a67b",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
+      "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+     "sources": 2,
+     "score": 46,
+     "event_id": "ca9a582da53c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Supreme Court refuses to allow Trump's mail voting restrictions for the midterms",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a957e56e03fd",
+     "links": [
+      "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
+      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Thousands march to Indian Supreme Court to demand election chief resign",
+     "sources": 2,
+     "score": 46,
+     "event_id": "37f7a7a40e7d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/india-news-opposition-parties-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Trump's green card curbs test Indian tech workers' American dream",
+     "sources": 2,
+     "score": 42,
+     "event_id": "e28037d5cfc2",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "DOJ asks for Supreme Court to intervene on California ballot demands",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2cdce35538df",
+     "links": [
+      "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+      "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "94761ad38bf7",
+   "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+   "section": "tech",
+   "entities": [
+    "pixel",
+    "fitbit",
+    "android",
+    "google",
+    "edge",
+    "xcpe"
+   ],
+   "event_ids": [
+    "94761ad38bf7",
+    "cf70bce2fbbe",
+    "706b05ecb86e",
+    "e288f767d754",
+    "57c9de67bce4",
+    "f8e64d371b0e"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-11-02",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+     "sources": 5,
+     "score": 81,
+     "event_id": "94761ad38bf7",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+      "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
+      "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Google Pixel 11 series review: Is the magic fading?",
+     "sources": 2,
+     "score": 43,
+     "event_id": "cf70bce2fbbe",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+      "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Google fixes actively exploited Android zero-day on Pixel devices",
+     "sources": 2,
+     "score": 54,
+     "event_id": "706b05ecb86e",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
+      "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+      "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e288f767d754",
+     "links": [
+      "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+      "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+     "sources": 2,
+     "score": 40,
+     "event_id": "57c9de67bce4",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+      "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+     "sources": 2,
+     "score": 46,
+     "event_id": "f8e64d371b0e",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html"
      ]
     }
    ]
@@ -12638,124 +12875,6 @@
    ]
   },
   {
-   "id": "9739585c4084",
-   "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-   "section": "world",
-   "entities": [
-    "trump's",
-    "thousands",
-    "verizon",
-    "indian",
-    "american",
-    "court",
-    "supreme"
-   ],
-   "event_ids": [
-    "9739585c4084",
-    "bead7cd93cfe",
-    "be7b7e3d8994",
-    "246b3636a67b",
-    "ca9a582da53c",
-    "a957e56e03fd",
-    "37f7a7a40e7d",
-    "e28037d5cfc2"
-   ],
-   "first_seen": "2026-08-17",
-   "last_seen": "2026-10-22",
-   "timeline": [
-    {
-     "date": "2026-08-17",
-     "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-     "sources": 3,
-     "score": 60,
-     "event_id": "9739585c4084",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-      "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
-      "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
-     "sources": 3,
-     "score": 56,
-     "event_id": "bead7cd93cfe",
-     "links": [
-      "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-      "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
-      "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
-     "sources": 2,
-     "score": 50,
-     "event_id": "be7b7e3d8994",
-     "links": [
-      "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-      "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "GOP heads to Supreme Court after losing case over TV election ad prices",
-     "sources": 2,
-     "score": 43,
-     "event_id": "246b3636a67b",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
-      "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-     "sources": 2,
-     "score": 46,
-     "event_id": "ca9a582da53c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Supreme Court refuses to allow Trump's mail voting restrictions for the midterms",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a957e56e03fd",
-     "links": [
-      "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
-      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Thousands march to Indian Supreme Court to demand election chief resign",
-     "sources": 2,
-     "score": 46,
-     "event_id": "37f7a7a40e7d",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/india-news-opposition-parties-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Trump's green card curbs test Indian tech workers' American dream",
-     "sources": 2,
-     "score": 42,
-     "event_id": "e28037d5cfc2",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "93531d8fb0f2",
    "title": "Demi Vollering wins Tour de France for the 2nd time",
    "section": "world",
@@ -14176,87 +14295,6 @@
       "https://www.bbc.co.uk/news/videos/ckg5jqg1npd7o?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/video/20261013-student-protesters-tell-police-to-join-them-in-paris-demonstrations",
       "https://www.france24.com/en/france-student-anger-rages-as-tear-gas-and-fires-hit-paris"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "94761ad38bf7",
-   "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-   "section": "tech",
-   "entities": [
-    "android",
-    "google",
-    "fitbit",
-    "edge",
-    "pixel"
-   ],
-   "event_ids": [
-    "94761ad38bf7",
-    "cf70bce2fbbe",
-    "706b05ecb86e",
-    "e288f767d754",
-    "57c9de67bce4"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-10-12",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-     "sources": 5,
-     "score": 81,
-     "event_id": "94761ad38bf7",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
-      "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
-      "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Google Pixel 11 series review: Is the magic fading?",
-     "sources": 2,
-     "score": 43,
-     "event_id": "cf70bce2fbbe",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-      "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-      "https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Google fixes actively exploited Android zero-day on Pixel devices",
-     "sources": 2,
-     "score": 54,
-     "event_id": "706b05ecb86e",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-      "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-      "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e288f767d754",
-     "links": [
-      "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
-      "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-     "sources": 2,
-     "score": 40,
-     "event_id": "57c9de67bce4",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-      "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/"
      ]
     }
    ]
@@ -19587,5 +19625,5 @@
    ]
   }
  ],
- "updated": "2026-11-02T15:21:01+00:00"
+ "updated": "2026-11-02T18:21:23+00:00"
 }
