@@ -6,6 +6,20 @@ Paměť obsahuje **174 vláken**. Aktivních za posledních 14 dní: **43**.
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
+### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+- rubrika `world` · sledováno 83 dní · 60 záznamů
+- časová osa:
+  - **2026-10-04** (2 zdrojů) Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
+  - **2026-10-04** (2 zdrojů) Ukraine ready for US-backed talks with Russia: Zelenskyy
+  - **2026-10-13** (2 zdrojů) ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
+  - **2026-10-14** (2 zdrojů) Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns
+  - **2026-10-19** (2 zdrojů) Strait of Hormuz scoured for spilt cargo after Iran attacks container ships
+  - **2026-10-21** (2 zdrojů) Russia arrests German man, calls him a Ukraine 'mercenary'
+  - **2026-10-21** (3 zdrojů) Russia says it is ready to resume talks with Ukraine and US to end war
+  - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
+  - **2026-10-31** (2 zdrojů) Iran says four tankers on fire after striking mines in Hormuz
+  - **2026-11-02** (3 zdrojů) Ukraine, Russia report hacking attacks on emergency alert apps
+
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 84 dní · 60 záznamů
 - časová osa:
@@ -33,20 +47,6 @@ Paměť obsahuje **174 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-29** (2 zdrojů) Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
   - **2026-10-29** (2 zdrojů) Russian drone attack on Ukrainian train station kills at least 14, officials say
   - **2026-11-01** (2 zdrojů) Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
-
-### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 81 dní · 60 záznamů
-- časová osa:
-  - **2026-10-04** (2 zdrojů) Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
-  - **2026-10-04** (2 zdrojů) Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
-  - **2026-10-04** (2 zdrojů) Ukraine ready for US-backed talks with Russia: Zelenskyy
-  - **2026-10-13** (2 zdrojů) ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
-  - **2026-10-14** (2 zdrojů) Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns
-  - **2026-10-19** (2 zdrojů) Strait of Hormuz scoured for spilt cargo after Iran attacks container ships
-  - **2026-10-21** (2 zdrojů) Russia arrests German man, calls him a Ukraine 'mercenary'
-  - **2026-10-21** (3 zdrojů) Russia says it is ready to resume talks with Ukraine and US to end war
-  - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
-  - **2026-10-31** (2 zdrojů) Iran says four tankers on fire after striking mines in Hormuz
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 74 dní · 60 záznamů
