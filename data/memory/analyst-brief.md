@@ -9,7 +9,6 @@ Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **43**.
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 83 dní · 60 záznamů
 - časová osa:
-  - **2026-10-04** (2 zdrojů) Ukraine ready for US-backed talks with Russia: Zelenskyy
   - **2026-10-13** (2 zdrojů) ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
   - **2026-10-14** (2 zdrojů) Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns
   - **2026-10-19** (2 zdrojů) Strait of Hormuz scoured for spilt cargo after Iran attacks container ships
@@ -19,6 +18,7 @@ Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **43**.
   - **2026-10-31** (2 zdrojů) Iran says four tankers on fire after striking mines in Hormuz
   - **2026-11-02** (3 zdrojů) Ukraine, Russia report hacking attacks on emergency alert apps
   - **2026-11-02** (2 zdrojů) Ukraine and Russia both hit by cyberattacks on emergency apps
+  - **2026-11-02** (2 zdrojů) What we know about the alert app hack in Ukraine and Russia
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 76 dní · 60 záznamů

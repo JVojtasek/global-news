@@ -65,22 +65,20 @@
   - **Investing.com** — FBI links record $6.3 billion Binance crypto theft to North Korea
     <https://www.investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353>
 
-### 4. ‘His honesty gave courage to survivors’: domestic abuse charities praise Patrick Stewart’s legacy
-- id události: `47295b449e3f`  ·  rubrika: `culture`  ·  skóre: 60  ·  nezávislých zdrojů: 2
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+### 4. Crypto firm Binance covers 90% of losses after $6.3bn hack
+- id události: `641fcec3e146`  ·  rubrika: `business`  ·  skóre: 60  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **The Guardian World** — ‘His honesty gave courage to survivors’: domestic abuse charities praise Patrick Stewart’s legacy
-    <https://www.theguardian.com/culture/2026/oct/30/domestic-abuse-charities-patrick-stewart-amnesty-international-refuge>
-    > Actor first shared his childhood experiences as part of Amnesty International campaign and became Refuge ambassador When Patrick Stewart was growing up in the 1940s, he witnessed how, after his father beat his mother, home doctors and ambulance workers would tell her: “You must h
-  - **Guardian Culture** — On Star Trek, Patrick Stewart could make anyone feel hopeful for humanity
-    <https://www.theguardian.com/culture/2026/oct/30/patrick-stewart-jean-luc-picard-star-trek>
-    > As Jean-Luc Picard in seven seasons, four films and a sequel, Stewart made us believe the most interesting person in the room might also be the most humane Patrick Stewart dies age 86 His life in pictures Patrick Stewart brought gravitas and complexity to the screen, from Star Tr
-  - **Guardian Culture** — Patrick Stewart brought gravitas and complexity to the screen, from Star Trek to X-Men
-    <https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero>
-    > From Jean-Luc Picard to Charles Xavier, the actor’s Shakespearean training – and that sonorous voice – made him a unique charismatic force in Hollywood Patrick Stewart dies age 86 His life in pictures O Captain, our Captain: on Star Trek, Patrick Stewart could make anyone feel ho
-  - **Guardian Culture** — Patrick Stewart – a life in pictures
-    <https://www.theguardian.com/culture/gallery/2026/oct/29/patrick-stewart-a-life-in-pictures>
-    > The acclaimed, award-winning star of stage and screen has died at the age of 86 after ‘a brief and poignant journey with Alzheimer’s disease and Lewy body dementia’. He leaves behind celebrated roles in Star Trek and X-Men as well as a long career in theatre On Star Trek, Patrick
+  - **BBC World** — Crypto firm Binance covers 90% of losses after $6.3bn hack
+    <https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss>
+    > Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.
+  - **CNBC Top** — Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday
+    <https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html>
+    > Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.
+  - **Investing.com** — Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack
+    <https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115>
+  - **Investing.com** — Binance says it has replaced 90% of $6.3 billion stolen in record crypto hack
+    <https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304>
 
 ---
 
@@ -90,7 +88,7 @@
 - rubrika: `history`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Ancient Rome — <https://en.wikipedia.org/wiki/Ancient_Rome>
-  - Sexuality in ancient Rome — <https://en.wikipedia.org/wiki/Sexuality_in_ancient_Rome>
+  - Homosexuality in ancient Rome — <https://en.wikipedia.org/wiki/Homosexuality_in_ancient_Rome>
   - Patrician (ancient Rome) — <https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)>
 
 ---
@@ -118,7 +116,6 @@
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 rubrika: world · sledováno od 2026-08-11 · záznamů: 60
-  2026-09-24  (2 zdrojů, síla 46)  Cuban delegation walks out as Trump calls country a 'failed state' at the United Nations – video
   2026-09-29  (3 zdrojů, síla 53)  Estonia blames Russia for arson at defence company supplying Ukraine
   2026-09-29  (2 zdrojů, síla 40)  Estonia blames Russia for arson attack on defense company
   2026-09-30  (2 zdrojů, síla 44)  Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
@@ -138,6 +135,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
   2026-10-31  (2 zdrojů, síla 40)  Iran says four tankers on fire after striking mines in Hormuz
   2026-11-02  (3 zdrojů, síla 50)  Ukraine, Russia report hacking attacks on emergency alert apps
   2026-11-02  (2 zdrojů, síla 40)  Ukraine and Russia both hit by cyberattacks on emergency apps
+  2026-11-02  (2 zdrojů, síla 44)  What we know about the alert app hack in Ukraine and Russia
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
