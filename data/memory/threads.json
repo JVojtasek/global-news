@@ -1055,6 +1055,227 @@
    ]
   },
   {
+   "id": "f2d111d4fd57",
+   "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+   "section": "science",
+   "entities": [
+    "crypto",
+    "elite",
+    "seoul",
+    "binance",
+    "drone",
+    "korean",
+    "south",
+    "korea",
+    "korea's",
+    "north"
+   ],
+   "event_ids": [
+    "f2d111d4fd57",
+    "20472af8545b",
+    "ff20ca98c7ed",
+    "d00a10e57fef",
+    "a0eb33a029f0",
+    "8b5f45fb18a6",
+    "869c210d8444",
+    "8a1bc8a90ce5",
+    "31077fabb6a0",
+    "b00a6aa99d6f",
+    "1b2161d396ca",
+    "a2f28390745f",
+    "641fcec3e146",
+    "49fc6e1403de",
+    "5a936712c1f0",
+    "d09cd0a6db44"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-11-02",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+     "sources": 2,
+     "score": 56,
+     "event_id": "f2d111d4fd57",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+      "https://www.smithsonianmag.com/smart-news/a-spacex-rocket-part-just-slammed-into-the-moon-creating-a-dust-plume-and-crater-heres-what-some-scientific-instruments-saw-180989299/"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "South Korea proposes talks to officially end war with North",
+     "sources": 2,
+     "score": 46,
+     "event_id": "20472af8545b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "North Korea fires ballistic missile into sea, Seoul says",
+     "sources": 2,
+     "score": 46,
+     "event_id": "ff20ca98c7ed",
+     "links": [
+      "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
+      "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d00a10e57fef",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
+      "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a0eb33a029f0",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
+      "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "South Korea proposes military talks with North again",
+     "sources": 2,
+     "score": 45,
+     "event_id": "8b5f45fb18a6",
+     "links": [
+      "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf",
+      "https://www.scmp.com/tech/tech-trends/article/3371888/chinas-humanoid-robots-hunt-work-south-korea-seoul-bets-physical-ai"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "North Korea fires missiles as row over landmine blast intensifies",
+     "sources": 2,
+     "score": 41,
+     "event_id": "869c210d8444",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20261029-north-korea-launches-around-a-dozen-ballistic-missiles-amid-rising-tensions-with-south-korea"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Seoul fears being sidelined as US reaches out to North Korea",
+     "sources": 3,
+     "score": 59,
+     "event_id": "8a1bc8a90ce5",
+     "links": [
+      "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+      "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "sources": 5,
+     "score": 79,
+     "event_id": "31077fabb6a0",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "‘Elite North Korean hackers’ blamed for $6.3bn Binance heist – business live",
+     "sources": 2,
+     "score": 47,
+     "event_id": "b00a6aa99d6f",
+     "links": [
+      "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+      "https://www.dw.com/en/cryptocurrency-exchange-binance-suspends-trading-amid-a-suspected-cyberattack-now-linked-to-north-korea/a-79803280?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
+     "sources": 2,
+     "score": 42,
+     "event_id": "1b2161d396ca",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a2f28390745f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "sources": 3,
+     "score": 60,
+     "event_id": "641fcec3e146",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+     "sources": 4,
+     "score": 62,
+     "event_id": "49fc6e1403de",
+     "links": [
+      "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+      "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Binance resumes crypto withdrawals after major hack blamed on North Korea",
+     "sources": 2,
+     "score": 46,
+     "event_id": "5a936712c1f0",
+     "links": [
+      "https://www.france24.com/en/business/20261101-binance-says-resuming-withdrawals-after-major-hack",
+      "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "South Korea to pour billions into AI",
+     "sources": 2,
+     "score": 41,
+     "event_id": "d09cd0a6db44",
+     "links": [
+      "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "6e0f12b732f6",
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
@@ -2785,215 +3006,6 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
       "https://www.investing.com/news/commodities-news/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility-4989707"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "f2d111d4fd57",
-   "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
-   "section": "science",
-   "entities": [
-    "korean",
-    "crypto",
-    "drone",
-    "korea",
-    "korea's",
-    "south",
-    "elite",
-    "north",
-    "seoul",
-    "binance"
-   ],
-   "event_ids": [
-    "f2d111d4fd57",
-    "20472af8545b",
-    "ff20ca98c7ed",
-    "d00a10e57fef",
-    "a0eb33a029f0",
-    "8b5f45fb18a6",
-    "869c210d8444",
-    "8a1bc8a90ce5",
-    "31077fabb6a0",
-    "b00a6aa99d6f",
-    "1b2161d396ca",
-    "a2f28390745f",
-    "641fcec3e146",
-    "49fc6e1403de",
-    "5a936712c1f0"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-11-01",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
-     "sources": 2,
-     "score": 56,
-     "event_id": "f2d111d4fd57",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-      "https://www.smithsonianmag.com/smart-news/a-spacex-rocket-part-just-slammed-into-the-moon-creating-a-dust-plume-and-crater-heres-what-some-scientific-instruments-saw-180989299/"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "South Korea proposes talks to officially end war with North",
-     "sources": 2,
-     "score": 46,
-     "event_id": "20472af8545b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-03",
-     "headline": "North Korea fires ballistic missile into sea, Seoul says",
-     "sources": 2,
-     "score": 46,
-     "event_id": "ff20ca98c7ed",
-     "links": [
-      "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
-      "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-03",
-     "headline": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d00a10e57fef",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
-      "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a0eb33a029f0",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
-      "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "South Korea proposes military talks with North again",
-     "sources": 2,
-     "score": 45,
-     "event_id": "8b5f45fb18a6",
-     "links": [
-      "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf",
-      "https://www.scmp.com/tech/tech-trends/article/3371888/chinas-humanoid-robots-hunt-work-south-korea-seoul-bets-physical-ai"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "North Korea fires missiles as row over landmine blast intensifies",
-     "sources": 2,
-     "score": 41,
-     "event_id": "869c210d8444",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
-      "https://www.france24.com/en/asia-pacific/20261029-north-korea-launches-around-a-dozen-ballistic-missiles-amid-rising-tensions-with-south-korea"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Seoul fears being sidelined as US reaches out to North Korea",
-     "sources": 3,
-     "score": 59,
-     "event_id": "8a1bc8a90ce5",
-     "links": [
-      "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-      "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-     "sources": 5,
-     "score": 79,
-     "event_id": "31077fabb6a0",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "‘Elite North Korean hackers’ blamed for $6.3bn Binance heist – business live",
-     "sources": 2,
-     "score": 47,
-     "event_id": "b00a6aa99d6f",
-     "links": [
-      "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
-      "https://www.dw.com/en/cryptocurrency-exchange-binance-suspends-trading-amid-a-suspected-cyberattack-now-linked-to-north-korea/a-79803280?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
-     "sources": 2,
-     "score": 42,
-     "event_id": "1b2161d396ca",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a2f28390745f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "sources": 3,
-     "score": 60,
-     "event_id": "641fcec3e146",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-      "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-     "sources": 4,
-     "score": 62,
-     "event_id": "49fc6e1403de",
-     "links": [
-      "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-      "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Binance resumes crypto withdrawals after major hack blamed on North Korea",
-     "sources": 2,
-     "score": 46,
-     "event_id": "5a936712c1f0",
-     "links": [
-      "https://www.france24.com/en/business/20261101-binance-says-resuming-withdrawals-after-major-hack",
-      "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html"
      ]
     }
    ]
@@ -19518,5 +19530,5 @@
    ]
   }
  ],
- "updated": "2026-11-02T03:22:12+00:00"
+ "updated": "2026-11-02T06:34:48+00:00"
 }
