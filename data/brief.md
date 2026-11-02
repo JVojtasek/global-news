@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-11-01
+# ZADÁNÍ PRO REDAKCI — 2026-11-02
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -32,27 +32,7 @@
     <https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss>
     > Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.
 
-### 2. Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86
-- id události: `9826c96e0bea`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **NPR News** — Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86
-    <https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead>
-    > Stewart was raised by an abusive father but became best known for playing kind, paternal leaders who united families of misfits.
-  - **BBC Entertainment** — Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare
-    <https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss>
-    > The English actor began his career on stage before finding fame as the captain of the USS Enterprise.
-  - **France 24** — Patrick Stewart, star of 'Star Trek' and 'X men', dies age 86
-    <https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86>
-    > The British actor Patrick Stewart has died at age 86 a statement released on Thursday said. Stewart was an acclaimed actor in Britain with the Royal Shakespeare Company before he starred in the beloved sci-fi TV show "Star Trek" in the 80s and later in the "X-Men" franchise.
-  - **The Verge** — Patrick Stewart has died at age 86
-    <https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death>
-    > Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday "following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia."
-  - **Hacker News Best** — Patrick Stewart has died
-    <https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html>
-    > https://archive.ph/y4Egm https://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 1287 # Comments: 245
-
-### 3. 'Star Trek' star Patrick Stewart dies age 86
+### 2. 'Star Trek' star Patrick Stewart dies age 86
 - id události: `e47c8cc9a04a`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -72,7 +52,7 @@
     <https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86>
     > The British actor Patrick Stewart has died at 86, a statement released on Thursday said. Stewart was an acclaimed actor in Britain with the Royal Shakespeare Company before he starred in the beloved sci-fi TV show "Star Trek" in the 80s and later in the "X-Men" franchise.
 
-### 4. Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates
+### 3. Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates
 - id události: `f5b6d367ab3d`  ·  rubrika: `world`  ·  skóre: 63  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -89,20 +69,32 @@
     <https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss>
     > US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race.
 
+### 4. Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack
+- id události: `49fc6e1403de`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Guardian World** — Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack
+    <https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency>
+    > Cryptocurrency exchange says withdrawals expected to resume on Sunday as FBI blames North Korean state-sponsored group TraderTraitor Cryptocurrency exchange Binance says it has replaced 90% of the ⁠amount stolen after a record $6.3bn hack of its platform by a group the FBI identi
+  - **DW News** — FBI says North Korea behind $6 billion Binance crypto theft
+    <https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf>
+    > The FBI said the theft was tied to "malicious cyber activity" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.
+  - **Al Jazeera** — FBI blames North Korea for record $6.3bn crypto heist
+    <https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss>
+    > Crypto firm Binance says it has covered 90 percent of losses from the multibillion-dollar hack.
+  - **Investing.com** — FBI links record $6.3 billion Binance crypto theft to North Korea
+    <https://www.investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353>
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### investing for beginners
-- rubrika: `meaning`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
-- otázky, které k tomu lidé píší do vyhledávače:
-  - „how does investing work for beginners“
-  - „how much to start investing for beginners“
-  - „how much should i invest as a beginner“
+### ancient rome
+- rubrika: `history`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Absolute Beginners (film) — <https://en.wikipedia.org/wiki/Absolute_Beginners_(film)>
-  - For Beginners — <https://en.wikipedia.org/wiki/For_Beginners>
-  - Benjamin Graham — <https://en.wikipedia.org/wiki/Benjamin_Graham>
+  - Ancient Rome — <https://en.wikipedia.org/wiki/Ancient_Rome>
+  - Sexuality in ancient Rome — <https://en.wikipedia.org/wiki/Sexuality_in_ancient_Rome>
+  - Patrician (ancient Rome) — <https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)>
 
 ---
 

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "timezone": "Europe/Prague",
   "public_count": 6,
   "slots": [
@@ -9,7 +9,7 @@
       "type": "daily",
       "min_words": 1400,
       "max_words": 2000,
-      "section": "meaning",
+      "section": "questions",
       "status": "draft"
     },
     {
@@ -18,7 +18,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1500,
-      "section": "health",
+      "section": "wonder",
       "status": "draft"
     },
     {
@@ -36,7 +36,7 @@
       "type": "analysis",
       "min_words": 1000,
       "max_words": 1600,
-      "section": "questions",
+      "section": "health",
       "status": "draft"
     },
     {
@@ -64,7 +64,7 @@
     "type": "feature",
     "min_words": 1000,
     "max_words": 1600,
-    "section": "wonder",
+    "section": "ai",
     "status": "reserve"
   },
   "rules": {
