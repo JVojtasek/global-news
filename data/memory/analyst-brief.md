@@ -34,6 +34,20 @@ Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-11-01** (2 zdrojů) Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
   - **2026-11-03** (3 zdrojů) Russian strikes kill 26 in Ukraine after longest ceasefire ends
 
+### Trump says White House press secretary Karoline Leavitt to leave post
+- rubrika `world` · sledováno 83 dní · 60 záznamů
+- časová osa:
+  - **2026-10-19** (2 zdrojů) EU tariffs aimed at China hitting Ukraine, steel boss says
+  - **2026-10-19** (3 zdrojů) Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
+  - **2026-10-23** (3 zdrojů) White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'
+  - **2026-10-24** (2 zdrojů) White House lifts tariffs on some Canadian goods as midterm elections loom
+  - **2026-10-29** (3 zdrojů) What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump
+  - **2026-10-30** (2 zdrojů) Israeli opposition accuses Netanyahu of trying to 'delegitimise' election
+  - **2026-10-31** (2 zdrojů) Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory
+  - **2026-10-31** (2 zdrojů) How has the ceasefire in Russian-occupied Oleshky been unfolding?
+  - **2026-10-31** (2 zdrojů) Oleshky evacuees reunite with families after truce allows crossing back into Ukraine
+  - **2026-11-03** (2 zdrojů) Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
+
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 83 dní · 60 záznamů
 - časová osa:
@@ -75,20 +89,6 @@ Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-10-30** (2 zdrojů) England thrash Wales to begin World Cup defence
   - **2026-10-31** (2 zdrojů) Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live
   - **2026-11-01** (2 zdrojů) Wales hit by Australia century in World Cup record defeat
-
-### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 80 dní · 59 záznamů
-- časová osa:
-  - **2026-10-18** (3 zdrojů) Trump endorses Netanyahu in Israeli legislative elections
-  - **2026-10-19** (2 zdrojů) EU tariffs aimed at China hitting Ukraine, steel boss says
-  - **2026-10-19** (3 zdrojů) Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
-  - **2026-10-23** (3 zdrojů) White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'
-  - **2026-10-24** (2 zdrojů) White House lifts tariffs on some Canadian goods as midterm elections loom
-  - **2026-10-29** (3 zdrojů) What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump
-  - **2026-10-30** (2 zdrojů) Israeli opposition accuses Netanyahu of trying to 'delegitimise' election
-  - **2026-10-31** (2 zdrojů) Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory
-  - **2026-10-31** (2 zdrojů) How has the ceasefire in Russian-occupied Oleshky been unfolding?
-  - **2026-10-31** (2 zdrojů) Oleshky evacuees reunite with families after truce allows crossing back into Ukraine
 
 ---
 
