@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-03
 
-Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **45**.
+Paměť obsahuje **176 vláken**. Aktivních za posledních 14 dní: **47**.
 
 ---
 
@@ -23,7 +23,6 @@ Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **45**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 86 dní · 60 záznamů
 - časová osa:
-  - **2026-10-26** (3 zdrojů) Donald Trump has been a disaster for rural America | Steven Greenhouse
   - **2026-10-26** (2 zdrojů) Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours
   - **2026-10-26** (2 zdrojů) What Germany thinks of carmaker Audi's $4 billion deal with Trump
   - **2026-10-26** (2 zdrojů) Trump announces Audi will build $4 billion factory in US
@@ -33,6 +32,7 @@ Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **45**.
   - **2026-11-03** (3 zdrojů) Russian strikes kill 26 in Ukraine after longest ceasefire ends
   - **2026-11-03** (2 zdrojů) Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
   - **2026-11-03** (2 zdrojů) Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
+  - **2026-11-03** (2 zdrojů) Ukraine’s drone strikes spur hasty Russian plans for underground data centers
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 83 dní · 60 záznamů

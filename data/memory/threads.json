@@ -821,46 +821,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "roth",
-    "poland",
+    "union",
+    "britain",
+    "riyadh",
+    "korea",
+    "saudi",
+    "briton",
+    "ukraine",
+    "russian",
+    "merz",
+    "steven",
+    "germany",
+    "andrew",
+    "russia",
+    "audi's",
     "beijing",
     "kherson",
-    "briton",
-    "chancellor",
-    "audi",
-    "vladimir",
-    "russia",
-    "merz",
-    "germany",
-    "modi",
-    "saudis",
-    "asia",
-    "saudi",
-    "russian",
-    "riyadh",
-    "dnipro",
-    "removals",
-    "block",
-    "president",
-    "kyiv",
-    "ukraine",
-    "audi's",
-    "iran's",
-    "korea",
-    "american",
-    "union",
-    "trump",
-    "seoul's",
-    "bringing",
-    "britain",
-    "kuwait",
-    "united",
-    "death",
-    "andrew",
-    "states",
-    "steven",
     "gulf",
-    "ukrainian"
+    "kyiv",
+    "audi",
+    "trump",
+    "ukrainian",
+    "removals",
+    "bringing",
+    "states",
+    "seoul's",
+    "kuwait",
+    "death",
+    "united",
+    "asia",
+    "block",
+    "chancellor",
+    "dnipro",
+    "president",
+    "american",
+    "vladimir",
+    "poland",
+    "iran's",
+    "roth",
+    "saudis",
+    "modi"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -1031,23 +1031,12 @@
     "e630747aaad9",
     "6ebb60de6dea",
     "586cced2deb2",
-    "2a1eb018a2c3"
+    "2a1eb018a2c3",
+    "2f70d6c369eb"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-11-03",
    "timeline": [
-    {
-     "date": "2026-10-08",
-     "headline": "South Korea recalls Ukraine envoy over prisoner-of-war row",
-     "sources": 3,
-     "score": 59,
-     "event_id": "3d9a359c4b06",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
-      "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon"
-     ]
-    },
     {
      "date": "2026-10-08",
      "headline": "South Korea warns of AI-aided hacking after bank data breaches",
@@ -1719,6 +1708,17 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/ukraine-war-merz-doubts-russia-is-serious-about-a-truce/a-79836026?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2f70d6c369eb",
+     "links": [
+      "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on"
      ]
     }
    ]
@@ -5469,6 +5469,307 @@
    ]
   },
   {
+   "id": "7da4e07716c7",
+   "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+   "section": "world",
+   "entities": [
+    "wife",
+    "haley",
+    "senate",
+    "pentagon",
+    "michigan",
+    "secretary",
+    "cornyn",
+    "hormuz",
+    "stevens",
+    "november",
+    "iran",
+    "el-sayed",
+    "rogers",
+    "republican",
+    "massie",
+    "karl",
+    "china",
+    "paxton",
+    "tankers",
+    "defense",
+    "hegseth",
+    "halloween",
+    "gulf",
+    "trump",
+    "democrat",
+    "texas",
+    "rove",
+    "mike"
+   ],
+   "event_ids": [
+    "7da4e07716c7",
+    "7d0d4d3f6bdb",
+    "9ba97aff3e7d",
+    "685eb5ef4b77",
+    "dc98be3509f8",
+    "83c9ff637cd4",
+    "1a58c450df85",
+    "0bd2b78f98d3",
+    "5b2e57f10a93",
+    "6bdae1bbcb1a",
+    "262b590f746f",
+    "282dcc034a3b",
+    "4c37332d2bbb",
+    "06237d9feb09",
+    "4c1e1d02df87",
+    "f5b6d367ab3d",
+    "6ee149854410",
+    "660903c7e4d9",
+    "7cf106926362",
+    "cc6d5c271c5b",
+    "94f3a475eae4"
+   ],
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-11-03",
+   "timeline": [
+    {
+     "date": "2026-09-11",
+     "headline": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+     "sources": 3,
+     "score": 55,
+     "event_id": "7da4e07716c7",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
+      "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Iran war won't end until after crucial November elections, says Trump",
+     "sources": 2,
+     "score": 45,
+     "event_id": "7d0d4d3f6bdb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Trump dismisses report China supplied intel to Iran",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9ba97aff3e7d",
+     "links": [
+      "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
+     "sources": 2,
+     "score": 40,
+     "event_id": "685eb5ef4b77",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
+     "sources": 2,
+     "score": 47,
+     "event_id": "dc98be3509f8",
+     "links": [
+      "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+      "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
+      "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+     "sources": 2,
+     "score": 42,
+     "event_id": "83c9ff637cd4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1a58c450df85",
+     "links": [
+      "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
+      "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+     "sources": 2,
+     "score": 48,
+     "event_id": "0bd2b78f98d3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "US says China trade truce extended as Trump welcomes Xi",
+     "sources": 2,
+     "score": 40,
+     "event_id": "5b2e57f10a93",
+     "links": [
+      "https://www.france24.com/en/video/20260924-us-says-china-trade-truce-extended-as-trump-welcomes-xi",
+      "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
+     "sources": 2,
+     "score": 42,
+     "event_id": "6bdae1bbcb1a",
+     "links": [
+      "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
+      "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+     "sources": 2,
+     "score": 45,
+     "event_id": "262b590f746f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "US official claims Trump holds all the cards in Iran talks",
+     "sources": 3,
+     "score": 52,
+     "event_id": "282dcc034a3b",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz",
+      "https://www.investing.com/news/economy-news/iran-awaits-us-response-to-hormuz-peace-plan-as-trump-reportedly-rejects-deal-4918476"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
+     "sources": 4,
+     "score": 70,
+     "event_id": "4c37332d2bbb",
+     "links": [
+      "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
+      "https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html",
+      "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
+     "sources": 1,
+     "score": 40,
+     "event_id": "06237d9feb09",
+     "links": [
+      "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
+      "https://www.cnbc.com/2026/10/15/james-talarico-texas-senate-fundraising-ken-paxton.html"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4c1e1d02df87",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+     "sources": 3,
+     "score": 63,
+     "event_id": "f5b6d367ab3d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+      "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+     "sources": 2,
+     "score": 42,
+     "event_id": "6ee149854410",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "How a Democrat in Michigan rocked the party days before the US midterms",
+     "sources": 2,
+     "score": 50,
+     "event_id": "660903c7e4d9",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
+      "https://www.france24.com/en/michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "What might Trump have planned for Iran following the midterm election?",
+     "sources": 2,
+     "score": 44,
+     "event_id": "7cf106926362",
+     "links": [
+      "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
+     "sources": 2,
+     "score": 53,
+     "event_id": "cc6d5c271c5b",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
+      "https://www.france24.com/en/video/20261103-us-midterms-michigan-senate-candidate-el-sayed-becomes-democrats-rising-star",
+      "https://www.france24.com/en/video/20261103-us-midterms-michigan-candidate-el-sayed-pledges-to-tackle-the-affordability-crisis"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+     "sources": 2,
+     "score": 48,
+     "event_id": "94f3a475eae4",
+     "links": [
+      "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+      "https://www.france24.com/en/video/20261102-sour-grapes-dems-shocked-as-haley-stevens-breaks-ranks"
+     ]
+    }
+   ]
+  },
+  {
    "id": "f2d111d4fd57",
    "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
    "section": "science",
@@ -5703,6 +6004,194 @@
    ]
   },
   {
+   "id": "dc7779782bf4",
+   "title": "Nobel Prize awarded for showing inner workings of the brain",
+   "section": "world",
+   "entities": [
+    "poet",
+    "stunning",
+    "modern",
+    "ages",
+    "mysteries",
+    "unravel",
+    "handedness",
+    "prize",
+    "cells",
+    "unraveling",
+    "brain's",
+    "carson",
+    "developing",
+    "universe",
+    "massive",
+    "bold",
+    "anne",
+    "simulation",
+    "cosmic",
+    "mystery",
+    "ghostly",
+    "canadian",
+    "astronomers",
+    "dark",
+    "helping",
+    "early",
+    "trio",
+    "literature",
+    "observatory",
+    "brings",
+    "nerve",
+    "she's",
+    "ancient",
+    "molecular",
+    "help",
+    "particles",
+    "light",
+    "medications",
+    "chemists",
+    "medicine"
+   ],
+   "event_ids": [
+    "dc7779782bf4",
+    "3c668b658642",
+    "b24f98ed0c74",
+    "be3ec8462606",
+    "d5cbc62e7cce",
+    "b68c227f1559",
+    "aa8cf71474ea",
+    "8430a4f7c4dd",
+    "35ab5cab7d55",
+    "a690d09ebd85",
+    "45c3bbc81d4b"
+   ],
+   "first_seen": "2026-10-05",
+   "last_seen": "2026-11-03",
+   "timeline": [
+    {
+     "date": "2026-10-05",
+     "headline": "Nobel Prize awarded for showing inner workings of the brain",
+     "sources": 7,
+     "score": 86,
+     "event_id": "dc7779782bf4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+      "https://www.nature.com/articles/d41586-026-03091-2"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Nobel Literature Prize: How the winner is secretly chosen",
+     "sources": 3,
+     "score": 53,
+     "event_id": "3c668b658642",
+     "links": [
+      "https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss",
+      "https://www.nobelprize.org/prizes/physics/2026/"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Physicist Wins Nobel Prize for Developing a Massive, Ice-Embedded Observatory That Detects Ghostly Cosmic Particles",
+     "sources": 2,
+     "score": 50,
+     "event_id": "b24f98ed0c74",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/physicist-wins-nobel-prize-for-developing-a-massive-ice-embedded-observatory-that-detects-ghostly-cosmic-particles-180989627/",
+      "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Trio of Scientists Wins Medicine Nobel for a Method to Turn Nerve Cells On and Off With Light, Helping to Unravel the Brain's Mysteries",
+     "sources": 1,
+     "score": 43,
+     "event_id": "be3ec8462606",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/trio-of-scientists-wins-medicine-nobel-for-a-method-to-turn-nerve-cells-on-and-off-with-light-helping-to-unravel-the-brains-mysteries-180989618/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Two Chemists Win Nobel Prize for Unraveling a Mystery of Molecular 'Handedness,' Helping Drugmakers Develop Safer Medications",
+     "sources": 1,
+     "score": 40,
+     "event_id": "d5cbc62e7cce",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/two-chemists-win-nobel-prize-for-unraveling-a-mystery-of-molecular-handedness-helping-drugmakers-develop-safer-medications-180989643/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+     "sources": 4,
+     "score": 65,
+     "event_id": "b68c227f1559",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+      "https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Nobel Prize winner Anne Carson: Where to start reading",
+     "sources": 2,
+     "score": 44,
+     "event_id": "aa8cf71474ea",
+     "links": [
+      "https://www.dw.com/en/nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/8/canadian-anne-carson-wins-2026-nobel-prize-in-literature?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "2026 Nobel Prize winner Anne Carson: Where to start reading",
+     "sources": 3,
+     "score": 59,
+     "event_id": "8430a4f7c4dd",
+     "links": [
+      "https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20261008-canadian-poet-and-essayist-anne-carson-wins-nobel-prize-in-literature"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Canadian Poet Anne Carson Brings Ancient Wisdom to Modern Audiences. Now, She's a Nobel Laureate in Literature",
+     "sources": 3,
+     "score": 58,
+     "event_id": "35ab5cab7d55",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/canadian-poet-anne-carson-brings-ancient-wisdom-to-modern-audiences-now-shes-a-nobel-laureate-in-literature-180989655/",
+      "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+      "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "‘Sometimes she publishes notes she’s scribbled on her hand’: Édouard Louis on 10 reasons to love Anne Carson",
+     "sources": 6,
+     "score": 86,
+     "event_id": "a690d09ebd85",
+     "links": [
+      "https://www.theguardian.com/books/2026/oct/09/sometimes-she-publishes-notes-shes-scribbled-on-her-hand-edouard-louis-on-10-reasons-to-love-anne-carson",
+      "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "See a Stunning Simulation of the Early Universe, Which Will Help Astronomers Shed Light on the Cosmic Dark Ages",
+     "sources": 1,
+     "score": 40,
+     "event_id": "45c3bbc81d4b",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/see-a-stunning-simulation-of-the-early-universe-which-will-help-astronomers-shed-light-on-the-cosmic-dark-ages-180989791/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "2c2b2700dd7b",
    "title": "Microsoft Patches a Record 570 Security Flaws",
    "section": "safety",
@@ -5877,6 +6366,128 @@
    ]
   },
   {
+   "id": "e0d783f4ac39",
+   "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+   "section": "safety",
+   "entities": [
+    "google",
+    "openai",
+    "india",
+    "iranians",
+    "eight",
+    "russians",
+    "codex",
+    "chatgpt"
+   ],
+   "event_ids": [
+    "e0d783f4ac39",
+    "762a25ddd63d",
+    "b32137f532da",
+    "158b0c0dc14e",
+    "ee1064a6898c",
+    "b11eab44a8af",
+    "88ac6d1c3f06",
+    "662bf89dbff2"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-11-03",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
+     "sources": 3,
+     "score": 60,
+     "event_id": "e0d783f4ac39",
+     "links": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+      "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
+     "sources": 4,
+     "score": 64,
+     "event_id": "762a25ddd63d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+     "sources": 2,
+     "score": 44,
+     "event_id": "b32137f532da",
+     "links": [
+      "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
+     "sources": 3,
+     "score": 59,
+     "event_id": "158b0c0dc14e",
+     "links": [
+      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
+      "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+     "sources": 2,
+     "score": 40,
+     "event_id": "ee1064a6898c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
+     "sources": 2,
+     "score": 44,
+     "event_id": "b11eab44a8af",
+     "links": [
+      "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
+      "https://www.france24.com/en/technology/20261008-openai-bans-russian-iranian-chatgpt-propaganda-networks"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+     "sources": 3,
+     "score": 49,
+     "event_id": "88ac6d1c3f06",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "OpenAI says ChatGPT is catching up to Google in search",
+     "sources": 3,
+     "score": 45,
+     "event_id": "662bf89dbff2",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "572525ad51af",
    "title": "Newcastle showed 'full commitment' in Spurs win - Jaissle",
    "section": "sport",
@@ -6015,6 +6626,34 @@
       "https://www.france24.com/en/us-strikes-iran-s-qeshm-island-as-midterm-elections-start",
       "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss",
       "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7e8307d163c5",
+   "title": "King Charles addresses summit as demands for slavery apology grow",
+   "section": "world",
+   "entities": [
+    "charles",
+    "king"
+   ],
+   "event_ids": [
+    "7e8307d163c5"
+   ],
+   "first_seen": "2026-11-03",
+   "last_seen": "2026-11-03",
+   "timeline": [
+    {
+     "date": "2026-11-03",
+     "headline": "King Charles addresses summit as demands for slavery apology grow",
+     "sources": 3,
+     "score": 56,
+     "event_id": "7e8307d163c5",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/nov/03/king-charles-commonwealth-summit-campaigners-apology-slavery",
+      "https://www.aljazeera.com/news/2026/11/3/uks-king-charles-expresses-profound-sorrow-over-transatlantic-slave-era?traffic_source=rss",
+      "https://www.france24.com/en/europe/20261103-king-charles-says-he-has-greater-understanding-of-horrors-of-slavery-falls-short-of-apology"
      ]
     }
    ]
@@ -7292,276 +7931,6 @@
      "event_id": "a8d9169ef0a2",
      "links": [
       "https://www.smithsonianmag.com/smart-news/after-sitting-in-a-london-museum-since-1924-this-dinosaur-fossil-was-named-a-new-predatory-species-an-unconquered-female-warrior-180989683/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7da4e07716c7",
-   "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-   "section": "world",
-   "entities": [
-    "karl",
-    "halloween",
-    "senate",
-    "texas",
-    "november",
-    "trump",
-    "wife",
-    "michigan",
-    "cornyn",
-    "tankers",
-    "china",
-    "defense",
-    "hegseth",
-    "secretary",
-    "republican",
-    "paxton",
-    "massie",
-    "hormuz",
-    "democrat",
-    "pentagon",
-    "rove",
-    "iran"
-   ],
-   "event_ids": [
-    "7da4e07716c7",
-    "7d0d4d3f6bdb",
-    "9ba97aff3e7d",
-    "685eb5ef4b77",
-    "dc98be3509f8",
-    "83c9ff637cd4",
-    "1a58c450df85",
-    "0bd2b78f98d3",
-    "5b2e57f10a93",
-    "6bdae1bbcb1a",
-    "262b590f746f",
-    "282dcc034a3b",
-    "4c37332d2bbb",
-    "06237d9feb09",
-    "4c1e1d02df87",
-    "f5b6d367ab3d",
-    "6ee149854410",
-    "660903c7e4d9",
-    "7cf106926362"
-   ],
-   "first_seen": "2026-09-11",
-   "last_seen": "2026-11-02",
-   "timeline": [
-    {
-     "date": "2026-09-11",
-     "headline": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-     "sources": 3,
-     "score": 55,
-     "event_id": "7da4e07716c7",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
-      "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Iran war won't end until after crucial November elections, says Trump",
-     "sources": 2,
-     "score": 45,
-     "event_id": "7d0d4d3f6bdb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Trump dismisses report China supplied intel to Iran",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9ba97aff3e7d",
-     "links": [
-      "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
-     "sources": 2,
-     "score": 40,
-     "event_id": "685eb5ef4b77",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
-     "sources": 2,
-     "score": 47,
-     "event_id": "dc98be3509f8",
-     "links": [
-      "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
-      "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
-      "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-     "sources": 2,
-     "score": 42,
-     "event_id": "83c9ff637cd4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1a58c450df85",
-     "links": [
-      "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
-      "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-     "sources": 2,
-     "score": 48,
-     "event_id": "0bd2b78f98d3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "US says China trade truce extended as Trump welcomes Xi",
-     "sources": 2,
-     "score": 40,
-     "event_id": "5b2e57f10a93",
-     "links": [
-      "https://www.france24.com/en/video/20260924-us-says-china-trade-truce-extended-as-trump-welcomes-xi",
-      "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
-     "sources": 2,
-     "score": 42,
-     "event_id": "6bdae1bbcb1a",
-     "links": [
-      "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
-      "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
-     "sources": 2,
-     "score": 45,
-     "event_id": "262b590f746f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "US official claims Trump holds all the cards in Iran talks",
-     "sources": 3,
-     "score": 52,
-     "event_id": "282dcc034a3b",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz",
-      "https://www.investing.com/news/economy-news/iran-awaits-us-response-to-hormuz-peace-plan-as-trump-reportedly-rejects-deal-4918476"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
-     "sources": 4,
-     "score": 70,
-     "event_id": "4c37332d2bbb",
-     "links": [
-      "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
-      "https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html",
-      "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-     "sources": 1,
-     "score": 40,
-     "event_id": "06237d9feb09",
-     "links": [
-      "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
-      "https://www.cnbc.com/2026/10/15/james-talarico-texas-senate-fundraising-ken-paxton.html"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
-     "sources": 2,
-     "score": 42,
-     "event_id": "4c1e1d02df87",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-     "sources": 3,
-     "score": 63,
-     "event_id": "f5b6d367ab3d",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
-      "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
-     "sources": 2,
-     "score": 42,
-     "event_id": "6ee149854410",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "How a Democrat in Michigan rocked the party days before the US midterms",
-     "sources": 2,
-     "score": 50,
-     "event_id": "660903c7e4d9",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
-      "https://www.france24.com/en/michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "What might Trump have planned for Iran following the midterm election?",
-     "sources": 2,
-     "score": 44,
-     "event_id": "7cf106926362",
-     "links": [
-      "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html"
      ]
     }
    ]
@@ -14468,114 +14837,6 @@
    ]
   },
   {
-   "id": "e0d783f4ac39",
-   "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-   "section": "safety",
-   "entities": [
-    "iranians",
-    "india",
-    "codex",
-    "openai",
-    "russians",
-    "eight",
-    "chatgpt"
-   ],
-   "event_ids": [
-    "e0d783f4ac39",
-    "762a25ddd63d",
-    "b32137f532da",
-    "158b0c0dc14e",
-    "ee1064a6898c",
-    "b11eab44a8af",
-    "88ac6d1c3f06"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-10-14",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-     "sources": 3,
-     "score": 60,
-     "event_id": "e0d783f4ac39",
-     "links": [
-      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
-      "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "OpenAI makes ChatGPT less 'human' for teens in new safety update",
-     "sources": 4,
-     "score": 64,
-     "event_id": "762a25ddd63d",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-     "sources": 2,
-     "score": 44,
-     "event_id": "b32137f532da",
-     "links": [
-      "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
-     "sources": 3,
-     "score": 59,
-     "event_id": "158b0c0dc14e",
-     "links": [
-      "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
-      "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-     "sources": 2,
-     "score": 40,
-     "event_id": "ee1064a6898c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "OpenAI caught Russians and Iranians using ChatGPT for influence campaigns",
-     "sources": 2,
-     "score": 44,
-     "event_id": "b11eab44a8af",
-     "links": [
-      "https://www.npr.org/2026/10/08/nx-s1-5995576/openai-russia-iran-influence-operations-chatgpt",
-      "https://www.france24.com/en/technology/20261008-openai-bans-russian-iranian-chatgpt-propaganda-networks"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-     "sources": 3,
-     "score": 49,
-     "event_id": "88ac6d1c3f06",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html"
-     ]
-    }
-   ]
-  },
-  {
    "id": "fdcbb689323c",
    "title": "Barcola joins Liverpool from PSG in £123m move",
    "section": "world",
@@ -15551,183 +15812,6 @@
      "links": [
       "https://www.scmp.com/tech/tech-war/article/3370317/anthropic-claims-chinese-ai-firms-secretly-use-claude-it-true?utm_source=rss_feed",
       "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dc7779782bf4",
-   "title": "Nobel Prize awarded for showing inner workings of the brain",
-   "section": "world",
-   "entities": [
-    "physicist",
-    "particles",
-    "poet",
-    "sometimes",
-    "drugmakers",
-    "ancient",
-    "developing",
-    "massive",
-    "molecular",
-    "nerve",
-    "she's",
-    "detects",
-    "unraveling",
-    "bold",
-    "canadian",
-    "light",
-    "mysteries",
-    "louis",
-    "trio",
-    "unravel",
-    "cells",
-    "turn",
-    "mystery",
-    "scientists",
-    "literature",
-    "brain's",
-    "cosmic",
-    "medicine",
-    "brings",
-    "medications",
-    "carson",
-    "wisdom",
-    "chemists",
-    "anne",
-    "ghostly",
-    "helping",
-    "observatory",
-    "modern",
-    "prize",
-    "handedness"
-   ],
-   "event_ids": [
-    "dc7779782bf4",
-    "3c668b658642",
-    "b24f98ed0c74",
-    "be3ec8462606",
-    "d5cbc62e7cce",
-    "b68c227f1559",
-    "aa8cf71474ea",
-    "8430a4f7c4dd",
-    "35ab5cab7d55",
-    "a690d09ebd85"
-   ],
-   "first_seen": "2026-10-05",
-   "last_seen": "2026-10-09",
-   "timeline": [
-    {
-     "date": "2026-10-05",
-     "headline": "Nobel Prize awarded for showing inner workings of the brain",
-     "sources": 7,
-     "score": 86,
-     "event_id": "dc7779782bf4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-      "https://www.nature.com/articles/d41586-026-03091-2"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Nobel Literature Prize: How the winner is secretly chosen",
-     "sources": 3,
-     "score": 53,
-     "event_id": "3c668b658642",
-     "links": [
-      "https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss",
-      "https://www.nobelprize.org/prizes/physics/2026/"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Physicist Wins Nobel Prize for Developing a Massive, Ice-Embedded Observatory That Detects Ghostly Cosmic Particles",
-     "sources": 2,
-     "score": 50,
-     "event_id": "b24f98ed0c74",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/physicist-wins-nobel-prize-for-developing-a-massive-ice-embedded-observatory-that-detects-ghostly-cosmic-particles-180989627/",
-      "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Trio of Scientists Wins Medicine Nobel for a Method to Turn Nerve Cells On and Off With Light, Helping to Unravel the Brain's Mysteries",
-     "sources": 1,
-     "score": 43,
-     "event_id": "be3ec8462606",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/trio-of-scientists-wins-medicine-nobel-for-a-method-to-turn-nerve-cells-on-and-off-with-light-helping-to-unravel-the-brains-mysteries-180989618/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Two Chemists Win Nobel Prize for Unraveling a Mystery of Molecular 'Handedness,' Helping Drugmakers Develop Safer Medications",
-     "sources": 1,
-     "score": 40,
-     "event_id": "d5cbc62e7cce",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/two-chemists-win-nobel-prize-for-unraveling-a-mystery-of-molecular-handedness-helping-drugmakers-develop-safer-medications-180989643/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-     "sources": 4,
-     "score": 65,
-     "event_id": "b68c227f1559",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
-      "https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Nobel Prize winner Anne Carson: Where to start reading",
-     "sources": 2,
-     "score": 44,
-     "event_id": "aa8cf71474ea",
-     "links": [
-      "https://www.dw.com/en/nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/8/canadian-anne-carson-wins-2026-nobel-prize-in-literature?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "2026 Nobel Prize winner Anne Carson: Where to start reading",
-     "sources": 3,
-     "score": 59,
-     "event_id": "8430a4f7c4dd",
-     "links": [
-      "https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20261008-canadian-poet-and-essayist-anne-carson-wins-nobel-prize-in-literature"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Canadian Poet Anne Carson Brings Ancient Wisdom to Modern Audiences. Now, She's a Nobel Laureate in Literature",
-     "sources": 3,
-     "score": 58,
-     "event_id": "35ab5cab7d55",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/canadian-poet-anne-carson-brings-ancient-wisdom-to-modern-audiences-now-shes-a-nobel-laureate-in-literature-180989655/",
-      "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
-      "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "‘Sometimes she publishes notes she’s scribbled on her hand’: Édouard Louis on 10 reasons to love Anne Carson",
-     "sources": 6,
-     "score": 86,
-     "event_id": "a690d09ebd85",
-     "links": [
-      "https://www.theguardian.com/books/2026/oct/09/sometimes-she-publishes-notes-shes-scribbled-on-her-hand-edouard-louis-on-10-reasons-to-love-anne-carson",
-      "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -19799,5 +19883,5 @@
    ]
   }
  ],
- "updated": "2026-11-03T18:20:50+00:00"
+ "updated": "2026-11-03T21:19:59+00:00"
 }
