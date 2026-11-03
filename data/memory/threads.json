@@ -821,46 +821,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "states",
-    "saudis",
-    "seoul's",
-    "vladimir",
-    "kuwait",
-    "merz",
-    "steven",
-    "audi",
-    "dnipro",
-    "chancellor",
-    "iran's",
-    "riyadh",
-    "block",
-    "ukrainian",
-    "beijing",
-    "germany",
-    "ukraine",
-    "trump",
-    "bringing",
-    "gulf",
-    "russian",
-    "death",
     "roth",
-    "modi",
-    "tiny",
     "poland",
-    "american",
+    "beijing",
+    "kherson",
     "briton",
-    "britain",
-    "saudi",
-    "president",
-    "union",
-    "korea",
+    "chancellor",
+    "audi",
+    "vladimir",
+    "russia",
+    "merz",
+    "germany",
+    "modi",
+    "saudis",
     "asia",
-    "kyiv",
-    "andrew",
+    "saudi",
+    "russian",
+    "riyadh",
+    "dnipro",
     "removals",
+    "block",
+    "president",
+    "kyiv",
+    "ukraine",
     "audi's",
+    "iran's",
+    "korea",
+    "american",
+    "union",
+    "trump",
+    "seoul's",
+    "bringing",
+    "britain",
+    "kuwait",
     "united",
-    "kherson"
+    "death",
+    "andrew",
+    "states",
+    "steven",
+    "gulf",
+    "ukrainian"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -1030,22 +1030,12 @@
     "d4f72b2bef19",
     "e630747aaad9",
     "6ebb60de6dea",
-    "586cced2deb2"
+    "586cced2deb2",
+    "2a1eb018a2c3"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-11-03",
    "timeline": [
-    {
-     "date": "2026-10-08",
-     "headline": "Oil and gas prices jump on Middle East shipping attacks, sending bond yields higher and stocks lower – business live",
-     "sources": 2,
-     "score": 48,
-     "event_id": "5a0b5a4a6229",
-     "links": [
-      "https://www.theguardian.com/business/live/2026/oct/08/oil-prices-rise-shipping-attacks-rate-rise-uk-housing-market-bank-england-latest-live-updates",
-      "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat"
-     ]
-    },
     {
      "date": "2026-10-08",
      "headline": "South Korea recalls Ukraine envoy over prisoner-of-war row",
@@ -1718,6 +1708,17 @@
      "links": [
       "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
       "https://www.france24.com/en/video/20261103-dozens-killed-dozens-more-missing-after-russian-strike-on-ukrainian-aid-site"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+     "sources": 2,
+     "score": 48,
+     "event_id": "2a1eb018a2c3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/ukraine-war-merz-doubts-russia-is-serious-about-a-truce/a-79836026?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -5132,6 +5133,337 @@
      "links": [
       "https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "117b4062144e",
+   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+   "section": "science",
+   "entities": [
+    "samples",
+    "giant",
+    "remote",
+    "splashdown",
+    "missions",
+    "fiery",
+    "week",
+    "next-gen",
+    "first-of-its-kind",
+    "space",
+    "texas",
+    "eerie",
+    "mars",
+    "beloved",
+    "launched",
+    "technologies",
+    "send",
+    "testing",
+    "telescope",
+    "dish",
+    "orbit",
+    "help",
+    "partners",
+    "origin",
+    "sets",
+    "theft",
+    "mission",
+    "event",
+    "data",
+    "head",
+    "expected",
+    "observing",
+    "meet",
+    "nasa",
+    "low-altitude",
+    "junk",
+    "farmland",
+    "conduct",
+    "death",
+    "years"
+   ],
+   "event_ids": [
+    "117b4062144e",
+    "687e9adaf6fb",
+    "887fb7f3bbc2",
+    "730942a6039b",
+    "648eebb8b0ed",
+    "b795c1289008",
+    "b4bda24af3f5",
+    "a2c974f2ab73",
+    "af69ac084ec6",
+    "2dc282f1df7a",
+    "2d1ff4fb2acc",
+    "f33a490284d9",
+    "f57fd11d1f5b",
+    "b85bd3d3a0d8",
+    "dc7b54e8c00a",
+    "b9bfb014cb61",
+    "550aa79730b3",
+    "d5370f4ea3de",
+    "eb8ae8da944a",
+    "7e9b86a23e3d",
+    "0d0d39349f2d",
+    "d20dd0f99f28",
+    "55107ad46021"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-11-03",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+     "sources": 2,
+     "score": 58,
+     "event_id": "117b4062144e",
+     "links": [
+      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "sources": 1,
+     "score": 46,
+     "event_id": "687e9adaf6fb",
+     "links": [
+      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+     "sources": 5,
+     "score": 81,
+     "event_id": "887fb7f3bbc2",
+     "links": [
+      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
+      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+     "sources": 1,
+     "score": 46,
+     "event_id": "730942a6039b",
+     "links": [
+      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
+     "sources": 2,
+     "score": 55,
+     "event_id": "648eebb8b0ed",
+     "links": [
+      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+     "sources": 1,
+     "score": 45,
+     "event_id": "b795c1289008",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b4bda24af3f5",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "NASA Adds New Science Investigations for Moon Base",
+     "sources": 1,
+     "score": 41,
+     "event_id": "a2c974f2ab73",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
+     "sources": 1,
+     "score": 44,
+     "event_id": "af69ac084ec6",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Artemis II Crew Moon Photo Annotations",
+     "sources": 3,
+     "score": 53,
+     "event_id": "2dc282f1df7a",
+     "links": [
+      "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
+      "https://www.nature.com/articles/d41586-026-03197-7",
+      "https://phys.org/news/2026-10-artemis-ii-crew-moon-photo.html"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+     "sources": 1,
+     "score": 42,
+     "event_id": "2d1ff4fb2acc",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+      "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+     "sources": 1,
+     "score": 43,
+     "event_id": "f33a490284d9",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
+      "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
+     "sources": 1,
+     "score": 46,
+     "event_id": "f57fd11d1f5b",
+     "links": [
+      "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
+      "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b85bd3d3a0d8",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+      "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+     "sources": 1,
+     "score": 44,
+     "event_id": "dc7b54e8c00a",
+     "links": [
+      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+     "sources": 2,
+     "score": 52,
+     "event_id": "b9bfb014cb61",
+     "links": [
+      "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+      "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+     "sources": 1,
+     "score": 45,
+     "event_id": "550aa79730b3",
+     "links": [
+      "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
+      "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Scientists Don't Know How Mars Acquired Its Two Moons. Japan Just Launched a Historic Space Mission That Will Fetch Samples to Find Out",
+     "sources": 2,
+     "score": 52,
+     "event_id": "d5370f4ea3de",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/scientists-dont-know-how-mars-acquired-its-two-moons-japan-just-launched-a-historic-space-mission-that-will-fetch-samples-to-find-out-180989713/",
+      "https://phys.org/news/2026-10-japan-world-mission-moon-mars.html"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+     "sources": 1,
+     "score": 45,
+     "event_id": "eb8ae8da944a",
+     "links": [
+      "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+      "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+     "sources": 1,
+     "score": 50,
+     "event_id": "7e9b86a23e3d",
+     "links": [
+      "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+      "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "The United Kingdom Is Launching Giant Claws Into Orbit to Clean Up Space Junk. You Can Help Name the First-of-Its-Kind Mission",
+     "sources": 1,
+     "score": 41,
+     "event_id": "0d0d39349f2d",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/the-united-kingdom-is-launching-giant-claws-into-orbit-to-clean-up-space-junk-you-can-help-name-the-first-of-its-kind-mission-180989755/"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+     "sources": 1,
+     "score": 45,
+     "event_id": "d20dd0f99f28",
+     "links": [
+      "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "After Observing the Sky for 22 Years, a Beloved NASA Space Telescope Is Expected to Meet a Fiery Death This Week",
+     "sources": 1,
+     "score": 44,
+     "event_id": "55107ad46021",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/after-observing-the-sky-for-22-years-a-beloved-nasa-space-telescope-is-expected-to-meet-a-fiery-death-this-week-180989796/"
      ]
     }
    ]
@@ -9538,326 +9870,6 @@
      "links": [
       "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
       "https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "117b4062144e",
-   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-   "section": "science",
-   "entities": [
-    "know",
-    "space",
-    "junk",
-    "send",
-    "data",
-    "theft",
-    "testing",
-    "low-altitude",
-    "next-gen",
-    "telescope",
-    "mission",
-    "photo",
-    "arrival",
-    "conduct",
-    "mars",
-    "clean",
-    "help",
-    "dish",
-    "launching",
-    "orbit",
-    "launched",
-    "eerie",
-    "sets",
-    "partners",
-    "develops",
-    "samples",
-    "giant",
-    "first-of-its-kind",
-    "farmland",
-    "webb",
-    "remote",
-    "captures",
-    "head",
-    "missions",
-    "flights",
-    "technologies",
-    "event",
-    "splashdown",
-    "texas",
-    "origin"
-   ],
-   "event_ids": [
-    "117b4062144e",
-    "687e9adaf6fb",
-    "887fb7f3bbc2",
-    "730942a6039b",
-    "648eebb8b0ed",
-    "b795c1289008",
-    "b4bda24af3f5",
-    "a2c974f2ab73",
-    "af69ac084ec6",
-    "2dc282f1df7a",
-    "2d1ff4fb2acc",
-    "f33a490284d9",
-    "f57fd11d1f5b",
-    "b85bd3d3a0d8",
-    "dc7b54e8c00a",
-    "b9bfb014cb61",
-    "550aa79730b3",
-    "d5370f4ea3de",
-    "eb8ae8da944a",
-    "7e9b86a23e3d",
-    "0d0d39349f2d",
-    "d20dd0f99f28"
-   ],
-   "first_seen": "2026-08-29",
-   "last_seen": "2026-10-30",
-   "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-     "sources": 2,
-     "score": 58,
-     "event_id": "117b4062144e",
-     "links": [
-      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
-      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-     "sources": 1,
-     "score": 46,
-     "event_id": "687e9adaf6fb",
-     "links": [
-      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
-      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-     "sources": 5,
-     "score": 81,
-     "event_id": "887fb7f3bbc2",
-     "links": [
-      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
-      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
-      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-     "sources": 1,
-     "score": 46,
-     "event_id": "730942a6039b",
-     "links": [
-      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
-     "sources": 2,
-     "score": 55,
-     "event_id": "648eebb8b0ed",
-     "links": [
-      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-     "sources": 1,
-     "score": 45,
-     "event_id": "b795c1289008",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b4bda24af3f5",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
-      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "NASA Adds New Science Investigations for Moon Base",
-     "sources": 1,
-     "score": 41,
-     "event_id": "a2c974f2ab73",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
-      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
-     "sources": 1,
-     "score": 44,
-     "event_id": "af69ac084ec6",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Artemis II Crew Moon Photo Annotations",
-     "sources": 3,
-     "score": 53,
-     "event_id": "2dc282f1df7a",
-     "links": [
-      "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
-      "https://www.nature.com/articles/d41586-026-03197-7",
-      "https://phys.org/news/2026-10-artemis-ii-crew-moon-photo.html"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
-     "sources": 1,
-     "score": 42,
-     "event_id": "2d1ff4fb2acc",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
-      "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-     "sources": 1,
-     "score": 43,
-     "event_id": "f33a490284d9",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
-      "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
-     "sources": 1,
-     "score": 46,
-     "event_id": "f57fd11d1f5b",
-     "links": [
-      "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
-      "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b85bd3d3a0d8",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
-      "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-     "sources": 1,
-     "score": 44,
-     "event_id": "dc7b54e8c00a",
-     "links": [
-      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-     "sources": 2,
-     "score": 52,
-     "event_id": "b9bfb014cb61",
-     "links": [
-      "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-      "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-     "sources": 1,
-     "score": 45,
-     "event_id": "550aa79730b3",
-     "links": [
-      "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
-      "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Scientists Don't Know How Mars Acquired Its Two Moons. Japan Just Launched a Historic Space Mission That Will Fetch Samples to Find Out",
-     "sources": 2,
-     "score": 52,
-     "event_id": "d5370f4ea3de",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/scientists-dont-know-how-mars-acquired-its-two-moons-japan-just-launched-a-historic-space-mission-that-will-fetch-samples-to-find-out-180989713/",
-      "https://phys.org/news/2026-10-japan-world-mission-moon-mars.html"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-     "sources": 1,
-     "score": 45,
-     "event_id": "eb8ae8da944a",
-     "links": [
-      "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-      "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-     "sources": 1,
-     "score": 50,
-     "event_id": "7e9b86a23e3d",
-     "links": [
-      "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-      "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
-     ]
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "The United Kingdom Is Launching Giant Claws Into Orbit to Clean Up Space Junk. You Can Help Name the First-of-Its-Kind Mission",
-     "sources": 1,
-     "score": 41,
-     "event_id": "0d0d39349f2d",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/the-united-kingdom-is-launching-giant-claws-into-orbit-to-clean-up-space-junk-you-can-help-name-the-first-of-its-kind-mission-180989755/"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-     "sources": 1,
-     "score": 45,
-     "event_id": "d20dd0f99f28",
-     "links": [
-      "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-      "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
      ]
     }
    ]
@@ -19787,5 +19799,5 @@
    ]
   }
  ],
- "updated": "2026-11-03T15:19:14+00:00"
+ "updated": "2026-11-03T18:20:50+00:00"
 }

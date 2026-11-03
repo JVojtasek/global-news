@@ -147,7 +147,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-17  (4 zdrojů, síla 67)  Russia wants blackout in Ukraine as winter comes — Zelenskyy
   2026-10-17  (2 zdrojů, síla 40)  Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
   2026-10-17  (2 zdrojů, síla 44)  Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
   2026-10-19  (4 zdrojů, síla 66)  Trump says suspension of Russia sanctions is to keep peace negotiations going
@@ -167,6 +166,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-11-01  (2 zdrojů, síla 43)  Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
   2026-11-03  (3 zdrojů, síla 50)  Russian strikes kill 26 in Ukraine after longest ceasefire ends
   2026-11-03  (2 zdrojů, síla 45)  Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
+  2026-11-03  (2 zdrojů, síla 48)  Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
 ```
 
 ---
