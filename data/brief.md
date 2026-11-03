@@ -9,7 +9,30 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates
+### 1. North Korea denies being behind record $6.3bn Binance hack
+- id události: `fde93fa8c413`  ·  rubrika: `business`  ·  skóre: 69  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — North Korea denies being behind record $6.3bn Binance hack
+    <https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss>
+    > US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.
+  - **BBC Business** — North Korea denies being behind record $6.3bn Binance hack
+    <https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss>
+    > US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.
+  - **BBC Technology** — North Korea denies being behind record $6.3bn Binance hack
+    <https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss>
+    > US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.
+  - **BBC Business** — Why North Korea's 'elite' hackers are the prime suspect in major Binance hack
+    <https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss>
+    > If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.
+  - **BBC Technology** — Why North Korea's 'elite' hackers are the prime suspect in major Binance hack
+    <https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss>
+    > If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.
+  - **CNBC Top** — North Korea denies links to Binance hack as researchers trace stolen billions
+    <https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html>
+    > North Korea rejected U.S. allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.
+
+### 2. Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates
 - id události: `f5b6d367ab3d`  ·  rubrika: `world`  ·  skóre: 63  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -26,7 +49,7 @@
     <https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss>
     > US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race.
 
-### 2. Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack
+### 3. Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack
 - id události: `49fc6e1403de`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -42,7 +65,7 @@
   - **Investing.com** — FBI links record $6.3 billion Binance crypto theft to North Korea
     <https://www.investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353>
 
-### 3. Crypto firm Binance covers 90% of losses after $6.3bn hack
+### 4. Crypto firm Binance covers 90% of losses after $6.3bn hack
 - id události: `641fcec3e146`  ·  rubrika: `business`  ·  skóre: 60  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -57,23 +80,6 @@
   - **Investing.com** — Binance says it has replaced 90% of $6.3 billion stolen in record crypto hack
     <https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304>
 
-### 4. Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack
-- id události: `2bbdae702ea1`  ·  rubrika: `world`  ·  skóre: 60  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack
-    <https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss>
-    > Stores in Sweden say temperatures for its freezers were raised to 50 C (122F).
-  - **BBC Business** — Supermarket freezers in Belgium, Sweden and Luxembourg hit by suspected cyber-attack
-    <https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss>
-    > Stores in Sweden say temperatures for its freezers were raised to 50 C (122F).
-  - **The Guardian World** — Supermarket freezers across Europe hit by second suspected cyber-attack
-    <https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack>
-    > Chains in Sweden, Belgium and Luxembourg say fridge temperatures rose overnight, similar to hack of French stores Supermarket chains in Sweden, Belgium and Luxembourg have said the temperatures of their refrigerators and freezers in dozens of stores rose overnight, prompting fear
-  - **Guardian Business** — Supermarket freezers across Europe hit by second suspected cyber-attack
-    <https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack>
-    > Chains in Sweden, Belgium and Luxembourg say fridge temperatures rose overnight, similar to hack of French stores Supermarket chains in Sweden, Belgium and Luxembourg have said the temperatures of their refrigerators and freezers in dozens of stores rose overnight, prompting fear
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -82,8 +88,8 @@
 - rubrika: `health`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Sleep — <https://en.wikipedia.org/wiki/Sleep>
-  - Sleep Token — <https://en.wikipedia.org/wiki/Sleep_Token>
   - Sleep, Dearie, Sleep — <https://en.wikipedia.org/wiki/Sleep,_Dearie,_Sleep>
+  - Sleep Token — <https://en.wikipedia.org/wiki/Sleep_Token>
 
 ---
 
@@ -132,33 +138,33 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-11-03  (1 zdrojů, síla 44)  Scientists Feared This Cute but Venomous Primate Had Gone Extinct Nearly 100 Years Ago. It Was Hiding in Plain Sight All Along
 ```
 
-### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 60
-  2026-09-29  (3 zdrojů, síla 53)  Estonia blames Russia for arson at defence company supplying Ukraine
-  2026-09-29  (2 zdrojů, síla 40)  Estonia blames Russia for arson attack on defense company
-  2026-09-30  (2 zdrojů, síla 44)  Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’
-  2026-09-30  (2 zdrojů, síla 42)  ‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham
-  2026-09-30  (2 zdrojů, síla 41)  Questions remain over Iran’s link to alleged RAF Fairford bomb plot
-  2026-10-01  (2 zdrojů, síla 48)  Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
-  2026-10-03  (3 zdrojů, síla 56)  Russia strikes second major bridge in Kyiv, mayor says
-  2026-10-04  (2 zdrojů, síla 46)  Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
-  2026-10-04  (2 zdrojů, síla 45)  Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
-  2026-10-04  (2 zdrojů, síla 44)  Ukraine ready for US-backed talks with Russia: Zelenskyy
-  2026-10-13  (2 zdrojů, síla 43)  ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
-  2026-10-14  (2 zdrojů, síla 40)  Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns
-  2026-10-19  (2 zdrojů, síla 40)  Strait of Hormuz scoured for spilt cargo after Iran attacks container ships
-  2026-10-21  (2 zdrojů, síla 42)  Russia arrests German man, calls him a Ukraine 'mercenary'
-  2026-10-21  (3 zdrojů, síla 54)  Russia says it is ready to resume talks with Ukraine and US to end war
-  2026-10-22  (2 zdrojů, síla 43)  Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
-  2026-10-31  (2 zdrojů, síla 40)  Iran says four tankers on fire after striking mines in Hormuz
-  2026-11-02  (3 zdrojů, síla 50)  Ukraine, Russia report hacking attacks on emergency alert apps
-  2026-11-02  (2 zdrojů, síla 40)  Ukraine and Russia both hit by cyberattacks on emergency apps
-  2026-11-02  (2 zdrojů, síla 44)  What we know about the alert app hack in Ukraine and Russia
+VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+rubrika: world · sledováno od 2026-08-09 · záznamů: 60
+  2026-10-17  (3 zdrojů, síla 52)  Trump waives several Russia sanctions as new US law takes effect
+  2026-10-17  (4 zdrojů, síla 67)  Russia wants blackout in Ukraine as winter comes — Zelenskyy
+  2026-10-17  (2 zdrojů, síla 40)  Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
+  2026-10-17  (2 zdrojů, síla 44)  Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
+  2026-10-19  (4 zdrojů, síla 66)  Trump says suspension of Russia sanctions is to keep peace negotiations going
+  2026-10-19  (2 zdrojů, síla 45)  Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
+  2026-10-20  (2 zdrojů, síla 42)  US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
+  2026-10-21  (4 zdrojů, síla 66)  US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
+  2026-10-21  (2 zdrojů, síla 50)  Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
+  2026-10-21  (1 zdrojů, síla 45)  ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
+  2026-10-21  (4 zdrojů, síla 70)  Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
+  2026-10-22  (2 zdrojů, síla 44)  Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live
+  2026-10-26  (3 zdrojů, síla 63)  Donald Trump has been a disaster for rural America | Steven Greenhouse
+  2026-10-26  (2 zdrojů, síla 52)  Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours
+  2026-10-26  (2 zdrojů, síla 44)  What Germany thinks of carmaker Audi's $4 billion deal with Trump
+  2026-10-26  (2 zdrojů, síla 41)  Trump announces Audi will build $4 billion factory in US
+  2026-10-29  (2 zdrojů, síla 43)  Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
+  2026-10-29  (2 zdrojů, síla 44)  Russian drone attack on Ukrainian train station kills at least 14, officials say
+  2026-11-01  (2 zdrojů, síla 43)  Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
+  2026-11-03  (3 zdrojů, síla 50)  Russian strikes kill 26 in Ukraine after longest ceasefire ends
 ```
 
 ---
