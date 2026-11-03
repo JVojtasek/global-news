@@ -65,20 +65,22 @@
   - **Investing.com** — FBI links record $6.3 billion Binance crypto theft to North Korea
     <https://www.investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353>
 
-### 4. Crypto firm Binance covers 90% of losses after $6.3bn hack
-- id události: `641fcec3e146`  ·  rubrika: `business`  ·  skóre: 60  ·  nezávislých zdrojů: 3
+### 4. Asian Cup postponed in wake of attacks on Saudi Arabia
+- id události: `bfad2b5951c1`  ·  rubrika: `sport`  ·  skóre: 62  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — Crypto firm Binance covers 90% of losses after $6.3bn hack
-    <https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss>
-    > Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.
-  - **CNBC Top** — Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday
-    <https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html>
-    > Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.
-  - **Investing.com** — Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack
-    <https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115>
-  - **Investing.com** — Binance says it has replaced 90% of $6.3 billion stolen in record crypto hack
-    <https://www.investing.com/news/cryptocurrency-news/binance-says-it-has-replaced-90-of-63-billion-stolen-in-record-crypto-hack-4989304>
+  - **BBC World** — Asian Cup postponed in wake of attacks on Saudi Arabia
+    <https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss>
+    > The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.
+  - **BBC Sport** — Asian Cup postponed in wake of attacks on Saudi Arabia
+    <https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss>
+    > The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.
+  - **Guardian Sport** — AFC postpones Asian Cup in Saudi Arabia to late 2027 due to conflict in Middle East
+    <https://www.theguardian.com/football/2026/nov/03/2027-asian-cup-saudi-arabia-postponed-conflict-middle-east>
+    > Tournament pushed back 11 months with proposed start on 23 December New dates with 21 January 2028 final must be approved by Fifa The 2027 Asian Cup in Saudi Arabia has been postponed as a result of the conflict in the Middle East. After a month of speculation following the airpo
+  - **Al Jazeera** — AFC reschedules Asian Cup 2027 in Saudi Arabia amid regional conflict
+    <https://www.aljazeera.com/sports/2026/11/3/afc-reschedules-asian-cup-2027-in-saudi-arabia-amid-regional-conflict?traffic_source=rss>
+    > Start date for AFC Cup 2027 moved from January to December due to ongoing Houthi attacks on host nation Saudi Arabia.
 
 ---
 
@@ -88,8 +90,8 @@
 - rubrika: `health`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Sleep — <https://en.wikipedia.org/wiki/Sleep>
-  - Sleep Token — <https://en.wikipedia.org/wiki/Sleep_Token>
   - Sleep, Dearie, Sleep — <https://en.wikipedia.org/wiki/Sleep,_Dearie,_Sleep>
+  - Sleep Token — <https://en.wikipedia.org/wiki/Sleep_Token>
 
 ---
 

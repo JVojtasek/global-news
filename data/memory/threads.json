@@ -2515,588 +2515,50 @@
    ]
   },
   {
-   "id": "f2d111d4fd57",
-   "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
-   "section": "science",
-   "entities": [
-    "elite",
-    "korea",
-    "north",
-    "drone",
-    "seoul",
-    "crypto",
-    "binance",
-    "korean",
-    "korea's",
-    "south"
-   ],
-   "event_ids": [
-    "f2d111d4fd57",
-    "20472af8545b",
-    "ff20ca98c7ed",
-    "d00a10e57fef",
-    "a0eb33a029f0",
-    "8b5f45fb18a6",
-    "869c210d8444",
-    "8a1bc8a90ce5",
-    "31077fabb6a0",
-    "b00a6aa99d6f",
-    "1b2161d396ca",
-    "a2f28390745f",
-    "641fcec3e146",
-    "49fc6e1403de",
-    "5a936712c1f0",
-    "d09cd0a6db44",
-    "fde93fa8c413"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-11-03",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
-     "sources": 2,
-     "score": 56,
-     "event_id": "f2d111d4fd57",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-      "https://www.smithsonianmag.com/smart-news/a-spacex-rocket-part-just-slammed-into-the-moon-creating-a-dust-plume-and-crater-heres-what-some-scientific-instruments-saw-180989299/"
-     ]
-    },
-    {
-     "date": "2026-08-15",
-     "headline": "South Korea proposes talks to officially end war with North",
-     "sources": 2,
-     "score": 46,
-     "event_id": "20472af8545b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-03",
-     "headline": "North Korea fires ballistic missile into sea, Seoul says",
-     "sources": 2,
-     "score": 46,
-     "event_id": "ff20ca98c7ed",
-     "links": [
-      "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
-      "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-03",
-     "headline": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d00a10e57fef",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
-      "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a0eb33a029f0",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
-      "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "South Korea proposes military talks with North again",
-     "sources": 2,
-     "score": 45,
-     "event_id": "8b5f45fb18a6",
-     "links": [
-      "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf",
-      "https://www.scmp.com/tech/tech-trends/article/3371888/chinas-humanoid-robots-hunt-work-south-korea-seoul-bets-physical-ai"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "North Korea fires missiles as row over landmine blast intensifies",
-     "sources": 2,
-     "score": 41,
-     "event_id": "869c210d8444",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
-      "https://www.france24.com/en/asia-pacific/20261029-north-korea-launches-around-a-dozen-ballistic-missiles-amid-rising-tensions-with-south-korea"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Seoul fears being sidelined as US reaches out to North Korea",
-     "sources": 3,
-     "score": 59,
-     "event_id": "8a1bc8a90ce5",
-     "links": [
-      "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-      "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-     "sources": 5,
-     "score": 79,
-     "event_id": "31077fabb6a0",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "‘Elite North Korean hackers’ blamed for $6.3bn Binance heist – business live",
-     "sources": 2,
-     "score": 47,
-     "event_id": "b00a6aa99d6f",
-     "links": [
-      "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
-      "https://www.dw.com/en/cryptocurrency-exchange-binance-suspends-trading-amid-a-suspected-cyberattack-now-linked-to-north-korea/a-79803280?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
-     "sources": 2,
-     "score": 42,
-     "event_id": "1b2161d396ca",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a2f28390745f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "sources": 3,
-     "score": 60,
-     "event_id": "641fcec3e146",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-      "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-     "sources": 4,
-     "score": 62,
-     "event_id": "49fc6e1403de",
-     "links": [
-      "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-      "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Binance resumes crypto withdrawals after major hack blamed on North Korea",
-     "sources": 2,
-     "score": 46,
-     "event_id": "5a936712c1f0",
-     "links": [
-      "https://www.france24.com/en/business/20261101-binance-says-resuming-withdrawals-after-major-hack",
-      "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "South Korea to pour billions into AI",
-     "sources": 2,
-     "score": 41,
-     "event_id": "d09cd0a6db44",
-     "links": [
-      "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "North Korea denies being behind record $6.3bn Binance hack",
-     "sources": 4,
-     "score": 69,
-     "event_id": "fde93fa8c413",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2c2b2700dd7b",
-   "title": "Microsoft Patches a Record 570 Security Flaws",
-   "section": "safety",
-   "entities": [
-    "oracle",
-    "cisa",
-    "plant",
-    "arista",
-    "trojans",
-    "south",
-    "rented",
-    "target",
-    "hackers",
-    "flaw",
-    "keys",
-    "record",
-    "encryption",
-    "weaponized",
-    "allowing",
-    "exploited",
-    "siemens",
-    "exploit",
-    "internet-exposed",
-    "actively",
-    "palo",
-    "days",
-    "software",
-    "code",
-    "microsoft",
-    "command",
-    "drupal",
-    "highly",
-    "remote",
-    "critical",
-    "commerce",
-    "authorization",
-    "collabora",
-    "attackers",
-    "bypass",
-    "execution",
-    "backdoors",
-    "lazarus",
-    "patches",
-    "cisco"
-   ],
-   "event_ids": [
-    "2c2b2700dd7b",
-    "42a9e60af11b",
-    "838b4b1ce253",
-    "29d08fa787d9",
-    "aabd8e14b270",
-    "cf5c346fcefd",
-    "7325900e53d9",
-    "6d2a0802c49f",
-    "f4eff089be53",
-    "3e6bc640da57"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-11-03",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "Microsoft Patches a Record 570 Security Flaws",
-     "sources": 2,
-     "score": 56,
-     "event_id": "2c2b2700dd7b",
-     "links": [
-      "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-      "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-     "sources": 1,
-     "score": 46,
-     "event_id": "42a9e60af11b",
-     "links": [
-      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-      "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-     "sources": 1,
-     "score": 44,
-     "event_id": "838b4b1ce253",
-     "links": [
-      "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-     "sources": 1,
-     "score": 44,
-     "event_id": "29d08fa787d9",
-     "links": [
-      "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-     "sources": 1,
-     "score": 44,
-     "event_id": "aabd8e14b270",
-     "links": [
-      "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-      "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-     "sources": 2,
-     "score": 50,
-     "event_id": "cf5c346fcefd",
-     "links": [
-      "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-     "sources": 1,
-     "score": 46,
-     "event_id": "7325900e53d9",
-     "links": [
-      "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-     "sources": 1,
-     "score": 44,
-     "event_id": "6d2a0802c49f",
-     "links": [
-      "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-     "sources": 1,
-     "score": 44,
-     "event_id": "f4eff089be53",
-     "links": [
-      "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-     "sources": 1,
-     "score": 44,
-     "event_id": "3e6bc640da57",
-     "links": [
-      "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-      "https://thehackernews.com/2026/11/attackers-target-unpatched.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "572525ad51af",
-   "title": "Newcastle showed 'full commitment' in Spurs win - Jaissle",
-   "section": "sport",
-   "entities": [
-    "bournemouth",
-    "jaissle",
-    "zerbi",
-    "jeers",
-    "newcastle",
-    "spurs"
-   ],
-   "event_ids": [
-    "572525ad51af",
-    "85dfe8cdac28",
-    "d288b968cef6",
-    "80f1d84d5cee"
-   ],
-   "first_seen": "2026-08-29",
-   "last_seen": "2026-11-03",
-   "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "Newcastle showed 'full commitment' in Spurs win - Jaissle",
-     "sources": 2,
-     "score": 56,
-     "event_id": "572525ad51af",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c3d7x1n93j2o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/29/premier-league-managers-young-old-football-coaches"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "Spurs 'didn't deserve' loss to Newcastle - De Zerbi",
-     "sources": 2,
-     "score": 46,
-     "event_id": "85dfe8cdac28",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c0e3wpp1dj7o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/29/biggest-problem-for-spurs-is-finding-right-mentality-says-roberto-de-zerbi"
-     ]
-    },
-    {
-     "date": "2026-09-05",
-     "headline": "Jaissle fumes at 'slapstick' goals as Newcastle rescue Bournemouth draw",
-     "sources": 2,
-     "score": 53,
-     "event_id": "d288b968cef6",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cvgy1nvm5jko?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cr4vzr9n2nyo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/05/newcastle-bournemouth-premier-league-match-report"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
-     "sources": 2,
-     "score": 52,
-     "event_id": "80f1d84d5cee",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/live/2026/nov/02/newcastle-united-v-everton-premier-league-live",
-      "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "77c755dad93a",
-   "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-   "section": "world",
-   "entities": [
-    "iran's",
-    "iranian",
-    "iran",
-    "tehran",
-    "vance",
-    "qeshm",
-    "island",
-    "larak"
-   ],
-   "event_ids": [
-    "77c755dad93a",
-    "edf475066b1f",
-    "4a3e418993f9"
-   ],
-   "first_seen": "2026-08-30",
-   "last_seen": "2026-11-03",
-   "timeline": [
-    {
-     "date": "2026-08-30",
-     "headline": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-     "sources": 4,
-     "score": 65,
-     "event_id": "77c755dad93a",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island-reports/live-78566992?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260830-us-forces-strike-iranian-launchers-on-larak-island-in-strait-of-hormuz"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Iran war: US military strikes Iran's Larak Island",
-     "sources": 5,
-     "score": 77,
-     "event_id": "edf475066b1f",
-     "links": [
-      "https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island/live-78566992?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
-      "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
-     "sources": 3,
-     "score": 58,
-     "event_id": "4a3e418993f9",
-     "links": [
-      "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
-      "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks",
-      "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "1bf4b58ce158",
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "hormuz",
-    "samara",
+    "peace",
+    "footprints",
+    "discovered",
+    "nations",
+    "maps",
+    "greenland",
+    "united",
+    "berlin",
+    "made",
+    "friedrich",
+    "size",
+    "kyiv",
+    "pezeshkian",
+    "block",
+    "zelensky",
     "dinosaur",
+    "kremlin",
+    "global",
+    "iran",
+    "europe",
+    "merz",
+    "wildberries",
+    "ukraine",
     "upgrade",
     "mercedes",
-    "nations",
-    "pezeshkian",
-    "footprints",
-    "iran",
-    "united",
-    "merz",
-    "overnight",
-    "general",
-    "kremlin",
-    "discovered",
-    "strong",
-    "greenland",
-    "block",
-    "maps",
-    "german",
-    "excluding",
-    "europe",
-    "made",
-    "zelenskyy",
-    "size",
-    "africa's",
-    "global",
-    "russia",
     "bear",
-    "us-backed",
-    "dakota",
-    "wildberries",
-    "moldova",
-    "friedrich",
     "amnesty",
-    "kyiv",
-    "strait",
-    "zelensky",
-    "ukraine",
-    "peace"
+    "us-backed",
+    "moldova",
+    "excluding",
+    "russia",
+    "zelenskyy",
+    "general",
+    "samara",
+    "strong",
+    "german",
+    "overnight",
+    "dakota",
+    "hormuz",
+    "africa's"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -3188,22 +2650,12 @@
     "8afbb59b1482",
     "d97469f66674",
     "a75146890d90",
-    "b98972249986"
+    "b98972249986",
+    "861c5ba5b8f7"
    ],
    "first_seen": "2026-08-11",
-   "last_seen": "2026-11-02",
+   "last_seen": "2026-11-03",
    "timeline": [
-    {
-     "date": "2026-09-02",
-     "headline": "EU considers response to Leipzig drone attack after Germany formally blames Moscow – Europe live",
-     "sources": 2,
-     "score": 45,
-     "event_id": "90a76b863ea4",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
-      "https://www.npr.org/2026/09/02/g-s1-141502/germany-russia-attempted-drone-attack"
-     ]
-    },
     {
      "date": "2026-09-02",
      "headline": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
@@ -3859,6 +3311,1240 @@
      "links": [
       "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/ukraine-and-russia-report-fake-emergency-alerts-after-cyberattacks-target-apps"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Zelenskyy to make unexpected visit to Berlin for talks with Merz – Europe live",
+     "sources": 2,
+     "score": 44,
+     "event_id": "861c5ba5b8f7",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+      "https://www.dw.com/en/ukrainian-president-zelenskyy-to-make-surprise-berlin-visit-this-tuesday-merz-says/a-79836026?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d16d38017cfe",
+   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+   "section": "world",
+   "entities": [
+    "trump",
+    "asian",
+    "saudi-backed",
+    "east",
+    "arabia's",
+    "turkey",
+    "arabia",
+    "yemen",
+    "yemeni",
+    "yemen's",
+    "taiz",
+    "some",
+    "somalia",
+    "davos",
+    "middle",
+    "king",
+    "desert",
+    "saudi",
+    "houthi",
+    "attack",
+    "salman",
+    "mecca",
+    "aden",
+    "israel-bound",
+    "maritime",
+    "york",
+    "ssisi",
+    "western",
+    "houthis",
+    "deadly",
+    "riyadh",
+    "president",
+    "three",
+    "iran-backed",
+    "pakistan",
+    "bangladesh",
+    "second",
+    "aramco",
+    "egypt's"
+   ],
+   "event_ids": [
+    "d16d38017cfe",
+    "b203d9b44ace",
+    "86a5852bfef5",
+    "d4796b695f31",
+    "5308710e525c",
+    "180951c60255",
+    "9e9d8d1bd79d",
+    "44a648a1bb6f",
+    "d5228024545e",
+    "7f3db7dc3a67",
+    "8e64cbab11b6",
+    "3fd55062614f",
+    "b958bdde2297",
+    "b44b08189279",
+    "8ac4f979d690",
+    "f17ae9a73257",
+    "96e0059faecd",
+    "5808d99edbb7",
+    "a35bb8180e8c",
+    "3581328646f8",
+    "dcc48233c883",
+    "09ea0a7a9571",
+    "4d155da59089",
+    "d4fd36f35bd9",
+    "5611b93eb435",
+    "8a7ec0826a1f",
+    "da1b9627385a",
+    "df06a837dc2b",
+    "a9fd93822637",
+    "3da26f09f6ff",
+    "df452091ea46",
+    "9e6334d33a16",
+    "168af5f2abe2",
+    "9ec96211d71f",
+    "76de81fb62e3",
+    "a07b489c718f",
+    "c4c3730905e3",
+    "e221d5b35916",
+    "713f2e047f06",
+    "a2f4bcccbdec",
+    "2f0e5dac1fd6",
+    "20b965f0a69e",
+    "9db7d2d08a6e",
+    "286892780cea",
+    "f45303cfc40f",
+    "543863fdee3d",
+    "e74ce2d51380",
+    "250c5583ffcd",
+    "acf02c7de9a8",
+    "bfabd481a216",
+    "bfad2b5951c1"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-11-03",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+     "sources": 3,
+     "score": 62,
+     "event_id": "d16d38017cfe",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
+      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
+     "sources": 3,
+     "score": 54,
+     "event_id": "b203d9b44ace",
+     "links": [
+      "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
+      "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
+     "sources": 3,
+     "score": 62,
+     "event_id": "86a5852bfef5",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
+      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d4796b695f31",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+     "sources": 3,
+     "score": 59,
+     "event_id": "5308710e525c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
+     "sources": 3,
+     "score": 56,
+     "event_id": "180951c60255",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
+      "http://www.france24.com/en/video/20260916-more-than-100-000-flee-fighting-in-yemen-un",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9e9d8d1bd79d",
+     "links": [
+      "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
+     "sources": 2,
+     "score": 42,
+     "event_id": "44a648a1bb6f",
+     "links": [
+      "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks",
+      "https://www.investing.com/news/company-news/swvl-launches-247-shuttle-service-in-madinah-saudi-arabia-93CH-4910666"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+     "sources": 3,
+     "score": 56,
+     "event_id": "d5228024545e",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+      "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+      "https://electrek.co/2026/09/21/ceer-unveils-exobot-evs-saudi-arabias-first-electric-vehicles/"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Israel-bound passenger plane makes emergency landing in Saudi Arabia",
+     "sources": 2,
+     "score": 53,
+     "event_id": "7f3db7dc3a67",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+      "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
+     "sources": 2,
+     "score": 43,
+     "event_id": "8e64cbab11b6",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/houthis-claim-strike-on-saudi-aramco-facility-as-yemen-fighting-intensifies-4930902"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
+     "sources": 3,
+     "score": 52,
+     "event_id": "3fd55062614f",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
+      "https://www.aljazeera.com/video/inside-story/2026/10/5/can-yemen-retake-territory-seized-by-houthis?traffic_source=rss",
+      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say",
+     "sources": 2,
+     "score": 41,
+     "event_id": "b958bdde2297",
+     "links": [
+      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say",
+      "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
+     "sources": 2,
+     "score": 50,
+     "event_id": "b44b08189279",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+     "sources": 1,
+     "score": 42,
+     "event_id": "8ac4f979d690",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+     "sources": 2,
+     "score": 50,
+     "event_id": "f17ae9a73257",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+     "sources": 3,
+     "score": 56,
+     "event_id": "96e0059faecd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
+      "https://www.france24.com/en/video/20261009-houthi-strikes-on-riyadh-airport-killed-three-saudis-as-war-escalates"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Yemen's Houthis claim strikes on Aden, Riyadh airports",
+     "sources": 2,
+     "score": 46,
+     "event_id": "5808d99edbb7",
+     "links": [
+      "https://www.dw.com/en/yemen-s-houthis-claim-strikes-on-aden-riyadh-airports/a-79571321?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Saudi Arabia suspends operations at Riyadh airport after an attack causes multiple injuries",
+     "sources": 3,
+     "score": 53,
+     "event_id": "a35bb8180e8c",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3581328646f8",
+     "links": [
+      "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+     "sources": 2,
+     "score": 42,
+     "event_id": "dcc48233c883",
+     "links": [
+      "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+      "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Saudi Arabia: 12 killed, hundreds injured in Riyadh airport attack",
+     "sources": 2,
+     "score": 42,
+     "event_id": "09ea0a7a9571",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
+     "sources": 2,
+     "score": 41,
+     "event_id": "4d155da59089",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Yemen's Houthis warn passengers not to use Saudi airports",
+     "sources": 3,
+     "score": 60,
+     "event_id": "d4fd36f35bd9",
+     "links": [
+      "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Saudi Arabia: Second strike kills at least 1 at Riyadh airport",
+     "sources": 2,
+     "score": 43,
+     "event_id": "5611b93eb435",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Saudi Arabia: Riyadh airport struck again by Yemen's Houthis",
+     "sources": 2,
+     "score": 52,
+     "event_id": "8a7ec0826a1f",
+     "links": [
+      "https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis",
+      "https://www.france24.com/en/middle-east/20261012-live-saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-after-deadly-houthi-attacks",
+      "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict",
+     "sources": 3,
+     "score": 64,
+     "event_id": "da1b9627385a",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/saudi-arabia-extends-riyadh-aiport-suspension-vows-deadly-response-to-houthis-strikes",
+      "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "How exposed is Saudi Arabia? Yemen's Houthis scale up drone and missile attacks",
+     "sources": 2,
+     "score": 48,
+     "event_id": "df06a837dc2b",
+     "links": [
+      "https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks",
+      "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
+      "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Houthis threaten Saudi Arabia’s Aramco facilities and airports",
+     "sources": 2,
+     "score": 50,
+     "event_id": "a9fd93822637",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say",
+      "https://www.france24.com/en/middle-east/20261013-french-embassy-in-riyadh-tells-citizens-to-avoid-saudi-airports-targeted-by-houthis"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Saudi Arabia strikes oil depots in Yemen as conflict with Houthis escalates",
+     "sources": 2,
+     "score": 44,
+     "event_id": "3da26f09f6ff",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+      "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+     "sources": 2,
+     "score": 52,
+     "event_id": "df452091ea46",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+      "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Houthis say targeted Saudi oil giant Aramco, vow more attacks",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9e6334d33a16",
+     "links": [
+      "https://www.france24.com/en/video/20261014-houthis-say-targeted-saudi-oil-giant-aramco-vow-more-attacks",
+      "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
+     "sources": 2,
+     "score": 44,
+     "event_id": "168af5f2abe2",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261015-houthis-deny-targeting-holy-city-medina-after-saudi-arabia-says-intercepted-missile"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Middle East updates: Houthis target Yemen government palace in Aden",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9ec96211d71f",
+     "links": [
+      "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+     "sources": 2,
+     "score": 45,
+     "event_id": "76de81fb62e3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
+     "sources": 2,
+     "score": 45,
+     "event_id": "a07b489c718f",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
+      "https://www.theguardian.com/sport/2026/oct/17/houthi-conflict-casts-shadow-as-saudi-arabia-scales-back-sporting-pipe-dreams"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
+     "sources": 2,
+     "score": 44,
+     "event_id": "c4c3730905e3",
+     "links": [
+      "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Houthi strike on Yemen government military camp kills at least 50",
+     "sources": 2,
+     "score": 48,
+     "event_id": "e221d5b35916",
+     "links": [
+      "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+     "sources": 2,
+     "score": 50,
+     "event_id": "713f2e047f06",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a2f4bcccbdec",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2f0e5dac1fd6",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+     "sources": 3,
+     "score": 50,
+     "event_id": "20b965f0a69e",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+      "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
+      "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
+     "sources": 3,
+     "score": 58,
+     "event_id": "9db7d2d08a6e",
+     "links": [
+      "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
+      "https://www.france24.com/en/egypt-mulls-joining-saudi-arabia-in-war-against-houthis",
+      "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+     "sources": 3,
+     "score": 62,
+     "event_id": "286892780cea",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+      "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+     "sources": 2,
+     "score": 49,
+     "event_id": "f45303cfc40f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Maritime and port workers: how is the Middle East conflict affecting you?",
+     "sources": 2,
+     "score": 45,
+     "event_id": "543863fdee3d",
+     "links": [
+      "https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
+      "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+     "sources": 2,
+     "score": 44,
+     "event_id": "e74ce2d51380",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+     "sources": 2,
+     "score": 43,
+     "event_id": "250c5583ffcd",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
+     "sources": 2,
+     "score": 44,
+     "event_id": "acf02c7de9a8",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+     "sources": 2,
+     "score": 43,
+     "event_id": "bfabd481a216",
+     "links": [
+      "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
+      "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+     "sources": 4,
+     "score": 62,
+     "event_id": "bfad2b5951c1",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/nov/03/2027-asian-cup-saudi-arabia-postponed-conflict-middle-east"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f2d111d4fd57",
+   "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+   "section": "science",
+   "entities": [
+    "elite",
+    "korea",
+    "north",
+    "drone",
+    "seoul",
+    "crypto",
+    "binance",
+    "korean",
+    "korea's",
+    "south"
+   ],
+   "event_ids": [
+    "f2d111d4fd57",
+    "20472af8545b",
+    "ff20ca98c7ed",
+    "d00a10e57fef",
+    "a0eb33a029f0",
+    "8b5f45fb18a6",
+    "869c210d8444",
+    "8a1bc8a90ce5",
+    "31077fabb6a0",
+    "b00a6aa99d6f",
+    "1b2161d396ca",
+    "a2f28390745f",
+    "641fcec3e146",
+    "49fc6e1403de",
+    "5a936712c1f0",
+    "d09cd0a6db44",
+    "fde93fa8c413"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-11-03",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+     "sources": 2,
+     "score": 56,
+     "event_id": "f2d111d4fd57",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr597m1vm96o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+      "https://www.smithsonianmag.com/smart-news/a-spacex-rocket-part-just-slammed-into-the-moon-creating-a-dust-plume-and-crater-heres-what-some-scientific-instruments-saw-180989299/"
+     ]
+    },
+    {
+     "date": "2026-08-15",
+     "headline": "South Korea proposes talks to officially end war with North",
+     "sources": 2,
+     "score": 46,
+     "event_id": "20472af8545b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "North Korea fires ballistic missile into sea, Seoul says",
+     "sources": 2,
+     "score": 46,
+     "event_id": "ff20ca98c7ed",
+     "links": [
+      "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-rdf",
+      "https://www.dw.com/en/north-and-south-korea-trade-accusations-over-landmines-that-injured-three-soldiers/a-79503854?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d00a10e57fef",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
+      "https://www.france24.com/en/asia-pacific/20261003-north-korea-fires-ballistic-missile-after-seoul-s-apology-demand"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a0eb33a029f0",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
+      "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "South Korea proposes military talks with North again",
+     "sources": 2,
+     "score": 45,
+     "event_id": "8b5f45fb18a6",
+     "links": [
+      "https://www.dw.com/en/south-korea-proposes-military-talks-with-north-again/a-79739208?maca=en-rss-en-all-1573-rdf",
+      "https://www.scmp.com/tech/tech-trends/article/3371888/chinas-humanoid-robots-hunt-work-south-korea-seoul-bets-physical-ai"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "North Korea fires missiles as row over landmine blast intensifies",
+     "sources": 2,
+     "score": 41,
+     "event_id": "869c210d8444",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20261029-north-korea-launches-around-a-dozen-ballistic-missiles-amid-rising-tensions-with-south-korea"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Seoul fears being sidelined as US reaches out to North Korea",
+     "sources": 3,
+     "score": 59,
+     "event_id": "8a1bc8a90ce5",
+     "links": [
+      "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+      "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "sources": 5,
+     "score": 79,
+     "event_id": "31077fabb6a0",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "‘Elite North Korean hackers’ blamed for $6.3bn Binance heist – business live",
+     "sources": 2,
+     "score": 47,
+     "event_id": "b00a6aa99d6f",
+     "links": [
+      "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+      "https://www.dw.com/en/cryptocurrency-exchange-binance-suspends-trading-amid-a-suspected-cyberattack-now-linked-to-north-korea/a-79803280?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
+     "sources": 2,
+     "score": 42,
+     "event_id": "1b2161d396ca",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a2f28390745f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "sources": 3,
+     "score": 60,
+     "event_id": "641fcec3e146",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+      "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+     "sources": 4,
+     "score": 62,
+     "event_id": "49fc6e1403de",
+     "links": [
+      "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+      "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Binance resumes crypto withdrawals after major hack blamed on North Korea",
+     "sources": 2,
+     "score": 46,
+     "event_id": "5a936712c1f0",
+     "links": [
+      "https://www.france24.com/en/business/20261101-binance-says-resuming-withdrawals-after-major-hack",
+      "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "South Korea to pour billions into AI",
+     "sources": 2,
+     "score": 41,
+     "event_id": "d09cd0a6db44",
+     "links": [
+      "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "North Korea denies being behind record $6.3bn Binance hack",
+     "sources": 4,
+     "score": 69,
+     "event_id": "fde93fa8c413",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2c2b2700dd7b",
+   "title": "Microsoft Patches a Record 570 Security Flaws",
+   "section": "safety",
+   "entities": [
+    "oracle",
+    "cisa",
+    "plant",
+    "arista",
+    "trojans",
+    "south",
+    "rented",
+    "target",
+    "hackers",
+    "flaw",
+    "keys",
+    "record",
+    "encryption",
+    "weaponized",
+    "allowing",
+    "exploited",
+    "siemens",
+    "exploit",
+    "internet-exposed",
+    "actively",
+    "palo",
+    "days",
+    "software",
+    "code",
+    "microsoft",
+    "command",
+    "drupal",
+    "highly",
+    "remote",
+    "critical",
+    "commerce",
+    "authorization",
+    "collabora",
+    "attackers",
+    "bypass",
+    "execution",
+    "backdoors",
+    "lazarus",
+    "patches",
+    "cisco"
+   ],
+   "event_ids": [
+    "2c2b2700dd7b",
+    "42a9e60af11b",
+    "838b4b1ce253",
+    "29d08fa787d9",
+    "aabd8e14b270",
+    "cf5c346fcefd",
+    "7325900e53d9",
+    "6d2a0802c49f",
+    "f4eff089be53",
+    "3e6bc640da57"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-11-03",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "Microsoft Patches a Record 570 Security Flaws",
+     "sources": 2,
+     "score": 56,
+     "event_id": "2c2b2700dd7b",
+     "links": [
+      "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+     "sources": 1,
+     "score": 46,
+     "event_id": "42a9e60af11b",
+     "links": [
+      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+     "sources": 1,
+     "score": 44,
+     "event_id": "838b4b1ce253",
+     "links": [
+      "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+     "sources": 1,
+     "score": 44,
+     "event_id": "29d08fa787d9",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+      "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+     "sources": 1,
+     "score": 44,
+     "event_id": "aabd8e14b270",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+     "sources": 2,
+     "score": 50,
+     "event_id": "cf5c346fcefd",
+     "links": [
+      "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+     "sources": 1,
+     "score": 46,
+     "event_id": "7325900e53d9",
+     "links": [
+      "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+     "sources": 1,
+     "score": 44,
+     "event_id": "6d2a0802c49f",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+     "sources": 1,
+     "score": 44,
+     "event_id": "f4eff089be53",
+     "links": [
+      "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+     "sources": 1,
+     "score": 44,
+     "event_id": "3e6bc640da57",
+     "links": [
+      "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "https://thehackernews.com/2026/11/attackers-target-unpatched.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "572525ad51af",
+   "title": "Newcastle showed 'full commitment' in Spurs win - Jaissle",
+   "section": "sport",
+   "entities": [
+    "bournemouth",
+    "jaissle",
+    "zerbi",
+    "jeers",
+    "newcastle",
+    "spurs"
+   ],
+   "event_ids": [
+    "572525ad51af",
+    "85dfe8cdac28",
+    "d288b968cef6",
+    "80f1d84d5cee"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-11-03",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "Newcastle showed 'full commitment' in Spurs win - Jaissle",
+     "sources": 2,
+     "score": 56,
+     "event_id": "572525ad51af",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c3d7x1n93j2o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/c1kxe87ye7ro?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/29/premier-league-managers-young-old-football-coaches"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "Spurs 'didn't deserve' loss to Newcastle - De Zerbi",
+     "sources": 2,
+     "score": 46,
+     "event_id": "85dfe8cdac28",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c0e3wpp1dj7o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/29/biggest-problem-for-spurs-is-finding-right-mentality-says-roberto-de-zerbi"
+     ]
+    },
+    {
+     "date": "2026-09-05",
+     "headline": "Jaissle fumes at 'slapstick' goals as Newcastle rescue Bournemouth draw",
+     "sources": 2,
+     "score": 53,
+     "event_id": "d288b968cef6",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cvgy1nvm5jko?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cr4vzr9n2nyo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/05/newcastle-bournemouth-premier-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Jeers again as home woes continue - Jaissle has big problems at Newcastle",
+     "sources": 2,
+     "score": 52,
+     "event_id": "80f1d84d5cee",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cmly05n114gjo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/live/2026/nov/02/newcastle-united-v-everton-premier-league-live",
+      "https://www.theguardian.com/football/2026/nov/02/newcastle-everton-premier-league-match-report"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "77c755dad93a",
+   "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+   "section": "world",
+   "entities": [
+    "iran's",
+    "iranian",
+    "iran",
+    "tehran",
+    "vance",
+    "qeshm",
+    "island",
+    "larak"
+   ],
+   "event_ids": [
+    "77c755dad93a",
+    "edf475066b1f",
+    "4a3e418993f9"
+   ],
+   "first_seen": "2026-08-30",
+   "last_seen": "2026-11-03",
+   "timeline": [
+    {
+     "date": "2026-08-30",
+     "headline": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+     "sources": 4,
+     "score": 65,
+     "event_id": "77c755dad93a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island-reports/live-78566992?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260830-us-forces-strike-iranian-launchers-on-larak-island-in-strait-of-hormuz"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Iran war: US military strikes Iran's Larak Island",
+     "sources": 5,
+     "score": 77,
+     "event_id": "edf475066b1f",
+     "links": [
+      "https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island/live-78566992?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
+      "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+     "sources": 3,
+     "score": 58,
+     "event_id": "4a3e418993f9",
+     "links": [
+      "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+      "https://www.france24.com/en/middle-east/20261103-us-strikes-iran-qeshm-island-as-trump-signals-progress-in-talks",
+      "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss"
      ]
     }
    ]
@@ -11233,678 +11919,6 @@
       "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/brazil-what-does-lula-s-re-election-mean-for-the-amazon",
       "https://www.france24.com/en/leaders-across-americas-react-to-brazil-president-lula-s-re-election"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "d16d38017cfe",
-   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-   "section": "world",
-   "entities": [
-    "east",
-    "york",
-    "three",
-    "aramco",
-    "saudi",
-    "trump",
-    "president",
-    "pakistan",
-    "bangladesh",
-    "taiz",
-    "egypt's",
-    "houthis",
-    "desert",
-    "asian",
-    "second",
-    "riyadh",
-    "attack",
-    "western",
-    "some",
-    "saudi-backed",
-    "yemeni",
-    "king",
-    "ssisi",
-    "arabia's",
-    "turkey",
-    "iran-backed",
-    "aden",
-    "yemen",
-    "deadly",
-    "israel-bound",
-    "mecca",
-    "salman",
-    "arabia",
-    "somalia",
-    "yemen's",
-    "maritime",
-    "davos",
-    "houthi",
-    "middle"
-   ],
-   "event_ids": [
-    "d16d38017cfe",
-    "b203d9b44ace",
-    "86a5852bfef5",
-    "d4796b695f31",
-    "5308710e525c",
-    "180951c60255",
-    "9e9d8d1bd79d",
-    "44a648a1bb6f",
-    "d5228024545e",
-    "7f3db7dc3a67",
-    "8e64cbab11b6",
-    "3fd55062614f",
-    "b958bdde2297",
-    "b44b08189279",
-    "8ac4f979d690",
-    "f17ae9a73257",
-    "96e0059faecd",
-    "5808d99edbb7",
-    "a35bb8180e8c",
-    "3581328646f8",
-    "dcc48233c883",
-    "09ea0a7a9571",
-    "4d155da59089",
-    "d4fd36f35bd9",
-    "5611b93eb435",
-    "8a7ec0826a1f",
-    "da1b9627385a",
-    "df06a837dc2b",
-    "a9fd93822637",
-    "3da26f09f6ff",
-    "df452091ea46",
-    "9e6334d33a16",
-    "168af5f2abe2",
-    "9ec96211d71f",
-    "76de81fb62e3",
-    "a07b489c718f",
-    "c4c3730905e3",
-    "e221d5b35916",
-    "713f2e047f06",
-    "a2f4bcccbdec",
-    "2f0e5dac1fd6",
-    "20b965f0a69e",
-    "9db7d2d08a6e",
-    "286892780cea",
-    "f45303cfc40f",
-    "543863fdee3d",
-    "e74ce2d51380",
-    "250c5583ffcd",
-    "acf02c7de9a8",
-    "bfabd481a216"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-10-25",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-     "sources": 3,
-     "score": 62,
-     "event_id": "d16d38017cfe",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
-     "sources": 3,
-     "score": 54,
-     "event_id": "b203d9b44ace",
-     "links": [
-      "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
-      "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
-     "sources": 3,
-     "score": 62,
-     "event_id": "86a5852bfef5",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
-      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d4796b695f31",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-     "sources": 3,
-     "score": 59,
-     "event_id": "5308710e525c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
-     "sources": 3,
-     "score": 56,
-     "event_id": "180951c60255",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
-      "http://www.france24.com/en/video/20260916-more-than-100-000-flee-fighting-in-yemen-un",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9e9d8d1bd79d",
-     "links": [
-      "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
-     "sources": 2,
-     "score": 42,
-     "event_id": "44a648a1bb6f",
-     "links": [
-      "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks",
-      "https://www.investing.com/news/company-news/swvl-launches-247-shuttle-service-in-madinah-saudi-arabia-93CH-4910666"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
-     "sources": 3,
-     "score": 56,
-     "event_id": "d5228024545e",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
-      "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
-      "https://electrek.co/2026/09/21/ceer-unveils-exobot-evs-saudi-arabias-first-electric-vehicles/"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Israel-bound passenger plane makes emergency landing in Saudi Arabia",
-     "sources": 2,
-     "score": 53,
-     "event_id": "7f3db7dc3a67",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
-      "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
-     "sources": 2,
-     "score": 43,
-     "event_id": "8e64cbab11b6",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/houthis-claim-strike-on-saudi-aramco-facility-as-yemen-fighting-intensifies-4930902"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
-     "sources": 3,
-     "score": 52,
-     "event_id": "3fd55062614f",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
-      "https://www.aljazeera.com/video/inside-story/2026/10/5/can-yemen-retake-territory-seized-by-houthis?traffic_source=rss",
-      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say",
-     "sources": 2,
-     "score": 41,
-     "event_id": "b958bdde2297",
-     "links": [
-      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say",
-      "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
-     "sources": 2,
-     "score": 50,
-     "event_id": "b44b08189279",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-     "sources": 1,
-     "score": 42,
-     "event_id": "8ac4f979d690",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-     "sources": 2,
-     "score": 50,
-     "event_id": "f17ae9a73257",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-     "sources": 3,
-     "score": 56,
-     "event_id": "96e0059faecd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
-      "https://www.france24.com/en/video/20261009-houthi-strikes-on-riyadh-airport-killed-three-saudis-as-war-escalates"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Yemen's Houthis claim strikes on Aden, Riyadh airports",
-     "sources": 2,
-     "score": 46,
-     "event_id": "5808d99edbb7",
-     "links": [
-      "https://www.dw.com/en/yemen-s-houthis-claim-strikes-on-aden-riyadh-airports/a-79571321?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Saudi Arabia suspends operations at Riyadh airport after an attack causes multiple injuries",
-     "sources": 3,
-     "score": 53,
-     "event_id": "a35bb8180e8c",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3581328646f8",
-     "links": [
-      "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-      "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
-     "sources": 2,
-     "score": 42,
-     "event_id": "dcc48233c883",
-     "links": [
-      "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
-      "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Saudi Arabia: 12 killed, hundreds injured in Riyadh airport attack",
-     "sources": 2,
-     "score": 42,
-     "event_id": "09ea0a7a9571",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
-     "sources": 2,
-     "score": 41,
-     "event_id": "4d155da59089",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Yemen's Houthis warn passengers not to use Saudi airports",
-     "sources": 3,
-     "score": 60,
-     "event_id": "d4fd36f35bd9",
-     "links": [
-      "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
-      "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Saudi Arabia: Second strike kills at least 1 at Riyadh airport",
-     "sources": 2,
-     "score": 43,
-     "event_id": "5611b93eb435",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Saudi Arabia: Riyadh airport struck again by Yemen's Houthis",
-     "sources": 2,
-     "score": 52,
-     "event_id": "8a7ec0826a1f",
-     "links": [
-      "https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis",
-      "https://www.france24.com/en/middle-east/20261012-live-saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-after-deadly-houthi-attacks",
-      "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict",
-     "sources": 3,
-     "score": 64,
-     "event_id": "da1b9627385a",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/saudi-arabia-extends-riyadh-aiport-suspension-vows-deadly-response-to-houthis-strikes",
-      "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "How exposed is Saudi Arabia? Yemen's Houthis scale up drone and missile attacks",
-     "sources": 2,
-     "score": 48,
-     "event_id": "df06a837dc2b",
-     "links": [
-      "https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks",
-      "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
-      "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Houthis threaten Saudi Arabia’s Aramco facilities and airports",
-     "sources": 2,
-     "score": 50,
-     "event_id": "a9fd93822637",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say",
-      "https://www.france24.com/en/middle-east/20261013-french-embassy-in-riyadh-tells-citizens-to-avoid-saudi-airports-targeted-by-houthis"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Saudi Arabia strikes oil depots in Yemen as conflict with Houthis escalates",
-     "sources": 2,
-     "score": 44,
-     "event_id": "3da26f09f6ff",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
-      "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
-     "sources": 2,
-     "score": 52,
-     "event_id": "df452091ea46",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-      "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Houthis say targeted Saudi oil giant Aramco, vow more attacks",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9e6334d33a16",
-     "links": [
-      "https://www.france24.com/en/video/20261014-houthis-say-targeted-saudi-oil-giant-aramco-vow-more-attacks",
-      "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
-     "sources": 2,
-     "score": 44,
-     "event_id": "168af5f2abe2",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20261015-houthis-deny-targeting-holy-city-medina-after-saudi-arabia-says-intercepted-missile"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Middle East updates: Houthis target Yemen government palace in Aden",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9ec96211d71f",
-     "links": [
-      "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-     "sources": 2,
-     "score": 45,
-     "event_id": "76de81fb62e3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
-     "sources": 2,
-     "score": 45,
-     "event_id": "a07b489c718f",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
-      "https://www.theguardian.com/sport/2026/oct/17/houthi-conflict-casts-shadow-as-saudi-arabia-scales-back-sporting-pipe-dreams"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
-     "sources": 2,
-     "score": 44,
-     "event_id": "c4c3730905e3",
-     "links": [
-      "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Houthi strike on Yemen government military camp kills at least 50",
-     "sources": 2,
-     "score": 48,
-     "event_id": "e221d5b35916",
-     "links": [
-      "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-     "sources": 2,
-     "score": 50,
-     "event_id": "713f2e047f06",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a2f4bcccbdec",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2f0e5dac1fd6",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-     "sources": 3,
-     "score": 50,
-     "event_id": "20b965f0a69e",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-      "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
-      "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
-     "sources": 3,
-     "score": 58,
-     "event_id": "9db7d2d08a6e",
-     "links": [
-      "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
-      "https://www.france24.com/en/egypt-mulls-joining-saudi-arabia-in-war-against-houthis",
-      "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
-     "sources": 3,
-     "score": 62,
-     "event_id": "286892780cea",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
-      "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-     "sources": 2,
-     "score": 49,
-     "event_id": "f45303cfc40f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Maritime and port workers: how is the Middle East conflict affecting you?",
-     "sources": 2,
-     "score": 45,
-     "event_id": "543863fdee3d",
-     "links": [
-      "https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
-      "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
-     "sources": 2,
-     "score": 44,
-     "event_id": "e74ce2d51380",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-     "sources": 2,
-     "score": 43,
-     "event_id": "250c5583ffcd",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
-     "sources": 2,
-     "score": 44,
-     "event_id": "acf02c7de9a8",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
-      "https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-     "sources": 2,
-     "score": 43,
-     "event_id": "bfabd481a216",
-     "links": [
-      "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-      "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175"
      ]
     }
    ]
@@ -19720,5 +19734,5 @@
    ]
   }
  ],
- "updated": "2026-11-03T06:27:13+00:00"
+ "updated": "2026-11-03T09:20:31+00:00"
 }
