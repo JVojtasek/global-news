@@ -1,10 +1,24 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-11-02
+# ANALYTICKÉ ZADÁNÍ — 2026-11-03
 
-Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **44**.
+Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **43**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### More troops to be sent to West Bank village besieged by Israeli settlers
+- rubrika `world` · sledováno 82 dní · 60 záznamů
+- časová osa:
+  - **2026-10-28** (2 zdrojů) 'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'
+  - **2026-10-28** (2 zdrojů) Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition
+  - **2026-10-29** (1 zdrojů) Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago
+  - **2026-10-30** (2 zdrojů) Netanyahu attacks Israel’s Arab parties as he falls short of majority
+  - **2026-10-30** (2 zdrojů) Palestinian voter turnout exposes Israel’s attitude towards Arab citizens
+  - **2026-10-30** (1 zdrojů) Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries
+  - **2026-10-30** (2 zdrojů) Some Monkeys Seem to Become Germophobic After Living Through a Disease Outbreak, Just Like Humans
+  - **2026-10-30** (1 zdrojů) For Over Four Years, the Hirshhorn Worked to Revitalize Its Sculpture Garden. Today, It's Home to a 'King and Queen,' a 'Wish Tree' and a 55,000-Pound Vertical Swimming Pool Artwork
+  - **2026-10-30** (1 zdrojů) Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
+  - **2026-11-03** (1 zdrojů) Scientists Feared This Cute but Venomous Primate Had Gone Extinct Nearly 100 Years Ago. It Was Hiding in Plain Sight All Along
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 83 dní · 60 záznamů
@@ -62,20 +76,6 @@ Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-10-29** (2 zdrojů) Russian drone attack on Ukrainian train station kills at least 14, officials say
   - **2026-11-01** (2 zdrojů) Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
 
-### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 78 dní · 60 záznamů
-- časová osa:
-  - **2026-10-28** (2 zdrojů) Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory
-  - **2026-10-28** (2 zdrojů) 'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'
-  - **2026-10-28** (2 zdrojů) Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition
-  - **2026-10-29** (1 zdrojů) Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago
-  - **2026-10-30** (2 zdrojů) Netanyahu attacks Israel’s Arab parties as he falls short of majority
-  - **2026-10-30** (2 zdrojů) Palestinian voter turnout exposes Israel’s attitude towards Arab citizens
-  - **2026-10-30** (1 zdrojů) Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries
-  - **2026-10-30** (2 zdrojů) Some Monkeys Seem to Become Germophobic After Living Through a Disease Outbreak, Just Like Humans
-  - **2026-10-30** (1 zdrojů) For Over Four Years, the Hirshhorn Worked to Revitalize Its Sculpture Garden. Today, It's Home to a 'King and Queen,' a 'Wish Tree' and a 55,000-Pound Vertical Swimming Pool Artwork
-  - **2026-10-30** (1 zdrojů) Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
-
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 80 dní · 59 záznamů
 - časová osa:
@@ -96,9 +96,9 @@ Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **44**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'** — naposledy 2026-09-18, celkem 3 záznamů
 - **Shelton beats Alcaraz in latest-ever US Open finish to reach semis** — naposledy 2026-09-14, celkem 4 záznamů
 - **Hong Kong's Tiananmen activists guilty in national security trial** — naposledy 2026-09-11, celkem 6 záznamů
 - **Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention** — naposledy 2026-09-10, celkem 4 záznamů
 - **Odegaard and Saka star - player ratings for Arsenal v Chelsea** — naposledy 2026-09-10, celkem 3 záznamů
 - **Favourite Kane makes Ballon d'Or shortlist** — naposledy 2026-09-09, celkem 3 záznamů
-- **The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'** — naposledy 2026-09-08, celkem 4 záznamů
