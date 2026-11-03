@@ -90,8 +90,8 @@
 - rubrika: `health`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Sleep — <https://en.wikipedia.org/wiki/Sleep>
-  - Sleep, Dearie, Sleep — <https://en.wikipedia.org/wiki/Sleep,_Dearie,_Sleep>
   - Sleep Token — <https://en.wikipedia.org/wiki/Sleep_Token>
+  - Sleep, Dearie, Sleep — <https://en.wikipedia.org/wiki/Sleep,_Dearie,_Sleep>
 
 ---
 
@@ -147,7 +147,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-17  (3 zdrojů, síla 52)  Trump waives several Russia sanctions as new US law takes effect
   2026-10-17  (4 zdrojů, síla 67)  Russia wants blackout in Ukraine as winter comes — Zelenskyy
   2026-10-17  (2 zdrojů, síla 40)  Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
   2026-10-17  (2 zdrojů, síla 44)  Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
@@ -167,6 +166,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-10-29  (2 zdrojů, síla 44)  Russian drone attack on Ukrainian train station kills at least 14, officials say
   2026-11-01  (2 zdrojů, síla 43)  Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
   2026-11-03  (3 zdrojů, síla 50)  Russian strikes kill 26 in Ukraine after longest ceasefire ends
+  2026-11-03  (2 zdrojů, síla 45)  Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
 ```
 
 ---

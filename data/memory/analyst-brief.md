@@ -23,7 +23,6 @@ Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **44**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 86 dní · 60 záznamů
 - časová osa:
-  - **2026-10-21** (4 zdrojů) Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
   - **2026-10-22** (2 zdrojů) Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live
   - **2026-10-26** (3 zdrojů) Donald Trump has been a disaster for rural America | Steven Greenhouse
   - **2026-10-26** (2 zdrojů) Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours
@@ -33,6 +32,7 @@ Paměť obsahuje **175 vláken**. Aktivních za posledních 14 dní: **44**.
   - **2026-10-29** (2 zdrojů) Russian drone attack on Ukrainian train station kills at least 14, officials say
   - **2026-11-01** (2 zdrojů) Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
   - **2026-11-03** (3 zdrojů) Russian strikes kill 26 in Ukraine after longest ceasefire ends
+  - **2026-11-03** (2 zdrojů) Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 83 dní · 60 záznamů
