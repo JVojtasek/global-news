@@ -1697,284 +1697,50 @@
    ]
   },
   {
-   "id": "cc5e6502b0d5",
-   "title": "Are claims of a white genocide in South Africa real?",
-   "section": "world",
-   "entities": [
-    "superb",
-    "hyron",
-    "australia",
-    "test",
-    "african",
-    "rwanda",
-    "andrews",
-    "cars",
-    "rusty",
-    "parsons",
-    "crowd",
-    "france",
-    "durban",
-    "irish",
-    "champions",
-    "anti-migrant",
-    "games",
-    "olympics",
-    "africa",
-    "south",
-    "olympic",
-    "trump",
-    "africa's"
-   ],
-   "event_ids": [
-    "cc5e6502b0d5",
-    "fa9c2e8e5738",
-    "549b64aa5243",
-    "7b455e92537b",
-    "928a902aa653",
-    "e76bd5378246",
-    "153b71c672c5",
-    "72404f6aa49e",
-    "435629369d73",
-    "27e82397cdf1",
-    "459e2e33c045",
-    "8af10dc0e103",
-    "acf84507bf24",
-    "5350c616a9cd",
-    "961347ee66d5",
-    "f3989377ad57"
-   ],
-   "first_seen": "2026-09-27",
-   "last_seen": "2026-11-04",
-   "timeline": [
-    {
-     "date": "2026-09-27",
-     "headline": "Are claims of a white genocide in South Africa real?",
-     "sources": 3,
-     "score": 56,
-     "event_id": "cc5e6502b0d5",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Two mass shootings in South Africa leave 27 dead",
-     "sources": 4,
-     "score": 67,
-     "event_id": "fa9c2e8e5738",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-      "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-     "sources": 2,
-     "score": 49,
-     "event_id": "549b64aa5243",
-     "links": [
-      "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
-      "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
-      "https://www.france24.com/en/femicides-on-the-rise-in-south-africa"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Superb South Africa seal series win over Australia",
-     "sources": 2,
-     "score": 42,
-     "event_id": "7b455e92537b",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "South Africa hope to host first African Olympics",
-     "sources": 2,
-     "score": 44,
-     "event_id": "928a902aa653",
-     "links": [
-      "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/oct/06/south-africa-bid-to-stage-africas-first-olympics-2036"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "South Africa: Anti-migrant protests turn violent",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e76bd5378246",
-     "links": [
-      "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-     "sources": 2,
-     "score": 46,
-     "event_id": "153b71c672c5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/live/2026/oct/09/south-africa-v-australia-first-test-day-one-durban-kingsmead-cricket-ground-live-updates"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "South Africa: Anti-migrant unrest flares in Durban",
-     "sources": 2,
-     "score": 43,
-     "event_id": "72404f6aa49e",
-     "links": [
-      "https://www.france24.com/en/video/20261010-south-africa-anti-migrant-unrest-flares-in-durban",
-      "https://www.theguardian.com/sport/2026/oct/10/south-africa-australia-first-test-second-day-match-report"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Rusty or something more? South Africa's concern after Australia loss",
-     "sources": 5,
-     "score": 78,
-     "event_id": "435629369d73",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss",
-      "https://www.smithsonianmag.com/smart-news/did-industrialization-gut-our-microbiomes-a-new-study-on-rural-foraging-communities-in-south-america-and-africa-hints-the-answer-is-yes-180989658/",
-      "https://www.france24.com/en/south-africa-suspends-asylum-applications-amid-renewed-anti-immigrant-protests"
-     ]
-    },
-    {
-     "date": "2026-10-16",
-     "headline": "South African rugby player Hyron ​Andrews dies in France ahead of Champions Cup debut",
-     "sources": 2,
-     "score": 47,
-     "event_id": "27e82397cdf1",
-     "links": [
-      "https://www.france24.com/en/sport/20261016-south-african-rugby-player-found-dead-in-french-hotel-ahead-of-champions-cup-debut",
-      "https://www.theguardian.com/sport/2026/oct/16/player-found-dead-lions-champions-cup-la-rochelle"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "South Africa bat first in second Test against Australia - scorecard",
-     "sources": 2,
-     "score": 42,
-     "event_id": "459e2e33c045",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/live/2026/oct/18/south-africa-v-australia-second-test-day-one-cricket-st-georges-park-gqeberha-live-updates"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Crowd of 50 beats foreigner to death in South Africa",
-     "sources": 2,
-     "score": 53,
-     "event_id": "8af10dc0e103",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Olympic Games: South Africa bids to make Durban host city for 2036 or 2040",
-     "sources": 3,
-     "score": 57,
-     "event_id": "acf84507bf24",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/10/29/olympic-games-south-africa-bid-to-make-durban-host-city-for-2036-or-2040?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/oct/29/durban-selected-south-africa-candidate-olympic-bids-2036-2040",
-      "https://www.france24.com/en/video/20261029-kenya-s-female-athletes-make-their-mark-as-youth-olympic-games-approach"
-     ]
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Parsons hat-trick as Irish seal South Africa series win",
-     "sources": 2,
-     "score": 45,
-     "event_id": "5350c616a9cd",
-     "links": [
-      "https://www.bbc.co.uk/sport/rugby-union/articles/cwe8lp875engo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Trump to remove Rwanda and South Africa from US trade deal",
-     "sources": 2,
-     "score": 43,
-     "event_id": "961347ee66d5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "ANC under pressure to reverse South Africa decline",
-     "sources": 2,
-     "score": 45,
-     "event_id": "f3989377ad57",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/south-africa-braces-for-some-job-losses-as-agoa-ends"
-     ]
-    }
-   ]
-  },
-  {
    "id": "639e1a78a571",
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
+    "russia",
+    "modi",
+    "death",
+    "russian",
+    "gulf",
+    "roth",
+    "dnipro",
+    "kherson",
+    "kuwait",
+    "trump",
+    "kyiv",
+    "audi's",
+    "steven",
+    "president",
+    "korea",
+    "american",
+    "ukrainian",
+    "asia",
     "union",
+    "ukraine",
+    "saudi",
     "britain",
     "riyadh",
-    "korea",
-    "saudi",
-    "briton",
-    "ukraine",
-    "russian",
-    "merz",
-    "steven",
-    "germany",
-    "andrew",
-    "russia",
-    "audi's",
-    "beijing",
-    "kherson",
-    "gulf",
-    "kyiv",
-    "audi",
-    "trump",
-    "ukrainian",
-    "removals",
+    "vladimir",
     "bringing",
+    "saudis",
+    "merz",
+    "andrew",
+    "chancellor",
+    "germany",
+    "block",
+    "removals",
     "states",
     "seoul's",
-    "kuwait",
-    "death",
-    "united",
-    "asia",
-    "block",
-    "chancellor",
-    "dnipro",
-    "president",
-    "american",
-    "vladimir",
-    "poland",
     "iran's",
-    "roth",
-    "saudis",
-    "modi"
+    "canada",
+    "audi",
+    "beijing",
+    "united",
+    "poland"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -2146,22 +1912,12 @@
     "6ebb60de6dea",
     "586cced2deb2",
     "2a1eb018a2c3",
-    "2f70d6c369eb"
+    "2f70d6c369eb",
+    "dbc98b1df41b"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-11-03",
+   "last_seen": "2026-11-04",
    "timeline": [
-    {
-     "date": "2026-10-08",
-     "headline": "South Korea warns of AI-aided hacking after bank data breaches",
-     "sources": 2,
-     "score": 44,
-     "event_id": "ae9848354b52",
-     "links": [
-      "https://www.dw.com/en/south-korea-warns-of-ai-aided-hacking-after-bank-data-breaches/a-79592922?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/8/south-korea-recalls-envoy-to-kyiv-over-diplomatic-row-with-ukraine?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-10-09",
      "headline": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
@@ -2833,6 +2589,597 @@
      "links": [
       "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
       "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+     "sources": 2,
+     "score": 44,
+     "event_id": "dbc98b1df41b",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
+      "https://www.france24.com/en/video/20261103-vile-terrorist-attack-russia-bombs-ukraine-aid-centre"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7da4e07716c7",
+   "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+   "section": "world",
+   "entities": [
+    "texas",
+    "gulf",
+    "hegseth",
+    "rove",
+    "halloween",
+    "secretary",
+    "massie",
+    "georgia",
+    "trump",
+    "karl",
+    "el-sayed",
+    "ossoff",
+    "democrat",
+    "republican",
+    "cornyn",
+    "michigan",
+    "paxton",
+    "november",
+    "rogers",
+    "tankers",
+    "china",
+    "collins",
+    "mike",
+    "iran",
+    "stevens",
+    "pentagon",
+    "wife",
+    "defense",
+    "hormuz",
+    "senate",
+    "haley"
+   ],
+   "event_ids": [
+    "7da4e07716c7",
+    "7d0d4d3f6bdb",
+    "9ba97aff3e7d",
+    "685eb5ef4b77",
+    "dc98be3509f8",
+    "83c9ff637cd4",
+    "1a58c450df85",
+    "0bd2b78f98d3",
+    "5b2e57f10a93",
+    "6bdae1bbcb1a",
+    "262b590f746f",
+    "282dcc034a3b",
+    "4c37332d2bbb",
+    "06237d9feb09",
+    "4c1e1d02df87",
+    "f5b6d367ab3d",
+    "6ee149854410",
+    "660903c7e4d9",
+    "7cf106926362",
+    "cc6d5c271c5b",
+    "94f3a475eae4",
+    "b0936e6dce0d"
+   ],
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-11-04",
+   "timeline": [
+    {
+     "date": "2026-09-11",
+     "headline": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+     "sources": 3,
+     "score": 55,
+     "event_id": "7da4e07716c7",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
+      "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Iran war won't end until after crucial November elections, says Trump",
+     "sources": 2,
+     "score": 45,
+     "event_id": "7d0d4d3f6bdb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Trump dismisses report China supplied intel to Iran",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9ba97aff3e7d",
+     "links": [
+      "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
+     "sources": 2,
+     "score": 40,
+     "event_id": "685eb5ef4b77",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
+     "sources": 2,
+     "score": 47,
+     "event_id": "dc98be3509f8",
+     "links": [
+      "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+      "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
+      "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+     "sources": 2,
+     "score": 42,
+     "event_id": "83c9ff637cd4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1a58c450df85",
+     "links": [
+      "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
+      "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+     "sources": 2,
+     "score": 48,
+     "event_id": "0bd2b78f98d3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "US says China trade truce extended as Trump welcomes Xi",
+     "sources": 2,
+     "score": 40,
+     "event_id": "5b2e57f10a93",
+     "links": [
+      "https://www.france24.com/en/video/20260924-us-says-china-trade-truce-extended-as-trump-welcomes-xi",
+      "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
+     "sources": 2,
+     "score": 42,
+     "event_id": "6bdae1bbcb1a",
+     "links": [
+      "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
+      "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+     "sources": 2,
+     "score": 45,
+     "event_id": "262b590f746f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "US official claims Trump holds all the cards in Iran talks",
+     "sources": 3,
+     "score": 52,
+     "event_id": "282dcc034a3b",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz",
+      "https://www.investing.com/news/economy-news/iran-awaits-us-response-to-hormuz-peace-plan-as-trump-reportedly-rejects-deal-4918476"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
+     "sources": 4,
+     "score": 70,
+     "event_id": "4c37332d2bbb",
+     "links": [
+      "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
+      "https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html",
+      "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
+     "sources": 1,
+     "score": 40,
+     "event_id": "06237d9feb09",
+     "links": [
+      "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
+      "https://www.cnbc.com/2026/10/15/james-talarico-texas-senate-fundraising-ken-paxton.html"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4c1e1d02df87",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+     "sources": 3,
+     "score": 63,
+     "event_id": "f5b6d367ab3d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+      "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+     "sources": 2,
+     "score": 42,
+     "event_id": "6ee149854410",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "How a Democrat in Michigan rocked the party days before the US midterms",
+     "sources": 2,
+     "score": 50,
+     "event_id": "660903c7e4d9",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
+      "https://www.france24.com/en/michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "What might Trump have planned for Iran following the midterm election?",
+     "sources": 2,
+     "score": 44,
+     "event_id": "7cf106926362",
+     "links": [
+      "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
+     "sources": 2,
+     "score": 53,
+     "event_id": "cc6d5c271c5b",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
+      "https://www.france24.com/en/video/20261103-us-midterms-michigan-senate-candidate-el-sayed-becomes-democrats-rising-star",
+      "https://www.france24.com/en/video/20261103-us-midterms-michigan-candidate-el-sayed-pledges-to-tackle-the-affordability-crisis"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+     "sources": 2,
+     "score": 48,
+     "event_id": "94f3a475eae4",
+     "links": [
+      "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+      "https://www.france24.com/en/video/20261102-sour-grapes-dems-shocked-as-haley-stevens-breaks-ranks"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins",
+     "sources": 3,
+     "score": 59,
+     "event_id": "b0936e6dce0d",
+     "links": [
+      "https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins",
+      "https://www.france24.com/en/video/20261104-midterms-abdul-el-sayed-mike-rogers-face-off-for-michigan-senate-seat",
+      "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cc5e6502b0d5",
+   "title": "Are claims of a white genocide in South Africa real?",
+   "section": "world",
+   "entities": [
+    "superb",
+    "hyron",
+    "australia",
+    "test",
+    "african",
+    "rwanda",
+    "andrews",
+    "cars",
+    "rusty",
+    "parsons",
+    "crowd",
+    "france",
+    "durban",
+    "irish",
+    "champions",
+    "anti-migrant",
+    "games",
+    "olympics",
+    "africa",
+    "south",
+    "olympic",
+    "trump",
+    "africa's"
+   ],
+   "event_ids": [
+    "cc5e6502b0d5",
+    "fa9c2e8e5738",
+    "549b64aa5243",
+    "7b455e92537b",
+    "928a902aa653",
+    "e76bd5378246",
+    "153b71c672c5",
+    "72404f6aa49e",
+    "435629369d73",
+    "27e82397cdf1",
+    "459e2e33c045",
+    "8af10dc0e103",
+    "acf84507bf24",
+    "5350c616a9cd",
+    "961347ee66d5",
+    "f3989377ad57"
+   ],
+   "first_seen": "2026-09-27",
+   "last_seen": "2026-11-04",
+   "timeline": [
+    {
+     "date": "2026-09-27",
+     "headline": "Are claims of a white genocide in South Africa real?",
+     "sources": 3,
+     "score": 56,
+     "event_id": "cc5e6502b0d5",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Two mass shootings in South Africa leave 27 dead",
+     "sources": 4,
+     "score": 67,
+     "event_id": "fa9c2e8e5738",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+     "sources": 2,
+     "score": 49,
+     "event_id": "549b64aa5243",
+     "links": [
+      "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+      "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
+      "https://www.france24.com/en/femicides-on-the-rise-in-south-africa"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Superb South Africa seal series win over Australia",
+     "sources": 2,
+     "score": 42,
+     "event_id": "7b455e92537b",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "South Africa hope to host first African Olympics",
+     "sources": 2,
+     "score": 44,
+     "event_id": "928a902aa653",
+     "links": [
+      "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/oct/06/south-africa-bid-to-stage-africas-first-olympics-2036"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "South Africa: Anti-migrant protests turn violent",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e76bd5378246",
+     "links": [
+      "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+     "sources": 2,
+     "score": 46,
+     "event_id": "153b71c672c5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/live/2026/oct/09/south-africa-v-australia-first-test-day-one-durban-kingsmead-cricket-ground-live-updates"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "South Africa: Anti-migrant unrest flares in Durban",
+     "sources": 2,
+     "score": 43,
+     "event_id": "72404f6aa49e",
+     "links": [
+      "https://www.france24.com/en/video/20261010-south-africa-anti-migrant-unrest-flares-in-durban",
+      "https://www.theguardian.com/sport/2026/oct/10/south-africa-australia-first-test-second-day-match-report"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Rusty or something more? South Africa's concern after Australia loss",
+     "sources": 5,
+     "score": 78,
+     "event_id": "435629369d73",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss",
+      "https://www.smithsonianmag.com/smart-news/did-industrialization-gut-our-microbiomes-a-new-study-on-rural-foraging-communities-in-south-america-and-africa-hints-the-answer-is-yes-180989658/",
+      "https://www.france24.com/en/south-africa-suspends-asylum-applications-amid-renewed-anti-immigrant-protests"
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "headline": "South African rugby player Hyron ​Andrews dies in France ahead of Champions Cup debut",
+     "sources": 2,
+     "score": 47,
+     "event_id": "27e82397cdf1",
+     "links": [
+      "https://www.france24.com/en/sport/20261016-south-african-rugby-player-found-dead-in-french-hotel-ahead-of-champions-cup-debut",
+      "https://www.theguardian.com/sport/2026/oct/16/player-found-dead-lions-champions-cup-la-rochelle"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "South Africa bat first in second Test against Australia - scorecard",
+     "sources": 2,
+     "score": 42,
+     "event_id": "459e2e33c045",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/live/2026/oct/18/south-africa-v-australia-second-test-day-one-cricket-st-georges-park-gqeberha-live-updates"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Crowd of 50 beats foreigner to death in South Africa",
+     "sources": 2,
+     "score": 53,
+     "event_id": "8af10dc0e103",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Olympic Games: South Africa bids to make Durban host city for 2036 or 2040",
+     "sources": 3,
+     "score": 57,
+     "event_id": "acf84507bf24",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/10/29/olympic-games-south-africa-bid-to-make-durban-host-city-for-2036-or-2040?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/oct/29/durban-selected-south-africa-candidate-olympic-bids-2036-2040",
+      "https://www.france24.com/en/video/20261029-kenya-s-female-athletes-make-their-mark-as-youth-olympic-games-approach"
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Parsons hat-trick as Irish seal South Africa series win",
+     "sources": 2,
+     "score": 45,
+     "event_id": "5350c616a9cd",
+     "links": [
+      "https://www.bbc.co.uk/sport/rugby-union/articles/cwe8lp875engo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Trump to remove Rwanda and South Africa from US trade deal",
+     "sources": 2,
+     "score": 43,
+     "event_id": "961347ee66d5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "ANC under pressure to reverse South Africa decline",
+     "sources": 2,
+     "score": 45,
+     "event_id": "f3989377ad57",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/south-africa-braces-for-some-job-losses-as-agoa-ends"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f4b82808e7a8",
+   "title": "US midterms: Democrat wins North Carolina as first polls close",
+   "section": "world",
+   "entities": [
+    "democrat",
+    "north",
+    "carolina"
+   ],
+   "event_ids": [
+    "f4b82808e7a8"
+   ],
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "timeline": [
+    {
+     "date": "2026-11-04",
+     "headline": "US midterms: Democrat wins North Carolina as first polls close",
+     "sources": 4,
+     "score": 62,
+     "event_id": "f4b82808e7a8",
+     "links": [
+      "https://www.dw.com/en/us-midterms-democrat-wins-north-carolina-as-first-polls-close/live-79829440?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/11/03/g-s1-150958/north-carolina-senate-results",
+      "https://www.france24.com/en/video/20261104-us-midterms-democrats-flip-senate-seat-in-north-carolina"
      ]
     }
    ]
@@ -6578,307 +6925,6 @@
      "event_id": "55107ad46021",
      "links": [
       "https://www.smithsonianmag.com/smart-news/after-observing-the-sky-for-22-years-a-beloved-nasa-space-telescope-is-expected-to-meet-a-fiery-death-this-week-180989796/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7da4e07716c7",
-   "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-   "section": "world",
-   "entities": [
-    "wife",
-    "haley",
-    "senate",
-    "pentagon",
-    "michigan",
-    "secretary",
-    "cornyn",
-    "hormuz",
-    "stevens",
-    "november",
-    "iran",
-    "el-sayed",
-    "rogers",
-    "republican",
-    "massie",
-    "karl",
-    "china",
-    "paxton",
-    "tankers",
-    "defense",
-    "hegseth",
-    "halloween",
-    "gulf",
-    "trump",
-    "democrat",
-    "texas",
-    "rove",
-    "mike"
-   ],
-   "event_ids": [
-    "7da4e07716c7",
-    "7d0d4d3f6bdb",
-    "9ba97aff3e7d",
-    "685eb5ef4b77",
-    "dc98be3509f8",
-    "83c9ff637cd4",
-    "1a58c450df85",
-    "0bd2b78f98d3",
-    "5b2e57f10a93",
-    "6bdae1bbcb1a",
-    "262b590f746f",
-    "282dcc034a3b",
-    "4c37332d2bbb",
-    "06237d9feb09",
-    "4c1e1d02df87",
-    "f5b6d367ab3d",
-    "6ee149854410",
-    "660903c7e4d9",
-    "7cf106926362",
-    "cc6d5c271c5b",
-    "94f3a475eae4"
-   ],
-   "first_seen": "2026-09-11",
-   "last_seen": "2026-11-03",
-   "timeline": [
-    {
-     "date": "2026-09-11",
-     "headline": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-     "sources": 3,
-     "score": 55,
-     "event_id": "7da4e07716c7",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
-      "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Iran war won't end until after crucial November elections, says Trump",
-     "sources": 2,
-     "score": 45,
-     "event_id": "7d0d4d3f6bdb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Trump dismisses report China supplied intel to Iran",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9ba97aff3e7d",
-     "links": [
-      "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
-     "sources": 2,
-     "score": 40,
-     "event_id": "685eb5ef4b77",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
-     "sources": 2,
-     "score": 47,
-     "event_id": "dc98be3509f8",
-     "links": [
-      "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
-      "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
-      "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-     "sources": 2,
-     "score": 42,
-     "event_id": "83c9ff637cd4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1a58c450df85",
-     "links": [
-      "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
-      "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-     "sources": 2,
-     "score": 48,
-     "event_id": "0bd2b78f98d3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "US says China trade truce extended as Trump welcomes Xi",
-     "sources": 2,
-     "score": 40,
-     "event_id": "5b2e57f10a93",
-     "links": [
-      "https://www.france24.com/en/video/20260924-us-says-china-trade-truce-extended-as-trump-welcomes-xi",
-      "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
-     "sources": 2,
-     "score": 42,
-     "event_id": "6bdae1bbcb1a",
-     "links": [
-      "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
-      "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
-     "sources": 2,
-     "score": 45,
-     "event_id": "262b590f746f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "US official claims Trump holds all the cards in Iran talks",
-     "sources": 3,
-     "score": 52,
-     "event_id": "282dcc034a3b",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz",
-      "https://www.investing.com/news/economy-news/iran-awaits-us-response-to-hormuz-peace-plan-as-trump-reportedly-rejects-deal-4918476"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
-     "sources": 4,
-     "score": 70,
-     "event_id": "4c37332d2bbb",
-     "links": [
-      "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
-      "https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html",
-      "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-     "sources": 1,
-     "score": 40,
-     "event_id": "06237d9feb09",
-     "links": [
-      "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
-      "https://www.cnbc.com/2026/10/15/james-talarico-texas-senate-fundraising-ken-paxton.html"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
-     "sources": 2,
-     "score": 42,
-     "event_id": "4c1e1d02df87",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-     "sources": 3,
-     "score": 63,
-     "event_id": "f5b6d367ab3d",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
-      "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
-     "sources": 2,
-     "score": 42,
-     "event_id": "6ee149854410",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "How a Democrat in Michigan rocked the party days before the US midterms",
-     "sources": 2,
-     "score": 50,
-     "event_id": "660903c7e4d9",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
-      "https://www.france24.com/en/michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "What might Trump have planned for Iran following the midterm election?",
-     "sources": 2,
-     "score": 44,
-     "event_id": "7cf106926362",
-     "links": [
-      "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
-     "sources": 2,
-     "score": 53,
-     "event_id": "cc6d5c271c5b",
-     "links": [
-      "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
-      "https://www.france24.com/en/video/20261103-us-midterms-michigan-senate-candidate-el-sayed-becomes-democrats-rising-star",
-      "https://www.france24.com/en/video/20261103-us-midterms-michigan-candidate-el-sayed-pledges-to-tackle-the-affordability-crisis"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
-     "sources": 2,
-     "score": 48,
-     "event_id": "94f3a475eae4",
-     "links": [
-      "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
-      "https://www.france24.com/en/video/20261102-sour-grapes-dems-shocked-as-haley-stevens-breaks-ranks"
      ]
     }
    ]
@@ -19895,5 +19941,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T00:37:12+00:00"
+ "updated": "2026-11-04T03:21:38+00:00"
 }
