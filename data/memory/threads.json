@@ -820,46 +820,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "phil",
-    "villa",
+    "greenwood",
+    "manzambi",
+    "brighton",
     "china",
-    "isak",
-    "forest",
-    "miguel",
-    "barcelona's",
-    "jonathan",
-    "wilcox",
-    "roma",
-    "city",
+    "villa",
     "martinez",
-    "champions",
-    "troy's",
-    "beckett",
-    "aston",
-    "tuchel",
     "european",
-    "jackson",
-    "glasner",
-    "burnham",
-    "uk's",
-    "howe",
-    "premier",
-    "football",
     "photos",
+    "chelsea",
+    "jonathan",
+    "united",
+    "ronaldo",
+    "troy's",
+    "football",
+    "glasner",
+    "miguel",
+    "gakpo",
     "madrid",
     "terland",
-    "gakpo",
-    "ronaldo",
-    "manzambi",
-    "chelsea",
-    "leeds",
-    "greenwood",
-    "united",
-    "tenerife",
+    "aston",
+    "carrick",
+    "burnham",
+    "howe",
+    "roma",
+    "wilcox",
+    "city",
     "real",
-    "brighton",
+    "tenerife",
+    "barcelona's",
+    "phil",
+    "uk's",
+    "jackson",
+    "forest",
+    "champions",
+    "beckett",
+    "premier",
+    "leeds",
     "wilson",
-    "carrick"
+    "tuchel",
+    "isak"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1002,23 +1002,12 @@
     "bcdcf00da7f9",
     "bb3c9fbeb219",
     "1b3bc8f8e7dc",
-    "e36f326cdcdc"
+    "e36f326cdcdc",
+    "3558a4b41382"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-11-04",
    "timeline": [
-    {
-     "date": "2026-10-02",
-     "headline": "Manchester City’s England players are worried about their futures, admits Tuchel",
-     "sources": 2,
-     "score": 52,
-     "event_id": "25091917f855",
-     "links": [
-      "https://www.theguardian.com/football/2026/oct/02/manchester-citys-england-players-are-worried-about-their-futures-admits-tuchel",
-      "https://www.theguardian.com/football/2026/oct/02/manchester-city-football-daily-newsletter",
-      "https://www.france24.com/en/sport/20261002-manchester-city-appeal-judgement-that-club-breached-premier-league-financial-rules"
-     ]
-    },
     {
      "date": "2026-10-03",
      "headline": "Manchester City’s guilty verdict brings football’s great sell-off crashing to earth",
@@ -1692,6 +1681,17 @@
      "event_id": "e36f326cdcdc",
      "links": [
       "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Football world mourns Tenerife striker De Miguel",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3558a4b41382",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision"
      ]
     }
@@ -2606,50 +2606,532 @@
    ]
   },
   {
+   "id": "fc871ed3ce64",
+   "title": "Trump signs order to rename Lake Ontario as Lake America",
+   "section": "world",
+   "entities": [
+    "canada's",
+    "moved",
+    "mapquest",
+    "park",
+    "robert",
+    "whales",
+    "weeks",
+    "defunct",
+    "pyongyang",
+    "trump",
+    "maps",
+    "serbia",
+    "carney",
+    "strasbourg",
+    "rescued",
+    "mark",
+    "beluga",
+    "ukraine",
+    "newsbrief",
+    "congress",
+    "canadian",
+    "beiser",
+    "brazil",
+    "europe",
+    "politics",
+    "weekly",
+    "korea",
+    "south",
+    "iran",
+    "four",
+    "lost",
+    "eu's",
+    "animals",
+    "marine",
+    "bombardier",
+    "were",
+    "belarus",
+    "google",
+    "apple",
+    "america"
+   ],
+   "event_ids": [
+    "fc871ed3ce64",
+    "d303cedaf846",
+    "69769cf42fdf",
+    "4dcd5aa8edee",
+    "f1acf504161f",
+    "eded7a46ce69",
+    "513bc8ca4fe5",
+    "2063b9e83ecd",
+    "7ee9d33d0756",
+    "be52307dda99",
+    "c280f70cbb01",
+    "c7578e46c246",
+    "a10299274da2",
+    "bf18496d99e4",
+    "c8549675122c",
+    "ba25d6c2d4c7",
+    "79ad9912719f",
+    "0a4802f0e85a",
+    "869ca936dee5",
+    "9417b69ea434",
+    "5ffc61341047",
+    "16cb99ad25e3",
+    "327c785d75e1",
+    "52129b02a43c",
+    "0af672bd9219",
+    "02a24cacedb1",
+    "ae54a5a38045",
+    "1afaed8adc57",
+    "17c9907c2585",
+    "b0ca438a86e3",
+    "84a962a40b04",
+    "5609a0ebb482",
+    "b797a5975f9e",
+    "e61fb9bb11a0",
+    "e81a615f3e6a"
+   ],
+   "first_seen": "2026-08-27",
+   "last_seen": "2026-11-04",
+   "timeline": [
+    {
+     "date": "2026-08-27",
+     "headline": "Trump signs order to rename Lake Ontario as Lake America",
+     "sources": 7,
+     "score": 82,
+     "event_id": "fc871ed3ce64",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
+      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Trump directs federal government to rename Lake Ontario to Lake America",
+     "sources": 4,
+     "score": 64,
+     "event_id": "d303cedaf846",
+     "links": [
+      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
+      "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "How did Trump get so rich? | Politics Weekly America",
+     "sources": 4,
+     "score": 62,
+     "event_id": "69769cf42fdf",
+     "links": [
+      "https://www.theguardian.com/politics/video/2026/aug/27/how-did-trump-get-so-rich-politics-weekly-america",
+      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
+      "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Canada installs large Lake Ontario sign in latest jab at US",
+     "sources": 2,
+     "score": 47,
+     "event_id": "4dcd5aa8edee",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
+     "sources": 3,
+     "score": 59,
+     "event_id": "f1acf504161f",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+      "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+      "https://www.investing.com/news/stock-market-news/google-maps-will-show-lake-america-in-us-not-lake-ontario-4882054"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
+     "sources": 3,
+     "score": 60,
+     "event_id": "eded7a46ce69",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
+      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
+      "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
+     "sources": 2,
+     "score": 41,
+     "event_id": "513bc8ca4fe5",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
+      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Apple Maps follows Google in renaming Lake Ontario",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2063b9e83ecd",
+     "links": [
+      "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+      "https://www.france24.com/en/2026-09-01-18-44-yes-google-maps-renamed-lake-ontario-as-lake-america"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Apple Maps changes Lake Ontario to Lake America after Trump order",
+     "sources": 5,
+     "score": 73,
+     "event_id": "7ee9d33d0756",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Trump’s ridiculous bullying of Canada is backfiring | Robert Reich",
+     "sources": 2,
+     "score": 45,
+     "event_id": "be52307dda99",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/02/trump-canada-tariffs-trade-war-backfiring",
+      "https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
+     "sources": 2,
+     "score": 44,
+     "event_id": "c280f70cbb01",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
+      "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/"
+     ]
+    },
+    {
+     "date": "2026-09-07",
+     "headline": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c7578e46c246",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss",
+      "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+     "sources": 2,
+     "score": 40,
+     "event_id": "a10299274da2",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "Trump threatens to block Canada's Bombardier planes from US market",
+     "sources": 2,
+     "score": 40,
+     "event_id": "bf18496d99e4",
+     "links": [
+      "https://www.dw.com/en/trump-threatens-to-block-canada-s-bombardier-planes-from-us-market/a-79153896?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/tv-shows/business/20260908-trump-threatens-ban-on-bombardier-as-canada-s-retaliatory-tariffs-kick-in"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "South Park changes name to South America in response to Trump changes",
+     "sources": 2,
+     "score": 45,
+     "event_id": "c8549675122c",
+     "links": [
+      "https://www.theguardian.com/tv-and-radio/2026/sep/08/south-park-changes-name-to-south-america-trump",
+      "https://www.france24.com/en/trump-posts-ai-map-showing-us-takeover-of-north-america-iceland-and-caribbean-1"
+     ]
+    },
+    {
+     "date": "2026-09-08",
+     "headline": "UK to force Apple and Google to block explicit images on children’s smartphones",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ba25d6c2d4c7",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation",
+      "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation"
+     ]
+    },
+    {
+     "date": "2026-09-09",
+     "headline": "South Park creators rename show 'South America' in apparent dig at Trump",
+     "sources": 2,
+     "score": 42,
+     "event_id": "79ad9912719f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Trump threatens EU with further sanctions over Canada",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0a4802f0e85a",
+     "links": [
+      "https://www.dw.com/en/trump-threatens-eu-with-further-sanctions-over-canada/a-79299548?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Trump threatens EU with ‘serious tariffs’ after proposal to make Canada first associate member – Europe live",
+     "sources": 3,
+     "score": 63,
+     "event_id": "869ca936dee5",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates",
+      "https://www.dw.com/en/can-canada-and-the-eu-deepen-ties-to-counter-trump/a-79295388?maca=en-rss-en-all-1573-rdf",
+      "http://www.france24.com/en/tv-shows/press-review/20260917-the-canaduropean-union-canada-an-associate-member-of-the-eu"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Trump calls EU's offer of associate partnership to Canada 'laughable' – video",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9417b69ea434",
+     "links": [
+      "https://www.theguardian.com/us-news/video/2026/sep/17/donald-trump-eu-offer-canada-laughable-video",
+      "http://www.france24.com/en/video/20260917-laughable-trump-threatens-to-cut-eu-trade-over-canada-ties"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
+     "sources": 2,
+     "score": 41,
+     "event_id": "5ffc61341047",
+     "links": [
+      "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
+      "http://www.france24.com/en/video/20260917-stronger-together-canada-s-carney-welcomes-eu-associate-member-proposal"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
+     "sources": 2,
+     "score": 40,
+     "event_id": "16cb99ad25e3",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
+      "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Canada is a 'safe harbour' for global finance, Carney says",
+     "sources": 2,
+     "score": 44,
+     "event_id": "327c785d75e1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Mark Carney calls for ‘deep cooperation’ between Canada and EU in Strasbourg speech",
+     "sources": 2,
+     "score": 43,
+     "event_id": "52129b02a43c",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/17/mark-carney-deep-cooperation-canada-eu-strasbourg",
+      "https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Trump says the US doesn’t need Canada. But it’s the source of key minerals for the military | Vince Beiser",
+     "sources": 2,
+     "score": 45,
+     "event_id": "0af672bd9219",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/17/trump-canada-military-minerals",
+      "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "South Korea will not send military to support US war on Iran, defying Trump pressure",
+     "sources": 2,
+     "score": 46,
+     "event_id": "02a24cacedb1",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
+      "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Trump seeks ‘massive’ Belarus fertiliser deal amid Canada trade war",
+     "sources": 2,
+     "score": 40,
+     "event_id": "ae54a5a38045",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/22/trump-seeks-massive-belarus-fertiliser-deal-amid-canada-trade-war",
+      "https://www.theguardian.com/world/2026/sep/22/trump-seeks-massive-belarus-fertiliser-deal-amid-canada-trade-war"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
+     "sources": 1,
+     "score": 42,
+     "event_id": "1afaed8adc57",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "South Korea: Lost shark draws over half a million visitors",
+     "sources": 3,
+     "score": 56,
+     "event_id": "17c9907c2585",
+     "links": [
+      "https://www.dw.com/en/south-korea-lost-shark-draws-over-half-a-million-visitors/a-79482014?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/sep/30/south-korea-apology-north-korea-mine-injures-soldiers",
+      "https://www.france24.com/en/video/20260930-tensions-mount-as-south-korea-demands-apology-from-north-over-mine-blast"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Four Beluga Whales Died Weeks After Being Rescued From a Defunct Marine Park in Canada. Were the Animals Too Sick to Be Moved?",
+     "sources": 1,
+     "score": 45,
+     "event_id": "b0ca438a86e3",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/four-beluga-whales-died-weeks-after-being-rescued-from-a-defunct-marine-park-in-canada-were-the-animals-too-sick-to-be-moved-180989597/"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Trump, Macron confirm Europe will release diesel stockpiles after US requests",
+     "sources": 2,
+     "score": 46,
+     "event_id": "84a962a40b04",
+     "links": [
+      "https://www.dw.com/en/trump-macron-confirm-europe-will-release-diesel-stockpiles-after-us-requests/a-79522810?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "NEWSBRIEF: HURRICANE ISAIAS, UKRAINE WAR LATEST, POLITICS OF IRAN WAR",
+     "sources": 2,
+     "score": 44,
+     "event_id": "5609a0ebb482",
+     "links": [
+      "https://www.npr.org/2026/10/09/nx-s1-5988274/newsbrief-hurricane-isaias-ukraine-war-latest-politics-of-iran-war",
+      "https://phys.org/news/2026-10-hurricane-isaias-en-route-gulf.html"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
+     "sources": 2,
+     "score": 50,
+     "event_id": "b797a5975f9e",
+     "links": [
+      "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20261103-us-midterm-elections-a-referendum-on-president-donald-trump",
+      "https://www.france24.com/en/video/20261103-what-could-happen-if-donald-trump-loses-us-midterm-elections"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Donald Trump loses allies after elections in Serbia and Brazil",
+     "sources": 2,
+     "score": 44,
+     "event_id": "e61fb9bb11a0",
+     "links": [
+      "https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+     "sources": 2,
+     "score": 44,
+     "event_id": "e81a615f3e6a",
+     "links": [
+      "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
+      "https://www.france24.com/en/americas/20261104-trump-congratulates-democrats-on-midterms-win-says-iran-war-played-role"
+     ]
+    }
+   ]
+  },
+  {
    "id": "7da4e07716c7",
    "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
    "section": "world",
    "entities": [
+    "secretary",
+    "james",
+    "troy",
     "maine",
-    "georgia",
-    "hegseth",
+    "michigan",
+    "haley",
     "massie",
+    "china",
+    "rove",
+    "democrat",
+    "defense",
+    "ossoff",
+    "mike",
+    "paxton",
+    "cornyn",
+    "democratic",
+    "talarico",
+    "georgia",
     "halloween",
     "trump",
-    "el-sayed",
-    "secretary",
-    "china",
-    "hormuz",
-    "stevens",
-    "josh",
-    "tankers",
-    "republican",
-    "karl",
-    "democrat",
-    "troy",
-    "defense",
-    "democratic",
-    "jackson",
-    "november",
-    "iran",
-    "michigan",
-    "rove",
-    "pentagon",
-    "rogers",
-    "gulf",
-    "turek",
-    "susan",
-    "democrats",
-    "ossoff",
-    "haley",
-    "cornyn",
-    "wife",
     "senate",
-    "texas",
-    "paxton",
+    "keisha",
+    "republican",
+    "stevens",
+    "midterms",
+    "el-sayed",
+    "rogers",
+    "pentagon",
+    "josh",
     "collins",
-    "iowa",
-    "mike"
+    "iran",
+    "hormuz",
+    "democrats",
+    "wife",
+    "karl",
+    "november",
+    "turek",
+    "texas",
+    "bottoms",
+    "tankers"
    ],
    "event_ids": [
     "7da4e07716c7",
@@ -2676,7 +3158,9 @@
     "b0936e6dce0d",
     "43992b5f3fd4",
     "0c2e960b0584",
-    "835c8d9b6884"
+    "835c8d9b6884",
+    "74dab33a4157",
+    "679276982c61"
    ],
    "first_seen": "2026-09-11",
    "last_seen": "2026-11-04",
@@ -2966,6 +3450,29 @@
       "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek",
       "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
       "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+     "sources": 5,
+     "score": 83,
+     "event_id": "74dab33a4157",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
+      "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "2026 Midterms: Democrat Keisha Lance Bottoms makes history in Georgia",
+     "sources": 2,
+     "score": 42,
+     "event_id": "679276982c61",
+     "links": [
+      "https://www.france24.com/en/video/20261104-2026-midterms-democrat-keisha-lance-bottoms-makes-history-in-georgia",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-amy-acton-makes-history-in-ohio?traffic_source=rss"
      ]
     }
    ]
@@ -3258,6 +3765,67 @@
       "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
       "https://www.aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "364b5244fc6d",
+   "title": "Florida Republicans fend off Democrats as state elects first black governor",
+   "section": "world",
+   "entities": [
+    "republicans",
+    "democrats",
+    "florida"
+   ],
+   "event_ids": [
+    "364b5244fc6d"
+   ],
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "timeline": [
+    {
+     "date": "2026-11-04",
+     "headline": "Florida Republicans fend off Democrats as state elects first black governor",
+     "sources": 5,
+     "score": 83,
+     "event_id": "364b5244fc6d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9146d88pl32o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-midterms-democrats-gain-control-of-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
+      "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "04f2d0ee2f85",
+   "title": "House Democratic Leader Hakeem Jeffries declares \"America is back\"",
+   "section": "world",
+   "entities": [
+    "jeffries",
+    "democratic",
+    "house",
+    "hakeem",
+    "leader",
+    "america"
+   ],
+   "event_ids": [
+    "04f2d0ee2f85"
+   ],
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "timeline": [
+    {
+     "date": "2026-11-04",
+     "headline": "House Democratic Leader Hakeem Jeffries declares \"America is back\"",
+     "sources": 3,
+     "score": 62,
+     "event_id": "04f2d0ee2f85",
+     "links": [
+      "https://www.npr.org/2026/11/04/nx-s1-6028572/hakeem-jeffries-midterms-house",
+      "https://www.france24.com/en/video/20261104-replay-us-midterms-today-begins-the-great-american-comeback-hakeem-jeffries",
+      "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections?traffic_source=rss"
      ]
     }
    ]
@@ -6202,476 +6770,6 @@
       "https://www.france24.com/en/middle-east/20261103-trump-says-us-will-halt-4-billion-in-aid-to-israel-after-end-of-this-year",
       "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
       "https://www.investing.com/news/commodities-news/oil-rises-after-reported-us-strike-on-irans-qeshm-island-4993349"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "fc871ed3ce64",
-   "title": "Trump signs order to rename Lake Ontario as Lake America",
-   "section": "world",
-   "entities": [
-    "europe",
-    "south",
-    "strasbourg",
-    "mapquest",
-    "robert",
-    "google",
-    "korea",
-    "serbia",
-    "apple",
-    "isaias",
-    "trump",
-    "rescued",
-    "politics",
-    "weekly",
-    "animals",
-    "carney",
-    "canadian",
-    "bombardier",
-    "four",
-    "weeks",
-    "moved",
-    "canada's",
-    "beluga",
-    "belarus",
-    "eu's",
-    "america",
-    "mark",
-    "beiser",
-    "park",
-    "defunct",
-    "lost",
-    "whales",
-    "newsbrief",
-    "pyongyang",
-    "were",
-    "maps",
-    "marine",
-    "ukraine",
-    "iran",
-    "brazil"
-   ],
-   "event_ids": [
-    "fc871ed3ce64",
-    "d303cedaf846",
-    "69769cf42fdf",
-    "4dcd5aa8edee",
-    "f1acf504161f",
-    "eded7a46ce69",
-    "513bc8ca4fe5",
-    "2063b9e83ecd",
-    "7ee9d33d0756",
-    "be52307dda99",
-    "c280f70cbb01",
-    "c7578e46c246",
-    "a10299274da2",
-    "bf18496d99e4",
-    "c8549675122c",
-    "ba25d6c2d4c7",
-    "79ad9912719f",
-    "0a4802f0e85a",
-    "869ca936dee5",
-    "9417b69ea434",
-    "5ffc61341047",
-    "16cb99ad25e3",
-    "327c785d75e1",
-    "52129b02a43c",
-    "0af672bd9219",
-    "02a24cacedb1",
-    "ae54a5a38045",
-    "1afaed8adc57",
-    "17c9907c2585",
-    "b0ca438a86e3",
-    "84a962a40b04",
-    "5609a0ebb482",
-    "b797a5975f9e",
-    "e61fb9bb11a0"
-   ],
-   "first_seen": "2026-08-27",
-   "last_seen": "2026-11-03",
-   "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "Trump signs order to rename Lake Ontario as Lake America",
-     "sources": 7,
-     "score": 82,
-     "event_id": "fc871ed3ce64",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
-      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Trump directs federal government to rename Lake Ontario to Lake America",
-     "sources": 4,
-     "score": 64,
-     "event_id": "d303cedaf846",
-     "links": [
-      "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
-      "https://www.cnbc.com/2026/08/27/trump-canada-lake-america-ontario.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-trump-signs-order-to-re-name-lake-ontario-as-lake-america?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "How did Trump get so rich? | Politics Weekly America",
-     "sources": 4,
-     "score": 62,
-     "event_id": "69769cf42fdf",
-     "links": [
-      "https://www.theguardian.com/politics/video/2026/aug/27/how-did-trump-get-so-rich-politics-weekly-america",
-      "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
-      "https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Canada installs large Lake Ontario sign in latest jab at US",
-     "sources": 2,
-     "score": 47,
-     "event_id": "4dcd5aa8edee",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/8/29/ontarios-doug-ford-prods-trump-with-sign-rejecting-lake-america-name?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Canada erects giant ‘Lake Ontario’ sign as spat with Trump over name escalates",
-     "sources": 3,
-     "score": 59,
-     "event_id": "f1acf504161f",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-      "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
-      "https://www.investing.com/news/stock-market-news/google-maps-will-show-lake-america-in-us-not-lake-ontario-4882054"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Google Maps renames \"Lake Ontario\" to \"Lake America\" even faster than US government",
-     "sources": 3,
-     "score": 60,
-     "event_id": "eded7a46ce69",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
-      "https://www.theguardian.com/us-news/2026/aug/30/canada-trump-lake-ontario-name",
-      "https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "MapQuest app reaches No 1 on US Apple list after defying Trump’s Lake Ontario order",
-     "sources": 2,
-     "score": 41,
-     "event_id": "513bc8ca4fe5",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump",
-      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Apple Maps follows Google in renaming Lake Ontario",
-     "sources": 2,
-     "score": 42,
-     "event_id": "2063b9e83ecd",
-     "links": [
-      "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
-      "https://www.france24.com/en/2026-09-01-18-44-yes-google-maps-renamed-lake-ontario-as-lake-america"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Apple Maps changes Lake Ontario to Lake America after Trump order",
-     "sources": 5,
-     "score": 73,
-     "event_id": "7ee9d33d0756",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/us-news/2026/sep/01/mapquest-lake-ontario-trump"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Trump’s ridiculous bullying of Canada is backfiring | Robert Reich",
-     "sources": 2,
-     "score": 45,
-     "event_id": "be52307dda99",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/sep/02/trump-canada-tariffs-trade-war-backfiring",
-      "https://www.cnbc.com/2026/09/02/bank-canada-rate-decision-trump-tariffs.html"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
-     "sources": 2,
-     "score": 44,
-     "event_id": "c280f70cbb01",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
-      "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/"
-     ]
-    },
-    {
-     "date": "2026-09-07",
-     "headline": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c7578e46c246",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss",
-      "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-     "sources": 2,
-     "score": 40,
-     "event_id": "a10299274da2",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Trump threatens to block Canada's Bombardier planes from US market",
-     "sources": 2,
-     "score": 40,
-     "event_id": "bf18496d99e4",
-     "links": [
-      "https://www.dw.com/en/trump-threatens-to-block-canada-s-bombardier-planes-from-us-market/a-79153896?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/tv-shows/business/20260908-trump-threatens-ban-on-bombardier-as-canada-s-retaliatory-tariffs-kick-in"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "South Park changes name to South America in response to Trump changes",
-     "sources": 2,
-     "score": 45,
-     "event_id": "c8549675122c",
-     "links": [
-      "https://www.theguardian.com/tv-and-radio/2026/sep/08/south-park-changes-name-to-south-america-trump",
-      "https://www.france24.com/en/trump-posts-ai-map-showing-us-takeover-of-north-america-iceland-and-caribbean-1"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "UK to force Apple and Google to block explicit images on children’s smartphones",
-     "sources": 2,
-     "score": 41,
-     "event_id": "ba25d6c2d4c7",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation",
-      "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation"
-     ]
-    },
-    {
-     "date": "2026-09-09",
-     "headline": "South Park creators rename show 'South America' in apparent dig at Trump",
-     "sources": 2,
-     "score": 42,
-     "event_id": "79ad9912719f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Trump threatens EU with further sanctions over Canada",
-     "sources": 2,
-     "score": 42,
-     "event_id": "0a4802f0e85a",
-     "links": [
-      "https://www.dw.com/en/trump-threatens-eu-with-further-sanctions-over-canada/a-79299548?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/world/2026/sep/17/trump-calls-eu-offer-to-canada-associate-membership-laughable-threatens-tariffs"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Trump threatens EU with ‘serious tariffs’ after proposal to make Canada first associate member – Europe live",
-     "sources": 3,
-     "score": 63,
-     "event_id": "869ca936dee5",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/17/donald-trump-eu-european-union-mark-carney-canada-associate-membership-tariffs-threats-germany-merz-latest-news-updates",
-      "https://www.dw.com/en/can-canada-and-the-eu-deepen-ties-to-counter-trump/a-79295388?maca=en-rss-en-all-1573-rdf",
-      "http://www.france24.com/en/tv-shows/press-review/20260917-the-canaduropean-union-canada-an-associate-member-of-the-eu"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Trump calls EU's offer of associate partnership to Canada 'laughable' – video",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9417b69ea434",
-     "links": [
-      "https://www.theguardian.com/us-news/video/2026/sep/17/donald-trump-eu-offer-canada-laughable-video",
-      "http://www.france24.com/en/video/20260917-laughable-trump-threatens-to-cut-eu-trade-over-canada-ties"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Carney says Canada will decide its own partnerships after Trump calls EU proposal ‘laughable’",
-     "sources": 2,
-     "score": 41,
-     "event_id": "5ffc61341047",
-     "links": [
-      "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html",
-      "http://www.france24.com/en/video/20260917-stronger-together-canada-s-carney-welcomes-eu-associate-member-proposal"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Carney says Canada will pursue ‘unique security and economic alliance’ with EU amid US trade spat",
-     "sources": 2,
-     "score": 40,
-     "event_id": "16cb99ad25e3",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance",
-      "https://www.theguardian.com/world/2026/sep/15/canada-eu-economic-alliance"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Canada is a 'safe harbour' for global finance, Carney says",
-     "sources": 2,
-     "score": 44,
-     "event_id": "327c785d75e1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/15/carney-visits-europe-can-canada-seek-refuge-with-the-eu-amid-us-trade-war?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Mark Carney calls for ‘deep cooperation’ between Canada and EU in Strasbourg speech",
-     "sources": 2,
-     "score": 43,
-     "event_id": "52129b02a43c",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/17/mark-carney-deep-cooperation-canada-eu-strasbourg",
-      "https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Trump says the US doesn’t need Canada. But it’s the source of key minerals for the military | Vince Beiser",
-     "sources": 2,
-     "score": 45,
-     "event_id": "0af672bd9219",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/sep/17/trump-canada-military-minerals",
-      "https://www.cnbc.com/2026/09/17/carney-canada-eu-associate-member.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "South Korea will not send military to support US war on Iran, defying Trump pressure",
-     "sources": 2,
-     "score": 46,
-     "event_id": "02a24cacedb1",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/18/south-korea-will-not-send-military-to-support-us-war-on-iran-defying-trump-pressure",
-      "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Trump seeks ‘massive’ Belarus fertiliser deal amid Canada trade war",
-     "sources": 2,
-     "score": 40,
-     "event_id": "ae54a5a38045",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/22/trump-seeks-massive-belarus-fertiliser-deal-amid-canada-trade-war",
-      "https://www.theguardian.com/world/2026/sep/22/trump-seeks-massive-belarus-fertiliser-deal-amid-canada-trade-war"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-     "sources": 1,
-     "score": 42,
-     "event_id": "1afaed8adc57",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c9kgvm275ev8o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "South Korea: Lost shark draws over half a million visitors",
-     "sources": 3,
-     "score": 56,
-     "event_id": "17c9907c2585",
-     "links": [
-      "https://www.dw.com/en/south-korea-lost-shark-draws-over-half-a-million-visitors/a-79482014?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/world/2026/sep/30/south-korea-apology-north-korea-mine-injures-soldiers",
-      "https://www.france24.com/en/video/20260930-tensions-mount-as-south-korea-demands-apology-from-north-over-mine-blast"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Four Beluga Whales Died Weeks After Being Rescued From a Defunct Marine Park in Canada. Were the Animals Too Sick to Be Moved?",
-     "sources": 1,
-     "score": 45,
-     "event_id": "b0ca438a86e3",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/four-beluga-whales-died-weeks-after-being-rescued-from-a-defunct-marine-park-in-canada-were-the-animals-too-sick-to-be-moved-180989597/"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "Trump, Macron confirm Europe will release diesel stockpiles after US requests",
-     "sources": 2,
-     "score": 46,
-     "event_id": "84a962a40b04",
-     "links": [
-      "https://www.dw.com/en/trump-macron-confirm-europe-will-release-diesel-stockpiles-after-us-requests/a-79522810?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "NEWSBRIEF: HURRICANE ISAIAS, UKRAINE WAR LATEST, POLITICS OF IRAN WAR",
-     "sources": 2,
-     "score": 44,
-     "event_id": "5609a0ebb482",
-     "links": [
-      "https://www.npr.org/2026/10/09/nx-s1-5988274/newsbrief-hurricane-isaias-ukraine-war-latest-politics-of-iran-war",
-      "https://phys.org/news/2026-10-hurricane-isaias-en-route-gulf.html"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
-     "sources": 2,
-     "score": 50,
-     "event_id": "b797a5975f9e",
-     "links": [
-      "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20261103-us-midterm-elections-a-referendum-on-president-donald-trump",
-      "https://www.france24.com/en/video/20261103-what-could-happen-if-donald-trump-loses-us-midterm-elections"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Donald Trump loses allies after elections in Serbia and Brazil",
-     "sources": 2,
-     "score": 44,
-     "event_id": "e61fb9bb11a0",
-     "links": [
-      "https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss"
      ]
     }
    ]
@@ -20019,5 +20117,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T06:27:41+00:00"
+ "updated": "2026-11-04T09:20:49+00:00"
 }
