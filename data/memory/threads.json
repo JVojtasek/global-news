@@ -3092,46 +3092,46 @@
    "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
    "section": "world",
    "entities": [
-    "secretary",
-    "james",
-    "troy",
-    "maine",
-    "michigan",
+    "texas",
     "haley",
-    "massie",
+    "secretary",
+    "michigan",
+    "turek",
+    "republicans",
+    "house",
     "china",
-    "rove",
-    "democrat",
-    "defense",
-    "ossoff",
-    "mike",
     "paxton",
-    "cornyn",
     "democratic",
-    "talarico",
-    "georgia",
-    "halloween",
-    "trump",
-    "senate",
+    "james",
+    "wife",
     "keisha",
-    "republican",
-    "stevens",
+    "senate",
     "midterms",
     "el-sayed",
-    "rogers",
     "pentagon",
-    "josh",
-    "collins",
-    "iran",
-    "hormuz",
-    "democrats",
-    "wife",
-    "karl",
-    "november",
-    "turek",
-    "texas",
+    "mike",
+    "abdul",
     "bottoms",
-    "tankers"
+    "katherine",
+    "massie",
+    "hormuz",
+    "defense",
+    "stevens",
+    "iran",
+    "ossoff",
+    "rogers",
+    "democrats",
+    "clark",
+    "trump",
+    "november",
+    "maine",
+    "call",
+    "halloween",
+    "karl",
+    "tankers",
+    "democrat",
+    "georgia",
+    "josh"
    ],
    "event_ids": [
     "7da4e07716c7",
@@ -3160,7 +3160,11 @@
     "0c2e960b0584",
     "835c8d9b6884",
     "74dab33a4157",
-    "679276982c61"
+    "679276982c61",
+    "dbbf789e01db",
+    "e019a4979e69",
+    "ea0f1f9c4b5a",
+    "1e43314e8e82"
    ],
    "first_seen": "2026-09-11",
    "last_seen": "2026-11-04",
@@ -3473,6 +3477,52 @@
      "links": [
       "https://www.france24.com/en/video/20261104-2026-midterms-democrat-keisha-lance-bottoms-makes-history-in-georgia",
       "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-amy-acton-makes-history-in-ohio?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history",
+     "sources": 2,
+     "score": 54,
+     "event_id": "dbbf789e01db",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/4/call-me-senator-how-abdul-el-sayed-beat-trumps-hate-to-create-history?traffic_source=rss",
+      "https://www.france24.com/en/video/20261104-abdul-el-sayed-set-to-become-first-muslim-senator-after-win-in-michigan",
+      "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "US midterms: Democrats win House and Senate from Republicans",
+     "sources": 3,
+     "score": 49,
+     "event_id": "e019a4979e69",
+     "links": [
+      "https://www.dw.com/en/us-midterms-democrats-win-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss",
+      "https://www.france24.com/en/americas/20261104-why-the-democrats-routed-republicans-us-midterm-elections"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Rep. Katherine Clark says Democrats are on track to win control of the House tonight",
+     "sources": 2,
+     "score": 42,
+     "event_id": "ea0f1f9c4b5a",
+     "links": [
+      "https://www.npr.org/2026/11/03/nx-s1-6028015/rep-katherine-clark-says-democrats-are-on-track-to-win-control-of-the-house-tonight",
+      "https://www.investing.com/news/economy-news/investors-ready-for-possible-shakeup-in-congress-as-election-day-arrives-4994181"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "US midterms: Trump reacts to the Democrats’ sweeping victory",
+     "sources": 2,
+     "score": 40,
+     "event_id": "1e43314e8e82",
+     "links": [
+      "https://www.france24.com/en/video/20261104-us-midterms-trump-reacts-to-the-democrats-sweeping-victory",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss"
      ]
     }
    ]
@@ -3826,6 +3876,36 @@
       "https://www.npr.org/2026/11/04/nx-s1-6028572/hakeem-jeffries-midterms-house",
       "https://www.france24.com/en/video/20261104-replay-us-midterms-today-begins-the-great-american-comeback-hakeem-jeffries",
       "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cbd6dbd7b373",
+   "title": "Midterm elections 2026 live updates: What's next after Democrats flip Congress in blue wave",
+   "section": "world",
+   "entities": [
+    "midterm",
+    "congress",
+    "democrats",
+    "what's"
+   ],
+   "event_ids": [
+    "cbd6dbd7b373"
+   ],
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "timeline": [
+    {
+     "date": "2026-11-04",
+     "headline": "Midterm elections 2026 live updates: What's next after Democrats flip Congress in blue wave",
+     "sources": 3,
+     "score": 64,
+     "event_id": "cbd6dbd7b373",
+     "links": [
+      "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
+      "https://www.aljazeera.com/gallery/2026/11/4/photos-us-democrats-celebrate-winning-control-of-congress?traffic_source=rss",
+      "https://www.france24.com/en/video/20261104-iran-war-epstein-impeachment-what-will-democrats-do-with-control-of-congress"
      ]
     }
    ]
@@ -20117,5 +20197,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T09:20:49+00:00"
+ "updated": "2026-11-04T12:24:21+00:00"
 }
