@@ -23,7 +23,6 @@ Paměť obsahuje **181 vláken**. Aktivních za posledních 14 dní: **47**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 78 dní · 60 záznamů
 - časová osa:
-  - **2026-10-25** (2 zdrojů) Terland strikes late as United end Manchester City’s winning start in WSL
   - **2026-10-26** (2 zdrojů) Manchester United crisis: What are the top five problems facing the club?
   - **2026-10-30** (2 zdrojů) Chelsea vs Manchester United: Premier League – teams, prediction, lineups
   - **2026-10-31** (2 zdrojů) Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
@@ -33,6 +32,7 @@ Paměť obsahuje **181 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-11-04** (3 zdrojů) Man Utd beat Roma - the other great Champions League comebacks
   - **2026-11-04** (2 zdrojů) Photos: Champions League and Tenerife fans pay tribute to De Miguel
   - **2026-11-04** (2 zdrojů) Football world mourns Tenerife striker De Miguel
+  - **2026-11-04** (4 zdrojů) Nadal set to join Real Madrid board of directors
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 87 dní · 60 záznamů

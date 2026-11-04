@@ -99,22 +99,22 @@
     <https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html>
     > North Korea rejected U.S. allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.
 
-### 4. Democratic rising star Ossoff projected to hold Georgia seat
-- id události: `43992b5f3fd4`  ·  rubrika: `world`  ·  skóre: 64  ·  nezávislých zdrojů: 3
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+### 4. Nadal set to join Real Madrid board of directors
+- id události: `31590043fce8`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **BBC World** — Democratic rising star Ossoff projected to hold Georgia seat
-    <https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss>
-    > Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.
-  - **France 24** — Key US Senate results: Democrats win upper chamber with victories in Texas and Iowa
-    <https://www.france24.com/en/americas/20261104-key-us-senate-results-democrats-wrest-north-and-south-carolina-from-the-republicans>
-    > Democrats won control of the Senate in the US midterm elections Tuesday, with initial results showing the party securing shock victories in Texas, Ohio, North and South Carolina, Kansas and Iowa.
-  - **France 24** — REPLAY: Georgia Senator Jon Ossoff wins reelection
-    <https://www.france24.com/en/video/20261104-replay-georgia-senator-jon-ossoff-wins-reelection>
-    > Georgia Senator Jon Ossoff was reelected Tuesday to a second term, holding a key seat for Democrats by defeating Republican Representative Mike Collins in a race that catapulted the Senate’s youngest member to the forefront of his party’s national stars as it looks to stymie Pres
-  - **Al Jazeera** — Ossoff wins reelection in Georgia holding Senate seat for Democrats
-    <https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss>
-    > Jon Ossoff has been reelected to the Senate in Georgia holding on to a key seat for the Democrats.
+  - **BBC World** — Nadal set to join Real Madrid board of directors
+    <https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss>
+    > Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.
+  - **BBC Sport** — Nadal set to join Real Madrid board of directors
+    <https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss>
+    > Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.
+  - **Guardian Sport** — Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel
+    <https://www.theguardian.com/football/2026/nov/04/real-madrid-jj-gabriel-manchester-united-close-agreement-sign>
+    > Madrid hope to bring in forward during January United to consider legal action if they feel rules broken Real Madrid are closing in on signing JJ Gabriel, though Manchester United will consider legal action if the club believe any rules have been broken. Madrid have offered the 1
+  - **Al Jazeera** — Tennis great Rafael Nadal set to join Real Madrid board
+    <https://www.aljazeera.com/sports/2026/11/4/tennis-great-rafael-nadal-set-to-join-real-madrid-board?traffic_source=rss>
+    > The 22-time Grand Slam winner is to be ratified onto club's board of directors.
 
 ---
 
@@ -123,9 +123,9 @@
 ### why relationships fail
 - rubrika: `questions`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
+  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
   - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
   - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
-  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
 
 ---
 
@@ -181,7 +181,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record
   2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
   2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
   2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win
@@ -201,6 +200,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-11-04  (3 zdrojů, síla 57)  Man Utd beat Roma - the other great Champions League comebacks
   2026-11-04  (2 zdrojů, síla 42)  Photos: Champions League and Tenerife fans pay tribute to De Miguel
   2026-11-04  (2 zdrojů, síla 42)  Football world mourns Tenerife striker De Miguel
+  2026-11-04  (4 zdrojů, síla 68)  Nadal set to join Real Madrid board of directors
 ```
 
 ---

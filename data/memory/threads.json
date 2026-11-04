@@ -820,46 +820,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "greenwood",
-    "manzambi",
-    "brighton",
-    "china",
-    "villa",
-    "martinez",
-    "european",
-    "photos",
-    "chelsea",
-    "jonathan",
-    "united",
-    "ronaldo",
-    "troy's",
-    "football",
-    "glasner",
-    "miguel",
-    "gakpo",
-    "madrid",
-    "terland",
-    "aston",
-    "carrick",
-    "burnham",
-    "howe",
-    "roma",
-    "wilcox",
-    "city",
-    "real",
     "tenerife",
-    "barcelona's",
-    "phil",
-    "uk's",
-    "jackson",
-    "forest",
+    "photos",
+    "miguel",
+    "troy's",
     "champions",
-    "beckett",
-    "premier",
-    "leeds",
+    "nadal",
+    "football",
+    "united",
+    "howe",
+    "phil",
     "wilson",
+    "chelsea",
+    "ronaldo",
+    "carrick",
+    "isak",
+    "jackson",
+    "beckett",
+    "jonathan",
+    "gakpo",
+    "greenwood",
+    "city",
+    "roma",
+    "brighton",
+    "barcelona's",
+    "uk's",
+    "terland",
     "tuchel",
-    "isak"
+    "european",
+    "leeds",
+    "forest",
+    "aston",
+    "premier",
+    "manzambi",
+    "burnham",
+    "glasner",
+    "real",
+    "china",
+    "wilcox",
+    "madrid",
+    "martinez"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1003,22 +1003,12 @@
     "bb3c9fbeb219",
     "1b3bc8f8e7dc",
     "e36f326cdcdc",
-    "3558a4b41382"
+    "3558a4b41382",
+    "31590043fce8"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-11-04",
    "timeline": [
-    {
-     "date": "2026-10-03",
-     "headline": "Manchester City’s guilty verdict brings football’s great sell-off crashing to earth",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a5941bf4db1a",
-     "links": [
-      "https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football",
-      "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
     {
      "date": "2026-10-05",
      "headline": "Manchester City must be relegated, says Canada’s ex-Leeds manager",
@@ -1693,6 +1683,18 @@
      "links": [
       "https://www.bbc.co.uk/sport/football/articles/c6djv011mzlyo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Nadal set to join Real Madrid board of directors",
+     "sources": 4,
+     "score": 68,
+     "event_id": "31590043fce8",
+     "links": [
+      "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/nov/04/real-madrid-jj-gabriel-manchester-united-close-agreement-sign"
      ]
     }
    ]
@@ -2606,50 +2608,715 @@
    ]
   },
   {
+   "id": "95b4d8eb7452",
+   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+   "section": "tech",
+   "entities": [
+    "skydance",
+    "friday's",
+    "dots",
+    "talarico",
+    "alexander",
+    "unusual",
+    "ukraine",
+    "starlink",
+    "embiricos",
+    "miss",
+    "ambani",
+    "nvidia",
+    "israel",
+    "qualcomm",
+    "putin",
+    "europe",
+    "meta",
+    "olympic",
+    "techcrunch",
+    "ukraine's",
+    "side",
+    "musk",
+    "openai",
+    "russia",
+    "anthropic",
+    "networking",
+    "amazon",
+    "deckers",
+    "beyond",
+    "machines",
+    "merging",
+    "billionaire",
+    "elon",
+    "trump",
+    "china",
+    "zoom",
+    "mobile",
+    "boeing",
+    "apple",
+    "sure"
+   ],
+   "event_ids": [
+    "95b4d8eb7452",
+    "1b1d0d455584",
+    "572dce99347e",
+    "5afad699a57c",
+    "814772bc922c",
+    "bc11900335c3",
+    "5f6c0a4a0fa6",
+    "1fcf8cc28156",
+    "d7a1c9894fff",
+    "467cf97b1acf",
+    "4f05eeb200ed",
+    "98c90d114a62",
+    "c53837b319d6",
+    "714d1f0b729f",
+    "490a23f57428",
+    "869772203883",
+    "1cc24ddce8a4",
+    "f4290472ac1a",
+    "658159bc4850",
+    "733411f27eae",
+    "b17a25d8c48a",
+    "ed05f4b9715a",
+    "959dcb673548",
+    "030e0762a24f",
+    "5a36fa44b304",
+    "2c9536723835",
+    "ab3660a4efa6",
+    "795b2f9bbb2b",
+    "a3c44a432a3d",
+    "9c464aa25357",
+    "18ba53fb28cc",
+    "cb9eec62df6f",
+    "e146a0ded080",
+    "4212a5c7dadf",
+    "3992fc4ed3eb",
+    "e406db6a9c15",
+    "8b4dc9f3945d",
+    "9b5397f83bd4",
+    "19c0d49aeb1d",
+    "e76559e70f02",
+    "2f7ad053a046",
+    "c85cd878b1f9",
+    "b110318e469b",
+    "fa6d08a49746",
+    "fb856fcd1cdb",
+    "b069f02850bf",
+    "6d4c38fea313",
+    "a1898e751ac5",
+    "dac4e5e8c746"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-11-04",
+   "timeline": [
+    {
+     "date": "2026-09-14",
+     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+     "sources": 3,
+     "score": 55,
+     "event_id": "95b4d8eb7452",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+     "sources": 3,
+     "score": 50,
+     "event_id": "1b1d0d455584",
+     "links": [
+      "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
+     "sources": 3,
+     "score": 45,
+     "event_id": "572dce99347e",
+     "links": [
+      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+     "sources": 3,
+     "score": 52,
+     "event_id": "5afad699a57c",
+     "links": [
+      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+     "sources": 1,
+     "score": 42,
+     "event_id": "814772bc922c",
+     "links": [
+      "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+     "sources": 1,
+     "score": 46,
+     "event_id": "bc11900335c3",
+     "links": [
+      "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Trump gives top US science awards to Elon Musk and other tech executives",
+     "sources": 2,
+     "score": 44,
+     "event_id": "5f6c0a4a0fa6",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
+      "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Why Elon Musk is taking on India's richest man over Starlink",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1fcf8cc28156",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+     "sources": 1,
+     "score": 46,
+     "event_id": "d7a1c9894fff",
+     "links": [
+      "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+     "sources": 2,
+     "score": 45,
+     "event_id": "467cf97b1acf",
+     "links": [
+      "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Elon Musk has donated over $276 million to Republican midterm efforts",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4f05eeb200ed",
+     "links": [
+      "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+      "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+     "sources": 3,
+     "score": 50,
+     "event_id": "98c90d114a62",
+     "links": [
+      "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+      "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
+      "https://www.investing.com/news/stock-market-news/elon-musk-spends-366-million-on-2026-us-midterm-elections-4945225"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Elon Musk becomes biggest donor of US midterms cycle with $366m spent",
+     "sources": 2,
+     "score": 48,
+     "event_id": "c53837b319d6",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
+      "https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+     "sources": 4,
+     "score": 68,
+     "event_id": "714d1f0b729f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
+     "sources": 2,
+     "score": 44,
+     "event_id": "490a23f57428",
+     "links": [
+      "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+      "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
+     "sources": 3,
+     "score": 56,
+     "event_id": "869772203883",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+      "https://www.france24.com/en/americas/20261014-musk-says-us-govt-responsible-for-any-starshield-restrictions-affecting-ukraine"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+     "sources": 2,
+     "score": 41,
+     "event_id": "1cc24ddce8a4",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+     "sources": 2,
+     "score": 44,
+     "event_id": "f4290472ac1a",
+     "links": [
+      "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
+      "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Elon Musk promises to give one SpaceX share to every child in the US",
+     "sources": 3,
+     "score": 57,
+     "event_id": "658159bc4850",
+     "links": [
+      "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
+      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink?utm_source=rss_feed",
+      "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "China’s milestone in polar region satellite broadband narrows gap with Elon Musk’s Starlink",
+     "sources": 1,
+     "score": 40,
+     "event_id": "733411f27eae",
+     "links": [
+      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink",
+      "https://www.scmp.com/tech/big-tech/article/3371010/tsmc-confirms-talks-elon-musk-over-texas-terafab-insists-operational-control"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Elon Musk says Tesla-SpaceX merger being considered",
+     "sources": 4,
+     "score": 56,
+     "event_id": "b17a25d8c48a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+     "sources": 3,
+     "score": 52,
+     "event_id": "ed05f4b9715a",
+     "links": [
+      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Musk confirms SpaceX and Tesla exploring merger",
+     "sources": 4,
+     "score": 62,
+     "event_id": "959dcb673548",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
+      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+     "sources": 8,
+     "score": 79,
+     "event_id": "030e0762a24f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Netflix, Zoom, Apple, Robinhood & more",
+     "sources": 1,
+     "score": 44,
+     "event_id": "5a36fa44b304",
+     "links": [
+      "https://www.cnbc.com/2026/10/21/wednesday-biggest-analyst-calls-like-spacex.html",
+      "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Tesla to report earnings after Elon Musk floats SpaceX merger plan",
+     "sources": 3,
+     "score": 53,
+     "event_id": "2c9536723835",
+     "links": [
+      "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "James Talarico fires back at Elon Musk in Texas Senate race feud",
+     "sources": 2,
+     "score": 46,
+     "event_id": "ab3660a4efa6",
+     "links": [
+      "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
+      "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Elon Musk invests about $1 billion in Skydance",
+     "sources": 3,
+     "score": 49,
+     "event_id": "795b2f9bbb2b",
+     "links": [
+      "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+      "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
+      "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a3c44a432a3d",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
+      "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
+     "sources": 2,
+     "score": 44,
+     "event_id": "9c464aa25357",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
+     "sources": 2,
+     "score": 43,
+     "event_id": "18ba53fb28cc",
+     "links": [
+      "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
+      "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Ukraine troops report ongoing problems with Starlink satellite network",
+     "sources": 4,
+     "score": 68,
+     "event_id": "cb9eec62df6f",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+      "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, CoreWeave, Deckers, Unusual Machines & more",
+     "sources": 1,
+     "score": 44,
+     "event_id": "e146a0ded080",
+     "links": [
+      "https://www.cnbc.com/2026/10/23/big-wall-street-analyst-calls-friday-include-spacex-coreweave.html",
+      "https://www.cnbc.com/2026/10/23/stocks-making-the-biggest-moves-premarket-att-spacex-moderna-deckers-bloom-energy-and-more.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+     "sources": 2,
+     "score": 54,
+     "event_id": "4212a5c7dadf",
+     "links": [
+      "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+      "https://www.cnbc.com/2026/10/22/wall-street-analyst-calls-nvidia-tesla-meta-spacex.html",
+      "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-premarket-tsla-meta-avex-spot.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+     "sources": 3,
+     "score": 50,
+     "event_id": "3992fc4ed3eb",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e406db6a9c15",
+     "links": [
+      "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+      "https://www.investing.com/news/commodities-news/trump-says-he-will-fix-any-starlink-access-problem-in-ukraine-4970057"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+     "sources": 2,
+     "score": 41,
+     "event_id": "8b4dc9f3945d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+     "sources": 2,
+     "score": 40,
+     "event_id": "9b5397f83bd4",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Ukraine says Starlink is back to normal after disruptions",
+     "sources": 2,
+     "score": 40,
+     "event_id": "19c0d49aeb1d",
+     "links": [
+      "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+      "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Ukraine: Starlink satellite speeds restored to normal",
+     "sources": 3,
+     "score": 52,
+     "event_id": "e76559e70f02",
+     "links": [
+      "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
+      "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "https://www.investing.com/news/economy-news/ukraine-says-military-starlink-service-restored-after-10day-disruption-4970760"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2f7ad053a046",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Russia to host first Olympic federation world event since Ukraine invasion",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c85cd878b1f9",
+     "links": [
+      "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Apple stock has become an anti-AI trade. Here’s why",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b110318e469b",
+     "links": [
+      "https://www.cnbc.com/2026/10/26/apple-stock-has-become-an-anti-ai-trade-heres-why.html",
+      "https://www.cnbc.com/2026/10/26/monday-biggest-wall-street-analyst-calls-like-tesla.html"
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
+     "sources": 2,
+     "score": 43,
+     "event_id": "fa6d08a49746",
+     "links": [
+      "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Here are Wednesday's biggest analyst calls: SpaceX, Nvidia, Apple, AMD, Meta, Amazon, Tesla, Boeing & more",
+     "sources": 2,
+     "score": 54,
+     "event_id": "fb856fcd1cdb",
+     "links": [
+      "https://www.cnbc.com/2026/10/28/big-wall-street-stocks-covered-on-analyst-calls-include-spacex-boeing.html",
+      "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
+      "https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+     "sources": 4,
+     "score": 64,
+     "event_id": "b069f02850bf",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Russia in Africa: What is Putin hoping to achieve?",
+     "sources": 2,
+     "score": 44,
+     "event_id": "6d4c38fea313",
+     "links": [
+      "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/28/norway-and-finland-hold-rare-phone-call-with-putin-what-that-means?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Trump says US will halt $4 billion in aid to Israel after end of the year",
+     "sources": 3,
+     "score": 46,
+     "event_id": "a1898e751ac5",
+     "links": [
+      "https://www.france24.com/en/middle-east/20261103-trump-says-us-will-halt-4-billion-in-aid-to-israel-after-end-of-this-year",
+      "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
+      "https://www.investing.com/news/commodities-news/oil-rises-after-reported-us-strike-on-irans-qeshm-island-4993349"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
+     "sources": 2,
+     "score": 40,
+     "event_id": "dac4e5e8c746",
+     "links": [
+      "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
+      "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "fc871ed3ce64",
    "title": "Trump signs order to rename Lake Ontario as Lake America",
    "section": "world",
    "entities": [
-    "canada's",
-    "moved",
     "mapquest",
-    "park",
-    "robert",
-    "whales",
-    "weeks",
-    "defunct",
-    "pyongyang",
-    "trump",
-    "maps",
-    "serbia",
-    "carney",
-    "strasbourg",
-    "rescued",
-    "mark",
     "beluga",
-    "ukraine",
-    "newsbrief",
-    "congress",
-    "canadian",
-    "beiser",
-    "brazil",
-    "europe",
-    "politics",
-    "weekly",
-    "korea",
+    "strasbourg",
     "south",
-    "iran",
-    "four",
+    "newsbrief",
+    "ukraine",
+    "rescued",
     "lost",
-    "eu's",
-    "animals",
-    "marine",
-    "bombardier",
-    "were",
-    "belarus",
     "google",
+    "canada's",
+    "europe",
+    "serbia",
+    "brazil",
+    "eu's",
+    "four",
+    "iran",
+    "were",
+    "beiser",
+    "politics",
+    "marine",
+    "belarus",
+    "moved",
+    "pyongyang",
+    "animals",
+    "korea",
+    "weekly",
+    "america",
+    "maps",
+    "whales",
+    "congress",
+    "bombardier",
+    "trump",
+    "park",
+    "carney",
+    "weeks",
     "apple",
-    "america"
+    "defunct",
+    "canadian",
+    "robert",
+    "mark"
    ],
    "event_ids": [
     "fc871ed3ce64",
@@ -2686,7 +3353,8 @@
     "5609a0ebb482",
     "b797a5975f9e",
     "e61fb9bb11a0",
-    "e81a615f3e6a"
+    "e81a615f3e6a",
+    "cc4a4a4d0e80"
    ],
    "first_seen": "2026-08-27",
    "last_seen": "2026-11-04",
@@ -3084,6 +3752,18 @@
       "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
       "https://www.france24.com/en/americas/20261104-trump-congratulates-democrats-on-midterms-win-says-iran-war-played-role"
      ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
+     "sources": 3,
+     "score": 64,
+     "event_id": "cc4a4a4d0e80",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
+      "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
+      "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -3092,46 +3772,46 @@
    "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
    "section": "world",
    "entities": [
-    "texas",
-    "haley",
-    "secretary",
-    "michigan",
-    "turek",
-    "republicans",
     "house",
-    "china",
-    "paxton",
-    "democratic",
     "james",
-    "wife",
-    "keisha",
-    "senate",
+    "haley",
     "midterms",
-    "el-sayed",
-    "pentagon",
-    "mike",
-    "abdul",
-    "bottoms",
-    "katherine",
-    "massie",
+    "ossoff",
+    "maine",
+    "stevens",
+    "halloween",
+    "wife",
+    "democrats",
+    "georgia",
     "hormuz",
     "defense",
-    "stevens",
+    "secretary",
+    "josh",
+    "keisha",
+    "el-sayed",
+    "mike",
     "iran",
-    "ossoff",
-    "rogers",
-    "democrats",
-    "clark",
-    "trump",
+    "democratic",
     "november",
-    "maine",
+    "pentagon",
+    "katherine",
+    "clark",
+    "musk's",
+    "rogers",
+    "michigan",
     "call",
-    "halloween",
+    "left-wing",
+    "turek",
     "karl",
     "tankers",
-    "democrat",
-    "georgia",
-    "josh"
+    "republicans",
+    "elon",
+    "abdul",
+    "trump",
+    "here's",
+    "paxton",
+    "angry",
+    "china"
    ],
    "event_ids": [
     "7da4e07716c7",
@@ -3164,7 +3844,11 @@
     "dbbf789e01db",
     "e019a4979e69",
     "ea0f1f9c4b5a",
-    "1e43314e8e82"
+    "1e43314e8e82",
+    "9b8c734ec6dd",
+    "a3e2b24eafb5",
+    "078ed532d7fc",
+    "a6edc1d9c850"
    ],
    "first_seen": "2026-09-11",
    "last_seen": "2026-11-04",
@@ -3523,6 +4207,460 @@
      "links": [
       "https://www.france24.com/en/video/20261104-us-midterms-trump-reacts-to-the-democrats-sweeping-victory",
       "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+     "sources": 3,
+     "score": 64,
+     "event_id": "9b8c734ec6dd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+      "https://www.france24.com/en/video/20261104-midterms-how-abdul-el-sayed-used-humour-and-hope-to-rebuff-racism"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+     "sources": 3,
+     "score": 58,
+     "event_id": "a3e2b24eafb5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "https://electrek.co/2026/11/04/what-does-a-blue-texas-sweep-mean-for-tesla-spacex-elon-musk/"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "US midterm election results: Democrats flip House and Senate. Here's what else the data tell us",
+     "sources": 2,
+     "score": 52,
+     "event_id": "078ed532d7fc",
+     "links": [
+      "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tell-us/a-79841886?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/sport/2026/nov/04/mark-teixeira-michele-tafoya-midterm-elections"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+     "sources": 2,
+     "score": 43,
+     "event_id": "a6edc1d9c850",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20261104-trump-seeks-to-shift-blame-but-has-nowhere-to-hide-after-midterms-defeat"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1301430cb05f",
+   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+   "section": "culture",
+   "entities": [
+    "unconquered",
+    "named",
+    "discovered",
+    "fast",
+    "archaeologists",
+    "dinosaur",
+    "found",
+    "ancient",
+    "photograph",
+    "convinced",
+    "nanotechnology",
+    "sarcophagus",
+    "codex",
+    "warrior",
+    "solved",
+    "centuries",
+    "color-changing",
+    "astronomers",
+    "risks",
+    "year-old",
+    "cartwheel",
+    "preserved",
+    "billion",
+    "million-year-old",
+    "romans",
+    "made",
+    "were",
+    "everyone",
+    "museum",
+    "shelter",
+    "filmmakers",
+    "blood",
+    "glass",
+    "bring",
+    "female",
+    "predatory",
+    "still",
+    "since",
+    "marvel",
+    "they've"
+   ],
+   "event_ids": [
+    "1301430cb05f",
+    "510624bdc84f",
+    "f98076571ee0",
+    "5bb13a447624",
+    "8f63c883fb07",
+    "4d5d929d3f9b",
+    "13c0684b4af3",
+    "92a48ee35a16",
+    "dbe2fb28d382",
+    "200127734810",
+    "d314b5251d2f",
+    "38850f6a5dfa",
+    "f14aa1a495df",
+    "bdbcab469084",
+    "bcab6080a3cb",
+    "cd253afe8e24",
+    "79091fcbef11",
+    "a7bc879393f4",
+    "4d7f8e0023db",
+    "2b08b8fb7a6d",
+    "18524fe8a6bd",
+    "ed32fdd8eb37",
+    "05aacc7a1a04",
+    "ef31af8617ed",
+    "3ab27da8b81a",
+    "3a1bbc567a4d",
+    "98e8250459db",
+    "5c3abce3db29",
+    "a8d9169ef0a2",
+    "088fc877c632"
+   ],
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-11-04",
+   "timeline": [
+    {
+     "date": "2026-08-25",
+     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+     "sources": 5,
+     "score": 71,
+     "event_id": "1301430cb05f",
+     "links": [
+      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-25",
+     "headline": "Remembering Dolly Parton: 8 facts about the icon",
+     "sources": 6,
+     "score": 79,
+     "event_id": "510624bdc84f",
+     "links": [
+      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton – a life in pictures",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f98076571ee0",
+     "links": [
+      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5bb13a447624",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
+     "sources": 4,
+     "score": 78,
+     "event_id": "8f63c883fb07",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
+     "sources": 6,
+     "score": 83,
+     "event_id": "4d5d929d3f9b",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
+      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
+     "sources": 6,
+     "score": 86,
+     "event_id": "13c0684b4af3",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02676-1",
+      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter",
+     "sources": 2,
+     "score": 54,
+     "event_id": "92a48ee35a16",
+     "links": [
+      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
+      "https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "This week's quiz includes two Dolly Parton questions, because she deserves it",
+     "sources": 2,
+     "score": 47,
+     "event_id": "dbe2fb28d382",
+     "links": [
+      "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
+      "https://www.theguardian.com/music/2026/aug/27/dolly-parton-dollywood"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Briefing Chat: How Dolly Parton left her mark on science",
+     "sources": 3,
+     "score": 66,
+     "event_id": "200127734810",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02732-w",
+      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
+      "https://www.theguardian.com/music/2026/aug/28/dolly-parton-sister-stella-tribute-act-of-kindness-cancer-drugs"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan",
+     "sources": 2,
+     "score": 45,
+     "event_id": "d314b5251d2f",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
+      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+     "sources": 3,
+     "score": 58,
+     "event_id": "38850f6a5dfa",
+     "links": [
+      "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
+      "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
+      "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Dolly Parton laid to rest alongside husband in Nashville",
+     "sources": 2,
+     "score": 43,
+     "event_id": "f14aa1a495df",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief",
+     "sources": 1,
+     "score": 40,
+     "event_id": "bdbcab469084",
+     "links": [
+      "https://www.smithsonianmag.com/innovation/many-americans-covid-still-chronic-disabling-disease-scientists-working-tirelessly-bring-them-relief-180989290/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Festival honouring Dolly Parton set for Nashville and London",
+     "sources": 3,
+     "score": 55,
+     "event_id": "bcab6080a3cb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History",
+     "sources": 1,
+     "score": 44,
+     "event_id": "cd253afe8e24",
+     "links": [
+      "https://www.smithsonianmag.com/smithsonian-institution/kermit-the-frog-was-just-trying-to-put-on-a-variety-show-fifty-years-later-the-muppets-are-some-of-the-biggest-stars-in-television-history-180989451/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "For Decades, Scientists Thought an 'American Cheetah' Once Roamed North America. Turns Out the Extinct Cat Wasn't a Cheetah",
+     "sources": 1,
+     "score": 41,
+     "event_id": "79091fcbef11",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/for-decades-scientists-thought-an-american-cheetah-once-roamed-north-america-ancient-turns-out-the-extinct-cat-wasnt-a-cheetah-180989465/"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Scientists Find a Trove of Denisovan Fossils and Tools in Southwest China, Giving an Unprecedented Glimpse Into Our Extinct Cousins' Lives",
+     "sources": 1,
+     "score": 45,
+     "event_id": "a7bc879393f4",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/scientists-find-a-trove-of-denisovan-fossils-and-tools-in-southwest-china-giving-an-unprecendented-glimpse-into-our-extinct-cousins-lives-180989483/"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "A Rare Marble Sculpture by America’s First Professional Female Sculptor Sat Hidden in Plain Sight for Decades in an English Garden",
+     "sources": 1,
+     "score": 43,
+     "event_id": "4d7f8e0023db",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/a-rare-marble-sculpture-by-americas-first-professional-female-sculptor-sat-hidden-in-plain-sight-for-decades-in-english-garden-180989508/"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "A Rare Aztec Codex Detailing the Rise and Fall of Tenochtitlan Returns to Mexico for the First Time in Nearly Two Centuries",
+     "sources": 1,
+     "score": 41,
+     "event_id": "2b08b8fb7a6d",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/a-rare-aztec-codex-detailing-the-rise-and-fall-of-tenochtitlan-returns-to-mexico-for-the-first-time-in-nearly-two-centuries-180989536/"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Dolly Parton estate in feud with nephew over alleged ‘warfare’ threats",
+     "sources": 2,
+     "score": 47,
+     "event_id": "18524fe8a6bd",
+     "links": [
+      "https://www.theguardian.com/music/2026/sep/23/dolly-parton-estate-in-feud-with-nephew-over-alleged-warfare-threats",
+      "https://www.bbc.co.uk/news/articles/ckwyz06qg983o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "An Unprecedented Trove of Ancient Wooden Tools Uncovered at a Rock Shelter in Spain Shows Neanderthals Were Skilled Woodworkers",
+     "sources": 1,
+     "score": 41,
+     "event_id": "ed32fdd8eb37",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/an-unprecedented-trove-of-ancient-wooden-tools-uncovered-at-a-rock-shelter-in-spain-show-neanderthals-were-skilled-woodworkers-180989668/"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Were Two Ancient Chinese Astronomers Beheaded for Failing to Predict an Eclipse in 2134 B.C.E.? The Story May Be a Myth, but It Underscores the Real Risks of Interpreting Celestial Events",
+     "sources": 1,
+     "score": 44,
+     "event_id": "05aacc7a1a04",
+     "links": [
+      "https://www.smithsonianmag.com/history/were-two-chinese-astronomers-were-beheaded-for-failing-to-predict-an-eclipse-2134-bce-the-story-may-be-a-myth-but-it-underscores-the-real-risks-of-interpreting-celestial-events-180989715/"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "These Snakes Can Cartwheel Away From Danger. Scientists Just Uncovered How the Slithering Creatures Perform Their Acrobatic Rolls",
+     "sources": 1,
+     "score": 44,
+     "event_id": "ef31af8617ed",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/these-snakes-can-cartwheel-away-from-danger-scientists-just-uncovered-how-the-slithering-creatures-perform-their-acrobatic-rolls-180989720/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Astronomers Detect the Oldest Known Fast Radio Burst, Spewed From an Ancient Galaxy Just Three Billion Years After the Big Bang",
+     "sources": 1,
+     "score": 44,
+     "event_id": "3ab27da8b81a",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/astronomers-detect-the-oldest-fast-radio-burst-spewed-from-an-ancient-galaxy-just-three-billion-years-after-the-big-bang-180989730/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Where Exactly Were the First Humans to Be Captured in a Photograph Standing? Three Obsessed Filmmakers Solved the Nearly 200-Year-Old Mystery",
+     "sources": 1,
+     "score": 43,
+     "event_id": "3a1bbc567a4d",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Archaeologists May Have Solved the Mystery of a Roman Sarcophagus Excavated at Westminster Abbey in 1869",
+     "sources": 1,
+     "score": 48,
+     "event_id": "98e8250459db",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/",
+      "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Romans Made Color-Changing Glass With Ancient Nanotechnology. Scientists Just Discovered How to Replicate the 1,600-Year-Old Marvel",
+     "sources": 1,
+     "score": 40,
+     "event_id": "5c3abce3db29",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/romans-made-color-changing-glass-with-ancient-nanotechnology-scientists-just-discovered-how-to-replicate-the-1600-year-old-marvel-180989766/"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "After Sitting in a London Museum Since 1924, This Dinosaur Fossil Was Named a New Predatory Species—an 'Unconquered Female Warrior'",
+     "sources": 1,
+     "score": 40,
+     "event_id": "a8d9169ef0a2",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/after-sitting-in-a-london-museum-since-1924-this-dinosaur-fossil-was-named-a-new-predatory-species-an-unconquered-female-warrior-180989683/"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Scientists Say They've Found Preserved Dinosaur Blood in a 115-Million-Year-Old Fossil, but Not Everyone Is Convinced",
+     "sources": 1,
+     "score": 40,
+     "event_id": "088fc877c632",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/scientists-say-theyve-found-preserved-dinosaur-blood-in-a-115-millino-year-old-fossil-but-not-everyone-is-convinced-180989802/"
      ]
     }
    ]
@@ -6202,659 +7340,6 @@
    ]
   },
   {
-   "id": "95b4d8eb7452",
-   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-   "section": "tech",
-   "entities": [
-    "europe",
-    "openai",
-    "apple",
-    "trump",
-    "dots",
-    "china",
-    "alexander",
-    "amazon",
-    "networking",
-    "putin",
-    "anthropic",
-    "spacex",
-    "olympic",
-    "meta",
-    "nvidia",
-    "boeing",
-    "machines",
-    "russia",
-    "ukraine's",
-    "side",
-    "sure",
-    "unusual",
-    "miss",
-    "friday's",
-    "talarico",
-    "elon",
-    "techcrunch",
-    "senate",
-    "ukraine",
-    "beyond",
-    "starlink",
-    "musk",
-    "ambani",
-    "zoom",
-    "israel",
-    "skydance",
-    "billionaire",
-    "merging",
-    "deckers",
-    "embiricos"
-   ],
-   "event_ids": [
-    "95b4d8eb7452",
-    "1b1d0d455584",
-    "572dce99347e",
-    "5afad699a57c",
-    "814772bc922c",
-    "bc11900335c3",
-    "5f6c0a4a0fa6",
-    "1fcf8cc28156",
-    "d7a1c9894fff",
-    "467cf97b1acf",
-    "4f05eeb200ed",
-    "98c90d114a62",
-    "c53837b319d6",
-    "714d1f0b729f",
-    "490a23f57428",
-    "869772203883",
-    "1cc24ddce8a4",
-    "f4290472ac1a",
-    "658159bc4850",
-    "733411f27eae",
-    "b17a25d8c48a",
-    "ed05f4b9715a",
-    "959dcb673548",
-    "030e0762a24f",
-    "5a36fa44b304",
-    "2c9536723835",
-    "ab3660a4efa6",
-    "795b2f9bbb2b",
-    "a3c44a432a3d",
-    "9c464aa25357",
-    "18ba53fb28cc",
-    "cb9eec62df6f",
-    "e146a0ded080",
-    "4212a5c7dadf",
-    "3992fc4ed3eb",
-    "e406db6a9c15",
-    "8b4dc9f3945d",
-    "9b5397f83bd4",
-    "19c0d49aeb1d",
-    "e76559e70f02",
-    "2f7ad053a046",
-    "c85cd878b1f9",
-    "b110318e469b",
-    "fa6d08a49746",
-    "fb856fcd1cdb",
-    "b069f02850bf",
-    "6d4c38fea313",
-    "a1898e751ac5"
-   ],
-   "first_seen": "2026-09-14",
-   "last_seen": "2026-11-03",
-   "timeline": [
-    {
-     "date": "2026-09-14",
-     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-     "sources": 3,
-     "score": 55,
-     "event_id": "95b4d8eb7452",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-     "sources": 3,
-     "score": 50,
-     "event_id": "1b1d0d455584",
-     "links": [
-      "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
-     "sources": 3,
-     "score": 45,
-     "event_id": "572dce99347e",
-     "links": [
-      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-     "sources": 3,
-     "score": 52,
-     "event_id": "5afad699a57c",
-     "links": [
-      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-     "sources": 1,
-     "score": 42,
-     "event_id": "814772bc922c",
-     "links": [
-      "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-     "sources": 1,
-     "score": 46,
-     "event_id": "bc11900335c3",
-     "links": [
-      "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Trump gives top US science awards to Elon Musk and other tech executives",
-     "sources": 2,
-     "score": 44,
-     "event_id": "5f6c0a4a0fa6",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
-      "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Why Elon Musk is taking on India's richest man over Starlink",
-     "sources": 2,
-     "score": 49,
-     "event_id": "1fcf8cc28156",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-     "sources": 1,
-     "score": 46,
-     "event_id": "d7a1c9894fff",
-     "links": [
-      "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-     "sources": 2,
-     "score": 45,
-     "event_id": "467cf97b1acf",
-     "links": [
-      "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Elon Musk has donated over $276 million to Republican midterm efforts",
-     "sources": 2,
-     "score": 42,
-     "event_id": "4f05eeb200ed",
-     "links": [
-      "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-      "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
-     "sources": 3,
-     "score": 50,
-     "event_id": "98c90d114a62",
-     "links": [
-      "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
-      "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
-      "https://www.investing.com/news/stock-market-news/elon-musk-spends-366-million-on-2026-us-midterm-elections-4945225"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Elon Musk becomes biggest donor of US midterms cycle with $366m spent",
-     "sources": 2,
-     "score": 48,
-     "event_id": "c53837b319d6",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
-      "https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-     "sources": 4,
-     "score": 68,
-     "event_id": "714d1f0b729f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
-     "sources": 2,
-     "score": 44,
-     "event_id": "490a23f57428",
-     "links": [
-      "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
-      "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
-     "sources": 3,
-     "score": 56,
-     "event_id": "869772203883",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
-      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
-      "https://www.france24.com/en/americas/20261014-musk-says-us-govt-responsible-for-any-starshield-restrictions-affecting-ukraine"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-     "sources": 2,
-     "score": 41,
-     "event_id": "1cc24ddce8a4",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
-     "sources": 2,
-     "score": 44,
-     "event_id": "f4290472ac1a",
-     "links": [
-      "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
-      "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Elon Musk promises to give one SpaceX share to every child in the US",
-     "sources": 3,
-     "score": 57,
-     "event_id": "658159bc4850",
-     "links": [
-      "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
-      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink?utm_source=rss_feed",
-      "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "China’s milestone in polar region satellite broadband narrows gap with Elon Musk’s Starlink",
-     "sources": 1,
-     "score": 40,
-     "event_id": "733411f27eae",
-     "links": [
-      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink",
-      "https://www.scmp.com/tech/big-tech/article/3371010/tsmc-confirms-talks-elon-musk-over-texas-terafab-insists-operational-control"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Elon Musk says Tesla-SpaceX merger being considered",
-     "sources": 4,
-     "score": 56,
-     "event_id": "b17a25d8c48a",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-     "sources": 3,
-     "score": 52,
-     "event_id": "ed05f4b9715a",
-     "links": [
-      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Musk confirms SpaceX and Tesla exploring merger",
-     "sources": 4,
-     "score": 62,
-     "event_id": "959dcb673548",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
-      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
-     "sources": 8,
-     "score": 79,
-     "event_id": "030e0762a24f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Netflix, Zoom, Apple, Robinhood & more",
-     "sources": 1,
-     "score": 44,
-     "event_id": "5a36fa44b304",
-     "links": [
-      "https://www.cnbc.com/2026/10/21/wednesday-biggest-analyst-calls-like-spacex.html",
-      "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Tesla to report earnings after Elon Musk floats SpaceX merger plan",
-     "sources": 3,
-     "score": 53,
-     "event_id": "2c9536723835",
-     "links": [
-      "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
-      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-      "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "James Talarico fires back at Elon Musk in Texas Senate race feud",
-     "sources": 2,
-     "score": 46,
-     "event_id": "ab3660a4efa6",
-     "links": [
-      "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
-      "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Elon Musk invests about $1 billion in Skydance",
-     "sources": 3,
-     "score": 49,
-     "event_id": "795b2f9bbb2b",
-     "links": [
-      "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
-      "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
-      "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a3c44a432a3d",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
-      "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
-     "sources": 2,
-     "score": 44,
-     "event_id": "9c464aa25357",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
-     "sources": 2,
-     "score": 43,
-     "event_id": "18ba53fb28cc",
-     "links": [
-      "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
-      "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Ukraine troops report ongoing problems with Starlink satellite network",
-     "sources": 4,
-     "score": 68,
-     "event_id": "cb9eec62df6f",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
-      "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
-      "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, CoreWeave, Deckers, Unusual Machines & more",
-     "sources": 1,
-     "score": 44,
-     "event_id": "e146a0ded080",
-     "links": [
-      "https://www.cnbc.com/2026/10/23/big-wall-street-analyst-calls-friday-include-spacex-coreweave.html",
-      "https://www.cnbc.com/2026/10/23/stocks-making-the-biggest-moves-premarket-att-spacex-moderna-deckers-bloom-energy-and-more.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-     "sources": 2,
-     "score": 54,
-     "event_id": "4212a5c7dadf",
-     "links": [
-      "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
-      "https://www.cnbc.com/2026/10/22/wall-street-analyst-calls-nvidia-tesla-meta-spacex.html",
-      "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-premarket-tsla-meta-avex-spot.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-     "sources": 3,
-     "score": 50,
-     "event_id": "3992fc4ed3eb",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e406db6a9c15",
-     "links": [
-      "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-      "https://www.investing.com/news/commodities-news/trump-says-he-will-fix-any-starlink-access-problem-in-ukraine-4970057"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
-     "sources": 2,
-     "score": 41,
-     "event_id": "8b4dc9f3945d",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-     "sources": 2,
-     "score": 40,
-     "event_id": "9b5397f83bd4",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Ukraine says Starlink is back to normal after disruptions",
-     "sources": 2,
-     "score": 40,
-     "event_id": "19c0d49aeb1d",
-     "links": [
-      "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
-      "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Ukraine: Starlink satellite speeds restored to normal",
-     "sources": 3,
-     "score": 52,
-     "event_id": "e76559e70f02",
-     "links": [
-      "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
-      "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "https://www.investing.com/news/economy-news/ukraine-says-military-starlink-service-restored-after-10day-disruption-4970760"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-     "sources": 2,
-     "score": 42,
-     "event_id": "2f7ad053a046",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Russia to host first Olympic federation world event since Ukraine invasion",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c85cd878b1f9",
-     "links": [
-      "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Apple stock has become an anti-AI trade. Here’s why",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b110318e469b",
-     "links": [
-      "https://www.cnbc.com/2026/10/26/apple-stock-has-become-an-anti-ai-trade-heres-why.html",
-      "https://www.cnbc.com/2026/10/26/monday-biggest-wall-street-analyst-calls-like-tesla.html"
-     ]
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
-     "sources": 2,
-     "score": 43,
-     "event_id": "fa6d08a49746",
-     "links": [
-      "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Here are Wednesday's biggest analyst calls: SpaceX, Nvidia, Apple, AMD, Meta, Amazon, Tesla, Boeing & more",
-     "sources": 2,
-     "score": 54,
-     "event_id": "fb856fcd1cdb",
-     "links": [
-      "https://www.cnbc.com/2026/10/28/big-wall-street-stocks-covered-on-analyst-calls-include-spacex-boeing.html",
-      "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
-      "https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-     "sources": 4,
-     "score": 64,
-     "event_id": "b069f02850bf",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Russia in Africa: What is Putin hoping to achieve?",
-     "sources": 2,
-     "score": 44,
-     "event_id": "6d4c38fea313",
-     "links": [
-      "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/28/norway-and-finland-hold-rare-phone-call-with-putin-what-that-means?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Trump says US will halt $4 billion in aid to Israel after end of the year",
-     "sources": 3,
-     "score": 46,
-     "event_id": "a1898e751ac5",
-     "links": [
-      "https://www.france24.com/en/middle-east/20261103-trump-says-us-will-halt-4-billion-in-aid-to-israel-after-end-of-this-year",
-      "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
-      "https://www.investing.com/news/commodities-news/oil-rises-after-reported-us-strike-on-irans-qeshm-island-4993349"
-     ]
-    }
-   ]
-  },
-  {
    "id": "117b4062144e",
    "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
    "section": "science",
@@ -8070,403 +8555,6 @@
       "https://www.theguardian.com/uk-news/2026/nov/03/king-charles-commonwealth-summit-campaigners-apology-slavery",
       "https://www.aljazeera.com/news/2026/11/3/uks-king-charles-expresses-profound-sorrow-over-transatlantic-slave-era?traffic_source=rss",
       "https://www.france24.com/en/europe/20261103-king-charles-says-he-has-greater-understanding-of-horrors-of-slavery-falls-short-of-apology"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "1301430cb05f",
-   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-   "section": "culture",
-   "entities": [
-    "since",
-    "dinosaur",
-    "marvel",
-    "celestial",
-    "scientists",
-    "were",
-    "still",
-    "cartwheel",
-    "named",
-    "nanotechnology",
-    "shelter",
-    "codex",
-    "fossil",
-    "ancient",
-    "romans",
-    "unconquered",
-    "museum",
-    "glass",
-    "risks",
-    "discovered",
-    "detect",
-    "female",
-    "warrior",
-    "fast",
-    "photograph",
-    "made",
-    "filmmakers",
-    "color-changing",
-    "astronomers",
-    "year-old",
-    "exactly",
-    "abbey",
-    "uncovered",
-    "predatory",
-    "solved",
-    "archaeologists",
-    "centuries",
-    "sarcophagus",
-    "billion",
-    "bring"
-   ],
-   "event_ids": [
-    "1301430cb05f",
-    "510624bdc84f",
-    "f98076571ee0",
-    "5bb13a447624",
-    "8f63c883fb07",
-    "4d5d929d3f9b",
-    "13c0684b4af3",
-    "92a48ee35a16",
-    "dbe2fb28d382",
-    "200127734810",
-    "d314b5251d2f",
-    "38850f6a5dfa",
-    "f14aa1a495df",
-    "bdbcab469084",
-    "bcab6080a3cb",
-    "cd253afe8e24",
-    "79091fcbef11",
-    "a7bc879393f4",
-    "4d7f8e0023db",
-    "2b08b8fb7a6d",
-    "18524fe8a6bd",
-    "ed32fdd8eb37",
-    "05aacc7a1a04",
-    "ef31af8617ed",
-    "3ab27da8b81a",
-    "3a1bbc567a4d",
-    "98e8250459db",
-    "5c3abce3db29",
-    "a8d9169ef0a2"
-   ],
-   "first_seen": "2026-08-25",
-   "last_seen": "2026-11-02",
-   "timeline": [
-    {
-     "date": "2026-08-25",
-     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-     "sources": 5,
-     "score": 71,
-     "event_id": "1301430cb05f",
-     "links": [
-      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
-      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-25",
-     "headline": "Remembering Dolly Parton: 8 facts about the icon",
-     "sources": 6,
-     "score": 79,
-     "event_id": "510624bdc84f",
-     "links": [
-      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton – a life in pictures",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f98076571ee0",
-     "links": [
-      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
-     "sources": 3,
-     "score": 68,
-     "event_id": "5bb13a447624",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
-     "sources": 4,
-     "score": 78,
-     "event_id": "8f63c883fb07",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
-      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
-     "sources": 6,
-     "score": 83,
-     "event_id": "4d5d929d3f9b",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
-      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
-     "sources": 6,
-     "score": 86,
-     "event_id": "13c0684b4af3",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-02676-1",
-      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter",
-     "sources": 2,
-     "score": 54,
-     "event_id": "92a48ee35a16",
-     "links": [
-      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
-      "https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "This week's quiz includes two Dolly Parton questions, because she deserves it",
-     "sources": 2,
-     "score": 47,
-     "event_id": "dbe2fb28d382",
-     "links": [
-      "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
-      "https://www.theguardian.com/music/2026/aug/27/dolly-parton-dollywood"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Briefing Chat: How Dolly Parton left her mark on science",
-     "sources": 3,
-     "score": 66,
-     "event_id": "200127734810",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-02732-w",
-      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
-      "https://www.theguardian.com/music/2026/aug/28/dolly-parton-sister-stella-tribute-act-of-kindness-cancer-drugs"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan",
-     "sources": 2,
-     "score": 45,
-     "event_id": "d314b5251d2f",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
-      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-     "sources": 3,
-     "score": 58,
-     "event_id": "38850f6a5dfa",
-     "links": [
-      "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
-      "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
-      "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Dolly Parton laid to rest alongside husband in Nashville",
-     "sources": 2,
-     "score": 43,
-     "event_id": "f14aa1a495df",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief",
-     "sources": 1,
-     "score": 40,
-     "event_id": "bdbcab469084",
-     "links": [
-      "https://www.smithsonianmag.com/innovation/many-americans-covid-still-chronic-disabling-disease-scientists-working-tirelessly-bring-them-relief-180989290/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Festival honouring Dolly Parton set for Nashville and London",
-     "sources": 3,
-     "score": 55,
-     "event_id": "bcab6080a3cb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
-      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History",
-     "sources": 1,
-     "score": 44,
-     "event_id": "cd253afe8e24",
-     "links": [
-      "https://www.smithsonianmag.com/smithsonian-institution/kermit-the-frog-was-just-trying-to-put-on-a-variety-show-fifty-years-later-the-muppets-are-some-of-the-biggest-stars-in-television-history-180989451/"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "For Decades, Scientists Thought an 'American Cheetah' Once Roamed North America. Turns Out the Extinct Cat Wasn't a Cheetah",
-     "sources": 1,
-     "score": 41,
-     "event_id": "79091fcbef11",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/for-decades-scientists-thought-an-american-cheetah-once-roamed-north-america-ancient-turns-out-the-extinct-cat-wasnt-a-cheetah-180989465/"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Scientists Find a Trove of Denisovan Fossils and Tools in Southwest China, Giving an Unprecedented Glimpse Into Our Extinct Cousins' Lives",
-     "sources": 1,
-     "score": 45,
-     "event_id": "a7bc879393f4",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/scientists-find-a-trove-of-denisovan-fossils-and-tools-in-southwest-china-giving-an-unprecendented-glimpse-into-our-extinct-cousins-lives-180989483/"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "A Rare Marble Sculpture by America’s First Professional Female Sculptor Sat Hidden in Plain Sight for Decades in an English Garden",
-     "sources": 1,
-     "score": 43,
-     "event_id": "4d7f8e0023db",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/a-rare-marble-sculpture-by-americas-first-professional-female-sculptor-sat-hidden-in-plain-sight-for-decades-in-english-garden-180989508/"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "A Rare Aztec Codex Detailing the Rise and Fall of Tenochtitlan Returns to Mexico for the First Time in Nearly Two Centuries",
-     "sources": 1,
-     "score": 41,
-     "event_id": "2b08b8fb7a6d",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/a-rare-aztec-codex-detailing-the-rise-and-fall-of-tenochtitlan-returns-to-mexico-for-the-first-time-in-nearly-two-centuries-180989536/"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Dolly Parton estate in feud with nephew over alleged ‘warfare’ threats",
-     "sources": 2,
-     "score": 47,
-     "event_id": "18524fe8a6bd",
-     "links": [
-      "https://www.theguardian.com/music/2026/sep/23/dolly-parton-estate-in-feud-with-nephew-over-alleged-warfare-threats",
-      "https://www.bbc.co.uk/news/articles/ckwyz06qg983o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "An Unprecedented Trove of Ancient Wooden Tools Uncovered at a Rock Shelter in Spain Shows Neanderthals Were Skilled Woodworkers",
-     "sources": 1,
-     "score": 41,
-     "event_id": "ed32fdd8eb37",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/an-unprecedented-trove-of-ancient-wooden-tools-uncovered-at-a-rock-shelter-in-spain-show-neanderthals-were-skilled-woodworkers-180989668/"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Were Two Ancient Chinese Astronomers Beheaded for Failing to Predict an Eclipse in 2134 B.C.E.? The Story May Be a Myth, but It Underscores the Real Risks of Interpreting Celestial Events",
-     "sources": 1,
-     "score": 44,
-     "event_id": "05aacc7a1a04",
-     "links": [
-      "https://www.smithsonianmag.com/history/were-two-chinese-astronomers-were-beheaded-for-failing-to-predict-an-eclipse-2134-bce-the-story-may-be-a-myth-but-it-underscores-the-real-risks-of-interpreting-celestial-events-180989715/"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "These Snakes Can Cartwheel Away From Danger. Scientists Just Uncovered How the Slithering Creatures Perform Their Acrobatic Rolls",
-     "sources": 1,
-     "score": 44,
-     "event_id": "ef31af8617ed",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/these-snakes-can-cartwheel-away-from-danger-scientists-just-uncovered-how-the-slithering-creatures-perform-their-acrobatic-rolls-180989720/"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Astronomers Detect the Oldest Known Fast Radio Burst, Spewed From an Ancient Galaxy Just Three Billion Years After the Big Bang",
-     "sources": 1,
-     "score": 44,
-     "event_id": "3ab27da8b81a",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/astronomers-detect-the-oldest-fast-radio-burst-spewed-from-an-ancient-galaxy-just-three-billion-years-after-the-big-bang-180989730/"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Where Exactly Were the First Humans to Be Captured in a Photograph Standing? Three Obsessed Filmmakers Solved the Nearly 200-Year-Old Mystery",
-     "sources": 1,
-     "score": 43,
-     "event_id": "3a1bbc567a4d",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Archaeologists May Have Solved the Mystery of a Roman Sarcophagus Excavated at Westminster Abbey in 1869",
-     "sources": 1,
-     "score": 48,
-     "event_id": "98e8250459db",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/",
-      "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Romans Made Color-Changing Glass With Ancient Nanotechnology. Scientists Just Discovered How to Replicate the 1,600-Year-Old Marvel",
-     "sources": 1,
-     "score": 40,
-     "event_id": "5c3abce3db29",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/romans-made-color-changing-glass-with-ancient-nanotechnology-scientists-just-discovered-how-to-replicate-the-1600-year-old-marvel-180989766/"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "After Sitting in a London Museum Since 1924, This Dinosaur Fossil Was Named a New Predatory Species—an 'Unconquered Female Warrior'",
-     "sources": 1,
-     "score": 40,
-     "event_id": "a8d9169ef0a2",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/after-sitting-in-a-london-museum-since-1924-this-dinosaur-fossil-was-named-a-new-predatory-species-an-unconquered-female-warrior-180989683/"
      ]
     }
    ]
@@ -20197,5 +20285,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T12:24:21+00:00"
+ "updated": "2026-11-04T15:19:54+00:00"
 }
