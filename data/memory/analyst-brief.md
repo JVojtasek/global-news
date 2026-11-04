@@ -1,4 +1,4 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-11-03
+# ANALYTICKÉ ZADÁNÍ — 2026-11-04
 
 Paměť obsahuje **176 vláken**. Aktivních za posledních 14 dní: **47**.
 
@@ -7,9 +7,8 @@ Paměť obsahuje **176 vláken**. Aktivních za posledních 14 dní: **47**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 82 dní · 60 záznamů
+- rubrika `world` · sledováno 83 dní · 60 záznamů
 - časová osa:
-  - **2026-10-28** (2 zdrojů) 'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'
   - **2026-10-28** (2 zdrojů) Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition
   - **2026-10-29** (1 zdrojů) Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago
   - **2026-10-30** (2 zdrojů) Netanyahu attacks Israel’s Arab parties as he falls short of majority
@@ -19,6 +18,21 @@ Paměť obsahuje **176 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-10-30** (1 zdrojů) For Over Four Years, the Hirshhorn Worked to Revitalize Its Sculpture Garden. Today, It's Home to a 'King and Queen,' a 'Wish Tree' and a 55,000-Pound Vertical Swimming Pool Artwork
   - **2026-10-30** (1 zdrojů) Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
   - **2026-11-03** (1 zdrojů) Scientists Feared This Cute but Venomous Primate Had Gone Extinct Nearly 100 Years Ago. It Was Hiding in Plain Sight All Along
+  - **2026-11-04** (1 zdrojů) Archaeologists in Scotland Discovered the Skeleton of a Roman-Era Man Who Was Decapitated Nearly 2,000 Years Ago. Now, You Can See What He Might Have Looked Like During His Lifetime
+
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 78 dní · 60 záznamů
+- časová osa:
+  - **2026-10-24** (1 zdrojů) Aston Villa v Manchester City: Premier League – live
+  - **2026-10-24** (3 zdrojů) Jackson stars with two goals - player ratings for Aston Villa v Man City
+  - **2026-10-25** (2 zdrojů) Terland strikes late as United end Manchester City’s winning start in WSL
+  - **2026-10-26** (2 zdrojů) Manchester United crisis: What are the top five problems facing the club?
+  - **2026-10-30** (2 zdrojů) Chelsea vs Manchester United: Premier League – teams, prediction, lineups
+  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
+  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United: Premier League – live
+  - **2026-11-02** (2 zdrojů) Football: China refuses to air Real Madrid game after Mbappé comment
+  - **2026-11-02** (2 zdrojů) Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
+  - **2026-11-04** (3 zdrojů) Man Utd beat Roma - the other great Champions League comebacks
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 86 dní · 60 záznamů
@@ -62,20 +76,6 @@ Paměť obsahuje **176 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-11-03** (2 zdrojů) Zelenskyy to make unexpected visit to Berlin for talks with Merz – Europe live
   - **2026-11-03** (2 zdrojů) What US midterm elections mean for Ukraine, Iran and elsewhere
 
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 76 dní · 60 záznamů
-- časová osa:
-  - **2026-10-24** (2 zdrojů) Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
-  - **2026-10-24** (1 zdrojů) Aston Villa v Manchester City: Premier League – live
-  - **2026-10-24** (3 zdrojů) Jackson stars with two goals - player ratings for Aston Villa v Man City
-  - **2026-10-25** (2 zdrojů) Terland strikes late as United end Manchester City’s winning start in WSL
-  - **2026-10-26** (2 zdrojů) Manchester United crisis: What are the top five problems facing the club?
-  - **2026-10-30** (2 zdrojů) Chelsea vs Manchester United: Premier League – teams, prediction, lineups
-  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
-  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United: Premier League – live
-  - **2026-11-02** (2 zdrojů) Football: China refuses to air Real Madrid game after Mbappé comment
-  - **2026-11-02** (2 zdrojů) Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
-
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 84 dní · 60 záznamů
 - časová osa:
@@ -96,9 +96,9 @@ Paměť obsahuje **176 vláken**. Aktivních za posledních 14 dní: **47**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **Manzambi catches eye as Villa beat Spurs - player ratings** — naposledy 2026-09-19, celkem 3 záznamů
 - **Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'** — naposledy 2026-09-18, celkem 3 záznamů
 - **Shelton beats Alcaraz in latest-ever US Open finish to reach semis** — naposledy 2026-09-14, celkem 4 záznamů
 - **Hong Kong's Tiananmen activists guilty in national security trial** — naposledy 2026-09-11, celkem 6 záznamů
 - **Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention** — naposledy 2026-09-10, celkem 4 záznamů
 - **Odegaard and Saka star - player ratings for Arsenal v Chelsea** — naposledy 2026-09-10, celkem 3 záznamů
-- **Favourite Kane makes Ballon d'Or shortlist** — naposledy 2026-09-09, celkem 3 záznamů

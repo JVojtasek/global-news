@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-11-03
+# ZADÁNÍ PRO REDAKCI — 2026-11-04
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -86,12 +86,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### sleep
-- rubrika: `health`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### why relationships fail
+- rubrika: `questions`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Sleep — <https://en.wikipedia.org/wiki/Sleep>
-  - Sleep Token — <https://en.wikipedia.org/wiki/Sleep_Token>
-  - Sleep, Dearie, Sleep — <https://en.wikipedia.org/wiki/Sleep,_Dearie,_Sleep>
+  - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
+  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
+  - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
 
 ---
 
@@ -118,7 +118,6 @@
 ```
 VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
 rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-24  (2 zdrojů, síla 43)  Israel begins demolitions in West Bank
   2026-10-25  (2 zdrojů, síla 40)  Israel to close occupied West Bank crossings as it locks down Hebron
   2026-10-25  (2 zdrojů, síla 42)  Israeli soldiers raze neighbourhood in Hebron, driving families from homes
   2026-10-25  (3 zdrojů, síla 52)  Israel to close all West Bank land crossings on election day
@@ -138,35 +137,36 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-10-30  (1 zdrojů, síla 44)  For Over Four Years, the Hirshhorn Worked to Revitalize Its Sculpture Garden. Today, It's Home to a 'King and Queen,' a 'Wish Tree' and a 55,000-Pound Vertical Swimming Pool Artwork
   2026-10-30  (1 zdrojů, síla 40)  Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
   2026-11-03  (1 zdrojů, síla 44)  Scientists Feared This Cute but Venomous Primate Had Gone Extinct Nearly 100 Years Ago. It Was Hiding in Plain Sight All Along
+  2026-11-04  (1 zdrojů, síla 44)  Archaeologists in Scotland Discovered the Skeleton of a Roman-Era Man Who Was Decapitated Nearly 2,000 Years Ago. Now, You Can See What He Might Have Looked Like During His Lifetime
 ```
 
-### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
+- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-17  (2 zdrojů, síla 44)  Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says
-  2026-10-19  (4 zdrojů, síla 66)  Trump says suspension of Russia sanctions is to keep peace negotiations going
-  2026-10-19  (2 zdrojů, síla 45)  Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump
-  2026-10-20  (2 zdrojů, síla 42)  US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
-  2026-10-21  (4 zdrojů, síla 66)  US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
-  2026-10-21  (2 zdrojů, síla 50)  Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
-  2026-10-21  (1 zdrojů, síla 45)  ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
-  2026-10-21  (4 zdrojů, síla 70)  Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
-  2026-10-22  (2 zdrojů, síla 44)  Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live
-  2026-10-26  (3 zdrojů, síla 63)  Donald Trump has been a disaster for rural America | Steven Greenhouse
-  2026-10-26  (2 zdrojů, síla 52)  Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours
-  2026-10-26  (2 zdrojů, síla 44)  What Germany thinks of carmaker Audi's $4 billion deal with Trump
-  2026-10-26  (2 zdrojů, síla 41)  Trump announces Audi will build $4 billion factory in US
-  2026-10-29  (2 zdrojů, síla 43)  Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
-  2026-10-29  (2 zdrojů, síla 44)  Russian drone attack on Ukrainian train station kills at least 14, officials say
-  2026-11-01  (2 zdrojů, síla 43)  Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
-  2026-11-03  (3 zdrojů, síla 50)  Russian strikes kill 26 in Ukraine after longest ceasefire ends
-  2026-11-03  (2 zdrojů, síla 45)  Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
-  2026-11-03  (2 zdrojů, síla 48)  Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
-  2026-11-03  (2 zdrojů, síla 44)  Ukraine’s drone strikes spur hasty Russian plans for underground data centers
+VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
+rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
+  2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting
+  2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal
+  2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record
+  2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
+  2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
+  2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win
+  2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory
+  2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
+  2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
+  2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
+  2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live
+  2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City
+  2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL
+  2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?
+  2026-10-30  (2 zdrojů, síla 42)  Chelsea vs Manchester United: Premier League – teams, prediction, lineups
+  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
+  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United: Premier League – live
+  2026-11-02  (2 zdrojů, síla 44)  Football: China refuses to air Real Madrid game after Mbappé comment
+  2026-11-02  (2 zdrojů, síla 40)  Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
+  2026-11-04  (3 zdrojů, síla 57)  Man Utd beat Roma - the other great Champions League comebacks
 ```
 
 ---
