@@ -820,46 +820,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "united",
-    "leeds",
-    "football",
-    "chelsea",
-    "forest",
-    "terland",
-    "premier",
+    "phil",
     "villa",
-    "howe",
-    "aston",
-    "guardiola",
-    "wilson",
-    "greenwood",
-    "real",
-    "barcelona's",
+    "china",
     "isak",
-    "a-leagues",
-    "ronaldo",
-    "tuchel",
+    "forest",
+    "miguel",
+    "barcelona's",
     "jonathan",
+    "wilcox",
+    "roma",
+    "city",
+    "martinez",
+    "champions",
+    "troy's",
+    "beckett",
+    "aston",
+    "tuchel",
+    "european",
+    "jackson",
     "glasner",
     "burnham",
     "uk's",
-    "manzambi",
-    "city",
-    "roma",
-    "china",
-    "phil",
-    "jackson",
-    "brighton",
-    "league",
-    "carrick",
-    "martinez",
-    "troy's",
+    "howe",
+    "premier",
+    "football",
+    "photos",
+    "madrid",
+    "terland",
     "gakpo",
-    "beckett",
-    "european",
-    "champions",
-    "wilcox",
-    "madrid"
+    "ronaldo",
+    "manzambi",
+    "chelsea",
+    "leeds",
+    "greenwood",
+    "united",
+    "tenerife",
+    "real",
+    "brighton",
+    "wilson",
+    "carrick"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1001,22 +1001,12 @@
     "05fad3115699",
     "bcdcf00da7f9",
     "bb3c9fbeb219",
-    "1b3bc8f8e7dc"
+    "1b3bc8f8e7dc",
+    "e36f326cdcdc"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-11-04",
    "timeline": [
-    {
-     "date": "2026-10-02",
-     "headline": "For too long, only the right has expanded the boundaries of what governments can do. Can Burnham change that? | Andy Beckett",
-     "sources": 2,
-     "score": 46,
-     "event_id": "dde1d964eb7c",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/oct/02/andy-burnham-labour-talk-big-changes",
-      "https://www.theguardian.com/technology/2026/oct/02/lobbyist-palantir-martha-dalton-andy-burnham"
-     ]
-    },
     {
      "date": "2026-10-02",
      "headline": "Manchester City’s England players are worried about their futures, admits Tuchel",
@@ -1692,6 +1682,17 @@
       "https://www.bbc.co.uk/sport/football/articles/c64g1dg0d84ko?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss",
       "https://www.theguardian.com/football/2026/nov/03/barcelona-aston-villa-champions-league-match-report"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Photos: Champions League and Tenerife fans pay tribute to De Miguel",
+     "sources": 2,
+     "score": 42,
+     "event_id": "e36f326cdcdc",
+     "links": [
+      "https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/nov/03/tenerife-footballer-jesus-de-miguel-hospital-collision"
      ]
     }
    ]
@@ -2609,37 +2610,46 @@
    "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
    "section": "world",
    "entities": [
-    "texas",
-    "gulf",
-    "hegseth",
-    "rove",
-    "halloween",
-    "secretary",
-    "massie",
+    "maine",
     "georgia",
+    "hegseth",
+    "massie",
+    "halloween",
     "trump",
-    "karl",
     "el-sayed",
-    "ossoff",
-    "democrat",
-    "republican",
-    "cornyn",
-    "michigan",
-    "paxton",
-    "november",
-    "rogers",
-    "tankers",
+    "secretary",
     "china",
-    "collins",
-    "mike",
-    "iran",
-    "stevens",
-    "pentagon",
-    "wife",
-    "defense",
     "hormuz",
+    "stevens",
+    "josh",
+    "tankers",
+    "republican",
+    "karl",
+    "democrat",
+    "troy",
+    "defense",
+    "democratic",
+    "jackson",
+    "november",
+    "iran",
+    "michigan",
+    "rove",
+    "pentagon",
+    "rogers",
+    "gulf",
+    "turek",
+    "susan",
+    "democrats",
+    "ossoff",
+    "haley",
+    "cornyn",
+    "wife",
     "senate",
-    "haley"
+    "texas",
+    "paxton",
+    "collins",
+    "iowa",
+    "mike"
    ],
    "event_ids": [
     "7da4e07716c7",
@@ -2663,7 +2673,10 @@
     "7cf106926362",
     "cc6d5c271c5b",
     "94f3a475eae4",
-    "b0936e6dce0d"
+    "b0936e6dce0d",
+    "43992b5f3fd4",
+    "0c2e960b0584",
+    "835c8d9b6884"
    ],
    "first_seen": "2026-09-11",
    "last_seen": "2026-11-04",
@@ -2917,6 +2930,42 @@
       "https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins",
       "https://www.france24.com/en/video/20261104-midterms-abdul-el-sayed-mike-rogers-face-off-for-michigan-senate-seat",
       "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Democratic rising star Ossoff projected to hold Georgia seat",
+     "sources": 3,
+     "score": 64,
+     "event_id": "43992b5f3fd4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/americas/20261104-key-us-senate-results-democrats-wrest-north-and-south-carolina-from-the-republicans",
+      "https://www.france24.com/en/video/20261104-replay-georgia-senator-jon-ossoff-wins-reelection"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
+     "sources": 3,
+     "score": 57,
+     "event_id": "0c2e960b0584",
+     "links": [
+      "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
+      "https://www.dw.com/en/us-midterms-democrats-gain-control-of-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Democrat Josh Turek wins the Senate seat in Iowa",
+     "sources": 2,
+     "score": 47,
+     "event_id": "835c8d9b6884",
+     "links": [
+      "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek",
+      "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss"
      ]
     }
    ]
@@ -3180,6 +3229,35 @@
       "https://www.dw.com/en/us-midterms-democrat-wins-north-carolina-as-first-polls-close/live-79829440?maca=en-rss-en-all-1573-rdf",
       "https://www.npr.org/2026/11/03/g-s1-150958/north-carolina-senate-results",
       "https://www.france24.com/en/video/20261104-us-midterms-democrats-flip-senate-seat-in-north-carolina"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "788172991436",
+   "title": "South Carolina elects Democratic senator for first time in almost three decades",
+   "section": "world",
+   "entities": [
+    "carolina",
+    "democratic",
+    "south"
+   ],
+   "event_ids": [
+    "788172991436"
+   ],
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-04",
+   "timeline": [
+    {
+     "date": "2026-11-04",
+     "headline": "South Carolina elects Democratic senator for first time in almost three decades",
+     "sources": 2,
+     "score": 60,
+     "event_id": "788172991436",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/11/4/kansas-elects-democrat-adam-hamilton?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/11/4/democrat-annie-andrews-flips-south-carolinas-senate-seat?traffic_source=rss"
      ]
     }
    ]
@@ -19941,5 +20019,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T03:21:38+00:00"
+ "updated": "2026-11-04T06:27:41+00:00"
 }

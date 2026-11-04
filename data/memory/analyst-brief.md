@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-04
 
-Paměť obsahuje **177 vláken**. Aktivních za posledních 14 dní: **47**.
+Paměť obsahuje **178 vláken**. Aktivních za posledních 14 dní: **47**.
 
 ---
 
@@ -23,7 +23,6 @@ Paměť obsahuje **177 vláken**. Aktivních za posledních 14 dní: **47**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 78 dní · 60 záznamů
 - časová osa:
-  - **2026-10-24** (1 zdrojů) Aston Villa v Manchester City: Premier League – live
   - **2026-10-24** (3 zdrojů) Jackson stars with two goals - player ratings for Aston Villa v Man City
   - **2026-10-25** (2 zdrojů) Terland strikes late as United end Manchester City’s winning start in WSL
   - **2026-10-26** (2 zdrojů) Manchester United crisis: What are the top five problems facing the club?
@@ -33,6 +32,7 @@ Paměť obsahuje **177 vláken**. Aktivních za posledních 14 dní: **47**.
   - **2026-11-02** (2 zdrojů) Football: China refuses to air Real Madrid game after Mbappé comment
   - **2026-11-02** (2 zdrojů) Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
   - **2026-11-04** (3 zdrojů) Man Utd beat Roma - the other great Champions League comebacks
+  - **2026-11-04** (2 zdrojů) Photos: Champions League and Tenerife fans pay tribute to De Miguel
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 87 dní · 60 záznamů

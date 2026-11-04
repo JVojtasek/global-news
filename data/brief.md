@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **8**
+- Článků v zásobě: **7**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -32,7 +32,24 @@
     <https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html>
     > North Korea rejected U.S. allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.
 
-### 2. Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates
+### 2. Democratic rising star Ossoff projected to hold Georgia seat
+- id události: `43992b5f3fd4`  ·  rubrika: `world`  ·  skóre: 64  ·  nezávislých zdrojů: 3
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Democratic rising star Ossoff projected to hold Georgia seat
+    <https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss>
+    > Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.
+  - **France 24** — Key US Senate results: Democrats win upper chamber with victories in Texas and Iowa
+    <https://www.france24.com/en/americas/20261104-key-us-senate-results-democrats-wrest-north-and-south-carolina-from-the-republicans>
+    > Democrats won control of the Senate in the US midterm elections Tuesday, with initial results showing the party securing shock victories in Texas, Ohio, North and South Carolina, Kansas and Iowa.
+  - **France 24** — REPLAY: Georgia Senator Jon Ossoff wins reelection
+    <https://www.france24.com/en/video/20261104-replay-georgia-senator-jon-ossoff-wins-reelection>
+    > Georgia Senator Jon Ossoff was reelected Tuesday to a second term, holding a key seat for Democrats by defeating Republican Representative Mike Collins in a race that catapulted the Senate’s youngest member to the forefront of his party’s national stars as it looks to stymie Pres
+  - **Al Jazeera** — Ossoff wins reelection in Georgia holding Senate seat for Democrats
+    <https://www.aljazeera.com/video/newsfeed/2026/11/4/ossoff-wins-reelection-in-georgia-holding-senate-seat-for-democrats?traffic_source=rss>
+    > Jon Ossoff has been reelected to the Senate in Georgia holding on to a key seat for the Democrats.
+
+### 3. Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates
 - id události: `f5b6d367ab3d`  ·  rubrika: `world`  ·  skóre: 63  ·  nezávislých zdrojů: 3
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -48,22 +65,6 @@
   - **Al Jazeera** — Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers
     <https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss>
     > US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race.
-
-### 3. Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack
-- id události: `49fc6e1403de`  ·  rubrika: `world`  ·  skóre: 62  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **The Guardian World** — Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack
-    <https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency>
-    > Cryptocurrency exchange says withdrawals expected to resume on Sunday as FBI blames North Korean state-sponsored group TraderTraitor Cryptocurrency exchange Binance says it has replaced 90% of the ⁠amount stolen after a record $6.3bn hack of its platform by a group the FBI identi
-  - **DW News** — FBI says North Korea behind $6 billion Binance crypto theft
-    <https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-all-1573-rdf>
-    > The FBI said the theft was tied to "malicious cyber activity" by an entity known as TraderTraitor, the same actors behind a $1.5 billion Bybit hack last year.
-  - **Al Jazeera** — FBI blames North Korea for record $6.3bn crypto heist
-    <https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss>
-    > Crypto firm Binance says it has covered 90 percent of losses from the multibillion-dollar hack.
-  - **Investing.com** — FBI links record $6.3 billion Binance crypto theft to North Korea
-    <https://www.investing.com/news/economy-news/fbi-links-record-63-billion-binance-crypto-theft-to-north-korea-4989353>
 
 ### 4. Asian Cup postponed in wake of attacks on Saudi Arabia
 - id události: `bfad2b5951c1`  ·  rubrika: `sport`  ·  skóre: 62  ·  nezávislých zdrojů: 4
@@ -89,9 +90,9 @@
 ### why relationships fail
 - rubrika: `questions`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
   - Five whys — <https://en.wikipedia.org/wiki/Five_whys>
   - Fianna Fáil — <https://en.wikipedia.org/wiki/Fianna_Fáil>
+  - Love–hate relationship — <https://en.wikipedia.org/wiki/Love–hate_relationship>
 
 ---
 
@@ -147,7 +148,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-20  (2 zdrojů, síla 46)  Audit regulator looking into Manchester City accounting
   2026-10-20  (2 zdrojů, síla 40)  PSG end Barcelona's winning run as Liverpool fight back against Villarreal
   2026-10-21  (3 zdrojů, síla 58)  No jeopardy but loads of fun - Champions League sets new goals record
   2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
@@ -167,6 +167,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-11-02  (2 zdrojů, síla 44)  Football: China refuses to air Real Madrid game after Mbappé comment
   2026-11-02  (2 zdrojů, síla 40)  Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
   2026-11-04  (3 zdrojů, síla 57)  Man Utd beat Roma - the other great Champions League comebacks
+  2026-11-04  (2 zdrojů, síla 42)  Photos: Champions League and Tenerife fans pay tribute to De Miguel
 ```
 
 ---
