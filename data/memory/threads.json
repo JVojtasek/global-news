@@ -3277,46 +3277,46 @@
    "title": "Trump signs order to rename Lake Ontario as Lake America",
    "section": "world",
    "entities": [
+    "canadian",
+    "europe",
+    "were",
+    "bombardier",
+    "apple",
+    "politics",
+    "weekly",
+    "weeks",
     "mapquest",
-    "beluga",
-    "strasbourg",
+    "brazil",
     "south",
-    "newsbrief",
+    "maps",
+    "carney",
+    "america",
+    "belarus",
+    "beiser",
+    "canada's",
+    "trump",
+    "serbia",
+    "park",
+    "defunct",
+    "largely",
+    "korea",
     "ukraine",
     "rescued",
-    "lost",
     "google",
-    "canada's",
-    "europe",
-    "serbia",
-    "brazil",
     "eu's",
-    "four",
-    "iran",
-    "were",
-    "beiser",
-    "politics",
-    "marine",
-    "belarus",
-    "moved",
+    "beluga",
     "pyongyang",
-    "animals",
-    "korea",
-    "weekly",
-    "america",
-    "maps",
-    "whales",
-    "congress",
-    "bombardier",
-    "trump",
-    "park",
-    "carney",
-    "weeks",
-    "apple",
-    "defunct",
-    "canadian",
+    "lost",
+    "mark",
+    "strasbourg",
+    "moved",
+    "marine",
     "robert",
-    "mark"
+    "animals",
+    "whales",
+    "four",
+    "congress",
+    "newsbrief"
    ],
    "event_ids": [
     "fc871ed3ce64",
@@ -3354,7 +3354,8 @@
     "b797a5975f9e",
     "e61fb9bb11a0",
     "e81a615f3e6a",
-    "cc4a4a4d0e80"
+    "cc4a4a4d0e80",
+    "daf943d63ee1"
    ],
    "first_seen": "2026-08-27",
    "last_seen": "2026-11-04",
@@ -3763,6 +3764,18 @@
       "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
       "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
       "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "US midterms: 'Largely true' Iran war led to loss, Trump says",
+     "sources": 2,
+     "score": 47,
+     "event_id": "daf943d63ee1",
+     "links": [
+      "https://www.dw.com/en/us-midterms-largely-true-iran-war-led-to-loss-trump-says/live-79829440?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss"
      ]
     }
    ]
@@ -20310,5 +20323,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T18:20:30+00:00"
+ "updated": "2026-11-04T21:19:06+00:00"
 }
