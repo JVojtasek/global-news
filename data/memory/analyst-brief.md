@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-05
 
-Paměť obsahuje **182 vláken**. Aktivních za posledních 14 dní: **52**.
+Paměť obsahuje **183 vláken**. Aktivních za posledních 14 dní: **53**.
 
 ---
 
@@ -34,6 +34,20 @@ Paměť obsahuje **182 vláken**. Aktivních za posledních 14 dní: **52**.
   - **2026-11-01** (2 zdrojů) Wales hit by Australia century in World Cup record defeat
   - **2026-11-05** (2 zdrojů) England captain Kane signs new Bayern contract
 
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 79 dní · 60 záznamů
+- časová osa:
+  - **2026-10-30** (2 zdrojů) Chelsea vs Manchester United: Premier League – teams, prediction, lineups
+  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
+  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United: Premier League – live
+  - **2026-11-02** (2 zdrojů) Football: China refuses to air Real Madrid game after Mbappé comment
+  - **2026-11-02** (2 zdrojů) Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
+  - **2026-11-04** (3 zdrojů) Man Utd beat Roma - the other great Champions League comebacks
+  - **2026-11-04** (2 zdrojů) Photos: Champions League and Tenerife fans pay tribute to De Miguel
+  - **2026-11-04** (2 zdrojů) Football world mourns Tenerife striker De Miguel
+  - **2026-11-04** (4 zdrojů) Nadal set to join Real Madrid board of directors
+  - **2026-11-05** (2 zdrojů) Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
+
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 83 dní · 60 záznamů
 - časová osa:
@@ -47,20 +61,6 @@ Paměť obsahuje **182 vláken**. Aktivních za posledních 14 dní: **52**.
   - **2026-10-30** (1 zdrojů) Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
   - **2026-11-03** (1 zdrojů) Scientists Feared This Cute but Venomous Primate Had Gone Extinct Nearly 100 Years Ago. It Was Hiding in Plain Sight All Along
   - **2026-11-04** (1 zdrojů) Archaeologists in Scotland Discovered the Skeleton of a Roman-Era Man Who Was Decapitated Nearly 2,000 Years Ago. Now, You Can See What He Might Have Looked Like During His Lifetime
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 78 dní · 60 záznamů
-- časová osa:
-  - **2026-10-26** (2 zdrojů) Manchester United crisis: What are the top five problems facing the club?
-  - **2026-10-30** (2 zdrojů) Chelsea vs Manchester United: Premier League – teams, prediction, lineups
-  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
-  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United: Premier League – live
-  - **2026-11-02** (2 zdrojů) Football: China refuses to air Real Madrid game after Mbappé comment
-  - **2026-11-02** (2 zdrojů) Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
-  - **2026-11-04** (3 zdrojů) Man Utd beat Roma - the other great Champions League comebacks
-  - **2026-11-04** (2 zdrojů) Photos: Champions League and Tenerife fans pay tribute to De Miguel
-  - **2026-11-04** (2 zdrojů) Football world mourns Tenerife striker De Miguel
-  - **2026-11-04** (4 zdrojů) Nadal set to join Real Madrid board of directors
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 87 dní · 60 záznamů
