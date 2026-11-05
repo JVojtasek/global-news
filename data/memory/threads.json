@@ -5379,6 +5379,60 @@
    ]
   },
   {
+   "id": "1212da89a1c7",
+   "title": "Misogyny and sexism of Russell Brand case have not gone away, say TV insiders",
+   "section": "world",
+   "entities": [
+    "misogyny",
+    "brand",
+    "russell"
+   ],
+   "event_ids": [
+    "1212da89a1c7",
+    "9b248aa7ed19",
+    "fa3936aa041c"
+   ],
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "timeline": [
+    {
+     "date": "2026-11-05",
+     "headline": "Misogyny and sexism of Russell Brand case have not gone away, say TV insiders",
+     "sources": 3,
+     "score": 57,
+     "event_id": "1212da89a1c7",
+     "links": [
+      "https://www.theguardian.com/media/2026/nov/05/misogyny-and-sexism-of-russell-brand-case-have-not-gone-away-say-tv-insiders",
+      "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault",
+      "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Russell Brand is not a ‘psychopath who rapes people and thinks it’s normal’, court told",
+     "sources": 2,
+     "score": 47,
+     "event_id": "9b248aa7ed19",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/nov/02/russell-brand-defence-barrister-court-trial",
+      "https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Russell Brand is being investigated over two new rape complaints, police say",
+     "sources": 4,
+     "score": 72,
+     "event_id": "fa3936aa041c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison"
+     ]
+    }
+   ]
+  },
+  {
    "id": "f745919ab159",
    "title": "Haaland scores controversial winner as Man City win derby despite Foden red",
    "section": "sport",
@@ -5463,42 +5517,29 @@
    ]
   },
   {
-   "id": "1212da89a1c7",
-   "title": "Misogyny and sexism of Russell Brand case have not gone away, say TV insiders",
+   "id": "a9f8df873986",
+   "title": "Bomb threats disrupt several flights across Europe",
    "section": "world",
    "entities": [
-    "misogyny",
-    "russell",
-    "brand"
+    "bomb",
+    "europe"
    ],
    "event_ids": [
-    "1212da89a1c7",
-    "9b248aa7ed19"
+    "a9f8df873986"
    ],
    "first_seen": "2026-11-05",
    "last_seen": "2026-11-05",
    "timeline": [
     {
      "date": "2026-11-05",
-     "headline": "Misogyny and sexism of Russell Brand case have not gone away, say TV insiders",
-     "sources": 3,
-     "score": 57,
-     "event_id": "1212da89a1c7",
+     "headline": "Bomb threats disrupt several flights across Europe",
+     "sources": 4,
+     "score": 64,
+     "event_id": "a9f8df873986",
      "links": [
-      "https://www.theguardian.com/media/2026/nov/05/misogyny-and-sexism-of-russell-brand-case-have-not-gone-away-say-tv-insiders",
-      "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault",
-      "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Russell Brand is not a ‘psychopath who rapes people and thinks it’s normal’, court told",
-     "sources": 2,
-     "score": 47,
-     "event_id": "9b248aa7ed19",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/nov/02/russell-brand-defence-barrister-court-trial",
-      "https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss"
+      "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20261105-europe-dozens-of-flights-diverted-following-bomb-threats",
+      "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html"
      ]
     }
    ]
@@ -20654,5 +20695,5 @@
    ]
   }
  ],
- "updated": "2026-11-05T15:19:15+00:00"
+ "updated": "2026-11-05T18:22:36+00:00"
 }

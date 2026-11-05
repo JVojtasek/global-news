@@ -99,28 +99,22 @@
     <https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion>
     > Hong Kong democracy activist Joshua Wong was sentenced to 10 more years in prison on Thursday for colluding with foreign powers, a court summary said. Wong, 30, pleaded guilty in September to seeking foreign sanctions against Hong Kong and China under Beijing’s national security 
 
-### 4. North Korea denies being behind record $6.3bn Binance hack
-- id události: `fde93fa8c413`  ·  rubrika: `business`  ·  skóre: 69  ·  nezávislých zdrojů: 4
+### 4. Russell Brand is being investigated over two new rape complaints, police say
+- id události: `fa3936aa041c`  ·  rubrika: `world`  ·  skóre: 72  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — North Korea denies being behind record $6.3bn Binance hack
-    <https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss>
-    > US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.
-  - **BBC Business** — North Korea denies being behind record $6.3bn Binance hack
-    <https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss>
-    > US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.
-  - **BBC Technology** — North Korea denies being behind record $6.3bn Binance hack
-    <https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss>
-    > US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.
-  - **BBC Business** — Why North Korea's 'elite' hackers are the prime suspect in major Binance hack
-    <https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss>
-    > If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.
-  - **BBC Technology** — Why North Korea's 'elite' hackers are the prime suspect in major Binance hack
-    <https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss>
-    > If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.
-  - **CNBC Top** — North Korea denies links to Binance hack as researchers trace stolen billions
-    <https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html>
-    > North Korea rejected U.S. allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.
+  - **BBC World** — Russell Brand is being investigated over two new rape complaints, police say
+    <https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss>
+    > Det Supt Andy Furphy said he hoped other potential victims would gain "courage" and "confidence" from the guilty verdicts.
+  - **BBC Entertainment** — Russell Brand found guilty of rape and sexual assault
+    <https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss>
+    > Brand is told to expect a prison sentence "of some length" and faces more rape allegations, it can now be reported.
+  - **NPR News** — Russell Brand is convicted of rape, and judge says he'll get a prison term
+    <https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison>
+    > A prosecutor described Brand as a ruthless, calculating, manipulative "sexual predator." Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.
+  - **DW News** — British comedian and actor Russell Brand found guilty of rape
+    <https://www.dw.com/en/british-comedian-and-actor-russell-brand-found-guilty-of-rape/a-79867216?maca=en-rss-en-all-1573-rdf>
+    > Prosecutors labeled Brand a sexual predator. He was charged in sexual assault cases spanning from 1999 to 2009.
 
 ---
 
