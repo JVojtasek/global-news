@@ -1,10 +1,38 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-05
 
-Paměť obsahuje **182 vláken**. Aktivních za posledních 14 dní: **49**.
+Paměť obsahuje **182 vláken**. Aktivních za posledních 14 dní: **50**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### Trump says White House press secretary Karoline Leavitt to leave post
+- rubrika `world` · sledováno 85 dní · 60 záznamů
+- časová osa:
+  - **2026-10-19** (3 zdrojů) Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
+  - **2026-10-23** (3 zdrojů) White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'
+  - **2026-10-24** (2 zdrojů) White House lifts tariffs on some Canadian goods as midterm elections loom
+  - **2026-10-29** (3 zdrojů) What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump
+  - **2026-10-30** (2 zdrojů) Israeli opposition accuses Netanyahu of trying to 'delegitimise' election
+  - **2026-10-31** (2 zdrojů) Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory
+  - **2026-10-31** (2 zdrojů) How has the ceasefire in Russian-occupied Oleshky been unfolding?
+  - **2026-10-31** (2 zdrojů) Oleshky evacuees reunite with families after truce allows crossing back into Ukraine
+  - **2026-11-03** (2 zdrojů) Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
+  - **2026-11-05** (2 zdrojů) Want to Rent an Internet Address at the White House?
+
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 88 dní · 60 záznamů
+- časová osa:
+  - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
+  - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
+  - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
+  - **2026-10-27** (3 zdrojů) Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
+  - **2026-10-27** (4 zdrojů) 'A dream come true' - Harry Kane on his Ballon d'Or win
+  - **2026-10-27** (2 zdrojů) Quiz: Kane and who else? Name every men's Ballon d'Or winner
+  - **2026-10-30** (2 zdrojů) England thrash Wales to begin World Cup defence
+  - **2026-10-31** (2 zdrojů) Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live
+  - **2026-11-01** (2 zdrojů) Wales hit by Australia century in World Cup record defeat
+  - **2026-11-05** (2 zdrojů) England captain Kane signs new Bayern contract
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 83 dní · 60 záznamů
@@ -48,20 +76,6 @@ Paměť obsahuje **182 vláken**. Aktivních za posledních 14 dní: **49**.
   - **2026-11-03** (2 zdrojů) Ukraine’s drone strikes spur hasty Russian plans for underground data centers
   - **2026-11-04** (2 zdrojů) Canada joins coalition refusing to play ice hockey against Russia over Ukraine war
 
-### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 83 dní · 60 záznamů
-- časová osa:
-  - **2026-10-19** (2 zdrojů) EU tariffs aimed at China hitting Ukraine, steel boss says
-  - **2026-10-19** (3 zdrojů) Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
-  - **2026-10-23** (3 zdrojů) White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'
-  - **2026-10-24** (2 zdrojů) White House lifts tariffs on some Canadian goods as midterm elections loom
-  - **2026-10-29** (3 zdrojů) What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump
-  - **2026-10-30** (2 zdrojů) Israeli opposition accuses Netanyahu of trying to 'delegitimise' election
-  - **2026-10-31** (2 zdrojů) Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory
-  - **2026-10-31** (2 zdrojů) How has the ceasefire in Russian-occupied Oleshky been unfolding?
-  - **2026-10-31** (2 zdrojů) Oleshky evacuees reunite with families after truce allows crossing back into Ukraine
-  - **2026-11-03** (2 zdrojů) Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
-
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 84 dní · 60 záznamů
 - časová osa:
@@ -75,20 +89,6 @@ Paměť obsahuje **182 vláken**. Aktivních za posledních 14 dní: **49**.
   - **2026-11-02** (2 zdrojů) What we know about the alert app hack in Ukraine and Russia
   - **2026-11-03** (2 zdrojů) Zelenskyy to make unexpected visit to Berlin for talks with Merz – Europe live
   - **2026-11-03** (2 zdrojů) What US midterm elections mean for Ukraine, Iran and elsewhere
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 84 dní · 60 záznamů
-- časová osa:
-  - **2026-10-07** (2 zdrojů) Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
-  - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
-  - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
-  - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
-  - **2026-10-27** (3 zdrojů) Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
-  - **2026-10-27** (4 zdrojů) 'A dream come true' - Harry Kane on his Ballon d'Or win
-  - **2026-10-27** (2 zdrojů) Quiz: Kane and who else? Name every men's Ballon d'Or winner
-  - **2026-10-30** (2 zdrojů) England thrash Wales to begin World Cup defence
-  - **2026-10-31** (2 zdrojů) Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live
-  - **2026-11-01** (2 zdrojů) Wales hit by Australia century in World Cup record defeat
 
 ---
 

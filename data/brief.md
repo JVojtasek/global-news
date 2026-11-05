@@ -158,62 +158,62 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
-- id: `09443cca3ddd`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+### 1. What has actually changed: Trump says White House press secretary Karoline Leavitt to leave post
+- id: `d4578d08ad87`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
-rubrika: world · sledováno od 2026-08-13 · záznamů: 60
-  2026-10-25  (2 zdrojů, síla 40)  Israel to close occupied West Bank crossings as it locks down Hebron
-  2026-10-25  (2 zdrojů, síla 42)  Israeli soldiers raze neighbourhood in Hebron, driving families from homes
-  2026-10-25  (3 zdrojů, síla 52)  Israel to close all West Bank land crossings on election day
-  2026-10-26  (2 zdrojů, síla 42)  Who are the Israeli candidates trying to unseat Netanyahu?
-  2026-10-27  (2 zdrojů, síla 47)  Israel election: Israelis vote for 1st time since October 7 terror attack
-  2026-10-27  (1 zdrojů, síla 40)  Turnout high as Israeli voters deliver verdict on Netanyahu
-  2026-10-27  (5 zdrojů, síla 77)  Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
-  2026-10-28  (3 zdrojů, síla 60)  Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority
-  2026-10-28  (2 zdrojů, síla 45)  Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory
-  2026-10-28  (2 zdrojů, síla 44)  'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'
-  2026-10-28  (2 zdrojů, síla 43)  Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition
-  2026-10-29  (1 zdrojů, síla 40)  Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago
-  2026-10-30  (2 zdrojů, síla 41)  Netanyahu attacks Israel’s Arab parties as he falls short of majority
-  2026-10-30  (2 zdrojů, síla 43)  Palestinian voter turnout exposes Israel’s attitude towards Arab citizens
-  2026-10-30  (1 zdrojů, síla 40)  Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries
-  2026-10-30  (2 zdrojů, síla 52)  Some Monkeys Seem to Become Germophobic After Living Through a Disease Outbreak, Just Like Humans
-  2026-10-30  (1 zdrojů, síla 44)  For Over Four Years, the Hirshhorn Worked to Revitalize Its Sculpture Garden. Today, It's Home to a 'King and Queen,' a 'Wish Tree' and a 55,000-Pound Vertical Swimming Pool Artwork
-  2026-10-30  (1 zdrojů, síla 40)  Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
-  2026-11-03  (1 zdrojů, síla 44)  Scientists Feared This Cute but Venomous Primate Had Gone Extinct Nearly 100 Years Ago. It Was Hiding in Plain Sight All Along
-  2026-11-04  (1 zdrojů, síla 44)  Archaeologists in Scotland Discovered the Skeleton of a Roman-Era Man Who Was Decapitated Nearly 2,000 Years Ago. Now, You Can See What He Might Have Looked Like During His Lifetime
+VLÁKNO: Trump says White House press secretary Karoline Leavitt to leave post
+rubrika: world · sledováno od 2026-08-12 · záznamů: 60
+  2026-10-02  (2 zdrojů, síla 48)  South Korea demands Ukraine apology over POW disclosure
+  2026-10-02  (2 zdrojů, síla 40)  It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
+  2026-10-05  (2 zdrojů, síla 41)  Trump unveils 'Super Intelligence Force' to oversee AI policy
+  2026-10-05  (2 zdrojů, síla 52)  Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube
+  2026-10-15  (1 zdrojů, síla 46)  London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come
+  2026-10-16  (2 zdrojů, síla 43)  New White House Press Secretary Katie Zacharia on way out after only five days on job, reports say
+  2026-10-16  (3 zdrojů, síla 54)  White House press secretary Zacharia exiting role after short tenure
+  2026-10-17  (2 zdrojů, síla 44)  Katie Zacharia leaving her White House role less than five days on the job
+  2026-10-18  (3 zdrojů, síla 52)  Trump endorses Netanyahu in Israeli legislative elections
+  2026-10-19  (2 zdrojů, síla 40)  EU tariffs aimed at China hitting Ukraine, steel boss says
+  2026-10-19  (3 zdrojů, síla 60)  Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
+  2026-10-23  (3 zdrojů, síla 58)  White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'
+  2026-10-24  (2 zdrojů, síla 42)  White House lifts tariffs on some Canadian goods as midterm elections loom
+  2026-10-29  (3 zdrojů, síla 56)  What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump
+  2026-10-30  (2 zdrojů, síla 44)  Israeli opposition accuses Netanyahu of trying to 'delegitimise' election
+  2026-10-31  (2 zdrojů, síla 47)  Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory
+  2026-10-31  (2 zdrojů, síla 41)  How has the ceasefire in Russian-occupied Oleshky been unfolding?
+  2026-10-31  (2 zdrojů, síla 42)  Oleshky evacuees reunite with families after truce allows crossing back into Ukraine
+  2026-11-03  (2 zdrojů, síla 42)  Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
+  2026-11-05  (2 zdrojů, síla 48)  Want to Rent an Internet Address at the White House?
 ```
 
-### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
-- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
+### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
-rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-21  (2 zdrojů, síla 40)  Football regulator has ‘absolute power’ to force Manchester City sale if verdict upheld
-  2026-10-21  (2 zdrojů, síla 49)  Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live
-  2026-10-22  (4 zdrojů, síla 75)  Real Madrid dominate Leipzig for third straight win
-  2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory
-  2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
-  2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
-  2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
-  2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live
-  2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City
-  2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL
-  2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?
-  2026-10-30  (2 zdrojů, síla 42)  Chelsea vs Manchester United: Premier League – teams, prediction, lineups
-  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
-  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United: Premier League – live
-  2026-11-02  (2 zdrojů, síla 44)  Football: China refuses to air Real Madrid game after Mbappé comment
-  2026-11-02  (2 zdrojů, síla 40)  Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
-  2026-11-04  (3 zdrojů, síla 57)  Man Utd beat Roma - the other great Champions League comebacks
-  2026-11-04  (2 zdrojů, síla 42)  Photos: Champions League and Tenerife fans pay tribute to De Miguel
-  2026-11-04  (2 zdrojů, síla 42)  Football world mourns Tenerife striker De Miguel
-  2026-11-04  (4 zdrojů, síla 68)  Nadal set to join Real Madrid board of directors
+VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+rubrika: world · sledováno od 2026-08-09 · záznamů: 60
+  2026-10-03  (2 zdrojů, síla 46)  Who has 'no ceiling' as Northern Ireland shine in Nations League?
+  2026-10-03  (2 zdrojů, síla 44)  LIVE: Croatia vs England – UEFA Nations League
+  2026-10-03  (2 zdrojů, síla 54)  North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
+  2026-10-05  (2 zdrojů, síla 56)  Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
+  2026-10-06  (2 zdrojů, síla 43)  Nations League roundup: Olise leads late charge as France bowl over Belgium
+  2026-10-06  (2 zdrojů, síla 44)  Nations League: France defeat Belgium in second-half comeback
+  2026-10-06  (2 zdrojů, síla 47)  How promotion, relegation and knockouts work in Nations League
+  2026-10-06  (2 zdrojů, síla 45)  England v Czechia: Nations League football – live
+  2026-10-06  (2 zdrojů, síla 52)  Kane scores twice but who else was a 'real threat'? England player ratings
+  2026-10-07  (2 zdrojů, síla 42)  Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
+  2026-10-08  (3 zdrojů, síla 58)  Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
+  2026-10-22  (2 zdrojů, síla 46)  Harry Kane: Ballon d’Or for Bayern Munich striker?
+  2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes
+  2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
+  2026-10-27  (4 zdrojů, síla 70)  'A dream come true' - Harry Kane on his Ballon d'Or win
+  2026-10-27  (2 zdrojů, síla 52)  Quiz: Kane and who else? Name every men's Ballon d'Or winner
+  2026-10-30  (2 zdrojů, síla 57)  England thrash Wales to begin World Cup defence
+  2026-10-31  (2 zdrojů, síla 46)  Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live
+  2026-11-01  (2 zdrojů, síla 51)  Wales hit by Australia century in World Cup record defeat
+  2026-11-05  (2 zdrojů, síla 42)  England captain Kane signs new Bayern contract
 ```
 
 ---
