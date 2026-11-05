@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-05
 
-Paměť obsahuje **182 vláken**. Aktivních za posledních 14 dní: **48**.
+Paměť obsahuje **182 vláken**. Aktivních za posledních 14 dní: **49**.
 
 ---
 
@@ -100,5 +100,5 @@ _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, 
 - **Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'** — naposledy 2026-09-18, celkem 3 záznamů
 - **Shelton beats Alcaraz in latest-ever US Open finish to reach semis** — naposledy 2026-09-14, celkem 4 záznamů
 - **Hong Kong's Tiananmen activists guilty in national security trial** — naposledy 2026-09-11, celkem 6 záznamů
-- **Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention** — naposledy 2026-09-10, celkem 4 záznamů
 - **Odegaard and Saka star - player ratings for Arsenal v Chelsea** — naposledy 2026-09-10, celkem 3 záznamů
+- **Favourite Kane makes Ballon d'Or shortlist** — naposledy 2026-09-09, celkem 3 záznamů
