@@ -1,6 +1,1327 @@
 {
  "threads": [
   {
+   "id": "95b4d8eb7452",
+   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+   "section": "tech",
+   "entities": [
+    "qualcomm",
+    "machines",
+    "olympic",
+    "musk",
+    "spacex",
+    "russia",
+    "starlink",
+    "billionaire",
+    "ukraine",
+    "ukraine's",
+    "mobile",
+    "dots",
+    "embiricos",
+    "meta",
+    "anthropic",
+    "apple",
+    "ambani",
+    "zoom",
+    "amazon",
+    "boeing",
+    "nvidia",
+    "openai",
+    "unusual",
+    "friday's",
+    "talarico",
+    "trump",
+    "side",
+    "putin",
+    "alexander",
+    "china",
+    "miss",
+    "texas",
+    "deckers",
+    "skydance",
+    "beyond",
+    "israel",
+    "europe",
+    "sure",
+    "networking",
+    "elon"
+   ],
+   "event_ids": [
+    "95b4d8eb7452",
+    "1b1d0d455584",
+    "572dce99347e",
+    "5afad699a57c",
+    "814772bc922c",
+    "bc11900335c3",
+    "5f6c0a4a0fa6",
+    "1fcf8cc28156",
+    "d7a1c9894fff",
+    "467cf97b1acf",
+    "4f05eeb200ed",
+    "98c90d114a62",
+    "c53837b319d6",
+    "714d1f0b729f",
+    "490a23f57428",
+    "869772203883",
+    "1cc24ddce8a4",
+    "f4290472ac1a",
+    "658159bc4850",
+    "733411f27eae",
+    "b17a25d8c48a",
+    "ed05f4b9715a",
+    "959dcb673548",
+    "030e0762a24f",
+    "5a36fa44b304",
+    "2c9536723835",
+    "ab3660a4efa6",
+    "795b2f9bbb2b",
+    "a3c44a432a3d",
+    "9c464aa25357",
+    "18ba53fb28cc",
+    "cb9eec62df6f",
+    "e146a0ded080",
+    "4212a5c7dadf",
+    "3992fc4ed3eb",
+    "e406db6a9c15",
+    "8b4dc9f3945d",
+    "9b5397f83bd4",
+    "19c0d49aeb1d",
+    "e76559e70f02",
+    "2f7ad053a046",
+    "c85cd878b1f9",
+    "b110318e469b",
+    "fa6d08a49746",
+    "fb856fcd1cdb",
+    "b069f02850bf",
+    "6d4c38fea313",
+    "a1898e751ac5",
+    "dac4e5e8c746",
+    "acf1fc42b66a"
+   ],
+   "first_seen": "2026-09-14",
+   "last_seen": "2026-11-05",
+   "timeline": [
+    {
+     "date": "2026-09-14",
+     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+     "sources": 3,
+     "score": 55,
+     "event_id": "95b4d8eb7452",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+     "sources": 3,
+     "score": 50,
+     "event_id": "1b1d0d455584",
+     "links": [
+      "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
+     "sources": 3,
+     "score": 45,
+     "event_id": "572dce99347e",
+     "links": [
+      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+     "sources": 3,
+     "score": 52,
+     "event_id": "5afad699a57c",
+     "links": [
+      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+     "sources": 1,
+     "score": 42,
+     "event_id": "814772bc922c",
+     "links": [
+      "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+     "sources": 1,
+     "score": 46,
+     "event_id": "bc11900335c3",
+     "links": [
+      "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+      "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Trump gives top US science awards to Elon Musk and other tech executives",
+     "sources": 2,
+     "score": 44,
+     "event_id": "5f6c0a4a0fa6",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
+      "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Why Elon Musk is taking on India's richest man over Starlink",
+     "sources": 2,
+     "score": 49,
+     "event_id": "1fcf8cc28156",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+     "sources": 1,
+     "score": 46,
+     "event_id": "d7a1c9894fff",
+     "links": [
+      "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+     "sources": 2,
+     "score": 45,
+     "event_id": "467cf97b1acf",
+     "links": [
+      "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Elon Musk has donated over $276 million to Republican midterm efforts",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4f05eeb200ed",
+     "links": [
+      "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+      "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
+     "sources": 3,
+     "score": 50,
+     "event_id": "98c90d114a62",
+     "links": [
+      "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+      "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
+      "https://www.investing.com/news/stock-market-news/elon-musk-spends-366-million-on-2026-us-midterm-elections-4945225"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Elon Musk becomes biggest donor of US midterms cycle with $366m spent",
+     "sources": 2,
+     "score": 48,
+     "event_id": "c53837b319d6",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
+      "https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+     "sources": 4,
+     "score": 68,
+     "event_id": "714d1f0b729f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
+     "sources": 2,
+     "score": 44,
+     "event_id": "490a23f57428",
+     "links": [
+      "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
+      "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
+     "sources": 3,
+     "score": 56,
+     "event_id": "869772203883",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+      "https://www.france24.com/en/americas/20261014-musk-says-us-govt-responsible-for-any-starshield-restrictions-affecting-ukraine"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+     "sources": 2,
+     "score": 41,
+     "event_id": "1cc24ddce8a4",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
+     "sources": 2,
+     "score": 44,
+     "event_id": "f4290472ac1a",
+     "links": [
+      "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
+      "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Elon Musk promises to give one SpaceX share to every child in the US",
+     "sources": 3,
+     "score": 57,
+     "event_id": "658159bc4850",
+     "links": [
+      "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
+      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink?utm_source=rss_feed",
+      "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "China’s milestone in polar region satellite broadband narrows gap with Elon Musk’s Starlink",
+     "sources": 1,
+     "score": 40,
+     "event_id": "733411f27eae",
+     "links": [
+      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink",
+      "https://www.scmp.com/tech/big-tech/article/3371010/tsmc-confirms-talks-elon-musk-over-texas-terafab-insists-operational-control"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Elon Musk says Tesla-SpaceX merger being considered",
+     "sources": 4,
+     "score": 56,
+     "event_id": "b17a25d8c48a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+     "sources": 3,
+     "score": 52,
+     "event_id": "ed05f4b9715a",
+     "links": [
+      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Musk confirms SpaceX and Tesla exploring merger",
+     "sources": 4,
+     "score": 62,
+     "event_id": "959dcb673548",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
+      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+      "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+     "sources": 8,
+     "score": 79,
+     "event_id": "030e0762a24f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Netflix, Zoom, Apple, Robinhood & more",
+     "sources": 1,
+     "score": 44,
+     "event_id": "5a36fa44b304",
+     "links": [
+      "https://www.cnbc.com/2026/10/21/wednesday-biggest-analyst-calls-like-spacex.html",
+      "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Tesla to report earnings after Elon Musk floats SpaceX merger plan",
+     "sources": 3,
+     "score": 53,
+     "event_id": "2c9536723835",
+     "links": [
+      "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
+      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "James Talarico fires back at Elon Musk in Texas Senate race feud",
+     "sources": 2,
+     "score": 46,
+     "event_id": "ab3660a4efa6",
+     "links": [
+      "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
+      "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Elon Musk invests about $1 billion in Skydance",
+     "sources": 3,
+     "score": 49,
+     "event_id": "795b2f9bbb2b",
+     "links": [
+      "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+      "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
+      "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a3c44a432a3d",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
+      "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
+     "sources": 2,
+     "score": 44,
+     "event_id": "9c464aa25357",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
+     "sources": 2,
+     "score": 43,
+     "event_id": "18ba53fb28cc",
+     "links": [
+      "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
+      "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Ukraine troops report ongoing problems with Starlink satellite network",
+     "sources": 4,
+     "score": 68,
+     "event_id": "cb9eec62df6f",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+      "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+      "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, CoreWeave, Deckers, Unusual Machines & more",
+     "sources": 1,
+     "score": 44,
+     "event_id": "e146a0ded080",
+     "links": [
+      "https://www.cnbc.com/2026/10/23/big-wall-street-analyst-calls-friday-include-spacex-coreweave.html",
+      "https://www.cnbc.com/2026/10/23/stocks-making-the-biggest-moves-premarket-att-spacex-moderna-deckers-bloom-energy-and-more.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+     "sources": 2,
+     "score": 54,
+     "event_id": "4212a5c7dadf",
+     "links": [
+      "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+      "https://www.cnbc.com/2026/10/22/wall-street-analyst-calls-nvidia-tesla-meta-spacex.html",
+      "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-premarket-tsla-meta-avex-spot.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+     "sources": 3,
+     "score": 50,
+     "event_id": "3992fc4ed3eb",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e406db6a9c15",
+     "links": [
+      "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+      "https://www.investing.com/news/commodities-news/trump-says-he-will-fix-any-starlink-access-problem-in-ukraine-4970057"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+     "sources": 2,
+     "score": 41,
+     "event_id": "8b4dc9f3945d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+     "sources": 2,
+     "score": 40,
+     "event_id": "9b5397f83bd4",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Ukraine says Starlink is back to normal after disruptions",
+     "sources": 2,
+     "score": 40,
+     "event_id": "19c0d49aeb1d",
+     "links": [
+      "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+      "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Ukraine: Starlink satellite speeds restored to normal",
+     "sources": 3,
+     "score": 52,
+     "event_id": "e76559e70f02",
+     "links": [
+      "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
+      "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "https://www.investing.com/news/economy-news/ukraine-says-military-starlink-service-restored-after-10day-disruption-4970760"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+     "sources": 2,
+     "score": 42,
+     "event_id": "2f7ad053a046",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Russia to host first Olympic federation world event since Ukraine invasion",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c85cd878b1f9",
+     "links": [
+      "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Apple stock has become an anti-AI trade. Here’s why",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b110318e469b",
+     "links": [
+      "https://www.cnbc.com/2026/10/26/apple-stock-has-become-an-anti-ai-trade-heres-why.html",
+      "https://www.cnbc.com/2026/10/26/monday-biggest-wall-street-analyst-calls-like-tesla.html"
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
+     "sources": 2,
+     "score": 43,
+     "event_id": "fa6d08a49746",
+     "links": [
+      "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Here are Wednesday's biggest analyst calls: SpaceX, Nvidia, Apple, AMD, Meta, Amazon, Tesla, Boeing & more",
+     "sources": 2,
+     "score": 54,
+     "event_id": "fb856fcd1cdb",
+     "links": [
+      "https://www.cnbc.com/2026/10/28/big-wall-street-stocks-covered-on-analyst-calls-include-spacex-boeing.html",
+      "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
+      "https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+     "sources": 4,
+     "score": 64,
+     "event_id": "b069f02850bf",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Russia in Africa: What is Putin hoping to achieve?",
+     "sources": 2,
+     "score": 44,
+     "event_id": "6d4c38fea313",
+     "links": [
+      "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/28/norway-and-finland-hold-rare-phone-call-with-putin-what-that-means?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Trump says US will halt $4 billion in aid to Israel after end of the year",
+     "sources": 3,
+     "score": 46,
+     "event_id": "a1898e751ac5",
+     "links": [
+      "https://www.france24.com/en/middle-east/20261103-trump-says-us-will-halt-4-billion-in-aid-to-israel-after-end-of-this-year",
+      "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
+      "https://www.investing.com/news/commodities-news/oil-rises-after-reported-us-strike-on-irans-qeshm-island-4993349"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
+     "sources": 2,
+     "score": 40,
+     "event_id": "dac4e5e8c746",
+     "links": [
+      "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
+      "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "After Texas' blue wave, what happens to Elon Musk and SpaceX?",
+     "sources": 3,
+     "score": 50,
+     "event_id": "acf1fc42b66a",
+     "links": [
+      "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
+      "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+      "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7da4e07716c7",
+   "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+   "section": "world",
+   "entities": [
+    "call",
+    "secretary",
+    "house",
+    "michigan",
+    "abdul",
+    "georgia",
+    "josh",
+    "keisha",
+    "turek",
+    "clark",
+    "karl",
+    "republicans",
+    "tankers",
+    "maine",
+    "democrats",
+    "james",
+    "defense",
+    "angry",
+    "ossoff",
+    "stevens",
+    "anthony",
+    "democratic",
+    "mike",
+    "here's",
+    "wife",
+    "trump",
+    "midterms",
+    "katherine",
+    "left-wing",
+    "paxton",
+    "senate",
+    "hormuz",
+    "musk's",
+    "haley",
+    "pentagon",
+    "rogers",
+    "el-sayed",
+    "zurcher",
+    "november",
+    "elon"
+   ],
+   "event_ids": [
+    "7da4e07716c7",
+    "7d0d4d3f6bdb",
+    "9ba97aff3e7d",
+    "685eb5ef4b77",
+    "dc98be3509f8",
+    "83c9ff637cd4",
+    "1a58c450df85",
+    "0bd2b78f98d3",
+    "5b2e57f10a93",
+    "6bdae1bbcb1a",
+    "262b590f746f",
+    "282dcc034a3b",
+    "4c37332d2bbb",
+    "06237d9feb09",
+    "4c1e1d02df87",
+    "f5b6d367ab3d",
+    "6ee149854410",
+    "660903c7e4d9",
+    "7cf106926362",
+    "cc6d5c271c5b",
+    "94f3a475eae4",
+    "b0936e6dce0d",
+    "43992b5f3fd4",
+    "0c2e960b0584",
+    "835c8d9b6884",
+    "74dab33a4157",
+    "679276982c61",
+    "dbbf789e01db",
+    "e019a4979e69",
+    "ea0f1f9c4b5a",
+    "1e43314e8e82",
+    "9b8c734ec6dd",
+    "a3e2b24eafb5",
+    "078ed532d7fc",
+    "a6edc1d9c850",
+    "db8842f4456e",
+    "ecaf92519895",
+    "47ee29dcc13b"
+   ],
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-11-05",
+   "timeline": [
+    {
+     "date": "2026-09-11",
+     "headline": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+     "sources": 3,
+     "score": 55,
+     "event_id": "7da4e07716c7",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
+      "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Iran war won't end until after crucial November elections, says Trump",
+     "sources": 2,
+     "score": 45,
+     "event_id": "7d0d4d3f6bdb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Trump dismisses report China supplied intel to Iran",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9ba97aff3e7d",
+     "links": [
+      "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
+     "sources": 2,
+     "score": 40,
+     "event_id": "685eb5ef4b77",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
+     "sources": 2,
+     "score": 47,
+     "event_id": "dc98be3509f8",
+     "links": [
+      "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+      "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
+      "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+     "sources": 2,
+     "score": 42,
+     "event_id": "83c9ff637cd4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1a58c450df85",
+     "links": [
+      "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
+      "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+     "sources": 2,
+     "score": 48,
+     "event_id": "0bd2b78f98d3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "US says China trade truce extended as Trump welcomes Xi",
+     "sources": 2,
+     "score": 40,
+     "event_id": "5b2e57f10a93",
+     "links": [
+      "https://www.france24.com/en/video/20260924-us-says-china-trade-truce-extended-as-trump-welcomes-xi",
+      "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
+     "sources": 2,
+     "score": 42,
+     "event_id": "6bdae1bbcb1a",
+     "links": [
+      "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
+      "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+     "sources": 2,
+     "score": 45,
+     "event_id": "262b590f746f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "US official claims Trump holds all the cards in Iran talks",
+     "sources": 3,
+     "score": 52,
+     "event_id": "282dcc034a3b",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz",
+      "https://www.investing.com/news/economy-news/iran-awaits-us-response-to-hormuz-peace-plan-as-trump-reportedly-rejects-deal-4918476"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
+     "sources": 4,
+     "score": 70,
+     "event_id": "4c37332d2bbb",
+     "links": [
+      "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
+      "https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html",
+      "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
+     "sources": 1,
+     "score": 40,
+     "event_id": "06237d9feb09",
+     "links": [
+      "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
+      "https://www.cnbc.com/2026/10/15/james-talarico-texas-senate-fundraising-ken-paxton.html"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4c1e1d02df87",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+     "sources": 3,
+     "score": 63,
+     "event_id": "f5b6d367ab3d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+      "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+     "sources": 2,
+     "score": 42,
+     "event_id": "6ee149854410",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "How a Democrat in Michigan rocked the party days before the US midterms",
+     "sources": 2,
+     "score": 50,
+     "event_id": "660903c7e4d9",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
+      "https://www.france24.com/en/michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "What might Trump have planned for Iran following the midterm election?",
+     "sources": 2,
+     "score": 44,
+     "event_id": "7cf106926362",
+     "links": [
+      "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
+     "sources": 2,
+     "score": 53,
+     "event_id": "cc6d5c271c5b",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
+      "https://www.france24.com/en/video/20261103-us-midterms-michigan-senate-candidate-el-sayed-becomes-democrats-rising-star",
+      "https://www.france24.com/en/video/20261103-us-midterms-michigan-candidate-el-sayed-pledges-to-tackle-the-affordability-crisis"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+     "sources": 2,
+     "score": 48,
+     "event_id": "94f3a475eae4",
+     "links": [
+      "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+      "https://www.france24.com/en/video/20261102-sour-grapes-dems-shocked-as-haley-stevens-breaks-ranks"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins",
+     "sources": 3,
+     "score": 59,
+     "event_id": "b0936e6dce0d",
+     "links": [
+      "https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins",
+      "https://www.france24.com/en/video/20261104-midterms-abdul-el-sayed-mike-rogers-face-off-for-michigan-senate-seat",
+      "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Democratic rising star Ossoff projected to hold Georgia seat",
+     "sources": 3,
+     "score": 64,
+     "event_id": "43992b5f3fd4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/americas/20261104-key-us-senate-results-democrats-wrest-north-and-south-carolina-from-the-republicans",
+      "https://www.france24.com/en/video/20261104-replay-georgia-senator-jon-ossoff-wins-reelection"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
+     "sources": 3,
+     "score": 57,
+     "event_id": "0c2e960b0584",
+     "links": [
+      "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
+      "https://www.dw.com/en/us-midterms-democrats-gain-control-of-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Democrat Josh Turek wins the Senate seat in Iowa",
+     "sources": 2,
+     "score": 47,
+     "event_id": "835c8d9b6884",
+     "links": [
+      "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek",
+      "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+     "sources": 5,
+     "score": 83,
+     "event_id": "74dab33a4157",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
+      "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "2026 Midterms: Democrat Keisha Lance Bottoms makes history in Georgia",
+     "sources": 2,
+     "score": 42,
+     "event_id": "679276982c61",
+     "links": [
+      "https://www.france24.com/en/video/20261104-2026-midterms-democrat-keisha-lance-bottoms-makes-history-in-georgia",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-amy-acton-makes-history-in-ohio?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history",
+     "sources": 2,
+     "score": 54,
+     "event_id": "dbbf789e01db",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/4/call-me-senator-how-abdul-el-sayed-beat-trumps-hate-to-create-history?traffic_source=rss",
+      "https://www.france24.com/en/video/20261104-abdul-el-sayed-set-to-become-first-muslim-senator-after-win-in-michigan",
+      "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "US midterms: Democrats win House and Senate from Republicans",
+     "sources": 3,
+     "score": 49,
+     "event_id": "e019a4979e69",
+     "links": [
+      "https://www.dw.com/en/us-midterms-democrats-win-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss",
+      "https://www.france24.com/en/americas/20261104-why-the-democrats-routed-republicans-us-midterm-elections"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Rep. Katherine Clark says Democrats are on track to win control of the House tonight",
+     "sources": 2,
+     "score": 42,
+     "event_id": "ea0f1f9c4b5a",
+     "links": [
+      "https://www.npr.org/2026/11/03/nx-s1-6028015/rep-katherine-clark-says-democrats-are-on-track-to-win-control-of-the-house-tonight",
+      "https://www.investing.com/news/economy-news/investors-ready-for-possible-shakeup-in-congress-as-election-day-arrives-4994181"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "US midterms: Trump reacts to the Democrats’ sweeping victory",
+     "sources": 2,
+     "score": 40,
+     "event_id": "1e43314e8e82",
+     "links": [
+      "https://www.france24.com/en/video/20261104-us-midterms-trump-reacts-to-the-democrats-sweeping-victory",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+     "sources": 3,
+     "score": 64,
+     "event_id": "9b8c734ec6dd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+      "https://www.france24.com/en/video/20261104-midterms-how-abdul-el-sayed-used-humour-and-hope-to-rebuff-racism"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+     "sources": 3,
+     "score": 58,
+     "event_id": "a3e2b24eafb5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "https://electrek.co/2026/11/04/what-does-a-blue-texas-sweep-mean-for-tesla-spacex-elon-musk/"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "US midterm election results: Democrats flip House and Senate. Here's what else the data tell us",
+     "sources": 2,
+     "score": 52,
+     "event_id": "078ed532d7fc",
+     "links": [
+      "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tell-us/a-79841886?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/sport/2026/nov/04/mark-teixeira-michele-tafoya-midterm-elections"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+     "sources": 2,
+     "score": 43,
+     "event_id": "a6edc1d9c850",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20261104-trump-seeks-to-shift-blame-but-has-nowhere-to-hide-after-midterms-defeat"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+     "sources": 3,
+     "score": 64,
+     "event_id": "db8842f4456e",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
+      "https://www.france24.com/en/americas/20261104-democrats-warn-trump-camp-lawyer-up-anger-over-corruption-drives-midterms-wipeout-gop"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Democrats take House and Senate from Republicans in US midterm rout",
+     "sources": 3,
+     "score": 54,
+     "event_id": "ecaf92519895",
+     "links": [
+      "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf",
+      "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
+      "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Trump says 'largely true' Iran war led to Republicans midterm loss",
+     "sources": 2,
+     "score": 47,
+     "event_id": "47ee29dcc13b",
+     "links": [
+      "https://www.dw.com/en/trump-says-largely-true-iran-war-led-to-republicans-midterm-loss/live-79829440?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cbd6dbd7b373",
+   "title": "Midterm elections 2026 live updates: What's next after Democrats flip Congress in blue wave",
+   "section": "world",
+   "entities": [
+    "what's",
+    "midterm",
+    "democrats",
+    "congress"
+   ],
+   "event_ids": [
+    "cbd6dbd7b373",
+    "0ed6bd389882"
+   ],
+   "first_seen": "2026-11-04",
+   "last_seen": "2026-11-05",
+   "timeline": [
+    {
+     "date": "2026-11-04",
+     "headline": "Midterm elections 2026 live updates: What's next after Democrats flip Congress in blue wave",
+     "sources": 3,
+     "score": 64,
+     "event_id": "cbd6dbd7b373",
+     "links": [
+      "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
+      "https://www.aljazeera.com/gallery/2026/11/4/photos-us-democrats-celebrate-winning-control-of-congress?traffic_source=rss",
+      "https://www.france24.com/en/video/20261104-iran-war-epstein-impeachment-what-will-democrats-do-with-control-of-congress"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Democrats won Congress. But can they deliver on their promises?",
+     "sources": 2,
+     "score": 45,
+     "event_id": "0ed6bd389882",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss",
+      "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f745919ab159",
+   "title": "Haaland scores controversial winner as Man City win derby despite Foden red",
+   "section": "sport",
+   "entities": [
+    "haaland",
+    "city",
+    "foden",
+    "leipzig"
+   ],
+   "event_ids": [
+    "f745919ab159",
+    "fe5a13fb7200"
+   ],
+   "first_seen": "2026-09-13",
+   "last_seen": "2026-11-05",
+   "timeline": [
+    {
+     "date": "2026-09-13",
+     "headline": "Haaland scores controversial winner as Man City win derby despite Foden red",
+     "sources": 3,
+     "score": 58,
+     "event_id": "f745919ab159",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/13/wsl-roundup-arsenal-crystal-palace-aston-villa-manchester-city",
+      "https://www.aljazeera.com/sports/2026/9/13/haaland-goal-sees-10-men-city-beat-united-in-controversial-manchester-derby?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Haaland scores winner as Man City beat Leipzig",
+     "sources": 2,
+     "score": 42,
+     "event_id": "fe5a13fb7200",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/nov/04/rb-leipzig-manchester-city-champions-league-match-report"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ce901e1c03fe",
+   "title": "Como score nine to make Champions League history",
+   "section": "sport",
+   "entities": [
+    "league",
+    "champions",
+    "como"
+   ],
+   "event_ids": [
+    "ce901e1c03fe"
+   ],
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-05",
+   "timeline": [
+    {
+     "date": "2026-11-05",
+     "headline": "Como score nine to make Champions League history",
+     "sources": 2,
+     "score": 58,
+     "event_id": "ce901e1c03fe",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/cqy7ljmzx6d6o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/videos/ck7vpj0ggqr8o?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "09443cca3ddd",
    "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
    "section": "world",
@@ -2608,671 +3929,6 @@
    ]
   },
   {
-   "id": "95b4d8eb7452",
-   "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-   "section": "tech",
-   "entities": [
-    "skydance",
-    "friday's",
-    "dots",
-    "talarico",
-    "alexander",
-    "unusual",
-    "ukraine",
-    "starlink",
-    "embiricos",
-    "miss",
-    "ambani",
-    "nvidia",
-    "israel",
-    "qualcomm",
-    "putin",
-    "europe",
-    "meta",
-    "olympic",
-    "techcrunch",
-    "ukraine's",
-    "side",
-    "musk",
-    "openai",
-    "russia",
-    "anthropic",
-    "networking",
-    "amazon",
-    "deckers",
-    "beyond",
-    "machines",
-    "merging",
-    "billionaire",
-    "elon",
-    "trump",
-    "china",
-    "zoom",
-    "mobile",
-    "boeing",
-    "apple",
-    "sure"
-   ],
-   "event_ids": [
-    "95b4d8eb7452",
-    "1b1d0d455584",
-    "572dce99347e",
-    "5afad699a57c",
-    "814772bc922c",
-    "bc11900335c3",
-    "5f6c0a4a0fa6",
-    "1fcf8cc28156",
-    "d7a1c9894fff",
-    "467cf97b1acf",
-    "4f05eeb200ed",
-    "98c90d114a62",
-    "c53837b319d6",
-    "714d1f0b729f",
-    "490a23f57428",
-    "869772203883",
-    "1cc24ddce8a4",
-    "f4290472ac1a",
-    "658159bc4850",
-    "733411f27eae",
-    "b17a25d8c48a",
-    "ed05f4b9715a",
-    "959dcb673548",
-    "030e0762a24f",
-    "5a36fa44b304",
-    "2c9536723835",
-    "ab3660a4efa6",
-    "795b2f9bbb2b",
-    "a3c44a432a3d",
-    "9c464aa25357",
-    "18ba53fb28cc",
-    "cb9eec62df6f",
-    "e146a0ded080",
-    "4212a5c7dadf",
-    "3992fc4ed3eb",
-    "e406db6a9c15",
-    "8b4dc9f3945d",
-    "9b5397f83bd4",
-    "19c0d49aeb1d",
-    "e76559e70f02",
-    "2f7ad053a046",
-    "c85cd878b1f9",
-    "b110318e469b",
-    "fa6d08a49746",
-    "fb856fcd1cdb",
-    "b069f02850bf",
-    "6d4c38fea313",
-    "a1898e751ac5",
-    "dac4e5e8c746"
-   ],
-   "first_seen": "2026-09-14",
-   "last_seen": "2026-11-04",
-   "timeline": [
-    {
-     "date": "2026-09-14",
-     "headline": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-     "sources": 3,
-     "score": 55,
-     "event_id": "95b4d8eb7452",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "https://www.aljazeera.com/news/2026/9/14/elon-musks-x-corp-and-spacexai-drop-antitrust-lawsuit-against-apple?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-     "sources": 3,
-     "score": 50,
-     "event_id": "1b1d0d455584",
-     "links": [
-      "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
-     "sources": 3,
-     "score": 45,
-     "event_id": "572dce99347e",
-     "links": [
-      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-     "sources": 3,
-     "score": 52,
-     "event_id": "5afad699a57c",
-     "links": [
-      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-     "sources": 1,
-     "score": 42,
-     "event_id": "814772bc922c",
-     "links": [
-      "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-     "sources": 1,
-     "score": 46,
-     "event_id": "bc11900335c3",
-     "links": [
-      "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-      "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Trump gives top US science awards to Elon Musk and other tech executives",
-     "sources": 2,
-     "score": 44,
-     "event_id": "5f6c0a4a0fa6",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
-      "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Why Elon Musk is taking on India's richest man over Starlink",
-     "sources": 2,
-     "score": 49,
-     "event_id": "1fcf8cc28156",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvglw9ryjrylo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-     "sources": 1,
-     "score": 46,
-     "event_id": "d7a1c9894fff",
-     "links": [
-      "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-      "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-     "sources": 2,
-     "score": 45,
-     "event_id": "467cf97b1acf",
-     "links": [
-      "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Elon Musk has donated over $276 million to Republican midterm efforts",
-     "sources": 2,
-     "score": 42,
-     "event_id": "4f05eeb200ed",
-     "links": [
-      "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-      "https://electrek.co/2026/10/12/no-single-person-has-spent-more-money-to-harm-evs-than-tesla-ceo-elon-musk/"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
-     "sources": 3,
-     "score": 50,
-     "event_id": "98c90d114a62",
-     "links": [
-      "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
-      "https://www.aljazeera.com/news/2026/10/12/elon-musk-spends-366m-to-bolster-republican-party-in-us-midterm-elections?traffic_source=rss",
-      "https://www.investing.com/news/stock-market-news/elon-musk-spends-366-million-on-2026-us-midterm-elections-4945225"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Elon Musk becomes biggest donor of US midterms cycle with $366m spent",
-     "sources": 2,
-     "score": 48,
-     "event_id": "c53837b319d6",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
-      "https://www.aljazeera.com/news/2026/10/13/us-supreme-court-agrees-to-hear-watchdog-case-on-elon-musks-doge-records?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
-     "sources": 4,
-     "score": 68,
-     "event_id": "714d1f0b729f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
-     "sources": 2,
-     "score": 44,
-     "event_id": "490a23f57428",
-     "links": [
-      "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
-      "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
-     "sources": 3,
-     "score": 56,
-     "event_id": "869772203883",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
-      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
-      "https://www.france24.com/en/americas/20261014-musk-says-us-govt-responsible-for-any-starshield-restrictions-affecting-ukraine"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-     "sources": 2,
-     "score": 41,
-     "event_id": "1cc24ddce8a4",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-      "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "Elon Musk agrees to settle lawsuits over 2024 election lottery",
-     "sources": 2,
-     "score": 44,
-     "event_id": "f4290472ac1a",
-     "links": [
-      "https://www.theguardian.com/technology/2026/oct/17/elon-musk-2024-million-dollar-promise-lawsuit",
-      "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Elon Musk promises to give one SpaceX share to every child in the US",
-     "sources": 3,
-     "score": 57,
-     "event_id": "658159bc4850",
-     "links": [
-      "https://www.theverge.com/tech/1013667/elon-musk-space-x-shares-us-children",
-      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink?utm_source=rss_feed",
-      "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "China’s milestone in polar region satellite broadband narrows gap with Elon Musk’s Starlink",
-     "sources": 1,
-     "score": 40,
-     "event_id": "733411f27eae",
-     "links": [
-      "https://www.scmp.com/tech/tech-trends/article/3371386/chinas-milestone-polar-region-satellite-broadband-narrows-gap-elon-musks-starlink",
-      "https://www.scmp.com/tech/big-tech/article/3371010/tsmc-confirms-talks-elon-musk-over-texas-terafab-insists-operational-control"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Elon Musk says Tesla-SpaceX merger being considered",
-     "sources": 4,
-     "score": 56,
-     "event_id": "b17a25d8c48a",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-     "sources": 3,
-     "score": 52,
-     "event_id": "ed05f4b9715a",
-     "links": [
-      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Musk confirms SpaceX and Tesla exploring merger",
-     "sources": 4,
-     "score": 62,
-     "event_id": "959dcb673548",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/21/musk-confirms-spacex-and-tesla-exploring-merger?traffic_source=rss",
-      "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
-      "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
-     "sources": 8,
-     "score": 79,
-     "event_id": "030e0762a24f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, Netflix, Zoom, Apple, Robinhood & more",
-     "sources": 1,
-     "score": 44,
-     "event_id": "5a36fa44b304",
-     "links": [
-      "https://www.cnbc.com/2026/10/21/wednesday-biggest-analyst-calls-like-spacex.html",
-      "https://www.cnbc.com/2026/10/21/stocks-making-the-biggest-moves-premarket-spcx-smci-nflx-more.html"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Tesla to report earnings after Elon Musk floats SpaceX merger plan",
-     "sources": 3,
-     "score": 53,
-     "event_id": "2c9536723835",
-     "links": [
-      "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
-      "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-      "https://electrek.co/2026/10/21/tesla-fsd-subscriptions-1-74-million-musk-pay-package/"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "James Talarico fires back at Elon Musk in Texas Senate race feud",
-     "sources": 2,
-     "score": 46,
-     "event_id": "ab3660a4efa6",
-     "links": [
-      "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
-      "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Elon Musk invests about $1 billion in Skydance",
-     "sources": 3,
-     "score": 49,
-     "event_id": "795b2f9bbb2b",
-     "links": [
-      "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
-      "https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check",
-      "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a3c44a432a3d",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
-      "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Trump says Musk has restored access to Ukraine's Starlink network",
-     "sources": 2,
-     "score": 44,
-     "event_id": "9c464aa25357",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/23/trump-musk-zelenskyy-who-is-blaming-who-in-ukraine-starlink-row"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks",
-     "sources": 2,
-     "score": 43,
-     "event_id": "18ba53fb28cc",
-     "links": [
-      "https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html",
-      "https://www.france24.com/en/russia-ready-for-talks-on-plans-for-final-ukraine-deal-not-truce-putin"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Ukraine troops report ongoing problems with Starlink satellite network",
-     "sources": 4,
-     "score": 68,
-     "event_id": "cb9eec62df6f",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
-      "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
-      "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, CoreWeave, Deckers, Unusual Machines & more",
-     "sources": 1,
-     "score": 44,
-     "event_id": "e146a0ded080",
-     "links": [
-      "https://www.cnbc.com/2026/10/23/big-wall-street-analyst-calls-friday-include-spacex-coreweave.html",
-      "https://www.cnbc.com/2026/10/23/stocks-making-the-biggest-moves-premarket-att-spacex-moderna-deckers-bloom-energy-and-more.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
-     "sources": 2,
-     "score": 54,
-     "event_id": "4212a5c7dadf",
-     "links": [
-      "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
-      "https://www.cnbc.com/2026/10/22/wall-street-analyst-calls-nvidia-tesla-meta-spacex.html",
-      "https://www.cnbc.com/2026/10/22/stocks-making-the-biggest-moves-premarket-tsla-meta-avex-spot.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-     "sources": 3,
-     "score": 50,
-     "event_id": "3992fc4ed3eb",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e406db6a9c15",
-     "links": [
-      "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
-      "https://www.investing.com/news/commodities-news/trump-says-he-will-fix-any-starlink-access-problem-in-ukraine-4970057"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Ukraine says Starlink connection 'now stable' after network limits",
-     "sources": 2,
-     "score": 41,
-     "event_id": "8b4dc9f3945d",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/europe/20261024-ukraine-says-starlink-and-starshield-connection-stable-again"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
-     "sources": 2,
-     "score": 40,
-     "event_id": "9b5397f83bd4",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Ukraine says Starlink is back to normal after disruptions",
-     "sources": 2,
-     "score": 40,
-     "event_id": "19c0d49aeb1d",
-     "links": [
-      "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
-      "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Ukraine: Starlink satellite speeds restored to normal",
-     "sources": 3,
-     "score": 52,
-     "event_id": "e76559e70f02",
-     "links": [
-      "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-rdf",
-      "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-      "https://www.investing.com/news/economy-news/ukraine-says-military-starlink-service-restored-after-10day-disruption-4970760"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-     "sources": 2,
-     "score": 42,
-     "event_id": "2f7ad053a046",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Russia to host first Olympic federation world event since Ukraine invasion",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c85cd878b1f9",
-     "links": [
-      "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Apple stock has become an anti-AI trade. Here’s why",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b110318e469b",
-     "links": [
-      "https://www.cnbc.com/2026/10/26/apple-stock-has-become-an-anti-ai-trade-heres-why.html",
-      "https://www.cnbc.com/2026/10/26/monday-biggest-wall-street-analyst-calls-like-tesla.html"
-     ]
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
-     "sources": 2,
-     "score": 43,
-     "event_id": "fa6d08a49746",
-     "links": [
-      "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Here are Wednesday's biggest analyst calls: SpaceX, Nvidia, Apple, AMD, Meta, Amazon, Tesla, Boeing & more",
-     "sources": 2,
-     "score": 54,
-     "event_id": "fb856fcd1cdb",
-     "links": [
-      "https://www.cnbc.com/2026/10/28/big-wall-street-stocks-covered-on-analyst-calls-include-spacex-boeing.html",
-      "https://www.theverge.com/tech/1020035/amazon-fall-2026-hardware-launch-biggest-announcements",
-      "https://www.theverge.com/tech/1020241/amazon-echo-studio-home-camera-dot-smart-home-hub"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-     "sources": 4,
-     "score": 64,
-     "event_id": "b069f02850bf",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Russia in Africa: What is Putin hoping to achieve?",
-     "sources": 2,
-     "score": 44,
-     "event_id": "6d4c38fea313",
-     "links": [
-      "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/28/norway-and-finland-hold-rare-phone-call-with-putin-what-that-means?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Trump says US will halt $4 billion in aid to Israel after end of the year",
-     "sources": 3,
-     "score": 46,
-     "event_id": "a1898e751ac5",
-     "links": [
-      "https://www.france24.com/en/middle-east/20261103-trump-says-us-will-halt-4-billion-in-aid-to-israel-after-end-of-this-year",
-      "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
-      "https://www.investing.com/news/commodities-news/oil-rises-after-reported-us-strike-on-irans-qeshm-island-4993349"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "SpaceX is working with Qualcomm to build its Starlink Mobile 5G network",
-     "sources": 2,
-     "score": 40,
-     "event_id": "dac4e5e8c746",
-     "links": [
-      "https://www.theverge.com/science/1026287/spacex-qualcomm-starlink-mobile-5g-netwowrk",
-      "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html"
-     ]
-    }
-   ]
-  },
-  {
    "id": "fc871ed3ce64",
    "title": "Trump signs order to rename Lake Ontario as Lake America",
    "section": "world",
@@ -3776,509 +4432,6 @@
       "https://www.dw.com/en/us-midterms-largely-true-iran-war-led-to-loss-trump-says/live-79829440?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
       "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7da4e07716c7",
-   "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-   "section": "world",
-   "entities": [
-    "anthony",
-    "house",
-    "secretary",
-    "midterms",
-    "georgia",
-    "haley",
-    "katherine",
-    "keisha",
-    "maine",
-    "democrats",
-    "elon",
-    "paxton",
-    "turek",
-    "zurcher",
-    "wife",
-    "angry",
-    "mike",
-    "josh",
-    "call",
-    "iran",
-    "left-wing",
-    "hormuz",
-    "here's",
-    "karl",
-    "tankers",
-    "james",
-    "november",
-    "michigan",
-    "abdul",
-    "stevens",
-    "pentagon",
-    "el-sayed",
-    "defense",
-    "democratic",
-    "republicans",
-    "trump",
-    "rogers",
-    "musk's",
-    "ossoff",
-    "clark"
-   ],
-   "event_ids": [
-    "7da4e07716c7",
-    "7d0d4d3f6bdb",
-    "9ba97aff3e7d",
-    "685eb5ef4b77",
-    "dc98be3509f8",
-    "83c9ff637cd4",
-    "1a58c450df85",
-    "0bd2b78f98d3",
-    "5b2e57f10a93",
-    "6bdae1bbcb1a",
-    "262b590f746f",
-    "282dcc034a3b",
-    "4c37332d2bbb",
-    "06237d9feb09",
-    "4c1e1d02df87",
-    "f5b6d367ab3d",
-    "6ee149854410",
-    "660903c7e4d9",
-    "7cf106926362",
-    "cc6d5c271c5b",
-    "94f3a475eae4",
-    "b0936e6dce0d",
-    "43992b5f3fd4",
-    "0c2e960b0584",
-    "835c8d9b6884",
-    "74dab33a4157",
-    "679276982c61",
-    "dbbf789e01db",
-    "e019a4979e69",
-    "ea0f1f9c4b5a",
-    "1e43314e8e82",
-    "9b8c734ec6dd",
-    "a3e2b24eafb5",
-    "078ed532d7fc",
-    "a6edc1d9c850",
-    "db8842f4456e"
-   ],
-   "first_seen": "2026-09-11",
-   "last_seen": "2026-11-04",
-   "timeline": [
-    {
-     "date": "2026-09-11",
-     "headline": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-     "sources": 3,
-     "score": 55,
-     "event_id": "7da4e07716c7",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
-      "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Iran war won't end until after crucial November elections, says Trump",
-     "sources": 2,
-     "score": 45,
-     "event_id": "7d0d4d3f6bdb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Trump dismisses report China supplied intel to Iran",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9ba97aff3e7d",
-     "links": [
-      "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
-     "sources": 2,
-     "score": 40,
-     "event_id": "685eb5ef4b77",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
-     "sources": 2,
-     "score": 47,
-     "event_id": "dc98be3509f8",
-     "links": [
-      "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
-      "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
-      "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-     "sources": 2,
-     "score": 42,
-     "event_id": "83c9ff637cd4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1a58c450df85",
-     "links": [
-      "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
-      "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-     "sources": 2,
-     "score": 48,
-     "event_id": "0bd2b78f98d3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "US says China trade truce extended as Trump welcomes Xi",
-     "sources": 2,
-     "score": 40,
-     "event_id": "5b2e57f10a93",
-     "links": [
-      "https://www.france24.com/en/video/20260924-us-says-china-trade-truce-extended-as-trump-welcomes-xi",
-      "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
-     "sources": 2,
-     "score": 42,
-     "event_id": "6bdae1bbcb1a",
-     "links": [
-      "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
-      "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
-     "sources": 2,
-     "score": 45,
-     "event_id": "262b590f746f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "US official claims Trump holds all the cards in Iran talks",
-     "sources": 3,
-     "score": 52,
-     "event_id": "282dcc034a3b",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz",
-      "https://www.investing.com/news/economy-news/iran-awaits-us-response-to-hormuz-peace-plan-as-trump-reportedly-rejects-deal-4918476"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
-     "sources": 4,
-     "score": 70,
-     "event_id": "4c37332d2bbb",
-     "links": [
-      "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
-      "https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html",
-      "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-     "sources": 1,
-     "score": 40,
-     "event_id": "06237d9feb09",
-     "links": [
-      "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
-      "https://www.cnbc.com/2026/10/15/james-talarico-texas-senate-fundraising-ken-paxton.html"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
-     "sources": 2,
-     "score": 42,
-     "event_id": "4c1e1d02df87",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-     "sources": 3,
-     "score": 63,
-     "event_id": "f5b6d367ab3d",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
-      "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
-     "sources": 2,
-     "score": 42,
-     "event_id": "6ee149854410",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "How a Democrat in Michigan rocked the party days before the US midterms",
-     "sources": 2,
-     "score": 50,
-     "event_id": "660903c7e4d9",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
-      "https://www.france24.com/en/michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "What might Trump have planned for Iran following the midterm election?",
-     "sources": 2,
-     "score": 44,
-     "event_id": "7cf106926362",
-     "links": [
-      "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
-     "sources": 2,
-     "score": 53,
-     "event_id": "cc6d5c271c5b",
-     "links": [
-      "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
-      "https://www.france24.com/en/video/20261103-us-midterms-michigan-senate-candidate-el-sayed-becomes-democrats-rising-star",
-      "https://www.france24.com/en/video/20261103-us-midterms-michigan-candidate-el-sayed-pledges-to-tackle-the-affordability-crisis"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
-     "sources": 2,
-     "score": 48,
-     "event_id": "94f3a475eae4",
-     "links": [
-      "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
-      "https://www.france24.com/en/video/20261102-sour-grapes-dems-shocked-as-haley-stevens-breaks-ranks"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins",
-     "sources": 3,
-     "score": 59,
-     "event_id": "b0936e6dce0d",
-     "links": [
-      "https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins",
-      "https://www.france24.com/en/video/20261104-midterms-abdul-el-sayed-mike-rogers-face-off-for-michigan-senate-seat",
-      "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Democratic rising star Ossoff projected to hold Georgia seat",
-     "sources": 3,
-     "score": 64,
-     "event_id": "43992b5f3fd4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/americas/20261104-key-us-senate-results-democrats-wrest-north-and-south-carolina-from-the-republicans",
-      "https://www.france24.com/en/video/20261104-replay-georgia-senator-jon-ossoff-wins-reelection"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
-     "sources": 3,
-     "score": 57,
-     "event_id": "0c2e960b0584",
-     "links": [
-      "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
-      "https://www.dw.com/en/us-midterms-democrats-gain-control-of-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Democrat Josh Turek wins the Senate seat in Iowa",
-     "sources": 2,
-     "score": 47,
-     "event_id": "835c8d9b6884",
-     "links": [
-      "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek",
-      "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-     "sources": 5,
-     "score": 83,
-     "event_id": "74dab33a4157",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
-      "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "2026 Midterms: Democrat Keisha Lance Bottoms makes history in Georgia",
-     "sources": 2,
-     "score": 42,
-     "event_id": "679276982c61",
-     "links": [
-      "https://www.france24.com/en/video/20261104-2026-midterms-democrat-keisha-lance-bottoms-makes-history-in-georgia",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-amy-acton-makes-history-in-ohio?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history",
-     "sources": 2,
-     "score": 54,
-     "event_id": "dbbf789e01db",
-     "links": [
-      "https://www.aljazeera.com/news/2026/11/4/call-me-senator-how-abdul-el-sayed-beat-trumps-hate-to-create-history?traffic_source=rss",
-      "https://www.france24.com/en/video/20261104-abdul-el-sayed-set-to-become-first-muslim-senator-after-win-in-michigan",
-      "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "US midterms: Democrats win House and Senate from Republicans",
-     "sources": 3,
-     "score": 49,
-     "event_id": "e019a4979e69",
-     "links": [
-      "https://www.dw.com/en/us-midterms-democrats-win-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss",
-      "https://www.france24.com/en/americas/20261104-why-the-democrats-routed-republicans-us-midterm-elections"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Rep. Katherine Clark says Democrats are on track to win control of the House tonight",
-     "sources": 2,
-     "score": 42,
-     "event_id": "ea0f1f9c4b5a",
-     "links": [
-      "https://www.npr.org/2026/11/03/nx-s1-6028015/rep-katherine-clark-says-democrats-are-on-track-to-win-control-of-the-house-tonight",
-      "https://www.investing.com/news/economy-news/investors-ready-for-possible-shakeup-in-congress-as-election-day-arrives-4994181"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "US midterms: Trump reacts to the Democrats’ sweeping victory",
-     "sources": 2,
-     "score": 40,
-     "event_id": "1e43314e8e82",
-     "links": [
-      "https://www.france24.com/en/video/20261104-us-midterms-trump-reacts-to-the-democrats-sweeping-victory",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
-     "sources": 3,
-     "score": 64,
-     "event_id": "9b8c734ec6dd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
-      "https://www.france24.com/en/video/20261104-midterms-how-abdul-el-sayed-used-humour-and-hope-to-rebuff-racism"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-     "sources": 3,
-     "score": 58,
-     "event_id": "a3e2b24eafb5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "https://electrek.co/2026/11/04/what-does-a-blue-texas-sweep-mean-for-tesla-spacex-elon-musk/"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "US midterm election results: Democrats flip House and Senate. Here's what else the data tell us",
-     "sources": 2,
-     "score": 52,
-     "event_id": "078ed532d7fc",
-     "links": [
-      "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tell-us/a-79841886?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/sport/2026/nov/04/mark-teixeira-michele-tafoya-midterm-elections"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-     "sources": 2,
-     "score": 43,
-     "event_id": "a6edc1d9c850",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20261104-trump-seeks-to-shift-blame-but-has-nowhere-to-hide-after-midterms-defeat"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
-     "sources": 3,
-     "score": 64,
-     "event_id": "db8842f4456e",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
-      "https://www.france24.com/en/americas/20261104-democrats-warn-trump-camp-lawyer-up-anger-over-corruption-drives-midterms-wipeout-gop"
      ]
     }
    ]
@@ -5383,36 +5536,6 @@
       "https://www.npr.org/2026/11/04/nx-s1-6028572/hakeem-jeffries-midterms-house",
       "https://www.france24.com/en/video/20261104-replay-us-midterms-today-begins-the-great-american-comeback-hakeem-jeffries",
       "https://www.aljazeera.com/news/2026/11/4/democratic-party-gains-us-house-majority-in-2026-midterm-elections?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "cbd6dbd7b373",
-   "title": "Midterm elections 2026 live updates: What's next after Democrats flip Congress in blue wave",
-   "section": "world",
-   "entities": [
-    "midterm",
-    "congress",
-    "democrats",
-    "what's"
-   ],
-   "event_ids": [
-    "cbd6dbd7b373"
-   ],
-   "first_seen": "2026-11-04",
-   "last_seen": "2026-11-04",
-   "timeline": [
-    {
-     "date": "2026-11-04",
-     "headline": "Midterm elections 2026 live updates: What's next after Democrats flip Congress in blue wave",
-     "sources": 3,
-     "score": 64,
-     "event_id": "cbd6dbd7b373",
-     "links": [
-      "https://www.cnbc.com/2026/11/04/2026-midterm-election-results-live-updates.html",
-      "https://www.aljazeera.com/gallery/2026/11/4/photos-us-democrats-celebrate-winning-control-of-congress?traffic_source=rss",
-      "https://www.france24.com/en/video/20261104-iran-war-epstein-impeachment-what-will-democrats-do-with-control-of-congress"
      ]
     }
    ]
@@ -18290,35 +18413,6 @@
    ]
   },
   {
-   "id": "f745919ab159",
-   "title": "Haaland scores controversial winner as Man City win derby despite Foden red",
-   "section": "sport",
-   "entities": [
-    "city",
-    "foden",
-    "haaland"
-   ],
-   "event_ids": [
-    "f745919ab159"
-   ],
-   "first_seen": "2026-09-13",
-   "last_seen": "2026-09-13",
-   "timeline": [
-    {
-     "date": "2026-09-13",
-     "headline": "Haaland scores controversial winner as Man City win derby despite Foden red",
-     "sources": 3,
-     "score": 58,
-     "event_id": "f745919ab159",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cpd0j54xlyyo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/13/wsl-roundup-arsenal-crystal-palace-aston-villa-manchester-city",
-      "https://www.aljazeera.com/sports/2026/9/13/haaland-goal-sees-10-men-city-beat-united-in-controversial-manchester-derby?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "84ce4047c1c5",
    "title": "Hong Kong's Tiananmen activists guilty in national security trial",
    "section": "world",
@@ -20323,5 +20417,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T21:19:06+00:00"
+ "updated": "2026-11-05T00:38:11+00:00"
 }
