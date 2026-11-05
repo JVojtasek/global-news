@@ -1630,46 +1630,46 @@
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
    "entities": [
-    "qualcomm",
-    "machines",
-    "olympic",
-    "musk",
-    "spacex",
-    "russia",
-    "starlink",
-    "billionaire",
-    "ukraine",
-    "ukraine's",
-    "mobile",
-    "dots",
-    "embiricos",
-    "meta",
-    "anthropic",
-    "apple",
-    "ambani",
-    "zoom",
-    "amazon",
     "boeing",
-    "nvidia",
-    "openai",
+    "anthropic",
     "unusual",
-    "friday's",
-    "talarico",
-    "trump",
-    "side",
-    "putin",
-    "alexander",
-    "china",
-    "miss",
-    "texas",
-    "deckers",
-    "skydance",
-    "beyond",
-    "israel",
-    "europe",
+    "russia",
+    "ambani",
+    "billionaire",
     "sure",
+    "texas",
+    "israel",
+    "china",
+    "elon",
+    "deckers",
+    "beyond",
+    "nvidia",
+    "europe",
+    "talarico",
+    "meta",
+    "putin",
+    "carter",
+    "alexander",
+    "olympic",
+    "zoom",
     "networking",
-    "elon"
+    "side",
+    "skydance",
+    "starlink",
+    "machines",
+    "qualcomm",
+    "amazon",
+    "miss",
+    "ukraine",
+    "openai",
+    "spacex",
+    "embiricos",
+    "stateside",
+    "musk",
+    "friday's",
+    "apple",
+    "dots",
+    "trump"
    ],
    "event_ids": [
     "95b4d8eb7452",
@@ -1721,7 +1721,8 @@
     "6d4c38fea313",
     "a1898e751ac5",
     "dac4e5e8c746",
-    "acf1fc42b66a"
+    "acf1fc42b66a",
+    "ffa18a411454"
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-11-05",
@@ -2299,6 +2300,18 @@
       "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
       "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
       "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Was Elon Musk the US midterms' biggest loser? – Stateside with Kai and Carter",
+     "sources": 3,
+     "score": 56,
+     "event_id": "ffa18a411454",
+     "links": [
+      "https://www.theguardian.com/us-news/video/2026/nov/05/was-elon-musk-the-us-midterms-biggest-loser-stateside-with-kai-and-carter",
+      "https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next/",
+      "https://www.france24.com/en/video/20261105-us-midterms-elon-musk-fails-440-million-bet-as-republicans-lose"
      ]
     }
    ]
@@ -3953,6 +3966,165 @@
    ]
   },
   {
+   "id": "bd5d0f2f7796",
+   "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+   "section": "world",
+   "entities": [
+    "cristiano",
+    "ronaldo",
+    "fernandes",
+    "jesus",
+    "portugal",
+    "world"
+   ],
+   "event_ids": [
+    "bd5d0f2f7796",
+    "43e6847f2fa0",
+    "f4be89c7badb",
+    "4fbabe3bacfc",
+    "6985c1474d56",
+    "1bc51a1eb6c7",
+    "3847220f4e53",
+    "d9a7dbf3e642",
+    "c3205cc82c67",
+    "5bf51db116d8",
+    "d39b15fe3ed5"
+   ],
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-11-05",
+   "timeline": [
+    {
+     "date": "2026-09-18",
+     "headline": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
+     "sources": 4,
+     "score": 71,
+     "event_id": "bd5d0f2f7796",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Ronaldo spurred on by 1,000 goals and Portugal glory",
+     "sources": 3,
+     "score": 60,
+     "event_id": "43e6847f2fa0",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/9/23/portugal-vs-wales-uefa-nations-league-teams-start-lineups?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
+     "sources": 2,
+     "score": 46,
+     "event_id": "f4be89c7badb",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
+      "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Ronaldo leaves Portugal camp after coach denies rift",
+     "sources": 3,
+     "score": 52,
+     "event_id": "4fbabe3bacfc",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
+      "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Cristiano Ronaldo walks out of Portugal camp",
+     "sources": 2,
+     "score": 44,
+     "event_id": "6985c1474d56",
+     "links": [
+      "https://www.dw.com/en/cristiano-ronaldo-walks-out-of-portugal-camp/a-79497238?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/1/portugal-coach-responds-after-ronaldo-leaves-camp?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/10/1/why-did-ronaldo-leave-portugals-training-camp-and-will-he-play-again?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "headline": "Ronaldo 'greatest symbol' of Portugal -  Fernandes",
+     "sources": 3,
+     "score": 53,
+     "event_id": "1bc51a1eb6c7",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/ckq5nd1g14v4o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/03/cristiano-ronaldo-portugal-bruno-fernandes-jorge-jesus-nations-league"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Portugal boss says door open for Ronaldo return",
+     "sources": 2,
+     "score": 41,
+     "event_id": "3847220f4e53",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Ronaldo wants Portugal 'punishment' but not retiring",
+     "sources": 3,
+     "score": 54,
+     "event_id": "d9a7dbf3e642",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/06/cristiano-ronaldo-accuses-portugal-coach-jorge-jesus-of-broken-promises"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Cristiano Ronaldo receives 30-day suspension and £215 fine over Portugal walkout",
+     "sources": 2,
+     "score": 40,
+     "event_id": "c3205cc82c67",
+     "links": [
+      "https://www.theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout",
+      "https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Ronaldo retires from Portugal duty",
+     "sources": 3,
+     "score": 50,
+     "event_id": "5bf51db116d8",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/nov/05/cristiano-ronaldo-calls-time-on-portugal-career"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Cristiano Ronaldo announces retirement from international football",
+     "sources": 3,
+     "score": 48,
+     "event_id": "d39b15fe3ed5",
+     "links": [
+      "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss",
+      "https://www.france24.com/en/sport/20261105-football-legend-cristiano-ronaldo-announces-international-retirement"
+     ]
+    }
+   ]
+  },
+  {
    "id": "9826c96e0bea",
    "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
    "section": "world",
@@ -4083,12 +4255,12 @@
    "title": "Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention",
    "section": "world",
    "entities": [
-    "iran",
-    "trump",
+    "republican",
     "american",
     "vance",
+    "iran",
     "republicans",
-    "republican"
+    "trump"
    ],
    "event_ids": [
     "c4e9a534ed7d",
@@ -4096,7 +4268,8 @@
     "edc0e7699209",
     "9dbd934229d3",
     "dacdef1ef1a2",
-    "e8db9958c58d"
+    "e8db9958c58d",
+    "05577fe906c6"
    ],
    "first_seen": "2026-09-10",
    "last_seen": "2026-11-05",
@@ -4168,6 +4341,86 @@
       "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
       "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "After midterm stinging defeat, Trump is left to weigh his next move in Iran war",
+     "sources": 2,
+     "score": 40,
+     "event_id": "05577fe906c6",
+     "links": [
+      "https://www.france24.com/en/video/20261105-after-midterm-stinging-defeat-trump-is-left-to-weigh-his-next-move-in-iran-war",
+      "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e183c545cb4c",
+   "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
+   "section": "world",
+   "entities": [
+    "tashima",
+    "fifa",
+    "infantino",
+    "oceania",
+    "kozo",
+    "japan",
+    "zealand"
+   ],
+   "event_ids": [
+    "e183c545cb4c",
+    "496f55f6a2bd",
+    "6f4ad346fb6d",
+    "b580fa174f83"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-11-05",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Watch: BBC asks Infantino if he will resign as Fifa president",
+     "sources": 6,
+     "score": 83,
+     "event_id": "e183c545cb4c",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Oceania declares support for Infantino in boost for Fifa president but New Zealand breaks ranks",
+     "sources": 2,
+     "score": 41,
+     "event_id": "496f55f6a2bd",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president",
+      "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Top Fifa official sacked after Infantino plan criticism",
+     "sources": 2,
+     "score": 40,
+     "event_id": "6f4ad346fb6d",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Japan FA’s Kozo Tashima to stand against Infantino for Fifa presidency",
+     "sources": 2,
+     "score": 40,
+     "event_id": "b580fa174f83",
+     "links": [
+      "https://www.theguardian.com/football/2026/nov/05/japan-fa-head-kozo-tashima-stand-against-gianni-infantino-for-fifa-president",
+      "https://www.theguardian.com/football/2026/nov/05/japan-fa-head-kozo-tashima-stand-against-gianni-infantino-for-fifa-president"
      ]
     }
    ]
@@ -14879,139 +15132,6 @@
    ]
   },
   {
-   "id": "bd5d0f2f7796",
-   "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-   "section": "world",
-   "entities": [
-    "cristiano",
-    "portugal",
-    "fernandes",
-    "world",
-    "ronaldo",
-    "jesus"
-   ],
-   "event_ids": [
-    "bd5d0f2f7796",
-    "43e6847f2fa0",
-    "f4be89c7badb",
-    "4fbabe3bacfc",
-    "6985c1474d56",
-    "1bc51a1eb6c7",
-    "3847220f4e53",
-    "d9a7dbf3e642",
-    "c3205cc82c67"
-   ],
-   "first_seen": "2026-09-18",
-   "last_seen": "2026-10-19",
-   "timeline": [
-    {
-     "date": "2026-09-18",
-     "headline": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
-     "sources": 4,
-     "score": 71,
-     "event_id": "bd5d0f2f7796",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Ronaldo spurred on by 1,000 goals and Portugal glory",
-     "sources": 3,
-     "score": 60,
-     "event_id": "43e6847f2fa0",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/9/23/portugal-vs-wales-uefa-nations-league-teams-start-lineups?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Cristiano Ronaldo misses Portugal training amid reports of rift with coach Jesus",
-     "sources": 2,
-     "score": 46,
-     "event_id": "f4be89c7badb",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
-      "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Ronaldo leaves Portugal camp after coach denies rift",
-     "sources": 3,
-     "score": 52,
-     "event_id": "4fbabe3bacfc",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/sport/20260930-ronaldo-leaves-portugal-training-camp-after-coach-drops-him-from-upcoming-match",
-      "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Cristiano Ronaldo walks out of Portugal camp",
-     "sources": 2,
-     "score": 44,
-     "event_id": "6985c1474d56",
-     "links": [
-      "https://www.dw.com/en/cristiano-ronaldo-walks-out-of-portugal-camp/a-79497238?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/1/portugal-coach-responds-after-ronaldo-leaves-camp?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/10/1/why-did-ronaldo-leave-portugals-training-camp-and-will-he-play-again?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-03",
-     "headline": "Ronaldo 'greatest symbol' of Portugal -  Fernandes",
-     "sources": 3,
-     "score": 53,
-     "event_id": "1bc51a1eb6c7",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/ckq5nd1g14v4o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/3/fernandes-denies-portugal-rift-hails-ronaldo-after-walk-out?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/oct/03/cristiano-ronaldo-portugal-bruno-fernandes-jorge-jesus-nations-league"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Portugal boss says door open for Ronaldo return",
-     "sources": 2,
-     "score": 41,
-     "event_id": "3847220f4e53",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/10/4/cristiano-ronaldo-can-return-to-portugal-team-if-he-wants-says-jesus?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Ronaldo wants Portugal 'punishment' but not retiring",
-     "sources": 3,
-     "score": 54,
-     "event_id": "d9a7dbf3e642",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/oct/06/cristiano-ronaldo-accuses-portugal-coach-jorge-jesus-of-broken-promises"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Cristiano Ronaldo receives 30-day suspension and £215 fine over Portugal walkout",
-     "sources": 2,
-     "score": 40,
-     "event_id": "c3205cc82c67",
-     "links": [
-      "https://www.theguardian.com/football/2026/oct/19/cristiano-ronaldo-30-day-suspension-and-215-fine-portugal-walkout",
-      "https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "c695e021eed1",
    "title": "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
    "section": "tech",
@@ -20094,60 +20214,6 @@
    ]
   },
   {
-   "id": "e183c545cb4c",
-   "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
-   "section": "world",
-   "entities": [
-    "infantino",
-    "fifa",
-    "oceania",
-    "zealand"
-   ],
-   "event_ids": [
-    "e183c545cb4c",
-    "496f55f6a2bd",
-    "6f4ad346fb6d"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-08-17",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Watch: BBC asks Infantino if he will resign as Fifa president",
-     "sources": 6,
-     "score": 83,
-     "event_id": "e183c545cb4c",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Oceania declares support for Infantino in boost for Fifa president but New Zealand breaks ranks",
-     "sources": 2,
-     "score": 41,
-     "event_id": "496f55f6a2bd",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president",
-      "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Top Fifa official sacked after Infantino plan criticism",
-     "sources": 2,
-     "score": 40,
-     "event_id": "6f4ad346fb6d",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour"
-     ]
-    }
-   ]
-  },
-  {
    "id": "534775643230",
    "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
    "section": "sport",
@@ -20533,5 +20599,5 @@
    ]
   }
  ],
- "updated": "2026-11-05T09:21:19+00:00"
+ "updated": "2026-11-05T12:25:22+00:00"
 }
