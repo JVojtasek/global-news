@@ -48,6 +48,20 @@ Paměť obsahuje **184 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-11-04** (4 zdrojů) Nadal set to join Real Madrid board of directors
   - **2026-11-05** (2 zdrojů) Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
 
+### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- rubrika `world` · sledováno 88 dní · 60 záznamů
+- časová osa:
+  - **2026-10-26** (2 zdrojů) Trump announces Audi will build $4 billion factory in US
+  - **2026-10-29** (2 zdrojů) Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
+  - **2026-10-29** (2 zdrojů) Russian drone attack on Ukrainian train station kills at least 14, officials say
+  - **2026-11-01** (2 zdrojů) Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
+  - **2026-11-03** (3 zdrojů) Russian strikes kill 26 in Ukraine after longest ceasefire ends
+  - **2026-11-03** (2 zdrojů) Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
+  - **2026-11-03** (2 zdrojů) Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
+  - **2026-11-03** (2 zdrojů) Ukraine’s drone strikes spur hasty Russian plans for underground data centers
+  - **2026-11-04** (2 zdrojů) Canada joins coalition refusing to play ice hockey against Russia over Ukraine war
+  - **2026-11-05** (2 zdrojů) Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
+
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 83 dní · 60 záznamů
 - časová osa:
@@ -61,20 +75,6 @@ Paměť obsahuje **184 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-10-30** (1 zdrojů) Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
   - **2026-11-03** (1 zdrojů) Scientists Feared This Cute but Venomous Primate Had Gone Extinct Nearly 100 Years Ago. It Was Hiding in Plain Sight All Along
   - **2026-11-04** (1 zdrojů) Archaeologists in Scotland Discovered the Skeleton of a Roman-Era Man Who Was Decapitated Nearly 2,000 Years Ago. Now, You Can See What He Might Have Looked Like During His Lifetime
-
-### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 87 dní · 60 záznamů
-- časová osa:
-  - **2026-10-26** (2 zdrojů) What Germany thinks of carmaker Audi's $4 billion deal with Trump
-  - **2026-10-26** (2 zdrojů) Trump announces Audi will build $4 billion factory in US
-  - **2026-10-29** (2 zdrojů) Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
-  - **2026-10-29** (2 zdrojů) Russian drone attack on Ukrainian train station kills at least 14, officials say
-  - **2026-11-01** (2 zdrojů) Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
-  - **2026-11-03** (3 zdrojů) Russian strikes kill 26 in Ukraine after longest ceasefire ends
-  - **2026-11-03** (2 zdrojů) Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
-  - **2026-11-03** (2 zdrojů) Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
-  - **2026-11-03** (2 zdrojů) Ukraine’s drone strikes spur hasty Russian plans for underground data centers
-  - **2026-11-04** (2 zdrojů) Canada joins coalition refusing to play ice hockey against Russia over Ukraine war
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 84 dní · 60 záznamů
