@@ -1,7 +1,7 @@
 {
  "date": "2026-11-05",
  "mode": "normal",
- "days_since_human": 3,
+ "days_since_human": 0,
  "confidence_threshold": 82,
  "reserve_articles": 7,
  "news_assignments": [
@@ -205,6 +205,74 @@
    "depth": "open"
   },
   {
+   "id": "79e2afd27123",
+   "headline": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+   "section": "world",
+   "score": 80,
+   "sources_count": 6,
+   "depth_signal": 2,
+   "created": "2026-11-05T06:27:33+00:00",
+   "event_time": "2026-11-05T03:56:16+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+     "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+     "published_at": "2026-11-05T03:56:16+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-05T06:27:31+00:00"
+    },
+    {
+     "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 more years",
+     "url": "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "Joshua Wong, once a teen activist and a poster boy of the \"Umbrella Movement,\" is spending most of his adult life in prison.",
+     "published_at": "2026-11-05T05:32:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-05T06:27:31+00:00"
+    },
+    {
+     "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+     "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+     "source": "NPR News",
+     "summary": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
+     "published_at": "2026-11-05T05:29:56+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-05T06:27:31+00:00"
+    },
+    {
+     "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+     "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+     "source": "The Guardian World",
+     "summary": "Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law Exclusive: Joshua Wong laments city’s fate from inside maximum security prison Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second conviction under a national security law that critics say ha",
+     "published_at": "2026-11-05T04:04:49+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-05T06:27:31+00:00"
+    },
+    {
+     "title": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Hong Kong activist Joshua Wong, who became the global face of Hong Kong’s pro-democracy movement has been sentenced.",
+     "published_at": "2026-11-05T04:04:57+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-05T06:27:31+00:00"
+    },
+    {
+     "title": "Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion",
+     "url": "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion",
+     "source": "France 24",
+     "summary": "Hong Kong democracy activist Joshua Wong was sentenced to 10 more years in prison on Thursday for colluding with foreign powers, a court summary said. Wong, 30, pleaded guilty in September to seeking foreign sanctions against Hong Kong and China under Beijing’s national security law, having spent nearly six years imprisoned.",
+     "published_at": "2026-11-05T03:31:53+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-05T06:27:31+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
    "id": "fde93fa8c413",
    "headline": "North Korea denies being behind record $6.3bn Binance hack",
    "section": "business",
@@ -271,56 +339,6 @@
     }
    ],
    "depth": "open"
-  },
-  {
-   "id": "31590043fce8",
-   "headline": "Nadal set to join Real Madrid board of directors",
-   "section": "world",
-   "score": 68,
-   "sources_count": 4,
-   "depth_signal": 2,
-   "created": "2026-11-04T15:19:54+00:00",
-   "event_time": "2026-11-04T13:21:01+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Nadal set to join Real Madrid board of directors",
-     "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-     "published_at": "2026-11-04T13:21:01+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-04T15:19:51+00:00"
-    },
-    {
-     "title": "Nadal set to join Real Madrid board of directors",
-     "url": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Sport",
-     "summary": "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.",
-     "published_at": "2026-11-04T13:21:01+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-04T15:19:51+00:00"
-    },
-    {
-     "title": "Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel",
-     "url": "https://www.theguardian.com/football/2026/nov/04/real-madrid-jj-gabriel-manchester-united-close-agreement-sign",
-     "source": "Guardian Sport",
-     "summary": "Madrid hope to bring in forward during January United to consider legal action if they feel rules broken Real Madrid are closing in on signing JJ Gabriel, though Manchester United will consider legal action if the club believe any rules have been broken. Madrid have offered the 16-year-old forward a multi-year contract and, subject to final talks, hope to bring him to the club in January. Gabriel ",
-     "published_at": "2026-11-04T14:48:17+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-04T15:19:51+00:00"
-    },
-    {
-     "title": "Tennis great Rafael Nadal set to join Real Madrid board",
-     "url": "https://www.aljazeera.com/sports/2026/11/4/tennis-great-rafael-nadal-set-to-join-real-madrid-board?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "The 22-time Grand Slam winner is to be ratified onto club's board of directors.",
-     "published_at": "2026-11-04T13:00:07+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-04T15:19:51+00:00"
-    }
-   ],
-   "depth": "scripture"
   }
  ],
  "feature_assignments": [

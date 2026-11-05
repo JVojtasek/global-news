@@ -1563,22 +1563,383 @@
    ]
   },
   {
+   "id": "8d4f8a634705",
+   "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+   "section": "world",
+   "entities": [
+    "rokid",
+    "ipos",
+    "wong",
+    "kong's",
+    "hong",
+    "joshua",
+    "google",
+    "epstein",
+    "nasdaq",
+    "softbank",
+    "asia",
+    "hynix",
+    "judge",
+    "street",
+    "journal",
+    "kimi",
+    "moonshot",
+    "trump's",
+    "kong",
+    "shanghai",
+    "wall",
+    "jailed"
+   ],
+   "event_ids": [
+    "8d4f8a634705",
+    "e2312c1237f9",
+    "323d97d785b5",
+    "555171a3d51e",
+    "90b187c3a547",
+    "110a86be6895",
+    "f4d95320390a",
+    "ae0f99b97c11",
+    "42fe91b5e44d",
+    "c5d7fab3c9e5",
+    "2c4c5ca7df75",
+    "d92a5a319d7e",
+    "18979a846cd4",
+    "c3c296345fb4",
+    "faf1874beb29",
+    "79e2afd27123"
+   ],
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-11-05",
+   "timeline": [
+    {
+     "date": "2026-09-02",
+     "headline": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+     "sources": 4,
+     "score": 68,
+     "event_id": "8d4f8a634705",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
+      "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
+     "sources": 2,
+     "score": 46,
+     "event_id": "e2312c1237f9",
+     "links": [
+      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case",
+      "https://www.scmp.com/business/article/3365657/jdcoms-us13b-expansion-could-test-hong-kongs-footfall-driven-retail-property-model?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Hong Kong activist Joshua Wong could face life in prison after guilty plea",
+     "sources": 3,
+     "score": 62,
+     "event_id": "323d97d785b5",
+     "links": [
+      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-could-face-life-in-prison-after-guilty-plea",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources",
+     "sources": 2,
+     "score": 46,
+     "event_id": "555171a3d51e",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources?utm_source=rss_feed",
+      "https://www.investing.com/news/stock-market-news/more-central-asian-state-firms-plan-hong-kong-listings-finance-chief-says-4890265"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
+     "sources": 2,
+     "score": 48,
+     "event_id": "90b187c3a547",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
+      "https://www.france24.com/en/asia-pacific/20260911-hong-kong-court-sentences-tiananmen-vigil-activists-to-between-5-and-7-years-in-jail"
+     ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "Kimi maker Moonshot AI to explore dual Hong Kong and Shanghai IPOs to boost capital: sources",
+     "sources": 1,
+     "score": 42,
+     "event_id": "110a86be6895",
+     "links": [
+      "https://www.scmp.com/tech/tech-trends/article/3367027/kimi-maker-moonshot-ai-explore-dual-hong-kong-and-shanghai-ipos-boost-capital-sources?utm_source=rss_feed",
+      "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366500/why-chelsea-football-shirts-are-making-hong-kong-fans-nervous-about-crypto-laws?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead",
+     "sources": 1,
+     "score": 40,
+     "event_id": "f4d95320390a",
+     "links": [
+      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed",
+      "https://www.scmp.com/business/banking-finance/article/3369299/mainland-chinas-pcb-giant-wins-hong-kong-approval-planned-us3b-listing-sources?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Hong Kong journalist arrested on sedition charge",
+     "sources": 2,
+     "score": 44,
+     "event_id": "ae0f99b97c11",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
+      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
+     "sources": 2,
+     "score": 46,
+     "event_id": "42fe91b5e44d",
+     "links": [
+      "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
+      "https://www.investing.com/news/stock-market-news/mattel-attracts-takeover-interest-from-authentic-brands-group-the-wall-street-journal-reports-4928092"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+     "sources": 2,
+     "score": 46,
+     "event_id": "c5d7fab3c9e5",
+     "links": [
+      "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-china-chip-threat-hits-samsung-sk-hynix-oil-retreats-4945342"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
+     "sources": 1,
+     "score": 42,
+     "event_id": "2c4c5ca7df75",
+     "links": [
+      "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening?utm_source=rss_feed",
+      "https://www.scmp.com/business/banking-finance/article/3370504/hong-kong-workers-fear-ai-driven-disruption-retirement-only-20-feel-prepared-survey?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
+     "sources": 1,
+     "score": 56,
+     "event_id": "d92a5a319d7e",
+     "links": [
+      "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening",
+      "https://www.scmp.com/tech/tech-trends/article/3371095/hong-kong-vies-role-robotics-boom-launch-embodied-ai-hub",
+      "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Hong Kong’s leader apologises for residential fire that killed 168 people",
+     "sources": 3,
+     "score": 62,
+     "event_id": "18979a846cd4",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
+      "https://www.scmp.com/presented/tech/topics/hkstp-powering-hks-it-development/article/3372428/securing-global-giant-hkstp-lands-merck-power-hong-kongs-it-ambitions",
+      "https://www.atlasobscura.com/places/tai-hang-fire-dragon-dance"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
+     "sources": 3,
+     "score": 55,
+     "event_id": "c3c296345fb4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+     "sources": 2,
+     "score": 50,
+     "event_id": "faf1874beb29",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+     "sources": 6,
+     "score": 80,
+     "event_id": "79e2afd27123",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9826c96e0bea",
+   "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
+   "section": "world",
+   "entities": [
+    "star",
+    "x-men",
+    "mirfield's",
+    "mckellen",
+    "oberon",
+    "actor",
+    "captain",
+    "trek",
+    "picard",
+    "shakespeare",
+    "stewart",
+    "patrick"
+   ],
+   "event_ids": [
+    "9826c96e0bea",
+    "e47c8cc9a04a",
+    "fdb9df443096",
+    "8917d17ab6fd",
+    "47295b449e3f",
+    "9cc2b10e6108",
+    "50e495f86711",
+    "f9a8a42f0d01"
+   ],
+   "first_seen": "2026-10-29",
+   "last_seen": "2026-11-05",
+   "timeline": [
+    {
+     "date": "2026-10-29",
+     "headline": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
+     "sources": 5,
+     "score": 71,
+     "event_id": "9826c96e0bea",
+     "links": [
+      "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
+      "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "'Star Trek' star Patrick Stewart dies age 86",
+     "sources": 5,
+     "score": 70,
+     "event_id": "e47c8cc9a04a",
+     "links": [
+      "https://www.dw.com/en/star-trek-star-patrick-stewart-dies-age-86/a-79803071?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
+      "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+     "sources": 1,
+     "score": 44,
+     "event_id": "fdb9df443096",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c6e9lpg2j5z3o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
+     "sources": 2,
+     "score": 56,
+     "event_id": "8917d17ab6fd",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-03543-9",
+      "https://www.goodnewsnetwork.org/in-lieu-of-flowers-or-tributes-patrick-stewarts-family-suggests-a-donation-to-alzheimers-research/"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "‘His honesty gave courage to survivors’: domestic abuse charities praise Patrick Stewart’s legacy",
+     "sources": 2,
+     "score": 60,
+     "event_id": "47295b449e3f",
+     "links": [
+      "https://www.theguardian.com/culture/2026/oct/30/domestic-abuse-charities-patrick-stewart-amnesty-international-refuge",
+      "https://www.theguardian.com/culture/2026/oct/30/patrick-stewart-jean-luc-picard-star-trek",
+      "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Sir Patrick Stewart remembered as 'Mirfield's finest'",
+     "sources": 2,
+     "score": 55,
+     "event_id": "9cc2b10e6108",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm0qk2e9deqeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/culture/2026/oct/30/patrick-stewart-jean-luc-picard-star-trek",
+      "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
+     "sources": 2,
+     "score": 48,
+     "event_id": "50e495f86711",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
+      "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "‘He lent me his RSC Oberon cape for my school play’: Patrick Stewart remembered by readers",
+     "sources": 2,
+     "score": 44,
+     "event_id": "f9a8a42f0d01",
+     "links": [
+      "https://www.theguardian.com/culture/2026/nov/04/readers-memories-of-patrick-stewart",
+      "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "c4e9a534ed7d",
    "title": "Trump pledges $5,000 to every American - and other takeaways from  Republican midterms convention",
    "section": "world",
    "entities": [
     "iran",
     "trump",
-    "republican",
     "american",
-    "republicans"
+    "vance",
+    "republicans",
+    "republican"
    ],
    "event_ids": [
     "c4e9a534ed7d",
     "2e11e20cde00",
     "edc0e7699209",
     "9dbd934229d3",
-    "dacdef1ef1a2"
+    "dacdef1ef1a2",
+    "e8db9958c58d"
    ],
    "first_seen": "2026-09-10",
    "last_seen": "2026-11-05",
@@ -1639,6 +2000,18 @@
       "https://www.dw.com/en/trump-says-largely-true-iran-war-led-to-republican-midterm-loss/live-79829440?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections"
      ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+     "sources": 3,
+     "score": 58,
+     "event_id": "e8db9958c58d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
+      "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html"
+     ]
     }
    ]
   },
@@ -1648,13 +2021,14 @@
    "section": "world",
    "entities": [
     "what's",
-    "midterm",
     "democrats",
-    "congress"
+    "congress",
+    "midterm"
    ],
    "event_ids": [
     "cbd6dbd7b373",
-    "0ed6bd389882"
+    "0ed6bd389882",
+    "be5639c6e297"
    ],
    "first_seen": "2026-11-04",
    "last_seen": "2026-11-05",
@@ -1681,6 +2055,17 @@
       "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss",
       "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
       "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "What Democrats can and can't do with their new power after taking Congress",
+     "sources": 2,
+     "score": 45,
+     "event_id": "be5639c6e297",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss"
      ]
     }
    ]
@@ -9912,225 +10297,6 @@
    ]
   },
   {
-   "id": "8d4f8a634705",
-   "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-   "section": "world",
-   "entities": [
-    "moonshot",
-    "asia",
-    "hong",
-    "kong",
-    "shanghai",
-    "epstein",
-    "trump's",
-    "softbank",
-    "nasdaq",
-    "judge",
-    "wall",
-    "google",
-    "ipos",
-    "joshua",
-    "street",
-    "rokid",
-    "jailed",
-    "hynix",
-    "wong",
-    "kimi",
-    "journal"
-   ],
-   "event_ids": [
-    "8d4f8a634705",
-    "e2312c1237f9",
-    "323d97d785b5",
-    "555171a3d51e",
-    "90b187c3a547",
-    "110a86be6895",
-    "f4d95320390a",
-    "ae0f99b97c11",
-    "42fe91b5e44d",
-    "c5d7fab3c9e5",
-    "2c4c5ca7df75",
-    "d92a5a319d7e",
-    "18979a846cd4",
-    "c3c296345fb4",
-    "faf1874beb29"
-   ],
-   "first_seen": "2026-09-02",
-   "last_seen": "2026-11-01",
-   "timeline": [
-    {
-     "date": "2026-09-02",
-     "headline": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-     "sources": 4,
-     "score": 68,
-     "event_id": "8d4f8a634705",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
-      "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
-     "sources": 2,
-     "score": 46,
-     "event_id": "e2312c1237f9",
-     "links": [
-      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case",
-      "https://www.scmp.com/business/article/3365657/jdcoms-us13b-expansion-could-test-hong-kongs-footfall-driven-retail-property-model?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Hong Kong activist Joshua Wong could face life in prison after guilty plea",
-     "sources": 3,
-     "score": 62,
-     "event_id": "323d97d785b5",
-     "links": [
-      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-could-face-life-in-prison-after-guilty-plea",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
-      "https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources",
-     "sources": 2,
-     "score": 46,
-     "event_id": "555171a3d51e",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources?utm_source=rss_feed",
-      "https://www.investing.com/news/stock-market-news/more-central-asian-state-firms-plan-hong-kong-listings-finance-chief-says-4890265"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
-     "sources": 2,
-     "score": 48,
-     "event_id": "90b187c3a547",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
-      "https://www.france24.com/en/asia-pacific/20260911-hong-kong-court-sentences-tiananmen-vigil-activists-to-between-5-and-7-years-in-jail"
-     ]
-    },
-    {
-     "date": "2026-09-12",
-     "headline": "Kimi maker Moonshot AI to explore dual Hong Kong and Shanghai IPOs to boost capital: sources",
-     "sources": 1,
-     "score": 42,
-     "event_id": "110a86be6895",
-     "links": [
-      "https://www.scmp.com/tech/tech-trends/article/3367027/kimi-maker-moonshot-ai-explore-dual-hong-kong-and-shanghai-ipos-boost-capital-sources?utm_source=rss_feed",
-      "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366500/why-chelsea-football-shirts-are-making-hong-kong-fans-nervous-about-crypto-laws?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead",
-     "sources": 1,
-     "score": 40,
-     "event_id": "f4d95320390a",
-     "links": [
-      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed",
-      "https://www.scmp.com/business/banking-finance/article/3369299/mainland-chinas-pcb-giant-wins-hong-kong-approval-planned-us3b-listing-sources?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Hong Kong journalist arrested on sedition charge",
-     "sources": 2,
-     "score": 44,
-     "event_id": "ae0f99b97c11",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
-      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
-     "sources": 2,
-     "score": 46,
-     "event_id": "42fe91b5e44d",
-     "links": [
-      "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
-      "https://www.investing.com/news/stock-market-news/mattel-attracts-takeover-interest-from-authentic-brands-group-the-wall-street-journal-reports-4928092"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
-     "sources": 2,
-     "score": 46,
-     "event_id": "c5d7fab3c9e5",
-     "links": [
-      "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-      "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-china-chip-threat-hits-samsung-sk-hynix-oil-retreats-4945342"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
-     "sources": 1,
-     "score": 42,
-     "event_id": "2c4c5ca7df75",
-     "links": [
-      "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening?utm_source=rss_feed",
-      "https://www.scmp.com/business/banking-finance/article/3370504/hong-kong-workers-fear-ai-driven-disruption-retirement-only-20-feel-prepared-survey?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
-     "sources": 1,
-     "score": 56,
-     "event_id": "d92a5a319d7e",
-     "links": [
-      "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening",
-      "https://www.scmp.com/tech/tech-trends/article/3371095/hong-kong-vies-role-robotics-boom-launch-embodied-ai-hub",
-      "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Hong Kong’s leader apologises for residential fire that killed 168 people",
-     "sources": 3,
-     "score": 62,
-     "event_id": "18979a846cd4",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
-      "https://www.scmp.com/presented/tech/topics/hkstp-powering-hks-it-development/article/3372428/securing-global-giant-hkstp-lands-merck-power-hong-kongs-it-ambitions",
-      "https://www.atlasobscura.com/places/tai-hang-fire-dragon-dance"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
-     "sources": 3,
-     "score": 55,
-     "event_id": "c3c296345fb4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-     "sources": 2,
-     "score": 50,
-     "event_id": "faf1874beb29",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter"
-     ]
-    }
-   ]
-  },
-  {
    "id": "e1d91b26d8b2",
    "title": "Almgren wins in New York on marathon debut",
    "section": "sport",
@@ -10326,119 +10492,6 @@
      "links": [
       "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
       "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "9826c96e0bea",
-   "title": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
-   "section": "world",
-   "entities": [
-    "actor",
-    "patrick",
-    "captain",
-    "trek",
-    "mckellen",
-    "stewart",
-    "picard",
-    "x-men",
-    "shakespeare",
-    "star",
-    "mirfield's"
-   ],
-   "event_ids": [
-    "9826c96e0bea",
-    "e47c8cc9a04a",
-    "fdb9df443096",
-    "8917d17ab6fd",
-    "47295b449e3f",
-    "9cc2b10e6108",
-    "50e495f86711"
-   ],
-   "first_seen": "2026-10-29",
-   "last_seen": "2026-10-31",
-   "timeline": [
-    {
-     "date": "2026-10-29",
-     "headline": "Patrick Stewart, a perceptive patriarch in 'Star Trek' and 'X-Men,' dies at 86",
-     "sources": 5,
-     "score": 71,
-     "event_id": "9826c96e0bea",
-     "links": [
-      "https://www.npr.org/2026/10/29/1230906945/patrick-stewart-dead",
-      "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/culture/20261029-patrick-stewart-star-of-star-trek-and-x-men-dies-age-86"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "'Star Trek' star Patrick Stewart dies age 86",
-     "sources": 5,
-     "score": 70,
-     "event_id": "e47c8cc9a04a",
-     "links": [
-      "https://www.dw.com/en/star-trek-star-patrick-stewart-dies-age-86/a-79803071?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead",
-      "https://www.theguardian.com/culture/2026/oct/29/patrick-stewart-dead"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
-     "sources": 1,
-     "score": 44,
-     "event_id": "fdb9df443096",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c6e9lpg2j5z3o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Patrick Stewart dies: how Captain Picard inspired today’s science leaders",
-     "sources": 2,
-     "score": 56,
-     "event_id": "8917d17ab6fd",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-03543-9",
-      "https://www.goodnewsnetwork.org/in-lieu-of-flowers-or-tributes-patrick-stewarts-family-suggests-a-donation-to-alzheimers-research/"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "‘His honesty gave courage to survivors’: domestic abuse charities praise Patrick Stewart’s legacy",
-     "sources": 2,
-     "score": 60,
-     "event_id": "47295b449e3f",
-     "links": [
-      "https://www.theguardian.com/culture/2026/oct/30/domestic-abuse-charities-patrick-stewart-amnesty-international-refuge",
-      "https://www.theguardian.com/culture/2026/oct/30/patrick-stewart-jean-luc-picard-star-trek",
-      "https://www.theguardian.com/film/2026/oct/30/patrick-stewart-death-tribute-shakespearian-actor-superhero"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Sir Patrick Stewart remembered as 'Mirfield's finest'",
-     "sources": 2,
-     "score": 55,
-     "event_id": "9cc2b10e6108",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm0qk2e9deqeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/culture/2026/oct/30/patrick-stewart-jean-luc-picard-star-trek",
-      "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
-     "sources": 2,
-     "score": 48,
-     "event_id": "50e495f86711",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
-      "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/"
      ]
     }
    ]
@@ -20442,5 +20495,5 @@
    ]
   }
  ],
- "updated": "2026-11-05T03:21:08+00:00"
+ "updated": "2026-11-05T06:27:33+00:00"
 }

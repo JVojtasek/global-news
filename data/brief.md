@@ -76,7 +76,30 @@
     <https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean?traffic_source=rss>
     > With control of Congress, Democrats can challenge Trump’s agenda through subpoenas, confirmation votes.
 
-### 3. North Korea denies being behind record $6.3bn Binance hack
+### 3. Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years
+- id události: `79e2afd27123`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 6
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years
+    <https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss>
+    > Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.
+  - **DW News** — Hong Kong democracy activist Joshua Wong sentenced to 10 more years
+    <https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf>
+    > Joshua Wong, once a teen activist and a poster boy of the "Umbrella Movement," is spending most of his adult life in prison.
+  - **NPR News** — Hong Kong activist Joshua Wong sentenced to 10 years in prison
+    <https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced>
+    > Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.
+  - **The Guardian World** — Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case
+    <https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case>
+    > Wong, 30, has been imprisoned since 2020 and is the only activist in Hong Kong prosecuted twice under national security law Exclusive: Joshua Wong laments city’s fate from inside maximum security prison Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after
+  - **Al Jazeera** — Hong Kong activist Joshua Wong sentenced to ten years in jail
+    <https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss>
+    > Hong Kong activist Joshua Wong, who became the global face of Hong Kong’s pro-democracy movement has been sentenced.
+  - **France 24** — Hong Kong activist Joshua Wong gets 10 more years in jail for foreign collusion
+    <https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion>
+    > Hong Kong democracy activist Joshua Wong was sentenced to 10 more years in prison on Thursday for colluding with foreign powers, a court summary said. Wong, 30, pleaded guilty in September to seeking foreign sanctions against Hong Kong and China under Beijing’s national security 
+
+### 4. North Korea denies being behind record $6.3bn Binance hack
 - id události: `fde93fa8c413`  ·  rubrika: `business`  ·  skóre: 69  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -98,23 +121,6 @@
   - **CNBC Top** — North Korea denies links to Binance hack as researchers trace stolen billions
     <https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html>
     > North Korea rejected U.S. allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.
-
-### 4. Nadal set to join Real Madrid board of directors
-- id události: `31590043fce8`  ·  rubrika: `world`  ·  skóre: 68  ·  nezávislých zdrojů: 4
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **BBC World** — Nadal set to join Real Madrid board of directors
-    <https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss>
-    > Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.
-  - **BBC Sport** — Nadal set to join Real Madrid board of directors
-    <https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss>
-    > Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.
-  - **Guardian Sport** — Real Madrid close on agreement to sign Manchester United 16-year-old JJ Gabriel
-    <https://www.theguardian.com/football/2026/nov/04/real-madrid-jj-gabriel-manchester-united-close-agreement-sign>
-    > Madrid hope to bring in forward during January United to consider legal action if they feel rules broken Real Madrid are closing in on signing JJ Gabriel, though Manchester United will consider legal action if the club believe any rules have been broken. Madrid have offered the 1
-  - **Al Jazeera** — Tennis great Rafael Nadal set to join Real Madrid board
-    <https://www.aljazeera.com/sports/2026/11/4/tennis-great-rafael-nadal-set-to-join-real-madrid-board?traffic_source=rss>
-    > The 22-time Grand Slam winner is to be ratified onto club's board of directors.
 
 ---
 
