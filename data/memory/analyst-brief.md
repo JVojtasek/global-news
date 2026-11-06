@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-06
 
-Paměť obsahuje **185 vláken**. Aktivních za posledních 14 dní: **51**.
+Paměť obsahuje **185 vláken**. Aktivních za posledních 14 dní: **52**.
 
 ---
 
@@ -37,7 +37,6 @@ Paměť obsahuje **185 vláken**. Aktivních za posledních 14 dní: **51**.
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 85 dní · 60 záznamů
 - časová osa:
-  - **2026-10-29** (1 zdrojů) Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago
   - **2026-10-30** (2 zdrojů) Netanyahu attacks Israel’s Arab parties as he falls short of majority
   - **2026-10-30** (2 zdrojů) Palestinian voter turnout exposes Israel’s attitude towards Arab citizens
   - **2026-10-30** (1 zdrojů) Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries
@@ -47,6 +46,7 @@ Paměť obsahuje **185 vláken**. Aktivních za posledních 14 dní: **51**.
   - **2026-11-03** (1 zdrojů) Scientists Feared This Cute but Venomous Primate Had Gone Extinct Nearly 100 Years Ago. It Was Hiding in Plain Sight All Along
   - **2026-11-04** (1 zdrojů) Archaeologists in Scotland Discovered the Skeleton of a Roman-Era Man Who Was Decapitated Nearly 2,000 Years Ago. Now, You Can See What He Might Have Looked Like During His Lifetime
   - **2026-11-06** (1 zdrojů) Fossil Footprints in Brazil Hint at a Cougar-Size Mammal That Walked Among Dinosaurs. It's Another Sign That Some Early Beasts Grew to Impressive Sizes After All
+  - **2026-11-06** (1 zdrojů) For Centuries, Cave Visitors Walked Right by 280 Ice Age Engravings. The Newly Discovered Rock Art Is Rewriting Catalonia's Prehistory
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 88 dní · 60 záznamů

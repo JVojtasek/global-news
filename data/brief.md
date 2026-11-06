@@ -9,7 +9,33 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. James Talarico becomes first Democrat to win Texas Senate seat since 1988
+### 1. Stephen Miller named by Trump as new White House chief of staff
+- id události: `6abf76266070`  ·  rubrika: `world`  ·  skóre: 84  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **DW News** — Stephen Miller named by Trump as new White House chief of staff
+    <https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf>
+    > Trump said he would be replacing Susie Wiles for the top advisory role. Miller is controversial figure, known as a key architect of the administration's hardline immigration policies.
+  - **NPR News** — Stephen Miller will replace Susie Wiles as Trump's chief of staff
+    <https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff>
+    > The change comes after sweeping Republican losses in the midterm elections.
+  - **France 24** — Trump announces immigration hardliner Stephen Miller as new chief of staff
+    <https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff>
+    > US President Donald Trump on Friday said advisor Stephen Miller would become his new chief of staff. Miller has been instrumental in driving the Trump administration's mass deportation programme and faced particular criticism after the deadly shootings of two Minneapolis proteste
+  - **Al Jazeera** — Trump promotes Stephen Miller to Chief of Staff ‘to run things well’
+    <https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss>
+    > President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.
+  - **CNBC Top** — Trump says Stephen Miller to replace Susie Wiles as White House chief of staff
+    <https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html>
+    > Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.
+  - **CNBC Top** — Top House Oversight Democrat warns Trump family to 'lawyer up'
+    <https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html>
+    > With Democrats set to take control of the House in January, Rep. Robert Garcia is promising sweeping probes into Trump, his family and his administration.
+  - **Al Jazeera** — Trump names Stephen Miller as new chief of staff, replacing Susie Wiles
+    <https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss>
+    > Susie Wiles steps down as White House chief of staff; Stephen Miller assumes the role amid post-election reshuffling.
+
+### 2. James Talarico becomes first Democrat to win Texas Senate seat since 1988
 - id události: `74dab33a4157`  ·  rubrika: `world`  ·  skóre: 83  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -44,7 +70,7 @@
     <https://www.france24.com/en/video/20261104-us-midterms-democrat-james-talarico-wins-senate-race-in-deep-red-texas>
     > 🇺🇸 Democrat James Talarico said Tuesday that "we defeated Goliath" after winning a US Senate seat over Texas attorney General Ken Paxton.
 
-### 2. Florida Republicans fend off Democrats as state elects first black governor
+### 3. Florida Republicans fend off Democrats as state elects first black governor
 - id události: `364b5244fc6d`  ·  rubrika: `world`  ·  skóre: 83  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -76,7 +102,7 @@
     <https://www.aljazeera.com/news/2026/11/4/democrats-win-the-us-senate-what-does-this-mean?traffic_source=rss>
     > With control of Congress, Democrats can challenge Trump’s agenda through subpoenas, confirmation votes.
 
-### 3. Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years
+### 4. Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years
 - id události: `79e2afd27123`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -99,23 +125,6 @@
     <https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion>
     > Hong Kong democracy activist Joshua Wong was sentenced to 10 more years in prison on Thursday for colluding with foreign powers, a court summary said. Wong, 30, pleaded guilty in September to seeking foreign sanctions against Hong Kong and China under Beijing’s national security 
 
-### 4. Russell Brand is being investigated over two new rape complaints, police say
-- id události: `fa3936aa041c`  ·  rubrika: `world`  ·  skóre: 72  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Russell Brand is being investigated over two new rape complaints, police say
-    <https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss>
-    > Det Supt Andy Furphy said he hoped other potential victims would gain "courage" and "confidence" from the guilty verdicts.
-  - **BBC Entertainment** — Russell Brand found guilty of rape and sexual assault
-    <https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss>
-    > Brand is told to expect a prison sentence "of some length" and faces more rape allegations, it can now be reported.
-  - **NPR News** — Russell Brand is convicted of rape, and judge says he'll get a prison term
-    <https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison>
-    > A prosecutor described Brand as a ruthless, calculating, manipulative "sexual predator." Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.
-  - **DW News** — British comedian and actor Russell Brand found guilty of rape
-    <https://www.dw.com/en/british-comedian-and-actor-russell-brand-found-guilty-of-rape/a-79867216?maca=en-rss-en-all-1573-rdf>
-    > Prosecutors labeled Brand a sexual predator. He was charged in sexual assault cases spanning from 1999 to 2009.
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -125,7 +134,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
   - Authentication — <https://en.wikipedia.org/wiki/Authentication>
-  - Comparison of OTP applications — <https://en.wikipedia.org/wiki/Comparison_of_OTP_applications>
+  - Mutual authentication — <https://en.wikipedia.org/wiki/Mutual_authentication>
 
 ---
 
