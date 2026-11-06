@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-11-05
+# ZADÁNÍ PRO REDAKCI — 2026-11-06
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -120,19 +120,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### inflation
-- rubrika: `business`  ·  **depth: `scripture`**  ·  rozsah 1100–1900 slov
-- otázky, které k tomu lidé píší do vyhledávače:
-  - „why does inflation occur“
-  - „why does inflation exist“
-  - „why does inflation keep going up“
-  - „why is inflation so high“
-  - „why is inflation a thing“
-  - „why is inflation good“
+### two factor authentication
+- rubrika: `culture`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Inflation — <https://en.wikipedia.org/wiki/Inflation>
-  - 2021–2023 inflation surge — <https://en.wikipedia.org/wiki/2021–2023_inflation_surge>
-  - Cosmic inflation — <https://en.wikipedia.org/wiki/Cosmic_inflation>
+  - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
+  - Authentication — <https://en.wikipedia.org/wiki/Authentication>
+  - Comparison of OTP applications — <https://en.wikipedia.org/wiki/Comparison_of_OTP_applications>
 
 ---
 
@@ -152,7 +145,36 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Trump says White House press secretary Karoline Leavitt to leave post
+### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+rubrika: world · sledováno od 2026-08-09 · záznamů: 60
+  2026-10-20  (2 zdrojů, síla 42)  US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy
+  2026-10-21  (4 zdrojů, síla 66)  US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
+  2026-10-21  (2 zdrojů, síla 50)  Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
+  2026-10-21  (1 zdrojů, síla 45)  ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
+  2026-10-21  (4 zdrojů, síla 70)  Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
+  2026-10-22  (2 zdrojů, síla 44)  Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live
+  2026-10-26  (3 zdrojů, síla 63)  Donald Trump has been a disaster for rural America | Steven Greenhouse
+  2026-10-26  (2 zdrojů, síla 52)  Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours
+  2026-10-26  (2 zdrojů, síla 44)  What Germany thinks of carmaker Audi's $4 billion deal with Trump
+  2026-10-26  (2 zdrojů, síla 41)  Trump announces Audi will build $4 billion factory in US
+  2026-10-29  (2 zdrojů, síla 43)  Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
+  2026-10-29  (2 zdrojů, síla 44)  Russian drone attack on Ukrainian train station kills at least 14, officials say
+  2026-11-01  (2 zdrojů, síla 43)  Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
+  2026-11-03  (3 zdrojů, síla 50)  Russian strikes kill 26 in Ukraine after longest ceasefire ends
+  2026-11-03  (2 zdrojů, síla 45)  Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
+  2026-11-03  (2 zdrojů, síla 48)  Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
+  2026-11-03  (2 zdrojů, síla 44)  Ukraine’s drone strikes spur hasty Russian plans for underground data centers
+  2026-11-04  (2 zdrojů, síla 44)  Canada joins coalition refusing to play ice hockey against Russia over Ukraine war
+  2026-11-05  (2 zdrojů, síla 52)  Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
+  2026-11-06  (2 zdrojů, síla 44)  Melania Trump touts rare agreement she brokered between Russia and Ukraine
+```
+
+### 2. What has actually changed: Trump says White House press secretary Karoline Leavitt to leave post
 - id: `d4578d08ad87`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -179,35 +201,6 @@ rubrika: world · sledováno od 2026-08-12 · záznamů: 60
   2026-10-31  (2 zdrojů, síla 42)  Oleshky evacuees reunite with families after truce allows crossing back into Ukraine
   2026-11-03  (2 zdrojů, síla 42)  Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
   2026-11-05  (2 zdrojů, síla 48)  Want to Rent an Internet Address at the White House?
-```
-
-### 2. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-03  (2 zdrojů, síla 46)  Who has 'no ceiling' as Northern Ireland shine in Nations League?
-  2026-10-03  (2 zdrojů, síla 44)  LIVE: Croatia vs England – UEFA Nations League
-  2026-10-03  (2 zdrojů, síla 54)  North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
-  2026-10-05  (2 zdrojů, síla 56)  Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
-  2026-10-06  (2 zdrojů, síla 43)  Nations League roundup: Olise leads late charge as France bowl over Belgium
-  2026-10-06  (2 zdrojů, síla 44)  Nations League: France defeat Belgium in second-half comeback
-  2026-10-06  (2 zdrojů, síla 47)  How promotion, relegation and knockouts work in Nations League
-  2026-10-06  (2 zdrojů, síla 45)  England v Czechia: Nations League football – live
-  2026-10-06  (2 zdrojů, síla 52)  Kane scores twice but who else was a 'real threat'? England player ratings
-  2026-10-07  (2 zdrojů, síla 42)  Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
-  2026-10-08  (3 zdrojů, síla 58)  Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
-  2026-10-22  (2 zdrojů, síla 46)  Harry Kane: Ballon d’Or for Bayern Munich striker?
-  2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes
-  2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
-  2026-10-27  (4 zdrojů, síla 70)  'A dream come true' - Harry Kane on his Ballon d'Or win
-  2026-10-27  (2 zdrojů, síla 52)  Quiz: Kane and who else? Name every men's Ballon d'Or winner
-  2026-10-30  (2 zdrojů, síla 57)  England thrash Wales to begin World Cup defence
-  2026-10-31  (2 zdrojů, síla 46)  Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live
-  2026-11-01  (2 zdrojů, síla 51)  Wales hit by Australia century in World Cup record defeat
-  2026-11-05  (2 zdrojů, síla 42)  England captain Kane signs new Bayern contract
 ```
 
 ---
