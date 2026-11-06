@@ -313,6 +313,64 @@
   ]
  },
  {
+  "id": "8c805a113994",
+  "headline": "New wave of bomb threats hit European airlines",
+  "section": "world",
+  "score": 70,
+  "sources_count": 5,
+  "depth_signal": 0,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T15:25:35+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "New wave of bomb threats hit European airlines",
+    "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
+    "published_at": "2026-11-06T15:25:35+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "European air traffic is targeted by new threats after a week of hoaxes",
+    "url": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
+    "source": "NPR News",
+    "summary": "Officials across Europe reported a fresh slew of bomb threats against multiple flights on Friday, following a string of hoaxes that have caused flight diversions this week. Two broadcasters also received security threats.",
+    "published_at": "2026-11-06T15:21:31+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "Why have more than 30 European flights been hit by bomb threats this week?",
+    "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-european-flights-airports-disruption-explainer",
+    "source": "Guardian Business",
+    "summary": "With flights disrupted, how concerned should you be about your travel plans? More than 30 planes have been subjected to security alerts or diversions this week , with at least 25 more bomb threats on Thursday disrupting civil aviation across Europe. What do we know so far, and how concerned should you be about your travel plans? Continue reading...",
+    "published_at": "2026-11-05T17:36:43+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "'Chaos within aviation industry' as European air traffic hit by bomb threats",
+    "url": "https://www.france24.com/en/video/20261106-chaos-within-aviation-industry-as-european-air-traffic-hit-by-bomb-threats",
+    "source": "France 24",
+    "summary": "Officials across Europe reported a fresh slew of bomb threats against multiple flights on Friday, November 6, following a string of hoaxes that have caused flight diversions this week. Two broadcasters also received security threats, in a possible sign the menace was spreading beyond the skies. FRANCE 24's International Affairs Editor Rochelle Ferguson Bouyahi has more.",
+    "published_at": "2026-11-06T16:33:20+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "New bomb threats target European broadcasters, air traffic",
+    "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "A string of hoax alerts causing flight diversions across Europe this week has broadened to include newsrooms.",
+    "published_at": "2026-11-06T15:24:54+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   }
+  ]
+ },
+ {
   "id": "31590043fce8",
   "headline": "Nadal set to join Real Madrid board of directors",
   "section": "world",
@@ -910,55 +968,6 @@
   ]
  },
  {
-  "id": "a80c9e9fe5be",
-  "headline": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-  "section": "world",
-  "score": 60,
-  "sources_count": 4,
-  "depth_signal": 0,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-11-03T13:55:47+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-    "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
-    "published_at": "2026-11-03T13:55:47+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   },
-   {
-    "title": "Freezers of UK meat suppliers heat up after cyber-attacks in Europe",
-    "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
-    "source": "The Guardian World",
-    "summary": "Cybersecurity experts say incidents had minimal effect but may represent the ‘foothills’ of a wider threat Meat suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe. The UK’s National Cyber Security Centre (NCSC) said it was working with the affected companies but that the national impact was minimal. Continue reading...",
-    "published_at": "2026-11-03T14:29:37+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   },
-   {
-    "title": "Freezers of UK meat suppliers heat up after cyber-attacks in Europe",
-    "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
-    "source": "Guardian Business",
-    "summary": "Cybersecurity experts say incidents had minimal effect but may represent the ‘foothills’ of a wider threat Meat suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe. The UK’s National Cyber Security Centre (NCSC) said it was working with the affected companies but that the national impact was minimal. Continue reading...",
-    "published_at": "2026-11-03T14:29:37+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   },
-   {
-    "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
-    "url": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Cold stores in supermarkets across Europe have been targeted in a cyberattack with no clear culprit.",
-    "published_at": "2026-11-03T14:17:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   }
-  ]
- },
- {
   "id": "788172991436",
   "headline": "South Carolina elects Democratic senator for first time in almost three decades",
   "section": "world",
@@ -1177,55 +1186,6 @@
   ]
  },
  {
-  "id": "b121628aeba0",
-  "headline": "Google will let schools skip AI tools, but they have to give up search, too",
-  "section": "tech",
-  "score": 57,
-  "sources_count": 4,
-  "depth_signal": 0,
-  "created": "2026-11-03T18:20:50+00:00",
-  "event_time": "2026-11-03T17:54:43+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Google will let schools skip AI tools, but they have to give up search, too",
-    "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-    "source": "Ars Technica AI",
-    "summary": "Google will offer schools AI tools that purportedly don't give away the answers.",
-    "published_at": "2026-11-03T17:54:43+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   },
-   {
-    "title": "Google is entirely disabling Search in schools that don’t want AI",
-    "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-    "source": "The Verge",
-    "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts […]",
-    "published_at": "2026-11-03T17:00:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   },
-   {
-    "title": "Google is entirely disabling Search in schools that don’t want AI",
-    "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-    "source": "The Verge AI",
-    "summary": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts […]",
-    "published_at": "2026-11-03T17:00:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   },
-   {
-    "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-    "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-    "source": "TechCrunch",
-    "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-    "published_at": "2026-11-03T16:30:34+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   }
-  ]
- },
- {
   "id": "1b3bc8f8e7dc",
   "headline": "Man Utd beat Roma - the other great Champions League comebacks",
   "section": "sport",
@@ -1391,6 +1351,46 @@
     "published_at": "2026-11-06T07:24:20+00:00",
     "source_countries": [],
     "seen_at": "2026-11-06T09:20:28+00:00"
+   }
+  ]
+ },
+ {
+  "id": "5422d547f3df",
+  "headline": "Russell Brand rape conviction must be ‘wake-up call’, says culture secretary",
+  "section": "world",
+  "score": 57,
+  "sources_count": 3,
+  "depth_signal": 2,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T16:53:06+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Russell Brand rape conviction must be ‘wake-up call’, says culture secretary",
+    "url": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-conviction-must-be-wake-up-call-says-culture-secretary-lisa-nandy",
+    "source": "The Guardian World",
+    "summary": "Lisa Nandy calls for whistleblowers to be protected and highlights bravery of women who came forward in case Lisa Nandy, the culture secretary, has warned that Russell Brand’s conviction for rape and sexual assault must be a “wake-up call” to the media world and beyond, after widespread concerns over the failures to confront his behaviour. With renewed calls from TV insiders for a new examination ",
+    "published_at": "2026-11-06T16:53:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
+    "url": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Entertainment",
+    "summary": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
+    "published_at": "2026-11-06T12:16:44+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "British comedian Russell Brand found guilty of rape and three sexual assaults",
+    "url": "https://www.france24.com/en/video/20261106-british-comedian-russell-brand-found-guilty-of-rape-and-three-sexual-assaults",
+    "source": "France 24",
+    "summary": "British comedian Russell Brand was on Thursday, November 5, found guilty of rape and three sexual assaults by a London jury, including a 16-year-old girl. He now faces \"significant\" prison time, according to the judge.",
+    "published_at": "2026-11-06T16:45:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
    }
   ]
  },
@@ -1680,46 +1680,6 @@
     "published_at": "2026-11-06T12:50:24+00:00",
     "source_countries": [],
     "seen_at": "2026-11-06T15:18:59+00:00"
-   }
-  ]
- },
- {
-  "id": "5a2163963e83",
-  "headline": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-  "section": "world",
-  "score": 53,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-11-03T18:20:50+00:00",
-  "event_time": "2026-11-03T16:19:29+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-    "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-    "published_at": "2026-11-03T16:19:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   },
-   {
-    "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-    "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
-    "published_at": "2026-11-03T16:19:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   },
-   {
-    "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
-    "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-    "source": "CNBC Top",
-    "summary": "Binance has replenished 98% of $6.34 billion in affected assets, according to a security report the crypto exchange issued Tuesday.",
-    "published_at": "2026-11-03T17:58:41+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
    }
   ]
  },
@@ -2093,42 +2053,42 @@
   ]
  },
  {
-  "id": "b797a5975f9e",
-  "headline": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
+  "id": "94b4a6a570d2",
+  "headline": "Tesla to 'wind down' production of flop Cybertruck",
   "section": "world",
-  "score": 50,
-  "sources_count": 2,
+  "score": 51,
+  "sources_count": 3,
   "depth_signal": 0,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-10-30T20:55:00+00:00",
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T17:10:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
-    "url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-rdf",
+    "title": "Tesla to 'wind down' production of flop Cybertruck",
+    "url": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf",
     "source": "DW News",
-    "summary": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German pushback, he said he favors the all-new term \"associate membership.\"",
-    "published_at": "2026-10-30T20:55:00+00:00",
+    "summary": "Elon Musk's electric pickup for the future will start to be consigned to the past next year. The Cybertruck's bulk and crude shape meant it could only pass regulatory standards in more permissive markets.",
+    "published_at": "2026-11-06T17:10:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    },
    {
-    "title": "US midterm elections: A referendum on President Donald Trump?",
-    "url": "https://www.france24.com/en/video/20261103-us-midterm-elections-a-referendum-on-president-donald-trump",
-    "source": "France 24",
-    "summary": "Americans deliver their verdict on Donald Trump's tumultuous first term in midterm elections that threaten to shatter his grip on Washington, with Democrats poised to seize the House and within striking distance of the Senate.",
-    "published_at": "2026-11-03T13:56:59+00:00",
+    "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
+    "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
+    "source": "Guardian Business",
+    "summary": "Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxi Elon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end of a failed effort to take a chunk of the lucrative market for pickups in the US. The billionaire chief executive said production of the car would stop in about the middle of next year at the company’s ",
+    "published_at": "2026-11-06T12:38:05+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    },
    {
-    "title": "What could happen if Donald Trump loses US midterm elections?",
-    "url": "https://www.france24.com/en/video/20261103-what-could-happen-if-donald-trump-loses-us-midterm-elections",
-    "source": "France 24",
-    "summary": "Americans head to the polls on Tuesday in pivotal midterm elections, with Democrats hoping to seize control of Congress and impose the first significant checks on Donald Trump's second term in the White House. But what could happen in the United States if Republicans lose control of Congress? FRANCE 24's International Affairs Editor Philip Turle has more.",
-    "published_at": "2026-11-03T13:24:32+00:00",
+    "title": "Musk says Tesla to wind down polarising Cybertruck production as sales lag",
+    "url": "https://www.aljazeera.com/news/2026/11/6/musk-says-tesla-to-wind-down-polarising-cybertruck-production-as-sales-lag?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Released in 2023, the truck has become a symbol to some of opposition to Musk amid foray into US politics.",
+    "published_at": "2026-11-06T15:35:57+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    }
   ]
  },
@@ -2351,68 +2311,6 @@
     "published_at": "2026-11-04T09:41:10+00:00",
     "source_countries": [],
     "seen_at": "2026-11-04T12:24:18+00:00"
-   }
-  ]
- },
- {
-  "id": "2a1eb018a2c3",
-  "headline": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-  "section": "world",
-  "score": 48,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-11-03T18:20:50+00:00",
-  "event_time": "2026-11-03T16:57:41+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-    "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
-    "published_at": "2026-11-03T16:57:41+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   },
-   {
-    "title": "Ukraine war: Merz doubts Russia is serious about a truce",
-    "url": "https://www.dw.com/en/ukraine-war-merz-doubts-russia-is-serious-about-a-truce/a-79836026?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "German Chancellor Friedrich Merz met with Volodymyr Zelenskyy in Berlin. Both leaders said the EU needs to be included in peace talks with Russia. Merz also expressed doubts that Russia is serious about seeking a truce.",
-    "published_at": "2026-11-03T15:04:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   }
-  ]
- },
- {
-  "id": "58610862ee7d",
-  "headline": "Ford Crams The Most Powerful OEM Crate Engine Ever Made Into New Bronco Concept",
-  "section": "motoring",
-  "score": 48,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-11-03T18:20:50+00:00",
-  "event_time": "2026-11-03T17:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Ford Crams The Most Powerful OEM Crate Engine Ever Made Into New Bronco Concept",
-    "url": "https://www.autoblog.com/news/concept-ford-bronco-frostwarden-sema-2026-megazilla-2-0",
-    "source": "Autoblog",
-    "summary": "Ford puts a 7.3-liter supercharged V8 monster into a Bronco like no other.",
-    "published_at": "2026-11-03T17:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   },
-   {
-    "title": "Five of the Most Impressive War Machine Artifacts Ever Recovered",
-    "url": "https://www.ancient-origins.net/ancient-technology-artifacts/ancient-war-machines-00103053",
-    "source": "Ancient Origins",
-    "summary": "Five of the Most Impressive War Machine Artifacts Ever Recovered The battlefields of history were not just sites of warfare; they represented the creativity of our military engineers as they invented deadly machines to demolish city walls, sink enemy ships and seize control of the battleground. Ancient texts document the existence of many of these types of weapons, but only a small number of physi",
-    "published_at": "2026-08-07T20:50:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
    }
   ]
  },
@@ -2759,78 +2657,42 @@
   ]
  },
  {
-  "id": "fd97681f6f2b",
-  "headline": "Shopify earnings analysis: questions answered and next catalysts",
+  "id": "3f5fe12d2892",
+  "headline": "Could the US midterms burst the AI bubble?",
   "section": "business",
-  "score": 47,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-11-03T18:20:50+00:00",
-  "event_time": "2026-11-03T18:05:50+00:00",
+  "score": 48,
+  "sources_count": 3,
+  "depth_signal": 2,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T16:14:23+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Shopify earnings analysis: questions answered and next catalysts",
-    "url": "https://www.investing.com/news/stock-market-news/shopify-earnings-analysis-questions-answered-and-next-catalysts-93CH-4996167",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-11-03T18:05:50+00:00",
+    "title": "Could the US midterms burst the AI bubble?",
+    "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+    "published_at": "2026-11-06T16:14:23+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    },
    {
-    "title": "Yum Brands earnings analysis: questions answered and next catalysts",
-    "url": "https://www.investing.com/news/stock-market-news/yum-brands-earnings-analysis-questions-answered-and-next-catalysts-93CH-4996163",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-11-03T18:00:38+00:00",
+    "title": "Could the US midterms burst the AI bubble?",
+    "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+    "published_at": "2026-11-06T16:14:23+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    },
    {
-    "title": "Pfizer earnings analysis: questions answered and next catalysts",
-    "url": "https://www.investing.com/news/stock-market-news/pfizer-earnings-analysis-questions-answered-and-next-catalysts-93CH-4996162",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-11-03T18:00:32+00:00",
+    "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
+    "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
+    "source": "Guardian Business",
+    "summary": "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session. Is this stock market jitters, or a sign the AI bubble might be about to burst? Lucy Hough speaks to senior economics correspondent Richard Partington Continue read",
+    "published_at": "2026-11-06T17:04:41+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   },
-   {
-    "title": "Ferrari earnings analysis: questions answered and next catalysts",
-    "url": "https://www.investing.com/news/stock-market-news/ferrari-earnings-analysis-questions-answered-and-next-catalysts-93CH-4996157",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-11-03T17:59:58+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   },
-   {
-    "title": "Eaton earnings analysis: questions answered and next catalysts",
-    "url": "https://www.investing.com/news/stock-market-news/eaton-earnings-analysis-questions-answered-and-next-catalysts-93CH-4996156",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-11-03T17:59:35+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   },
-   {
-    "title": "Allison Transmission earnings analysis: questions answered and next catalysts",
-    "url": "https://www.investing.com/news/stock-market-news/allison-transmission-earnings-analysis-questions-answered-and-next-catalysts-93CH-4996155",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-11-03T17:59:12+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   },
-   {
-    "title": "Vertex Pharmaceuticals earnings analysis: questions answered and next catalysts",
-    "url": "https://www.investing.com/news/stock-market-news/vertex-pharmaceuticals-earnings-analysis-questions-answered-and-next-catalysts-93CH-4996153",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-11-03T17:54:52+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    }
   ]
  },
@@ -3151,46 +3013,6 @@
     "published_at": "2026-11-06T14:00:28+00:00",
     "source_countries": [],
     "seen_at": "2026-11-06T15:18:59+00:00"
-   }
-  ]
- },
- {
-  "id": "a1898e751ac5",
-  "headline": "Trump says US will halt $4 billion in aid to Israel after end of the year",
-  "section": "world",
-  "score": 46,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-11-03T14:35:19+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Trump says US will halt $4 billion in aid to Israel after end of the year",
-    "url": "https://www.france24.com/en/middle-east/20261103-trump-says-us-will-halt-4-billion-in-aid-to-israel-after-end-of-this-year",
-    "source": "France 24",
-    "summary": "President Donald Trump on Tuesday said that the United States will stop $4 billion in funding to Israel after the end of this year. While speaking to Fox News' Fox and Friends, the US president added that Israel no longer needed the aid from Washington, and that some politicians were using the funding to criticise Republicans.",
-    "published_at": "2026-11-03T14:35:19+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   },
-   {
-    "title": "Trump says US will stop giving Israel aid after year-end",
-    "url": "https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Military aid to Israel and campaign contributions from Israel's backers to US candidates has animated political debate.",
-    "published_at": "2026-11-03T13:42:05+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   },
-   {
-    "title": "Oil turns lower after Trump says he will halt $4 billion in funding to Israel",
-    "url": "https://www.investing.com/news/commodities-news/oil-rises-after-reported-us-strike-on-irans-qeshm-island-4993349",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-11-03T15:02:21+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
    }
   ]
  },
@@ -3683,59 +3505,6 @@
     "published_at": "2026-11-05T05:39:31+00:00",
     "source_countries": [],
     "seen_at": "2026-11-05T06:27:31+00:00"
-   }
-  ]
- },
- {
-  "id": "3bef5ccc3d40",
-  "headline": "How to lose money betting against Europe",
-  "section": "business",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-10-13T17:01:13+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "How to lose money betting against Europe",
-    "url": "https://www.economist.com/finance-and-economics/2026/10/13/how-to-lose-money-betting-against-europe",
-    "source": "Economist Finance",
-    "summary": "In a sovereign-debt crisis, even understanding politics may not be enough",
-    "published_at": "2026-10-13T17:01:13+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   },
-   {
-    "title": "Bulgaria confirms bomb threats against flights from Bergamo and Dublin – Europe live",
-    "url": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
-    "source": "The Guardian World",
-    "summary": "Seven bomb threats have now been reported across Europe, all incidents have been confirmed as false alarms Back to Poland, Warsaw Modlin airport says it has resumed operations after an earlier bomb threat – but a part of the airport where the London flight was parked remain closed and is being checked by security forces. Ukraine’s Zelenskyy has said his talks with Merz and Germany’s president Stei",
-    "published_at": "2026-11-03T14:57:15+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   }
-  ]
- },
- {
-  "id": "55107ad46021",
-  "headline": "After Observing the Sky for 22 Years, a Beloved NASA Space Telescope Is Expected to Meet a Fiery Death This Week",
-  "section": "culture",
-  "score": 44,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-11-03T18:20:50+00:00",
-  "event_time": "2026-11-03T15:46:18+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "After Observing the Sky for 22 Years, a Beloved NASA Space Telescope Is Expected to Meet a Fiery Death This Week",
-    "url": "https://www.smithsonianmag.com/smart-news/after-observing-the-sky-for-22-years-a-beloved-nasa-space-telescope-is-expected-to-meet-a-fiery-death-this-week-180989796/",
-    "source": "Smithsonian Mag",
-    "summary": "The Neil Gehrels Swift Observatory launched in 2004 and detected thousands of astrophysical phenomena, leading to some huge discoveries. Earlier this year, experts attempted a first-of-its-kind rescue mission to save the falling telescope, but it failed",
-    "published_at": "2026-11-03T15:46:18+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
    }
   ]
  },
@@ -4284,6 +4053,68 @@
   ]
  },
  {
+  "id": "fe773657f48e",
+  "headline": "Four midterms takeaways for 2028 White House race",
+  "section": "world",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T16:12:22+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Four midterms takeaways for 2028 White House race",
+    "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+    "published_at": "2026-11-06T16:12:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "Just about anyone can rent access to White House IP addresses",
+    "url": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
+    "source": "The Verge",
+    "summary": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from the security firms Layer3 Intel and Synthient, which discovered residential proxy activity on the White […]",
+    "published_at": "2026-11-06T17:40:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   }
+  ]
+ },
+ {
+  "id": "a40dff3d749a",
+  "headline": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+  "section": "safety",
+  "score": 44,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T15:21:49+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+    "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+    "source": "The Hacker News",
+    "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH on the musl C library with Pluggable Authentication Modules (PAM) disabled,",
+    "published_at": "2026-11-06T15:21:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+    "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+    "source": "The Hacker News",
+    "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with",
+    "published_at": "2026-11-05T05:17:04+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   }
+  ]
+ },
+ {
   "id": "8f7d18ad54d0",
   "headline": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
   "section": "science",
@@ -4572,104 +4403,24 @@
   ]
  },
  {
-  "id": "f9f731b95256",
-  "headline": "2027 Chevy Trax Reportedly Gets More Power From the Same Engine",
-  "section": "motoring",
-  "score": 42,
+  "id": "dfa31fb2d727",
+  "headline": "CARE Packages Provided a Lifeline for World War II Survivors. Here’s How the Group Turned Leftover Army Rations Into an 80-Year Legacy",
+  "section": "culture",
+  "score": 43,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-11-03T14:15:00+00:00",
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T17:30:18+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "2027 Chevy Trax Reportedly Gets More Power From the Same Engine",
-    "url": "https://www.autoblog.com/news/2027-chevy-trax-reportedly-gets-more-power-from-the-same-engine",
-    "source": "Autoblog",
-    "summary": "This reported engine tune-up is one of several changes coming to the 2027 Trax as part of its mid-cycle update.",
-    "published_at": "2026-11-03T14:15:00+00:00",
+    "title": "CARE Packages Provided a Lifeline for World War II Survivors. Here’s How the Group Turned Leftover Army Rations Into an 80-Year Legacy",
+    "url": "https://www.smithsonianmag.com/smithsonian-institution/care-packages-provided-a-lifeline-for-world-war-ii-survivors-heres-how-the-group-turned-leftover-army-rations-into-an-80-year-legacy-180989826/",
+    "source": "Smithsonian Mag",
+    "summary": "The organization began as the Cooperative for American Remittances to Europe, and it became a way for those in need to receive food, clothing and other necessities. It continues to aid people today",
+    "published_at": "2026-11-06T17:30:18+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   },
-   {
-    "title": "2027 Chevy Silverado Diesel Gets Bigger Tanks, Loses Under-Seat Storage",
-    "url": "https://www.autoblog.com/news/2027-chevy-silverado-diesel-gets-bigger-tanks-loses-under-seat-storage",
-    "source": "Autoblog",
-    "summary": "The 2027 Chevy Silverado and GMC Sierra 1500 Duramax models gain a larger DEF tank for extended towing range, but owners will lose the rear under-seat storage.",
-    "published_at": "2026-11-03T13:15:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   }
-  ]
- },
- {
-  "id": "df13b0dd3b2b",
-  "headline": "England's Mitchell ruled out of Nations Championship",
-  "section": "sport",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-11-03T14:31:28+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "England's Mitchell ruled out of Nations Championship",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n4endjxqnko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Scrum-half Alex Mitchell has been ruled out of the whole of England's Nations Championship after suffering his fourth hamstring injury of the year.",
-    "published_at": "2026-11-03T14:31:28+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   },
-   {
-    "title": "Alex Mitchell ruled out of England’s Nations Championship campaign with hamstring injury",
-    "url": "https://www.theguardian.com/sport/2026/nov/03/alex-mitchell-out-england-nations-championship-campaign-hamstring-injury",
-    "source": "Guardian Sport",
-    "summary": "Jack van Poortvliet expected to start against Australia Fin Smith also an injury concern to Steve Borthwick Alex Mitchell has been ruled out of all of England’s Nations Championship campaign as a result of his latest hamstring injury, dealing a significant blow to Steve Borthwick before the opener against Australia on Sunday. The Northampton scrum-half had already been deemed unavailable for the c",
-    "published_at": "2026-11-03T14:45:19+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   }
-  ]
- },
- {
-  "id": "85827c831b0b",
-  "headline": "Midterm elections 2026: all the news",
-  "section": "world",
-  "score": 42,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-11-03T18:20:50+00:00",
-  "event_time": "2026-11-03T15:58:39+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Midterm elections 2026: all the news",
-    "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
-    "source": "The Verge",
-    "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability issues, there are several topics impacting the tech industry that […]",
-    "published_at": "2026-11-03T15:58:39+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   },
-   {
-    "title": "Midterm elections 2026: all the news",
-    "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
-    "source": "The Verge AI",
-    "summary": "The 2026 midterm elections will determine the scope of President Donald Trump’s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. While this year’s races are expected to be most broadly defined by affordability issues, there are several topics impacting the tech industry that […]",
-    "published_at": "2026-11-03T15:58:39+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   },
-   {
-    "title": "In Pictures: US midterm elections in 20 photos",
-    "url": "https://www.aljazeera.com/gallery/2026/11/3/in-pictures-us-midterm-elections-in-20-photos?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Voters, parents, and campaigners share the spotlight in a crucial election set to reshape US political direction.",
-    "published_at": "2026-11-03T15:46:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    }
   ]
  },
@@ -5250,33 +5001,33 @@
   ]
  },
  {
-  "id": "2cddb55cf622",
-  "headline": "What US midterm elections mean for Ukraine, Iran and elsewhere",
-  "section": "world",
-  "score": 41,
+  "id": "4729f8fa01c6",
+  "headline": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+  "section": "business",
+  "score": 42,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-11-03T14:26:00+00:00",
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T17:24:48+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
-    "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Donald Trump's Republicans control the US Congress, but that could change after the midterm elections. The outcome of the ballot will not only impact domestic policy but also conflicts in Europe and the Middle East.",
-    "published_at": "2026-11-03T14:26:00+00:00",
+    "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+    "source": "CNBC Top",
+    "summary": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
+    "published_at": "2026-11-06T17:24:48+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    },
    {
-    "title": "What the 2026 midterm elections could mean for Trump’s final two years",
-    "url": "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
-    "source": "CNBC Top",
-    "summary": "Oddsmakers and public polls place Democrats in a favorable position ahead of Election Day.",
-    "published_at": "2026-11-03T15:00:01+00:00",
+    "title": "OpenAI to press ahead with data-center expansion despite midterm sweep, CFO tells CNBC",
+    "url": "https://www.investing.com/news/stock-market-news/openai-to-press-ahead-with-datacenter-expansion-despite-midterm-sweep-cfo-tells-cnbc-5008971",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-06T18:12:50+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    }
   ]
  },
@@ -5502,24 +5253,24 @@
   ]
  },
  {
-  "id": "a0628185b608",
-  "headline": "From Hunting Hounds to Modernist Muses, Dachshunds Have Done It All. See the World's First Art Exhibition Dedicated Exclusively to the Sausage Dog",
+  "id": "2592d68b3e2b",
+  "headline": "Strange Gas in Mars' Atmosphere Hints the Red Planet Is Still Volcanically Active—and Points to Places to Search for Alien Life",
   "section": "culture",
-  "score": 40,
+  "score": 41,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-11-03T14:31:41+00:00",
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T17:13:33+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "From Hunting Hounds to Modernist Muses, Dachshunds Have Done It All. See the World's First Art Exhibition Dedicated Exclusively to the Sausage Dog",
-    "url": "https://www.smithsonianmag.com/smart-news/from-hunting-hounds-to-modernist-muses-dachshunds-have-done-it-all-see-the-worlds-first-art-exhibition-dedicated-exclusively-to-the-sausage-dog-180989797/",
+    "title": "Strange Gas in Mars' Atmosphere Hints the Red Planet Is Still Volcanically Active—and Points to Places to Search for Alien Life",
+    "url": "https://www.smithsonianmag.com/smart-news/strange-gas-in-mars-atmosphere-hints-the-red-planet-is-still-volcanically-active-and-points-to-places-to-search-for-alien-life-180989817/",
     "source": "Smithsonian Mag",
-    "summary": "A new exhibition in Germany traces how the low-slung breed captured the imaginations of artistic heavyweights like Pablo Picasso, Andy Warhol and David Hockney. The museum even lets well-behaved pups tour the galleries",
-    "published_at": "2026-11-03T14:31:41+00:00",
+    "summary": "Cracks along a giant Martian volcano, possibly above a magma chamber, might be spewing magmatic gases into the atmosphere, according to a new study. The fissures might host environments akin to Earth's hydrothermal vents, where life on our planet may have emerged",
+    "published_at": "2026-11-06T17:13:33+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    }
   ]
  },
@@ -6365,33 +6116,33 @@
   ]
  },
  {
-  "id": "b69b7bc81670",
-  "headline": "US midterms: Americans vote in elections seen as referendum on Trump",
+  "id": "b4fcc9c85f15",
+  "headline": "Data center protesters break into Microsoft site in Amsterdam",
   "section": "world",
-  "score": 39,
+  "score": 40,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-11-03T10:16:00+00:00",
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T16:38:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "US midterms: Americans vote in elections seen as referendum on Trump",
-    "url": "https://www.dw.com/en/us-midterms-americans-vote-in-elections-seen-as-referendum-on-trump/live-79829440?maca=en-rss-en-all-1573-rdf",
+    "title": "Data center protesters break into Microsoft site in Amsterdam",
+    "url": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-rdf",
     "source": "DW News",
-    "summary": "The crucial midterms will determine how much power President Donald Trump has to make changes in the last two years of his term. Follow DW's live updates.",
-    "published_at": "2026-11-03T10:16:00+00:00",
+    "summary": "Protesters are demanding a pause in data center construction in Europe. Campaigners planning protests in 16 countries say the AI building boom threatens water supplies, power grids and climate goals.",
+    "published_at": "2026-11-06T16:38:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    },
    {
-    "title": "Americans vote in key midterms set to upend Trump presidency",
-    "url": "https://www.france24.com/en/video/20261103-americans-vote-in-key-midterms-set-to-upend-trump-presidency",
-    "source": "France 24",
-    "summary": "Americans voted on Tuesday in pivotal midterm elections with Democrats hoping to seize control of Congress and impose the first significant checks on Donald Trump's chaotic second term in the White House. Republicans losing the House would give Democrats the power to stall Trump's legislative agenda and launch sweeping investigations of his administration. FRANCE 24's Fraser Jackson reports from W",
-    "published_at": "2026-11-03T14:18:43+00:00",
+    "title": "Protesters break into Microsoft AI data centre site in Amsterdam",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/protesters-break-into-microsoft-ai-data-centre-site-in-amsterdam?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "More than 100 activists broke into a Microsoft data centre construction site in Amsterdam.",
+    "published_at": "2026-11-06T15:48:10+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    }
   ]
  },
@@ -6798,33 +6549,24 @@
   ]
  },
  {
-  "id": "72d1af5db898",
-  "headline": "Car finance: Barclays becomes first big lender to offer payouts for mis-selling of loans",
-  "section": "business",
-  "score": 38,
-  "sources_count": 2,
+  "id": "fe886c298c24",
+  "headline": "These Moths Use Their Genitals to Fend Off Bats—but Not in the Way You Think. They Emit Ultrasound to Scramble the Predators' Sonar",
+  "section": "culture",
+  "score": 39,
+  "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-11-03T13:34:10+00:00",
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T16:00:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Car finance: Barclays becomes first big lender to offer payouts for mis-selling of loans",
-    "url": "https://www.theguardian.com/business/2026/nov/03/car-finance-barclays-bank-offer-payouts-loans",
-    "source": "The Guardian World",
-    "summary": "Bank to make ‘early settlement’ offers before outcome of legal battle, with those who accept likely to get money before Christmas Business live – latest updates Barclays will this month start offering compensation to tens of thousands of people who claim they were mis-sold car loans, with some of those who accept likely to see the money land in their account before Christmas. Amid an ongoing legal",
-    "published_at": "2026-11-03T13:34:10+00:00",
+    "title": "These Moths Use Their Genitals to Fend Off Bats—but Not in the Way You Think. They Emit Ultrasound to Scramble the Predators' Sonar",
+    "url": "https://www.smithsonianmag.com/smart-news/these-moths-use-their-genitals-to-fend-off-bats-but-not-in-the-way-you-think-they-emit-ultrasound-to-scramble-the-predators-sonar-180989819/",
+    "source": "Smithsonian Mag",
+    "summary": "New research suggests male hawkmoths have three distinct anti-bat, ultrasound-producing systems. These may have evolved independently up to seven times between 5 million and 30 million years ago",
+    "published_at": "2026-11-06T16:00:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   },
-   {
-    "title": "Car finance: Barclays becomes first big lender to offer payouts for mis-selling of loans",
-    "url": "https://www.theguardian.com/business/2026/nov/03/car-finance-barclays-bank-offer-payouts-loans",
-    "source": "Guardian Business",
-    "summary": "Bank to make ‘early settlement’ offers before outcome of legal battle, with those who accept likely to get money before Christmas Business live – latest updates Barclays will this month start offering compensation to tens of thousands of people who claim they were mis-sold car loans, with some of those who accept likely to see the money land in their account before Christmas. Amid an ongoing legal",
-    "published_at": "2026-11-03T13:34:10+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    }
   ]
  },
@@ -7527,90 +7269,33 @@
   ]
  },
  {
-  "id": "ec7301cebf64",
-  "headline": "Here are Tuesday's biggest analyst calls of the day: Apple, SpaceX, Nvidia, Palantir, Marvell, Bloom Energy & more",
-  "section": "business",
-  "score": 37,
-  "sources_count": 1,
+  "id": "fa785fffcec5",
+  "headline": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+  "section": "world",
+  "score": 38,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-11-03T13:25:49+00:00",
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T06:16:22+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Here are Tuesday's biggest analyst calls of the day: Apple, SpaceX, Nvidia, Palantir, Marvell, Bloom Energy & more",
-    "url": "https://www.cnbc.com/2026/11/03/big-wall-street-analyst-calls-tuesday-include-apple-spacex-palantir.html",
-    "source": "CNBC Top",
-    "summary": "Here are the biggest calls on Wall Street on Tuesday.",
-    "published_at": "2026-11-03T13:25:49+00:00",
+    "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+    "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+    "source": "The Guardian World",
+    "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days. At the centre of the crisis is Ueno Bank, which in just a few years under Peña went from an obscure digital ",
+    "published_at": "2026-11-06T06:16:22+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   }
-  ]
- },
- {
-  "id": "ad72fe52d0ca",
-  "headline": "The 2026 John Lewis Christmas advert is here – and it’s Kristin Scott Thomas v Pickles the evil AI overlord puppy!",
-  "section": "culture",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-11-03T09:21:33+00:00",
-  "time_kind": "published",
-  "items": [
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
    {
-    "title": "The 2026 John Lewis Christmas advert is here – and it’s Kristin Scott Thomas v Pickles the evil AI overlord puppy!",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/nov/03/john-lewis-christmas-advert-2026-kristin-scott-thomas-pickles-ai-dog",
-    "source": "Guardian Culture",
-    "summary": "This year’s festive special looks forward to the time when chatbots reign supreme and humans prepare to be stamped out for ever. What a treat! John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt The John Lewis Christmas advert no longer lands with the same thud as old. Once it prompted full media saturation and performative crying contests on social media. Now, mo",
-    "published_at": "2026-11-03T09:21:33+00:00",
+    "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+    "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+    "source": "Guardian Business",
+    "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days. At the centre of the crisis is Ueno Bank, which in just a few years under Peña went from an obscure digital ",
+    "published_at": "2026-11-06T06:16:22+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   }
-  ]
- },
- {
-  "id": "4bd76cf6794e",
-  "headline": "Greece Has Its Own Pompeii, and the Ruins Tell a Captivating Story of a Sophisticated, Seafaring Bronze Age Society",
-  "section": "culture",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-11-03T12:45:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Greece Has Its Own Pompeii, and the Ruins Tell a Captivating Story of a Sophisticated, Seafaring Bronze Age Society",
-    "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-    "source": "Smithsonian Mag",
-    "summary": "The Thera volcano, on modern-day Santorini, buried Akrotiri in ash in the 17th or 16th century B.C.E. The eruption was one of the largest in recorded history",
-    "published_at": "2026-11-03T12:45:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   }
-  ]
- },
- {
-  "id": "328bd027141b",
-  "headline": "Jon Stewart on Haley Stevens’s betrayal in Michigan: ‘The most diabolical episode of Fargo I’ve ever seen’",
-  "section": "culture",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-11-03T18:20:50+00:00",
-  "event_time": "2026-11-03T16:44:31+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Jon Stewart on Haley Stevens’s betrayal in Michigan: ‘The most diabolical episode of Fargo I’ve ever seen’",
-    "url": "https://www.theguardian.com/culture/2026/nov/03/late-night-roundup-jon-stewart-jimmy-kimmel-seth-meyers",
-    "source": "Guardian Culture",
-    "summary": "On midterms eve, late-night hosts discussed an 11th-hour endorsement, as Trump focused on his reflecting pool On the eve of the US midterm elections , late-night hosts mocked Donald Trump ’s lack of focus on the campaigns, a scandal in the Alaska Senate race and Haley Stevens’s about-face in Michigan . Continue reading...",
-    "published_at": "2026-11-03T16:44:31+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    }
   ]
  },
@@ -8503,108 +8188,95 @@
   ]
  },
  {
-  "id": "9fa876a0c1e3",
-  "headline": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
-  "section": "world",
-  "score": 36,
+  "id": "c821c11af1c2",
+  "headline": "How Akai and Moog are embracing vibe-coded mods",
+  "section": "tech",
+  "score": 37,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T16:34:39+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "How Akai and Moog are embracing vibe-coded mods",
+    "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+    "source": "The Verge",
+    "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can […]",
+    "published_at": "2026-11-06T16:34:39+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "How Akai and Moog are embracing vibe-coded mods",
+    "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+    "source": "The Verge AI",
+    "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can […]",
+    "published_at": "2026-11-06T16:34:39+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   }
+  ]
+ },
+ {
+  "id": "94e038d248f8",
+  "headline": "Should energy drinks be banned for under-16s?",
+  "section": "health",
+  "score": 37,
   "sources_count": 1,
   "depth_signal": 2,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-11-03T14:00:46+00:00",
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T18:17:42+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
-    "source": "The Guardian World",
-    "summary": "Exclusive: Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government Get our breaking news email , free app or daily news podcast Victoria’s public servants union says it will not support Labor at this month’s state election, condemning the government for cutting public service jobs while spending $1.2bn on consultants. T",
-    "published_at": "2026-11-03T14:00:46+00:00",
+    "title": "Should energy drinks be banned for under-16s?",
+    "url": "https://www.bbc.co.uk/news/videos/c6wyrrvw22edo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "The Welsh government says it wants to ban children under 16 from buying high-caffeine energy drinks.",
+    "published_at": "2026-11-06T18:17:42+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
-   }
-  ]
- },
- {
-  "id": "954137d8d070",
-  "headline": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-  "section": "tech",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-11-03T15:19:13+00:00",
-  "event_time": "2026-11-03T14:30:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-    "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-    "source": "TechCrunch",
-    "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
-    "published_at": "2026-11-03T14:30:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    },
    {
-    "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-    "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-    "source": "TechCrunch",
-    "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
-    "published_at": "2026-11-03T14:00:00+00:00",
+    "title": "Under-16s could be banned from buying energy drinks in Wales",
+    "url": "https://www.bbc.co.uk/news/articles/cx4g114r0d2do?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "Young people in Cardiff told BBC Wales they supported the proposed ban.",
+    "published_at": "2026-11-06T17:10:28+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T15:19:10+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    }
   ]
  },
  {
-  "id": "7789e1eba64e",
-  "headline": "UK's King Charles III decries 'monstrous injustice' of slave trade",
-  "section": "world",
-  "score": 36,
+  "id": "19bb32b5890f",
+  "headline": "Premier League team news: predicted lineups for the weekend action",
+  "section": "sport",
+  "score": 37,
   "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-11-03T18:20:50+00:00",
-  "event_time": "2026-11-03T18:08:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "UK's King Charles III decries 'monstrous injustice' of slave trade",
-    "url": "https://www.dw.com/en/uk-s-king-charles-iii-decries-monstrous-injustice-of-slave-trade/a-79845889?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "King Charles has told leaders at a Commonwealth summit that the legacy of the transatlantic slave trade \"fills my heart with horror.\" He did not address calls for apologies and reparations.",
-    "published_at": "2026-11-03T18:08:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
-   }
-  ]
- },
- {
-  "id": "db1d0915e442",
-  "headline": "Indie games are missing launch dates because Steam is backed up",
-  "section": "tech",
-  "score": 36,
-  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-11-03T18:20:50+00:00",
-  "event_time": "2026-11-03T18:14:50+00:00",
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T16:43:45+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Indie games are missing launch dates because Steam is backed up",
-    "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-    "source": "The Verge",
-    "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in […]",
-    "published_at": "2026-11-03T18:14:50+00:00",
+    "title": "Premier League team news: predicted lineups for the weekend action",
+    "url": "https://www.theguardian.com/football/2026/nov/06/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+    "source": "Guardian Sport",
+    "summary": "Manchester United host Aston Villa seeking a first league win in eight games to ease pressure on Michael Carrick Saturday 12.30pm TNT Sports 1 Venue Elland Road Continue reading...",
+    "published_at": "2026-11-06T16:43:45+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    },
    {
-    "title": "Indie games are missing launch dates because Steam is backed up",
-    "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-    "source": "The Verge AI",
-    "summary": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss their planned launch dates. For example, Studio Daimon, the team behind an upcoming title called Food Devils, had planned to launch the game in […]",
-    "published_at": "2026-11-03T18:14:50+00:00",
+    "title": "Premier League news: United’s Baleba out for weeks, Maresca backs Donnarumma",
+    "url": "https://www.theguardian.com/football/2026/nov/06/premier-league-news-manchester-united-baleba-manchester-city-donnarumma-arsenal-arteta-rice",
+    "source": "Guardian Sport",
+    "summary": "Carrick says it is possible to restore former glory at Old Trafford with time and Unai Emery confirms Aston Villa contract talks Continue reading...",
+    "published_at": "2026-11-06T16:06:30+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-03T18:20:47+00:00"
+    "seen_at": "2026-11-06T18:22:03+00:00"
    }
   ]
  },
@@ -9572,6 +9244,139 @@
   ]
  },
  {
+  "id": "fa3b6bb64c58",
+  "headline": "Despite Russia impasse, Germany still hoping to host Men's Ice Hockey World Championship",
+  "section": "world",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T16:28:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Despite Russia impasse, Germany still hoping to host Men's Ice Hockey World Championship",
+    "url": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "A week after a court ruled that Russia must be allowed to return to international ice hockey, the way forward remains unclear. Berlin is seeking a solution that will allow Germany to host next year's Word Championship.",
+    "published_at": "2026-11-06T16:28:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   }
+  ]
+ },
+ {
+  "id": "bf4d539d5076",
+  "headline": "Doximity earnings analysis: questions answered and next catalysts",
+  "section": "business",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T18:05:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Doximity earnings analysis: questions answered and next catalysts",
+    "url": "https://www.investing.com/news/stock-market-news/doximity-earnings-analysis-questions-answered-and-next-catalysts-93CH-5008970",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-06T18:05:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "Axon Enterprise earnings analysis: questions answered and next catalysts",
+    "url": "https://www.investing.com/news/stock-market-news/axon-enterprise-earnings-analysis-questions-answered-and-next-catalysts-93CH-5008967",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-06T18:04:40+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "Monster earnings analysis: questions answered and next catalysts",
+    "url": "https://www.investing.com/news/stock-market-news/monster-earnings-analysis-questions-answered-and-next-catalysts-93CH-5008963",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-06T18:04:06+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "Airbnb earnings analysis: questions answered and next catalysts",
+    "url": "https://www.investing.com/news/stock-market-news/airbnb-earnings-analysis-questions-answered-and-next-catalysts-93CH-5008962",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-06T18:02:45+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   }
+  ]
+ },
+ {
+  "id": "01aef0d2f976",
+  "headline": "Could potential AI clones of GTA VI force a quicker official port?",
+  "section": "tech",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T16:19:12+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Could potential AI clones of GTA VI force a quicker official port?",
+    "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+    "source": "Ars Technica",
+    "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+    "published_at": "2026-11-06T16:19:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "Could potential AI clones of GTA VI force a quicker official port?",
+    "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+    "source": "Ars Technica AI",
+    "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+    "published_at": "2026-11-06T16:19:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   }
+  ]
+ },
+ {
+  "id": "4a9bb134f643",
+  "headline": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
+  "section": "science",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-05T11:05:46+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
+    "source": "ScienceDaily",
+    "summary": "Scientists have solved a decades-old mystery and uncovered a hidden immune system defense that protects healthy cells from the very inflammation meant to fight infections. The surprising discovery could lead to new approaches for treating cancer, inflammatory bowel disease, and other conditions involving excessive inflammation.",
+    "published_at": "2026-11-05T11:05:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
+    "source": "ScienceDaily Health",
+    "summary": "Scientists have solved a decades-old mystery and uncovered a hidden immune system defense that protects healthy cells from the very inflammation meant to fight infections. The surprising discovery could lead to new approaches for treating cancer, inflammatory bowel disease, and other conditions involving excessive inflammation.",
+    "published_at": "2026-11-05T11:05:46+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   }
+  ]
+ },
+ {
   "id": "d18a1d3b50b9",
   "headline": "South African star Zolani Mahola: From 'Waka Waka' with Shakira to 'People Power'",
   "section": "world",
@@ -9665,6 +9470,147 @@
     "published_at": "2026-11-05T00:00:00+00:00",
     "source_countries": [],
     "seen_at": "2026-11-05T18:22:32+00:00"
+   }
+  ]
+ },
+ {
+  "id": "88265e3cdee4",
+  "headline": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
+  "section": "world",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T17:41:51+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
+    "source": "The Guardian World",
+    "summary": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with possession of child sexual abuse material, according to the Federal Bureau of Investigation (FBI). Markle, 82, was taken into custody at a nursing home near Tampa ear",
+    "published_at": "2026-11-06T17:41:51+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ee4cb96b5470",
+  "headline": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+  "section": "business",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-05T09:46:32+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+    "url": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "A little-known investment group has made a bid to buy the business.",
+    "published_at": "2026-11-05T09:46:32+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   }
+  ]
+ },
+ {
+  "id": "8f1c6aa45d00",
+  "headline": "Stocks making the biggest moves midday: Nvidia, Moderna, IonQ, Airbnb, Firefly Aerospace & more",
+  "section": "business",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-06T17:35:33+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Stocks making the biggest moves midday: Nvidia, Moderna, IonQ, Airbnb, Firefly Aerospace & more",
+    "url": "https://www.cnbc.com/2026/11/06/stocks-making-the-biggest-moves-midday-nvda-mrna-ionq-abnb-fly.html",
+    "source": "CNBC Top",
+    "summary": "Here are some of the companies making headlines in midday trading.",
+    "published_at": "2026-11-06T17:35:33+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   }
+  ]
+ },
+ {
+  "id": "fcf53b5e8ed7",
+  "headline": "Gene editing could replace a lifetime of medication, but there's a catch",
+  "section": "health",
+  "score": 35,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-04T04:30:57+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Gene editing could replace a lifetime of medication, but there's a catch",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261102202829.htm",
+    "source": "ScienceDaily",
+    "summary": "A single gene-editing treatment could someday protect against heart disease, high cholesterol, and other common conditions for decades, potentially replacing lifelong medications. But scientists warn that permanently altering genes introduces risks that could take years to emerge, making long-term safety a critical challenge.",
+    "published_at": "2026-11-04T04:30:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   },
+   {
+    "title": "Gene editing could replace a lifetime of medication, but there's a catch",
+    "url": "https://www.sciencedaily.com/releases/2026/11/261102202829.htm",
+    "source": "ScienceDaily Health",
+    "summary": "A single gene-editing treatment could someday protect against heart disease, high cholesterol, and other common conditions for decades, potentially replacing lifelong medications. But scientists warn that permanently altering genes introduces risks that could take years to emerge, making long-term safety a critical challenge.",
+    "published_at": "2026-11-04T04:30:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   }
+  ]
+ },
+ {
+  "id": "423706b91131",
+  "headline": "'It took years to get pain-relieving surgery - I hope a robot means others won't have to wait'",
+  "section": "health",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-02T06:24:21+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "'It took years to get pain-relieving surgery - I hope a robot means others won't have to wait'",
+    "url": "https://www.bbc.co.uk/news/articles/c98rz8v5rem0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "A woman who waited in pain for years for endometriosis surgery praises high-tech bid to end delays.",
+    "published_at": "2026-11-02T06:24:21+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
+   }
+  ]
+ },
+ {
+  "id": "2a9b2527894b",
+  "headline": "That feeling of values crumbling has a name: civic grief",
+  "section": "meaning",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 8,
+  "created": "2026-11-06T18:22:08+00:00",
+  "event_time": "2026-11-03T11:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "That feeling of values crumbling has a name: civic grief",
+    "url": "https://psyche.co/ideas/that-feeling-of-values-crumbling-has-a-name-civic-grief",
+    "source": "Psyche",
+    "summary": "Fairness, dignity and shared obligation are precious. Grieving their loss is a first step toward doing something about it - by Rebecca Lewandowski Read on Psyche",
+    "published_at": "2026-11-03T11:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-06T18:22:03+00:00"
    }
   ]
  }

@@ -125,7 +125,7 @@
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
   - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
   - Authentication — <https://en.wikipedia.org/wiki/Authentication>
-  - Mutual authentication — <https://en.wikipedia.org/wiki/Mutual_authentication>
+  - Comparison of OTP applications — <https://en.wikipedia.org/wiki/Comparison_of_OTP_applications>
 
 ---
 
@@ -181,8 +181,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: Trump says White House press secretary Karoline Leavitt to leave post
 rubrika: world · sledováno od 2026-08-12 · záznamů: 60
-  2026-10-02  (2 zdrojů, síla 40)  It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)
-  2026-10-05  (2 zdrojů, síla 41)  Trump unveils 'Super Intelligence Force' to oversee AI policy
   2026-10-05  (2 zdrojů, síla 52)  Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube
   2026-10-15  (1 zdrojů, síla 46)  London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come
   2026-10-16  (2 zdrojů, síla 43)  New White House Press Secretary Katie Zacharia on way out after only five days on job, reports say
@@ -201,6 +199,8 @@ rubrika: world · sledováno od 2026-08-12 · záznamů: 60
   2026-11-03  (2 zdrojů, síla 42)  Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
   2026-11-05  (2 zdrojů, síla 48)  Want to Rent an Internet Address at the White House?
   2026-11-06  (2 zdrojů, síla 50)  Past White House adviser Raj Panjabi has written a playbook for 'living room' crises
+  2026-11-06  (2 zdrojů, síla 44)  Four midterms takeaways for 2028 White House race
+  2026-11-06  (1 zdrojů, síla 43)  CARE Packages Provided a Lifeline for World War II Survivors. Here’s How the Group Turned Leftover Army Rations Into an 80-Year Legacy
 ```
 
 ---
