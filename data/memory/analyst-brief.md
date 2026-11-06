@@ -21,9 +21,8 @@ Paměť obsahuje **185 vláken**. Aktivních za posledních 14 dní: **51**.
   - **2026-11-06** (2 zdrojů) Melania Trump touts rare agreement she brokered between Russia and Ukraine
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 85 dní · 60 záznamů
+- rubrika `world` · sledováno 86 dní · 60 záznamů
 - časová osa:
-  - **2026-10-19** (3 zdrojů) Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
   - **2026-10-23** (3 zdrojů) White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'
   - **2026-10-24** (2 zdrojů) White House lifts tariffs on some Canadian goods as midterm elections loom
   - **2026-10-29** (3 zdrojů) What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump
@@ -33,6 +32,7 @@ Paměť obsahuje **185 vláken**. Aktivních za posledních 14 dní: **51**.
   - **2026-10-31** (2 zdrojů) Oleshky evacuees reunite with families after truce allows crossing back into Ukraine
   - **2026-11-03** (2 zdrojů) Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
   - **2026-11-05** (2 zdrojů) Want to Rent an Internet Address at the White House?
+  - **2026-11-06** (2 zdrojů) Past White House adviser Raj Panjabi has written a playbook for 'living room' crises
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 88 dní · 60 záznamů
