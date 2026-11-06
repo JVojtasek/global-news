@@ -915,28 +915,30 @@
    "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
    "section": "world",
    "entities": [
-    "hong",
-    "kong",
-    "rokid",
-    "wong",
+    "ipos",
     "wall",
-    "epstein",
-    "joshua",
-    "trump's",
+    "kong",
+    "jailed",
+    "european",
+    "moonshot",
+    "hong",
     "kimi",
+    "joshua",
     "nasdaq",
+    "rokid",
     "judge",
-    "softbank",
-    "shanghai",
+    "kong's",
     "asia",
     "journal",
+    "street",
+    "asian",
+    "shanghai",
     "google",
-    "moonshot",
-    "ipos",
-    "jailed",
+    "wong",
+    "epstein",
     "hynix",
-    "kong's",
-    "street"
+    "softbank",
+    "trump's"
    ],
    "event_ids": [
     "8d4f8a634705",
@@ -956,7 +958,8 @@
     "faf1874beb29",
     "79e2afd27123",
     "7a57011ecd6c",
-    "d1ee3736dbbc"
+    "d1ee3736dbbc",
+    "037f4509cc02"
    ],
    "first_seen": "2026-09-02",
    "last_seen": "2026-11-06",
@@ -1164,6 +1167,16 @@
       "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
       "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction"
      ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
+     "sources": 1,
+     "score": 40,
+     "event_id": "037f4509cc02",
+     "links": [
+      "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-rdf"
+     ]
     }
    ]
   },
@@ -1203,6 +1216,34 @@
      "links": [
       "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
       "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d38af5d86302",
+   "title": "Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live",
+   "section": "world",
+   "entities": [
+    "global",
+    "democrats"
+   ],
+   "event_ids": [
+    "d38af5d86302"
+   ],
+   "first_seen": "2026-11-06",
+   "last_seen": "2026-11-06",
+   "timeline": [
+    {
+     "date": "2026-11-06",
+     "headline": "Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live",
+     "sources": 3,
+     "score": 57,
+     "event_id": "d38af5d86302",
+     "links": [
+      "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+      "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/6/global-tech-stocks-plunge-over-fears-of-ai-curbs-in-us?traffic_source=rss"
      ]
     }
    ]
@@ -20732,5 +20773,5 @@
    ]
   }
  ],
- "updated": "2026-11-06T06:27:56+00:00"
+ "updated": "2026-11-06T09:20:34+00:00"
 }
