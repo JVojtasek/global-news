@@ -911,6 +911,46 @@
    ]
   },
   {
+   "id": "a9f8df873986",
+   "title": "Bomb threats disrupt several flights across Europe",
+   "section": "world",
+   "entities": [
+    "bomb",
+    "europe"
+   ],
+   "event_ids": [
+    "a9f8df873986",
+    "155e203a7518"
+   ],
+   "first_seen": "2026-11-05",
+   "last_seen": "2026-11-06",
+   "timeline": [
+    {
+     "date": "2026-11-05",
+     "headline": "Bomb threats disrupt several flights across Europe",
+     "sources": 4,
+     "score": 64,
+     "event_id": "a9f8df873986",
+     "links": [
+      "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20261105-europe-dozens-of-flights-diverted-following-bomb-threats",
+      "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+     "sources": 2,
+     "score": 42,
+     "event_id": "155e203a7518",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+      "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+     ]
+    }
+   ]
+  },
+  {
    "id": "d4578d08ad87",
    "title": "Trump says White House press secretary Karoline Leavitt to leave post",
    "section": "world",
@@ -6433,34 +6473,6 @@
      "links": [
       "https://www.france24.com/en/tv-shows/sports/20261105-champions-league-lens-suffer-historic-9-1-defeat-against-como",
       "https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "a9f8df873986",
-   "title": "Bomb threats disrupt several flights across Europe",
-   "section": "world",
-   "entities": [
-    "bomb",
-    "europe"
-   ],
-   "event_ids": [
-    "a9f8df873986"
-   ],
-   "first_seen": "2026-11-05",
-   "last_seen": "2026-11-05",
-   "timeline": [
-    {
-     "date": "2026-11-05",
-     "headline": "Bomb threats disrupt several flights across Europe",
-     "sources": 4,
-     "score": 64,
-     "event_id": "a9f8df873986",
-     "links": [
-      "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20261105-europe-dozens-of-flights-diverted-following-bomb-threats",
-      "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html"
      ]
     }
    ]
@@ -20708,5 +20720,5 @@
    ]
   }
  ],
- "updated": "2026-11-06T00:37:47+00:00"
+ "updated": "2026-11-06T03:20:58+00:00"
 }
