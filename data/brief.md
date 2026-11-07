@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-11-06
+# ZADÁNÍ PRO REDAKCI — 2026-11-07
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -129,12 +129,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### two factor authentication
-- rubrika: `culture`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### space telescope
+- rubrika: `wonder`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Multi-factor authentication — <https://en.wikipedia.org/wiki/Multi-factor_authentication>
-  - Authentication — <https://en.wikipedia.org/wiki/Authentication>
-  - Mutual authentication — <https://en.wikipedia.org/wiki/Mutual_authentication>
+  - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
+  - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
+  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
 
 ---
 
@@ -154,7 +154,36 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+### 1. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
+- id: `09443cca3ddd`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: More troops to be sent to West Bank village besieged by Israeli settlers
+rubrika: world · sledováno od 2026-08-13 · záznamů: 60
+  2026-10-26  (2 zdrojů, síla 42)  Who are the Israeli candidates trying to unseat Netanyahu?
+  2026-10-27  (2 zdrojů, síla 47)  Israel election: Israelis vote for 1st time since October 7 terror attack
+  2026-10-27  (1 zdrojů, síla 40)  Turnout high as Israeli voters deliver verdict on Netanyahu
+  2026-10-27  (5 zdrojů, síla 77)  Israel election too close to call as exit polls give Netanyahu bloc slightly fewer seats
+  2026-10-28  (3 zdrojů, síla 60)  Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority
+  2026-10-28  (2 zdrojů, síla 45)  Arab parties could hold key as Netanyahu and Eisenkot set to fall short of victory
+  2026-10-28  (2 zdrojů, síla 44)  'Israeli president trying to form unity govt: They will not need Arab parties nor Orthodox parties'
+  2026-10-28  (2 zdrojů, síla 43)  Israel’s choice: Netanyahu remaining in power or a Palestinian-backed coalition
+  2026-10-29  (1 zdrojů, síla 40)  Paleontologists Discover the First Known Amphibian That Lived Entirely at Sea: a Flat, Armored Creature From 237 Million Years Ago
+  2026-10-30  (2 zdrojů, síla 41)  Netanyahu attacks Israel’s Arab parties as he falls short of majority
+  2026-10-30  (2 zdrojů, síla 43)  Palestinian voter turnout exposes Israel’s attitude towards Arab citizens
+  2026-10-30  (1 zdrojů, síla 40)  Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries
+  2026-10-30  (2 zdrojů, síla 52)  Some Monkeys Seem to Become Germophobic After Living Through a Disease Outbreak, Just Like Humans
+  2026-10-30  (1 zdrojů, síla 44)  For Over Four Years, the Hirshhorn Worked to Revitalize Its Sculpture Garden. Today, It's Home to a 'King and Queen,' a 'Wish Tree' and a 55,000-Pound Vertical Swimming Pool Artwork
+  2026-10-30  (1 zdrojů, síla 40)  Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
+  2026-11-03  (1 zdrojů, síla 44)  Scientists Feared This Cute but Venomous Primate Had Gone Extinct Nearly 100 Years Ago. It Was Hiding in Plain Sight All Along
+  2026-11-04  (1 zdrojů, síla 44)  Archaeologists in Scotland Discovered the Skeleton of a Roman-Era Man Who Was Decapitated Nearly 2,000 Years Ago. Now, You Can See What He Might Have Looked Like During His Lifetime
+  2026-11-06  (1 zdrojů, síla 44)  Fossil Footprints in Brazil Hint at a Cougar-Size Mammal That Walked Among Dinosaurs. It's Another Sign That Some Early Beasts Grew to Impressive Sizes After All
+  2026-11-06  (1 zdrojů, síla 40)  For Centuries, Cave Visitors Walked Right by 280 Ice Age Engravings. The Newly Discovered Rock Art Is Rewriting Catalonia's Prehistory
+  2026-11-07  (1 zdrojů, síla 40)  This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time
+```
+
+### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -181,35 +210,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-11-04  (2 zdrojů, síla 44)  Canada joins coalition refusing to play ice hockey against Russia over Ukraine war
   2026-11-05  (2 zdrojů, síla 52)  Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
   2026-11-06  (2 zdrojů, síla 44)  Melania Trump touts rare agreement she brokered between Russia and Ukraine
-```
-
-### 2. What has actually changed: Trump says White House press secretary Karoline Leavitt to leave post
-- id: `d4578d08ad87`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Trump says White House press secretary Karoline Leavitt to leave post
-rubrika: world · sledováno od 2026-08-12 · záznamů: 60
-  2026-10-05  (2 zdrojů, síla 52)  Soldiers Sweeping for Land Mines in South Korea Have Unearthed the Country’s Oldest Gun, a 600-Year-Old Inscribed Bronze Tube
-  2026-10-15  (1 zdrojů, síla 46)  London's Oldest Restaurant, Frequented by Monarchs and Pop Stars Alike, Is a Site of 'Living History.' Now It's Protected by the National Trust for Generations to Come
-  2026-10-16  (2 zdrojů, síla 43)  New White House Press Secretary Katie Zacharia on way out after only five days on job, reports say
-  2026-10-16  (3 zdrojů, síla 54)  White House press secretary Zacharia exiting role after short tenure
-  2026-10-17  (2 zdrojů, síla 44)  Katie Zacharia leaving her White House role less than five days on the job
-  2026-10-18  (3 zdrojů, síla 52)  Trump endorses Netanyahu in Israeli legislative elections
-  2026-10-19  (2 zdrojů, síla 40)  EU tariffs aimed at China hitting Ukraine, steel boss says
-  2026-10-19  (3 zdrojů, síla 60)  Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection
-  2026-10-23  (3 zdrojů, síla 58)  White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'
-  2026-10-24  (2 zdrojů, síla 42)  White House lifts tariffs on some Canadian goods as midterm elections loom
-  2026-10-29  (3 zdrojů, síla 56)  What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump
-  2026-10-30  (2 zdrojů, síla 44)  Israeli opposition accuses Netanyahu of trying to 'delegitimise' election
-  2026-10-31  (2 zdrojů, síla 47)  Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory
-  2026-10-31  (2 zdrojů, síla 41)  How has the ceasefire in Russian-occupied Oleshky been unfolding?
-  2026-10-31  (2 zdrojů, síla 42)  Oleshky evacuees reunite with families after truce allows crossing back into Ukraine
-  2026-11-03  (2 zdrojů, síla 42)  Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
-  2026-11-05  (2 zdrojů, síla 48)  Want to Rent an Internet Address at the White House?
-  2026-11-06  (2 zdrojů, síla 50)  Past White House adviser Raj Panjabi has written a playbook for 'living room' crises
-  2026-11-06  (2 zdrojů, síla 44)  Four midterms takeaways for 2028 White House race
-  2026-11-06  (1 zdrojů, síla 43)  CARE Packages Provided a Lifeline for World War II Survivors. Here’s How the Group Turned Leftover Army Rations Into an 80-Year Legacy
 ```
 
 ---
