@@ -160,7 +160,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
 ```
 VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-21  (4 zdrojů, síla 66)  US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live
   2026-10-21  (2 zdrojů, síla 50)  Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
   2026-10-21  (1 zdrojů, síla 45)  ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
   2026-10-21  (4 zdrojů, síla 70)  Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
@@ -180,6 +179,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-11-05  (2 zdrojů, síla 52)  Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
   2026-11-06  (2 zdrojů, síla 44)  Melania Trump touts rare agreement she brokered between Russia and Ukraine
   2026-11-07  (2 zdrojů, síla 41)  Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks
+  2026-11-07  (2 zdrojů, síla 45)  Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid
 ```
 
 ---

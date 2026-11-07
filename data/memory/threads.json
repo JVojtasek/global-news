@@ -819,46 +819,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
+    "states",
+    "kuwait",
+    "melania",
+    "roth",
+    "asia",
+    "gulf",
+    "audi",
+    "death",
+    "dnipro",
+    "saudi",
+    "modi",
     "removals",
-    "iran's",
-    "chancellor",
+    "trump",
     "korea",
     "merz",
-    "bringing",
-    "american",
-    "kyiv",
-    "roth",
-    "gulf",
-    "riyadh",
-    "audi",
     "kherson",
-    "andrew",
-    "audi's",
-    "steven",
-    "poland",
-    "melania",
-    "vladimir",
-    "saudi",
-    "russia",
-    "kuwait",
-    "union",
-    "block",
-    "asia",
-    "trump",
-    "germany",
-    "britain",
     "ukraine",
-    "death",
-    "ukrainian",
-    "president",
-    "beijing",
-    "united",
-    "dnipro",
     "saudis",
-    "modi",
-    "states",
+    "chancellor",
+    "steven",
+    "canada",
+    "riyadh",
+    "russia",
+    "poland",
+    "ukrainian",
+    "beijing",
+    "iran's",
+    "audi's",
+    "block",
+    "president",
+    "kyiv",
+    "germany",
+    "united",
+    "american",
+    "andrew",
     "russian",
-    "canada"
+    "britain",
+    "blackouts",
+    "vladimir",
+    "bringing"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -1034,22 +1034,12 @@
     "dbc98b1df41b",
     "5a56f3812c17",
     "e604e040f8bc",
-    "cf75f49855a7"
+    "cf75f49855a7",
+    "393e0d6d578a"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-11-07",
    "timeline": [
-    {
-     "date": "2026-10-10",
-     "headline": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-     "sources": 2,
-     "score": 42,
-     "event_id": "5df45c581313",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-      "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/"
-     ]
-    },
     {
      "date": "2026-10-10",
      "headline": "As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?",
@@ -1721,6 +1711,17 @@
      "links": [
       "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1"
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+     "sources": 2,
+     "score": 45,
+     "event_id": "393e0d6d578a",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+      "https://www.cnbc.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge.html"
      ]
     }
    ]
@@ -3939,6 +3940,75 @@
    ]
   },
   {
+   "id": "d104b6df2cda",
+   "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+   "section": "world",
+   "entities": [
+    "buffett",
+    "father",
+    "warren",
+    "time",
+    "berkshire",
+    "hathaway"
+   ],
+   "event_ids": [
+    "d104b6df2cda",
+    "c41e4ce51349",
+    "455c31422965",
+    "0cd5dc65a670"
+   ],
+   "first_seen": "2026-09-18",
+   "last_seen": "2026-11-07",
+   "timeline": [
+    {
+     "date": "2026-09-18",
+     "headline": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
+     "sources": 3,
+     "score": 57,
+     "event_id": "d104b6df2cda",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
+      "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Warren Buffett steps down as Berkshire Hathaway chairman",
+     "sources": 2,
+     "score": 43,
+     "event_id": "c41e4ce51349",
+     "links": [
+      "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
+      "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Warren Buffett steps down as Berkshire Hathaway chairman",
+     "sources": 2,
+     "score": 40,
+     "event_id": "455c31422965",
+     "links": [
+      "https://www.dw.com/en/warren-buffett-steps-down-as-berkshire-hathaway-chairman/a-79330594?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/business/2026/sep/18/warren-buffett-steps-down-berkshire-hathaway"
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+     "sources": 2,
+     "score": 44,
+     "event_id": "0cd5dc65a670",
+     "links": [
+      "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "https://www.investing.com/news/stock-market-news/berkshire-hathaway-steps-up-buybacks-as-operating-profit-falls-5009881",
+      "https://www.investing.com/news/earnings/berkshire-hathaway-b-earnings-beat-by-455-revenue-topped-estimates-5009895"
+     ]
+    }
+   ]
+  },
+  {
    "id": "d94247d11890",
    "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accou",
    "section": "world",
@@ -3962,6 +4032,35 @@
       "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
       "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "48ebc69d655d",
+   "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
+   "section": "world",
+   "entities": [
+    "gaza",
+    "israeli",
+    "cisco"
+   ],
+   "event_ids": [
+    "48ebc69d655d"
+   ],
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-07",
+   "timeline": [
+    {
+     "date": "2026-11-07",
+     "headline": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
+     "sources": 2,
+     "score": 55,
+     "event_id": "48ebc69d655d",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss",
+      "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss"
      ]
     }
    ]
@@ -18846,62 +18945,6 @@
    ]
   },
   {
-   "id": "d104b6df2cda",
-   "title": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-   "section": "world",
-   "entities": [
-    "buffett",
-    "time",
-    "berkshire",
-    "father",
-    "hathaway",
-    "warren"
-   ],
-   "event_ids": [
-    "d104b6df2cda",
-    "c41e4ce51349",
-    "455c31422965"
-   ],
-   "first_seen": "2026-09-18",
-   "last_seen": "2026-09-18",
-   "timeline": [
-    {
-     "date": "2026-09-18",
-     "headline": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-     "sources": 3,
-     "score": 57,
-     "event_id": "d104b6df2cda",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss",
-      "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Warren Buffett steps down as Berkshire Hathaway chairman",
-     "sources": 2,
-     "score": 43,
-     "event_id": "c41e4ce51349",
-     "links": [
-      "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
-      "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Warren Buffett steps down as Berkshire Hathaway chairman",
-     "sources": 2,
-     "score": 40,
-     "event_id": "455c31422965",
-     "links": [
-      "https://www.dw.com/en/warren-buffett-steps-down-as-berkshire-hathaway-chairman/a-79330594?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/business/2026/sep/18/warren-buffett-steps-down-berkshire-hathaway"
-     ]
-    }
-   ]
-  },
-  {
    "id": "182e44deb83c",
    "title": "US Congress passes Russia sanctions bill",
    "section": "world",
@@ -21048,5 +21091,5 @@
    ]
   }
  ],
- "updated": "2026-11-07T12:22:11+00:00"
+ "updated": "2026-11-07T15:19:03+00:00"
 }

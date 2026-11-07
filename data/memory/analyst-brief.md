@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-07
 
-Paměť obsahuje **186 vláken**. Aktivních za posledních 14 dní: **52**.
+Paměť obsahuje **187 vláken**. Aktivních za posledních 14 dní: **53**.
 
 ---
 
@@ -23,7 +23,6 @@ Paměť obsahuje **186 vláken**. Aktivních za posledních 14 dní: **52**.
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 90 dní · 60 záznamů
 - časová osa:
-  - **2026-10-29** (2 zdrojů) Russian drone attack on Ukrainian train station kills at least 14, officials say
   - **2026-11-01** (2 zdrojů) Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
   - **2026-11-03** (3 zdrojů) Russian strikes kill 26 in Ukraine after longest ceasefire ends
   - **2026-11-03** (2 zdrojů) Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
@@ -33,6 +32,7 @@ Paměť obsahuje **186 vláken**. Aktivních za posledních 14 dní: **52**.
   - **2026-11-05** (2 zdrojů) Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
   - **2026-11-06** (2 zdrojů) Melania Trump touts rare agreement she brokered between Russia and Ukraine
   - **2026-11-07** (2 zdrojů) Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks
+  - **2026-11-07** (2 zdrojů) Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 86 dní · 60 záznamů
@@ -100,5 +100,5 @@ _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, 
 - **Saxony-Anhalt: Far-right AfD secures huge lead in key vote** — naposledy 2026-09-21, celkem 7 záznamů
 - **Norway's King Harald dies aged 89** — naposledy 2026-09-21, celkem 6 záznamů
 - **Manzambi catches eye as Villa beat Spurs - player ratings** — naposledy 2026-09-19, celkem 3 záznamů
-- **Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'** — naposledy 2026-09-18, celkem 3 záznamů
 - **Shelton beats Alcaraz in latest-ever US Open finish to reach semis** — naposledy 2026-09-14, celkem 4 záznamů
+- **Hong Kong's Tiananmen activists guilty in national security trial** — naposledy 2026-09-11, celkem 6 záznamů
