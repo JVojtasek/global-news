@@ -21,9 +21,8 @@ Paměť obsahuje **186 vláken**. Aktivních za posledních 14 dní: **52**.
   - **2026-11-07** (1 zdrojů) This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 89 dní · 60 záznamů
+- rubrika `world` · sledováno 90 dní · 60 záznamů
 - časová osa:
-  - **2026-10-29** (2 zdrojů) Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
   - **2026-10-29** (2 zdrojů) Russian drone attack on Ukrainian train station kills at least 14, officials say
   - **2026-11-01** (2 zdrojů) Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
   - **2026-11-03** (3 zdrojů) Russian strikes kill 26 in Ukraine after longest ceasefire ends
@@ -33,6 +32,7 @@ Paměť obsahuje **186 vláken**. Aktivních za posledních 14 dní: **52**.
   - **2026-11-04** (2 zdrojů) Canada joins coalition refusing to play ice hockey against Russia over Ukraine war
   - **2026-11-05** (2 zdrojů) Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
   - **2026-11-06** (2 zdrojů) Melania Trump touts rare agreement she brokered between Russia and Ukraine
+  - **2026-11-07** (2 zdrojů) Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 86 dní · 60 záznamů
