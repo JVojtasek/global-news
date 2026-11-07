@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-07
 
-Paměť obsahuje **187 vláken**. Aktivních za posledních 14 dní: **54**.
+Paměť obsahuje **188 vláken**. Aktivních za posledních 14 dní: **54**.
 
 ---
 
@@ -34,6 +34,20 @@ Paměť obsahuje **187 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-11-07** (2 zdrojů) Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks
   - **2026-11-07** (2 zdrojů) Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid
 
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 81 dní · 60 záznamů
+- časová osa:
+  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
+  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United: Premier League – live
+  - **2026-11-02** (2 zdrojů) Football: China refuses to air Real Madrid game after Mbappé comment
+  - **2026-11-02** (2 zdrojů) Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
+  - **2026-11-04** (3 zdrojů) Man Utd beat Roma - the other great Champions League comebacks
+  - **2026-11-04** (2 zdrojů) Photos: Champions League and Tenerife fans pay tribute to De Miguel
+  - **2026-11-04** (2 zdrojů) Football world mourns Tenerife striker De Miguel
+  - **2026-11-04** (4 zdrojů) Nadal set to join Real Madrid board of directors
+  - **2026-11-05** (2 zdrojů) Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
+  - **2026-11-07** (2 zdrojů) Delap double inspires Forest to stunning win over Man City
+
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 86 dní · 60 záznamů
 - časová osa:
@@ -61,20 +75,6 @@ Paměť obsahuje **187 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-10-31** (2 zdrojů) Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live
   - **2026-11-01** (2 zdrojů) Wales hit by Australia century in World Cup record defeat
   - **2026-11-05** (2 zdrojů) England captain Kane signs new Bayern contract
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 79 dní · 60 záznamů
-- časová osa:
-  - **2026-10-30** (2 zdrojů) Chelsea vs Manchester United: Premier League – teams, prediction, lineups
-  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
-  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United: Premier League – live
-  - **2026-11-02** (2 zdrojů) Football: China refuses to air Real Madrid game after Mbappé comment
-  - **2026-11-02** (2 zdrojů) Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
-  - **2026-11-04** (3 zdrojů) Man Utd beat Roma - the other great Champions League comebacks
-  - **2026-11-04** (2 zdrojů) Photos: Champions League and Tenerife fans pay tribute to De Miguel
-  - **2026-11-04** (2 zdrojů) Football world mourns Tenerife striker De Miguel
-  - **2026-11-04** (4 zdrojů) Nadal set to join Real Madrid board of directors
-  - **2026-11-05** (2 zdrojů) Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 84 dní · 60 záznamů

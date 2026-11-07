@@ -58,7 +58,28 @@
     <https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion>
     > Hong Kong democracy activist Joshua Wong was sentenced to 10 more years in prison on Thursday for colluding with foreign powers, a court summary said. Wong, 30, pleaded guilty in September to seeking foreign sanctions against Hong Kong and China under Beijing’s national security 
 
-### 3. Russell Brand is being investigated over two new rape complaints, police say
+### 3. Israeli president picks Gadi Eisenkot to form government
+- id události: `11b25b0129fb`  ·  rubrika: `world`  ·  skóre: 75  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **DW News** — Israeli president picks Gadi Eisenkot to form government
+    <https://www.dw.com/en/israeli-president-picks-gadi-eisenkot-to-form-government/a-79888288?maca=en-rss-en-all-1573-rdf>
+    > The anti-Netanyahu alliance led by former Israeli military chief Gadi Eisenkot has been tasked by President Isaac Herzog with forming a new government, with tricky coalition talks expected.
+  - **The Guardian World** — Israel’s president picks Yashar leader Gadi Eisenkot to form government
+    <https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government>
+    > Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a deadlocked election that 
+  - **Al Jazeera** — Israel’s president picks Eisenkot over Netanyahu to form next government
+    <https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss>
+    > President Isaac Herzog formally assigns Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as PM.
+  - **France 24** — 🔴 Israeli president picks Netanyahu's rival Eisenkot to try to form government
+    <https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government>
+  - **France 24** — Israeli president picks Netanyahu's rival Eisenkot to try to form government
+    <https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government>
+    > Israeli President Isaac Herzog picked former military chief Gadi Eisenkot to try to form a government, he said in a statement Saturday. Last month's parliamentary elections left neither Eisenkot nor Prime Minister Benjamin Netanyahu with a clear path to building a majority.
+  - **Investing.com** — Israel’s Eisenkot gets first mandate to form government, aiming to oust Netanyahu
+    <https://www.investing.com/news/economy-news/israels-eisenkot-gets-first-mandate-to-form-government-aiming-to-oust-netanyahu-5010017>
+
+### 4. Russell Brand is being investigated over two new rape complaints, police say
 - id události: `fa3936aa041c`  ·  rubrika: `world`  ·  skóre: 72  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -74,26 +95,6 @@
   - **DW News** — British comedian and actor Russell Brand found guilty of rape
     <https://www.dw.com/en/british-comedian-and-actor-russell-brand-found-guilty-of-rape/a-79867216?maca=en-rss-en-all-1573-rdf>
     > Prosecutors labeled Brand a sexual predator. He was charged in sexual assault cases spanning from 1999 to 2009.
-
-### 4. New wave of bomb threats hit European airlines
-- id události: `8c805a113994`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — New wave of bomb threats hit European airlines
-    <https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss>
-    > No link has been established between the threats against the airlines and those against the media outlets.
-  - **NPR News** — European air traffic is targeted by new threats after a week of hoaxes
-    <https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes>
-    > Officials across Europe reported a fresh slew of bomb threats against multiple flights on Friday, following a string of hoaxes that have caused flight diversions this week. Two broadcasters also received security threats.
-  - **Guardian Business** — Why have more than 30 European flights been hit by bomb threats this week?
-    <https://www.theguardian.com/world/2026/nov/05/bomb-threats-european-flights-airports-disruption-explainer>
-    > With flights disrupted, how concerned should you be about your travel plans? More than 30 planes have been subjected to security alerts or diversions this week , with at least 25 more bomb threats on Thursday disrupting civil aviation across Europe. What do we know so far, and ho
-  - **France 24** — 'Chaos within aviation industry' as European air traffic hit by bomb threats
-    <https://www.france24.com/en/video/20261106-chaos-within-aviation-industry-as-european-air-traffic-hit-by-bomb-threats>
-    > Officials across Europe reported a fresh slew of bomb threats against multiple flights on Friday, November 6, following a string of hoaxes that have caused flight diversions this week. Two broadcasters also received security threats, in a possible sign the menace was spreading be
-  - **Al Jazeera** — New bomb threats target European broadcasters, air traffic
-    <https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss>
-    > A string of hoax alerts causing flight diversions across Europe this week has broadened to include newsrooms.
 
 ---
 
