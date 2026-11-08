@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-08
 
-Paměť obsahuje **188 vláken**. Aktivních za posledních 14 dní: **53**.
+Paměť obsahuje **188 vláken**. Aktivních za posledních 14 dní: **55**.
 
 ---
 
@@ -100,5 +100,5 @@ _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, 
 - **Saxony-Anhalt: Far-right AfD secures huge lead in key vote** — naposledy 2026-09-21, celkem 7 záznamů
 - **Norway's King Harald dies aged 89** — naposledy 2026-09-21, celkem 6 záznamů
 - **Manzambi catches eye as Villa beat Spurs - player ratings** — naposledy 2026-09-19, celkem 3 záznamů
-- **Shelton beats Alcaraz in latest-ever US Open finish to reach semis** — naposledy 2026-09-14, celkem 4 záznamů
 - **Hong Kong's Tiananmen activists guilty in national security trial** — naposledy 2026-09-11, celkem 6 záznamů
+- **Favourite Kane makes Ballon d'Or shortlist** — naposledy 2026-09-09, celkem 3 záznamů
