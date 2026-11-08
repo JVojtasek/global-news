@@ -20,6 +20,20 @@ Paměť obsahuje **188 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-11-07** (2 zdrojů) Delap double inspires Forest to stunning win over Man City
   - **2026-11-08** (2 zdrojů) Forest win over Man City 'a turning point' - Murphy
 
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 91 dní · 60 záznamů
+- časová osa:
+  - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
+  - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
+  - **2026-10-27** (3 zdrojů) Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
+  - **2026-10-27** (4 zdrojů) 'A dream come true' - Harry Kane on his Ballon d'Or win
+  - **2026-10-27** (2 zdrojů) Quiz: Kane and who else? Name every men's Ballon d'Or winner
+  - **2026-10-30** (2 zdrojů) England thrash Wales to begin World Cup defence
+  - **2026-10-31** (2 zdrojů) Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live
+  - **2026-11-01** (2 zdrojů) Wales hit by Australia century in World Cup record defeat
+  - **2026-11-05** (2 zdrojů) England captain Kane signs new Bayern contract
+  - **2026-11-08** (2 zdrojů) Australia reach World Cup final after Fiji scare
+
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 86 dní · 60 záznamů
 - časová osa:
@@ -61,20 +75,6 @@ Paměť obsahuje **188 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-11-06** (2 zdrojů) Past White House adviser Raj Panjabi has written a playbook for 'living room' crises
   - **2026-11-06** (2 zdrojů) Four midterms takeaways for 2028 White House race
   - **2026-11-06** (1 zdrojů) CARE Packages Provided a Lifeline for World War II Survivors. Here’s How the Group Turned Leftover Army Rations Into an 80-Year Legacy
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 88 dní · 60 záznamů
-- časová osa:
-  - **2026-10-08** (3 zdrojů) Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
-  - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
-  - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
-  - **2026-10-27** (3 zdrojů) Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
-  - **2026-10-27** (4 zdrojů) 'A dream come true' - Harry Kane on his Ballon d'Or win
-  - **2026-10-27** (2 zdrojů) Quiz: Kane and who else? Name every men's Ballon d'Or winner
-  - **2026-10-30** (2 zdrojů) England thrash Wales to begin World Cup defence
-  - **2026-10-31** (2 zdrojů) Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live
-  - **2026-11-01** (2 zdrojů) Wales hit by Australia century in World Cup record defeat
-  - **2026-11-05** (2 zdrojů) England captain Kane signs new Bayern contract
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 84 dní · 60 záznamů
