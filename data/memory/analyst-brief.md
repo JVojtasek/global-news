@@ -23,7 +23,6 @@ Paměť obsahuje **188 vláken**. Aktivních za posledních 14 dní: **53**.
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 91 dní · 60 záznamů
 - časová osa:
-  - **2026-10-22** (2 zdrojů) Harry Kane: Ballon d’Or for Bayern Munich striker?
   - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
   - **2026-10-27** (3 zdrojů) Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
   - **2026-10-27** (4 zdrojů) 'A dream come true' - Harry Kane on his Ballon d'Or win
@@ -33,6 +32,7 @@ Paměť obsahuje **188 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-11-01** (2 zdrojů) Wales hit by Australia century in World Cup record defeat
   - **2026-11-05** (2 zdrojů) England captain Kane signs new Bayern contract
   - **2026-11-08** (2 zdrojů) Australia reach World Cup final after Fiji scare
+  - **2026-11-08** (2 zdrojů) Walsh-inspired Australia crush irate Samoa to reach World Cup final
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 86 dní · 60 záznamů

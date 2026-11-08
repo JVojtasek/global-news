@@ -158,7 +158,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-03  (2 zdrojů, síla 44)  LIVE: Croatia vs England – UEFA Nations League
   2026-10-03  (2 zdrojů, síla 54)  North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live
   2026-10-05  (2 zdrojů, síla 56)  Israel face spitting allegation as Ireland boss ‘delighted’ ties after over
   2026-10-06  (2 zdrojů, síla 43)  Nations League roundup: Olise leads late charge as France bowl over Belgium
@@ -178,6 +177,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-11-01  (2 zdrojů, síla 51)  Wales hit by Australia century in World Cup record defeat
   2026-11-05  (2 zdrojů, síla 42)  England captain Kane signs new Bayern contract
   2026-11-08  (2 zdrojů, síla 50)  Australia reach World Cup final after Fiji scare
+  2026-11-08  (2 zdrojů, síla 47)  Walsh-inspired Australia crush irate Samoa to reach World Cup final
 ```
 
 ---
