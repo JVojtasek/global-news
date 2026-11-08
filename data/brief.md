@@ -35,7 +35,31 @@
     <https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss>
     > Susie Wiles steps down as White House chief of staff; Stephen Miller assumes the role amid post-election reshuffling.
 
-### 2. Israeli president picks Gadi Eisenkot to form government
+### 2. Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence
+- id události: `2b527a5d8a86`  ·  rubrika: `business`  ·  skóre: 78  ·  nezávislých zdrojů: 6
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **The Guardian World** — Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence
+    <https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation>
+    > CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday that it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intel
+  - **CNBC Top** — Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy
+    <https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html>
+    > Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.
+  - **TechCrunch** — Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy
+    <https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/>
+    > In a memo to the company, Huang admitted that he had an affair.
+  - **The Verge** — Nvidia is investigating Jensen Huang’s relationship with a Chinese spy
+    <https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy>
+    > Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: 
+  - **The Verge AI** — Nvidia is investigating Jensen Huang’s relationship with a Chinese spy
+    <https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy>
+    > Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: 
+  - **Investing.com** — Nvidia CEO Huang admits to affair, apologizes to employees as probe launched
+    <https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308>
+  - **Investing.com** — Nvidia launches probe after report CEO Huang was target of foreign intelligence
+    <https://www.investing.com/news/stock-market-news/nvidia-launches-probe-after-report-ceo-huang-was-target-of-foreign-intelligence-5010307>
+
+### 3. Israeli president picks Gadi Eisenkot to form government
 - id události: `11b25b0129fb`  ·  rubrika: `world`  ·  skóre: 75  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -55,23 +79,6 @@
     > Israeli President Isaac Herzog picked former military chief Gadi Eisenkot to try to form a government, he said in a statement Saturday. Last month's parliamentary elections left neither Eisenkot nor Prime Minister Benjamin Netanyahu with a clear path to building a majority.
   - **Investing.com** — Israel’s Eisenkot gets first mandate to form government, aiming to oust Netanyahu
     <https://www.investing.com/news/economy-news/israels-eisenkot-gets-first-mandate-to-form-government-aiming-to-oust-netanyahu-5010017>
-
-### 3. Russell Brand is being investigated over two new rape complaints, police say
-- id události: `fa3936aa041c`  ·  rubrika: `world`  ·  skóre: 72  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Russell Brand is being investigated over two new rape complaints, police say
-    <https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss>
-    > Det Supt Andy Furphy said he hoped other potential victims would gain "courage" and "confidence" from the guilty verdicts.
-  - **BBC Entertainment** — Russell Brand found guilty of rape and sexual assault
-    <https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss>
-    > Brand is told to expect a prison sentence "of some length" and faces more rape allegations, it can now be reported.
-  - **NPR News** — Russell Brand is convicted of rape, and judge says he'll get a prison term
-    <https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison>
-    > A prosecutor described Brand as a ruthless, calculating, manipulative "sexual predator." Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.
-  - **DW News** — British comedian and actor Russell Brand found guilty of rape
-    <https://www.dw.com/en/british-comedian-and-actor-russell-brand-found-guilty-of-rape/a-79867216?maca=en-rss-en-all-1573-rdf>
-    > Prosecutors labeled Brand a sexual predator. He was charged in sexual assault cases spanning from 1999 to 2009.
 
 ### 4. New wave of bomb threats hit European airlines
 - id události: `8c805a113994`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 5
