@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-11-07
+# ZADÁNÍ PRO REDAKCI — 2026-11-08
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -100,12 +100,12 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### space telescope
-- rubrika: `wonder`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### artificial intelligence jobs
+- rubrika: `ai`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Space telescope — <https://en.wikipedia.org/wiki/Space_telescope>
-  - Hubble Space Telescope — <https://en.wikipedia.org/wiki/Hubble_Space_Telescope>
-  - James Webb Space Telescope — <https://en.wikipedia.org/wiki/James_Webb_Space_Telescope>
+  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
+  - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
+  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
 
 ---
 
@@ -125,7 +125,36 @@
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
+### 1. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
+- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
+rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
+  2026-10-22  (2 zdrojů, síla 49)  Villa maintain perfect Champions League start with Viking victory
+  2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
+  2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
+  2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
+  2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live
+  2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City
+  2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL
+  2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?
+  2026-10-30  (2 zdrojů, síla 42)  Chelsea vs Manchester United: Premier League – teams, prediction, lineups
+  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
+  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United: Premier League – live
+  2026-11-02  (2 zdrojů, síla 44)  Football: China refuses to air Real Madrid game after Mbappé comment
+  2026-11-02  (2 zdrojů, síla 40)  Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
+  2026-11-04  (3 zdrojů, síla 57)  Man Utd beat Roma - the other great Champions League comebacks
+  2026-11-04  (2 zdrojů, síla 42)  Photos: Champions League and Tenerife fans pay tribute to De Miguel
+  2026-11-04  (2 zdrojů, síla 42)  Football world mourns Tenerife striker De Miguel
+  2026-11-04  (4 zdrojů, síla 68)  Nadal set to join Real Madrid board of directors
+  2026-11-05  (2 zdrojů, síla 40)  Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
+  2026-11-07  (2 zdrojů, síla 50)  Delap double inspires Forest to stunning win over Man City
+  2026-11-08  (2 zdrojů, síla 45)  Forest win over Man City 'a turning point' - Murphy
+```
+
+### 2. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
 - id: `09443cca3ddd`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -152,35 +181,6 @@ rubrika: world · sledováno od 2026-08-13 · záznamů: 60
   2026-11-06  (1 zdrojů, síla 44)  Fossil Footprints in Brazil Hint at a Cougar-Size Mammal That Walked Among Dinosaurs. It's Another Sign That Some Early Beasts Grew to Impressive Sizes After All
   2026-11-06  (1 zdrojů, síla 40)  For Centuries, Cave Visitors Walked Right by 280 Ice Age Engravings. The Newly Discovered Rock Art Is Rewriting Catalonia's Prehistory
   2026-11-07  (1 zdrojů, síla 40)  This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time
-```
-
-### 2. What has actually changed: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- id: `639e1a78a571`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-21  (2 zdrojů, síla 50)  Putin orders release of jailed American as he meets Trump envoy for Ukraine talks
-  2026-10-21  (1 zdrojů, síla 45)  ‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth
-  2026-10-21  (4 zdrojů, síla 70)  Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.
-  2026-10-22  (2 zdrojů, síla 44)  Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live
-  2026-10-26  (3 zdrojů, síla 63)  Donald Trump has been a disaster for rural America | Steven Greenhouse
-  2026-10-26  (2 zdrojů, síla 52)  Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours
-  2026-10-26  (2 zdrojů, síla 44)  What Germany thinks of carmaker Audi's $4 billion deal with Trump
-  2026-10-26  (2 zdrojů, síla 41)  Trump announces Audi will build $4 billion factory in US
-  2026-10-29  (2 zdrojů, síla 43)  Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station
-  2026-10-29  (2 zdrojů, síla 44)  Russian drone attack on Ukrainian train station kills at least 14, officials say
-  2026-11-01  (2 zdrojů, síla 43)  Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
-  2026-11-03  (3 zdrojů, síla 50)  Russian strikes kill 26 in Ukraine after longest ceasefire ends
-  2026-11-03  (2 zdrojů, síla 45)  Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
-  2026-11-03  (2 zdrojů, síla 48)  Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
-  2026-11-03  (2 zdrojů, síla 44)  Ukraine’s drone strikes spur hasty Russian plans for underground data centers
-  2026-11-04  (2 zdrojů, síla 44)  Canada joins coalition refusing to play ice hockey against Russia over Ukraine war
-  2026-11-05  (2 zdrojů, síla 52)  Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
-  2026-11-06  (2 zdrojů, síla 44)  Melania Trump touts rare agreement she brokered between Russia and Ukraine
-  2026-11-07  (2 zdrojů, síla 41)  Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks
-  2026-11-07  (2 zdrojů, síla 45)  Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid
 ```
 
 ---

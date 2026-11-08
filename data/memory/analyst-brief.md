@@ -1,10 +1,24 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-11-07
+# ANALYTICKÉ ZADÁNÍ — 2026-11-08
 
-Paměť obsahuje **188 vláken**. Aktivních za posledních 14 dní: **54**.
+Paměť obsahuje **188 vláken**. Aktivních za posledních 14 dní: **53**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 82 dní · 60 záznamů
+- časová osa:
+  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United: Premier League – live
+  - **2026-11-02** (2 zdrojů) Football: China refuses to air Real Madrid game after Mbappé comment
+  - **2026-11-02** (2 zdrojů) Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
+  - **2026-11-04** (3 zdrojů) Man Utd beat Roma - the other great Champions League comebacks
+  - **2026-11-04** (2 zdrojů) Photos: Champions League and Tenerife fans pay tribute to De Miguel
+  - **2026-11-04** (2 zdrojů) Football world mourns Tenerife striker De Miguel
+  - **2026-11-04** (4 zdrojů) Nadal set to join Real Madrid board of directors
+  - **2026-11-05** (2 zdrojů) Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
+  - **2026-11-07** (2 zdrojů) Delap double inspires Forest to stunning win over Man City
+  - **2026-11-08** (2 zdrojů) Forest win over Man City 'a turning point' - Murphy
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 86 dní · 60 záznamů
@@ -33,20 +47,6 @@ Paměť obsahuje **188 vláken**. Aktivních za posledních 14 dní: **54**.
   - **2026-11-06** (2 zdrojů) Melania Trump touts rare agreement she brokered between Russia and Ukraine
   - **2026-11-07** (2 zdrojů) Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks
   - **2026-11-07** (2 zdrojů) Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 81 dní · 60 záznamů
-- časová osa:
-  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
-  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United: Premier League – live
-  - **2026-11-02** (2 zdrojů) Football: China refuses to air Real Madrid game after Mbappé comment
-  - **2026-11-02** (2 zdrojů) Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
-  - **2026-11-04** (3 zdrojů) Man Utd beat Roma - the other great Champions League comebacks
-  - **2026-11-04** (2 zdrojů) Photos: Champions League and Tenerife fans pay tribute to De Miguel
-  - **2026-11-04** (2 zdrojů) Football world mourns Tenerife striker De Miguel
-  - **2026-11-04** (4 zdrojů) Nadal set to join Real Madrid board of directors
-  - **2026-11-05** (2 zdrojů) Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
-  - **2026-11-07** (2 zdrojů) Delap double inspires Forest to stunning win over Man City
 
 ### Trump says White House press secretary Karoline Leavitt to leave post
 - rubrika `world` · sledováno 86 dní · 60 záznamů
