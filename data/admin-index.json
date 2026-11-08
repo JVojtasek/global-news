@@ -1,6 +1,23 @@
 {
- "generated": "2026-11-08T04:33:30+00:00",
+ "generated": "2026-11-08T06:38:22+00:00",
  "articles": [
+  {
+   "lang": "en",
+   "slug": "a-queue-is-inventory-with-people-inside-it",
+   "title": "A Queue Is Inventory with People Inside It",
+   "dek": "Little’s Law connects arrivals, waiting time and work in progress with one compact equation—but averages cannot tell you whether the wait feels fair.",
+   "date": "2026-11-08",
+   "status": "published",
+   "section": "business",
+   "type": "feature",
+   "depth": "open",
+   "confidence": 89,
+   "path": "content/en/2026-11-08-a-queue-is-inventory-with-people-inside-it.md",
+   "access": "public",
+   "url": "/en/business/a-queue-is-inventory-with-people-inside-it/",
+   "review": {},
+   "problems": []
+  },
   {
    "lang": "en",
    "slug": "how-people-in-montenegro-are-making-their-country-cleaner",
@@ -9093,23 +9110,6 @@
    "path": "content/cs/2026-09-22-ai-nadseni-kratkodobe-prebiji-sazby-monetizace-ale-rozhodne-arpu-attac.md",
    "access": "public",
    "url": "/cs/business/ai-nadseni-kratkodobe-prebiji-sazby-monetizace-ale-rozhodne-arpu-attac/",
-   "review": {},
-   "problems": []
-  },
-  {
-   "lang": "en",
-   "slug": "a-queue-is-inventory-with-people-inside-it",
-   "title": "A Queue Is Inventory with People Inside It",
-   "dek": "Little’s Law connects arrivals, waiting time and work in progress with one compact equation—but averages cannot tell you whether the wait feels fair.",
-   "date": "2026-09-22",
-   "status": "reserve",
-   "section": "business",
-   "type": "feature",
-   "depth": "open",
-   "confidence": 89,
-   "path": "content/en/2026-09-22-a-queue-is-inventory-with-people-inside-it.md",
-   "access": "public",
-   "url": "",
    "review": {},
    "problems": []
   },
