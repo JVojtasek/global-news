@@ -6,6 +6,20 @@ Paměť obsahuje **189 vláken**. Aktivních za posledních 14 dní: **58**.
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
+### More troops to be sent to West Bank village besieged by Israeli settlers
+- rubrika `world` · sledováno 88 dní · 60 záznamů
+- časová osa:
+  - **2026-10-30** (1 zdrojů) Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries
+  - **2026-10-30** (2 zdrojů) Some Monkeys Seem to Become Germophobic After Living Through a Disease Outbreak, Just Like Humans
+  - **2026-10-30** (1 zdrojů) For Over Four Years, the Hirshhorn Worked to Revitalize Its Sculpture Garden. Today, It's Home to a 'King and Queen,' a 'Wish Tree' and a 55,000-Pound Vertical Swimming Pool Artwork
+  - **2026-10-30** (1 zdrojů) Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
+  - **2026-11-03** (1 zdrojů) Scientists Feared This Cute but Venomous Primate Had Gone Extinct Nearly 100 Years Ago. It Was Hiding in Plain Sight All Along
+  - **2026-11-04** (1 zdrojů) Archaeologists in Scotland Discovered the Skeleton of a Roman-Era Man Who Was Decapitated Nearly 2,000 Years Ago. Now, You Can See What He Might Have Looked Like During His Lifetime
+  - **2026-11-06** (1 zdrojů) Fossil Footprints in Brazil Hint at a Cougar-Size Mammal That Walked Among Dinosaurs. It's Another Sign That Some Early Beasts Grew to Impressive Sizes After All
+  - **2026-11-06** (1 zdrojů) For Centuries, Cave Visitors Walked Right by 280 Ice Age Engravings. The Newly Discovered Rock Art Is Rewriting Catalonia's Prehistory
+  - **2026-11-07** (1 zdrojů) This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time
+  - **2026-11-09** (1 zdrojů) This African Prophet Was Burned at the Stake 320 Years Ago. Today, Kimpa Vita Is Celebrated as the 'Kongolese Joan of Arc'
+
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 82 dní · 60 záznamů
 - časová osa:
@@ -33,20 +47,6 @@ Paměť obsahuje **189 vláken**. Aktivních za posledních 14 dní: **58**.
   - **2026-11-05** (2 zdrojů) England captain Kane signs new Bayern contract
   - **2026-11-08** (2 zdrojů) Australia reach World Cup final after Fiji scare
   - **2026-11-08** (2 zdrojů) Walsh-inspired Australia crush irate Samoa to reach World Cup final
-
-### More troops to be sent to West Bank village besieged by Israeli settlers
-- rubrika `world` · sledováno 86 dní · 60 záznamů
-- časová osa:
-  - **2026-10-30** (2 zdrojů) Palestinian voter turnout exposes Israel’s attitude towards Arab citizens
-  - **2026-10-30** (1 zdrojů) Three in Four Former NFL Players Who Died From 2008 Through 2023 May Have Had CTE, a Brain Disease Caused by Repeated Head Injuries
-  - **2026-10-30** (2 zdrojů) Some Monkeys Seem to Become Germophobic After Living Through a Disease Outbreak, Just Like Humans
-  - **2026-10-30** (1 zdrojů) For Over Four Years, the Hirshhorn Worked to Revitalize Its Sculpture Garden. Today, It's Home to a 'King and Queen,' a 'Wish Tree' and a 55,000-Pound Vertical Swimming Pool Artwork
-  - **2026-10-30** (1 zdrojů) Madagascar's Giant Bats Seem to Be Shrinking. After Measuring 121 Specimens, Scientists Suggest Hunting by Humans Is to Blame
-  - **2026-11-03** (1 zdrojů) Scientists Feared This Cute but Venomous Primate Had Gone Extinct Nearly 100 Years Ago. It Was Hiding in Plain Sight All Along
-  - **2026-11-04** (1 zdrojů) Archaeologists in Scotland Discovered the Skeleton of a Roman-Era Man Who Was Decapitated Nearly 2,000 Years Ago. Now, You Can See What He Might Have Looked Like During His Lifetime
-  - **2026-11-06** (1 zdrojů) Fossil Footprints in Brazil Hint at a Cougar-Size Mammal That Walked Among Dinosaurs. It's Another Sign That Some Early Beasts Grew to Impressive Sizes After All
-  - **2026-11-06** (1 zdrojů) For Centuries, Cave Visitors Walked Right by 280 Ice Age Engravings. The Newly Discovered Rock Art Is Rewriting Catalonia's Prehistory
-  - **2026-11-07** (1 zdrojů) This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 90 dní · 60 záznamů
