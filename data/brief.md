@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-11-08
+# ZADÁNÍ PRO REDAKCI — 2026-11-09
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -9,7 +9,36 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Stephen Miller named by Trump as new White House chief of staff
+### 1. Nvidia launches investigation into CEO's affair with suspected Chinese spy
+- id události: `20e38220237b`  ·  rubrika: `world`  ·  skóre: 86  ·  nezávislých zdrojů: 7
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Business** — Nvidia launches investigation into CEO's affair with suspected Chinese spy
+    <https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss>
+    > Jensen Huang also admitted to having been "unfaithful" to his wife and says he will cooperate with a security investigation.
+  - **NPR News** — Nvidia launches investigation into CEO's alleged relationship with Chinese spy
+    <https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy>
+    > The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.
+  - **Al Jazeera** — Nvidia CEO’s affair sparks Chinese espionage probe
+    <https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss>
+    > Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.
+  - **France 24** — Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang
+    <https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe>
+    > Nvidia’s board said Sunday it would investigate reports that CEO Jensen Huang was targeted by a foreign intelligence operation. The New York Times reported Huang had an affair with an executive US intelligence believed was gathering information for Beijing. Huang will remain CEO 
+  - **The Verge** — Here’s the full text of Jensen Huang’s memo to Nvidia
+    <https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia>
+    > On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees ackn
+  - **The Verge AI** — Here’s the full text of Jensen Huang’s memo to Nvidia
+    <https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia>
+    > On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees ackn
+  - **Hacker News Best** — Nvidia CEO Jensen Huang's letter to staff about affair
+    <https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company>
+    > Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 269 # Comments: 261
+  - **Hacker News Best** — Nvidia Board of Directors Is Investigating Jensen Huang
+    <https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors>
+    > Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: 348 # Comments: 267
+
+### 2. Stephen Miller named by Trump as new White House chief of staff
 - id události: `6abf76266070`  ·  rubrika: `world`  ·  skóre: 84  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -35,7 +64,7 @@
     <https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss>
     > Susie Wiles steps down as White House chief of staff; Stephen Miller assumes the role amid post-election reshuffling.
 
-### 2. Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence
+### 3. Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence
 - id události: `2b527a5d8a86`  ·  rubrika: `business`  ·  skóre: 78  ·  nezávislých zdrojů: 6
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -59,7 +88,7 @@
   - **Investing.com** — Nvidia launches probe after report CEO Huang was target of foreign intelligence
     <https://www.investing.com/news/stock-market-news/nvidia-launches-probe-after-report-ceo-huang-was-target-of-foreign-intelligence-5010307>
 
-### 3. Israeli president picks Gadi Eisenkot to form government
+### 4. Israeli president picks Gadi Eisenkot to form government
 - id události: `11b25b0129fb`  ·  rubrika: `world`  ·  skóre: 75  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -80,36 +109,16 @@
   - **Investing.com** — Israel’s Eisenkot gets first mandate to form government, aiming to oust Netanyahu
     <https://www.investing.com/news/economy-news/israels-eisenkot-gets-first-mandate-to-form-government-aiming-to-oust-netanyahu-5010017>
 
-### 4. New wave of bomb threats hit European airlines
-- id události: `8c805a113994`  ·  rubrika: `world`  ·  skóre: 70  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — New wave of bomb threats hit European airlines
-    <https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss>
-    > No link has been established between the threats against the airlines and those against the media outlets.
-  - **NPR News** — European air traffic is targeted by new threats after a week of hoaxes
-    <https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes>
-    > Officials across Europe reported a fresh slew of bomb threats against multiple flights on Friday, following a string of hoaxes that have caused flight diversions this week. Two broadcasters also received security threats.
-  - **Guardian Business** — Why have more than 30 European flights been hit by bomb threats this week?
-    <https://www.theguardian.com/world/2026/nov/05/bomb-threats-european-flights-airports-disruption-explainer>
-    > With flights disrupted, how concerned should you be about your travel plans? More than 30 planes have been subjected to security alerts or diversions this week , with at least 25 more bomb threats on Thursday disrupting civil aviation across Europe. What do we know so far, and ho
-  - **France 24** — 'Chaos within aviation industry' as European air traffic hit by bomb threats
-    <https://www.france24.com/en/video/20261106-chaos-within-aviation-industry-as-european-air-traffic-hit-by-bomb-threats>
-    > Officials across Europe reported a fresh slew of bomb threats against multiple flights on Friday, November 6, following a string of hoaxes that have caused flight diversions this week. Two broadcasters also received security threats, in a possible sign the menace was spreading be
-  - **Al Jazeera** — New bomb threats target European broadcasters, air traffic
-    <https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic?traffic_source=rss>
-    > A string of hoax alerts causing flight diversions across Europe this week has broadened to include newsrooms.
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### artificial intelligence jobs
-- rubrika: `ai`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+### phishing scam
+- rubrika: `safety`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Artificial general intelligence — <https://en.wikipedia.org/wiki/Artificial_general_intelligence>
-  - Artificial intelligence in healthcare — <https://en.wikipedia.org/wiki/Artificial_intelligence_in_healthcare>
-  - Artificial intelligence — <https://en.wikipedia.org/wiki/Artificial_intelligence>
+  - Phishing — <https://en.wikipedia.org/wiki/Phishing>
+  - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
+  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
 
 ---
 

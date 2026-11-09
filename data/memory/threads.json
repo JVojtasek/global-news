@@ -1,6 +1,1281 @@
 {
  "threads": [
   {
+   "id": "7da4e07716c7",
+   "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+   "section": "world",
+   "entities": [
+    "qatari",
+    "james",
+    "anthony",
+    "house",
+    "keisha",
+    "abdul",
+    "midterms",
+    "senate",
+    "rogers",
+    "hormuz",
+    "left-wing",
+    "turek",
+    "clark",
+    "karl",
+    "maine",
+    "ossoff",
+    "wife",
+    "elon",
+    "defense",
+    "pentagon",
+    "angry",
+    "here's",
+    "katherine",
+    "gillibrand",
+    "iran",
+    "tankers",
+    "secretary",
+    "haley",
+    "democrats",
+    "democratic",
+    "iraq",
+    "musk's",
+    "call",
+    "josh",
+    "trump",
+    "mike",
+    "republicans",
+    "michigan",
+    "strait",
+    "paxton"
+   ],
+   "event_ids": [
+    "7da4e07716c7",
+    "7d0d4d3f6bdb",
+    "9ba97aff3e7d",
+    "685eb5ef4b77",
+    "dc98be3509f8",
+    "83c9ff637cd4",
+    "1a58c450df85",
+    "0bd2b78f98d3",
+    "5b2e57f10a93",
+    "6bdae1bbcb1a",
+    "262b590f746f",
+    "282dcc034a3b",
+    "4c37332d2bbb",
+    "06237d9feb09",
+    "4c1e1d02df87",
+    "f5b6d367ab3d",
+    "6ee149854410",
+    "660903c7e4d9",
+    "7cf106926362",
+    "cc6d5c271c5b",
+    "94f3a475eae4",
+    "b0936e6dce0d",
+    "43992b5f3fd4",
+    "0c2e960b0584",
+    "835c8d9b6884",
+    "74dab33a4157",
+    "679276982c61",
+    "dbbf789e01db",
+    "e019a4979e69",
+    "ea0f1f9c4b5a",
+    "1e43314e8e82",
+    "9b8c734ec6dd",
+    "a3e2b24eafb5",
+    "078ed532d7fc",
+    "a6edc1d9c850",
+    "db8842f4456e",
+    "ecaf92519895",
+    "47ee29dcc13b",
+    "480691fc2fe8",
+    "ff0eea51cee9",
+    "6da1f10b9d2e",
+    "1dd415ded767"
+   ],
+   "first_seen": "2026-09-11",
+   "last_seen": "2026-11-09",
+   "timeline": [
+    {
+     "date": "2026-09-11",
+     "headline": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
+     "sources": 3,
+     "score": 55,
+     "event_id": "7da4e07716c7",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
+      "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Iran war won't end until after crucial November elections, says Trump",
+     "sources": 2,
+     "score": 45,
+     "event_id": "7d0d4d3f6bdb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Trump dismisses report China supplied intel to Iran",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9ba97aff3e7d",
+     "links": [
+      "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
+     "sources": 2,
+     "score": 40,
+     "event_id": "685eb5ef4b77",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
+     "sources": 2,
+     "score": 47,
+     "event_id": "dc98be3509f8",
+     "links": [
+      "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
+      "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
+      "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+     "sources": 2,
+     "score": 42,
+     "event_id": "83c9ff637cd4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1a58c450df85",
+     "links": [
+      "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
+      "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
+     "sources": 2,
+     "score": 48,
+     "event_id": "0bd2b78f98d3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "US says China trade truce extended as Trump welcomes Xi",
+     "sources": 2,
+     "score": 40,
+     "event_id": "5b2e57f10a93",
+     "links": [
+      "https://www.france24.com/en/video/20260924-us-says-china-trade-truce-extended-as-trump-welcomes-xi",
+      "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
+     "sources": 2,
+     "score": 42,
+     "event_id": "6bdae1bbcb1a",
+     "links": [
+      "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
+      "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+     "sources": 2,
+     "score": 45,
+     "event_id": "262b590f746f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "US official claims Trump holds all the cards in Iran talks",
+     "sources": 3,
+     "score": 52,
+     "event_id": "282dcc034a3b",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz",
+      "https://www.investing.com/news/economy-news/iran-awaits-us-response-to-hormuz-peace-plan-as-trump-reportedly-rejects-deal-4918476"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
+     "sources": 4,
+     "score": 70,
+     "event_id": "4c37332d2bbb",
+     "links": [
+      "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
+      "https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html",
+      "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
+     "sources": 1,
+     "score": 40,
+     "event_id": "06237d9feb09",
+     "links": [
+      "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
+      "https://www.cnbc.com/2026/10/15/james-talarico-texas-senate-fundraising-ken-paxton.html"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4c1e1d02df87",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+     "sources": 3,
+     "score": 63,
+     "event_id": "f5b6d367ab3d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+      "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
+     "sources": 2,
+     "score": 42,
+     "event_id": "6ee149854410",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "How a Democrat in Michigan rocked the party days before the US midterms",
+     "sources": 2,
+     "score": 50,
+     "event_id": "660903c7e4d9",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
+      "https://www.france24.com/en/michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "What might Trump have planned for Iran following the midterm election?",
+     "sources": 2,
+     "score": 44,
+     "event_id": "7cf106926362",
+     "links": [
+      "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
+     "sources": 2,
+     "score": 53,
+     "event_id": "cc6d5c271c5b",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
+      "https://www.france24.com/en/video/20261103-us-midterms-michigan-senate-candidate-el-sayed-becomes-democrats-rising-star",
+      "https://www.france24.com/en/video/20261103-us-midterms-michigan-candidate-el-sayed-pledges-to-tackle-the-affordability-crisis"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
+     "sources": 2,
+     "score": 48,
+     "event_id": "94f3a475eae4",
+     "links": [
+      "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
+      "https://www.france24.com/en/video/20261102-sour-grapes-dems-shocked-as-haley-stevens-breaks-ranks"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins",
+     "sources": 3,
+     "score": 59,
+     "event_id": "b0936e6dce0d",
+     "links": [
+      "https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins",
+      "https://www.france24.com/en/video/20261104-midterms-abdul-el-sayed-mike-rogers-face-off-for-michigan-senate-seat",
+      "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Democratic rising star Ossoff projected to hold Georgia seat",
+     "sources": 3,
+     "score": 64,
+     "event_id": "43992b5f3fd4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/americas/20261104-key-us-senate-results-democrats-wrest-north-and-south-carolina-from-the-republicans",
+      "https://www.france24.com/en/video/20261104-replay-georgia-senator-jon-ossoff-wins-reelection"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
+     "sources": 3,
+     "score": 57,
+     "event_id": "0c2e960b0584",
+     "links": [
+      "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
+      "https://www.dw.com/en/us-midterms-democrats-gain-control-of-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Democrat Josh Turek wins the Senate seat in Iowa",
+     "sources": 2,
+     "score": 47,
+     "event_id": "835c8d9b6884",
+     "links": [
+      "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek",
+      "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+     "sources": 5,
+     "score": 83,
+     "event_id": "74dab33a4157",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
+      "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "2026 Midterms: Democrat Keisha Lance Bottoms makes history in Georgia",
+     "sources": 2,
+     "score": 42,
+     "event_id": "679276982c61",
+     "links": [
+      "https://www.france24.com/en/video/20261104-2026-midterms-democrat-keisha-lance-bottoms-makes-history-in-georgia",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-amy-acton-makes-history-in-ohio?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history",
+     "sources": 2,
+     "score": 54,
+     "event_id": "dbbf789e01db",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/4/call-me-senator-how-abdul-el-sayed-beat-trumps-hate-to-create-history?traffic_source=rss",
+      "https://www.france24.com/en/video/20261104-abdul-el-sayed-set-to-become-first-muslim-senator-after-win-in-michigan",
+      "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "US midterms: Democrats win House and Senate from Republicans",
+     "sources": 3,
+     "score": 49,
+     "event_id": "e019a4979e69",
+     "links": [
+      "https://www.dw.com/en/us-midterms-democrats-win-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss",
+      "https://www.france24.com/en/americas/20261104-why-the-democrats-routed-republicans-us-midterm-elections"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Rep. Katherine Clark says Democrats are on track to win control of the House tonight",
+     "sources": 2,
+     "score": 42,
+     "event_id": "ea0f1f9c4b5a",
+     "links": [
+      "https://www.npr.org/2026/11/03/nx-s1-6028015/rep-katherine-clark-says-democrats-are-on-track-to-win-control-of-the-house-tonight",
+      "https://www.investing.com/news/economy-news/investors-ready-for-possible-shakeup-in-congress-as-election-day-arrives-4994181"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "US midterms: Trump reacts to the Democrats’ sweeping victory",
+     "sources": 2,
+     "score": 40,
+     "event_id": "1e43314e8e82",
+     "links": [
+      "https://www.france24.com/en/video/20261104-us-midterms-trump-reacts-to-the-democrats-sweeping-victory",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
+     "sources": 3,
+     "score": 64,
+     "event_id": "9b8c734ec6dd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+      "https://www.france24.com/en/video/20261104-midterms-how-abdul-el-sayed-used-humour-and-hope-to-rebuff-racism"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+     "sources": 3,
+     "score": 58,
+     "event_id": "a3e2b24eafb5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+      "https://electrek.co/2026/11/04/what-does-a-blue-texas-sweep-mean-for-tesla-spacex-elon-musk/"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "US midterm election results: Democrats flip House and Senate. Here's what else the data tell us",
+     "sources": 2,
+     "score": 52,
+     "event_id": "078ed532d7fc",
+     "links": [
+      "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tell-us/a-79841886?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/sport/2026/nov/04/mark-teixeira-michele-tafoya-midterm-elections"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+     "sources": 2,
+     "score": 43,
+     "event_id": "a6edc1d9c850",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20261104-trump-seeks-to-shift-blame-but-has-nowhere-to-hide-after-midterms-defeat"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+     "sources": 3,
+     "score": 64,
+     "event_id": "db8842f4456e",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
+      "https://www.france24.com/en/americas/20261104-democrats-warn-trump-camp-lawyer-up-anger-over-corruption-drives-midterms-wipeout-gop"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Democrats take House and Senate from Republicans in US midterm rout",
+     "sources": 3,
+     "score": 54,
+     "event_id": "ecaf92519895",
+     "links": [
+      "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf",
+      "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
+      "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Trump says 'largely true' Iran war led to Republicans midterm loss",
+     "sources": 2,
+     "score": 47,
+     "event_id": "47ee29dcc13b",
+     "links": [
+      "https://www.dw.com/en/trump-says-largely-true-iran-war-led-to-republicans-midterm-loss/live-79829440?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
+     "sources": 4,
+     "score": 66,
+     "event_id": "480691fc2fe8",
+     "links": [
+      "https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities",
+      "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/5/what-can-democrats-do-in-congress-under-president-trump?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+     "sources": 2,
+     "score": 48,
+     "event_id": "ff0eea51cee9",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+      "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+     "sources": 2,
+     "score": 42,
+     "event_id": "6da1f10b9d2e",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Iran war live: Trump says land blockade in effect; drone cuts power in Iraq",
+     "sources": 3,
+     "score": 57,
+     "event_id": "1dd415ded767",
+     "links": [
+      "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+      "https://www.investing.com/news/commodities-news/oil-prices-dip-as-trump-says-new-iran-attacks-unlikely-if-talks-progress-5010370"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7b46dd318f11",
+   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+   "section": "ai",
+   "entities": [
+    "base",
+    "reward",
+    "timeline",
+    "china",
+    "cnbc",
+    "cyberattack",
+    "openai",
+    "security",
+    "jensen",
+    "face",
+    "nvidia",
+    "german",
+    "assets",
+    "drove",
+    "hacking",
+    "labs",
+    "chinese",
+    "huawei",
+    "huang",
+    "exploit",
+    "agents",
+    "ceo's",
+    "nvidia's",
+    "congress",
+    "nearly",
+    "unexpected",
+    "hugging",
+    "binance",
+    "suffers",
+    "affecting",
+    "alibaba",
+    "github",
+    "breach",
+    "experts",
+    "trump",
+    "information",
+    "goodfire",
+    "billion",
+    "frozen",
+    "deepseek"
+   ],
+   "event_ids": [
+    "7b46dd318f11",
+    "46ad54902311",
+    "d8b7c8511a2c",
+    "c95f1350e30d",
+    "63243808b149",
+    "b392bbbec1f4",
+    "bd2de1c640b6",
+    "3544561ca685",
+    "df3a38888008",
+    "0321378bd042",
+    "69b225fb598b",
+    "de5690d7d612",
+    "e4222c90706c",
+    "a0f5f526129b",
+    "d44ccc0ba93d",
+    "f247281fba63",
+    "3152bdb0ea47",
+    "2b3aa79e4244",
+    "3808e2aaf93d",
+    "b237fa49f681",
+    "e609d968c3dc",
+    "ce7b13e0f7aa",
+    "ffd060dcfeb0",
+    "bd6a23f4945b",
+    "1dad8889ea72",
+    "8250334af197",
+    "4729f8fa01c6",
+    "2b527a5d8a86",
+    "20e38220237b",
+    "bc0b846ed6bf"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-11-09",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+     "sources": 4,
+     "score": 77,
+     "event_id": "7b46dd318f11",
+     "links": [
+      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
+      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "46ad54902311",
+     "links": [
+      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+     "sources": 2,
+     "score": 40,
+     "event_id": "d8b7c8511a2c",
+     "links": [
+      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "https://huggingface.co/blog/skypilot-hf-storage"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+     "sources": 2,
+     "score": 51,
+     "event_id": "c95f1350e30d",
+     "links": [
+      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
+      "https://huggingface.co/blog/eee-community-evals"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+     "sources": 2,
+     "score": 52,
+     "event_id": "63243808b149",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+     "sources": 6,
+     "score": 73,
+     "event_id": "b392bbbec1f4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
+     "sources": 3,
+     "score": 52,
+     "event_id": "bd2de1c640b6",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
+      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+     "sources": 7,
+     "score": 77,
+     "event_id": "3544561ca685",
+     "links": [
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+     "sources": 3,
+     "score": 57,
+     "event_id": "df3a38888008",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+     "sources": 3,
+     "score": 50,
+     "event_id": "0321378bd042",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "The inside story on why OpenAI agents hacked Hugging Face",
+     "sources": 4,
+     "score": 71,
+     "event_id": "69b225fb598b",
+     "links": [
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Hugging Face hack could indicate cultural issues at OpenAI",
+     "sources": 2,
+     "score": 45,
+     "event_id": "de5690d7d612",
+     "links": [
+      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+     "sources": 2,
+     "score": 48,
+     "event_id": "e4222c90706c",
+     "links": [
+      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC",
+     "sources": 3,
+     "score": 50,
+     "event_id": "a0f5f526129b",
+     "links": [
+      "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+     "sources": 5,
+     "score": 75,
+     "event_id": "d44ccc0ba93d",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+      "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+     "sources": 4,
+     "score": 65,
+     "event_id": "f247281fba63",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+     "sources": 5,
+     "score": 80,
+     "event_id": "3152bdb0ea47",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2b3aa79e4244",
+     "links": [
+      "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3808e2aaf93d",
+     "links": [
+      "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+     "sources": 2,
+     "score": 43,
+     "event_id": "b237fa49f681",
+     "links": [
+      "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "https://huggingface.co/blog/baseten"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
+     "sources": 2,
+     "score": 50,
+     "event_id": "e609d968c3dc",
+     "links": [
+      "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
+      "https://huggingface.co/blog/pwc-search"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+     "sources": 2,
+     "score": 40,
+     "event_id": "ce7b13e0f7aa",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+      "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ffd060dcfeb0",
+     "links": [
+      "https://www.cnbc.com/2026/09/27/china-bytedance-alibaba-nvidia-chips.html",
+      "https://www.investing.com/news/stock-market-news/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-the-information-reports-4919047",
+      "https://www.investing.com/news/stock-market-news/china-may-permit-alibaba-bytedance-to-buy-new-nvidia-chips--the-information-4919061"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "‘Jensen’s nightmare’: Huawei, DeepSeek narrow AI chip ecosystem gap with Nvidia: report",
+     "sources": 2,
+     "score": 42,
+     "event_id": "bd6a23f4945b",
+     "links": [
+      "https://www.scmp.com/tech/tech-war/article/3371806/jensens-nightmare-huawei-deepseek-narrow-ai-chip-ecosystem-gap-nvidia-report",
+      "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+     "sources": 2,
+     "score": 45,
+     "event_id": "1dad8889ea72",
+     "links": [
+      "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+     "sources": 2,
+     "score": 44,
+     "event_id": "8250334af197",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4729f8fa01c6",
+     "links": [
+      "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+      "https://www.investing.com/news/stock-market-news/openai-to-press-ahead-with-datacenter-expansion-despite-midterm-sweep-cfo-tells-cnbc-5008971"
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+     "sources": 6,
+     "score": 78,
+     "event_id": "2b527a5d8a86",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+      "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+     "sources": 7,
+     "score": 86,
+     "event_id": "20e38220237b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
+     "sources": 2,
+     "score": 42,
+     "event_id": "bc0b846ed6bf",
+     "links": [
+      "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "46d1d18cff81",
+   "title": "Parrott fires Real Betis to win over Real Madrid",
+   "section": "sport",
+   "entities": [
+    "parrott",
+    "liga",
+    "atletico",
+    "vinicius",
+    "camp",
+    "barcelona",
+    "lowe",
+    "carlos",
+    "betis",
+    "lopez",
+    "madrid",
+    "real",
+    "president",
+    "roma",
+    "gabriel",
+    "villarreal",
+    "ceuta"
+   ],
+   "event_ids": [
+    "46d1d18cff81",
+    "b0d6ea2d2c32",
+    "9a83e218a9f2",
+    "358259af4a1b",
+    "fb2e05aca5b1",
+    "1b46cd680532",
+    "ead21b3fa34a",
+    "98b22644aa7a",
+    "8e9064de628a"
+   ],
+   "first_seen": "2026-09-05",
+   "last_seen": "2026-11-09",
+   "timeline": [
+    {
+     "date": "2026-09-05",
+     "headline": "Parrott fires Real Betis to win over Real Madrid",
+     "sources": 3,
+     "score": 58,
+     "event_id": "46d1d18cff81",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c9v9ewe7kygo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/04/jose-mourinho-sick-as-a-parrott-as-real-madrid-sunk-by-real-betis-and-irish-supersub",
+      "https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Real Madrid keen on Man Utd forward Gabriel, 15",
+     "sources": 2,
+     "score": 42,
+     "event_id": "b0d6ea2d2c32",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
+      "http://www.france24.com/en/video/20260917-mbapp%C3%A9-and-real-madrid-teammates-face-backlash-over-ceuta-message"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Carlos Espí gives Real Madrid hope in the face of Barcelona’s La Liga storm | Sid Lowe",
+     "sources": 2,
+     "score": 50,
+     "event_id": "9a83e218a9f2",
+     "links": [
+      "https://www.theguardian.com/football/2026/sep/17/carlos-espi-real-madrid-barcelona-mourinho-la-liga",
+      "https://www.aljazeera.com/sports/2026/9/17/real-madrid-fan-group-demands-mbappe-apologies-over-ceuta-shirt-snub?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Real Madrid President says Ceuta visit not related to ‘recent news’",
+     "sources": 2,
+     "score": 51,
+     "event_id": "358259af4a1b",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/9/18/real-madrids-kylian-mbappe-ends-nike-partnership-to-join-swiss-brand-on?traffic_source=rss",
+      "https://www.france24.com/en/sport/20260918-mbapp%C3%A9-quits-nike-after-career-long-partnership-swiss-sports-brand-on"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Atletico win feisty Madrid derby against 10-man Real",
+     "sources": 3,
+     "score": 54,
+     "event_id": "fb2e05aca5b1",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cqkgxp97nxzno?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/sep/20/atletico-madrid-real-madrid-la-liga-match-report",
+      "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
+     "sources": 2,
+     "score": 42,
+     "event_id": "1b46cd680532",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/10/real-madrids-vinicius-junior-sent-off-for-hair-pulling-in-victory-over-villarreal"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Real Madrid stun Roma after dramatic late comeback",
+     "sources": 4,
+     "score": 74,
+     "event_id": "ead21b3fa34a",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/oct/14/enzo-maresca-insists-manchester-city-are-close-to-psg-despite-home-defeat",
+      "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+     "sources": 2,
+     "score": 44,
+     "event_id": "98b22644aa7a",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Lopez double fires Barcelona to win at Atletico Madrid",
+     "sources": 2,
+     "score": 42,
+     "event_id": "8e9064de628a",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0aa45abf75b4",
+   "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+   "section": "world",
+   "entities": [
+    "anthropic",
+    "argentina's",
+    "iceland",
+    "islands",
+    "president",
+    "falkland",
+    "javier",
+    "falklands",
+    "pope",
+    "trump",
+    "argentina",
+    "milei"
+   ],
+   "event_ids": [
+    "0aa45abf75b4",
+    "8ab3477c95bb",
+    "50b8cc60bf30",
+    "7a595c75a0e5",
+    "b4adb9b4bb87",
+    "79b213b7598a",
+    "672dc331a2b4",
+    "bf1e888cc2af"
+   ],
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-11-09",
+   "timeline": [
+    {
+     "date": "2026-09-04",
+     "headline": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+     "sources": 3,
+     "score": 55,
+     "event_id": "0aa45abf75b4",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
+      "https://www.dw.com/en/argentina-milei-reignites-dispute-over-falkland-islands/a-78896474?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
+     "sources": 3,
+     "score": 52,
+     "event_id": "8ab3477c95bb",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
+      "https://www.france24.com/en/video/20260904-argentina-s-milei-escalates-falklands-dispute-in-sovereignty-push-against-britain",
+      "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+     "sources": 2,
+     "score": 44,
+     "event_id": "50b8cc60bf30",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+      "https://www.aljazeera.com/news/2026/9/4/winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-spat?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Iceland to become first UK high street retailer to open shop in Falkland Islands",
+     "sources": 2,
+     "score": 40,
+     "event_id": "7a595c75a0e5",
+     "links": [
+      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker",
+      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
+     "sources": 2,
+     "score": 42,
+     "event_id": "b4adb9b4bb87",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
+      "https://www.aljazeera.com/news/2026/9/23/milei-says-un-looking-the-other-way-on-falkland-islands-dispute?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Anthropic’s CEO is about to have dinner with President Trump",
+     "sources": 3,
+     "score": 48,
+     "event_id": "79b213b7598a",
+     "links": [
+      "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+      "https://www.investing.com/news/stock-market-news/anthropic-ceo-amodei-to-meet-trump-privately-ahead-of-ai-summit-4919089"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Argentina's Milei threatens UK with international legal action over Falkland Islands oil project",
+     "sources": 2,
+     "score": 43,
+     "event_id": "672dc331a2b4",
+     "links": [
+      "https://www.dw.com/en/argentina-s-milei-threatens-uk-with-international-legal-action-over-falkland-islands-oil-project/a-79469107?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
+     "sources": 2,
+     "score": 41,
+     "event_id": "bf1e888cc2af",
+     "links": [
+      "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
+      "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
    "id": "e8a425cbff50",
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
@@ -3007,410 +4282,6 @@
      "links": [
       "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
       "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7b46dd318f11",
-   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-   "section": "ai",
-   "entities": [
-    "unexpected",
-    "hugging",
-    "face",
-    "nvidia",
-    "reward",
-    "jensen",
-    "exploit",
-    "huang",
-    "trump",
-    "information",
-    "github",
-    "cyberattack",
-    "hacking",
-    "base",
-    "german",
-    "suffers",
-    "agents",
-    "binance",
-    "congress",
-    "huawei",
-    "billion",
-    "alabama",
-    "drove",
-    "frozen",
-    "chinese",
-    "breach",
-    "affecting",
-    "timeline",
-    "deepseek",
-    "experts",
-    "cnbc",
-    "nvidia's",
-    "goodfire",
-    "security",
-    "nearly",
-    "openai",
-    "assets",
-    "labs",
-    "alibaba",
-    "china"
-   ],
-   "event_ids": [
-    "7b46dd318f11",
-    "46ad54902311",
-    "d8b7c8511a2c",
-    "c95f1350e30d",
-    "63243808b149",
-    "b392bbbec1f4",
-    "bd2de1c640b6",
-    "3544561ca685",
-    "df3a38888008",
-    "0321378bd042",
-    "69b225fb598b",
-    "de5690d7d612",
-    "e4222c90706c",
-    "a0f5f526129b",
-    "d44ccc0ba93d",
-    "f247281fba63",
-    "3152bdb0ea47",
-    "2b3aa79e4244",
-    "3808e2aaf93d",
-    "b237fa49f681",
-    "e609d968c3dc",
-    "ce7b13e0f7aa",
-    "ffd060dcfeb0",
-    "bd6a23f4945b",
-    "1dad8889ea72",
-    "8250334af197",
-    "4729f8fa01c6",
-    "2b527a5d8a86"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-11-08",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-     "sources": 4,
-     "score": 77,
-     "event_id": "7b46dd318f11",
-     "links": [
-      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "46ad54902311",
-     "links": [
-      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
-     "sources": 2,
-     "score": 40,
-     "event_id": "d8b7c8511a2c",
-     "links": [
-      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "https://huggingface.co/blog/skypilot-hf-storage"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
-     "sources": 2,
-     "score": 51,
-     "event_id": "c95f1350e30d",
-     "links": [
-      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
-      "https://huggingface.co/blog/eee-community-evals"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-     "sources": 2,
-     "score": 52,
-     "event_id": "63243808b149",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-     "sources": 6,
-     "score": 73,
-     "event_id": "b392bbbec1f4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
-     "sources": 3,
-     "score": 52,
-     "event_id": "bd2de1c640b6",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
-      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-     "sources": 7,
-     "score": 77,
-     "event_id": "3544561ca685",
-     "links": [
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-     "sources": 3,
-     "score": 57,
-     "event_id": "df3a38888008",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-     "sources": 3,
-     "score": 50,
-     "event_id": "0321378bd042",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "The inside story on why OpenAI agents hacked Hugging Face",
-     "sources": 4,
-     "score": 71,
-     "event_id": "69b225fb598b",
-     "links": [
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Hugging Face hack could indicate cultural issues at OpenAI",
-     "sources": 2,
-     "score": 45,
-     "event_id": "de5690d7d612",
-     "links": [
-      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-     "sources": 2,
-     "score": 48,
-     "event_id": "e4222c90706c",
-     "links": [
-      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-      "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC",
-     "sources": 3,
-     "score": 50,
-     "event_id": "a0f5f526129b",
-     "links": [
-      "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-     "sources": 5,
-     "score": 75,
-     "event_id": "d44ccc0ba93d",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-      "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-     "sources": 4,
-     "score": 65,
-     "event_id": "f247281fba63",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-     "sources": 5,
-     "score": 80,
-     "event_id": "3152bdb0ea47",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2b3aa79e4244",
-     "links": [
-      "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3808e2aaf93d",
-     "links": [
-      "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-     "sources": 2,
-     "score": 43,
-     "event_id": "b237fa49f681",
-     "links": [
-      "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "https://huggingface.co/blog/baseten"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
-     "sources": 2,
-     "score": 50,
-     "event_id": "e609d968c3dc",
-     "links": [
-      "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
-      "https://huggingface.co/blog/pwc-search"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-     "sources": 2,
-     "score": 40,
-     "event_id": "ce7b13e0f7aa",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-      "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
-     "sources": 2,
-     "score": 41,
-     "event_id": "ffd060dcfeb0",
-     "links": [
-      "https://www.cnbc.com/2026/09/27/china-bytedance-alibaba-nvidia-chips.html",
-      "https://www.investing.com/news/stock-market-news/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-the-information-reports-4919047",
-      "https://www.investing.com/news/stock-market-news/china-may-permit-alibaba-bytedance-to-buy-new-nvidia-chips--the-information-4919061"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "‘Jensen’s nightmare’: Huawei, DeepSeek narrow AI chip ecosystem gap with Nvidia: report",
-     "sources": 2,
-     "score": 42,
-     "event_id": "bd6a23f4945b",
-     "links": [
-      "https://www.scmp.com/tech/tech-war/article/3371806/jensens-nightmare-huawei-deepseek-narrow-ai-chip-ecosystem-gap-nvidia-report",
-      "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-     "sources": 2,
-     "score": 45,
-     "event_id": "1dad8889ea72",
-     "links": [
-      "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-      "https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist"
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-     "sources": 2,
-     "score": 44,
-     "event_id": "8250334af197",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-      "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html"
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-     "sources": 2,
-     "score": 42,
-     "event_id": "4729f8fa01c6",
-     "links": [
-      "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-      "https://www.investing.com/news/stock-market-news/openai-to-press-ahead-with-datacenter-expansion-despite-midterm-sweep-cfo-tells-cnbc-5008971"
-     ]
-    },
-    {
-     "date": "2026-11-08",
-     "headline": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
-     "sources": 6,
-     "score": 78,
-     "event_id": "2b527a5d8a86",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
-      "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
-      "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
      ]
     }
    ]
@@ -6461,573 +7332,6 @@
       "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
       "https://www.investing.com/news/company-news/musk-cites-alphabet-conflicts-as-google-executive-leaves-spacex-board-5009557",
       "https://www.investing.com/news/stock-market-news/google-executive-donald-harrison-resigns-from-spacex-board-5009426"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7da4e07716c7",
-   "title": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-   "section": "world",
-   "entities": [
-    "angry",
-    "here's",
-    "defense",
-    "zurcher",
-    "maine",
-    "democratic",
-    "turek",
-    "michigan",
-    "house",
-    "mike",
-    "clark",
-    "gillibrand",
-    "wife",
-    "democrats",
-    "strait",
-    "ossoff",
-    "musk's",
-    "iran",
-    "tankers",
-    "senate",
-    "call",
-    "trump",
-    "republicans",
-    "karl",
-    "left-wing",
-    "elon",
-    "keisha",
-    "josh",
-    "rogers",
-    "james",
-    "qatari",
-    "abdul",
-    "anthony",
-    "hormuz",
-    "pentagon",
-    "paxton",
-    "katherine",
-    "secretary",
-    "midterms",
-    "haley"
-   ],
-   "event_ids": [
-    "7da4e07716c7",
-    "7d0d4d3f6bdb",
-    "9ba97aff3e7d",
-    "685eb5ef4b77",
-    "dc98be3509f8",
-    "83c9ff637cd4",
-    "1a58c450df85",
-    "0bd2b78f98d3",
-    "5b2e57f10a93",
-    "6bdae1bbcb1a",
-    "262b590f746f",
-    "282dcc034a3b",
-    "4c37332d2bbb",
-    "06237d9feb09",
-    "4c1e1d02df87",
-    "f5b6d367ab3d",
-    "6ee149854410",
-    "660903c7e4d9",
-    "7cf106926362",
-    "cc6d5c271c5b",
-    "94f3a475eae4",
-    "b0936e6dce0d",
-    "43992b5f3fd4",
-    "0c2e960b0584",
-    "835c8d9b6884",
-    "74dab33a4157",
-    "679276982c61",
-    "dbbf789e01db",
-    "e019a4979e69",
-    "ea0f1f9c4b5a",
-    "1e43314e8e82",
-    "9b8c734ec6dd",
-    "a3e2b24eafb5",
-    "078ed532d7fc",
-    "a6edc1d9c850",
-    "db8842f4456e",
-    "ecaf92519895",
-    "47ee29dcc13b",
-    "480691fc2fe8",
-    "ff0eea51cee9",
-    "6da1f10b9d2e"
-   ],
-   "first_seen": "2026-09-11",
-   "last_seen": "2026-11-07",
-   "timeline": [
-    {
-     "date": "2026-09-11",
-     "headline": "Trump and Hegseth use 9/11 memorial remarks at Pentagon to defend war on Iran",
-     "sources": 3,
-     "score": 55,
-     "event_id": "7da4e07716c7",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/11/trump-hegseth-911-memorial",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/11/trump-pays-tribute-to-the-victims-of-9-11-at-pentagon?traffic_source=rss",
-      "https://www.france24.com/en/video/20260911-trump-delivers-remarks-at-pentagon-ceremony-to-mark-25th-anniversary-of-9-11"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Iran war won't end until after crucial November elections, says Trump",
-     "sources": 2,
-     "score": 45,
-     "event_id": "7d0d4d3f6bdb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "https://www.investing.com/news/commodities-news/trump-says-iran-war-to-end-after-us-midterm-elections-threatens-to-attack-pickaxe-mountain-4894975"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Trump dismisses report China supplied intel to Iran",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9ba97aff3e7d",
-     "links": [
-      "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20260914-middle-east-live-houthis-say-hit-saudi-base-after-renewed-fighting-with-yemeni-forces"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Trump downplays warnings of AI risks, citing rivalry with China",
-     "sources": 2,
-     "score": 40,
-     "event_id": "685eb5ef4b77",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Pentagon reveals $33.4 billion Iran war bill and ‘strategic’ weapons shortfalls",
-     "sources": 2,
-     "score": 47,
-     "event_id": "dc98be3509f8",
-     "links": [
-      "https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html",
-      "https://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says",
-      "https://www.france24.com/en/middle-east/20260915-middle-east-live-houthi-attacks-wound-13-civilians-in-southern-saudi-arabia"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-     "sources": 2,
-     "score": 42,
-     "event_id": "83c9ff637cd4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "http://www.france24.com/en/americas/20260915-iran-war-exposes-us-munitions-shortfall-industrial-bottlenecks-pentagon-report-says"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1a58c450df85",
-     "links": [
-      "https://www.npr.org/2026/09/15/g-s1-143407/massie-impeach-hegseth-iran",
-      "https://www.cnbc.com/2026/09/15/republican-rep-massie-seeks-hegseths-impeachment-over-iran.html"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
-     "sources": 2,
-     "score": 48,
-     "event_id": "0bd2b78f98d3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9j3d2rr6g24o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "US says China trade truce extended as Trump welcomes Xi",
-     "sources": 2,
-     "score": 40,
-     "event_id": "5b2e57f10a93",
-     "links": [
-      "https://www.france24.com/en/video/20260924-us-says-china-trade-truce-extended-as-trump-welcomes-xi",
-      "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "In one of their last votes before November, Senate GOP blocks effort to end Iran war",
-     "sources": 2,
-     "score": 42,
-     "event_id": "6bdae1bbcb1a",
-     "links": [
-      "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote",
-      "https://www.cnbc.com/2026/09/24/iran-war-powers-senate-vote-fuel.html"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
-     "sources": 2,
-     "score": 45,
-     "event_id": "262b590f746f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "US official claims Trump holds all the cards in Iran talks",
-     "sources": 3,
-     "score": 52,
-     "event_id": "282dcc034a3b",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz",
-      "https://www.investing.com/news/economy-news/iran-awaits-us-response-to-hormuz-peace-plan-as-trump-reportedly-rejects-deal-4918476"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – business live",
-     "sources": 4,
-     "score": 70,
-     "event_id": "4c37332d2bbb",
-     "links": [
-      "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
-      "https://www.cnbc.com/2026/10/09/us-treasurys-bond-yields-midterms.html",
-      "https://www.aljazeera.com/news/2026/10/9/trump-says-us-will-not-strike-iran-before-midterm-elections?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-     "sources": 1,
-     "score": 40,
-     "event_id": "06237d9feb09",
-     "links": [
-      "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
-      "https://www.cnbc.com/2026/10/15/james-talarico-texas-senate-fundraising-ken-paxton.html"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
-     "sources": 2,
-     "score": 42,
-     "event_id": "4c1e1d02df87",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
-     "sources": 3,
-     "score": 63,
-     "event_id": "f5b6d367ab3d",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
-      "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Iran war live: Tankers hit in Hormuz; Trump again says conflict to end soon",
-     "sources": 2,
-     "score": 42,
-     "event_id": "6ee149854410",
-     "links": [
-      "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/iran-offers-48hour-hormuz-reopening-plan-as-trump-signals-progress-in-talks-4989413"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "How a Democrat in Michigan rocked the party days before the US midterms",
-     "sources": 2,
-     "score": 50,
-     "event_id": "660903c7e4d9",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/americas/20261102-michigan-democrat-stuns-party-back-republican-candidate-critical-senate-race",
-      "https://www.france24.com/en/michigan-democrat-s-endorsement-of-republican-ruffles-critical-senate-race"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "What might Trump have planned for Iran following the midterm election?",
-     "sources": 2,
-     "score": 44,
-     "event_id": "7cf106926362",
-     "links": [
-      "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
-     "sources": 2,
-     "score": 53,
-     "event_id": "cc6d5c271c5b",
-     "links": [
-      "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
-      "https://www.france24.com/en/video/20261103-us-midterms-michigan-senate-candidate-el-sayed-becomes-democrats-rising-star",
-      "https://www.france24.com/en/video/20261103-us-midterms-michigan-candidate-el-sayed-pledges-to-tackle-the-affordability-crisis"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
-     "sources": 2,
-     "score": 48,
-     "event_id": "94f3a475eae4",
-     "links": [
-      "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
-      "https://www.france24.com/en/video/20261102-sour-grapes-dems-shocked-as-haley-stevens-breaks-ranks"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins",
-     "sources": 3,
-     "score": 59,
-     "event_id": "b0936e6dce0d",
-     "links": [
-      "https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins",
-      "https://www.france24.com/en/video/20261104-midterms-abdul-el-sayed-mike-rogers-face-off-for-michigan-senate-seat",
-      "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Democratic rising star Ossoff projected to hold Georgia seat",
-     "sources": 3,
-     "score": 64,
-     "event_id": "43992b5f3fd4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/americas/20261104-key-us-senate-results-democrats-wrest-north-and-south-carolina-from-the-republicans",
-      "https://www.france24.com/en/video/20261104-replay-georgia-senator-jon-ossoff-wins-reelection"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Troy Jackson wins Maine Senate race over Susan Collins, in major coup for Democrats",
-     "sources": 3,
-     "score": 57,
-     "event_id": "0c2e960b0584",
-     "links": [
-      "https://www.npr.org/2026/11/04/g-s1-148952/maine-senate-race-susan-collins-troy-jackson",
-      "https://www.dw.com/en/us-midterms-democrats-gain-control-of-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-and-republicans-trampled-in-the-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Democrat Josh Turek wins the Senate seat in Iowa",
-     "sources": 2,
-     "score": 47,
-     "event_id": "835c8d9b6884",
-     "links": [
-      "https://www.npr.org/2026/11/03/g-s1-148956/iowa-senate-race-josh-turek",
-      "https://www.aljazeera.com/news/2026/11/4/democrat-josh-turek-flips-iowa-senate-seat?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-     "sources": 5,
-     "score": 83,
-     "event_id": "74dab33a4157",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/04/g-s1-150029/michigan-senate-race-abdul-el-sayed-mike-rogers",
-      "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "2026 Midterms: Democrat Keisha Lance Bottoms makes history in Georgia",
-     "sources": 2,
-     "score": 42,
-     "event_id": "679276982c61",
-     "links": [
-      "https://www.france24.com/en/video/20261104-2026-midterms-democrat-keisha-lance-bottoms-makes-history-in-georgia",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-amy-acton-makes-history-in-ohio?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "‘Call me senator’: How Abdul El-Sayed beat Trump’s hate to create history",
-     "sources": 2,
-     "score": 54,
-     "event_id": "dbbf789e01db",
-     "links": [
-      "https://www.aljazeera.com/news/2026/11/4/call-me-senator-how-abdul-el-sayed-beat-trumps-hate-to-create-history?traffic_source=rss",
-      "https://www.france24.com/en/video/20261104-abdul-el-sayed-set-to-become-first-muslim-senator-after-win-in-michigan",
-      "https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "US midterms: Democrats win House and Senate from Republicans",
-     "sources": 3,
-     "score": 49,
-     "event_id": "e019a4979e69",
-     "links": [
-      "https://www.dw.com/en/us-midterms-democrats-win-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/11/4/democrats-win-control-of-house-and-senate-key-us-midterms-takeaways?traffic_source=rss",
-      "https://www.france24.com/en/americas/20261104-why-the-democrats-routed-republicans-us-midterm-elections"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Rep. Katherine Clark says Democrats are on track to win control of the House tonight",
-     "sources": 2,
-     "score": 42,
-     "event_id": "ea0f1f9c4b5a",
-     "links": [
-      "https://www.npr.org/2026/11/03/nx-s1-6028015/rep-katherine-clark-says-democrats-are-on-track-to-win-control-of-the-house-tonight",
-      "https://www.investing.com/news/economy-news/investors-ready-for-possible-shakeup-in-congress-as-election-day-arrives-4994181"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "US midterms: Trump reacts to the Democrats’ sweeping victory",
-     "sources": 2,
-     "score": 40,
-     "event_id": "1e43314e8e82",
-     "links": [
-      "https://www.france24.com/en/video/20261104-us-midterms-trump-reacts-to-the-democrats-sweeping-victory",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-democrats-may-struggle-to-rein-in-trumps-foreign-policy?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
-     "sources": 3,
-     "score": 64,
-     "event_id": "9b8c734ec6dd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
-      "https://www.france24.com/en/video/20261104-midterms-how-abdul-el-sayed-used-humour-and-hope-to-rebuff-racism"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-     "sources": 3,
-     "score": 58,
-     "event_id": "a3e2b24eafb5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-      "https://electrek.co/2026/11/04/what-does-a-blue-texas-sweep-mean-for-tesla-spacex-elon-musk/"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "US midterm election results: Democrats flip House and Senate. Here's what else the data tell us",
-     "sources": 2,
-     "score": 52,
-     "event_id": "078ed532d7fc",
-     "links": [
-      "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tell-us/a-79841886?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/sport/2026/nov/04/mark-teixeira-michele-tafoya-midterm-elections"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-     "sources": 2,
-     "score": 43,
-     "event_id": "a6edc1d9c850",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20261104-trump-seeks-to-shift-blame-but-has-nowhere-to-hide-after-midterms-defeat"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
-     "sources": 3,
-     "score": 64,
-     "event_id": "db8842f4456e",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
-      "https://www.france24.com/en/americas/20261104-democrats-warn-trump-camp-lawyer-up-anger-over-corruption-drives-midterms-wipeout-gop"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Democrats take House and Senate from Republicans in US midterm rout",
-     "sources": 3,
-     "score": 54,
-     "event_id": "ecaf92519895",
-     "links": [
-      "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-rdf",
-      "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
-      "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Trump says 'largely true' Iran war led to Republicans midterm loss",
-     "sources": 2,
-     "score": 47,
-     "event_id": "47ee29dcc13b",
-     "links": [
-      "https://www.dw.com/en/trump-says-largely-true-iran-war-led-to-republicans-midterm-loss/live-79829440?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Sen. Gillibrand says Democrats must end Iran war, hold Trump accountable. But how?",
-     "sources": 4,
-     "score": 66,
-     "event_id": "480691fc2fe8",
-     "links": [
-      "https://www.npr.org/2026/11/05/nx-s1-6028837/kirsten-gillibrand-democrats-congress-priorities",
-      "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/5/what-can-democrats-do-in-congress-under-president-trump?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-     "sources": 2,
-     "score": 48,
-     "event_id": "ff0eea51cee9",
-     "links": [
-      "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
-      "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
-     "sources": 2,
-     "score": 42,
-     "event_id": "6da1f10b9d2e",
-     "links": [
-      "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss"
      ]
     }
    ]
@@ -14831,135 +15135,6 @@
    ]
   },
   {
-   "id": "46d1d18cff81",
-   "title": "Parrott fires Real Betis to win over Real Madrid",
-   "section": "sport",
-   "entities": [
-    "carlos",
-    "barcelona",
-    "roma",
-    "camp",
-    "betis",
-    "real",
-    "vinicius",
-    "president",
-    "gabriel",
-    "ceuta",
-    "liga",
-    "madrid",
-    "lowe",
-    "parrott",
-    "villarreal",
-    "atletico"
-   ],
-   "event_ids": [
-    "46d1d18cff81",
-    "b0d6ea2d2c32",
-    "9a83e218a9f2",
-    "358259af4a1b",
-    "fb2e05aca5b1",
-    "1b46cd680532",
-    "ead21b3fa34a",
-    "98b22644aa7a"
-   ],
-   "first_seen": "2026-09-05",
-   "last_seen": "2026-10-26",
-   "timeline": [
-    {
-     "date": "2026-09-05",
-     "headline": "Parrott fires Real Betis to win over Real Madrid",
-     "sources": 3,
-     "score": 58,
-     "event_id": "46d1d18cff81",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/c9v9ewe7kygo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/04/jose-mourinho-sick-as-a-parrott-as-real-madrid-sunk-by-real-betis-and-irish-supersub",
-      "https://www.aljazeera.com/sports/2026/9/4/real-madrid-beaten-by-betis-as-mourinho-suffers-first-defeat-on-return?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Real Madrid keen on Man Utd forward Gabriel, 15",
-     "sources": 2,
-     "score": 42,
-     "event_id": "b0d6ea2d2c32",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c3x2zryzpw27o?at_medium=RSS&at_campaign=rss",
-      "http://www.france24.com/en/video/20260917-mbapp%C3%A9-and-real-madrid-teammates-face-backlash-over-ceuta-message"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Carlos Espí gives Real Madrid hope in the face of Barcelona’s La Liga storm | Sid Lowe",
-     "sources": 2,
-     "score": 50,
-     "event_id": "9a83e218a9f2",
-     "links": [
-      "https://www.theguardian.com/football/2026/sep/17/carlos-espi-real-madrid-barcelona-mourinho-la-liga",
-      "https://www.aljazeera.com/sports/2026/9/17/real-madrid-fan-group-demands-mbappe-apologies-over-ceuta-shirt-snub?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Real Madrid President says Ceuta visit not related to ‘recent news’",
-     "sources": 2,
-     "score": 51,
-     "event_id": "358259af4a1b",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/9/18/real-madrid-president-says-ceuta-visit-not-related-to-recent-news?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/9/18/real-madrids-kylian-mbappe-ends-nike-partnership-to-join-swiss-brand-on?traffic_source=rss",
-      "https://www.france24.com/en/sport/20260918-mbapp%C3%A9-quits-nike-after-career-long-partnership-swiss-sports-brand-on"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Atletico win feisty Madrid derby against 10-man Real",
-     "sources": 3,
-     "score": 54,
-     "event_id": "fb2e05aca5b1",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cqkgxp97nxzno?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/20/atletico-madrid-real-madrid-la-liga-match-report",
-      "https://www.aljazeera.com/sports/2026/9/20/atletico-madrid-beat-10-man-real-madrid-2-1-in-feisty-la-liga-derby?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Real Madrid beat Villarreal 1-0 but Vinicius sent off for hair pull",
-     "sources": 2,
-     "score": 42,
-     "event_id": "1b46cd680532",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/10/10/real-madrid-beat-villarreal-but-vinicius-sent-off-for-hair-pull?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/oct/10/real-madrids-vinicius-junior-sent-off-for-hair-pulling-in-victory-over-villarreal"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Real Madrid stun Roma after dramatic late comeback",
-     "sources": 4,
-     "score": 74,
-     "event_id": "ead21b3fa34a",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/oct/14/enzo-maresca-insists-manchester-city-are-close-to-psg-despite-home-defeat",
-      "https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
-     "sources": 2,
-     "score": 44,
-     "event_id": "98b22644aa7a",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report"
-     ]
-    }
-   ]
-  },
-  {
    "id": "be0f10ab2a6e",
    "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
    "section": "world",
@@ -18541,117 +18716,6 @@
    ]
   },
   {
-   "id": "0aa45abf75b4",
-   "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
-   "section": "world",
-   "entities": [
-    "islands",
-    "trump",
-    "iceland",
-    "anthropic",
-    "argentina",
-    "javier",
-    "president",
-    "milei",
-    "argentina's",
-    "falkland",
-    "falklands"
-   ],
-   "event_ids": [
-    "0aa45abf75b4",
-    "8ab3477c95bb",
-    "50b8cc60bf30",
-    "7a595c75a0e5",
-    "b4adb9b4bb87",
-    "79b213b7598a",
-    "672dc331a2b4"
-   ],
-   "first_seen": "2026-09-04",
-   "last_seen": "2026-09-29",
-   "timeline": [
-    {
-     "date": "2026-09-04",
-     "headline": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
-     "sources": 3,
-     "score": 55,
-     "event_id": "0aa45abf75b4",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-      "https://www.dw.com/en/argentina-milei-reignites-dispute-over-falkland-islands/a-78896474?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
-     "sources": 3,
-     "score": 52,
-     "event_id": "8ab3477c95bb",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
-      "https://www.france24.com/en/video/20260904-argentina-s-milei-escalates-falklands-dispute-in-sovereignty-push-against-britain",
-      "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
-     "sources": 2,
-     "score": 44,
-     "event_id": "50b8cc60bf30",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-      "https://www.aljazeera.com/news/2026/9/4/winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-spat?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "Iceland to become first UK high street retailer to open shop in Falkland Islands",
-     "sources": 2,
-     "score": 40,
-     "event_id": "7a595c75a0e5",
-     "links": [
-      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker",
-      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
-     "sources": 2,
-     "score": 42,
-     "event_id": "b4adb9b4bb87",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
-      "https://www.aljazeera.com/news/2026/9/23/milei-says-un-looking-the-other-way-on-falkland-islands-dispute?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Anthropic’s CEO is about to have dinner with President Trump",
-     "sources": 3,
-     "score": 48,
-     "event_id": "79b213b7598a",
-     "links": [
-      "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
-      "https://www.investing.com/news/stock-market-news/anthropic-ceo-amodei-to-meet-trump-privately-ahead-of-ai-summit-4919089"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Argentina's Milei threatens UK with international legal action over Falkland Islands oil project",
-     "sources": 2,
-     "score": 43,
-     "event_id": "672dc331a2b4",
-     "links": [
-      "https://www.dw.com/en/argentina-s-milei-threatens-uk-with-international-legal-action-over-falkland-islands-oil-project/a-79469107?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "b1ad3a0a8a22",
    "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
    "section": "world",
@@ -21348,5 +21412,5 @@
    ]
   }
  ],
- "updated": "2026-11-08T21:19:02+00:00"
+ "updated": "2026-11-09T00:41:23+00:00"
 }
