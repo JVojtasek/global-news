@@ -88,28 +88,25 @@
   - **Investing.com** — Nvidia launches probe after report CEO Huang was target of foreign intelligence
     <https://www.investing.com/news/stock-market-news/nvidia-launches-probe-after-report-ceo-huang-was-target-of-foreign-intelligence-5010307>
 
-### 4. Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy
-- id události: `c1a8be3a6f4b`  ·  rubrika: `tech`  ·  skóre: 76  ·  nezávislých zdrojů: 6
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+### 4. Republican congressman to force impeachment vote on Defence Secretary Hegseth
+- id události: `dfdd7bb2e5a4`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **BBC World** — Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy
-    <https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss>
-    > The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.
-  - **BBC Business** — Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy
-    <https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss>
-    > The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.
-  - **BBC Technology** — Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy
-    <https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss>
-    > The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.
-  - **TechCrunch** — Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny
-    <https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/>
-    > Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.
-  - **The Verge AI** — The future of AI hinges on… Jensen Huang’s sex life?
-    <https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me>
-    > I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around w
-  - **France 24** — Nvidia shares tumble after spy probe announced
-    <https://www.france24.com/en/video/20261109-nvidia-shares-tumble-after-spy-probe-announced>
-    > Shares of artificial intelligence leader Nvidia tumbled early Monday after the chip company said it launched an investigation of CEO Jensen Huang following reports he was targeted by Chinese intelligence. Nvidia shares were down more than eight percent in opening trading after it
+  - **BBC World** — Republican congressman to force impeachment vote on Defence Secretary Hegseth
+    <https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss>
+    > The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.
+  - **NPR News** — Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth
+    <https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth>
+    > The articles accuse Hegseth of "high crimes and misdemeanors," including for waging war against Iran in violation of the War Powers Resolution.
+  - **DW News** — Republican Thomas Massie seeks to force House vote on impeaching Defense Secretary Pete Hegseth over Iran war
+    <https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf>
+    > Trump critic Thomas Massie is calling for a vote to impeach Pentagon chief Pete Hegseth, accusing Hegseth of waging war without congressional approval.
+  - **CNBC Top** — Hegseth impeachment articles introduced by Rep. Massie
+    <https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html>
+    > The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth filed by Republican Rep. Thomas Masie.
+  - **France 24** — Republican congressman launches impeachment bid against Pentagon chief Hegseth
+    <https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth>
+    > Kentucky congressman Thomas Massie moved on Monday to force a vote in the House of Representatives to impeach Defence Secretary Pete Hegseth, putting pressure on his fellow Republicans to decide whether to remove one of the Trump administration’s most prominent figures following 
 
 ---
 

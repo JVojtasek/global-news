@@ -1587,46 +1587,46 @@
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
    "section": "world",
    "entities": [
-    "aramco",
-    "davos",
-    "pakistan",
-    "taiz",
-    "mecca",
-    "israel-bound",
-    "yemen",
-    "turkey",
-    "iran-backed",
-    "east",
-    "syria",
-    "riyadh",
-    "desert",
-    "somalia",
-    "salman",
-    "bangladesh",
-    "attack",
-    "deadly",
-    "some",
-    "houthi",
-    "king",
-    "yemeni",
-    "maritime",
-    "york",
-    "egypt's",
-    "three",
-    "yemen's",
-    "ssisi",
-    "second",
-    "asian",
-    "middle",
-    "aden",
-    "arabia's",
-    "western",
     "trump",
-    "houthis",
-    "saudi-backed",
-    "saudi",
+    "davos",
+    "riyadh",
+    "some",
+    "asian",
+    "east",
+    "aden",
+    "aramco",
+    "wall",
+    "maritime",
+    "somalia",
+    "arabia's",
+    "lucid",
+    "yemeni",
+    "three",
     "president",
-    "arabia"
+    "syria",
+    "king",
+    "turkey",
+    "israel-bound",
+    "ssisi",
+    "arabia",
+    "street",
+    "houthi",
+    "saudi",
+    "attack",
+    "saudi-backed",
+    "middle",
+    "second",
+    "houthis",
+    "iran-backed",
+    "deadly",
+    "salman",
+    "egypt's",
+    "york",
+    "bangladesh",
+    "yemen's",
+    "taiz",
+    "western",
+    "desert"
    ],
    "event_ids": [
     "d16d38017cfe",
@@ -1683,7 +1683,8 @@
     "b3534df0c874",
     "33ffd3457e0f",
     "a4c834776699",
-    "73acf381ec21"
+    "73acf381ec21",
+    "ffbf3e965da6"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-11-09",
@@ -2312,6 +2313,17 @@
      "links": [
       "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
       "https://www.france24.com/en/video/20261109-saudi-arabia-intercepts-houthi-missiles-as-riyadh-s-aramco-building-damaged"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+     "sources": 2,
+     "score": 45,
+     "event_id": "ffbf3e965da6",
+     "links": [
+      "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+      "https://www.investing.com/news/stock-market-news/wall-st-futures-mixed-amid-ai-spending-concerns-inflation-data-awaited-5010386"
      ]
     }
    ]
@@ -3483,46 +3495,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "experts",
-    "face",
-    "trusted",
-    "drove",
-    "china",
-    "exploit",
-    "binance",
-    "hugging",
-    "goodfire",
-    "steal",
-    "assets",
-    "nvidia",
-    "nvidia's",
-    "base",
-    "customer",
-    "reward",
-    "openai",
-    "chinese",
-    "security",
-    "labs",
-    "hacking",
     "suffers",
-    "accounts",
-    "unexpected",
-    "alibaba",
-    "jensen",
-    "huang's",
-    "cnbc",
-    "cyberattack",
-    "qubole's",
-    "data",
-    "huawei",
-    "huang",
     "trump",
-    "access",
-    "hackers",
-    "breach",
+    "huang",
+    "goodfire",
     "silicon",
+    "hacking",
+    "customer",
+    "chinese",
+    "nvidia",
+    "huawei",
+    "hackers",
     "deepseek",
-    "valley"
+    "experts",
+    "trusted",
+    "openai",
+    "cnbc",
+    "hugging",
+    "security",
+    "drove",
+    "nvidia's",
+    "china",
+    "breach",
+    "assets",
+    "jensen",
+    "alibaba",
+    "cyberattack",
+    "reward",
+    "exploit",
+    "accounts",
+    "data",
+    "base",
+    "labs",
+    "access",
+    "unexpected",
+    "qubole's",
+    "valley",
+    "steal",
+    "binance",
+    "face",
+    "huang's"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -3562,7 +3574,8 @@
     "45c537ea2364",
     "c1a8be3a6f4b",
     "a06869aa80e5",
-    "bd73ebc7b854"
+    "bd73ebc7b854",
+    "e33d7f6b8276"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-09",
@@ -4005,6 +4018,18 @@
      "event_id": "bd73ebc7b854",
      "links": [
       "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+     "sources": 3,
+     "score": 61,
+     "event_id": "e33d7f6b8276",
+     "links": [
+      "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+      "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
+      "https://www.france24.com/en/nvidia-s-huang-scandal-rattles-ai-industry-built-around-him"
      ]
     }
    ]
@@ -6022,14 +6047,16 @@
    "title": "Misogyny and sexism of Russell Brand case have not gone away, say TV insiders",
    "section": "world",
    "entities": [
-    "maha",
-    "russell",
     "sunday",
-    "times",
-    "weeks",
-    "misogyny",
+    "maha",
     "british",
-    "brand"
+    "goldsmith",
+    "brand",
+    "weeks",
+    "russell",
+    "times",
+    "jemima",
+    "misogyny"
    ],
    "event_ids": [
     "1212da89a1c7",
@@ -6039,7 +6066,8 @@
     "0cbf74246ec8",
     "5422d547f3df",
     "b59416b873e7",
-    "484552c8ec67"
+    "484552c8ec67",
+    "32ae78fe6fe4"
    ],
    "first_seen": "2026-11-05",
    "last_seen": "2026-11-09",
@@ -6136,6 +6164,18 @@
       "https://www.france24.com/en/video/20261109-russell-brand-sentenced-to-10-and-a-half-years-in-jail-for-rape-sexual-assault",
       "https://www.france24.com/en/video/20261109-sexual-predator-russell-brand-jailed-for-10-years-for-rape-assault"
      ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Jemima Goldsmith says ex-partner Russell Brand physically assaulted her",
+     "sources": 3,
+     "score": 53,
+     "event_id": "32ae78fe6fe4",
+     "links": [
+      "https://www.theguardian.com/news/2026/nov/09/jemima-goldsmith-says-ex-partner-russell-brand-physically-assaulted-her",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/russell-brand-sentenced-to-10-5-years-over-sexual-assault-charges?traffic_source=rss",
+      "https://www.france24.com/en/sexual-predator-russell-brand-jailed-for-10-years-for-rape-assault"
+     ]
     }
    ]
   },
@@ -6190,6 +6230,36 @@
      "event_id": "b8097f669f5b",
      "links": [
       "https://www.smithsonianmag.com/smithsonian-institution/the-panama-canal-has-an-unusual-ecosystem-flowing-from-fresh-water-to-salt-water-and-serving-as-a-home-to-crocodiles-manatees-and-sea-squirts-new-intruders-pose-a-growing-threat-to-the-waterway-180989838/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dfdd7bb2e5a4",
+   "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "section": "world",
+   "entities": [
+    "defence",
+    "secretary",
+    "hegseth",
+    "republican"
+   ],
+   "event_ids": [
+    "dfdd7bb2e5a4"
+   ],
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-09",
+   "timeline": [
+    {
+     "date": "2026-11-09",
+     "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+     "sources": 5,
+     "score": 77,
+     "event_id": "dfdd7bb2e5a4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+      "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -21692,5 +21762,5 @@
    ]
   }
  ],
- "updated": "2026-11-09T18:21:23+00:00"
+ "updated": "2026-11-09T21:18:59+00:00"
 }
