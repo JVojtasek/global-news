@@ -88,26 +88,28 @@
   - **Investing.com** — Nvidia launches probe after report CEO Huang was target of foreign intelligence
     <https://www.investing.com/news/stock-market-news/nvidia-launches-probe-after-report-ceo-huang-was-target-of-foreign-intelligence-5010307>
 
-### 4. Israeli president picks Gadi Eisenkot to form government
-- id události: `11b25b0129fb`  ·  rubrika: `world`  ·  skóre: 75  ·  nezávislých zdrojů: 5
+### 4. Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy
+- id události: `c1a8be3a6f4b`  ·  rubrika: `tech`  ·  skóre: 76  ·  nezávislých zdrojů: 6
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
-  - **DW News** — Israeli president picks Gadi Eisenkot to form government
-    <https://www.dw.com/en/israeli-president-picks-gadi-eisenkot-to-form-government/a-79888288?maca=en-rss-en-all-1573-rdf>
-    > The anti-Netanyahu alliance led by former Israeli military chief Gadi Eisenkot has been tasked by President Isaac Herzog with forming a new government, with tricky coalition talks expected.
-  - **The Guardian World** — Israel’s president picks Yashar leader Gadi Eisenkot to form government
-    <https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government>
-    > Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a deadlocked election that 
-  - **Al Jazeera** — Israel’s president picks Eisenkot over Netanyahu to form next government
-    <https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss>
-    > President Isaac Herzog formally assigns Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as PM.
-  - **France 24** — 🔴 Israeli president picks Netanyahu's rival Eisenkot to try to form government
-    <https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government>
-  - **France 24** — Israeli president picks Netanyahu's rival Eisenkot to try to form government
-    <https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government>
-    > Israeli President Isaac Herzog picked former military chief Gadi Eisenkot to try to form a government, he said in a statement Saturday. Last month's parliamentary elections left neither Eisenkot nor Prime Minister Benjamin Netanyahu with a clear path to building a majority.
-  - **Investing.com** — Israel’s Eisenkot gets first mandate to form government, aiming to oust Netanyahu
-    <https://www.investing.com/news/economy-news/israels-eisenkot-gets-first-mandate-to-form-government-aiming-to-oust-netanyahu-5010017>
+  - **BBC World** — Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy
+    <https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss>
+    > The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.
+  - **BBC Business** — Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy
+    <https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss>
+    > The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.
+  - **BBC Technology** — Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy
+    <https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss>
+    > The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.
+  - **TechCrunch** — Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny
+    <https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/>
+    > Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.
+  - **The Verge AI** — The future of AI hinges on… Jensen Huang’s sex life?
+    <https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me>
+    > I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around w
+  - **France 24** — Nvidia shares tumble after spy probe announced
+    <https://www.france24.com/en/video/20261109-nvidia-shares-tumble-after-spy-probe-announced>
+    > Shares of artificial intelligence leader Nvidia tumbled early Monday after the chip company said it launched an investigation of CEO Jensen Huang following reports he was targeted by Chinese intelligence. Nvidia shares were down more than eight percent in opening trading after it
 
 ---
 
