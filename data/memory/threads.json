@@ -585,46 +585,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "congress",
-    "drove",
-    "nvidia's",
-    "timeline",
-    "unexpected",
-    "base",
-    "breach",
-    "openai",
-    "security",
-    "hacking",
-    "frozen",
-    "suffers",
-    "chinese",
-    "goodfire",
-    "information",
     "billion",
-    "huang",
-    "valley",
-    "cnbc",
-    "deepseek",
-    "assets",
-    "alibaba",
-    "binance",
-    "china",
-    "nvidia",
+    "chinese",
     "exploit",
-    "affecting",
-    "german",
+    "hugging",
+    "cnbc",
+    "assets",
+    "security",
+    "suffers",
+    "valley",
+    "frozen",
     "silicon",
-    "github",
+    "experts",
+    "huang",
     "reward",
-    "labs",
-    "huawei",
+    "drove",
+    "github",
     "trump",
     "face",
-    "hugging",
-    "cyberattack",
+    "breach",
+    "german",
+    "hacking",
+    "china",
     "agents",
-    "experts",
-    "ceo's"
+    "labs",
+    "binance",
+    "nvidia",
+    "affecting",
+    "information",
+    "cyberattack",
+    "unexpected",
+    "base",
+    "openai",
+    "goodfire",
+    "alibaba",
+    "huawei",
+    "ceo's",
+    "timeline",
+    "congress",
+    "deepseek",
+    "nvidia's"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -657,7 +657,8 @@
     "2b527a5d8a86",
     "20e38220237b",
     "bc0b846ed6bf",
-    "2965feb8b5ec"
+    "2965feb8b5ec",
+    "eda661cf2b57"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-09",
@@ -1019,6 +1020,18 @@
       "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
      ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+     "sources": 3,
+     "score": 59,
+     "event_id": "eda661cf2b57",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+     ]
     }
    ]
   },
@@ -1296,6 +1309,148 @@
      "links": [
       "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
       "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5ef0205965a4",
+   "title": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
+   "section": "world",
+   "entities": [
+    "greece",
+    "monday",
+    "kimberly",
+    "guilfoyle",
+    "ufc's",
+    "ai-edited",
+    "stephen",
+    "dana",
+    "inside",
+    "katie",
+    "white",
+    "zacharia's",
+    "miller",
+    "trump",
+    "ambassador",
+    "house"
+   ],
+   "event_ids": [
+    "5ef0205965a4",
+    "d0ee4a2b0e2a",
+    "b91386fcbef1",
+    "c2b2b6ae53ff",
+    "54d7a618ecd3",
+    "6abf76266070",
+    "92173ed13325",
+    "3b8092eeb96f",
+    "814d1a2b6376"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-11-09",
+   "timeline": [
+    {
+     "date": "2026-10-13",
+     "headline": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
+     "sources": 3,
+     "score": 59,
+     "event_id": "5ef0205965a4",
+     "links": [
+      "https://www.dw.com/en/white-house-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-step-down-amid-misconduct-allegations/a-79652952?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
+      "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Inside Katie Zacharia's very brief White House briefing",
+     "sources": 2,
+     "score": 46,
+     "event_id": "d0ee4a2b0e2a",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+     "sources": 2,
+     "score": 48,
+     "event_id": "b91386fcbef1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "US judge extends media outlets' White House access",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c2b2b6ae53ff",
+     "links": [
+      "https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Trump posts AI-edited photo to brag about White House restoration work",
+     "sources": 3,
+     "score": 53,
+     "event_id": "54d7a618ecd3",
+     "links": [
+      "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Stephen Miller named by Trump as new White House chief of staff",
+     "sources": 5,
+     "score": 84,
+     "event_id": "6abf76266070",
+     "links": [
+      "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+      "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff"
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+     "sources": 5,
+     "score": 69,
+     "event_id": "92173ed13325",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html"
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+     "sources": 2,
+     "score": 44,
+     "event_id": "3b8092eeb96f",
+     "links": [
+      "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
+      "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Trump says he was 'kidding' about Dana White press secretary offer",
+     "sources": 3,
+     "score": 50,
+     "event_id": "814d1a2b6376",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss"
      ]
     }
    ]
@@ -4553,135 +4708,6 @@
      "links": [
       "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf",
       "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "5ef0205965a4",
-   "title": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
-   "section": "world",
-   "entities": [
-    "house",
-    "trump",
-    "ambassador",
-    "dana",
-    "katie",
-    "inside",
-    "monday",
-    "zacharia's",
-    "ai-edited",
-    "miller",
-    "stephen",
-    "ufc's",
-    "greece",
-    "guilfoyle",
-    "white",
-    "kimberly"
-   ],
-   "event_ids": [
-    "5ef0205965a4",
-    "d0ee4a2b0e2a",
-    "b91386fcbef1",
-    "c2b2b6ae53ff",
-    "54d7a618ecd3",
-    "6abf76266070",
-    "92173ed13325",
-    "3b8092eeb96f"
-   ],
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-11-08",
-   "timeline": [
-    {
-     "date": "2026-10-13",
-     "headline": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
-     "sources": 3,
-     "score": 59,
-     "event_id": "5ef0205965a4",
-     "links": [
-      "https://www.dw.com/en/white-house-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-step-down-amid-misconduct-allegations/a-79652952?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
-      "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Inside Katie Zacharia's very brief White House briefing",
-     "sources": 2,
-     "score": 46,
-     "event_id": "d0ee4a2b0e2a",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-     "sources": 2,
-     "score": 48,
-     "event_id": "b91386fcbef1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "US judge extends media outlets' White House access",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c2b2b6ae53ff",
-     "links": [
-      "https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Trump posts AI-edited photo to brag about White House restoration work",
-     "sources": 3,
-     "score": 53,
-     "event_id": "54d7a618ecd3",
-     "links": [
-      "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html"
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Stephen Miller named by Trump as new White House chief of staff",
-     "sources": 5,
-     "score": 84,
-     "event_id": "6abf76266070",
-     "links": [
-      "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
-      "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff"
-     ]
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-     "sources": 5,
-     "score": 69,
-     "event_id": "92173ed13325",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html"
-     ]
-    },
-    {
-     "date": "2026-11-08",
-     "headline": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-     "sources": 2,
-     "score": 44,
-     "event_id": "3b8092eeb96f",
-     "links": [
-      "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
-      "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary"
      ]
     }
    ]
@@ -21437,5 +21463,5 @@
    ]
   }
  ],
- "updated": "2026-11-09T06:35:12+00:00"
+ "updated": "2026-11-09T09:23:50+00:00"
 }
