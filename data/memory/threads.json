@@ -585,46 +585,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "base",
-    "reward",
+    "congress",
+    "drove",
+    "nvidia's",
     "timeline",
-    "china",
-    "cnbc",
-    "cyberattack",
+    "unexpected",
+    "base",
+    "breach",
     "openai",
     "security",
-    "jensen",
-    "face",
-    "nvidia",
-    "german",
-    "assets",
-    "drove",
     "hacking",
-    "labs",
-    "chinese",
-    "huawei",
-    "huang",
-    "exploit",
-    "agents",
-    "ceo's",
-    "nvidia's",
-    "congress",
-    "nearly",
-    "unexpected",
-    "hugging",
-    "binance",
-    "suffers",
-    "affecting",
-    "alibaba",
-    "github",
-    "breach",
-    "experts",
-    "trump",
-    "information",
-    "goodfire",
-    "billion",
     "frozen",
-    "deepseek"
+    "suffers",
+    "chinese",
+    "goodfire",
+    "information",
+    "billion",
+    "huang",
+    "valley",
+    "cnbc",
+    "deepseek",
+    "assets",
+    "alibaba",
+    "binance",
+    "china",
+    "nvidia",
+    "exploit",
+    "affecting",
+    "german",
+    "silicon",
+    "github",
+    "reward",
+    "labs",
+    "huawei",
+    "trump",
+    "face",
+    "hugging",
+    "cyberattack",
+    "agents",
+    "experts",
+    "ceo's"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -656,7 +656,8 @@
     "4729f8fa01c6",
     "2b527a5d8a86",
     "20e38220237b",
-    "bc0b846ed6bf"
+    "bc0b846ed6bf",
+    "2965feb8b5ec"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-09",
@@ -1005,6 +1006,18 @@
      "links": [
       "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-rdf",
       "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+     "sources": 4,
+     "score": 63,
+     "event_id": "2965feb8b5ec",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -21424,5 +21437,5 @@
    ]
   }
  ],
- "updated": "2026-11-09T03:23:08+00:00"
+ "updated": "2026-11-09T06:35:12+00:00"
 }
