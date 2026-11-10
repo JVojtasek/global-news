@@ -5,46 +5,46 @@
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
    "entities": [
-    "trump",
-    "talarico",
-    "spacex",
-    "olympic",
-    "sure",
-    "europe",
-    "ambani",
-    "networking",
     "openai",
-    "microsoft",
-    "unusual",
-    "cybertruck",
-    "skydance",
-    "miss",
-    "stateside",
+    "trump",
     "ukraine",
-    "fake",
-    "meta",
-    "putin",
-    "deckers",
-    "embiricos",
-    "dots",
-    "side",
-    "qualcomm",
+    "musk",
     "anthropic",
-    "google",
-    "friday's",
-    "zoom",
-    "boeing",
     "apple",
-    "elon",
+    "talarico",
+    "amazon",
+    "putin",
+    "meta",
+    "unusual",
+    "ambani",
+    "inside",
+    "embiricos",
+    "machines",
+    "russia",
+    "stateside",
+    "fake",
+    "side",
+    "skydance",
+    "olympic",
     "texas",
+    "spacex",
+    "cybertruck",
+    "sure",
+    "dots",
+    "networking",
     "tesla",
     "starlink",
-    "musk",
-    "nvidia",
+    "friday's",
+    "deckers",
+    "boeing",
+    "elon",
     "israel",
-    "amazon",
-    "machines",
-    "russia"
+    "qualcomm",
+    "nvidia",
+    "europe",
+    "miss",
+    "google",
+    "zoom"
    ],
    "event_ids": [
     "95b4d8eb7452",
@@ -104,7 +104,8 @@
     "94b4a6a570d2",
     "886e9406677f",
     "7862033c12c5",
-    "bf15bf06a44a"
+    "bf15bf06a44a",
+    "ed73d7ea38c9"
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-11-10",
@@ -775,6 +776,17 @@
      "event_id": "bf15bf06a44a",
      "links": [
       "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+      "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Inside devastated front-line city that Russia wants Ukraine to give up",
+     "sources": 2,
+     "score": 44,
+     "event_id": "ed73d7ea38c9",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232?maca=en-rss-en-all-1573-rdf"
      ]
     }
@@ -1544,45 +1556,45 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "huang's",
-    "hacking",
-    "nvidia",
-    "drove",
-    "data",
+    "openai",
     "deepseek",
-    "reward",
-    "nvidia's",
-    "china",
-    "hackers",
-    "face",
-    "silicon",
-    "huawei",
-    "valley",
-    "alibaba",
-    "labs",
-    "security",
-    "cyberattack",
     "trump",
-    "cyberattacks",
+    "cnbc",
+    "face",
+    "valley",
     "hugging",
-    "megaspeed",
-    "steal",
+    "data",
+    "drove",
+    "hackers",
     "qubole's",
+    "huawei",
+    "megaspeed",
+    "security",
+    "unexpected",
+    "cyberattack",
+    "huang",
+    "access",
+    "trusted",
     "jensen",
+    "nvidia's",
+    "chinese",
+    "steal",
+    "alibaba",
+    "china",
     "experts",
     "faisal",
-    "huang",
-    "suffers",
-    "cnbc",
-    "unexpected",
-    "assets",
-    "openai",
+    "hacking",
     "exploit",
+    "suffers",
     "base",
+    "assets",
     "goodfire",
-    "access",
-    "chinese",
-    "trusted",
+    "huang's",
+    "labs",
+    "nvidia",
+    "reward",
+    "cyberattacks",
+    "silicon",
     "islam"
    ],
    "event_ids": [
@@ -1632,7 +1644,8 @@
     "fc17e32685e9",
     "d95ad1c3fe30",
     "78aa026d0c91",
-    "1c52468d7a99"
+    "1c52468d7a99",
+    "952761630128"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-10",
@@ -2182,6 +2195,17 @@
      "links": [
       "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
       "https://huggingface.co/blog/decision"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Nvidia has a Jensen Huang problem—and no obvious successor",
+     "sources": 2,
+     "score": 41,
+     "event_id": "952761630128",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
      ]
     }
    ]
@@ -3074,25 +3098,25 @@
    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
    "section": "tech",
    "entities": [
-    "carbon",
-    "deepmind",
-    "google",
-    "black",
-    "introducing",
-    "asimov-jailbreak",
+    "avatar",
     "developing",
     "transcribe",
-    "robotics",
+    "friday",
+    "asimov-jailbreak",
     "ai-powered",
-    "meet",
+    "cyber",
     "monday",
+    "deepmind",
+    "carbon",
+    "gemini",
     "flash-lite",
-    "avatar",
+    "black",
+    "google",
     "flash",
     "argon",
-    "gemini",
-    "friday",
-    "cyber",
+    "robotics",
+    "introducing",
+    "meet",
     "googlebook"
    ],
    "event_ids": [
@@ -3113,7 +3137,8 @@
     "e7107d9a76d9",
     "bfd6acefc1fb",
     "2cb9d43acd5a",
-    "004c51f512e0"
+    "004c51f512e0",
+    "0b2e1c02de47"
    ],
    "first_seen": "2026-08-26",
    "last_seen": "2026-11-10",
@@ -3324,6 +3349,18 @@
      "links": [
       "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
       "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Gemini 4 Carbon is now available",
+     "sources": 3,
+     "score": 47,
+     "event_id": "0b2e1c02de47",
+     "links": [
+      "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
      ]
     }
    ]
@@ -3635,6 +3672,156 @@
      "links": [
       "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/tv-shows/truth-or-fake/20261109-trump-says-he-was-kidding-about-dana-white-press-secretary-job-amid-online-mix-up-claims"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "0aa45abf75b4",
+   "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+   "section": "world",
+   "entities": [
+    "argentina's",
+    "iceland",
+    "trump",
+    "falklands",
+    "photos",
+    "pope",
+    "crowds",
+    "islands",
+    "anthropic",
+    "president",
+    "javier",
+    "argentina",
+    "falkland",
+    "milei"
+   ],
+   "event_ids": [
+    "0aa45abf75b4",
+    "8ab3477c95bb",
+    "50b8cc60bf30",
+    "7a595c75a0e5",
+    "b4adb9b4bb87",
+    "79b213b7598a",
+    "672dc331a2b4",
+    "bf1e888cc2af",
+    "27ba2ac4c5ad",
+    "c0f4e3e7a6ca"
+   ],
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-11-10",
+   "timeline": [
+    {
+     "date": "2026-09-04",
+     "headline": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
+     "sources": 3,
+     "score": 55,
+     "event_id": "0aa45abf75b4",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
+      "https://www.dw.com/en/argentina-milei-reignites-dispute-over-falkland-islands/a-78896474?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
+     "sources": 3,
+     "score": 52,
+     "event_id": "8ab3477c95bb",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
+      "https://www.france24.com/en/video/20260904-argentina-s-milei-escalates-falklands-dispute-in-sovereignty-push-against-britain",
+      "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+     "sources": 2,
+     "score": 44,
+     "event_id": "50b8cc60bf30",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+      "https://www.aljazeera.com/news/2026/9/4/winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-spat?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-10",
+     "headline": "Iceland to become first UK high street retailer to open shop in Falkland Islands",
+     "sources": 2,
+     "score": 40,
+     "event_id": "7a595c75a0e5",
+     "links": [
+      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker",
+      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
+     "sources": 2,
+     "score": 42,
+     "event_id": "b4adb9b4bb87",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
+      "https://www.aljazeera.com/news/2026/9/23/milei-says-un-looking-the-other-way-on-falkland-islands-dispute?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Anthropic’s CEO is about to have dinner with President Trump",
+     "sources": 3,
+     "score": 48,
+     "event_id": "79b213b7598a",
+     "links": [
+      "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
+      "https://www.investing.com/news/stock-market-news/anthropic-ceo-amodei-to-meet-trump-privately-ahead-of-ai-summit-4919089"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Argentina's Milei threatens UK with international legal action over Falkland Islands oil project",
+     "sources": 2,
+     "score": 43,
+     "event_id": "672dc331a2b4",
+     "links": [
+      "https://www.dw.com/en/argentina-s-milei-threatens-uk-with-international-legal-action-over-falkland-islands-oil-project/a-79469107?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
+     "sources": 2,
+     "score": 41,
+     "event_id": "bf1e888cc2af",
+     "links": [
+      "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
+      "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+     "sources": 2,
+     "score": 44,
+     "event_id": "27ba2ac4c5ad",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
+      "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Photos: Crowds greet Pope Leo in Argentina after 40-year wait",
+     "sources": 2,
+     "score": 44,
+     "event_id": "c0f4e3e7a6ca",
+     "links": [
+      "https://www.aljazeera.com/gallery/2026/11/10/photos-historic-crowds-greet-pope-leo-xiv-in-argentina-after-40-year-wait?traffic_source=rss",
+      "https://www.france24.com/en/video/20261110-pope-leo-xiv-visits-argentina-in-second-leg-of-latin-american-tour"
      ]
     }
    ]
@@ -6698,142 +6885,6 @@
      "links": [
       "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
       "https://www.theguardian.com/football/2026/nov/08/atletico-madrid-barcelona-la-liga-match-report"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "0aa45abf75b4",
-   "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
-   "section": "world",
-   "entities": [
-    "trump",
-    "argentina",
-    "milei",
-    "falklands",
-    "argentina's",
-    "anthropic",
-    "pope",
-    "falkland",
-    "president",
-    "islands",
-    "iceland",
-    "javier"
-   ],
-   "event_ids": [
-    "0aa45abf75b4",
-    "8ab3477c95bb",
-    "50b8cc60bf30",
-    "7a595c75a0e5",
-    "b4adb9b4bb87",
-    "79b213b7598a",
-    "672dc331a2b4",
-    "bf1e888cc2af",
-    "27ba2ac4c5ad"
-   ],
-   "first_seen": "2026-09-04",
-   "last_seen": "2026-11-09",
-   "timeline": [
-    {
-     "date": "2026-09-04",
-     "headline": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
-     "sources": 3,
-     "score": 55,
-     "event_id": "0aa45abf75b4",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-      "https://www.dw.com/en/argentina-milei-reignites-dispute-over-falkland-islands/a-78896474?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/4/argentinas-milei-threatens-sanctions-over-falklands-oil-drilling?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Argentina’s Milei threatens sanctions as he refocuses on Falklands",
-     "sources": 3,
-     "score": 52,
-     "event_id": "8ab3477c95bb",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/4/argentinas-milei-threatens-sanctions-as-he-refocuses-on-falklands?traffic_source=rss",
-      "https://www.france24.com/en/video/20260904-argentina-s-milei-escalates-falklands-dispute-in-sovereignty-push-against-britain",
-      "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
-     "sources": 2,
-     "score": 44,
-     "event_id": "50b8cc60bf30",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
-      "https://www.aljazeera.com/news/2026/9/4/winds-of-change-how-milei-is-stirring-falklands-claim-amid-trump-uk-spat?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-10",
-     "headline": "Iceland to become first UK high street retailer to open shop in Falkland Islands",
-     "sources": 2,
-     "score": 40,
-     "event_id": "7a595c75a0e5",
-     "links": [
-      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker",
-      "https://www.theguardian.com/business/2026/sep/10/iceland-open-shop-falkland-islands-first-richard-walker"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
-     "sources": 2,
-     "score": 42,
-     "event_id": "b4adb9b4bb87",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
-      "https://www.aljazeera.com/news/2026/9/23/milei-says-un-looking-the-other-way-on-falkland-islands-dispute?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Anthropic’s CEO is about to have dinner with President Trump",
-     "sources": 3,
-     "score": 48,
-     "event_id": "79b213b7598a",
-     "links": [
-      "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
-      "https://www.investing.com/news/stock-market-news/anthropic-ceo-amodei-to-meet-trump-privately-ahead-of-ai-summit-4919089"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Argentina's Milei threatens UK with international legal action over Falkland Islands oil project",
-     "sources": 2,
-     "score": 43,
-     "event_id": "672dc331a2b4",
-     "links": [
-      "https://www.dw.com/en/argentina-s-milei-threatens-uk-with-international-legal-action-over-falkland-islands-oil-project/a-79469107?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Pope Leo criticises Milei’s austerity in Argentina, says growth must benefit all",
-     "sources": 2,
-     "score": 41,
-     "event_id": "bf1e888cc2af",
-     "links": [
-      "https://www.france24.com/en/americas/20261108-pope-leo-argentina-visit-milei",
-      "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
-     "sources": 2,
-     "score": 44,
-     "event_id": "27ba2ac4c5ad",
-     "links": [
-      "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity",
-      "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -22059,5 +22110,5 @@
    ]
   }
  ],
- "updated": "2026-11-10T15:19:32+00:00"
+ "updated": "2026-11-10T18:20:13+00:00"
 }

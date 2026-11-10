@@ -1650,64 +1650,6 @@
   ]
  },
  {
-  "id": "b59e745fc4fd",
-  "headline": "At least 6 killed in shooting in Polish city of Krakow, police say",
-  "section": "world",
-  "score": 53,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-11-07T15:38:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "At least 6 killed in shooting in Polish city of Krakow, police say",
-    "url": "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "At least six people were killed and fifteen injured after a shooter opened fire from a car in Krakow's main market square.",
-    "published_at": "2026-11-07T15:38:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
-   },
-   {
-    "title": "Five killed and at least 10 injured in Krakow shooting",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Five people have been killed and at least 10 injured in a shooting near the main market square in Krakow, Poland.",
-    "published_at": "2026-11-07T16:06:58+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
-   },
-   {
-    "title": "🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️",
-    "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
-    "source": "France 24",
-    "summary": "",
-    "published_at": "2026-11-07T15:26:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
-   },
-   {
-    "title": "At least six people killed in shooting in Polish city of Krakow, police say",
-    "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
-    "source": "France 24",
-    "summary": "A shooting in the main market square of Krakow in Poland killed at least six people and wounded more than a dozen on Saturday, local police said, adding that the gunman was a Polish citizen and that they had shot and wounded him. Mass shootings are uncommon in the country.",
-    "published_at": "2026-11-07T15:23:48+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
-   },
-   {
-    "title": "At least five people killed in shooting in Poland’s Krakow",
-    "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Polish Prime Minister Donald Tusk says police are investigating after 'tragic shooting' in second-largest city.",
-    "published_at": "2026-11-07T15:22:55+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
-   }
-  ]
- },
- {
   "id": "32ae78fe6fe4",
   "headline": "Jemima Goldsmith says ex-partner Russell Brand physically assaulted her",
   "section": "world",
@@ -2339,6 +2281,37 @@
   ]
  },
  {
+  "id": "c362fc547f8a",
+  "headline": "Poland: Krakow shooting suspect 'fascinated' by Norwegian mass murder Anders Breivik, says justice minister",
+  "section": "world",
+  "score": 50,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T15:30:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Poland: Krakow shooting suspect 'fascinated' by Norwegian mass murder Anders Breivik, says justice minister",
+    "url": "https://www.dw.com/en/poland-krakow-shooting-suspect-fascinated-by-norwegian-mass-murder-anders-breivik-says-justice-minister/a-79910435?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "The 24-year old suspect was found to have read a significant amount of material about Breivik and other far-right figures. Speculation over his motives have prompted a bitter political feud in Warsaw.",
+    "published_at": "2026-11-10T15:30:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   },
+   {
+    "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
+    "url": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Suspect in deadly November 7 Krakow shooting looked up the white supremacist who killed dozens in 2011, a minister says.",
+    "published_at": "2026-11-10T15:36:49+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   }
+  ]
+ },
+ {
   "id": "98a2827a46e8",
   "headline": "NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
   "section": "science",
@@ -2752,33 +2725,42 @@
   ]
  },
  {
-  "id": "abf2e26e6e8f",
-  "headline": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
-  "section": "sport",
-  "score": 46,
-  "sources_count": 2,
+  "id": "0b2e1c02de47",
+  "headline": "Gemini 4 Carbon is now available",
+  "section": "ai",
+  "score": 47,
+  "sources_count": 3,
   "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-11-07T17:00:38+00:00",
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T16:03:47+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Goal caps eye-catching Odegaard display - player ratings for Arsenal v Hull",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cq62yp4lg831o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "How Arsenal and Hull City's players rated following their Premier League match at Emirates Stadium.",
-    "published_at": "2026-11-07T17:00:38+00:00",
+    "title": "Gemini 4 Carbon is now available",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "source": "Google DeepMind",
+    "summary": "",
+    "published_at": "2026-11-10T16:03:47+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
    },
    {
-    "title": "Martin Ødegaard extends Arsenal lead at top with winner to break Hull resistance",
-    "url": "https://www.theguardian.com/football/2026/nov/07/arsenal-hull-premier-league-match-report",
-    "source": "Guardian Sport",
-    "summary": "As most Arsenal supporters would testify, patience is a virtue. They needed plenty during the 22-year wait to be crowned Premier League champions and Mikel Arteta’s side certainly had to retain their composure as they tried to break down a dogged Hull team. They had not beaten Arsenal in 14 attempts since winning on their first visit to this ground in 2008. But with 20 minutes still to play, there",
-    "published_at": "2026-11-07T17:02:45+00:00",
+    "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+    "source": "The Verge",
+    "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes […]",
+    "published_at": "2026-11-10T16:00:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   },
+   {
+    "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+    "source": "The Verge AI",
+    "summary": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes […]",
+    "published_at": "2026-11-10T16:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
    }
   ]
  },
@@ -3129,37 +3111,6 @@
     "published_at": "2026-11-10T07:43:55+00:00",
     "source_countries": [],
     "seen_at": "2026-11-10T09:20:46+00:00"
-   }
-  ]
- },
- {
-  "id": "454645970e7f",
-  "headline": "Truro game abandoned after player collapses in warm-up",
-  "section": "sport",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-11-07T15:55:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Truro game abandoned after player collapses in warm-up",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cxj0l54rr61do?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Sport",
-    "summary": "Saturday's National League South match between Folkestone Invicta and Truro City is postponed after a player collapses during the warm-up.",
-    "published_at": "2026-11-07T15:55:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
-   },
-   {
-    "title": "Truro City game at Folkestone called off after Yassine En-Neyah has medical emergency in warm-up",
-    "url": "https://www.theguardian.com/football/2026/nov/07/yassine-en-neyah-truro-folkestone-national-league-south-medical-emergency",
-    "source": "Guardian Sport",
-    "summary": "National League South match postponed Player ‘required medical assistance during the warm-up’ Truro’s National League South game at Folkestone Invicta was called off after the visitors’ midfielder Yassine En-Neyah had a medical emergency and was taken to hospital. A club statement said: “Truro City can confirm that this afternoon’s match against Folkestone Invicta has been postponed. This story is",
-    "published_at": "2026-11-07T16:41:52+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
    }
   ]
  },
@@ -3664,6 +3615,121 @@
   ]
  },
  {
+  "id": "687624690f15",
+  "headline": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+  "section": "world",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T18:04:18+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+    "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+    "published_at": "2026-11-10T18:04:18+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   },
+   {
+    "title": "Activist wins 10-year fight against homophobic Trinidad and Tobago laws",
+    "url": "https://www.theguardian.com/world/2026/nov/10/activist-jason-jones-wins-10-year-fight-against-homophobic-trinidad-tobago-laws",
+    "source": "The Guardian World",
+    "summary": "Jason Jones welcomes decision by privy council in London to overturn 2025 ruling that outlawed anal sex A gay man has won a historic 10-year battle against Trinidad and Tobago’s homophobic laws with a landmark UK appeals court ruling that could help overturn similar anti-gay laws in other Caribbean countries. The privy council, based in London, overturned a 2025 decision by Trinidad and Tobago’s c",
+    "published_at": "2026-11-10T17:55:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ed73d7ea38c9",
+  "headline": "Inside devastated front-line city that Russia wants Ukraine to give up",
+  "section": "world",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T17:00:11+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+    "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+    "published_at": "2026-11-10T17:00:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   },
+   {
+    "title": "US, Russia and Ukraine start talks in Abu Dhabi",
+    "url": "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "Peace talks between Russia, Ukraine and the US are getting underway in the United Arab Emirates. It is the first such meeting since February. DW has the latest updates.",
+    "published_at": "2026-11-10T07:09:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   }
+  ]
+ },
+ {
+  "id": "c0f4e3e7a6ca",
+  "headline": "Photos: Crowds greet Pope Leo in Argentina after 40-year wait",
+  "section": "world",
+  "score": 44,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T17:48:27+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Photos: Crowds greet Pope Leo in Argentina after 40-year wait",
+    "url": "https://www.aljazeera.com/gallery/2026/11/10/photos-historic-crowds-greet-pope-leo-xiv-in-argentina-after-40-year-wait?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Pope Leo XIV urges Argentinians to emulate their saints during his landmark visit, drawing crowds not seen for decades.",
+    "published_at": "2026-11-10T17:48:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   },
+   {
+    "title": "Pope Leo XIV visits Argentina in second leg of Latin American tour",
+    "url": "https://www.france24.com/en/video/20261110-pope-leo-xiv-visits-argentina-in-second-leg-of-latin-american-tour",
+    "source": "France 24",
+    "summary": "Pope Leo XIV visited Argentina on the second leg of his South American tour, following a stop in Uruguay. During his visit, he celebrated public Masses, met with the faithful and held talks with religious and government leaders. Peru is the final stop on the pontiff's tour.",
+    "published_at": "2026-11-10T16:38:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   }
+  ]
+ },
+ {
+  "id": "ebecec327f45",
+  "headline": "This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska. Now, He's Found a New Home in Florida",
+  "section": "culture",
+  "score": 44,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T16:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska. Now, He's Found a New Home in Florida",
+    "url": "https://www.smithsonianmag.com/smart-news/this-adorable-orphaned-baby-walrus-was-rescued-by-two-researchers-in-alaska-now-hes-found-a-new-home-in-florida-180989847/",
+    "source": "Smithsonian Mag",
+    "summary": "The scientists were conducting fieldwork on a remote beach in northwestern Alaska when they spotted the roughly 5-month-old calf. The little one, named Annautaq, will not be able to return to the wild because he requires constant human care and will become too habituated to people",
+    "published_at": "2026-11-10T16:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   }
+  ]
+ },
+ {
   "id": "6f06cf85fa11",
   "headline": "Israel's president tasks opposition leader Eisenkot with forming government",
   "section": "world",
@@ -3868,37 +3934,6 @@
     "published_at": "2026-11-06T21:41:20+00:00",
     "source_countries": [],
     "seen_at": "2026-11-10T09:20:46+00:00"
-   }
-  ]
- },
- {
-  "id": "a3e2b24eafb5",
-  "headline": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-  "section": "business",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-11-04T21:41:15+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-    "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-    "published_at": "2026-11-04T21:41:15+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
-   },
-   {
-    "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-    "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
-    "published_at": "2026-11-04T21:41:15+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
    }
   ]
  },
@@ -4275,6 +4310,37 @@
   ]
  },
  {
+  "id": "87cfd790eced",
+  "headline": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+  "section": "world",
+  "score": 42,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T15:39:26+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+    "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+    "source": "The Guardian World",
+    "summary": "Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sending humanitarian aid to the territory. The seven-time Formula One world champion has spoken out about conflict and humanitarian crises in the region, and has called for peace. He has frequent",
+    "published_at": "2026-11-10T15:39:26+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   },
+   {
+    "title": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
+    "published_at": "2026-11-10T15:21:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   }
+  ]
+ },
+ {
   "id": "a69ca791a9b3",
   "headline": "Norris takes pole in rain-delayed qualifying",
   "section": "sport",
@@ -4430,33 +4496,33 @@
   ]
  },
  {
-  "id": "b3534df0c874",
-  "headline": "Houthis say at least 25 killed in Saudi air strike",
-  "section": "world",
-  "score": 40,
+  "id": "952761630128",
+  "headline": "Nvidia has a Jensen Huang problem—and no obvious successor",
+  "section": "tech",
+  "score": 41,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-11-07T17:09:24+00:00",
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T14:53:05+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Houthis say at least 25 killed in Saudi air strike",
-    "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-    "published_at": "2026-11-07T17:09:24+00:00",
+    "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+    "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+    "source": "Ars Technica",
+    "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+    "published_at": "2026-11-10T14:53:05+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
    },
    {
-    "title": "Houthis report 25 killed in Yemen strikes",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
-    "published_at": "2026-11-07T17:39:23+00:00",
+    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch",
+    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "published_at": "2026-11-10T17:04:19+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
    }
   ]
  },
@@ -5293,64 +5359,42 @@
   ]
  },
  {
-  "id": "6771d1cfcb7b",
-  "headline": "Bluetti Apex 200 2,560Wh power station exclusive $1,044 in Early Black Friday deals, Velotric e-bikes up to $760 off, Segway, more",
-  "section": "motoring",
-  "score": 38,
+  "id": "e82159b15cfc",
+  "headline": "US Pentagon chief Pete Hegseth calls impeachment moves 'a farce'",
+  "section": "world",
+  "score": 39,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-11-06T19:00:00+00:00",
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T16:43:39+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Bluetti Apex 200 2,560Wh power station exclusive $1,044 in Early Black Friday deals, Velotric e-bikes up to $760 off, Segway, more",
-    "url": "https://electrek.co/2026/11/06/bluetti-apex-200-2560wh-power-station-black-friday-velotric-e-bikes-segway-more/",
-    "source": "Electrek",
-    "summary": "This week’s closing Green Deals edition is packed with some great Early Black Friday savings, starting with the freshly launched Bluetti holiday lineup , which includes the new Apex 200 2,560Wh Power Station that just hit the market with an exclusive $1,044 starting price. That’s not all, as we also have Jackery’s early Black Friday offers , too. There’s also Velotric’s best prices of the year , w",
-    "published_at": "2026-11-06T19:00:00+00:00",
+    "title": "US Pentagon chief Pete Hegseth calls impeachment moves 'a farce'",
+    "url": "https://www.france24.com/en/video/20261110-us-pentagon-chief-pete-hegseth-calls-impeachment-moves-a-farce",
+    "source": "France 24",
+    "summary": "US Defence Secretary Pete Hegseth on Tuesday, November 10, called an effort to impeach him over ​abuse of power in the Iran war a farce and sabotage that plays into the hands of adversaries. FRANCE 24's International Affairs Commentator Douglas Herbert has more.",
+    "published_at": "2026-11-10T16:43:39+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
    },
    {
-    "title": "BLUETTI’s flexible $1,099 Apex 200 backs up your home – and powers your RV",
-    "url": "https://electrek.co/2026/11/04/bluetti-apex-200-backs-up-your-home-and-powers-your-rv/",
-    "source": "Electrek",
-    "summary": "What do you actually need to keep running when the power goes out? For most households, the fridge, wifi, phones, and a few other essentials come first. Buying enough battery storage for every appliance in the house can come later – and that’s the appeal of BLUETTI’s latest launch, the Apex 200 portable power station . more…",
-    "published_at": "2026-11-05T02:00:00+00:00",
+    "title": "Who exactly is Pete Hegseth, the Pentagon chief facing an impeachment bid?",
+    "url": "https://www.france24.com/en/video/20261110-who-exactly-is-pete-hegseth-the-pentagon-chief-facing-an-impeachment-bid",
+    "source": "France 24",
+    "summary": "US Defence Secretary Pete Hegseth on Tuesday dismissed the impeachment effort against him as \"a political spectacle\". He made the comments a day after Republican Thomas Massie launched a bid to impeach him over his handling of the unpopular war in Iran and other actions. But who is Pete Hegseth? A former Fox News host and military veteran, he has become one of the most prominent figures in the Tru",
+    "published_at": "2026-11-10T16:41:45+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
-   }
-  ]
- },
- {
-  "id": "96aa397c5848",
-  "headline": "Video Friday: Robot Decommissioning Takes a Fun Turn",
-  "section": "ai",
-  "score": 38,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-10-09T15:30:02+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
-    "url": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enjoy today’s videos! It’s possible that I wasn’t the only one w",
-    "published_at": "2026-10-09T15:30:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
    },
    {
-    "title": "Video Friday: Life’s Better With a Little Robot Goose",
-    "url": "https://spectrum.ieee.org/video-friday-goose-household-robots",
-    "source": "IEEE Spectrum Robotics",
-    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. IROS 2026 : 27 September–1 October 2026, PITTSBURGH CoRL 2026 : 9–12 November 2026, AUSTIN, TEXAS Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CALIF. E",
-    "published_at": "2026-09-25T16:00:04+00:00",
+    "title": "REPLAY: Pentagon chief Hegseth holds news briefing amid impeachment push",
+    "url": "https://www.france24.com/en/video/20261110-replay-pentagon-chief-hegseth-holds-news-briefing-amid-impeachment-push",
+    "source": "France 24",
+    "summary": "US ​Defence Secretary Pete Hegseth on Tuesday called ​moves to impeach him over abuse of power in the Iran war a \"farce\" that ​would ‌fail. Hegseth made the comment ⁠at a news conference – his first since May – a day after US Representative ‌Thomas Massie, a Kentucky Republican, introduced eight ⁠articles of impeachment against him. Watch our replay.",
+    "published_at": "2026-11-10T16:23:38+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
    }
   ]
  },
@@ -6023,86 +6067,64 @@
   ]
  },
  {
-  "id": "805dafe9e984",
-  "headline": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+  "id": "a1514935e728",
+  "headline": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
   "section": "business",
-  "score": 37,
+  "score": 38,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-11-07T17:24:07+00:00",
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T16:13:13+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-    "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-    "source": "TechCrunch",
-    "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-    "published_at": "2026-11-07T17:24:07+00:00",
+    "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
+    "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
+    "source": "Guardian Business",
+    "summary": "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AI Anthropic is seeking a valuation of up to $1.4tn (£1.05tn) in its imminent stock market flotation , short of the $2tn that had been expected before investors started to question the durability of the AI boom. The developer of the Claude chatbot was widely reported to be targeting a $2t",
+    "published_at": "2026-11-10T16:13:13+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
    },
    {
-    "title": "Binance CFO exits days after catastrophic $6 billion crypto hack",
-    "url": "https://www.investing.com/news/stock-market-news/binance-cfo-exits-days-after-catastrophic-6-billion-crypto-hack-5009968",
-    "source": "Investing.com",
-    "summary": "",
-    "published_at": "2026-11-07T17:06:29+00:00",
+    "title": "Anthropic targets $1.4 trillion valuation in massive stock market debut",
+    "url": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "The maker of Claude is looking to raise up to $64.4bn in one of the largest IPOs in history next week.",
+    "published_at": "2026-11-10T17:21:58+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
    }
   ]
  },
  {
-  "id": "aff8c97b0bc1",
-  "headline": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-  "section": "science",
-  "score": 37,
-  "sources_count": 1,
+  "id": "e65f1a95fdc7",
+  "headline": "Polestar has a new look with its Formula 2030 concept",
+  "section": "motoring",
+  "score": 38,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-11-07T18:11:57+00:00",
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T14:22:02+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-    "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
-    "source": "NASA",
-    "summary": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation […]",
-    "published_at": "2026-11-07T18:11:57+00:00",
+    "title": "Polestar has a new look with its Formula 2030 concept",
+    "url": "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+    "source": "Ars Technica",
+    "summary": "The shape looks like a Saab Aero-X, but the nose previews the next Polestar 2.",
+    "published_at": "2026-11-10T14:22:02+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
-   }
-  ]
- },
- {
-  "id": "580fb51045f4",
-  "headline": "Nottingham Forest v Manchester City: Premier League – live",
-  "section": "sport",
-  "score": 37,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-11-07T18:13:41+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Nottingham Forest v Manchester City: Premier League – live",
-    "url": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
-    "source": "Guardian Sport",
-    "summary": "⚽ Premier League updates from the 5.30pm GMT kick-off ⚽ Live scores | Full tables | Follow us on TikTok | Mail Tom We’re off at the City Ground. Before kick-off, we’ll hear The Last Post. Remembrance Sunday is tomorrow. Continue reading...",
-    "published_at": "2026-11-07T18:13:41+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
    },
    {
-    "title": "Manchester City break clear of Chelsea in WSL after Bronze’s freak own goal",
-    "url": "https://www.theguardian.com/football/2026/nov/07/manchester-city-chelsea-everton-west-ham-wsl-roundup",
-    "source": "Guardian Sport",
-    "summary": "Khadija Shaw hits hat-trick in City’s 5-0 rout of West Ham Chelsea held 1-1 by Everton after Lucy Bronze own goal An own goal by defender Lucy Bronze ⁠against Everton cost Chelsea top spot in the Women’s ⁠Super League as ⁠they ​were held to a 1-1 draw at home, allowing Manchester City ⁠to leapfrog them with a 5-0 drubbing of West Ham. Bronze headed ⁠the ball back across the goal to tee ​up Sandy B",
-    "published_at": "2026-11-07T15:11:59+00:00",
+    "title": "Polestar unveils Formula 2030 concept, previewing the next Polestar 2",
+    "url": "https://electrek.co/2026/11/10/polestar-formula-2030-concept-unveiled-next-polestar-2/",
+    "source": "Electrek",
+    "summary": "Polestar has now fully unveiled the Formula 2030 concept, a low four-door electric sports car that previews the design of the next-generation Polestar 2 coming in 2027 and the Polestar 7 compact SUV. The concept sits just 1,350 mm (53 inches) tall, which is lower than the Polestar 5 grand tourer, and it brings physical buttons back into the Swedish brand’s interior. more…",
+    "published_at": "2026-11-10T14:10:36+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
    }
   ]
  },
@@ -6584,37 +6606,6 @@
     "published_at": "2026-11-10T13:18:30+00:00",
     "source_countries": [],
     "seen_at": "2026-11-10T15:19:27+00:00"
-   }
-  ]
- },
- {
-  "id": "fa06ff8fdc83",
-  "headline": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-  "section": "tech",
-  "score": 36,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-11-07T15:50:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-    "source": "The Verge",
-    "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
-    "published_at": "2026-11-07T15:50:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
-   },
-   {
-    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-    "source": "The Verge AI",
-    "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
-    "published_at": "2026-11-07T15:50:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
    }
   ]
  },
@@ -7555,77 +7546,64 @@
   ]
  },
  {
-  "id": "2227d0d9b696",
-  "headline": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+  "id": "706bbfbc568c",
+  "headline": "‘It’s a farce’: Hegseth slams impeachment effort",
   "section": "world",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-11-07T07:27:44+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-    "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
-    "published_at": "2026-11-07T07:27:44+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
-   }
-  ]
- },
- {
-  "id": "b348eade91a2",
-  "headline": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
-  "section": "business",
-  "score": 35,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-11-07T14:00:14+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
-    "url": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
-    "source": "Guardian Business",
-    "summary": "Tech companies like the idea, as they largely eliminate community opposition, and could cut down on utility costs While Elon Musk has often touted putting datacenters in space, reports suggest that another geographic area may soon become a widespread target: our lakes and oceans . Two underwater datacenters are already in operation off the coast of China, and recent reports suggest that the Trump ",
-    "published_at": "2026-11-07T14:00:14+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
-   }
-  ]
- },
- {
-  "id": "73be1ddc7ff2",
-  "headline": "The US let Nvidia sell chips to an empty office in China",
-  "section": "ai",
-  "score": 35,
+  "score": 36,
   "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-11-07T15:43:45+00:00",
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T16:10:11+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "The US let Nvidia sell chips to an empty office in China",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-    "source": "The Verge",
-    "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
-    "published_at": "2026-11-07T15:43:45+00:00",
+    "title": "‘It’s a farce’: Hegseth slams impeachment effort",
+    "url": "https://www.france24.com/en/video/20261110-it-s-a-farce-hegseth-slams-impeachment-effort",
+    "source": "France 24",
+    "summary": "US Defense Secretary Pete Hegseth dismissed a move to impeach him by a Republican lawmaker as a “farce” and a political “stunt” on Tuesday. It came a day after outgoing US Representative Thomas Massie introduced eight articles of impeachment against Hegseth over his handling of the war with Iran and other alleged abuses of power.",
+    "published_at": "2026-11-10T16:10:11+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
    },
    {
-    "title": "The US let Nvidia sell chips to an empty office in China",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-    "source": "The Verge AI",
-    "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
-    "published_at": "2026-11-07T15:43:45+00:00",
+    "title": "Hegseth impeachment: What is he accused of, and could he be removed?",
+    "url": "https://www.aljazeera.com/news/2026/11/10/hegseth-impeachment-what-is-he-accused-of-and-could-he-be-removed?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Eight articles brought by a Republican lawmaker accuse US Pentagon chief of waging unlawful wars on Iran and Venezuela.",
+    "published_at": "2026-11-10T14:45:22+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   }
+  ]
+ },
+ {
+  "id": "7ac1a3b2939b",
+  "headline": "The indie game community is in disarray over AI and Big Walk",
+  "section": "tech",
+  "score": 36,
+  "sources_count": 2,
+  "depth_signal": 2,
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T17:32:47+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "source": "The Verge",
+    "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult […]",
+    "published_at": "2026-11-10T17:32:47+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   },
+   {
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "source": "The Verge AI",
+    "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult […]",
+    "published_at": "2026-11-10T17:32:47+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
    }
   ]
  },
@@ -8348,46 +8326,55 @@
   ]
  },
  {
-  "id": "15d8b099cf45",
-  "headline": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
-  "section": "science",
-  "score": 34,
-  "sources_count": 1,
+  "id": "7396b577c725",
+  "headline": "ChatGPT is getting verified AI ‘Business Agents’",
+  "section": "ai",
+  "score": 35,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-11-05T00:00:00+00:00",
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T18:00:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
-    "url": "https://www.nature.com/articles/s41586-026-11336-3",
-    "source": "Nature News",
-    "summary": "Nature, Published online: 05 November 2026; doi:10.1038/s41586-026-11336-3 Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
-    "published_at": "2026-11-05T00:00:00+00:00",
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "source": "The Verge",
+    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
+    "published_at": "2026-11-10T18:00:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
+   },
+   {
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "source": "The Verge AI",
+    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
+    "published_at": "2026-11-10T18:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
    }
   ]
  },
  {
-  "id": "ef9283b4b8b3",
-  "headline": "Outlier, Glasgow G1: ‘This kind of carefully orchestrated can’t-be-arsedness is really quite magical’ – restaurant review | Grace Dent on restaurants",
-  "section": "food",
-  "score": 34,
+  "id": "7646e96e2e7b",
+  "headline": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+  "section": "safety",
+  "score": 35,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-11-07T18:18:52+00:00",
-  "event_time": "2026-10-25T06:00:55+00:00",
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T15:33:59+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Outlier, Glasgow G1: ‘This kind of carefully orchestrated can’t-be-arsedness is really quite magical’ – restaurant review | Grace Dent on restaurants",
-    "url": "https://www.theguardian.com/food/2026/oct/25/outlier-glasgow-g1-grace-dent-restaurant-review",
-    "source": "Guardian Food",
-    "summary": "You cannot fake fabulous by simply buying in cool crockery and a freezer full of someone else’s pastry In my misspent youth, I’d head to Glasgow to watch the likes of Fields of the Nephilim and Hawkwind at the Barrowland Ballroom , drink snakebite and buy posters from the touts on Gallowgate to Blu-Tack to my bedroom wall and tear holes in my mother’s woodchip wallpaper. Today, however, I’m here t",
-    "published_at": "2026-10-25T06:00:55+00:00",
+    "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+    "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+    "source": "The Hacker News",
+    "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice published on October 10, 2026, the company said it detected unauthorized use of internal Fireworks",
+    "published_at": "2026-11-10T15:33:59+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-07T18:18:49+00:00"
+    "seen_at": "2026-11-10T18:20:09+00:00"
    }
   ]
  },
@@ -9287,6 +9274,28 @@
     "published_at": "2026-11-09T15:54:07+00:00",
     "source_countries": [],
     "seen_at": "2026-11-09T18:21:19+00:00"
+   }
+  ]
+ },
+ {
+  "id": "18e836c17680",
+  "headline": "People in deprived areas of England more than twice as likely to die early, study shows",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-11-10T18:20:13+00:00",
+  "event_time": "2026-11-10T16:19:41+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "People in deprived areas of England more than twice as likely to die early, study shows",
+    "url": "https://www.theguardian.com/news/2026/nov/10/early-death-deprived-areas-england",
+    "source": "The Guardian World",
+    "summary": "Premature death risk also varies according to employment and qualifications, shows analysis ‘laying bare the scale of inequalities’ People living in the most deprived areas of England are more than twice as likely to die prematurely than their more affluent counterparts, according to analysis. The research, conducted by the Health Foundation, took demographic data from the 2021 census to look at d",
+    "published_at": "2026-11-10T16:19:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-10T18:20:09+00:00"
    }
   ]
  }
