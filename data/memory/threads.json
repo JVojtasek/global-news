@@ -1556,46 +1556,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "openai",
-    "deepseek",
-    "trump",
-    "cnbc",
-    "face",
     "valley",
-    "hugging",
-    "data",
-    "drove",
-    "hackers",
-    "qubole's",
-    "huawei",
-    "megaspeed",
-    "security",
-    "unexpected",
-    "cyberattack",
-    "huang",
-    "access",
-    "trusted",
-    "jensen",
-    "nvidia's",
+    "deepseek",
     "chinese",
-    "steal",
-    "alibaba",
+    "unexpected",
+    "cnbc",
+    "openai",
     "china",
-    "experts",
-    "faisal",
-    "hacking",
+    "face",
+    "steal",
+    "islam",
     "exploit",
+    "hackers",
+    "huawei",
+    "jensen",
     "suffers",
-    "base",
-    "assets",
-    "goodfire",
-    "huang's",
-    "labs",
-    "nvidia",
+    "megaspeed",
+    "york",
+    "huang",
     "reward",
-    "cyberattacks",
+    "qubole's",
+    "base",
+    "hacking",
+    "nvidia",
+    "trusted",
+    "goodfire",
+    "nvidia's",
+    "access",
+    "data",
+    "cyberattack",
     "silicon",
-    "islam"
+    "trump",
+    "experts",
+    "alibaba",
+    "cyberattacks",
+    "assets",
+    "drove",
+    "huang's",
+    "security",
+    "labs",
+    "hugging"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -1645,7 +1645,8 @@
     "d95ad1c3fe30",
     "78aa026d0c91",
     "1c52468d7a99",
-    "952761630128"
+    "952761630128",
+    "d68f526af6ae"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-10",
@@ -2206,6 +2207,18 @@
      "links": [
       "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
       "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+     "sources": 7,
+     "score": 83,
+     "event_id": "d68f526af6ae",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -3366,6 +3379,216 @@
    ]
   },
   {
+   "id": "2c2b2700dd7b",
+   "title": "Microsoft Patches a Record 570 Security Flaws",
+   "section": "safety",
+   "entities": [
+    "target",
+    "cisa",
+    "actively",
+    "execute",
+    "keys",
+    "days",
+    "disclosure",
+    "malicious",
+    "microsoft",
+    "drupal",
+    "critical",
+    "commerce",
+    "flaw",
+    "allowing",
+    "highly",
+    "collabora",
+    "hours",
+    "patches",
+    "linux",
+    "lets",
+    "hackers",
+    "within",
+    "repositories",
+    "attackers",
+    "palo",
+    "sshole",
+    "clones",
+    "remote",
+    "command",
+    "arista",
+    "openssh",
+    "siemens",
+    "backdoors",
+    "code",
+    "lazarus",
+    "software",
+    "record",
+    "cisco",
+    "weaponized",
+    "execution"
+   ],
+   "event_ids": [
+    "2c2b2700dd7b",
+    "42a9e60af11b",
+    "838b4b1ce253",
+    "29d08fa787d9",
+    "aabd8e14b270",
+    "cf5c346fcefd",
+    "7325900e53d9",
+    "6d2a0802c49f",
+    "f4eff089be53",
+    "3e6bc640da57",
+    "a40dff3d749a",
+    "d7669d6db99e",
+    "b86930e18372"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-11-10",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "Microsoft Patches a Record 570 Security Flaws",
+     "sources": 2,
+     "score": 56,
+     "event_id": "2c2b2700dd7b",
+     "links": [
+      "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+     "sources": 1,
+     "score": 46,
+     "event_id": "42a9e60af11b",
+     "links": [
+      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+     "sources": 1,
+     "score": 44,
+     "event_id": "838b4b1ce253",
+     "links": [
+      "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+     "sources": 1,
+     "score": 44,
+     "event_id": "29d08fa787d9",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+      "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+     "sources": 1,
+     "score": 44,
+     "event_id": "aabd8e14b270",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+     "sources": 2,
+     "score": 50,
+     "event_id": "cf5c346fcefd",
+     "links": [
+      "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+     "sources": 1,
+     "score": 46,
+     "event_id": "7325900e53d9",
+     "links": [
+      "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+     "sources": 1,
+     "score": 44,
+     "event_id": "6d2a0802c49f",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+     "sources": 1,
+     "score": 44,
+     "event_id": "f4eff089be53",
+     "links": [
+      "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+     "sources": 1,
+     "score": 44,
+     "event_id": "3e6bc640da57",
+     "links": [
+      "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "https://thehackernews.com/2026/11/attackers-target-unpatched.html"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+     "sources": 1,
+     "score": 44,
+     "event_id": "a40dff3d749a",
+     "links": [
+      "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+     "sources": 2,
+     "score": 52,
+     "event_id": "d7669d6db99e",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b86930e18372",
+     "links": [
+      "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html"
+     ]
+    }
+   ]
+  },
+  {
    "id": "9739585c4084",
    "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
    "section": "world",
@@ -3527,21 +3750,21 @@
    "title": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
    "section": "world",
    "entities": [
-    "dana",
     "kimberly",
-    "zacharia's",
-    "trump",
-    "ambassador",
-    "inside",
-    "ai-edited",
-    "white",
-    "guilfoyle",
-    "miller",
+    "dana",
     "stephen",
     "ufc's",
     "greece",
+    "miller",
+    "white",
     "monday",
+    "ai-edited",
+    "inside",
+    "trump",
     "house",
+    "guilfoyle",
+    "zacharia's",
+    "ambassador",
     "katie"
    ],
    "event_ids": [
@@ -3554,7 +3777,8 @@
     "92173ed13325",
     "3b8092eeb96f",
     "814d1a2b6376",
-    "7aa2ed76477d"
+    "7aa2ed76477d",
+    "e2e75fdcf2d7"
    ],
    "first_seen": "2026-10-13",
    "last_seen": "2026-11-10",
@@ -3672,6 +3896,17 @@
      "links": [
       "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/tv-shows/truth-or-fake/20261109-trump-says-he-was-kidding-about-dana-white-press-secretary-job-amid-online-mix-up-claims"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "White House announces funds for law enforcement programme in several cities",
+     "sources": 2,
+     "score": 42,
+     "event_id": "e2e75fdcf2d7",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+      "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html"
      ]
     }
    ]
@@ -3822,6 +4057,113 @@
      "links": [
       "https://www.aljazeera.com/gallery/2026/11/10/photos-historic-crowds-greet-pope-leo-xiv-in-argentina-after-40-year-wait?traffic_source=rss",
       "https://www.france24.com/en/video/20261110-pope-leo-xiv-visits-argentina-in-second-leg-of-latin-american-tour"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "94761ad38bf7",
+   "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+   "section": "tech",
+   "entities": [
+    "edge",
+    "google",
+    "fitbit",
+    "xcpe",
+    "android",
+    "pixel"
+   ],
+   "event_ids": [
+    "94761ad38bf7",
+    "cf70bce2fbbe",
+    "706b05ecb86e",
+    "e288f767d754",
+    "57c9de67bce4",
+    "f8e64d371b0e",
+    "cc0d880dedf5"
+   ],
+   "first_seen": "2026-08-12",
+   "last_seen": "2026-11-10",
+   "timeline": [
+    {
+     "date": "2026-08-12",
+     "headline": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+     "sources": 5,
+     "score": 81,
+     "event_id": "94761ad38bf7",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
+      "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
+      "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
+     ]
+    },
+    {
+     "date": "2026-08-19",
+     "headline": "Google Pixel 11 series review: Is the magic fading?",
+     "sources": 2,
+     "score": 43,
+     "event_id": "cf70bce2fbbe",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+      "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Google fixes actively exploited Android zero-day on Pixel devices",
+     "sources": 2,
+     "score": 54,
+     "event_id": "706b05ecb86e",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
+      "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+      "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e288f767d754",
+     "links": [
+      "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+      "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
+     "sources": 2,
+     "score": 40,
+     "event_id": "57c9de67bce4",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
+      "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+     "sources": 2,
+     "score": 46,
+     "event_id": "f8e64d371b0e",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Google’s Pixel Tag tracker is now available",
+     "sources": 2,
+     "score": 44,
+     "event_id": "cc0d880dedf5",
+     "links": [
+      "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+      "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/"
      ]
     }
    ]
@@ -4005,6 +4347,34 @@
       "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aed83b0c0f81",
+   "title": "David Walliams accused of sexual misconduct after losing injunction bid",
+   "section": "culture",
+   "entities": [
+    "david",
+    "walliams"
+   ],
+   "event_ids": [
+    "aed83b0c0f81"
+   ],
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "headline": "David Walliams accused of sexual misconduct after losing injunction bid",
+     "sources": 3,
+     "score": 56,
+     "event_id": "aed83b0c0f81",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women",
+      "https://www.aljazeera.com/news/2026/11/10/uk-comedian-and-childrens-author-david-walliams-accused-of-grooming-minors?traffic_source=rss"
      ]
     }
    ]
@@ -6545,204 +6915,6 @@
      "links": [
       "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
       "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2c2b2700dd7b",
-   "title": "Microsoft Patches a Record 570 Security Flaws",
-   "section": "safety",
-   "entities": [
-    "hours",
-    "code",
-    "commerce",
-    "rented",
-    "attackers",
-    "gain",
-    "target",
-    "arista",
-    "keys",
-    "highly",
-    "honeypot",
-    "within",
-    "siemens",
-    "days",
-    "execution",
-    "bypass",
-    "record",
-    "openssh",
-    "plant",
-    "allowing",
-    "command",
-    "lazarus",
-    "weaponized",
-    "disclosure",
-    "drupal",
-    "palo",
-    "critical",
-    "sshole",
-    "software",
-    "hackers",
-    "remote",
-    "collabora",
-    "cisco",
-    "linux",
-    "south",
-    "microsoft",
-    "flaw",
-    "backdoors",
-    "cisa",
-    "actively"
-   ],
-   "event_ids": [
-    "2c2b2700dd7b",
-    "42a9e60af11b",
-    "838b4b1ce253",
-    "29d08fa787d9",
-    "aabd8e14b270",
-    "cf5c346fcefd",
-    "7325900e53d9",
-    "6d2a0802c49f",
-    "f4eff089be53",
-    "3e6bc640da57",
-    "a40dff3d749a",
-    "d7669d6db99e"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-11-09",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "Microsoft Patches a Record 570 Security Flaws",
-     "sources": 2,
-     "score": 56,
-     "event_id": "2c2b2700dd7b",
-     "links": [
-      "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-      "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-     "sources": 1,
-     "score": 46,
-     "event_id": "42a9e60af11b",
-     "links": [
-      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-      "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-     "sources": 1,
-     "score": 44,
-     "event_id": "838b4b1ce253",
-     "links": [
-      "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-     "sources": 1,
-     "score": 44,
-     "event_id": "29d08fa787d9",
-     "links": [
-      "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-     "sources": 1,
-     "score": 44,
-     "event_id": "aabd8e14b270",
-     "links": [
-      "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-      "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-     "sources": 2,
-     "score": 50,
-     "event_id": "cf5c346fcefd",
-     "links": [
-      "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-     "sources": 1,
-     "score": 46,
-     "event_id": "7325900e53d9",
-     "links": [
-      "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-     "sources": 1,
-     "score": 44,
-     "event_id": "6d2a0802c49f",
-     "links": [
-      "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-     "sources": 1,
-     "score": 44,
-     "event_id": "f4eff089be53",
-     "links": [
-      "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-     "sources": 1,
-     "score": 44,
-     "event_id": "3e6bc640da57",
-     "links": [
-      "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-      "https://thehackernews.com/2026/11/attackers-target-unpatched.html"
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-     "sources": 1,
-     "score": 44,
-     "event_id": "a40dff3d749a",
-     "links": [
-      "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-     "sources": 2,
-     "score": 52,
-     "event_id": "d7669d6db99e",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
-      "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html"
      ]
     }
    ]
@@ -13814,100 +13986,6 @@
       "https://www.theguardian.com/uk-news/2026/nov/03/king-charles-commonwealth-summit-campaigners-apology-slavery",
       "https://www.aljazeera.com/news/2026/11/3/uks-king-charles-expresses-profound-sorrow-over-transatlantic-slave-era?traffic_source=rss",
       "https://www.france24.com/en/europe/20261103-king-charles-says-he-has-greater-understanding-of-horrors-of-slavery-falls-short-of-apology"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "94761ad38bf7",
-   "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-   "section": "tech",
-   "entities": [
-    "pixel",
-    "fitbit",
-    "android",
-    "google",
-    "edge",
-    "xcpe"
-   ],
-   "event_ids": [
-    "94761ad38bf7",
-    "cf70bce2fbbe",
-    "706b05ecb86e",
-    "e288f767d754",
-    "57c9de67bce4",
-    "f8e64d371b0e"
-   ],
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-11-02",
-   "timeline": [
-    {
-     "date": "2026-08-12",
-     "headline": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
-     "sources": 5,
-     "score": 81,
-     "event_id": "94761ad38bf7",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
-      "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
-      "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
-     ]
-    },
-    {
-     "date": "2026-08-19",
-     "headline": "Google Pixel 11 series review: Is the magic fading?",
-     "sources": 2,
-     "score": 43,
-     "event_id": "cf70bce2fbbe",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
-      "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-      "https://www.theverge.com/tech/981957/google-pixel-watch-5-review-wearables-smartwatch"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Google fixes actively exploited Android zero-day on Pixel devices",
-     "sources": 2,
-     "score": 54,
-     "event_id": "706b05ecb86e",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-      "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-      "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e288f767d754",
-     "links": [
-      "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
-      "https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air",
-     "sources": 2,
-     "score": 40,
-     "event_id": "57c9de67bce4",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-      "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
-     "sources": 2,
-     "score": 46,
-     "event_id": "f8e64d371b0e",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
-      "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html"
      ]
     }
    ]
@@ -22110,5 +22188,5 @@
    ]
   }
  ],
- "updated": "2026-11-10T18:20:13+00:00"
+ "updated": "2026-11-10T21:18:49+00:00"
 }

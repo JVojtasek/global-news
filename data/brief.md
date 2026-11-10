@@ -73,7 +73,36 @@
     <https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference>
     > President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been "​​unfaithful" to his wife, and the company has opened 
 
-### 3. Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump
+### 3. Nvidia hires major New York law firm to investigate Jensen Huang affair
+- id události: `d68f526af6ae`  ·  rubrika: `business`  ·  skóre: 83  ·  nezávislých zdrojů: 7
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Nvidia hires major New York law firm to investigate Jensen Huang affair
+    <https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss>
+    > The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.
+  - **BBC Business** — Nvidia hires major New York law firm to investigate Jensen Huang affair
+    <https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss>
+    > The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.
+  - **BBC Technology** — Nvidia hires major New York law firm to investigate Jensen Huang affair
+    <https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss>
+    > The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.
+  - **Guardian Business** — Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video
+    <https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang>
+    > Donald Trump defended defense secretary Pete Hegseth, who is facing an impeachment resolution from Republican senator Thomas Massie, saying Hegseth 'won two wars'. The president, who said he had spoken to Nvidia CEO Jensen Huang, said he was 'amazed' by claims Huang conducted an 
+  - **CNBC Top** — Nvidia hires law firm Wachtell Lipton to lead Jensen Huang affair probe
+    <https://www.cnbc.com/2026/11/10/nvidia-wachtell-lipton-huang-affair.html>
+    > On Sunday, Huang admitted to having an affair with a woman who has been connected to Chinese intelligence by reports in The New York Times and Financial Times.
+  - **CNBC Top** — Op-ed: In Nvidia CEO Jensen Huang's alleged China spy scandal, there's plenty of blame to go around
+    <https://www.cnbc.com/2026/11/10/nvidia-ceo-jensen-huang-china-spy-scandal.html>
+    > In the AI era, our economic competitiveness, military capabilities, and intelligence edge can be taken down by one man. We aren't prepared. Congress must act.
+  - **The Verge** — The US is winning the AI race. Jensen Huang could have blown it
+    <https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy>
+    > As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He 
+  - **The Verge AI** — The US is winning the AI race. Jensen Huang could have blown it
+    <https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy>
+    > As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He 
+
+### 4. Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump
 - id události: `42ec1e7471a4`  ·  rubrika: `business`  ·  skóre: 79  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -95,30 +124,6 @@
   - **CNBC Top** — CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right
     <https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html>
     > Following the latest Trump-Xi summit, China pledged further opening of its financial market to companies from all countries, including the U.S.
-
-### 4. Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence
-- id události: `2b527a5d8a86`  ·  rubrika: `business`  ·  skóre: 78  ·  nezávislých zdrojů: 6
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **The Guardian World** — Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence
-    <https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation>
-    > CEO reportedly ‌had close relationship ‌with a Chinese businesswoman who passed information to ‌Beijing Nvidia said ⁠on Sunday that it “is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intel
-  - **CNBC Top** — Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy
-    <https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html>
-    > Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.
-  - **TechCrunch** — Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy
-    <https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/>
-    > In a memo to the company, Huang admitted that he had an affair.
-  - **The Verge** — Nvidia is investigating Jensen Huang’s relationship with a Chinese spy
-    <https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy>
-    > Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: 
-  - **The Verge AI** — Nvidia is investigating Jensen Huang’s relationship with a Chinese spy
-    <https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy>
-    > Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: 
-  - **Investing.com** — Nvidia CEO Huang admits to affair, apologizes to employees as probe launched
-    <https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308>
-  - **Investing.com** — Nvidia launches probe after report CEO Huang was target of foreign intelligence
-    <https://www.investing.com/news/stock-market-news/nvidia-launches-probe-after-report-ceo-huang-was-target-of-foreign-intelligence-5010307>
 
 ---
 
