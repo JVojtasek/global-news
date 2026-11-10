@@ -73,7 +73,30 @@
     <https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference>
     > President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been "​​unfaithful" to his wife, and the company has opened 
 
-### 3. Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence
+### 3. Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump
+- id události: `42ec1e7471a4`  ·  rubrika: `business`  ·  skóre: 79  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Business** — Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump
+    <https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss>
+    > Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.
+  - **BBC Technology** — Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump
+    <https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss>
+    > Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.
+  - **TechCrunch** — Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes
+    <https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/>
+    > The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.
+  - **SCMP Tech (Čína)** — Chinese traders still confident of Nvidia GPU access amid Jensen Huang scandal
+    <https://www.scmp.com/tech/big-tech/article/3373855/chinese-traders-still-confident-nvidia-gpu-access-amid-jensen-huang-scandal>
+    > Prices for Nvidia graphics processing units (GPUs) are falling in China’s largest electronics market, as traders shrug off the frenzy of market speculation over tightening export controls in the wake of the US midterm elections and the Jensen Huang affair. The US chip giant’s top
+  - **CNBC Top** — Jim Cramer says Nvidia investors need to prepare for a future without Jensen Huang
+    <https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-probe-data-centers-cramer.html>
+    > Cramer warned that his long-standing "own it, don't trade it" status for Nvidia could be at risk.
+  - **CNBC Top** — CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right
+    <https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html>
+    > Following the latest Trump-Xi summit, China pledged further opening of its financial market to companies from all countries, including the U.S.
+
+### 4. Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence
 - id události: `2b527a5d8a86`  ·  rubrika: `business`  ·  skóre: 78  ·  nezávislých zdrojů: 6
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -96,26 +119,6 @@
     <https://www.investing.com/news/stock-market-news/nvidia-launches-probe-into-reported-espionage-plot-targeting-ceo-jensen-huang-5010308>
   - **Investing.com** — Nvidia launches probe after report CEO Huang was target of foreign intelligence
     <https://www.investing.com/news/stock-market-news/nvidia-launches-probe-after-report-ceo-huang-was-target-of-foreign-intelligence-5010307>
-
-### 4. Republican congressman to force impeachment vote on Defence Secretary Hegseth
-- id události: `dfdd7bb2e5a4`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Republican congressman to force impeachment vote on Defence Secretary Hegseth
-    <https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss>
-    > The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.
-  - **NPR News** — Thomas Massie files articles of impeachment against Defense Secretary Pete Hegseth
-    <https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth>
-    > The articles accuse Hegseth of "high crimes and misdemeanors," including for waging war against Iran in violation of the War Powers Resolution.
-  - **DW News** — Republican Thomas Massie seeks to force House vote on impeaching Defense Secretary Pete Hegseth over Iran war
-    <https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf>
-    > Trump critic Thomas Massie is calling for a vote to impeach Pentagon chief Pete Hegseth, accusing Hegseth of waging war without congressional approval.
-  - **CNBC Top** — Hegseth impeachment articles introduced by Rep. Massie
-    <https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html>
-    > The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth filed by Republican Rep. Thomas Masie.
-  - **France 24** — Republican congressman launches impeachment bid against Pentagon chief Hegseth
-    <https://www.france24.com/en/americas/20261109-republican-congressman-launches-impeachment-bid-against-pentagon-chief-hegseth>
-    > Kentucky congressman Thomas Massie moved on Monday to force a vote in the House of Representatives to impeach Defence Secretary Pete Hegseth, putting pressure on his fellow Republicans to decide whether to remove one of the Trump administration’s most prominent figures following 
 
 ---
 

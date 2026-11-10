@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-10
 
-Paměť obsahuje **192 vláken**. Aktivních za posledních 14 dní: **56**.
+Paměť obsahuje **192 vláken**. Aktivních za posledních 14 dní: **57**.
 
 ---
 
@@ -96,9 +96,9 @@ Paměť obsahuje **192 vláken**. Aktivních za posledních 14 dní: **56**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
-- **Australia news live: Anthony Albanese says OpenAI agent hacked Medicare** — naposledy 2026-09-24, celkem 3 záznamů
 - **US and Denmark reach deal over Greenland after Trump annexation threats** — naposledy 2026-09-22, celkem 3 záznamů
 - **Saxony-Anhalt: Far-right AfD secures huge lead in key vote** — naposledy 2026-09-21, celkem 7 záznamů
 - **Norway's King Harald dies aged 89** — naposledy 2026-09-21, celkem 6 záznamů
 - **Manzambi catches eye as Villa beat Spurs - player ratings** — naposledy 2026-09-19, celkem 3 záznamů
 - **Hong Kong's Tiananmen activists guilty in national security trial** — naposledy 2026-09-11, celkem 6 záznamů
+- **Favourite Kane makes Ballon d'Or shortlist** — naposledy 2026-09-09, celkem 3 záznamů

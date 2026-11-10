@@ -764,46 +764,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "hacking",
-    "qubole's",
-    "unexpected",
-    "access",
-    "data",
-    "labs",
-    "huang's",
-    "assets",
-    "chinese",
-    "reward",
-    "valley",
-    "drove",
-    "cyberattack",
-    "china",
-    "exploit",
-    "base",
-    "huang",
-    "goodfire",
-    "deepseek",
     "accounts",
-    "face",
-    "breach",
-    "alibaba",
-    "experts",
-    "security",
-    "hackers",
-    "trump",
-    "huawei",
-    "trusted",
-    "openai",
-    "steal",
-    "silicon",
-    "binance",
-    "hugging",
-    "jensen",
+    "base",
     "customer",
-    "monday",
-    "cnbc",
+    "jensen",
+    "reward",
+    "goodfire",
+    "experts",
+    "china",
+    "qubole's",
     "nvidia's",
-    "suffers"
+    "drove",
+    "cnbc",
+    "alibaba",
+    "islam",
+    "suffers",
+    "labs",
+    "hacking",
+    "exploit",
+    "huang",
+    "assets",
+    "openai",
+    "huawei",
+    "face",
+    "valley",
+    "steal",
+    "access",
+    "trump",
+    "faisal",
+    "hackers",
+    "security",
+    "silicon",
+    "data",
+    "unexpected",
+    "huang's",
+    "binance",
+    "trusted",
+    "deepseek",
+    "hugging",
+    "chinese",
+    "cyberattack"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -846,7 +846,8 @@
     "bd73ebc7b854",
     "e33d7f6b8276",
     "2eeebfe27c6a",
-    "01c0e8abe460"
+    "01c0e8abe460",
+    "42ec1e7471a4"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-10",
@@ -1326,6 +1327,308 @@
       "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
       "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-probe-data-centers-cramer.html"
      ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+     "sources": 5,
+     "score": 79,
+     "event_id": "42ec1e7471a4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8d4f8a634705",
+   "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+   "section": "world",
+   "entities": [
+    "softbank",
+    "leaders",
+    "hosts",
+    "ipos",
+    "hong",
+    "summit",
+    "european",
+    "wong",
+    "executive",
+    "asian",
+    "industry",
+    "moonshot",
+    "trump's",
+    "journal",
+    "nasdaq",
+    "ecosystem",
+    "harmonyos",
+    "joshua",
+    "judge",
+    "hynix",
+    "shanghai",
+    "asia",
+    "epstein",
+    "kong",
+    "rokid",
+    "kong's",
+    "kimi",
+    "wall",
+    "google",
+    "street",
+    "jailed"
+   ],
+   "event_ids": [
+    "8d4f8a634705",
+    "e2312c1237f9",
+    "323d97d785b5",
+    "555171a3d51e",
+    "90b187c3a547",
+    "110a86be6895",
+    "f4d95320390a",
+    "ae0f99b97c11",
+    "42fe91b5e44d",
+    "c5d7fab3c9e5",
+    "2c4c5ca7df75",
+    "d92a5a319d7e",
+    "18979a846cd4",
+    "c3c296345fb4",
+    "faf1874beb29",
+    "79e2afd27123",
+    "7a57011ecd6c",
+    "d1ee3736dbbc",
+    "037f4509cc02",
+    "3d5afa8d5da6"
+   ],
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-11-10",
+   "timeline": [
+    {
+     "date": "2026-09-02",
+     "headline": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+     "sources": 4,
+     "score": 68,
+     "event_id": "8d4f8a634705",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
+      "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
+     "sources": 2,
+     "score": 46,
+     "event_id": "e2312c1237f9",
+     "links": [
+      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case",
+      "https://www.scmp.com/business/article/3365657/jdcoms-us13b-expansion-could-test-hong-kongs-footfall-driven-retail-property-model?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Hong Kong activist Joshua Wong could face life in prison after guilty plea",
+     "sources": 3,
+     "score": 62,
+     "event_id": "323d97d785b5",
+     "links": [
+      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-could-face-life-in-prison-after-guilty-plea",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources",
+     "sources": 2,
+     "score": 46,
+     "event_id": "555171a3d51e",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources?utm_source=rss_feed",
+      "https://www.investing.com/news/stock-market-news/more-central-asian-state-firms-plan-hong-kong-listings-finance-chief-says-4890265"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
+     "sources": 2,
+     "score": 48,
+     "event_id": "90b187c3a547",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
+      "https://www.france24.com/en/asia-pacific/20260911-hong-kong-court-sentences-tiananmen-vigil-activists-to-between-5-and-7-years-in-jail"
+     ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "Kimi maker Moonshot AI to explore dual Hong Kong and Shanghai IPOs to boost capital: sources",
+     "sources": 1,
+     "score": 42,
+     "event_id": "110a86be6895",
+     "links": [
+      "https://www.scmp.com/tech/tech-trends/article/3367027/kimi-maker-moonshot-ai-explore-dual-hong-kong-and-shanghai-ipos-boost-capital-sources?utm_source=rss_feed",
+      "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366500/why-chelsea-football-shirts-are-making-hong-kong-fans-nervous-about-crypto-laws?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead",
+     "sources": 1,
+     "score": 40,
+     "event_id": "f4d95320390a",
+     "links": [
+      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed",
+      "https://www.scmp.com/business/banking-finance/article/3369299/mainland-chinas-pcb-giant-wins-hong-kong-approval-planned-us3b-listing-sources?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Hong Kong journalist arrested on sedition charge",
+     "sources": 2,
+     "score": 44,
+     "event_id": "ae0f99b97c11",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
+      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
+     "sources": 2,
+     "score": 46,
+     "event_id": "42fe91b5e44d",
+     "links": [
+      "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
+      "https://www.investing.com/news/stock-market-news/mattel-attracts-takeover-interest-from-authentic-brands-group-the-wall-street-journal-reports-4928092"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+     "sources": 2,
+     "score": 46,
+     "event_id": "c5d7fab3c9e5",
+     "links": [
+      "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-china-chip-threat-hits-samsung-sk-hynix-oil-retreats-4945342"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
+     "sources": 1,
+     "score": 42,
+     "event_id": "2c4c5ca7df75",
+     "links": [
+      "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening?utm_source=rss_feed",
+      "https://www.scmp.com/business/banking-finance/article/3370504/hong-kong-workers-fear-ai-driven-disruption-retirement-only-20-feel-prepared-survey?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
+     "sources": 1,
+     "score": 56,
+     "event_id": "d92a5a319d7e",
+     "links": [
+      "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening",
+      "https://www.scmp.com/tech/tech-trends/article/3371095/hong-kong-vies-role-robotics-boom-launch-embodied-ai-hub",
+      "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Hong Kong’s leader apologises for residential fire that killed 168 people",
+     "sources": 3,
+     "score": 62,
+     "event_id": "18979a846cd4",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
+      "https://www.scmp.com/presented/tech/topics/hkstp-powering-hks-it-development/article/3372428/securing-global-giant-hkstp-lands-merck-power-hong-kongs-it-ambitions",
+      "https://www.atlasobscura.com/places/tai-hang-fire-dragon-dance"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
+     "sources": 3,
+     "score": 55,
+     "event_id": "c3c296345fb4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+     "sources": 2,
+     "score": 50,
+     "event_id": "faf1874beb29",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+     "sources": 6,
+     "score": 80,
+     "event_id": "79e2afd27123",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+     "sources": 2,
+     "score": 44,
+     "event_id": "7a57011ecd6c",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Judge blocks construction of Trump's massive arch after federal agency approval",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d1ee3736dbbc",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
+     "sources": 1,
+     "score": 40,
+     "event_id": "037f4509cc02",
+     "links": [
+      "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Hong Kong Hosts HDD HarmonyOS Ecosystem Executive Summit with Over 100 Industry Leaders",
+     "sources": 1,
+     "score": 46,
+     "event_id": "3d5afa8d5da6",
+     "links": [
+      "https://www.scmp.com/presented/tech/topics/flexible-logistics-sme-growth/article/3373866/hong-kong-hosts-hdd-harmonyos-ecosystem-executive-summit-over-100-industry-leaders",
+      "https://www.scmp.com/business/companies/article/3373886/1-mainland-chinese-chip-ipo-soars-another-stumbles-busy-hong-kong-week",
+      "https://www.scmp.com/business/banking-finance/article/3373071/tokenised-gold-bar-advance-hong-kongs-ambitions-digital-metal-trading-hub"
+     ]
     }
    ]
   },
@@ -1636,6 +1939,74 @@
      "links": [
       "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/tv-shows/truth-or-fake/20261109-trump-says-he-was-kidding-about-dana-white-press-secretary-job-amid-online-mix-up-claims"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "a2b347563e49",
+   "title": "Australia news live: Anthony Albanese says OpenAI agent hacked Medicare",
+   "section": "world",
+   "entities": [
+    "albanese",
+    "australia",
+    "anthony",
+    "medicare",
+    "openai"
+   ],
+   "event_ids": [
+    "a2b347563e49",
+    "ac4be085bffb",
+    "9f9515000c2c",
+    "9caa9b54c504"
+   ],
+   "first_seen": "2026-09-23",
+   "last_seen": "2026-11-10",
+   "timeline": [
+    {
+     "date": "2026-09-23",
+     "headline": "Australia news live: Anthony Albanese says OpenAI agent hacked Medicare",
+     "sources": 3,
+     "score": 63,
+     "event_id": "a2b347563e49",
+     "links": [
+      "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
+      "https://www.theguardian.com/australia-news/2026/sep/23/my-friend-anthony-albanese-announces-60m-more-for-ukraine-at-zelenskyy-meeting",
+      "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Australia’s Albanese rebukes OpenAI after government website hacked",
+     "sources": 2,
+     "score": 40,
+     "event_id": "ac4be085bffb",
+     "links": [
+      "https://www.france24.com/en/video/20260924-australia-s-albanese-rebukes-openai-after-government-website-hacked",
+      "https://www.aljazeera.com/news/2026/9/24/how-an-openai-agent-hacked-australias-medicare-and-what-that-means?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+     "sources": 2,
+     "score": 41,
+     "event_id": "9f9515000c2c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+     "sources": 3,
+     "score": 48,
+     "event_id": "9caa9b54c504",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -10954,276 +11325,6 @@
    ]
   },
   {
-   "id": "8d4f8a634705",
-   "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-   "section": "world",
-   "entities": [
-    "ipos",
-    "wall",
-    "kong",
-    "jailed",
-    "european",
-    "moonshot",
-    "hong",
-    "kimi",
-    "joshua",
-    "nasdaq",
-    "rokid",
-    "judge",
-    "kong's",
-    "asia",
-    "journal",
-    "street",
-    "asian",
-    "shanghai",
-    "google",
-    "wong",
-    "epstein",
-    "hynix",
-    "softbank",
-    "trump's"
-   ],
-   "event_ids": [
-    "8d4f8a634705",
-    "e2312c1237f9",
-    "323d97d785b5",
-    "555171a3d51e",
-    "90b187c3a547",
-    "110a86be6895",
-    "f4d95320390a",
-    "ae0f99b97c11",
-    "42fe91b5e44d",
-    "c5d7fab3c9e5",
-    "2c4c5ca7df75",
-    "d92a5a319d7e",
-    "18979a846cd4",
-    "c3c296345fb4",
-    "faf1874beb29",
-    "79e2afd27123",
-    "7a57011ecd6c",
-    "d1ee3736dbbc",
-    "037f4509cc02"
-   ],
-   "first_seen": "2026-09-02",
-   "last_seen": "2026-11-06",
-   "timeline": [
-    {
-     "date": "2026-09-02",
-     "headline": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-     "sources": 4,
-     "score": 68,
-     "event_id": "8d4f8a634705",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
-      "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
-     "sources": 2,
-     "score": 46,
-     "event_id": "e2312c1237f9",
-     "links": [
-      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case",
-      "https://www.scmp.com/business/article/3365657/jdcoms-us13b-expansion-could-test-hong-kongs-footfall-driven-retail-property-model?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Hong Kong activist Joshua Wong could face life in prison after guilty plea",
-     "sources": 3,
-     "score": 62,
-     "event_id": "323d97d785b5",
-     "links": [
-      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-could-face-life-in-prison-after-guilty-plea",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
-      "https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources",
-     "sources": 2,
-     "score": 46,
-     "event_id": "555171a3d51e",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources?utm_source=rss_feed",
-      "https://www.investing.com/news/stock-market-news/more-central-asian-state-firms-plan-hong-kong-listings-finance-chief-says-4890265"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
-     "sources": 2,
-     "score": 48,
-     "event_id": "90b187c3a547",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
-      "https://www.france24.com/en/asia-pacific/20260911-hong-kong-court-sentences-tiananmen-vigil-activists-to-between-5-and-7-years-in-jail"
-     ]
-    },
-    {
-     "date": "2026-09-12",
-     "headline": "Kimi maker Moonshot AI to explore dual Hong Kong and Shanghai IPOs to boost capital: sources",
-     "sources": 1,
-     "score": 42,
-     "event_id": "110a86be6895",
-     "links": [
-      "https://www.scmp.com/tech/tech-trends/article/3367027/kimi-maker-moonshot-ai-explore-dual-hong-kong-and-shanghai-ipos-boost-capital-sources?utm_source=rss_feed",
-      "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366500/why-chelsea-football-shirts-are-making-hong-kong-fans-nervous-about-crypto-laws?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead",
-     "sources": 1,
-     "score": 40,
-     "event_id": "f4d95320390a",
-     "links": [
-      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed",
-      "https://www.scmp.com/business/banking-finance/article/3369299/mainland-chinas-pcb-giant-wins-hong-kong-approval-planned-us3b-listing-sources?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Hong Kong journalist arrested on sedition charge",
-     "sources": 2,
-     "score": 44,
-     "event_id": "ae0f99b97c11",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
-      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
-     "sources": 2,
-     "score": 46,
-     "event_id": "42fe91b5e44d",
-     "links": [
-      "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
-      "https://www.investing.com/news/stock-market-news/mattel-attracts-takeover-interest-from-authentic-brands-group-the-wall-street-journal-reports-4928092"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
-     "sources": 2,
-     "score": 46,
-     "event_id": "c5d7fab3c9e5",
-     "links": [
-      "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-      "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-china-chip-threat-hits-samsung-sk-hynix-oil-retreats-4945342"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
-     "sources": 1,
-     "score": 42,
-     "event_id": "2c4c5ca7df75",
-     "links": [
-      "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening?utm_source=rss_feed",
-      "https://www.scmp.com/business/banking-finance/article/3370504/hong-kong-workers-fear-ai-driven-disruption-retirement-only-20-feel-prepared-survey?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
-     "sources": 1,
-     "score": 56,
-     "event_id": "d92a5a319d7e",
-     "links": [
-      "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening",
-      "https://www.scmp.com/tech/tech-trends/article/3371095/hong-kong-vies-role-robotics-boom-launch-embodied-ai-hub",
-      "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Hong Kong’s leader apologises for residential fire that killed 168 people",
-     "sources": 3,
-     "score": 62,
-     "event_id": "18979a846cd4",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
-      "https://www.scmp.com/presented/tech/topics/hkstp-powering-hks-it-development/article/3372428/securing-global-giant-hkstp-lands-merck-power-hong-kongs-it-ambitions",
-      "https://www.atlasobscura.com/places/tai-hang-fire-dragon-dance"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
-     "sources": 3,
-     "score": 55,
-     "event_id": "c3c296345fb4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-     "sources": 2,
-     "score": 50,
-     "event_id": "faf1874beb29",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-     "sources": 6,
-     "score": 80,
-     "event_id": "79e2afd27123",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
-     "sources": 2,
-     "score": 44,
-     "event_id": "7a57011ecd6c",
-     "links": [
-      "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
-      "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion"
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Judge blocks construction of Trump's massive arch after federal agency approval",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d1ee3736dbbc",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction"
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
-     "sources": 1,
-     "score": 40,
-     "event_id": "037f4509cc02",
-     "links": [
-      "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-rdf"
-     ]
-    }
-   ]
-  },
-  {
    "id": "bd5d0f2f7796",
    "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
    "section": "world",
@@ -19406,61 +19507,6 @@
    ]
   },
   {
-   "id": "a2b347563e49",
-   "title": "Australia news live: Anthony Albanese says OpenAI agent hacked Medicare",
-   "section": "world",
-   "entities": [
-    "anthony",
-    "openai",
-    "albanese",
-    "australia",
-    "medicare"
-   ],
-   "event_ids": [
-    "a2b347563e49",
-    "ac4be085bffb",
-    "9f9515000c2c"
-   ],
-   "first_seen": "2026-09-23",
-   "last_seen": "2026-09-24",
-   "timeline": [
-    {
-     "date": "2026-09-23",
-     "headline": "Australia news live: Anthony Albanese says OpenAI agent hacked Medicare",
-     "sources": 3,
-     "score": 63,
-     "event_id": "a2b347563e49",
-     "links": [
-      "https://www.theguardian.com/australia-news/live/2026/sep/24/anthony-albanese-un-summit-labor-coalition-ukraine-ntwnfb",
-      "https://www.theguardian.com/australia-news/2026/sep/23/my-friend-anthony-albanese-announces-60m-more-for-ukraine-at-zelenskyy-meeting",
-      "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Australia’s Albanese rebukes OpenAI after government website hacked",
-     "sources": 2,
-     "score": 40,
-     "event_id": "ac4be085bffb",
-     "links": [
-      "https://www.france24.com/en/video/20260924-australia-s-albanese-rebukes-openai-after-government-website-hacked",
-      "https://www.aljazeera.com/news/2026/9/24/how-an-openai-agent-hacked-australias-medicare-and-what-that-means?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-     "sources": 2,
-     "score": 41,
-     "event_id": "9f9515000c2c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "99e5b53ebc29",
    "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
    "section": "world",
@@ -21897,5 +21943,5 @@
    ]
   }
  ],
- "updated": "2026-11-10T03:20:43+00:00"
+ "updated": "2026-11-10T06:26:39+00:00"
 }
