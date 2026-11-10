@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-11-09
+# ZADÁNÍ PRO REDAKCI — 2026-11-10
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -38,31 +38,40 @@
     <https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors>
     > Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: 348 # Comments: 267
 
-### 2. Stephen Miller named by Trump as new White House chief of staff
-- id události: `6abf76266070`  ·  rubrika: `world`  ·  skóre: 84  ·  nezávislých zdrojů: 5
+### 2. Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
+- id události: `2eeebfe27c6a`  ·  rubrika: `tech`  ·  skóre: 83  ·  nezávislých zdrojů: 10
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **DW News** — Stephen Miller named by Trump as new White House chief of staff
-    <https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf>
-    > Trump said he would be replacing Susie Wiles for the top advisory role. Miller is controversial figure, known as a key architect of the administration's hardline immigration policies.
-  - **NPR News** — Stephen Miller will replace Susie Wiles as Trump's chief of staff
-    <https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff>
-    > The change comes after sweeping Republican losses in the midterm elections.
-  - **France 24** — Trump announces immigration hardliner Stephen Miller as new chief of staff
-    <https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff>
-    > US President Donald Trump on Friday said advisor Stephen Miller would become his new chief of staff. Miller has been instrumental in driving the Trump administration's mass deportation programme and faced particular criticism after the deadly shootings of two Minneapolis proteste
-  - **Al Jazeera** — Trump promotes Stephen Miller to Chief of Staff ‘to run things well’
-    <https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss>
-    > President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.
-  - **CNBC Top** — Trump says Stephen Miller to replace Susie Wiles as White House chief of staff
-    <https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html>
-    > Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.
-  - **CNBC Top** — Top House Oversight Democrat warns Trump family to 'lawyer up'
-    <https://www.cnbc.com/2026/11/06/robert-garcia-trump-congress-oversight-investigations.html>
-    > With Democrats set to take control of the House in January, Rep. Robert Garcia is promising sweeping probes into Trump, his family and his administration.
-  - **Al Jazeera** — Trump names Stephen Miller as new chief of staff, replacing Susie Wiles
-    <https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss>
-    > Susie Wiles steps down as White House chief of staff; Stephen Miller assumes the role amid post-election reshuffling.
+  - **BBC World** — Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
+    <https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss>
+    > The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.
+  - **BBC Business** — Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
+    <https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss>
+    > The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.
+  - **BBC Technology** — Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
+    <https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss>
+    > The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.
+  - **Guardian Business** — Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy
+    <https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk>
+    > Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair, as Trump says FBI ‘is looking into it’ Nvidia’s board needs to do some succession planning – sharpish Donald Trump , Elon Musk and prominent finance moguls have expressed their support for emb
+  - **France 24** — Nvidia shares slide as board probes CEO over affair with alleged Chinese spy
+    <https://www.france24.com/en/video/20261110-nvidia-shares-slide-as-board-probes-ceo-over-affair-with-alleged-chinese-spy>
+    > Nvidia CEO Jensen Huang is facing scrutiny after reports he was targeted in a suspected Chinese intelligence operation involving a businesswoman with whom he was having an affair. The controversy has rattled investors, sending Nvidia shares tumbling.
+  - **CNBC Top** — Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence
+    <https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html>
+    > Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.
+  - **The Verge** — What could China get from Jensen Huang?
+    <https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang>
+    > It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range 
+  - **The Verge AI** — What could China get from Jensen Huang?
+    <https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang>
+    > It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range 
+  - **The Verge** — Here’s what Trump said he knew about Jensen Huang
+    <https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference>
+    > President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been "​​unfaithful" to his wife, and the company has opened 
+  - **The Verge AI** — Here’s what Trump said he knew about Jensen Huang
+    <https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference>
+    > President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been "​​unfaithful" to his wife, and the company has opened 
 
 ### 3. Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence
 - id události: `2b527a5d8a86`  ·  rubrika: `business`  ·  skóre: 78  ·  nezávislých zdrojů: 6
@@ -112,12 +121,7 @@
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-### phishing scam
-- rubrika: `safety`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
-- PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Phishing — <https://en.wikipedia.org/wiki/Phishing>
-  - Voice phishing — <https://en.wikipedia.org/wiki/Voice_phishing>
-  - The Beekeeper (2024 film) — <https://en.wikipedia.org/wiki/The_Beekeeper_(2024_film)>
+_Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 
 ---
 
