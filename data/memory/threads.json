@@ -764,46 +764,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "suffers",
-    "unexpected",
-    "deepseek",
-    "hugging",
-    "accounts",
-    "valley",
-    "china",
-    "breach",
-    "access",
-    "huang's",
-    "trump",
-    "labs",
-    "customer",
-    "chinese",
-    "data",
-    "alibaba",
-    "exploit",
-    "steal",
-    "huawei",
-    "hackers",
-    "experts",
-    "cnbc",
-    "assets",
-    "reward",
-    "nvidia",
-    "face",
-    "qubole's",
-    "security",
-    "cyberattack",
-    "huang",
-    "jensen",
-    "trusted",
-    "base",
-    "drove",
-    "binance",
-    "nvidia's",
-    "goodfire",
     "hacking",
+    "qubole's",
+    "unexpected",
+    "access",
+    "data",
+    "labs",
+    "huang's",
+    "assets",
+    "chinese",
+    "reward",
+    "valley",
+    "drove",
+    "cyberattack",
+    "china",
+    "exploit",
+    "base",
+    "huang",
+    "goodfire",
+    "deepseek",
+    "accounts",
+    "face",
+    "breach",
+    "alibaba",
+    "experts",
+    "security",
+    "hackers",
+    "trump",
+    "huawei",
+    "trusted",
     "openai",
-    "silicon"
+    "steal",
+    "silicon",
+    "binance",
+    "hugging",
+    "jensen",
+    "customer",
+    "monday",
+    "cnbc",
+    "nvidia's",
+    "suffers"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -845,7 +845,8 @@
     "a06869aa80e5",
     "bd73ebc7b854",
     "e33d7f6b8276",
-    "2eeebfe27c6a"
+    "2eeebfe27c6a",
+    "01c0e8abe460"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-10",
@@ -1313,6 +1314,18 @@
       "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
      ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+     "sources": 3,
+     "score": 61,
+     "event_id": "01c0e8abe460",
+     "links": [
+      "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+      "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
+      "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-probe-data-centers-cramer.html"
+     ]
     }
    ]
   },
@@ -1696,6 +1709,34 @@
       "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
       "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9b6cbbc69269",
+   "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+   "section": "world",
+   "entities": [
+    "india",
+    "qantas"
+   ],
+   "event_ids": [
+    "9b6cbbc69269"
+   ],
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-10",
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "headline": "Qantas to outsource 850 local jobs with most roles moving to India",
+     "sources": 4,
+     "score": 60,
+     "event_id": "9b6cbbc69269",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -21856,5 +21897,5 @@
    ]
   }
  ],
- "updated": "2026-11-10T00:36:42+00:00"
+ "updated": "2026-11-10T03:20:43+00:00"
 }
