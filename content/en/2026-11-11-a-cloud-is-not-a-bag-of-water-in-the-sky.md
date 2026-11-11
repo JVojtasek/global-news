@@ -7,8 +7,8 @@ section: wonder
 type: feature
 depth: open
 lang: en
-date: '2026-09-24'
-status: reserve
+date: '2026-11-11'
+status: published
 confidence: 89
 load: 0
 topics:
