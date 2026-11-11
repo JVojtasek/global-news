@@ -1,6 +1,78 @@
 {
  "threads": [
   {
+   "id": "dfdd7bb2e5a4",
+   "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "section": "world",
+   "entities": [
+    "republican",
+    "defence",
+    "pete",
+    "hegseth",
+    "house",
+    "secretary",
+    "iran"
+   ],
+   "event_ids": [
+    "dfdd7bb2e5a4",
+    "32b6523ccabd",
+    "f2669eff1e1e",
+    "cda23e6e5446"
+   ],
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-11",
+   "timeline": [
+    {
+     "date": "2026-11-09",
+     "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+     "sources": 5,
+     "score": 77,
+     "event_id": "dfdd7bb2e5a4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+      "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
+     "sources": 2,
+     "score": 47,
+     "event_id": "32b6523ccabd",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
+      "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Pete Hegseth decries impeachment push, defends Iran war handling",
+     "sources": 3,
+     "score": 52,
+     "event_id": "f2669eff1e1e",
+     "links": [
+      "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+      "https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce",
+      "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "House votes to effectively end the impeachment effort against Pete Hegseth",
+     "sources": 3,
+     "score": 53,
+     "event_id": "cda23e6e5446",
+     "links": [
+      "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+      "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+      "https://www.france24.com/en/video/20261110-it-s-a-farce-hegseth-slams-impeachment-effort"
+     ]
+    }
+   ]
+  },
+  {
    "id": "95b4d8eb7452",
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
@@ -4232,64 +4304,6 @@
       "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dfdd7bb2e5a4",
-   "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-   "section": "world",
-   "entities": [
-    "republican",
-    "pete",
-    "defence",
-    "hegseth",
-    "secretary",
-    "iran"
-   ],
-   "event_ids": [
-    "dfdd7bb2e5a4",
-    "32b6523ccabd",
-    "f2669eff1e1e"
-   ],
-   "first_seen": "2026-11-09",
-   "last_seen": "2026-11-10",
-   "timeline": [
-    {
-     "date": "2026-11-09",
-     "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-     "sources": 5,
-     "score": 77,
-     "event_id": "dfdd7bb2e5a4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
-      "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
-     "sources": 2,
-     "score": 47,
-     "event_id": "32b6523ccabd",
-     "links": [
-      "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
-      "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Pete Hegseth decries impeachment push, defends Iran war handling",
-     "sources": 3,
-     "score": 52,
-     "event_id": "f2669eff1e1e",
-     "links": [
-      "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-      "https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce",
-      "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss"
      ]
     }
    ]
@@ -22188,5 +22202,5 @@
    ]
   }
  ],
- "updated": "2026-11-10T21:18:49+00:00"
+ "updated": "2026-11-11T00:37:46+00:00"
 }
