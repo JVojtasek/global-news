@@ -156,7 +156,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 rubrika: world · sledováno od 2026-08-11 · záznamů: 60
-  2026-10-01  (2 zdrojů, síla 48)  Ukraine hits oil facility in Russia’s Samara region despite pressure from Trump – Europe live
   2026-10-03  (3 zdrojů, síla 56)  Russia strikes second major bridge in Kyiv, mayor says
   2026-10-04  (2 zdrojů, síla 46)  Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
   2026-10-04  (2 zdrojů, síla 45)  Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
@@ -176,6 +175,7 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
   2026-11-11  (2 zdrojů, síla 43)  Ukraine’s Zelenskyy ‘happy’ with US envoys’ approach as Russia talks enter second day – Europe live
   2026-11-11  (3 zdrojů, síla 58)  US, Russia, Ukraine wrap up Abu Dhabi talks with prisoner exchange
   2026-11-11  (2 zdrojů, síla 40)  New trilateral talks on Ukraine war in Abu Dhabi: What to expect?
+  2026-11-11  (2 zdrojů, síla 41)  Tehran will strike US bases in Europe if used to attack Iran, security chief says
 ```
 
 ### 2. What has actually changed: More troops to be sent to West Bank village besieged by Israeli settlers
