@@ -9,8 +9,6 @@ Paměť obsahuje **193 vláken**. Aktivních za posledních 14 dní: **53**.
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 92 dní · 60 záznamů
 - časová osa:
-  - **2026-10-21** (2 zdrojů) Russia arrests German man, calls him a Ukraine 'mercenary'
-  - **2026-10-21** (3 zdrojů) Russia says it is ready to resume talks with Ukraine and US to end war
   - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
   - **2026-10-31** (2 zdrojů) Iran says four tankers on fire after striking mines in Hormuz
   - **2026-11-02** (3 zdrojů) Ukraine, Russia report hacking attacks on emergency alert apps
@@ -19,6 +17,8 @@ Paměť obsahuje **193 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-11-03** (2 zdrojů) Zelenskyy to make unexpected visit to Berlin for talks with Merz – Europe live
   - **2026-11-03** (2 zdrojů) What US midterm elections mean for Ukraine, Iran and elsewhere
   - **2026-11-11** (2 zdrojů) Ukraine’s Zelenskyy ‘happy’ with US envoys’ approach as Russia talks enter second day – Europe live
+  - **2026-11-11** (3 zdrojů) US, Russia, Ukraine wrap up Abu Dhabi talks with prisoner exchange
+  - **2026-11-11** (2 zdrojů) New trilateral talks on Ukraine war in Abu Dhabi: What to expect?
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 88 dní · 60 záznamů
