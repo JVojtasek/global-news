@@ -6,18 +6,19 @@
    "section": "world",
    "entities": [
     "republican",
-    "defence",
-    "pete",
+    "iran",
     "hegseth",
+    "defence",
     "house",
     "secretary",
-    "iran"
+    "pete"
    ],
    "event_ids": [
     "dfdd7bb2e5a4",
     "32b6523ccabd",
     "f2669eff1e1e",
-    "cda23e6e5446"
+    "cda23e6e5446",
+    "fb5573ea532c"
    ],
    "first_seen": "2026-11-09",
    "last_seen": "2026-11-11",
@@ -68,6 +69,18 @@
       "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
       "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
       "https://www.france24.com/en/video/20261110-it-s-a-farce-hegseth-slams-impeachment-effort"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+     "sources": 4,
+     "score": 64,
+     "event_id": "fb5573ea532c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss"
      ]
     }
    ]
@@ -22202,5 +22215,5 @@
    ]
   }
  ],
- "updated": "2026-11-11T00:37:46+00:00"
+ "updated": "2026-11-11T03:21:24+00:00"
 }
