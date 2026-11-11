@@ -20,6 +20,23 @@ Paměť obsahuje **193 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-11-11** (2 zdrojů) New trilateral talks on Ukraine war in Abu Dhabi: What to expect?
   - **2026-11-11** (2 zdrojů) Tehran will strike US bases in Europe if used to attack Iran, security chief says
 
+### OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
+- rubrika `tech` · sledováno 58 dní · 60 záznamů
+- časová osa:
+  - **2026-11-05** (3 zdrojů) Was Elon Musk the US midterms' biggest loser? – Stateside with Kai and Carter
+  - **2026-11-06** (3 zdrojů) Elon Musk appears to signal the end of the road for Cybertruck
+  - **2026-11-06** (3 zdrojů) Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI
+  - **2026-11-06** (3 zdrojů) Tesla will stop making the Cybertruck in 2027
+  - **2026-11-06** (3 zdrojů) Tesla to 'wind down' production of flop Cybertruck
+  - **2026-11-07** (2 zdrojů) Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts
+  - **2026-11-09** (2 zdrojů) Musk says Tesla will refund some Cybertruck deposits, defends decision to end production
+  - **2026-11-10** (2 zdrojů) US, Russia and Ukraine hold trilateral talks aimed at ending war – Europe live
+  - **2026-11-10** (2 zdrojů) Inside devastated front-line city that Russia wants Ukraine to give up
+  - **2026-11-11** (2 zdrojů) Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough
+- ⚠️ vyprávění se v čase obrátilo:
+  - 2026-10-15 → 2026-10-21: „Musk confirms SpaceX and Tesla exploring merger“
+  - 2026-10-21 → 2026-10-23: „Trump says Musk restored Ukraine’s Starlink access amid Russia war“
+
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 88 dní · 60 záznamů
 - časová osa:
@@ -75,20 +92,6 @@ Paměť obsahuje **193 vláken**. Aktivních za posledních 14 dní: **53**.
   - **2026-11-06** (2 zdrojů) Melania Trump touts rare agreement she brokered between Russia and Ukraine
   - **2026-11-07** (2 zdrojů) Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks
   - **2026-11-07** (2 zdrojů) Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid
-
-### Trump says White House press secretary Karoline Leavitt to leave post
-- rubrika `world` · sledováno 86 dní · 60 záznamů
-- časová osa:
-  - **2026-10-29** (3 zdrojů) What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump
-  - **2026-10-30** (2 zdrojů) Israeli opposition accuses Netanyahu of trying to 'delegitimise' election
-  - **2026-10-31** (2 zdrojů) Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory
-  - **2026-10-31** (2 zdrojů) How has the ceasefire in Russian-occupied Oleshky been unfolding?
-  - **2026-10-31** (2 zdrojů) Oleshky evacuees reunite with families after truce allows crossing back into Ukraine
-  - **2026-11-03** (2 zdrojů) Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test
-  - **2026-11-05** (2 zdrojů) Want to Rent an Internet Address at the White House?
-  - **2026-11-06** (2 zdrojů) Past White House adviser Raj Panjabi has written a playbook for 'living room' crises
-  - **2026-11-06** (2 zdrojů) Four midterms takeaways for 2028 White House race
-  - **2026-11-06** (1 zdrojů) CARE Packages Provided a Lifeline for World War II Survivors. Here’s How the Group Turned Leftover Army Rations Into an 80-Year Legacy
 
 ---
 

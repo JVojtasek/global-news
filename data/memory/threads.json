@@ -819,1426 +819,50 @@
    ]
   },
   {
-   "id": "7b46dd318f11",
-   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-   "section": "ai",
-   "entities": [
-    "trusted",
-    "huang",
-    "drove",
-    "york",
-    "access",
-    "qubole's",
-    "assets",
-    "nvidia",
-    "exploit",
-    "data",
-    "megaspeed",
-    "reward",
-    "security",
-    "huang's",
-    "nvidia's",
-    "hackers",
-    "hacking",
-    "face",
-    "cyberattacks",
-    "chinese",
-    "openai",
-    "silicon",
-    "experts",
-    "goodfire",
-    "steal",
-    "unexpected",
-    "cnbc",
-    "base",
-    "valley",
-    "cyberattack",
-    "labs",
-    "trump",
-    "amid",
-    "alibaba",
-    "jensen",
-    "china",
-    "suffers",
-    "deepseek",
-    "hugging",
-    "t-head"
-   ],
-   "event_ids": [
-    "7b46dd318f11",
-    "46ad54902311",
-    "d8b7c8511a2c",
-    "c95f1350e30d",
-    "63243808b149",
-    "b392bbbec1f4",
-    "bd2de1c640b6",
-    "3544561ca685",
-    "df3a38888008",
-    "0321378bd042",
-    "69b225fb598b",
-    "de5690d7d612",
-    "e4222c90706c",
-    "a0f5f526129b",
-    "d44ccc0ba93d",
-    "f247281fba63",
-    "3152bdb0ea47",
-    "2b3aa79e4244",
-    "3808e2aaf93d",
-    "b237fa49f681",
-    "e609d968c3dc",
-    "ce7b13e0f7aa",
-    "ffd060dcfeb0",
-    "bd6a23f4945b",
-    "1dad8889ea72",
-    "8250334af197",
-    "4729f8fa01c6",
-    "2b527a5d8a86",
-    "20e38220237b",
-    "bc0b846ed6bf",
-    "2965feb8b5ec",
-    "eda661cf2b57",
-    "37f2b0e73cbc",
-    "ee85900ed9d2",
-    "45c537ea2364",
-    "c1a8be3a6f4b",
-    "a06869aa80e5",
-    "bd73ebc7b854",
-    "e33d7f6b8276",
-    "2eeebfe27c6a",
-    "01c0e8abe460",
-    "42ec1e7471a4",
-    "a26862543eb1",
-    "fc17e32685e9",
-    "d95ad1c3fe30",
-    "78aa026d0c91",
-    "1c52468d7a99",
-    "952761630128",
-    "d68f526af6ae",
-    "05e06857ebb5",
-    "38bafe3be8f0"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-11-11",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-     "sources": 4,
-     "score": 77,
-     "event_id": "7b46dd318f11",
-     "links": [
-      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
-     ]
-    },
-    {
-     "date": "2026-08-10",
-     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "46ad54902311",
-     "links": [
-      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
-     ]
-    },
-    {
-     "date": "2026-08-18",
-     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
-     "sources": 2,
-     "score": 40,
-     "event_id": "d8b7c8511a2c",
-     "links": [
-      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "https://huggingface.co/blog/skypilot-hf-storage"
-     ]
-    },
-    {
-     "date": "2026-08-20",
-     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
-     "sources": 2,
-     "score": 51,
-     "event_id": "c95f1350e30d",
-     "links": [
-      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
-      "https://huggingface.co/blog/eee-community-evals"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-     "sources": 2,
-     "score": 52,
-     "event_id": "63243808b149",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-     "sources": 6,
-     "score": 73,
-     "event_id": "b392bbbec1f4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
-     "sources": 3,
-     "score": 52,
-     "event_id": "bd2de1c640b6",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
-      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-     "sources": 7,
-     "score": 77,
-     "event_id": "3544561ca685",
-     "links": [
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-     "sources": 3,
-     "score": 57,
-     "event_id": "df3a38888008",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-     "sources": 3,
-     "score": 50,
-     "event_id": "0321378bd042",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "The inside story on why OpenAI agents hacked Hugging Face",
-     "sources": 4,
-     "score": 71,
-     "event_id": "69b225fb598b",
-     "links": [
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Hugging Face hack could indicate cultural issues at OpenAI",
-     "sources": 2,
-     "score": 45,
-     "event_id": "de5690d7d612",
-     "links": [
-      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
-     "sources": 2,
-     "score": 48,
-     "event_id": "e4222c90706c",
-     "links": [
-      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
-      "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC",
-     "sources": 3,
-     "score": 50,
-     "event_id": "a0f5f526129b",
-     "links": [
-      "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-     "sources": 5,
-     "score": 75,
-     "event_id": "d44ccc0ba93d",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-      "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-     "sources": 4,
-     "score": 65,
-     "event_id": "f247281fba63",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-     "sources": 5,
-     "score": 80,
-     "event_id": "3152bdb0ea47",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2b3aa79e4244",
-     "links": [
-      "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3808e2aaf93d",
-     "links": [
-      "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-     "sources": 2,
-     "score": 43,
-     "event_id": "b237fa49f681",
-     "links": [
-      "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "https://huggingface.co/blog/baseten"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
-     "sources": 2,
-     "score": 50,
-     "event_id": "e609d968c3dc",
-     "links": [
-      "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
-      "https://huggingface.co/blog/pwc-search"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-     "sources": 2,
-     "score": 40,
-     "event_id": "ce7b13e0f7aa",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-      "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
-     "sources": 2,
-     "score": 41,
-     "event_id": "ffd060dcfeb0",
-     "links": [
-      "https://www.cnbc.com/2026/09/27/china-bytedance-alibaba-nvidia-chips.html",
-      "https://www.investing.com/news/stock-market-news/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-the-information-reports-4919047",
-      "https://www.investing.com/news/stock-market-news/china-may-permit-alibaba-bytedance-to-buy-new-nvidia-chips--the-information-4919061"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "‘Jensen’s nightmare’: Huawei, DeepSeek narrow AI chip ecosystem gap with Nvidia: report",
-     "sources": 2,
-     "score": 42,
-     "event_id": "bd6a23f4945b",
-     "links": [
-      "https://www.scmp.com/tech/tech-war/article/3371806/jensens-nightmare-huawei-deepseek-narrow-ai-chip-ecosystem-gap-nvidia-report",
-      "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-     "sources": 2,
-     "score": 45,
-     "event_id": "1dad8889ea72",
-     "links": [
-      "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-      "https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist"
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-     "sources": 2,
-     "score": 44,
-     "event_id": "8250334af197",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-      "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html"
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-     "sources": 2,
-     "score": 42,
-     "event_id": "4729f8fa01c6",
-     "links": [
-      "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-      "https://www.investing.com/news/stock-market-news/openai-to-press-ahead-with-datacenter-expansion-despite-midterm-sweep-cfo-tells-cnbc-5008971"
-     ]
-    },
-    {
-     "date": "2026-11-08",
-     "headline": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
-     "sources": 6,
-     "score": 78,
-     "event_id": "2b527a5d8a86",
-     "links": [
-      "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
-      "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
-      "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-     "sources": 7,
-     "score": 86,
-     "event_id": "20e38220237b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
-     "sources": 2,
-     "score": 42,
-     "event_id": "bc0b846ed6bf",
-     "links": [
-      "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
-     "sources": 4,
-     "score": 63,
-     "event_id": "2965feb8b5ec",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-     "sources": 3,
-     "score": 59,
-     "event_id": "eda661cf2b57",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Why Nvidia CEO's affair with alleged Chinese spy matters",
-     "sources": 3,
-     "score": 56,
-     "event_id": "37f2b0e73cbc",
-     "links": [
-      "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html",
-      "https://www.france24.com/en/nvidia-to-probe-reports-that-chinese-intelligence-targeted-ceo-jensen-huang"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Why is Nvidia’s Jensen Huang at the centre of a US-China row?",
-     "sources": 4,
-     "score": 69,
-     "event_id": "ee85900ed9d2",
-     "links": [
-      "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-us-china-donald-trump-spy",
-      "https://www.scmp.com/tech/big-tech/article/3373825/nvidia-faces-defining-test-jensen-huang-probe-adds-chip-stock-turbulence",
-      "https://www.cnbc.com/2026/11/09/nvidia-stock-faces-huang-investigation-overhang-analysts.html"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-     "sources": 3,
-     "score": 50,
-     "event_id": "45c537ea2364",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-     "sources": 6,
-     "score": 76,
-     "event_id": "c1a8be3a6f4b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "The future of AI hinges on… Jensen Huang’s sex life?",
-     "sources": 4,
-     "score": 63,
-     "event_id": "a06869aa80e5",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-      "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
-      "https://www.france24.com/en/video/20261109-nvidia-ceo-probed-over-alleged-china-spy-who-exactly-is-jensen-huang"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-     "sources": 1,
-     "score": 40,
-     "event_id": "bd73ebc7b854",
-     "links": [
-      "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-     "sources": 3,
-     "score": 61,
-     "event_id": "e33d7f6b8276",
-     "links": [
-      "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
-      "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
-      "https://www.france24.com/en/nvidia-s-huang-scandal-rattles-ai-industry-built-around-him"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-     "sources": 10,
-     "score": 83,
-     "event_id": "2eeebfe27c6a",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
-     "sources": 3,
-     "score": 61,
-     "event_id": "01c0e8abe460",
-     "links": [
-      "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
-      "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
-      "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-probe-data-centers-cramer.html"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
-     "sources": 5,
-     "score": 79,
-     "event_id": "42ec1e7471a4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Nvidia hit by shareholder lawsuit over Jensen Huang’s relationship with suspected Chinese spy – business live",
-     "sources": 3,
-     "score": 62,
-     "event_id": "a26862543eb1",
-     "links": [
-      "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
-      "https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang",
-      "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters-for-ai-race/a-79898338?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
-     "sources": 3,
-     "score": 57,
-     "event_id": "fc17e32685e9",
-     "links": [
-      "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
-      "https://www.scmp.com/tech/tech-war/article/3373940/us-lawmakers-push-tougher-china-export-controls-defence-bill-amid-nvidia-scrutiny",
-      "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Megaspeed and the battle to go high-end Nvidia chips into China",
-     "sources": 3,
-     "score": 60,
-     "event_id": "d95ad1c3fe30",
-     "links": [
-      "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129?maca=en-rss-en-all-1573-rdf",
-      "https://www.scmp.com/tech/big-tech/article/3373977/adding-fuel-fire-how-nvidia-ceos-troubles-us-midterms-may-tighten-china-chip-curbs",
-      "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
-     "sources": 2,
-     "score": 49,
-     "event_id": "78aa026d0c91",
-     "links": [
-      "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
-      "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
-      "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-     "sources": 2,
-     "score": 42,
-     "event_id": "1c52468d7a99",
-     "links": [
-      "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-      "https://huggingface.co/blog/decision"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Nvidia has a Jensen Huang problem—and no obvious successor",
-     "sources": 2,
-     "score": 41,
-     "event_id": "952761630128",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
-      "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-     "sources": 7,
-     "score": 83,
-     "event_id": "d68f526af6ae",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Amid Nvidia saga, T-Head IPO a crucial test for Alibaba – and China’s AI ambitions",
-     "sources": 1,
-     "score": 46,
-     "event_id": "05e06857ebb5",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3374090/amid-nvidia-saga-t-head-ipo-crucial-test-alibaba-and-chinas-ai-ambitions",
-      "https://www.scmp.com/plus/business/banking-finance/article/3374068/alibaba-readies-t-head-chip-ipo-hong-kong-frenzy-cools",
-      "https://www.scmp.com/tech/tech-war/article/3373940/us-lawmakers-push-tougher-china-export-controls-defence-bill-amid-nvidia-scrutiny"
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
-     "sources": 3,
-     "score": 52,
-     "event_id": "38bafe3be8f0",
-     "links": [
-      "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
-      "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-      "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "8d4f8a634705",
-   "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-   "section": "world",
-   "entities": [
-    "journal",
-    "kong's",
-    "summit",
-    "trump's",
-    "industry",
-    "ipos",
-    "kong",
-    "executive",
-    "wall",
-    "softbank",
-    "rokid",
-    "european",
-    "shanghai",
-    "street",
-    "hong",
-    "harmonyos",
-    "jailed",
-    "wong",
-    "epstein",
-    "ecosystem",
-    "asia",
-    "google",
-    "hynix",
-    "judge",
-    "hosts",
-    "moonshot",
-    "nasdaq",
-    "joshua",
-    "leaders",
-    "asian",
-    "kimi"
-   ],
-   "event_ids": [
-    "8d4f8a634705",
-    "e2312c1237f9",
-    "323d97d785b5",
-    "555171a3d51e",
-    "90b187c3a547",
-    "110a86be6895",
-    "f4d95320390a",
-    "ae0f99b97c11",
-    "42fe91b5e44d",
-    "c5d7fab3c9e5",
-    "2c4c5ca7df75",
-    "d92a5a319d7e",
-    "18979a846cd4",
-    "c3c296345fb4",
-    "faf1874beb29",
-    "79e2afd27123",
-    "7a57011ecd6c",
-    "d1ee3736dbbc",
-    "037f4509cc02",
-    "3d5afa8d5da6",
-    "99997e4777cd"
-   ],
-   "first_seen": "2026-09-02",
-   "last_seen": "2026-11-11",
-   "timeline": [
-    {
-     "date": "2026-09-02",
-     "headline": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
-     "sources": 4,
-     "score": 68,
-     "event_id": "8d4f8a634705",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
-      "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
-     "sources": 2,
-     "score": 46,
-     "event_id": "e2312c1237f9",
-     "links": [
-      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case",
-      "https://www.scmp.com/business/article/3365657/jdcoms-us13b-expansion-could-test-hong-kongs-footfall-driven-retail-property-model?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Hong Kong activist Joshua Wong could face life in prison after guilty plea",
-     "sources": 3,
-     "score": 62,
-     "event_id": "323d97d785b5",
-     "links": [
-      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-could-face-life-in-prison-after-guilty-plea",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
-      "https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion"
-     ]
-    },
-    {
-     "date": "2026-09-06",
-     "headline": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources",
-     "sources": 2,
-     "score": 46,
-     "event_id": "555171a3d51e",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources?utm_source=rss_feed",
-      "https://www.investing.com/news/stock-market-news/more-central-asian-state-firms-plan-hong-kong-listings-finance-chief-says-4890265"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
-     "sources": 2,
-     "score": 48,
-     "event_id": "90b187c3a547",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
-      "https://www.france24.com/en/asia-pacific/20260911-hong-kong-court-sentences-tiananmen-vigil-activists-to-between-5-and-7-years-in-jail"
-     ]
-    },
-    {
-     "date": "2026-09-12",
-     "headline": "Kimi maker Moonshot AI to explore dual Hong Kong and Shanghai IPOs to boost capital: sources",
-     "sources": 1,
-     "score": 42,
-     "event_id": "110a86be6895",
-     "links": [
-      "https://www.scmp.com/tech/tech-trends/article/3367027/kimi-maker-moonshot-ai-explore-dual-hong-kong-and-shanghai-ipos-boost-capital-sources?utm_source=rss_feed",
-      "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366500/why-chelsea-football-shirts-are-making-hong-kong-fans-nervous-about-crypto-laws?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead",
-     "sources": 1,
-     "score": 40,
-     "event_id": "f4d95320390a",
-     "links": [
-      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed",
-      "https://www.scmp.com/business/banking-finance/article/3369299/mainland-chinas-pcb-giant-wins-hong-kong-approval-planned-us3b-listing-sources?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Hong Kong journalist arrested on sedition charge",
-     "sources": 2,
-     "score": 44,
-     "event_id": "ae0f99b97c11",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
-      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
-     "sources": 2,
-     "score": 46,
-     "event_id": "42fe91b5e44d",
-     "links": [
-      "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
-      "https://www.investing.com/news/stock-market-news/mattel-attracts-takeover-interest-from-authentic-brands-group-the-wall-street-journal-reports-4928092"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
-     "sources": 2,
-     "score": 46,
-     "event_id": "c5d7fab3c9e5",
-     "links": [
-      "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-      "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-china-chip-threat-hits-samsung-sk-hynix-oil-retreats-4945342"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
-     "sources": 1,
-     "score": 42,
-     "event_id": "2c4c5ca7df75",
-     "links": [
-      "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening?utm_source=rss_feed",
-      "https://www.scmp.com/business/banking-finance/article/3370504/hong-kong-workers-fear-ai-driven-disruption-retirement-only-20-feel-prepared-survey?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
-     "sources": 1,
-     "score": 56,
-     "event_id": "d92a5a319d7e",
-     "links": [
-      "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening",
-      "https://www.scmp.com/tech/tech-trends/article/3371095/hong-kong-vies-role-robotics-boom-launch-embodied-ai-hub",
-      "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Hong Kong’s leader apologises for residential fire that killed 168 people",
-     "sources": 3,
-     "score": 62,
-     "event_id": "18979a846cd4",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
-      "https://www.scmp.com/presented/tech/topics/hkstp-powering-hks-it-development/article/3372428/securing-global-giant-hkstp-lands-merck-power-hong-kongs-it-ambitions",
-      "https://www.atlasobscura.com/places/tai-hang-fire-dragon-dance"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
-     "sources": 3,
-     "score": 55,
-     "event_id": "c3c296345fb4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-     "sources": 2,
-     "score": 50,
-     "event_id": "faf1874beb29",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
-     "sources": 6,
-     "score": 80,
-     "event_id": "79e2afd27123",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
-     "sources": 2,
-     "score": 44,
-     "event_id": "7a57011ecd6c",
-     "links": [
-      "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
-      "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion"
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Judge blocks construction of Trump's massive arch after federal agency approval",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d1ee3736dbbc",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction"
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
-     "sources": 1,
-     "score": 40,
-     "event_id": "037f4509cc02",
-     "links": [
-      "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Hong Kong Hosts HDD HarmonyOS Ecosystem Executive Summit with Over 100 Industry Leaders",
-     "sources": 1,
-     "score": 46,
-     "event_id": "3d5afa8d5da6",
-     "links": [
-      "https://www.scmp.com/presented/tech/topics/flexible-logistics-sme-growth/article/3373866/hong-kong-hosts-hdd-harmonyos-ecosystem-executive-summit-over-100-industry-leaders",
-      "https://www.scmp.com/business/companies/article/3373886/1-mainland-chinese-chip-ipo-soars-another-stumbles-busy-hong-kong-week",
-      "https://www.scmp.com/business/banking-finance/article/3373071/tokenised-gold-bar-advance-hong-kongs-ambitions-digital-metal-trading-hub"
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-     "sources": 2,
-     "score": 40,
-     "event_id": "99997e4777cd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2c2b2700dd7b",
-   "title": "Microsoft Patches a Record 570 Security Flaws",
-   "section": "safety",
-   "entities": [
-    "execute",
-    "group",
-    "lazarus",
-    "record",
-    "vulnerabilities",
-    "security",
-    "flaw",
-    "linux",
-    "software",
-    "keys",
-    "drupal",
-    "malicious",
-    "critical",
-    "microsoft",
-    "backdoors",
-    "highly",
-    "lets",
-    "days",
-    "within",
-    "sshole",
-    "bluetooth",
-    "hours",
-    "weaponized",
-    "code",
-    "cisco",
-    "privacy",
-    "pairing",
-    "clones",
-    "patches",
-    "execution",
-    "palo",
-    "chat",
-    "apple",
-    "flaws",
-    "remote",
-    "actively",
-    "commerce",
-    "repositories",
-    "arista",
-    "siemens"
-   ],
-   "event_ids": [
-    "2c2b2700dd7b",
-    "42a9e60af11b",
-    "838b4b1ce253",
-    "29d08fa787d9",
-    "aabd8e14b270",
-    "cf5c346fcefd",
-    "7325900e53d9",
-    "6d2a0802c49f",
-    "f4eff089be53",
-    "3e6bc640da57",
-    "a40dff3d749a",
-    "d7669d6db99e",
-    "b86930e18372",
-    "83d130e7ba9f",
-    "ba7507c6f20e"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-11-11",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "Microsoft Patches a Record 570 Security Flaws",
-     "sources": 2,
-     "score": 56,
-     "event_id": "2c2b2700dd7b",
-     "links": [
-      "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-      "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-     "sources": 1,
-     "score": 46,
-     "event_id": "42a9e60af11b",
-     "links": [
-      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-      "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-     "sources": 1,
-     "score": 44,
-     "event_id": "838b4b1ce253",
-     "links": [
-      "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-     "sources": 1,
-     "score": 44,
-     "event_id": "29d08fa787d9",
-     "links": [
-      "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-     "sources": 1,
-     "score": 44,
-     "event_id": "aabd8e14b270",
-     "links": [
-      "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-      "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-     "sources": 2,
-     "score": 50,
-     "event_id": "cf5c346fcefd",
-     "links": [
-      "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-     "sources": 1,
-     "score": 46,
-     "event_id": "7325900e53d9",
-     "links": [
-      "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-     "sources": 1,
-     "score": 44,
-     "event_id": "6d2a0802c49f",
-     "links": [
-      "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-     "sources": 1,
-     "score": 44,
-     "event_id": "f4eff089be53",
-     "links": [
-      "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-     "sources": 1,
-     "score": 44,
-     "event_id": "3e6bc640da57",
-     "links": [
-      "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-      "https://thehackernews.com/2026/11/attackers-target-unpatched.html"
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-     "sources": 1,
-     "score": 44,
-     "event_id": "a40dff3d749a",
-     "links": [
-      "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-     "sources": 2,
-     "score": 52,
-     "event_id": "d7669d6db99e",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
-      "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b86930e18372",
-     "links": [
-      "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html"
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Microsoft Patches More Than 1,400 Security Flaws",
-     "sources": 2,
-     "score": 48,
-     "event_id": "83d130e7ba9f",
-     "links": [
-      "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-      "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html"
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-     "sources": 1,
-     "score": 44,
-     "event_id": "ba7507c6f20e",
-     "links": [
-      "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "dfdd7bb2e5a4",
-   "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-   "section": "world",
-   "entities": [
-    "pete",
-    "hegseth",
-    "defence",
-    "republican",
-    "iran",
-    "secretary",
-    "house"
-   ],
-   "event_ids": [
-    "dfdd7bb2e5a4",
-    "32b6523ccabd",
-    "f2669eff1e1e",
-    "cda23e6e5446",
-    "fb5573ea532c",
-    "9d9f5b88df97"
-   ],
-   "first_seen": "2026-11-09",
-   "last_seen": "2026-11-11",
-   "timeline": [
-    {
-     "date": "2026-11-09",
-     "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-     "sources": 5,
-     "score": 77,
-     "event_id": "dfdd7bb2e5a4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
-      "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
-     "sources": 2,
-     "score": 47,
-     "event_id": "32b6523ccabd",
-     "links": [
-      "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
-      "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Pete Hegseth decries impeachment push, defends Iran war handling",
-     "sources": 3,
-     "score": 52,
-     "event_id": "f2669eff1e1e",
-     "links": [
-      "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-      "https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce",
-      "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "House votes to effectively end the impeachment effort against Pete Hegseth",
-     "sources": 3,
-     "score": 53,
-     "event_id": "cda23e6e5446",
-     "links": [
-      "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
-      "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
-      "https://www.france24.com/en/video/20261110-it-s-a-farce-hegseth-slams-impeachment-effort"
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-     "sources": 4,
-     "score": 64,
-     "event_id": "fb5573ea532c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
-     "sources": 2,
-     "score": 56,
-     "event_id": "9d9f5b88df97",
-     "links": [
-      "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
-      "https://www.npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot",
-      "https://www.france24.com/en/house-republicans-quash-effort-to-impeach-defense-secretary-hegseth"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "aed83b0c0f81",
-   "title": "David Walliams accused of sexual misconduct after losing injunction bid",
-   "section": "culture",
-   "entities": [
-    "walliams",
-    "david",
-    "jonathan",
-    "ross",
-    "brand",
-    "russell"
-   ],
-   "event_ids": [
-    "aed83b0c0f81",
-    "e2e7aea6e84e"
-   ],
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-11",
-   "timeline": [
-    {
-     "date": "2026-11-10",
-     "headline": "David Walliams accused of sexual misconduct after losing injunction bid",
-     "sources": 3,
-     "score": 56,
-     "event_id": "aed83b0c0f81",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women",
-      "https://www.aljazeera.com/news/2026/11/10/uk-comedian-and-childrens-author-david-walliams-accused-of-grooming-minors?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Jonathan Ross ‘horrified’ by David Walliams and Russell Brand revelations",
-     "sources": 2,
-     "score": 43,
-     "event_id": "e2e7aea6e84e",
-     "links": [
-      "https://www.theguardian.com/tv-and-radio/2026/nov/11/jonathan-ross-david-walliams-russell-brand-revelations",
-      "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "95b4d8eb7452",
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
    "entities": [
-    "openai",
-    "trump",
-    "ukraine",
-    "musk",
     "anthropic",
-    "apple",
-    "talarico",
-    "amazon",
-    "putin",
-    "meta",
-    "unusual",
-    "ambani",
-    "inside",
-    "embiricos",
-    "machines",
-    "russia",
-    "stateside",
-    "fake",
-    "side",
-    "skydance",
-    "olympic",
-    "texas",
-    "spacex",
-    "cybertruck",
-    "sure",
-    "dots",
-    "networking",
-    "tesla",
-    "starlink",
-    "friday's",
-    "deckers",
-    "boeing",
-    "elon",
+    "musk",
     "israel",
-    "qualcomm",
-    "nvidia",
-    "europe",
+    "texas",
+    "starlink",
+    "side",
+    "cybertruck",
+    "inside",
+    "trump",
     "miss",
-    "google",
-    "zoom"
+    "ukraine",
+    "dots",
+    "tesla",
+    "ambani",
+    "russia",
+    "unusual",
+    "amazon",
+    "olympic",
+    "skydance",
+    "embiricos",
+    "meta",
+    "sure",
+    "qualcomm",
+    "putin",
+    "machines",
+    "zoom",
+    "openai",
+    "apple",
+    "spacex",
+    "deckers",
+    "talarico",
+    "elon",
+    "nvidia",
+    "friday's",
+    "europe",
+    "stateside",
+    "boeing",
+    "fake",
+    "networking",
+    "google"
    ],
    "event_ids": [
     "95b4d8eb7452",
@@ -2299,10 +923,11 @@
     "886e9406677f",
     "7862033c12c5",
     "bf15bf06a44a",
-    "ed73d7ea38c9"
+    "ed73d7ea38c9",
+    "16acc59220e3"
    ],
    "first_seen": "2026-09-14",
-   "last_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
    "timeline": [
     {
      "date": "2026-09-14",
@@ -2982,6 +1607,1407 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/us-russia-and-ukraine-start-talks-in-abu-dhabi/live-79906232?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+     "sources": 2,
+     "score": 49,
+     "event_id": "16acc59220e3",
+     "links": [
+      "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+      "https://www.investing.com/news/commodities-news/us-russia-and-ukraine-start-second-day-of-abu-dhabi-peace-talks-5018210",
+      "https://www.investing.com/news/commodities-news/ukraines-zelenskiy-says-progress-in-peace-talks-hinges-on-us-approach-to-russia-5019823"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7b46dd318f11",
+   "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+   "section": "ai",
+   "entities": [
+    "china",
+    "labs",
+    "exploit",
+    "huang's",
+    "cyberattacks",
+    "cnbc",
+    "deepseek",
+    "experts",
+    "drove",
+    "unexpected",
+    "valley",
+    "silicon",
+    "jensen",
+    "suffers",
+    "trusted",
+    "reward",
+    "trump",
+    "face",
+    "security",
+    "hacking",
+    "york",
+    "megaspeed",
+    "nvidia's",
+    "goodfire",
+    "alibaba",
+    "huang",
+    "assets",
+    "openai",
+    "nvidia",
+    "chinese",
+    "access",
+    "steal",
+    "data",
+    "undone",
+    "amid",
+    "qubole's",
+    "cyberattack",
+    "hugging",
+    "t-head",
+    "hackers"
+   ],
+   "event_ids": [
+    "7b46dd318f11",
+    "46ad54902311",
+    "d8b7c8511a2c",
+    "c95f1350e30d",
+    "63243808b149",
+    "b392bbbec1f4",
+    "bd2de1c640b6",
+    "3544561ca685",
+    "df3a38888008",
+    "0321378bd042",
+    "69b225fb598b",
+    "de5690d7d612",
+    "e4222c90706c",
+    "a0f5f526129b",
+    "d44ccc0ba93d",
+    "f247281fba63",
+    "3152bdb0ea47",
+    "2b3aa79e4244",
+    "3808e2aaf93d",
+    "b237fa49f681",
+    "e609d968c3dc",
+    "ce7b13e0f7aa",
+    "ffd060dcfeb0",
+    "bd6a23f4945b",
+    "1dad8889ea72",
+    "8250334af197",
+    "4729f8fa01c6",
+    "2b527a5d8a86",
+    "20e38220237b",
+    "bc0b846ed6bf",
+    "2965feb8b5ec",
+    "eda661cf2b57",
+    "37f2b0e73cbc",
+    "ee85900ed9d2",
+    "45c537ea2364",
+    "c1a8be3a6f4b",
+    "a06869aa80e5",
+    "bd73ebc7b854",
+    "e33d7f6b8276",
+    "2eeebfe27c6a",
+    "01c0e8abe460",
+    "42ec1e7471a4",
+    "a26862543eb1",
+    "fc17e32685e9",
+    "d95ad1c3fe30",
+    "78aa026d0c91",
+    "1c52468d7a99",
+    "952761630128",
+    "d68f526af6ae",
+    "05e06857ebb5",
+    "38bafe3be8f0",
+    "fa0f15c1a40a"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-11-11",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+     "sources": 4,
+     "score": 77,
+     "event_id": "7b46dd318f11",
+     "links": [
+      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
+      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
+     ]
+    },
+    {
+     "date": "2026-08-10",
+     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "46ad54902311",
+     "links": [
+      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
+     ]
+    },
+    {
+     "date": "2026-08-18",
+     "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+     "sources": 2,
+     "score": 40,
+     "event_id": "d8b7c8511a2c",
+     "links": [
+      "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "https://huggingface.co/blog/skypilot-hf-storage"
+     ]
+    },
+    {
+     "date": "2026-08-20",
+     "headline": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+     "sources": 2,
+     "score": 51,
+     "event_id": "c95f1350e30d",
+     "links": [
+      "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
+      "https://huggingface.co/blog/eee-community-evals"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+     "sources": 2,
+     "score": 52,
+     "event_id": "63243808b149",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+     "sources": 6,
+     "score": 73,
+     "event_id": "b392bbbec1f4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
+     "sources": 3,
+     "score": 52,
+     "event_id": "bd2de1c640b6",
+     "links": [
+      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
+      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+     "sources": 7,
+     "score": 77,
+     "event_id": "3544561ca685",
+     "links": [
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+     "sources": 3,
+     "score": 57,
+     "event_id": "df3a38888008",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
+     "sources": 3,
+     "score": 50,
+     "event_id": "0321378bd042",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "The inside story on why OpenAI agents hacked Hugging Face",
+     "sources": 4,
+     "score": 71,
+     "event_id": "69b225fb598b",
+     "links": [
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Hugging Face hack could indicate cultural issues at OpenAI",
+     "sources": 2,
+     "score": 45,
+     "event_id": "de5690d7d612",
+     "links": [
+      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
+     "sources": 2,
+     "score": 48,
+     "event_id": "e4222c90706c",
+     "links": [
+      "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+      "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Hugging Face approached Nvidia's Huang about an acquisition weeks ago, CEO tells CNBC",
+     "sources": 3,
+     "score": 50,
+     "event_id": "a0f5f526129b",
+     "links": [
+      "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+     "sources": 5,
+     "score": 75,
+     "event_id": "d44ccc0ba93d",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+      "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+     "sources": 4,
+     "score": 65,
+     "event_id": "f247281fba63",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+     "sources": 5,
+     "score": 80,
+     "event_id": "3152bdb0ea47",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckg725z5kgzo?at_medium=RSS&at_campaign=rss",
+      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2b3aa79e4244",
+     "links": [
+      "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3808e2aaf93d",
+     "links": [
+      "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+     "sources": 2,
+     "score": 43,
+     "event_id": "b237fa49f681",
+     "links": [
+      "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "https://huggingface.co/blog/baseten"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "OpenAI sparked Hugging Face bids with early investment offer ahead of Nvidia's $13 billion deal",
+     "sources": 2,
+     "score": 50,
+     "event_id": "e609d968c3dc",
+     "links": [
+      "https://www.cnbc.com/2026/09/28/openai-spark-hugging-face-bid-war-early-investment-bid-ahead-of-nvidia.html",
+      "https://huggingface.co/blog/pwc-search"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+     "sources": 2,
+     "score": 40,
+     "event_id": "ce7b13e0f7aa",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+      "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ffd060dcfeb0",
+     "links": [
+      "https://www.cnbc.com/2026/09/27/china-bytedance-alibaba-nvidia-chips.html",
+      "https://www.investing.com/news/stock-market-news/china-weighs-allowing-bytedance-alibaba-to-buy-new-nvidia-chips-the-information-reports-4919047",
+      "https://www.investing.com/news/stock-market-news/china-may-permit-alibaba-bytedance-to-buy-new-nvidia-chips--the-information-4919061"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "‘Jensen’s nightmare’: Huawei, DeepSeek narrow AI chip ecosystem gap with Nvidia: report",
+     "sources": 2,
+     "score": 42,
+     "event_id": "bd6a23f4945b",
+     "links": [
+      "https://www.scmp.com/tech/tech-war/article/3371806/jensens-nightmare-huawei-deepseek-narrow-ai-chip-ecosystem-gap-nvidia-report",
+      "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+     "sources": 2,
+     "score": 45,
+     "event_id": "1dad8889ea72",
+     "links": [
+      "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "https://www.france24.com/en/technology/20261030-binance-security-breach-has-6-3-billion-impact-in-potential-record-crypto-heist"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+     "sources": 2,
+     "score": 44,
+     "event_id": "8250334af197",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4729f8fa01c6",
+     "links": [
+      "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+      "https://www.investing.com/news/stock-market-news/openai-to-press-ahead-with-datacenter-expansion-despite-midterm-sweep-cfo-tells-cnbc-5008971"
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+     "sources": 6,
+     "score": 78,
+     "event_id": "2b527a5d8a86",
+     "links": [
+      "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+      "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+     "sources": 7,
+     "score": 86,
+     "event_id": "20e38220237b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
+     "sources": 2,
+     "score": 42,
+     "event_id": "bc0b846ed6bf",
+     "links": [
+      "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+     "sources": 4,
+     "score": 63,
+     "event_id": "2965feb8b5ec",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+     "sources": 3,
+     "score": 59,
+     "event_id": "eda661cf2b57",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Why Nvidia CEO's affair with alleged Chinese spy matters",
+     "sources": 3,
+     "score": 56,
+     "event_id": "37f2b0e73cbc",
+     "links": [
+      "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/11/09/megaspeed-nvidia-jensen-huang-alice-huang.html",
+      "https://www.france24.com/en/nvidia-to-probe-reports-that-chinese-intelligence-targeted-ceo-jensen-huang"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Why is Nvidia’s Jensen Huang at the centre of a US-China row?",
+     "sources": 4,
+     "score": 69,
+     "event_id": "ee85900ed9d2",
+     "links": [
+      "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-us-china-donald-trump-spy",
+      "https://www.scmp.com/tech/big-tech/article/3373825/nvidia-faces-defining-test-jensen-huang-probe-adds-chip-stock-turbulence",
+      "https://www.cnbc.com/2026/11/09/nvidia-stock-faces-huang-investigation-overhang-analysts.html"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+     "sources": 3,
+     "score": 50,
+     "event_id": "45c537ea2364",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters/a-79898338?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+     "sources": 6,
+     "score": 76,
+     "event_id": "c1a8be3a6f4b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "The future of AI hinges on… Jensen Huang’s sex life?",
+     "sources": 4,
+     "score": 63,
+     "event_id": "a06869aa80e5",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
+      "https://www.france24.com/en/video/20261109-nvidia-ceo-probed-over-alleged-china-spy-who-exactly-is-jensen-huang"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+     "sources": 1,
+     "score": 40,
+     "event_id": "bd73ebc7b854",
+     "links": [
+      "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+     "sources": 3,
+     "score": 61,
+     "event_id": "e33d7f6b8276",
+     "links": [
+      "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+      "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
+      "https://www.france24.com/en/nvidia-s-huang-scandal-rattles-ai-industry-built-around-him"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+     "sources": 10,
+     "score": 83,
+     "event_id": "2eeebfe27c6a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+     "sources": 3,
+     "score": 61,
+     "event_id": "01c0e8abe460",
+     "links": [
+      "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+      "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
+      "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-probe-data-centers-cramer.html"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+     "sources": 5,
+     "score": 79,
+     "event_id": "42ec1e7471a4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Nvidia hit by shareholder lawsuit over Jensen Huang’s relationship with suspected Chinese spy – business live",
+     "sources": 3,
+     "score": 62,
+     "event_id": "a26862543eb1",
+     "links": [
+      "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
+      "https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang",
+      "https://www.dw.com/en/why-nvidia-ceo-s-affair-with-alleged-chinese-spy-matters-for-ai-race/a-79898338?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
+     "sources": 3,
+     "score": 57,
+     "event_id": "fc17e32685e9",
+     "links": [
+      "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+      "https://www.scmp.com/tech/tech-war/article/3373940/us-lawmakers-push-tougher-china-export-controls-defence-bill-amid-nvidia-scrutiny",
+      "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Megaspeed and the battle to go high-end Nvidia chips into China",
+     "sources": 3,
+     "score": 60,
+     "event_id": "d95ad1c3fe30",
+     "links": [
+      "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129?maca=en-rss-en-all-1573-rdf",
+      "https://www.scmp.com/tech/big-tech/article/3373977/adding-fuel-fire-how-nvidia-ceos-troubles-us-midterms-may-tighten-china-chip-curbs",
+      "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+     "sources": 2,
+     "score": 49,
+     "event_id": "78aa026d0c91",
+     "links": [
+      "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
+      "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
+      "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+     "sources": 2,
+     "score": 42,
+     "event_id": "1c52468d7a99",
+     "links": [
+      "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+      "https://huggingface.co/blog/decision"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Nvidia has a Jensen Huang problem—and no obvious successor",
+     "sources": 2,
+     "score": 41,
+     "event_id": "952761630128",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+     "sources": 7,
+     "score": 83,
+     "event_id": "d68f526af6ae",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Amid Nvidia saga, T-Head IPO a crucial test for Alibaba – and China’s AI ambitions",
+     "sources": 1,
+     "score": 46,
+     "event_id": "05e06857ebb5",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3374090/amid-nvidia-saga-t-head-ipo-crucial-test-alibaba-and-chinas-ai-ambitions",
+      "https://www.scmp.com/plus/business/banking-finance/article/3374068/alibaba-readies-t-head-chip-ipo-hong-kong-frenzy-cools",
+      "https://www.scmp.com/tech/tech-war/article/3373940/us-lawmakers-push-tougher-china-export-controls-defence-bill-amid-nvidia-scrutiny"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+     "sources": 3,
+     "score": 52,
+     "event_id": "38bafe3be8f0",
+     "links": [
+      "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
+      "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal",
+     "sources": 4,
+     "score": 67,
+     "event_id": "fa0f15c1a40a",
+     "links": [
+      "https://www.france24.com/en/tv-shows/the-debate/20261111-undone-by-a-honey-trap-nvidia-s-jensen-huang-at-heart-of-china-spy-scandal",
+      "https://www.france24.com/en/tv-shows/the-debate/20261111-nvidia-s-jensen-huang-at-heart-of-china-spy-scandal",
+      "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "8d4f8a634705",
+   "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+   "section": "world",
+   "entities": [
+    "journal",
+    "kong's",
+    "summit",
+    "trump's",
+    "industry",
+    "ipos",
+    "kong",
+    "executive",
+    "wall",
+    "softbank",
+    "rokid",
+    "european",
+    "shanghai",
+    "street",
+    "hong",
+    "harmonyos",
+    "jailed",
+    "wong",
+    "epstein",
+    "ecosystem",
+    "asia",
+    "google",
+    "hynix",
+    "judge",
+    "hosts",
+    "moonshot",
+    "nasdaq",
+    "joshua",
+    "leaders",
+    "asian",
+    "kimi"
+   ],
+   "event_ids": [
+    "8d4f8a634705",
+    "e2312c1237f9",
+    "323d97d785b5",
+    "555171a3d51e",
+    "90b187c3a547",
+    "110a86be6895",
+    "f4d95320390a",
+    "ae0f99b97c11",
+    "42fe91b5e44d",
+    "c5d7fab3c9e5",
+    "2c4c5ca7df75",
+    "d92a5a319d7e",
+    "18979a846cd4",
+    "c3c296345fb4",
+    "faf1874beb29",
+    "79e2afd27123",
+    "7a57011ecd6c",
+    "d1ee3736dbbc",
+    "037f4509cc02",
+    "3d5afa8d5da6",
+    "99997e4777cd"
+   ],
+   "first_seen": "2026-09-02",
+   "last_seen": "2026-11-11",
+   "timeline": [
+    {
+     "date": "2026-09-02",
+     "headline": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
+     "sources": 4,
+     "score": 68,
+     "event_id": "8d4f8a634705",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx2zmzg0408o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china",
+      "https://www.aljazeera.com/news/2026/9/2/hong-kong-activist-joshua-wong-pleads-guilty-in-national-security-case?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Hong Kong activist Joshua Wong pleads guilty in second national security case",
+     "sources": 2,
+     "score": 46,
+     "event_id": "e2312c1237f9",
+     "links": [
+      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-security-case",
+      "https://www.scmp.com/business/article/3365657/jdcoms-us13b-expansion-could-test-hong-kongs-footfall-driven-retail-property-model?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Hong Kong activist Joshua Wong could face life in prison after guilty plea",
+     "sources": 3,
+     "score": 62,
+     "event_id": "323d97d785b5",
+     "links": [
+      "https://www.france24.com/en/video/20260902-hong-kong-activist-joshua-wong-could-face-life-in-prison-after-guilty-plea",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20260902-hong-kong-democracy-activist-joshua-wong-pleads-guilty-to-foreign-collusion"
+     ]
+    },
+    {
+     "date": "2026-09-06",
+     "headline": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources",
+     "sources": 2,
+     "score": 46,
+     "event_id": "555171a3d51e",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3366271/moonshot-ai-creator-kimi-k3-model-has-filed-hong-kong-ipo-sources?utm_source=rss_feed",
+      "https://www.investing.com/news/stock-market-news/more-central-asian-state-firms-plan-hong-kong-listings-finance-chief-says-4890265"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Wall Street Journal publisher convicted in Hong Kong of deterring reporter from union role",
+     "sources": 2,
+     "score": 48,
+     "event_id": "90b187c3a547",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/10/wall-street-journal-selina-cheng-termination-lawsuit",
+      "https://www.france24.com/en/asia-pacific/20260911-hong-kong-court-sentences-tiananmen-vigil-activists-to-between-5-and-7-years-in-jail"
+     ]
+    },
+    {
+     "date": "2026-09-12",
+     "headline": "Kimi maker Moonshot AI to explore dual Hong Kong and Shanghai IPOs to boost capital: sources",
+     "sources": 1,
+     "score": 42,
+     "event_id": "110a86be6895",
+     "links": [
+      "https://www.scmp.com/tech/tech-trends/article/3367027/kimi-maker-moonshot-ai-explore-dual-hong-kong-and-shanghai-ipos-boost-capital-sources?utm_source=rss_feed",
+      "https://www.scmp.com/news/hong-kong/law-and-crime/article/3366500/why-chelsea-football-shirts-are-making-hong-kong-fans-nervous-about-crypto-laws?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Hong Kong’s IPO haul in first 9 months smashes record despite Nasdaq’s fundraising lead",
+     "sources": 1,
+     "score": 40,
+     "event_id": "f4d95320390a",
+     "links": [
+      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed",
+      "https://www.scmp.com/business/banking-finance/article/3369299/mainland-chinas-pcb-giant-wins-hong-kong-approval-planned-us3b-listing-sources?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Hong Kong journalist arrested on sedition charge",
+     "sources": 2,
+     "score": 44,
+     "event_id": "ae0f99b97c11",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
+      "https://www.scmp.com/business/banking-finance/article/3369316/hong-kongs-ipo-haul-first-9-months-smashes-record-despite-nasdaqs-fundraising-lead?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
+     "sources": 2,
+     "score": 46,
+     "event_id": "42fe91b5e44d",
+     "links": [
+      "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
+      "https://www.investing.com/news/stock-market-news/mattel-attracts-takeover-interest-from-authentic-brands-group-the-wall-street-journal-reports-4928092"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off",
+     "sources": 2,
+     "score": 46,
+     "event_id": "c5d7fab3c9e5",
+     "links": [
+      "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
+      "https://www.investing.com/news/stock-market-news/asia-stocks-slide-as-china-chip-threat-hits-samsung-sk-hynix-oil-retreats-4945342"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
+     "sources": 1,
+     "score": 42,
+     "event_id": "2c4c5ca7df75",
+     "links": [
+      "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening?utm_source=rss_feed",
+      "https://www.scmp.com/business/banking-finance/article/3370504/hong-kong-workers-fear-ai-driven-disruption-retirement-only-20-feel-prepared-survey?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Rokid launches ‘no man’s land’ retail experience with Hong Kong flagship store opening",
+     "sources": 1,
+     "score": 56,
+     "event_id": "d92a5a319d7e",
+     "links": [
+      "https://www.scmp.com/tech/tech-trends/article/3371300/rokid-launches-no-mans-land-retail-experience-hong-kong-flagship-store-opening",
+      "https://www.scmp.com/tech/tech-trends/article/3371095/hong-kong-vies-role-robotics-boom-launch-embodied-ai-hub",
+      "https://www.scmp.com/business/markets/article/3371039/hong-kong-investors-most-eager-asia-beat-markets-temper-return-hopes-report"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Hong Kong’s leader apologises for residential fire that killed 168 people",
+     "sources": 3,
+     "score": 62,
+     "event_id": "18979a846cd4",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people",
+      "https://www.scmp.com/presented/tech/topics/hkstp-powering-hks-it-development/article/3372428/securing-global-giant-hkstp-lands-merck-power-hong-kongs-it-ambitions",
+      "https://www.atlasobscura.com/places/tai-hang-fire-dragon-dance"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Google value plunges by $500bn as AI fears rattle Wall Street",
+     "sources": 3,
+     "score": 55,
+     "event_id": "c3c296345fb4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/technology/2026/oct/29/amazon-earnings-report-mixed-picture"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+     "sources": 2,
+     "score": 50,
+     "event_id": "faf1874beb29",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+     "sources": 6,
+     "score": 80,
+     "event_id": "79e2afd27123",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+     "sources": 2,
+     "score": 44,
+     "event_id": "7a57011ecd6c",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20261105-joshua-wong-hong-kong-10-years-jail-foreign-collusion"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Judge blocks construction of Trump's massive arch after federal agency approval",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d1ee3736dbbc",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
+     "sources": 1,
+     "score": 40,
+     "event_id": "037f4509cc02",
+     "links": [
+      "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Hong Kong Hosts HDD HarmonyOS Ecosystem Executive Summit with Over 100 Industry Leaders",
+     "sources": 1,
+     "score": 46,
+     "event_id": "3d5afa8d5da6",
+     "links": [
+      "https://www.scmp.com/presented/tech/topics/flexible-logistics-sme-growth/article/3373866/hong-kong-hosts-hdd-harmonyos-ecosystem-executive-summit-over-100-industry-leaders",
+      "https://www.scmp.com/business/companies/article/3373886/1-mainland-chinese-chip-ipo-soars-another-stumbles-busy-hong-kong-week",
+      "https://www.scmp.com/business/banking-finance/article/3373071/tokenised-gold-bar-advance-hong-kongs-ambitions-digital-metal-trading-hub"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+     "sources": 2,
+     "score": 40,
+     "event_id": "99997e4777cd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2c2b2700dd7b",
+   "title": "Microsoft Patches a Record 570 Security Flaws",
+   "section": "safety",
+   "entities": [
+    "execute",
+    "group",
+    "lazarus",
+    "record",
+    "vulnerabilities",
+    "security",
+    "flaw",
+    "linux",
+    "software",
+    "keys",
+    "drupal",
+    "malicious",
+    "critical",
+    "microsoft",
+    "backdoors",
+    "highly",
+    "lets",
+    "days",
+    "within",
+    "sshole",
+    "bluetooth",
+    "hours",
+    "weaponized",
+    "code",
+    "cisco",
+    "privacy",
+    "pairing",
+    "clones",
+    "patches",
+    "execution",
+    "palo",
+    "chat",
+    "apple",
+    "flaws",
+    "remote",
+    "actively",
+    "commerce",
+    "repositories",
+    "arista",
+    "siemens"
+   ],
+   "event_ids": [
+    "2c2b2700dd7b",
+    "42a9e60af11b",
+    "838b4b1ce253",
+    "29d08fa787d9",
+    "aabd8e14b270",
+    "cf5c346fcefd",
+    "7325900e53d9",
+    "6d2a0802c49f",
+    "f4eff089be53",
+    "3e6bc640da57",
+    "a40dff3d749a",
+    "d7669d6db99e",
+    "b86930e18372",
+    "83d130e7ba9f",
+    "ba7507c6f20e"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-11-11",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "Microsoft Patches a Record 570 Security Flaws",
+     "sources": 2,
+     "score": 56,
+     "event_id": "2c2b2700dd7b",
+     "links": [
+      "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+     "sources": 1,
+     "score": 46,
+     "event_id": "42a9e60af11b",
+     "links": [
+      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+     "sources": 1,
+     "score": 44,
+     "event_id": "838b4b1ce253",
+     "links": [
+      "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+     "sources": 1,
+     "score": 44,
+     "event_id": "29d08fa787d9",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+      "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+     "sources": 1,
+     "score": 44,
+     "event_id": "aabd8e14b270",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+     "sources": 2,
+     "score": 50,
+     "event_id": "cf5c346fcefd",
+     "links": [
+      "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+     "sources": 1,
+     "score": 46,
+     "event_id": "7325900e53d9",
+     "links": [
+      "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+     "sources": 1,
+     "score": 44,
+     "event_id": "6d2a0802c49f",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+     "sources": 1,
+     "score": 44,
+     "event_id": "f4eff089be53",
+     "links": [
+      "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+     "sources": 1,
+     "score": 44,
+     "event_id": "3e6bc640da57",
+     "links": [
+      "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "https://thehackernews.com/2026/11/attackers-target-unpatched.html"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+     "sources": 1,
+     "score": 44,
+     "event_id": "a40dff3d749a",
+     "links": [
+      "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+     "sources": 2,
+     "score": 52,
+     "event_id": "d7669d6db99e",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b86930e18372",
+     "links": [
+      "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Microsoft Patches More Than 1,400 Security Flaws",
+     "sources": 2,
+     "score": 48,
+     "event_id": "83d130e7ba9f",
+     "links": [
+      "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+     "sources": 1,
+     "score": 44,
+     "event_id": "ba7507c6f20e",
+     "links": [
+      "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+      "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dfdd7bb2e5a4",
+   "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "section": "world",
+   "entities": [
+    "pete",
+    "hegseth",
+    "defence",
+    "republican",
+    "iran",
+    "secretary",
+    "house"
+   ],
+   "event_ids": [
+    "dfdd7bb2e5a4",
+    "32b6523ccabd",
+    "f2669eff1e1e",
+    "cda23e6e5446",
+    "fb5573ea532c",
+    "9d9f5b88df97"
+   ],
+   "first_seen": "2026-11-09",
+   "last_seen": "2026-11-11",
+   "timeline": [
+    {
+     "date": "2026-11-09",
+     "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+     "sources": 5,
+     "score": 77,
+     "event_id": "dfdd7bb2e5a4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/09/nx-s1-6034483/thomas-massie-impeachment-pete-hegseth",
+      "https://www.dw.com/en/republican-thomas-massie-seeks-to-force-house-vote-on-impeaching-defense-secretary-pete-hegseth-over-iran-war/a-79905323?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
+     "sources": 2,
+     "score": 47,
+     "event_id": "32b6523ccabd",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
+      "https://www.france24.com/en/us-defense-secretary-hegseth-faces-expected-impeachment-vote-this-week",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/republican-lawmaker-moves-to-impeach-us-defense-secretary-hegseth?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Pete Hegseth decries impeachment push, defends Iran war handling",
+     "sources": 3,
+     "score": 52,
+     "event_id": "f2669eff1e1e",
+     "links": [
+      "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
+      "https://www.france24.com/en/americas/20261110-live-pentagon-chief-pete-hegseth-calls-move-to-impeach-him-a-farce",
+      "https://www.aljazeera.com/news/2026/11/10/pentagon-chief-hegseth-calls-us-house-impeachment-effort-a-farce?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "House votes to effectively end the impeachment effort against Pete Hegseth",
+     "sources": 3,
+     "score": 53,
+     "event_id": "cda23e6e5446",
+     "links": [
+      "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+      "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+      "https://www.france24.com/en/video/20261110-it-s-a-farce-hegseth-slams-impeachment-effort"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+     "sources": 4,
+     "score": 64,
+     "event_id": "fb5573ea532c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
+     "sources": 2,
+     "score": 56,
+     "event_id": "9d9f5b88df97",
+     "links": [
+      "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
+      "https://www.npr.org/2026/11/11/nx-s1-6035568/morning-news-brief-hegseth-impeachment-new-house-gop-leader-uk-probes-base-plot",
+      "https://www.france24.com/en/house-republicans-quash-effort-to-impeach-defense-secretary-hegseth"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aed83b0c0f81",
+   "title": "David Walliams accused of sexual misconduct after losing injunction bid",
+   "section": "culture",
+   "entities": [
+    "walliams",
+    "david",
+    "jonathan",
+    "ross",
+    "brand",
+    "russell"
+   ],
+   "event_ids": [
+    "aed83b0c0f81",
+    "e2e7aea6e84e"
+   ],
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-11",
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "headline": "David Walliams accused of sexual misconduct after losing injunction bid",
+     "sources": 3,
+     "score": 56,
+     "event_id": "aed83b0c0f81",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women",
+      "https://www.aljazeera.com/news/2026/11/10/uk-comedian-and-childrens-author-david-walliams-accused-of-grooming-minors?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Jonathan Ross ‘horrified’ by David Walliams and Russell Brand revelations",
+     "sources": 2,
+     "score": 43,
+     "event_id": "e2e7aea6e84e",
+     "links": [
+      "https://www.theguardian.com/tv-and-radio/2026/nov/11/jonathan-ross-david-walliams-russell-brand-revelations",
+      "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -22311,5 +22337,5 @@
    ]
   }
  ],
- "updated": "2026-11-11T18:20:10+00:00"
+ "updated": "2026-11-11T21:20:44+00:00"
 }
