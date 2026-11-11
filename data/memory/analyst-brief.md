@@ -1,10 +1,24 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-11
 
-Paměť obsahuje **193 vláken**. Aktivních za posledních 14 dní: **52**.
+Paměť obsahuje **193 vláken**. Aktivních za posledních 14 dní: **53**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+- rubrika `world` · sledováno 92 dní · 60 záznamů
+- časová osa:
+  - **2026-10-21** (2 zdrojů) Russia arrests German man, calls him a Ukraine 'mercenary'
+  - **2026-10-21** (3 zdrojů) Russia says it is ready to resume talks with Ukraine and US to end war
+  - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
+  - **2026-10-31** (2 zdrojů) Iran says four tankers on fire after striking mines in Hormuz
+  - **2026-11-02** (3 zdrojů) Ukraine, Russia report hacking attacks on emergency alert apps
+  - **2026-11-02** (2 zdrojů) Ukraine and Russia both hit by cyberattacks on emergency apps
+  - **2026-11-02** (2 zdrojů) What we know about the alert app hack in Ukraine and Russia
+  - **2026-11-03** (2 zdrojů) Zelenskyy to make unexpected visit to Berlin for talks with Merz – Europe live
+  - **2026-11-03** (2 zdrojů) What US midterm elections mean for Ukraine, Iran and elsewhere
+  - **2026-11-11** (2 zdrojů) Ukraine’s Zelenskyy ‘happy’ with US envoys’ approach as Russia talks enter second day – Europe live
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 88 dní · 60 záznamů
@@ -75,20 +89,6 @@ Paměť obsahuje **193 vláken**. Aktivních za posledních 14 dní: **52**.
   - **2026-11-06** (2 zdrojů) Past White House adviser Raj Panjabi has written a playbook for 'living room' crises
   - **2026-11-06** (2 zdrojů) Four midterms takeaways for 2028 White House race
   - **2026-11-06** (1 zdrojů) CARE Packages Provided a Lifeline for World War II Survivors. Here’s How the Group Turned Leftover Army Rations Into an 80-Year Legacy
-
-### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 84 dní · 60 záznamů
-- časová osa:
-  - **2026-10-19** (2 zdrojů) Strait of Hormuz scoured for spilt cargo after Iran attacks container ships
-  - **2026-10-21** (2 zdrojů) Russia arrests German man, calls him a Ukraine 'mercenary'
-  - **2026-10-21** (3 zdrojů) Russia says it is ready to resume talks with Ukraine and US to end war
-  - **2026-10-22** (2 zdrojů) Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
-  - **2026-10-31** (2 zdrojů) Iran says four tankers on fire after striking mines in Hormuz
-  - **2026-11-02** (3 zdrojů) Ukraine, Russia report hacking attacks on emergency alert apps
-  - **2026-11-02** (2 zdrojů) Ukraine and Russia both hit by cyberattacks on emergency apps
-  - **2026-11-02** (2 zdrojů) What we know about the alert app hack in Ukraine and Russia
-  - **2026-11-03** (2 zdrojů) Zelenskyy to make unexpected visit to Berlin for talks with Merz – Europe live
-  - **2026-11-03** (2 zdrojů) What US midterm elections mean for Ukraine, Iran and elsewhere
 
 ---
 
