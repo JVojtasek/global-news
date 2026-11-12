@@ -2539,46 +2539,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
+    "openai",
+    "t-head",
+    "chinese",
+    "silicon",
+    "trusted",
+    "assets",
+    "steal",
+    "cyberattack",
+    "megaspeed",
+    "hegseth",
     "qubole's",
     "cyberattacks",
-    "chinese",
-    "access",
-    "amid",
-    "nvidia",
-    "huang",
-    "trump",
-    "steal",
-    "valley",
-    "hegseth",
-    "jensen",
-    "face",
-    "china",
-    "trusted",
-    "t-head",
-    "beijing",
-    "suffers",
-    "unexpected",
-    "assets",
-    "nvidia's",
-    "asia",
-    "silicon",
-    "cyberattack",
-    "alibaba",
-    "drove",
-    "openai",
-    "experts",
-    "cnbc",
     "kleinman",
-    "security",
-    "exploit",
-    "megaspeed",
+    "reward",
+    "asia",
+    "unexpected",
     "york",
+    "alibaba",
+    "jensen",
+    "nvidia's",
+    "drove",
+    "amid",
+    "exploit",
+    "experts",
+    "valley",
     "hackers",
-    "data",
-    "undone",
+    "security",
+    "trump",
+    "cnbc",
+    "suffers",
     "goodfire",
     "labs",
-    "reward"
+    "data",
+    "undone",
+    "beijing",
+    "nvidia",
+    "face",
+    "access",
+    "huang",
+    "china"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -2641,22 +2641,12 @@
     "a020bde73133",
     "f3bd3dd370d0",
     "ccba7e485bb3",
-    "388a48be7bb7"
+    "388a48be7bb7",
+    "a071c05d950f"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-12",
    "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "46ad54902311",
-     "links": [
-      "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
-      "https://simonwillison.net/2026/Aug/7/openai-timeline/"
-     ]
-    },
     {
      "date": "2026-08-18",
      "headline": "OpenAI institutes new safeguards after Hugging Face breach",
@@ -3343,6 +3333,18 @@
       "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
       "https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Jensen Huang has resigned, what's next for Nvidia?",
+     "sources": 6,
+     "score": 83,
+     "event_id": "a071c05d950f",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
+      "https://www.theguardian.com/commentisfree/2026/nov/12/jensen-huang-nvidia-trump-oligarchy"
      ]
     }
    ]
@@ -5082,46 +5084,46 @@
    "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
    "section": "culture",
    "entities": [
-    "unconquered",
-    "hidden",
-    "astronomers",
+    "dwarf",
+    "were",
     "marvel",
-    "traces",
-    "ancient",
-    "made",
-    "bring",
-    "getting",
     "risks",
     "high",
-    "cannabis",
-    "system",
-    "preserved",
-    "filmmakers",
-    "convinced",
-    "found",
     "pluto",
-    "solved",
-    "million-year-old",
-    "dwarf",
-    "shelter",
-    "tomb",
-    "were",
-    "fast",
     "since",
-    "planet",
-    "discovered",
-    "warrior",
-    "everyone",
-    "archaeologists",
-    "solar",
-    "humans",
-    "years",
-    "object",
-    "mysterious",
-    "orbiting",
+    "system",
     "glass",
+    "cracked",
+    "first",
+    "solar",
+    "mysterious",
+    "million-year-old",
+    "tomb",
+    "fast",
+    "object",
+    "orbiting",
+    "engineers",
+    "traces",
+    "ancient",
+    "bring",
+    "preserved",
+    "year-old",
+    "sank",
+    "discovered",
+    "years",
+    "shelter",
+    "convinced",
+    "cannabis",
+    "solved",
+    "archaeologists",
+    "combination",
+    "unconquered",
+    "code",
+    "hidden",
+    "planet",
+    "open",
     "photograph",
-    "year-old"
+    "getting"
    ],
    "event_ids": [
     "1301430cb05f",
@@ -5155,7 +5157,8 @@
     "a8d9169ef0a2",
     "088fc877c632",
     "940dfd63a163",
-    "f30fa54b5234"
+    "f30fa54b5234",
+    "95efb641efe5"
    ],
    "first_seen": "2026-08-25",
    "last_seen": "2026-11-12",
@@ -5504,6 +5507,836 @@
      "links": [
       "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
      ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "This Mysterious Combination Lock Sank in a 1583 Shipwreck. When Engineers Cracked the Code, It Clicked Open for the First Time in More Than 400 Years",
+     "sources": 1,
+     "score": 44,
+     "event_id": "95efb641efe5",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/this-mysterious-combination-lock-sank-in-a-1583-shipwreck-when-engineers-cracked-the-code-it-clicked-open-for-the-first-time-in-more-than-400-years-180989864/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eca0fc692bc0",
+   "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+   "section": "world",
+   "entities": [
+    "crace",
+    "thames",
+    "healey",
+    "nige",
+    "france's",
+    "stinky",
+    "macron",
+    "british",
+    "brexit",
+    "pmqs",
+    "water",
+    "andy",
+    "heathrow",
+    "britain",
+    "wednesday",
+    "labour",
+    "editorial",
+    "rachel",
+    "john",
+    "burnham",
+    "reeves",
+    "starmer",
+    "win-win",
+    "hospitality",
+    "sanchez",
+    "london",
+    "guardian",
+    "tory",
+    "spain's",
+    "u-turn"
+   ],
+   "event_ids": [
+    "eca0fc692bc0",
+    "79767a596611",
+    "ccb2c5bc9e36",
+    "ebc944549304",
+    "02df7fa6f0a5",
+    "972b0fe1af77",
+    "cc774da80403",
+    "a6788519913e",
+    "55177db2a4ed",
+    "86fc18c35363",
+    "7393363c7b06",
+    "af201c60dedd",
+    "5d1a9e0758ac",
+    "8c89e651a54b",
+    "04d1070ede74",
+    "23dc0dc71791",
+    "62a29032f7f4",
+    "aa853b613107",
+    "9cf78de3fccf",
+    "bf6279ad02f6",
+    "115a57eb0db7",
+    "e85e227fa364",
+    "35fe67d2afb7",
+    "514a8ce70568",
+    "9e88044f20ea",
+    "ce619eba8b16"
+   ],
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-11-12",
+   "timeline": [
+    {
+     "date": "2026-09-03",
+     "headline": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+     "sources": 3,
+     "score": 58,
+     "event_id": "eca0fc692bc0",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
+      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260903-tapestry-diplomacy-uk-france-ties-in-focus-as-macron-and-burnham-hold-first-talks"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham | John Crace",
+     "sources": 2,
+     "score": 49,
+     "event_id": "79767a596611",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham",
+      "https://www.france24.com/en/replay-uk-pm-andy-burnham-faces-lawmakers-for-first-time-since-taking-office"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "UK politics: Andy Burnham pressed on borrowing costs and spending at first PMQs – as it happened",
+     "sources": 2,
+     "score": 48,
+     "event_id": "ccb2c5bc9e36",
+     "links": [
+      "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
+      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Andy Burnham blames Tory legacy for leaving UK economy vulnerable",
+     "sources": 2,
+     "score": 44,
+     "event_id": "ebc944549304",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-blames-tory-legacy-uk-economy-vulnerable",
+      "https://www.theguardian.com/politics/video/2026/sep/02/andy-burnham-clashes-with-kemi-badenoch-at-his-first-pmqs-video"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
+     "sources": 1,
+     "score": 41,
+     "event_id": "02df7fa6f0a5",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
+      "https://www.theguardian.com/politics/video/2026/sep/01/andy-burnham-pays-tribute-commons-keir-starmer-stepping-down-mp-video"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Hospitality industry urges Andy Burnham to lay out VAT cut plans",
+     "sources": 2,
+     "score": 46,
+     "event_id": "972b0fe1af77",
+     "links": [
+      "https://www.theguardian.com/business/2026/sep/14/hospitality-industry-andy-burnham-vat-reduction",
+      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
+      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "Andy Burnham urged to set dementia waiting-time target",
+     "sources": 2,
+     "score": 46,
+     "event_id": "cc774da80403",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/commentisfree/2026/sep/17/andy-burnham-climate-crisis-funding-peoples-power-projects"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Andy Burnham refuses to back third runway at Heathrow",
+     "sources": 4,
+     "score": 70,
+     "event_id": "a6788519913e",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "The Guardian view on Thames Water: Andy Burnham should nationalise this failed monopoly | Editorial",
+     "sources": 1,
+     "score": 47,
+     "event_id": "55177db2a4ed",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-thames-water-andy-burnham-should-nationalise-this-failed-monopoly",
+      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Wednesday briefing: ​Can Andy Burnham live up to the party’s faith in him?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "86fc18c35363",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/30/wednesday-briefing-can-andy-burnham-live-up-to-the-partys-faith-in-him",
+      "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-review-uk-relationship-with-eu-options"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "France's Macron, Spain's Sanchez welcome idea of UK rejoining EU after Burnham remarks",
+     "sources": 2,
+     "score": 43,
+     "event_id": "7393363c7b06",
+     "links": [
+      "https://www.dw.com/en/france-s-macron-spain-s-sanchez-welcome-idea-of-uk-rejoining-eu-after-burnham-remarks/a-79493469?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/sep/30/macron-welcome-back-burnham-suggestion-uk-could-rejoin-eu"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "‘He persuaded us’: Labour ministers moved by Andy Burnham’s emotional conference speech",
+     "sources": 3,
+     "score": 62,
+     "event_id": "af201c60dedd",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/30/labour-ministers-moved-persuaded-andy-burnham-emotional-conference-speech",
+      "https://www.theguardian.com/football/2026/sep/30/andy-burnham-manchester-city-premier-league",
+      "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Burnham vows to seek new ‘long-term’ relationship with EU in emotional Labour conference speech",
+     "sources": 2,
+     "score": 45,
+     "event_id": "5d1a9e0758ac",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
+      "https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Burnham’s emotional solo act had Labour in raptures – but his promises will take time to come good",
+     "sources": 2,
+     "score": 44,
+     "event_id": "8c89e651a54b",
+     "links": [
+      "https://www.theguardian.com/politics/2026/sep/29/burnhams-emotional-solo-act-had-labour-in-raptures-but-his-promises-will-take-time-to-come-good",
+      "https://www.theguardian.com/politics/video/2026/sep/29/andy-burnham-father-roy-labour-conference-video"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "Andy Burnham’s big bold leap - podcast",
+     "sources": 2,
+     "score": 55,
+     "event_id": "04d1070ede74",
+     "links": [
+      "https://www.theguardian.com/news/audio/2026/sep/30/andy-burnhams-big-bold-leap-podcast",
+      "https://www.theguardian.com/commentisfree/2026/sep/29/the-guardian-view-on-andy-burnham-grounds-to-hope-for-a-better-britain",
+      "https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
+     "sources": 2,
+     "score": 40,
+     "event_id": "23dc0dc71791",
+     "links": [
+      "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
+      "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Stinky business: south London bike shop hit by ‘unbearable’ stench from Thames Water sewer",
+     "sources": 2,
+     "score": 44,
+     "event_id": "62a29032f7f4",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill",
+      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Burnham urges officials to come up with more radical options for Thames Water",
+     "sources": 2,
+     "score": 40,
+     "event_id": "aa853b613107",
+     "links": [
+      "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
+      "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Thames Water creditors secure former Labour minister to drive rescue deal",
+     "sources": 2,
+     "score": 43,
+     "event_id": "9cf78de3fccf",
+     "links": [
+      "https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal",
+      "https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+     "sources": 2,
+     "score": 40,
+     "event_id": "bf6279ad02f6",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+      "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Brexit deal is not good enough for British public, says Andy Burnham",
+     "sources": 2,
+     "score": 40,
+     "event_id": "115a57eb0db7",
+     "links": [
+      "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
+      "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
+     "sources": 2,
+     "score": 47,
+     "event_id": "e85e227fa364",
+     "links": [
+      "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
+      "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
+      "https://www.theguardian.com/politics/audio/2026/oct/26/what-makes-andy-burnham-think-britain-can-rejoin-the-eu-podcast"
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Schrödinger’s racism, Nige’s latest wheeze to dodge his associates’ bigotry | John Crace",
+     "sources": 2,
+     "score": 46,
+     "event_id": "35fe67d2afb7",
+     "links": [
+      "https://www.theguardian.com/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer",
+      "https://www.theguardian.com/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "John Healey pays homage to predecessor Rachel Reeves",
+     "sources": 2,
+     "score": 44,
+     "event_id": "514a8ce70568",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c95ynvr04vgdo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/money/2026/oct/29/john-healey-energy-support-package-budget-explainer"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Thames Water asks creditors for more time to help repay £20bn debt pile",
+     "sources": 2,
+     "score": 40,
+     "event_id": "9e88044f20ea",
+     "links": [
+      "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
+      "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "‘Win-win’ deal with EU could be done, Andy Burnham says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "ce619eba8b16",
+     "links": [
+      "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
+      "https://www.theguardian.com/politics/video/2026/nov/09/cop31-will-andy-burnham-choose-climate-or-cost-of-living-politics-weekly"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e138211becc3",
+   "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+   "section": "tech",
+   "entities": [
+    "ai-powered",
+    "carbon",
+    "flash",
+    "robotics",
+    "hydrogen",
+    "asimov-jailbreak",
+    "monday",
+    "introducing",
+    "transcribe",
+    "black",
+    "meet",
+    "avatar",
+    "cyber",
+    "argon",
+    "google",
+    "googlebook",
+    "gemini",
+    "friday",
+    "deepmind",
+    "flash-lite",
+    "developing"
+   ],
+   "event_ids": [
+    "e138211becc3",
+    "cf3951101d71",
+    "b0c60d5e22ba",
+    "29ae84aa2a01",
+    "b27fb7cf6534",
+    "b6a7c3b080e8",
+    "26792917d6d7",
+    "ee9698a7fdb9",
+    "f79a067193d7",
+    "556e1e4b03fe",
+    "47672f48bba9",
+    "884ebf3c3978",
+    "471508c04c30",
+    "edd884e3eb65",
+    "e7107d9a76d9",
+    "bfd6acefc1fb",
+    "2cb9d43acd5a",
+    "004c51f512e0",
+    "0b2e1c02de47",
+    "77a7ce670b8c"
+   ],
+   "first_seen": "2026-08-26",
+   "last_seen": "2026-11-12",
+   "timeline": [
+    {
+     "date": "2026-08-26",
+     "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+     "sources": 4,
+     "score": 59,
+     "event_id": "e138211becc3",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cf3951101d71",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+     "sources": 3,
+     "score": 49,
+     "event_id": "b0c60d5e22ba",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
+     "sources": 2,
+     "score": 44,
+     "event_id": "29ae84aa2a01",
+     "links": [
+      "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
+      "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Google says its Gemini AI model hacked three other companies",
+     "sources": 2,
+     "score": 51,
+     "event_id": "b27fb7cf6534",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+      "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Google’s Gemini is the latest AI model to hack other companies",
+     "sources": 3,
+     "score": 46,
+     "event_id": "b6a7c3b080e8",
+     "links": [
+      "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+     "sources": 3,
+     "score": 54,
+     "event_id": "26792917d6d7",
+     "links": [
+      "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+      "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+     "sources": 3,
+     "score": 46,
+     "event_id": "ee9698a7fdb9",
+     "links": [
+      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Google confirms Gemini models hacked three companies in May 2026",
+     "sources": 2,
+     "score": 45,
+     "event_id": "f79a067193d7",
+     "links": [
+      "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+     "sources": 6,
+     "score": 72,
+     "event_id": "556e1e4b03fe",
+     "links": [
+      "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Google brings agentic AI to Gemini, starting with businesses",
+     "sources": 2,
+     "score": 40,
+     "event_id": "47672f48bba9",
+     "links": [
+      "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "https://www.cnbc.com/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up.html"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Gemini 4 Argon for Robotics",
+     "sources": 5,
+     "score": 80,
+     "event_id": "884ebf3c3978",
+     "links": [
+      "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Developing Gemini 4 Argon responsibly and safely",
+     "sources": 2,
+     "score": 40,
+     "event_id": "471508c04c30",
+     "links": [
+      "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+     "sources": 1,
+     "score": 40,
+     "event_id": "edd884e3eb65",
+     "links": [
+      "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+      "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Introducing Gemini 3.8 Live with Live Avatar",
+     "sources": 1,
+     "score": 40,
+     "event_id": "e7107d9a76d9",
+     "links": [
+      "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+     "sources": 6,
+     "score": 71,
+     "event_id": "bfd6acefc1fb",
+     "links": [
+      "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "How to shop like a pro during Black Friday and Cyber Monday",
+     "sources": 1,
+     "score": 48,
+     "event_id": "2cb9d43acd5a",
+     "links": [
+      "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
+      "https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores",
+      "https://www.theverge.com/gadgets/1024433/black-friday-2026-giveaway-sweepstakes"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+     "sources": 2,
+     "score": 42,
+     "event_id": "004c51f512e0",
+     "links": [
+      "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Gemini 4 Carbon is now available",
+     "sources": 3,
+     "score": 47,
+     "event_id": "0b2e1c02de47",
+     "links": [
+      "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+     "sources": 3,
+     "score": 57,
+     "event_id": "77a7ce670b8c",
+     "links": [
+      "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "341a230bd977",
+   "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+   "section": "tech",
+   "entities": [
+    "openai",
+    "anthropic",
+    "hong",
+    "claude",
+    "chinese",
+    "researchers",
+    "kong",
+    "startups",
+    "astra"
+   ],
+   "event_ids": [
+    "341a230bd977",
+    "1db8587bd622",
+    "a8365cfa26c0",
+    "50c802e9ffe4",
+    "5618ffbe19d5",
+    "23b05835e46b",
+    "00f03c836310",
+    "fad16983d932",
+    "5473bde55aee",
+    "ba390530e9c6",
+    "27829b76e88b",
+    "9f453a258298"
+   ],
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-11-12",
+   "timeline": [
+    {
+     "date": "2026-09-03",
+     "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
+     "sources": 4,
+     "score": 65,
+     "event_id": "341a230bd977",
+     "links": [
+      "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+     "sources": 2,
+     "score": 40,
+     "event_id": "1db8587bd622",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Researchers used Claude to hack OpenAI",
+     "sources": 3,
+     "score": 46,
+     "event_id": "a8365cfa26c0",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
+     "sources": 2,
+     "score": 46,
+     "event_id": "50c802e9ffe4",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
+      "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+     "sources": 3,
+     "score": 55,
+     "event_id": "5618ffbe19d5",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+     "sources": 2,
+     "score": 52,
+     "event_id": "23b05835e46b",
+     "links": [
+      "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+      "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
+      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "OpenAI and Anthropic bosses push UN for global terms on AI",
+     "sources": 4,
+     "score": 62,
+     "event_id": "00f03c836310",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+     "sources": 2,
+     "score": 42,
+     "event_id": "fad16983d932",
+     "links": [
+      "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+      "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
+     "sources": 2,
+     "score": 42,
+     "event_id": "5473bde55aee",
+     "links": [
+      "https://www.scmp.com/tech/tech-war/article/3369526/hong-kong-users-caught-offguard-anthropic-tightens-vpn-access-claude?utm_source=rss_feed",
+      "https://www.investing.com/news/stock-market-news/anthropic-launches-third-claude-55-model-expanding-ai-lineup-before-planned-ipo-4937326"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+     "sources": 3,
+     "score": 48,
+     "event_id": "ba390530e9c6",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "https://www.scmp.com/tech/big-tech/article/3370154/us-ai-firm-anthropic-enables-chinese-language-options-claude-chatbot?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Anthropic claims Chinese AI firms secretly use Claude. Is it true?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "27829b76e88b",
+     "links": [
+      "https://www.scmp.com/tech/tech-war/article/3370317/anthropic-claims-chinese-ai-firms-secretly-use-claude-it-true?utm_source=rss_feed",
+      "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "As 1 mainland Chinese chip IPO soars, another stumbles in busy Hong Kong week",
+     "sources": 1,
+     "score": 46,
+     "event_id": "9f453a258298",
+     "links": [
+      "https://www.scmp.com/business/companies/article/3373886/1-mainland-chinese-chip-ipo-soars-another-stumbles-busy-hong-kong-week",
+      "https://www.scmp.com/business/markets/article/3373745/can-hong-kong-hold-its-ground-nasdaq-brings-wall-street-asian-hours",
+      "https://www.scmp.com/business/banking-finance/article/3373507/hong-kongs-exchange-fund-earnings-tumble-74-hkma-warns-more-market-turbulence"
+     ]
     }
    ]
   },
@@ -5614,6 +6447,111 @@
      "links": [
       "https://www.scmp.com/plus/business/banking-finance/article/3374068/alibaba-readies-t-head-chip-ipo-hong-kong-frenzy-cools",
       "https://www.investing.com/news/stock-market-news/alphabet-sets-initial-price-guidance-for-hong-kong-singapore-bond-sales-term-sheet-shows-5020243"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "db746dbf03ec",
+   "title": "First human case of Shamonda virus detected in France, officials say",
+   "section": "world",
+   "entities": [
+    "rescued",
+    "florida",
+    "least",
+    "know",
+    "infected",
+    "virus",
+    "he's",
+    "livestock",
+    "shamonda",
+    "orphaned",
+    "killed",
+    "adorable",
+    "france",
+    "baby",
+    "first",
+    "cases",
+    "worst",
+    "decades",
+    "here's",
+    "walrus",
+    "alaska",
+    "acquired",
+    "outbreak",
+    "pathogen",
+    "locally",
+    "time",
+    "found",
+    "home",
+    "researchers",
+    "usually",
+    "facing",
+    "dengue",
+    "person"
+   ],
+   "event_ids": [
+    "db746dbf03ec",
+    "c5548c0cafe9",
+    "04841d9b21fa",
+    "9f7fbfb20f9e",
+    "ebecec327f45"
+   ],
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-11-12",
+   "timeline": [
+    {
+     "date": "2026-10-22",
+     "headline": "First human case of Shamonda virus detected in France, officials say",
+     "sources": 5,
+     "score": 67,
+     "event_id": "db746dbf03ec",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Shamonda virus detected in human for first time in France",
+     "sources": 2,
+     "score": 44,
+     "event_id": "c5548c0cafe9",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
+      "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Shamonda Virus Infected and Killed a Person for the First Time. Here's What to Know About the Pathogen Usually Found in Livestock",
+     "sources": 1,
+     "score": 43,
+     "event_id": "04841d9b21fa",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/shamonda-virus-infected-and-killed-a-person-for-the-first-time-heres-what-to-know-about-the-pathogen-usually-found-in-livestock-180989756/"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Florida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know",
+     "sources": 2,
+     "score": 54,
+     "event_id": "9f7fbfb20f9e",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/florida-is-facing-its-worst-dengue-outbreak-in-decades-with-at-least-524-locally-acquired-cases-heres-what-to-know-180989865/",
+      "https://praguemorning.cz/what-to-know-about-czechoslovakias-velvet-revolution/"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska. Now, He's Found a New Home in Florida",
+     "sources": 1,
+     "score": 44,
+     "event_id": "ebecec327f45",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/this-adorable-orphaned-baby-walrus-was-rescued-by-two-researchers-in-alaska-now-hes-found-a-new-home-in-florida-180989847/"
      ]
     }
    ]
@@ -5754,12 +6692,13 @@
    "entities": [
     "gaza",
     "cisco",
-    "israeli",
-    "nasser"
+    "nasser",
+    "israeli"
    ],
    "event_ids": [
     "48ebc69d655d",
-    "7cf80c14f947"
+    "7cf80c14f947",
+    "cafcfcf76e17"
    ],
    "first_seen": "2026-11-07",
    "last_seen": "2026-11-12",
@@ -5785,6 +6724,47 @@
      "links": [
       "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
       "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
+     "sources": 2,
+     "score": 44,
+     "event_id": "cafcfcf76e17",
+     "links": [
+      "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say",
+      "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "388c180a1aec",
+   "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
+   "section": "tech",
+   "entities": [
+    "teams",
+    "global",
+    "outlook",
+    "microsoft"
+   ],
+   "event_ids": [
+    "388c180a1aec"
+   ],
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "timeline": [
+    {
+     "date": "2026-11-12",
+     "headline": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
+     "sources": 6,
+     "score": 77,
+     "event_id": "388c180a1aec",
+     "links": [
+      "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+      "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
      ]
     }
    ]
@@ -7815,278 +8795,6 @@
       "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
       "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
       "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e138211becc3",
-   "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-   "section": "tech",
-   "entities": [
-    "avatar",
-    "developing",
-    "transcribe",
-    "friday",
-    "asimov-jailbreak",
-    "ai-powered",
-    "cyber",
-    "monday",
-    "deepmind",
-    "carbon",
-    "gemini",
-    "flash-lite",
-    "black",
-    "google",
-    "flash",
-    "argon",
-    "robotics",
-    "introducing",
-    "meet",
-    "googlebook"
-   ],
-   "event_ids": [
-    "e138211becc3",
-    "cf3951101d71",
-    "b0c60d5e22ba",
-    "29ae84aa2a01",
-    "b27fb7cf6534",
-    "b6a7c3b080e8",
-    "26792917d6d7",
-    "ee9698a7fdb9",
-    "f79a067193d7",
-    "556e1e4b03fe",
-    "47672f48bba9",
-    "884ebf3c3978",
-    "471508c04c30",
-    "edd884e3eb65",
-    "e7107d9a76d9",
-    "bfd6acefc1fb",
-    "2cb9d43acd5a",
-    "004c51f512e0",
-    "0b2e1c02de47"
-   ],
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-11-10",
-   "timeline": [
-    {
-     "date": "2026-08-26",
-     "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-     "sources": 4,
-     "score": 59,
-     "event_id": "e138211becc3",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-     "sources": 2,
-     "score": 42,
-     "event_id": "cf3951101d71",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-     "sources": 3,
-     "score": 49,
-     "event_id": "b0c60d5e22ba",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
-     "sources": 2,
-     "score": 44,
-     "event_id": "29ae84aa2a01",
-     "links": [
-      "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
-      "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Google says its Gemini AI model hacked three other companies",
-     "sources": 2,
-     "score": 51,
-     "event_id": "b27fb7cf6534",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
-      "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Google’s Gemini is the latest AI model to hack other companies",
-     "sources": 3,
-     "score": 46,
-     "event_id": "b6a7c3b080e8",
-     "links": [
-      "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-     "sources": 3,
-     "score": 54,
-     "event_id": "26792917d6d7",
-     "links": [
-      "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-      "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-     "sources": 3,
-     "score": 46,
-     "event_id": "ee9698a7fdb9",
-     "links": [
-      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Google confirms Gemini models hacked three companies in May 2026",
-     "sources": 2,
-     "score": 45,
-     "event_id": "f79a067193d7",
-     "links": [
-      "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-     "sources": 6,
-     "score": 72,
-     "event_id": "556e1e4b03fe",
-     "links": [
-      "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-      "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-      "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Google brings agentic AI to Gemini, starting with businesses",
-     "sources": 2,
-     "score": 40,
-     "event_id": "47672f48bba9",
-     "links": [
-      "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "https://www.cnbc.com/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up.html"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Gemini 4 Argon for Robotics",
-     "sources": 5,
-     "score": 80,
-     "event_id": "884ebf3c3978",
-     "links": [
-      "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Developing Gemini 4 Argon responsibly and safely",
-     "sources": 2,
-     "score": 40,
-     "event_id": "471508c04c30",
-     "links": [
-      "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-     "sources": 1,
-     "score": 40,
-     "event_id": "edd884e3eb65",
-     "links": [
-      "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Introducing Gemini 3.8 Live with Live Avatar",
-     "sources": 1,
-     "score": 40,
-     "event_id": "e7107d9a76d9",
-     "links": [
-      "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-     "sources": 6,
-     "score": 71,
-     "event_id": "bfd6acefc1fb",
-     "links": [
-      "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-      "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-      "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "How to shop like a pro during Black Friday and Cyber Monday",
-     "sources": 1,
-     "score": 48,
-     "event_id": "2cb9d43acd5a",
-     "links": [
-      "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
-      "https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores",
-      "https://www.theverge.com/gadgets/1024433/black-friday-2026-giveaway-sweepstakes"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-     "sources": 2,
-     "score": 42,
-     "event_id": "004c51f512e0",
-     "links": [
-      "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Gemini 4 Carbon is now available",
-     "sources": 3,
-     "score": 47,
-     "event_id": "0b2e1c02de47",
-     "links": [
-      "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
      ]
     }
    ]
@@ -10565,354 +11273,6 @@
      "event_id": "29ab67d3ec59",
      "links": [
       "https://www.smithsonianmag.com/smart-news/stolen-during-the-nazi-occupation-of-orleans-france-this-painting-was-rediscovered-after-86-years-with-help-from-wild-west-inspired-wanted-posters-180989839/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "eca0fc692bc0",
-   "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
-   "section": "world",
-   "entities": [
-    "pmqs",
-    "wednesday",
-    "guardian",
-    "starmer",
-    "john",
-    "spain's",
-    "british",
-    "tory",
-    "rachel",
-    "healey",
-    "france's",
-    "stinky",
-    "sanchez",
-    "water",
-    "u-turn",
-    "thames",
-    "burnham",
-    "crace",
-    "reeves",
-    "nige",
-    "heathrow",
-    "london",
-    "macron",
-    "britain",
-    "brexit",
-    "editorial",
-    "labour",
-    "andy",
-    "hospitality"
-   ],
-   "event_ids": [
-    "eca0fc692bc0",
-    "79767a596611",
-    "ccb2c5bc9e36",
-    "ebc944549304",
-    "02df7fa6f0a5",
-    "972b0fe1af77",
-    "cc774da80403",
-    "a6788519913e",
-    "55177db2a4ed",
-    "86fc18c35363",
-    "7393363c7b06",
-    "af201c60dedd",
-    "5d1a9e0758ac",
-    "8c89e651a54b",
-    "04d1070ede74",
-    "23dc0dc71791",
-    "62a29032f7f4",
-    "aa853b613107",
-    "9cf78de3fccf",
-    "bf6279ad02f6",
-    "115a57eb0db7",
-    "e85e227fa364",
-    "35fe67d2afb7",
-    "514a8ce70568",
-    "9e88044f20ea"
-   ],
-   "first_seen": "2026-09-03",
-   "last_seen": "2026-11-09",
-   "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
-     "sources": 3,
-     "score": 58,
-     "event_id": "eca0fc692bc0",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
-      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260903-tapestry-diplomacy-uk-france-ties-in-focus-as-macron-and-burnham-hold-first-talks"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "One last Starmer U-turn and it’s over to Andy ‘less policy, more vibes’ Burnham | John Crace",
-     "sources": 2,
-     "score": 49,
-     "event_id": "79767a596611",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/01/kier-starmer-last-u-turn-andy-burnham",
-      "https://www.france24.com/en/replay-uk-pm-andy-burnham-faces-lawmakers-for-first-time-since-taking-office"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "UK politics: Andy Burnham pressed on borrowing costs and spending at first PMQs – as it happened",
-     "sources": 2,
-     "score": 48,
-     "event_id": "ccb2c5bc9e36",
-     "links": [
-      "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
-      "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Andy Burnham blames Tory legacy for leaving UK economy vulnerable",
-     "sources": 2,
-     "score": 44,
-     "event_id": "ebc944549304",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-blames-tory-legacy-uk-economy-vulnerable",
-      "https://www.theguardian.com/politics/video/2026/sep/02/andy-burnham-clashes-with-kemi-badenoch-at-his-first-pmqs-video"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
-     "sources": 1,
-     "score": 41,
-     "event_id": "02df7fa6f0a5",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
-      "https://www.theguardian.com/politics/video/2026/sep/01/andy-burnham-pays-tribute-commons-keir-starmer-stepping-down-mp-video"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Hospitality industry urges Andy Burnham to lay out VAT cut plans",
-     "sources": 2,
-     "score": 46,
-     "event_id": "972b0fe1af77",
-     "links": [
-      "https://www.theguardian.com/business/2026/sep/14/hospitality-industry-andy-burnham-vat-reduction",
-      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
-      "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "Andy Burnham urged to set dementia waiting-time target",
-     "sources": 2,
-     "score": 46,
-     "event_id": "cc774da80403",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/commentisfree/2026/sep/17/andy-burnham-climate-crisis-funding-peoples-power-projects"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Andy Burnham refuses to back third runway at Heathrow",
-     "sources": 4,
-     "score": 70,
-     "event_id": "a6788519913e",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/commentisfree/2026/sep/27/tony-blair-andy-burnham-advice-rejoining-eu-labour"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "The Guardian view on Thames Water: Andy Burnham should nationalise this failed monopoly | Editorial",
-     "sources": 1,
-     "score": 47,
-     "event_id": "55177db2a4ed",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-thames-water-andy-burnham-should-nationalise-this-failed-monopoly",
-      "https://www.theguardian.com/commentisfree/2026/sep/27/the-guardian-view-on-manchester-city-a-strange-kind-of-glory"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Wednesday briefing: ​Can Andy Burnham live up to the party’s faith in him?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "86fc18c35363",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/30/wednesday-briefing-can-andy-burnham-live-up-to-the-partys-faith-in-him",
-      "https://www.theguardian.com/politics/2026/sep/30/andy-burnham-review-uk-relationship-with-eu-options"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "France's Macron, Spain's Sanchez welcome idea of UK rejoining EU after Burnham remarks",
-     "sources": 2,
-     "score": 43,
-     "event_id": "7393363c7b06",
-     "links": [
-      "https://www.dw.com/en/france-s-macron-spain-s-sanchez-welcome-idea-of-uk-rejoining-eu-after-burnham-remarks/a-79493469?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/world/2026/sep/30/macron-welcome-back-burnham-suggestion-uk-could-rejoin-eu"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "‘He persuaded us’: Labour ministers moved by Andy Burnham’s emotional conference speech",
-     "sources": 3,
-     "score": 62,
-     "event_id": "af201c60dedd",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/30/labour-ministers-moved-persuaded-andy-burnham-emotional-conference-speech",
-      "https://www.theguardian.com/football/2026/sep/30/andy-burnham-manchester-city-premier-league",
-      "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Burnham vows to seek new ‘long-term’ relationship with EU in emotional Labour conference speech",
-     "sources": 2,
-     "score": 45,
-     "event_id": "5d1a9e0758ac",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
-      "https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Burnham’s emotional solo act had Labour in raptures – but his promises will take time to come good",
-     "sources": 2,
-     "score": 44,
-     "event_id": "8c89e651a54b",
-     "links": [
-      "https://www.theguardian.com/politics/2026/sep/29/burnhams-emotional-solo-act-had-labour-in-raptures-but-his-promises-will-take-time-to-come-good",
-      "https://www.theguardian.com/politics/video/2026/sep/29/andy-burnham-father-roy-labour-conference-video"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Andy Burnham’s big bold leap - podcast",
-     "sources": 2,
-     "score": 55,
-     "event_id": "04d1070ede74",
-     "links": [
-      "https://www.theguardian.com/news/audio/2026/sep/30/andy-burnhams-big-bold-leap-podcast",
-      "https://www.theguardian.com/commentisfree/2026/sep/29/the-guardian-view-on-andy-burnham-grounds-to-hope-for-a-better-britain",
-      "https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
-     "sources": 2,
-     "score": 40,
-     "event_id": "23dc0dc71791",
-     "links": [
-      "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
-      "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "Stinky business: south London bike shop hit by ‘unbearable’ stench from Thames Water sewer",
-     "sources": 2,
-     "score": 44,
-     "event_id": "62a29032f7f4",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill",
-      "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Burnham urges officials to come up with more radical options for Thames Water",
-     "sources": 2,
-     "score": 40,
-     "event_id": "aa853b613107",
-     "links": [
-      "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
-      "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Thames Water creditors secure former Labour minister to drive rescue deal",
-     "sources": 2,
-     "score": 43,
-     "event_id": "9cf78de3fccf",
-     "links": [
-      "https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal",
-      "https://www.theguardian.com/business/2026/oct/20/thames-water-creditors-former-labour-minister-john-hutton-rescue-deal"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
-     "sources": 2,
-     "score": 40,
-     "event_id": "bf6279ad02f6",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
-      "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Brexit deal is not good enough for British public, says Andy Burnham",
-     "sources": 2,
-     "score": 40,
-     "event_id": "115a57eb0db7",
-     "links": [
-      "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
-      "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
-     "sources": 2,
-     "score": 47,
-     "event_id": "e85e227fa364",
-     "links": [
-      "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
-      "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
-      "https://www.theguardian.com/politics/audio/2026/oct/26/what-makes-andy-burnham-think-britain-can-rejoin-the-eu-podcast"
-     ]
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Schrödinger’s racism, Nige’s latest wheeze to dodge his associates’ bigotry | John Crace",
-     "sources": 2,
-     "score": 46,
-     "event_id": "35fe67d2afb7",
-     "links": [
-      "https://www.theguardian.com/politics/2026/oct/27/nigel-farage-raheem-kassam-kemi-badenoch-nigerian-scammer",
-      "https://www.theguardian.com/books/2026/oct/26/liz-truss-bank-job-digested-by-john-crace"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "John Healey pays homage to predecessor Rachel Reeves",
-     "sources": 2,
-     "score": 44,
-     "event_id": "514a8ce70568",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c95ynvr04vgdo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/money/2026/oct/29/john-healey-energy-support-package-budget-explainer"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Thames Water asks creditors for more time to help repay £20bn debt pile",
-     "sources": 2,
-     "score": 40,
-     "event_id": "9e88044f20ea",
-     "links": [
-      "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
-      "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile"
      ]
     }
    ]
@@ -16574,69 +16934,6 @@
    ]
   },
   {
-   "id": "db746dbf03ec",
-   "title": "First human case of Shamonda virus detected in France, officials say",
-   "section": "world",
-   "entities": [
-    "france",
-    "pathogen",
-    "first",
-    "usually",
-    "know",
-    "virus",
-    "time",
-    "infected",
-    "found",
-    "person",
-    "shamonda",
-    "livestock",
-    "killed",
-    "here's"
-   ],
-   "event_ids": [
-    "db746dbf03ec",
-    "c5548c0cafe9",
-    "04841d9b21fa"
-   ],
-   "first_seen": "2026-10-22",
-   "last_seen": "2026-10-26",
-   "timeline": [
-    {
-     "date": "2026-10-22",
-     "headline": "First human case of Shamonda virus detected in France, officials say",
-     "sources": 5,
-     "score": 67,
-     "event_id": "db746dbf03ec",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Shamonda virus detected in human for first time in France",
-     "sources": 2,
-     "score": 44,
-     "event_id": "c5548c0cafe9",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
-      "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Shamonda Virus Infected and Killed a Person for the First Time. Here's What to Know About the Pathogen Usually Found in Livestock",
-     "sources": 1,
-     "score": 43,
-     "event_id": "04841d9b21fa",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/shamonda-virus-infected-and-killed-a-person-for-the-first-time-heres-what-to-know-about-the-pathogen-usually-found-in-livestock-180989756/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "c9833fcbd131",
    "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
    "section": "world",
@@ -19004,166 +19301,6 @@
       "https://www.bbc.co.uk/sport/football/articles/cmzxjdvv784xo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/oct/09/maresca-refuses-to-confirm-he-will-stay-at-manchester-city-if-club-lose-appeal",
       "https://www.aljazeera.com/sports/2026/10/9/manchester-city-charges-maresca-says-premier-league-club-will-win-appeal?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "341a230bd977",
-   "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-   "section": "tech",
-   "entities": [
-    "chinese",
-    "astra",
-    "kong",
-    "hong",
-    "openai",
-    "startups",
-    "anthropic",
-    "researchers",
-    "claude"
-   ],
-   "event_ids": [
-    "341a230bd977",
-    "1db8587bd622",
-    "a8365cfa26c0",
-    "50c802e9ffe4",
-    "5618ffbe19d5",
-    "23b05835e46b",
-    "00f03c836310",
-    "fad16983d932",
-    "5473bde55aee",
-    "ba390530e9c6",
-    "27829b76e88b"
-   ],
-   "first_seen": "2026-09-03",
-   "last_seen": "2026-10-09",
-   "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
-     "sources": 4,
-     "score": 65,
-     "event_id": "341a230bd977",
-     "links": [
-      "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-     "sources": 2,
-     "score": 40,
-     "event_id": "1db8587bd622",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Researchers used Claude to hack OpenAI",
-     "sources": 3,
-     "score": 46,
-     "event_id": "a8365cfa26c0",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
-     "sources": 2,
-     "score": 46,
-     "event_id": "50c802e9ffe4",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
-      "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-     "sources": 3,
-     "score": 55,
-     "event_id": "5618ffbe19d5",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-     "sources": 2,
-     "score": 52,
-     "event_id": "23b05835e46b",
-     "links": [
-      "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
-      "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
-      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "OpenAI and Anthropic bosses push UN for global terms on AI",
-     "sources": 4,
-     "score": 62,
-     "event_id": "00f03c836310",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
-     "sources": 2,
-     "score": 42,
-     "event_id": "fad16983d932",
-     "links": [
-      "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
-      "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
-     "sources": 2,
-     "score": 42,
-     "event_id": "5473bde55aee",
-     "links": [
-      "https://www.scmp.com/tech/tech-war/article/3369526/hong-kong-users-caught-offguard-anthropic-tightens-vpn-access-claude?utm_source=rss_feed",
-      "https://www.investing.com/news/stock-market-news/anthropic-launches-third-claude-55-model-expanding-ai-lineup-before-planned-ipo-4937326"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-     "sources": 3,
-     "score": 48,
-     "event_id": "ba390530e9c6",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "https://www.scmp.com/tech/big-tech/article/3370154/us-ai-firm-anthropic-enables-chinese-language-options-claude-chatbot?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Anthropic claims Chinese AI firms secretly use Claude. Is it true?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "27829b76e88b",
-     "links": [
-      "https://www.scmp.com/tech/tech-war/article/3370317/anthropic-claims-chinese-ai-firms-secretly-use-claude-it-true?utm_source=rss_feed",
-      "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html"
      ]
     }
    ]
@@ -22613,5 +22750,5 @@
    ]
   }
  ],
- "updated": "2026-11-12T18:21:38+00:00"
+ "updated": "2026-11-12T21:19:01+00:00"
 }

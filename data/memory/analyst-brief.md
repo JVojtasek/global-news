@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-12
 
-Paměť obsahuje **195 vláken**. Aktivních za posledních 14 dní: **57**.
+Paměť obsahuje **196 vláken**. Aktivních za posledních 14 dní: **59**.
 
 ---
 
@@ -54,7 +54,6 @@ Paměť obsahuje **195 vláken**. Aktivních za posledních 14 dní: **57**.
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 94 dní · 60 záznamů
 - časová osa:
-  - **2026-11-11** (4 zdrojů) Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal
   - **2026-11-12** (8 zdrojů) Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy
   - **2026-11-12** (3 zdrojů) Who could replace Jensen Huang? A highly unscientific list of possible successors
   - **2026-11-12** (2 zdrojů) What we know so far about Nvidia partner Megaspeed’s Asia footprint
@@ -64,6 +63,7 @@ Paměť obsahuje **195 vláken**. Aktivních za posledních 14 dní: **57**.
   - **2026-11-12** (11 zdrojů) Watch: The latest in the Jensen Huang Nvidia scandal
   - **2026-11-12** (2 zdrojů) Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?
   - **2026-11-12** (10 zdrojů) Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
+  - **2026-11-12** (6 zdrojů) Jensen Huang has resigned, what's next for Nvidia?
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 93 dní · 60 záznamů
