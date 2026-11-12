@@ -5,46 +5,46 @@
    "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
    "section": "tech",
    "entities": [
-    "embiricos",
-    "side",
-    "tesla",
-    "fake",
-    "ambani",
-    "israel",
-    "miss",
-    "networking",
-    "unusual",
-    "nvidia",
-    "spacex",
-    "inside",
-    "boeing",
-    "texas",
-    "musk",
-    "ukraine",
-    "apple",
-    "elon",
-    "talarico",
-    "openai",
-    "sure",
-    "qualcomm",
-    "skydance",
-    "starlink",
-    "europe",
-    "anthropic",
-    "machines",
     "putin",
-    "olympic",
-    "stateside",
-    "meta",
-    "zoom",
-    "deckers",
-    "cybertruck",
-    "amazon",
-    "dots",
-    "moscow",
-    "google",
+    "texas",
+    "ambani",
+    "side",
+    "apple",
+    "nvidia",
     "trump",
-    "russia"
+    "anthropic",
+    "deckers",
+    "spacex",
+    "cybertruck",
+    "talarico",
+    "google",
+    "embiricos",
+    "musk",
+    "fake",
+    "amazon",
+    "meta",
+    "unusual",
+    "ukraine",
+    "networking",
+    "elon",
+    "zoom",
+    "moscow",
+    "miss",
+    "tesla",
+    "inside",
+    "starlink",
+    "dots",
+    "israel",
+    "boeing",
+    "machines",
+    "stateside",
+    "russia",
+    "openai",
+    "skydance",
+    "olympic",
+    "qualcomm",
+    "europe",
+    "sure"
    ],
    "event_ids": [
     "95b4d8eb7452",
@@ -108,35 +108,13 @@
     "ed73d7ea38c9",
     "16acc59220e3",
     "6703ae356b80",
-    "c6a88938b538"
+    "c6a88938b538",
+    "4222657b9900",
+    "3068e9e9bd47"
    ],
    "first_seen": "2026-09-14",
    "last_seen": "2026-11-12",
    "timeline": [
-    {
-     "date": "2026-09-30",
-     "headline": "OpenAI launches Dots, its bubbly agentic avatar",
-     "sources": 3,
-     "score": 45,
-     "event_id": "572dce99347e",
-     "links": [
-      "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-     "sources": 3,
-     "score": 52,
-     "event_id": "5afad699a57c",
-     "links": [
-      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/"
-     ]
-    },
     {
      "date": "2026-10-07",
      "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
@@ -804,6 +782,29 @@
       "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
       "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+     "sources": 4,
+     "score": 68,
+     "event_id": "4222657b9900",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+      "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
+     "sources": 2,
+     "score": 44,
+     "event_id": "3068e9e9bd47",
+     "links": [
+      "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
+      "https://www.scmp.com/tech/big-tech/article/3373422/after-us474m-gamble-flops-what-happens-now-elon-musks-tesla-spacex-and-china-ties"
+     ]
     }
    ]
   },
@@ -812,46 +813,46 @@
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "entities": [
-    "burnham",
-    "miguel",
-    "troy's",
-    "manzambi",
-    "football",
-    "howe",
-    "gakpo",
-    "nadal",
-    "champions",
-    "beckett",
-    "nations",
-    "greenwood",
-    "martinez",
-    "delap",
-    "photos",
-    "utd's",
-    "terland",
-    "glasner",
-    "tuchel",
-    "city",
-    "chelsea",
-    "jonathan",
-    "league",
-    "barcelona's",
-    "leeds",
-    "real",
-    "tenerife",
-    "pochettino",
-    "phil",
-    "brighton",
-    "uk's",
-    "jackson",
-    "china",
-    "aston",
-    "wilcox",
+    "michael",
     "carrick",
-    "united",
-    "cristiano",
+    "real",
+    "wilcox",
+    "utd's",
+    "leeds",
     "forest",
-    "manchester"
+    "aston",
+    "uk's",
+    "barcelona's",
+    "united",
+    "nadal",
+    "manzambi",
+    "league",
+    "burnham",
+    "phil",
+    "city",
+    "football",
+    "china",
+    "troy's",
+    "howe",
+    "champions",
+    "gakpo",
+    "pochettino",
+    "photos",
+    "tenerife",
+    "greenwood",
+    "terland",
+    "beckett",
+    "brighton",
+    "glasner",
+    "manchester",
+    "miguel",
+    "nations",
+    "chelsea",
+    "tuchel",
+    "jonathan",
+    "delap",
+    "cristiano",
+    "jackson"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -1002,34 +1003,13 @@
     "e24ad176fa84",
     "e05f62448c0d",
     "ed142381f214",
-    "70bba4df95df"
+    "70bba4df95df",
+    "5e092e75bcc1",
+    "a09ceb2fbbf6"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-11-12",
    "timeline": [
-    {
-     "date": "2026-10-09",
-     "headline": "Maresca says Manchester City titles not tainted; Liverpool’s Isak and Gakpo injured – live",
-     "sources": 2,
-     "score": 60,
-     "event_id": "faddee96db4e",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/oct/09/premier-league-resumes-manchester-city-in-spotlight-football-news-live",
-      "https://www.theguardian.com/football/2026/oct/09/manchester-united-tottenham-michael-carrick-premier-league",
-      "https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Maresca maintains almost total control as he follows Manchester City owners’ line | Jamie Jackson",
-     "sources": 1,
-     "score": 42,
-     "event_id": "c8655c8f4915",
-     "links": [
-      "https://www.theguardian.com/football/2026/oct/09/maresca-maintains-almost-total-control-as-he-follows-manchester-city-owners-line",
-      "https://www.theguardian.com/football/2026/oct/09/maresca-refuses-to-confirm-he-will-stay-at-manchester-city-if-club-lose-appeal"
-     ]
-    },
     {
      "date": "2026-10-10",
      "headline": "Manchester United v Tottenham: Premier League – live",
@@ -1693,6 +1673,28 @@
      "links": [
       "https://www.bbc.co.uk/sport/football/articles/cwzd9pvjy426o?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/11/11/why-is-pochettino-the-favourite-to-replace-carrick-at-manchester-united?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Man Utd open talks with Pochettino about replacing Carrick",
+     "sources": 2,
+     "score": 43,
+     "event_id": "5e092e75bcc1",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cqvg25pj36mvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/nov/11/manchester-united-close-mauricio-pochettino-deal-michael-carrick"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Manchester United sacked manager Michael Carrick",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a09ceb2fbbf6",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/nov/12/michael-carrick-manchester-united-sacked"
      ]
     }
    ]
@@ -2537,46 +2539,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "cyberattack",
-    "jensen",
-    "cyberattacks",
-    "undone",
-    "valley",
-    "chinese",
-    "reward",
-    "beijing",
     "qubole's",
-    "security",
-    "t-head",
-    "megaspeed",
-    "deepseek",
-    "exploit",
-    "huang",
-    "trusted",
-    "asia",
-    "hackers",
-    "cnbc",
-    "suffers",
-    "experts",
-    "silicon",
-    "nvidia's",
-    "hegseth",
-    "openai",
-    "york",
-    "alibaba",
-    "china",
-    "data",
-    "goodfire",
-    "face",
-    "assets",
-    "drove",
-    "amid",
-    "labs",
-    "trump",
-    "nvidia",
+    "cyberattacks",
+    "chinese",
     "access",
+    "amid",
+    "nvidia",
+    "huang",
+    "trump",
+    "steal",
+    "valley",
+    "hegseth",
+    "jensen",
+    "face",
+    "china",
+    "trusted",
+    "t-head",
+    "beijing",
+    "suffers",
     "unexpected",
-    "steal"
+    "assets",
+    "nvidia's",
+    "asia",
+    "silicon",
+    "cyberattack",
+    "alibaba",
+    "drove",
+    "openai",
+    "experts",
+    "cnbc",
+    "kleinman",
+    "security",
+    "exploit",
+    "megaspeed",
+    "york",
+    "hackers",
+    "data",
+    "undone",
+    "goodfire",
+    "labs",
+    "reward"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -2638,23 +2640,12 @@
     "931e3313f33e",
     "a020bde73133",
     "f3bd3dd370d0",
-    "ccba7e485bb3"
+    "ccba7e485bb3",
+    "388a48be7bb7"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-12",
    "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-     "sources": 4,
-     "score": 77,
-     "event_id": "7b46dd318f11",
-     "links": [
-      "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "https://spectrum.ieee.org/robot-emotions-visual-language-models"
-     ]
-    },
     {
      "date": "2026-08-10",
      "headline": "Hugging Face hack marks start of dangerous AI cyber era and many firms 'don't even know it'",
@@ -3341,217 +3332,17 @@
       "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss",
       "https://www.scmp.com/tech/tech-war/article/3373940/us-lawmakers-push-tougher-china-export-controls-defence-bill-amid-nvidia-scrutiny"
      ]
-    }
-   ]
-  },
-  {
-   "id": "84ce4047c1c5",
-   "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-   "section": "world",
-   "entities": [
-    "shein",
-    "tiananmen",
-    "t-head",
-    "hong",
-    "kong's",
-    "kong",
-    "shein's",
-    "fast-fashion",
-    "alibaba"
-   ],
-   "event_ids": [
-    "84ce4047c1c5",
-    "0df2dafecfc9",
-    "2c91a82a84c2",
-    "f33cc723a614",
-    "a74878e9b76a",
-    "b43c2e14cf73",
-    "cf097931c31f"
-   ],
-   "first_seen": "2026-08-21",
-   "last_seen": "2026-11-12",
-   "timeline": [
-    {
-     "date": "2026-08-21",
-     "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
-     "sources": 5,
-     "score": 85,
-     "event_id": "84ce4047c1c5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
-      "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Hong Kong convicts Tiananmen vigil leaders",
-     "sources": 3,
-     "score": 67,
-     "event_id": "0df2dafecfc9",
-     "links": [
-      "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
-      "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
-     "sources": 2,
-     "score": 40,
-     "event_id": "2c91a82a84c2",
-     "links": [
-      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
-      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Alibaba’s record stock sale adds to Hong Kong tech flood",
-     "sources": 3,
-     "score": 53,
-     "event_id": "f33cc723a614",
-     "links": [
-      "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
-      "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
-      "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Fast-fashion giant Shein's shares drop 8% in Hong Kong market debut",
-     "sources": 2,
-     "score": 46,
-     "event_id": "a74878e9b76a",
-     "links": [
-      "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
-      "https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
-      "https://www.investing.com/news/stock-market-news/shein-shares-slide-10-in-hong-kong-debut-after-valuation-reset-4883462"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-     "sources": 5,
-     "score": 80,
-     "event_id": "b43c2e14cf73",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/hong-kong-tiananmen-activists-sentenced-up-to-7-years/a-79224243?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers"
-     ]
     },
     {
      "date": "2026-11-12",
-     "headline": "Alibaba readies T-Head chip IPO as Hong Kong frenzy cools",
-     "sources": 2,
-     "score": 46,
-     "event_id": "cf097931c31f",
+     "headline": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+     "sources": 10,
+     "score": 83,
+     "event_id": "388a48be7bb7",
      "links": [
-      "https://www.scmp.com/plus/business/banking-finance/article/3374068/alibaba-readies-t-head-chip-ipo-hong-kong-frenzy-cools",
-      "https://www.investing.com/news/stock-market-news/alphabet-sets-initial-price-guidance-for-hong-kong-singapore-bond-sales-term-sheet-shows-5020243"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e4a5945bc19c",
-   "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-   "section": "world",
-   "entities": [
-    "mississippi",
-    "colom",
-    "senate",
-    "dems",
-    "white",
-    "house",
-    "democrat",
-    "scott"
-   ],
-   "event_ids": [
-    "e4a5945bc19c",
-    "9e0024c86ed3",
-    "4a32187e9aeb"
-   ],
-   "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12",
-   "timeline": [
-    {
-     "date": "2026-11-12",
-     "headline": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-     "sources": 6,
-     "score": 80,
-     "event_id": "e4a5945bc19c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
-      "https://www.dw.com/en/democrat-colom-wins-mississippi-senate-seat/a-79924938?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Democrat Scott Colom wins the closest Senate race in the country",
-     "sources": 2,
-     "score": 46,
-     "event_id": "9e0024c86ed3",
-     "links": [
-      "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
-      "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
-     "sources": 3,
-     "score": 63,
-     "event_id": "4a32187e9aeb",
-     "links": [
-      "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
-      "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
-      "https://www.france24.com/en/tv-shows/press-review/20261112-scott-colom-makes-history-in-mississippi-as-first-black-senator-in-more-than-140-years"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "48ebc69d655d",
-   "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
-   "section": "world",
-   "entities": [
-    "gaza",
-    "cisco",
-    "israeli",
-    "nasser"
-   ],
-   "event_ids": [
-    "48ebc69d655d",
-    "7cf80c14f947"
-   ],
-   "first_seen": "2026-11-07",
-   "last_seen": "2026-11-12",
-   "timeline": [
-    {
-     "date": "2026-11-07",
-     "headline": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
-     "sources": 2,
-     "score": 55,
-     "event_id": "48ebc69d655d",
-     "links": [
-      "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss",
-      "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
-     "sources": 2,
-     "score": 42,
-     "event_id": "7cf80c14f947",
-     "links": [
-      "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
-      "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital"
+      "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
+      "https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile"
      ]
     }
    ]
@@ -3561,46 +3352,46 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "excluding",
-    "moldova",
-    "footprints",
-    "zelensky",
-    "amnesty",
-    "europe",
-    "peace",
-    "german",
-    "merz",
-    "block",
-    "dinosaur",
-    "nations",
-    "dhabi",
-    "tehran",
-    "made",
-    "kyiv",
-    "us-backed",
-    "bear",
-    "united",
-    "mercedes",
-    "zelenskyy",
     "iran",
-    "discovered",
-    "ukraine",
-    "greenland",
-    "general",
-    "strong",
-    "samara",
-    "global",
     "kremlin",
-    "overnight",
-    "wildberries",
-    "hormuz",
-    "pezeshkian",
+    "us-backed",
+    "german",
+    "made",
     "upgrade",
-    "dakota",
+    "mercedes",
+    "united",
+    "emissions",
+    "amnesty",
+    "merz",
+    "hormuz",
+    "excluding",
+    "greenland",
+    "partly",
     "friedrich",
+    "pezeshkian",
+    "zelensky",
+    "wildberries",
+    "peace",
+    "fuel",
+    "zelenskyy",
+    "dhabi",
     "maps",
-    "africa's",
-    "berlin"
+    "ukraine",
+    "global",
+    "bear",
+    "tehran",
+    "samara",
+    "conflicts",
+    "moldova",
+    "discovered",
+    "overnight",
+    "europe",
+    "general",
+    "kyiv",
+    "year",
+    "fossil",
+    "block",
+    "footprints"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -3698,23 +3489,12 @@
     "adef82c37668",
     "cfe7c9458b6e",
     "39582fe71959",
-    "690bc503a386"
+    "690bc503a386",
+    "855d7804605f"
    ],
    "first_seen": "2026-08-11",
-   "last_seen": "2026-11-11",
+   "last_seen": "2026-11-12",
    "timeline": [
-    {
-     "date": "2026-09-04",
-     "headline": "Russia strikes Ukraine intelligence HQ in ‘major escalation’",
-     "sources": 3,
-     "score": 55,
-     "event_id": "3699defcceb3",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/04/russia-strikes-ukraine-intelligence-hq-kyiv-major-escalation",
-      "https://www.aljazeera.com/news/2026/9/4/russias-jet-powered-drones-overwhelm-ukraine-killing-dozens?traffic_source=rss",
-      "https://www.france24.com/en/video/20260904-trump-envoys-witkoff-kushner-to-visit-russia-and-ukraine-in-coming-days"
-     ]
-    },
     {
      "date": "2026-09-05",
      "headline": "Trump sends envoys to Russia, Ukraine with new peace plan",
@@ -4370,6 +4150,1641 @@
      "links": [
       "https://www.france24.com/en/france/20261111-tehran-will-strike-us-bases-in-europe-if-used-to-attack-iran-security-chief-says",
       "https://www.aljazeera.com/economy/2026/11/11/can-tehran-survive-a-zero-oil-budget-if-us-blockade-on-iran-persists?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine",
+     "sources": 1,
+     "score": 40,
+     "event_id": "855d7804605f",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/global-fossil-fuel-emissions-are-expected-to-drop-this-year-partly-because-of-the-conflicts-iran-ukraine-180989855/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "639e1a78a571",
+   "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+   "section": "world",
+   "entities": [
+    "removals",
+    "riyadh",
+    "modi",
+    "saudis",
+    "saudi",
+    "audi",
+    "korea",
+    "trump",
+    "united",
+    "vladimir",
+    "iran's",
+    "merz",
+    "audi's",
+    "kherson",
+    "russian",
+    "death",
+    "beijing",
+    "steven",
+    "ukraine",
+    "roth",
+    "germany",
+    "ukrainian",
+    "president",
+    "famed",
+    "asia",
+    "states",
+    "blackouts",
+    "melania",
+    "kyiv",
+    "russia",
+    "block",
+    "kuwait",
+    "florida",
+    "bringing",
+    "poland",
+    "gulf",
+    "canada",
+    "andrew",
+    "britain",
+    "american"
+   ],
+   "event_ids": [
+    "639e1a78a571",
+    "0624eb1ba208",
+    "816e48902267",
+    "0a4c58727150",
+    "a60728b498fa",
+    "123a1f07cf24",
+    "56f469f39f91",
+    "720fe4b034c3",
+    "f0099e190d82",
+    "965561c723dd",
+    "b193e4544a0d",
+    "0316549f9ed5",
+    "3eaa33015060",
+    "19a5a4d8911d",
+    "f3c480adacd2",
+    "01a1c27cf3db",
+    "8aebfd5175f1",
+    "def668b7e9dc",
+    "0e11f2f770e0",
+    "ca01092fef56",
+    "d39bc91ddc0a",
+    "c5e1e17987ea",
+    "4ee875e3fe43",
+    "2f607baa744d",
+    "2685bccdeea4",
+    "fddaa90f876f",
+    "d4ca08041bea",
+    "24d62d122ca6",
+    "80e2d954a5ba",
+    "d72eed2c40c7",
+    "6cffb2755854",
+    "f0d5ecba517b",
+    "172febb378d5",
+    "d68c149320ae",
+    "fe307da7bf3f",
+    "e68fe4f445db",
+    "61c52ea5c150",
+    "fbb58bedad9a",
+    "ac6b33f602a5",
+    "2493ae91f899",
+    "7092d0f6864b",
+    "7b6cc89252d4",
+    "0d5f455ce96f",
+    "8edb640d7bec",
+    "d02361daf1a5",
+    "ac57718967a8",
+    "62bd4787a022",
+    "b3ad4cde8512",
+    "b41b011401b8",
+    "5746dd2a7a4f",
+    "82ec1ffae029",
+    "26cc05249f5d",
+    "1fb25d7662d0",
+    "baac0500a8d1",
+    "9e5ec8aee781",
+    "d00029b2e66b",
+    "95584f14b3e1",
+    "033193ef8aba",
+    "e618b3e50f22",
+    "6c6b7d488472",
+    "661a16f42eb6",
+    "c4587de4f82f",
+    "f9dbbedd95e4",
+    "628e327cc7dc",
+    "d9a4bcff8ff4",
+    "5a30adc8d141",
+    "4da5ffdbac11",
+    "01273f5eeed2",
+    "20436c3fa08b",
+    "4d6c783b648a",
+    "91e593197e15",
+    "57a1d77ee48e",
+    "526e9a8dd32c",
+    "fb351b7c92cd",
+    "3061213d46d8",
+    "055e5c2e898a",
+    "9aa7c5e50f84",
+    "276c0505d486",
+    "816211516f67",
+    "e3646c354bc1",
+    "8fee17a8750f",
+    "869a466455ee",
+    "fb1f421ffe26",
+    "0314dd692504",
+    "df9f8f527c03",
+    "e1678d43017a",
+    "8b3632d6453d",
+    "2da8da440456",
+    "185e764f521e",
+    "c7dc7c1ccb05",
+    "5c9d4dd477da",
+    "2a0ed08c3929",
+    "baf701a61c0f",
+    "3808196cf27c",
+    "bd57bcc41444",
+    "3375f8a1fdbb",
+    "52cbce21fef4",
+    "bd6438757477",
+    "aab26a16aaf2",
+    "ff3383054c54",
+    "e2d5740f3cee",
+    "1bef1a0a3ff1",
+    "b66853ff84fa",
+    "df69d9a4fbb4",
+    "bfcb51914d45",
+    "f8c68a4c7b7a",
+    "3f34a122d1cc",
+    "591b46c8fe7d",
+    "5a0b5a4a6229",
+    "3d9a359c4b06",
+    "ae9848354b52",
+    "2b3762f9568b",
+    "8c1e4d4a5747",
+    "504e0e5c8170",
+    "5df45c581313",
+    "71ab3bd9de8b",
+    "bd67e8f7c237",
+    "0f4ac4de3969",
+    "8fd635139c0b",
+    "bfb42042cd71",
+    "718ebaf26ade",
+    "930efb8254ec",
+    "d7703b915525",
+    "1b0d7222026b",
+    "a351cca01b88",
+    "a4f40d791855",
+    "69c315300acc",
+    "c4e640b4ccfd",
+    "c146a77e72f0",
+    "f3ea112b90f7",
+    "bb8b71d6f954",
+    "410eece1f601",
+    "f88358e8d0dc",
+    "96f44a71c15e",
+    "515fc0abcfb0",
+    "191e7f6ed1f6",
+    "66d1e76cc30c",
+    "9a941508d7e3",
+    "0bcda70fdea0",
+    "f8ad768d13c3",
+    "1938d0f50d7c",
+    "53b42798e408",
+    "98fb856ff261",
+    "48d7144fded9",
+    "1b581b375ed4",
+    "adb9ff1cde83",
+    "b67cd8c514c6",
+    "b6bb1637df09",
+    "de3a4fe3e8bb",
+    "c360ff3e4c70",
+    "8094cfe51f00",
+    "9aad51dd9229",
+    "505d813f1cee",
+    "63d239badaa8",
+    "a6d6e5c92d7d",
+    "58fea97a0d5e",
+    "54022857dc5a",
+    "eeea44ccd13a",
+    "1928454a3088",
+    "e088e48f01a5",
+    "fc89a62ac6e6",
+    "c9c8578e0908",
+    "3fe21f14fc96",
+    "958e0223d413",
+    "d4f72b2bef19",
+    "e630747aaad9",
+    "6ebb60de6dea",
+    "586cced2deb2",
+    "2a1eb018a2c3",
+    "2f70d6c369eb",
+    "dbc98b1df41b",
+    "5a56f3812c17",
+    "e604e040f8bc",
+    "cf75f49855a7",
+    "393e0d6d578a",
+    "e8d0b12d49fa"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-11-12",
+   "timeline": [
+    {
+     "date": "2026-10-10",
+     "headline": "Putin relayed Iran war proposal to Trump, Kremlin says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "bd67e8f7c237",
+     "links": [
+      "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+      "https://www.investing.com/news/commodities-news/neither-putin-nor-trump-wanted-to-hang-up-first-kremlin-aide-says-after-very-friendly-call-4942108"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Germany sticks to Russia sanctions after Trump diesel deal",
+     "sources": 2,
+     "score": 40,
+     "event_id": "0f4ac4de3969",
+     "links": [
+      "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+     "sources": 2,
+     "score": 45,
+     "event_id": "8fd635139c0b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Watch: 'Time for Ukraine to get a new president', says Trump",
+     "sources": 4,
+     "score": 72,
+     "event_id": "bfb42042cd71",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Middle East live: Riyadh airport attack 'not acceptable,' Trump says",
+     "sources": 2,
+     "score": 44,
+     "event_id": "718ebaf26ade",
+     "links": [
+      "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
+      "https://www.investing.com/news/economy-news/middle-east-war-high-debt-levels-to-dominate-imfworld-bank-meetings-in-bangkok-4942461"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
+     "sources": 2,
+     "score": 50,
+     "event_id": "930efb8254ec",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+      "https://www.france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response",
+      "https://www.france24.com/en/video/20261011-at-least-twelve-killed-multiple-people-wounded-in-attack-on-riyadh-airport-1"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine",
+     "sources": 2,
+     "score": 43,
+     "event_id": "d7703b915525",
+     "links": [
+      "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
+      "https://www.france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport",
+     "sources": 4,
+     "score": 69,
+     "event_id": "1b0d7222026b",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+      "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
+      "https://www.france24.com/en/video/20261011-strike-on-riyadh-trump-signals-us-could-join-action-against-houthis"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Trump announces 'energy ceasefire' between Russia and Ukraine",
+     "sources": 3,
+     "score": 58,
+     "event_id": "a351cca01b88",
+     "links": [
+      "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/commentisfree/picture/2026/oct/11/pete-songi-donald-trump-plan-to-buy-diesel-from-russia-cartoon",
+      "https://www.france24.com/en/americas/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Saudi capital airport hit by second Houthi strike in two days",
+     "sources": 2,
+     "score": 53,
+     "event_id": "a4f40d791855",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+      "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
+     "sources": 4,
+     "score": 67,
+     "event_id": "69c315300acc",
+     "links": [
+      "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
+      "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "North Korea fires missiles after Seoul's hypersonic test",
+     "sources": 3,
+     "score": 51,
+     "event_id": "c4e640b4ccfd",
+     "links": [
+      "https://www.dw.com/en/north-korea-fires-missiles-after-seoul-s-hypersonic-test/a-79636110?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
+      "https://www.france24.com/en/asia-pacific/20261012-north-korea-ballistic-missiles-sea-japan-seoul"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+     "sources": 5,
+     "score": 82,
+     "event_id": "c146a77e72f0",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
+      "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue",
+     "sources": 4,
+     "score": 71,
+     "event_id": "f3ea112b90f7",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid",
+      "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html",
+      "https://www.aljazeera.com/news/2026/10/12/trump-thinks-ukraine-needs-a-new-president-who-could-replace-zelenskyy?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'",
+     "sources": 2,
+     "score": 50,
+     "event_id": "bb8b71d6f954",
+     "links": [
+      "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+     "sources": 2,
+     "score": 48,
+     "event_id": "410eece1f601",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US",
+     "sources": 2,
+     "score": 40,
+     "event_id": "f88358e8d0dc",
+     "links": [
+      "https://www.france24.com/en/trump-s-use-of-russian-diesel-fuel-at-ukraine-s-expense-sparks-controversy-in-the-us",
+      "https://www.aljazeera.com/news/2026/10/13/trumps-diesel-deal-opens-a-new-rift-with-europe-over-ukraine?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
+     "sources": 2,
+     "score": 44,
+     "event_id": "96f44a71c15e",
+     "links": [
+      "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+     "sources": 2,
+     "score": 42,
+     "event_id": "515fc0abcfb0",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+     "sources": 5,
+     "score": 79,
+     "event_id": "191e7f6ed1f6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
+      "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
+     "sources": 3,
+     "score": 56,
+     "event_id": "66d1e76cc30c",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20261014-ukraine-reports-russian-attacks-with-no-warnings-trump-says-us-still-sharing-intel",
+      "https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
+     "sources": 3,
+     "score": 60,
+     "event_id": "9a941508d7e3",
+     "links": [
+      "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
+      "https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions",
+      "https://www.france24.com/en/video/20261014-ukraine-accuses-spacex-of-crippling-military-missions-as-ties-with-us-worsen"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
+     "sources": 3,
+     "score": 60,
+     "event_id": "0bcda70fdea0",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+      "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals?traffic_source=rss",
+      "https://www.france24.com/en/video/20261014-ukraine-accuses-spacex-of-crippling-military-missions-as-ties-with-us-worsen"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "How Trump’s diesel deal with Russia will impact the United States and Ukraine",
+     "sources": 2,
+     "score": 50,
+     "event_id": "f8ad768d13c3",
+     "links": [
+      "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-rdf",
+      "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-rdf",
+      "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Why is Starlink internet so important on the battlefield in Ukraine?",
+     "sources": 2,
+     "score": 48,
+     "event_id": "1938d0f50d7c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "North Korea says it tested cruise missiles to be launched from sub",
+     "sources": 2,
+     "score": 40,
+     "event_id": "53b42798e408",
+     "links": [
+      "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+     "sources": 4,
+     "score": 73,
+     "event_id": "98fb856ff261",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+      "https://www.france24.com/en/video/20261015-ukraine-s-zelensky-defies-trump-with-russian-refinery-strikes"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "North Korea and China open new bridge after 12-year delay",
+     "sources": 2,
+     "score": 48,
+     "event_id": "48d7144fded9",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/tv-shows/business/20261015-china-north-korea-open-long-delayed-trade-bridge",
+      "https://www.france24.com/en/video/20261015-china-north-korea-open-long-delayed-border-bridge"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
+     "sources": 2,
+     "score": 41,
+     "event_id": "1b581b375ed4",
+     "links": [
+      "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war"
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "headline": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+     "sources": 2,
+     "score": 46,
+     "event_id": "adb9ff1cde83",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump"
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "headline": "Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time",
+     "sources": 1,
+     "score": 41,
+     "event_id": "b67cd8c514c6",
+     "links": [
+      "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Trump waives several Russia sanctions as new US law takes effect",
+     "sources": 3,
+     "score": 52,
+     "event_id": "b6bb1637df09",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/commodities-news/trump-waives-many-russiarelated-sanctions-tariffs-before-they-were-to-take-effect-under-new-law-4955088"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
+     "sources": 4,
+     "score": 67,
+     "event_id": "de3a4fe3e8bb",
+     "links": [
+      "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
+      "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
+     "sources": 2,
+     "score": 40,
+     "event_id": "c360ff3e4c70",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
+      "https://www.france24.com/en/video/20261017-russia-hails-trump-waiving-sanctions-as-historic"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
+     "sources": 2,
+     "score": 44,
+     "event_id": "8094cfe51f00",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
+      "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+     "sources": 4,
+     "score": 66,
+     "event_id": "9aad51dd9229",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
+     "sources": 2,
+     "score": 45,
+     "event_id": "505d813f1cee",
+     "links": [
+      "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+     "sources": 2,
+     "score": 42,
+     "event_id": "63d239badaa8",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
+      "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live",
+     "sources": 4,
+     "score": 66,
+     "event_id": "a6d6e5c92d7d",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
+      "https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+     "sources": 2,
+     "score": 50,
+     "event_id": "58fea97a0d5e",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+      "https://www.france24.com/en/us-envoy-steve-witkoff-thanks-vladimir-putin-for-diesel-deal-at-ukraine-talks-in-russia",
+      "https://www.france24.com/en/ukraine-talks-us-envoy-meets-vladimir-putin-in-russia"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
+     "sources": 1,
+     "score": 45,
+     "event_id": "54022857dc5a",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
+      "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+     "sources": 4,
+     "score": 70,
+     "event_id": "eeea44ccd13a",
+     "links": [
+      "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-rdf",
+      "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+      "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live",
+     "sources": 2,
+     "score": 44,
+     "event_id": "1928454a3088",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
+      "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Donald Trump has been a disaster for rural America | Steven Greenhouse",
+     "sources": 3,
+     "score": 63,
+     "event_id": "e088e48f01a5",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/oct/26/donald-trump-policy-disaster-rural-america",
+      "https://www.france24.com/en/americas/20261026-lula-wins-brazil-election-but-faces-uphill-battle-to-govern",
+      "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours",
+     "sources": 2,
+     "score": 52,
+     "event_id": "fc89a62ac6e6",
+     "links": [
+      "https://www.dw.com/en/germany-news-union-slams-audi-ceo-for-joining-trump-at-campaign-rally-while-chancellor-merz-and-president-steinmeier-embark-on-separate-asia-tours/live-79760097?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/stock-market-news/audi-ceos-appearance-at-trump-rally-was-deeply-embarrassing-ig-metall-head-says-4971531"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
+     "sources": 2,
+     "score": 44,
+     "event_id": "c9c8578e0908",
+     "links": [
+      "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Trump announces Audi will build $4 billion factory in US",
+     "sources": 2,
+     "score": 41,
+     "event_id": "3fe21f14fc96",
+     "links": [
+      "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/economy-news/trump-touts-4-billion-audi-plant-in-georgia-as-he-defends-tariffs-4971027"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station",
+     "sources": 2,
+     "score": 43,
+     "event_id": "958e0223d413",
+     "links": [
+      "https://www.dw.com/en/ukraine-13-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/live-news/20261029-horrific-russian-drone-strike-kills-13-at-ukraine-train-station-kyiv"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d4f72b2bef19",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station"
+     ]
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+     "sources": 2,
+     "score": 43,
+     "event_id": "e630747aaad9",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "https://www.investing.com/news/commodities-news/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility-4989707"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Russian strikes kill 26 in Ukraine after longest ceasefire ends",
+     "sources": 3,
+     "score": 50,
+     "event_id": "6ebb60de6dea",
+     "links": [
+      "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
+      "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
+     "sources": 2,
+     "score": 45,
+     "event_id": "586cced2deb2",
+     "links": [
+      "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
+      "https://www.france24.com/en/video/20261103-dozens-killed-dozens-more-missing-after-russian-strike-on-ukrainian-aid-site"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+     "sources": 2,
+     "score": 48,
+     "event_id": "2a1eb018a2c3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/ukraine-war-merz-doubts-russia-is-serious-about-a-truce/a-79836026?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2f70d6c369eb",
+     "links": [
+      "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+     "sources": 2,
+     "score": 44,
+     "event_id": "dbc98b1df41b",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
+      "https://www.france24.com/en/video/20261103-vile-terrorist-attack-russia-bombs-ukraine-aid-centre"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+     "sources": 2,
+     "score": 52,
+     "event_id": "5a56f3812c17",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+     "sources": 2,
+     "score": 44,
+     "event_id": "e604e040f8bc",
+     "links": [
+      "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+      "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+     "sources": 2,
+     "score": 41,
+     "event_id": "cf75f49855a7",
+     "links": [
+      "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1"
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+     "sources": 2,
+     "score": 45,
+     "event_id": "393e0d6d578a",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+      "https://www.cnbc.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge.html"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
+     "sources": 2,
+     "score": 48,
+     "event_id": "e8d0b12d49fa",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1301430cb05f",
+   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+   "section": "culture",
+   "entities": [
+    "unconquered",
+    "hidden",
+    "astronomers",
+    "marvel",
+    "traces",
+    "ancient",
+    "made",
+    "bring",
+    "getting",
+    "risks",
+    "high",
+    "cannabis",
+    "system",
+    "preserved",
+    "filmmakers",
+    "convinced",
+    "found",
+    "pluto",
+    "solved",
+    "million-year-old",
+    "dwarf",
+    "shelter",
+    "tomb",
+    "were",
+    "fast",
+    "since",
+    "planet",
+    "discovered",
+    "warrior",
+    "everyone",
+    "archaeologists",
+    "solar",
+    "humans",
+    "years",
+    "object",
+    "mysterious",
+    "orbiting",
+    "glass",
+    "photograph",
+    "year-old"
+   ],
+   "event_ids": [
+    "1301430cb05f",
+    "510624bdc84f",
+    "f98076571ee0",
+    "5bb13a447624",
+    "8f63c883fb07",
+    "4d5d929d3f9b",
+    "13c0684b4af3",
+    "92a48ee35a16",
+    "dbe2fb28d382",
+    "200127734810",
+    "d314b5251d2f",
+    "38850f6a5dfa",
+    "f14aa1a495df",
+    "bdbcab469084",
+    "bcab6080a3cb",
+    "cd253afe8e24",
+    "79091fcbef11",
+    "a7bc879393f4",
+    "4d7f8e0023db",
+    "2b08b8fb7a6d",
+    "18524fe8a6bd",
+    "ed32fdd8eb37",
+    "05aacc7a1a04",
+    "ef31af8617ed",
+    "3ab27da8b81a",
+    "3a1bbc567a4d",
+    "98e8250459db",
+    "5c3abce3db29",
+    "a8d9169ef0a2",
+    "088fc877c632",
+    "940dfd63a163",
+    "f30fa54b5234"
+   ],
+   "first_seen": "2026-08-25",
+   "last_seen": "2026-11-12",
+   "timeline": [
+    {
+     "date": "2026-08-25",
+     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
+     "sources": 5,
+     "score": 71,
+     "event_id": "1301430cb05f",
+     "links": [
+      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
+      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-25",
+     "headline": "Remembering Dolly Parton: 8 facts about the icon",
+     "sources": 6,
+     "score": 79,
+     "event_id": "510624bdc84f",
+     "links": [
+      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton – a life in pictures",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f98076571ee0",
+     "links": [
+      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
+      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5bb13a447624",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
+     "sources": 4,
+     "score": 78,
+     "event_id": "8f63c883fb07",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
+      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
+     "sources": 6,
+     "score": 83,
+     "event_id": "4d5d929d3f9b",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
+      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
+     "sources": 6,
+     "score": 86,
+     "event_id": "13c0684b4af3",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02676-1",
+      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
+      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-27",
+     "headline": "Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter",
+     "sources": 2,
+     "score": 54,
+     "event_id": "92a48ee35a16",
+     "links": [
+      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
+      "https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "This week's quiz includes two Dolly Parton questions, because she deserves it",
+     "sources": 2,
+     "score": 47,
+     "event_id": "dbe2fb28d382",
+     "links": [
+      "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
+      "https://www.theguardian.com/music/2026/aug/27/dolly-parton-dollywood"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Briefing Chat: How Dolly Parton left her mark on science",
+     "sources": 3,
+     "score": 66,
+     "event_id": "200127734810",
+     "links": [
+      "https://www.nature.com/articles/d41586-026-02732-w",
+      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
+      "https://www.theguardian.com/music/2026/aug/28/dolly-parton-sister-stella-tribute-act-of-kindness-cancer-drugs"
+     ]
+    },
+    {
+     "date": "2026-08-28",
+     "headline": "Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan",
+     "sources": 2,
+     "score": 45,
+     "event_id": "d314b5251d2f",
+     "links": [
+      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
+      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
+     "sources": 3,
+     "score": 58,
+     "event_id": "38850f6a5dfa",
+     "links": [
+      "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
+      "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
+      "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "Dolly Parton laid to rest alongside husband in Nashville",
+     "sources": 2,
+     "score": 43,
+     "event_id": "f14aa1a495df",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-08-31",
+     "headline": "For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief",
+     "sources": 1,
+     "score": 40,
+     "event_id": "bdbcab469084",
+     "links": [
+      "https://www.smithsonianmag.com/innovation/many-americans-covid-still-chronic-disabling-disease-scientists-working-tirelessly-bring-them-relief-180989290/"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Festival honouring Dolly Parton set for Nashville and London",
+     "sources": 3,
+     "score": 55,
+     "event_id": "bcab6080a3cb",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
+      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History",
+     "sources": 1,
+     "score": 44,
+     "event_id": "cd253afe8e24",
+     "links": [
+      "https://www.smithsonianmag.com/smithsonian-institution/kermit-the-frog-was-just-trying-to-put-on-a-variety-show-fifty-years-later-the-muppets-are-some-of-the-biggest-stars-in-television-history-180989451/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "For Decades, Scientists Thought an 'American Cheetah' Once Roamed North America. Turns Out the Extinct Cat Wasn't a Cheetah",
+     "sources": 1,
+     "score": 41,
+     "event_id": "79091fcbef11",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/for-decades-scientists-thought-an-american-cheetah-once-roamed-north-america-ancient-turns-out-the-extinct-cat-wasnt-a-cheetah-180989465/"
+     ]
+    },
+    {
+     "date": "2026-09-14",
+     "headline": "Scientists Find a Trove of Denisovan Fossils and Tools in Southwest China, Giving an Unprecedented Glimpse Into Our Extinct Cousins' Lives",
+     "sources": 1,
+     "score": 45,
+     "event_id": "a7bc879393f4",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/scientists-find-a-trove-of-denisovan-fossils-and-tools-in-southwest-china-giving-an-unprecendented-glimpse-into-our-extinct-cousins-lives-180989483/"
+     ]
+    },
+    {
+     "date": "2026-09-17",
+     "headline": "A Rare Marble Sculpture by America’s First Professional Female Sculptor Sat Hidden in Plain Sight for Decades in an English Garden",
+     "sources": 1,
+     "score": 43,
+     "event_id": "4d7f8e0023db",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/a-rare-marble-sculpture-by-americas-first-professional-female-sculptor-sat-hidden-in-plain-sight-for-decades-in-english-garden-180989508/"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "A Rare Aztec Codex Detailing the Rise and Fall of Tenochtitlan Returns to Mexico for the First Time in Nearly Two Centuries",
+     "sources": 1,
+     "score": 41,
+     "event_id": "2b08b8fb7a6d",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/a-rare-aztec-codex-detailing-the-rise-and-fall-of-tenochtitlan-returns-to-mexico-for-the-first-time-in-nearly-two-centuries-180989536/"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Dolly Parton estate in feud with nephew over alleged ‘warfare’ threats",
+     "sources": 2,
+     "score": 47,
+     "event_id": "18524fe8a6bd",
+     "links": [
+      "https://www.theguardian.com/music/2026/sep/23/dolly-parton-estate-in-feud-with-nephew-over-alleged-warfare-threats",
+      "https://www.bbc.co.uk/news/articles/ckwyz06qg983o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "An Unprecedented Trove of Ancient Wooden Tools Uncovered at a Rock Shelter in Spain Shows Neanderthals Were Skilled Woodworkers",
+     "sources": 1,
+     "score": 41,
+     "event_id": "ed32fdd8eb37",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/an-unprecedented-trove-of-ancient-wooden-tools-uncovered-at-a-rock-shelter-in-spain-show-neanderthals-were-skilled-woodworkers-180989668/"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Were Two Ancient Chinese Astronomers Beheaded for Failing to Predict an Eclipse in 2134 B.C.E.? The Story May Be a Myth, but It Underscores the Real Risks of Interpreting Celestial Events",
+     "sources": 1,
+     "score": 44,
+     "event_id": "05aacc7a1a04",
+     "links": [
+      "https://www.smithsonianmag.com/history/were-two-chinese-astronomers-were-beheaded-for-failing-to-predict-an-eclipse-2134-bce-the-story-may-be-a-myth-but-it-underscores-the-real-risks-of-interpreting-celestial-events-180989715/"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "These Snakes Can Cartwheel Away From Danger. Scientists Just Uncovered How the Slithering Creatures Perform Their Acrobatic Rolls",
+     "sources": 1,
+     "score": 44,
+     "event_id": "ef31af8617ed",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/these-snakes-can-cartwheel-away-from-danger-scientists-just-uncovered-how-the-slithering-creatures-perform-their-acrobatic-rolls-180989720/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Astronomers Detect the Oldest Known Fast Radio Burst, Spewed From an Ancient Galaxy Just Three Billion Years After the Big Bang",
+     "sources": 1,
+     "score": 44,
+     "event_id": "3ab27da8b81a",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/astronomers-detect-the-oldest-fast-radio-burst-spewed-from-an-ancient-galaxy-just-three-billion-years-after-the-big-bang-180989730/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Where Exactly Were the First Humans to Be Captured in a Photograph Standing? Three Obsessed Filmmakers Solved the Nearly 200-Year-Old Mystery",
+     "sources": 1,
+     "score": 43,
+     "event_id": "3a1bbc567a4d",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Archaeologists May Have Solved the Mystery of a Roman Sarcophagus Excavated at Westminster Abbey in 1869",
+     "sources": 1,
+     "score": 48,
+     "event_id": "98e8250459db",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/",
+      "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Romans Made Color-Changing Glass With Ancient Nanotechnology. Scientists Just Discovered How to Replicate the 1,600-Year-Old Marvel",
+     "sources": 1,
+     "score": 40,
+     "event_id": "5c3abce3db29",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/romans-made-color-changing-glass-with-ancient-nanotechnology-scientists-just-discovered-how-to-replicate-the-1600-year-old-marvel-180989766/"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "After Sitting in a London Museum Since 1924, This Dinosaur Fossil Was Named a New Predatory Species—an 'Unconquered Female Warrior'",
+     "sources": 1,
+     "score": 40,
+     "event_id": "a8d9169ef0a2",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/after-sitting-in-a-london-museum-since-1924-this-dinosaur-fossil-was-named-a-new-predatory-species-an-unconquered-female-warrior-180989683/"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Scientists Say They've Found Preserved Dinosaur Blood in a 115-Million-Year-Old Fossil, but Not Everyone Is Convinced",
+     "sources": 1,
+     "score": 40,
+     "event_id": "088fc877c632",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/scientists-say-theyve-found-preserved-dinosaur-blood-in-a-115-millino-year-old-fossil-but-not-everyone-is-convinced-180989802/"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Humans May Have Been Getting High on Weed 2,800 Years Ago. Cannabis Seeds and Hair With Traces of THC Were Found in an Ancient Tomb",
+     "sources": 1,
+     "score": 40,
+     "event_id": "940dfd63a163",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/humans-may-have-been-getting-high-on-weed-2800-years-ago-cannabis-seeds-and-hair-with-traces-of-thc-were-found-in-an-ancient-tomb-180989829/"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Astronomers Found a Mysterious Object Orbiting Far Beyond Pluto. It Could Be a New Dwarf Planet Hidden in Our Solar System",
+     "sources": 1,
+     "score": 40,
+     "event_id": "f30fa54b5234",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "84ce4047c1c5",
+   "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+   "section": "world",
+   "entities": [
+    "shein",
+    "tiananmen",
+    "t-head",
+    "hong",
+    "kong's",
+    "kong",
+    "shein's",
+    "fast-fashion",
+    "alibaba"
+   ],
+   "event_ids": [
+    "84ce4047c1c5",
+    "0df2dafecfc9",
+    "2c91a82a84c2",
+    "f33cc723a614",
+    "a74878e9b76a",
+    "b43c2e14cf73",
+    "cf097931c31f"
+   ],
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-11-12",
+   "timeline": [
+    {
+     "date": "2026-08-21",
+     "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
+     "sources": 5,
+     "score": 85,
+     "event_id": "84ce4047c1c5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+      "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Hong Kong convicts Tiananmen vigil leaders",
+     "sources": 3,
+     "score": 67,
+     "event_id": "0df2dafecfc9",
+     "links": [
+      "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
+      "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
+     "sources": 2,
+     "score": 40,
+     "event_id": "2c91a82a84c2",
+     "links": [
+      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Alibaba’s record stock sale adds to Hong Kong tech flood",
+     "sources": 3,
+     "score": 53,
+     "event_id": "f33cc723a614",
+     "links": [
+      "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
+      "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
+      "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Fast-fashion giant Shein's shares drop 8% in Hong Kong market debut",
+     "sources": 2,
+     "score": 46,
+     "event_id": "a74878e9b76a",
+     "links": [
+      "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
+      "https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
+      "https://www.investing.com/news/stock-market-news/shein-shares-slide-10-in-hong-kong-debut-after-valuation-reset-4883462"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+     "sources": 5,
+     "score": 80,
+     "event_id": "b43c2e14cf73",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/hong-kong-tiananmen-activists-sentenced-up-to-7-years/a-79224243?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Alibaba readies T-Head chip IPO as Hong Kong frenzy cools",
+     "sources": 2,
+     "score": 46,
+     "event_id": "cf097931c31f",
+     "links": [
+      "https://www.scmp.com/plus/business/banking-finance/article/3374068/alibaba-readies-t-head-chip-ipo-hong-kong-frenzy-cools",
+      "https://www.investing.com/news/stock-market-news/alphabet-sets-initial-price-guidance-for-hong-kong-singapore-bond-sales-term-sheet-shows-5020243"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e4a5945bc19c",
+   "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+   "section": "world",
+   "entities": [
+    "scott",
+    "dems",
+    "mississippi",
+    "democrat",
+    "colom",
+    "house",
+    "white",
+    "senate"
+   ],
+   "event_ids": [
+    "e4a5945bc19c",
+    "9e0024c86ed3",
+    "4a32187e9aeb",
+    "e0cf9582f4a4"
+   ],
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "timeline": [
+    {
+     "date": "2026-11-12",
+     "headline": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+     "sources": 6,
+     "score": 80,
+     "event_id": "e4a5945bc19c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
+      "https://www.dw.com/en/democrat-colom-wins-mississippi-senate-seat/a-79924938?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Democrat Scott Colom wins the closest Senate race in the country",
+     "sources": 2,
+     "score": 46,
+     "event_id": "9e0024c86ed3",
+     "links": [
+      "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
+      "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
+     "sources": 3,
+     "score": 63,
+     "event_id": "4a32187e9aeb",
+     "links": [
+      "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+      "https://www.aljazeera.com/news/2026/11/12/who-is-scott-colom-mississippis-first-black-senator-in-150-years?traffic_source=rss",
+      "https://www.france24.com/en/tv-shows/press-review/20261112-scott-colom-makes-history-in-mississippi-as-first-black-senator-in-more-than-140-years"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+     "sources": 3,
+     "score": 60,
+     "event_id": "e0cf9582f4a4",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
+      "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ea6dde997f9d",
+   "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
+   "section": "world",
+   "entities": [
+    "lewis",
+    "gaza",
+    "egypt",
+    "hamas",
+    "rafah",
+    "hamilton",
+    "israel"
+   ],
+   "event_ids": [
+    "ea6dde997f9d",
+    "2df74c31e2e0",
+    "87cfd790eced"
+   ],
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-12",
+   "timeline": [
+    {
+     "date": "2026-11-12",
+     "headline": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
+     "sources": 4,
+     "score": 65,
+     "event_id": "ea6dde997f9d",
+     "links": [
+      "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Israel strikes Gaza hospital, says Hamas senior figure inside",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2df74c31e2e0",
+     "links": [
+      "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+     "sources": 2,
+     "score": 42,
+     "event_id": "87cfd790eced",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "48ebc69d655d",
+   "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
+   "section": "world",
+   "entities": [
+    "gaza",
+    "cisco",
+    "israeli",
+    "nasser"
+   ],
+   "event_ids": [
+    "48ebc69d655d",
+    "7cf80c14f947"
+   ],
+   "first_seen": "2026-11-07",
+   "last_seen": "2026-11-12",
+   "timeline": [
+    {
+     "date": "2026-11-07",
+     "headline": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
+     "sources": 2,
+     "score": 55,
+     "event_id": "48ebc69d655d",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss",
+      "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+     "sources": 2,
+     "score": 42,
+     "event_id": "7cf80c14f947",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon",
+      "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital"
      ]
     }
    ]
@@ -8778,425 +10193,6 @@
    ]
   },
   {
-   "id": "1301430cb05f",
-   "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-   "section": "culture",
-   "entities": [
-    "everyone",
-    "still",
-    "nanotechnology",
-    "ancient",
-    "shelter",
-    "years",
-    "unconquered",
-    "high",
-    "traces",
-    "bring",
-    "made",
-    "convinced",
-    "astronomers",
-    "codex",
-    "fast",
-    "getting",
-    "marvel",
-    "humans",
-    "female",
-    "solved",
-    "filmmakers",
-    "named",
-    "photograph",
-    "hair",
-    "year-old",
-    "dinosaur",
-    "million-year-old",
-    "archaeologists",
-    "preserved",
-    "discovered",
-    "were",
-    "risks",
-    "found",
-    "warrior",
-    "predatory",
-    "since",
-    "cannabis",
-    "glass",
-    "tomb",
-    "museum"
-   ],
-   "event_ids": [
-    "1301430cb05f",
-    "510624bdc84f",
-    "f98076571ee0",
-    "5bb13a447624",
-    "8f63c883fb07",
-    "4d5d929d3f9b",
-    "13c0684b4af3",
-    "92a48ee35a16",
-    "dbe2fb28d382",
-    "200127734810",
-    "d314b5251d2f",
-    "38850f6a5dfa",
-    "f14aa1a495df",
-    "bdbcab469084",
-    "bcab6080a3cb",
-    "cd253afe8e24",
-    "79091fcbef11",
-    "a7bc879393f4",
-    "4d7f8e0023db",
-    "2b08b8fb7a6d",
-    "18524fe8a6bd",
-    "ed32fdd8eb37",
-    "05aacc7a1a04",
-    "ef31af8617ed",
-    "3ab27da8b81a",
-    "3a1bbc567a4d",
-    "98e8250459db",
-    "5c3abce3db29",
-    "a8d9169ef0a2",
-    "088fc877c632",
-    "940dfd63a163"
-   ],
-   "first_seen": "2026-08-25",
-   "last_seen": "2026-11-09",
-   "timeline": [
-    {
-     "date": "2026-08-25",
-     "headline": "Dolly Parton, one of country music's most singular performers, has died at age 80",
-     "sources": 5,
-     "score": 71,
-     "event_id": "1301430cb05f",
-     "links": [
-      "https://www.npr.org/2026/08/25/nx-s1-3650175/dolly-parton-obituary",
-      "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-25",
-     "headline": "Remembering Dolly Parton: 8 facts about the icon",
-     "sources": 6,
-     "score": 79,
-     "event_id": "510624bdc84f",
-     "links": [
-      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf",
-      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c7831ld8e73o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton – a life in pictures",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f98076571ee0",
-     "links": [
-      "https://www.theguardian.com/music/gallery/2026/aug/25/dolly-parton-life-in-pictures",
-      "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "'If you want the rainbow, you gotta put up with the rain': The wit and wisdom of Dolly Parton",
-     "sources": 3,
-     "score": 68,
-     "event_id": "5bb13a447624",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c39mlxl9d37o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c790n1vj27no?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "How Dolly Parton helped the world - from children's books to supporting Covid vaccine",
-     "sources": 4,
-     "score": 78,
-     "event_id": "8f63c883fb07",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c24j39jqy2go?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/08/26/g-s1-140207/up-first-newsletter-canada-tariffs-visa-revocations-dolly-parton-nevada-voters",
-      "https://www.france24.com/en/video/20260826-us-country-music-legend-dolly-parton-dies-aged-80"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Watch Nashville fans lay flowers in tribute to Dolly Parton",
-     "sources": 6,
-     "score": 83,
-     "event_id": "4d5d929d3f9b",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cx2zm89zd99o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/26/dolly-parton-singer-actress",
-      "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Dolly Parton dies aged 80 – researchers celebrate her contributions to science",
-     "sources": 6,
-     "score": 86,
-     "event_id": "13c0684b4af3",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-02676-1",
-      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
-      "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "Dolly Parton Was One of the Biggest Stars in the History of Country Music. She Wanted to Be Remembered as a Songwriter",
-     "sources": 2,
-     "score": 54,
-     "event_id": "92a48ee35a16",
-     "links": [
-      "https://www.smithsonianmag.com/arts-culture/dolly-parton-was-one-of-the-biggest-stars-in-the-history-of-country-music-she-wanted-to-be-remembered-as-a-songwriter-180989405/",
-      "https://www.theguardian.com/music/2026/aug/26/affairs-drugs-you-could-ask-dolly-parton-about-anything-and-get-a-laugh-just-stay-away-from-politics"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "This week's quiz includes two Dolly Parton questions, because she deserves it",
-     "sources": 2,
-     "score": 47,
-     "event_id": "dbe2fb28d382",
-     "links": [
-      "https://www.npr.org/2026/08/28/g-s1-140390/dolly-parton-tim-curry-meta-tariff-news-quiz",
-      "https://www.theguardian.com/music/2026/aug/27/dolly-parton-dollywood"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Briefing Chat: How Dolly Parton left her mark on science",
-     "sources": 3,
-     "score": 66,
-     "event_id": "200127734810",
-     "links": [
-      "https://www.nature.com/articles/d41586-026-02732-w",
-      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
-      "https://www.theguardian.com/music/2026/aug/28/dolly-parton-sister-stella-tribute-act-of-kindness-cancer-drugs"
-     ]
-    },
-    {
-     "date": "2026-08-28",
-     "headline": "Dolly Parton brought divided Americans together. What can we learn from her? | Margaret Sullivan",
-     "sources": 2,
-     "score": 45,
-     "event_id": "d314b5251d2f",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-america-divide",
-      "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "How America celebrated and mourned Dolly Parton, in Nashville and beyond",
-     "sources": 3,
-     "score": 58,
-     "event_id": "38850f6a5dfa",
-     "links": [
-      "https://www.npr.org/2026/08/29/g-s1-140345/dolly-parton-appreciation-remembrance-tribute",
-      "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
-      "https://www.cnbc.com/2026/08/29/dolly-parton-success-business-lessons.html"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "Dolly Parton laid to rest alongside husband in Nashville",
-     "sources": 2,
-     "score": 43,
-     "event_id": "f14aa1a495df",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-08-31",
-     "headline": "For Many Americans, Covid Is Still a Chronic, Disabling Disease. These Scientists Are Working Tirelessly to Bring Them Relief",
-     "sources": 1,
-     "score": 40,
-     "event_id": "bdbcab469084",
-     "links": [
-      "https://www.smithsonianmag.com/innovation/many-americans-covid-still-chronic-disabling-disease-scientists-working-tirelessly-bring-them-relief-180989290/"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Festival honouring Dolly Parton set for Nashville and London",
-     "sources": 3,
-     "score": 55,
-     "event_id": "bcab6080a3cb",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5ywd9q3ywvo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/music/2026/aug/31/dolly-parton-funeral",
-      "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Kermit the Frog Was Just Trying to Put on a Variety Show. Fifty Years Later, the Muppets Are Some of the Biggest Stars in Television History",
-     "sources": 1,
-     "score": 44,
-     "event_id": "cd253afe8e24",
-     "links": [
-      "https://www.smithsonianmag.com/smithsonian-institution/kermit-the-frog-was-just-trying-to-put-on-a-variety-show-fifty-years-later-the-muppets-are-some-of-the-biggest-stars-in-television-history-180989451/"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "For Decades, Scientists Thought an 'American Cheetah' Once Roamed North America. Turns Out the Extinct Cat Wasn't a Cheetah",
-     "sources": 1,
-     "score": 41,
-     "event_id": "79091fcbef11",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/for-decades-scientists-thought-an-american-cheetah-once-roamed-north-america-ancient-turns-out-the-extinct-cat-wasnt-a-cheetah-180989465/"
-     ]
-    },
-    {
-     "date": "2026-09-14",
-     "headline": "Scientists Find a Trove of Denisovan Fossils and Tools in Southwest China, Giving an Unprecedented Glimpse Into Our Extinct Cousins' Lives",
-     "sources": 1,
-     "score": 45,
-     "event_id": "a7bc879393f4",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/scientists-find-a-trove-of-denisovan-fossils-and-tools-in-southwest-china-giving-an-unprecendented-glimpse-into-our-extinct-cousins-lives-180989483/"
-     ]
-    },
-    {
-     "date": "2026-09-17",
-     "headline": "A Rare Marble Sculpture by America’s First Professional Female Sculptor Sat Hidden in Plain Sight for Decades in an English Garden",
-     "sources": 1,
-     "score": 43,
-     "event_id": "4d7f8e0023db",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/a-rare-marble-sculpture-by-americas-first-professional-female-sculptor-sat-hidden-in-plain-sight-for-decades-in-english-garden-180989508/"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "A Rare Aztec Codex Detailing the Rise and Fall of Tenochtitlan Returns to Mexico for the First Time in Nearly Two Centuries",
-     "sources": 1,
-     "score": 41,
-     "event_id": "2b08b8fb7a6d",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/a-rare-aztec-codex-detailing-the-rise-and-fall-of-tenochtitlan-returns-to-mexico-for-the-first-time-in-nearly-two-centuries-180989536/"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Dolly Parton estate in feud with nephew over alleged ‘warfare’ threats",
-     "sources": 2,
-     "score": 47,
-     "event_id": "18524fe8a6bd",
-     "links": [
-      "https://www.theguardian.com/music/2026/sep/23/dolly-parton-estate-in-feud-with-nephew-over-alleged-warfare-threats",
-      "https://www.bbc.co.uk/news/articles/ckwyz06qg983o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "An Unprecedented Trove of Ancient Wooden Tools Uncovered at a Rock Shelter in Spain Shows Neanderthals Were Skilled Woodworkers",
-     "sources": 1,
-     "score": 41,
-     "event_id": "ed32fdd8eb37",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/an-unprecedented-trove-of-ancient-wooden-tools-uncovered-at-a-rock-shelter-in-spain-show-neanderthals-were-skilled-woodworkers-180989668/"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Were Two Ancient Chinese Astronomers Beheaded for Failing to Predict an Eclipse in 2134 B.C.E.? The Story May Be a Myth, but It Underscores the Real Risks of Interpreting Celestial Events",
-     "sources": 1,
-     "score": 44,
-     "event_id": "05aacc7a1a04",
-     "links": [
-      "https://www.smithsonianmag.com/history/were-two-chinese-astronomers-were-beheaded-for-failing-to-predict-an-eclipse-2134-bce-the-story-may-be-a-myth-but-it-underscores-the-real-risks-of-interpreting-celestial-events-180989715/"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "These Snakes Can Cartwheel Away From Danger. Scientists Just Uncovered How the Slithering Creatures Perform Their Acrobatic Rolls",
-     "sources": 1,
-     "score": 44,
-     "event_id": "ef31af8617ed",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/these-snakes-can-cartwheel-away-from-danger-scientists-just-uncovered-how-the-slithering-creatures-perform-their-acrobatic-rolls-180989720/"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Astronomers Detect the Oldest Known Fast Radio Burst, Spewed From an Ancient Galaxy Just Three Billion Years After the Big Bang",
-     "sources": 1,
-     "score": 44,
-     "event_id": "3ab27da8b81a",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/astronomers-detect-the-oldest-fast-radio-burst-spewed-from-an-ancient-galaxy-just-three-billion-years-after-the-big-bang-180989730/"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Where Exactly Were the First Humans to Be Captured in a Photograph Standing? Three Obsessed Filmmakers Solved the Nearly 200-Year-Old Mystery",
-     "sources": 1,
-     "score": 43,
-     "event_id": "3a1bbc567a4d",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Archaeologists May Have Solved the Mystery of a Roman Sarcophagus Excavated at Westminster Abbey in 1869",
-     "sources": 1,
-     "score": 48,
-     "event_id": "98e8250459db",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/",
-      "https://www.smithsonianmag.com/smart-news/where-exactly-were-the-first-humans-to-be-captured-in-a-photograph-standing-three-obsessed-filmmakers-solved-the-nearly-200-year-old-mystery-180989727/"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Romans Made Color-Changing Glass With Ancient Nanotechnology. Scientists Just Discovered How to Replicate the 1,600-Year-Old Marvel",
-     "sources": 1,
-     "score": 40,
-     "event_id": "5c3abce3db29",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/romans-made-color-changing-glass-with-ancient-nanotechnology-scientists-just-discovered-how-to-replicate-the-1600-year-old-marvel-180989766/"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "After Sitting in a London Museum Since 1924, This Dinosaur Fossil Was Named a New Predatory Species—an 'Unconquered Female Warrior'",
-     "sources": 1,
-     "score": 40,
-     "event_id": "a8d9169ef0a2",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/after-sitting-in-a-london-museum-since-1924-this-dinosaur-fossil-was-named-a-new-predatory-species-an-unconquered-female-warrior-180989683/"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Scientists Say They've Found Preserved Dinosaur Blood in a 115-Million-Year-Old Fossil, but Not Everyone Is Convinced",
-     "sources": 1,
-     "score": 40,
-     "event_id": "088fc877c632",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/scientists-say-theyve-found-preserved-dinosaur-blood-in-a-115-millino-year-old-fossil-but-not-everyone-is-convinced-180989802/"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Humans May Have Been Getting High on Weed 2,800 Years Ago. Cannabis Seeds and Hair With Traces of THC Were Found in an Ancient Tomb",
-     "sources": 1,
-     "score": 40,
-     "event_id": "940dfd63a163",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/humans-may-have-been-getting-high-on-weed-2800-years-ago-cannabis-seeds-and-hair-with-traces-of-thc-were-found-in-an-ancient-tomb-180989829/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "117b4062144e",
    "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
    "section": "science",
@@ -10690,918 +11686,6 @@
      "links": [
       "https://www.bbc.co.uk/sport/football/videos/c699ze5074n2o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/live/2026/nov/08/man-utd-v-aston-villa-premier-league-live"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "639e1a78a571",
-   "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-   "section": "world",
-   "entities": [
-    "states",
-    "kuwait",
-    "melania",
-    "roth",
-    "asia",
-    "gulf",
-    "audi",
-    "death",
-    "dnipro",
-    "saudi",
-    "modi",
-    "removals",
-    "trump",
-    "korea",
-    "merz",
-    "kherson",
-    "ukraine",
-    "saudis",
-    "chancellor",
-    "steven",
-    "canada",
-    "riyadh",
-    "russia",
-    "poland",
-    "ukrainian",
-    "beijing",
-    "iran's",
-    "audi's",
-    "block",
-    "president",
-    "kyiv",
-    "germany",
-    "united",
-    "american",
-    "andrew",
-    "russian",
-    "britain",
-    "blackouts",
-    "vladimir",
-    "bringing"
-   ],
-   "event_ids": [
-    "639e1a78a571",
-    "0624eb1ba208",
-    "816e48902267",
-    "0a4c58727150",
-    "a60728b498fa",
-    "123a1f07cf24",
-    "56f469f39f91",
-    "720fe4b034c3",
-    "f0099e190d82",
-    "965561c723dd",
-    "b193e4544a0d",
-    "0316549f9ed5",
-    "3eaa33015060",
-    "19a5a4d8911d",
-    "f3c480adacd2",
-    "01a1c27cf3db",
-    "8aebfd5175f1",
-    "def668b7e9dc",
-    "0e11f2f770e0",
-    "ca01092fef56",
-    "d39bc91ddc0a",
-    "c5e1e17987ea",
-    "4ee875e3fe43",
-    "2f607baa744d",
-    "2685bccdeea4",
-    "fddaa90f876f",
-    "d4ca08041bea",
-    "24d62d122ca6",
-    "80e2d954a5ba",
-    "d72eed2c40c7",
-    "6cffb2755854",
-    "f0d5ecba517b",
-    "172febb378d5",
-    "d68c149320ae",
-    "fe307da7bf3f",
-    "e68fe4f445db",
-    "61c52ea5c150",
-    "fbb58bedad9a",
-    "ac6b33f602a5",
-    "2493ae91f899",
-    "7092d0f6864b",
-    "7b6cc89252d4",
-    "0d5f455ce96f",
-    "8edb640d7bec",
-    "d02361daf1a5",
-    "ac57718967a8",
-    "62bd4787a022",
-    "b3ad4cde8512",
-    "b41b011401b8",
-    "5746dd2a7a4f",
-    "82ec1ffae029",
-    "26cc05249f5d",
-    "1fb25d7662d0",
-    "baac0500a8d1",
-    "9e5ec8aee781",
-    "d00029b2e66b",
-    "95584f14b3e1",
-    "033193ef8aba",
-    "e618b3e50f22",
-    "6c6b7d488472",
-    "661a16f42eb6",
-    "c4587de4f82f",
-    "f9dbbedd95e4",
-    "628e327cc7dc",
-    "d9a4bcff8ff4",
-    "5a30adc8d141",
-    "4da5ffdbac11",
-    "01273f5eeed2",
-    "20436c3fa08b",
-    "4d6c783b648a",
-    "91e593197e15",
-    "57a1d77ee48e",
-    "526e9a8dd32c",
-    "fb351b7c92cd",
-    "3061213d46d8",
-    "055e5c2e898a",
-    "9aa7c5e50f84",
-    "276c0505d486",
-    "816211516f67",
-    "e3646c354bc1",
-    "8fee17a8750f",
-    "869a466455ee",
-    "fb1f421ffe26",
-    "0314dd692504",
-    "df9f8f527c03",
-    "e1678d43017a",
-    "8b3632d6453d",
-    "2da8da440456",
-    "185e764f521e",
-    "c7dc7c1ccb05",
-    "5c9d4dd477da",
-    "2a0ed08c3929",
-    "baf701a61c0f",
-    "3808196cf27c",
-    "bd57bcc41444",
-    "3375f8a1fdbb",
-    "52cbce21fef4",
-    "bd6438757477",
-    "aab26a16aaf2",
-    "ff3383054c54",
-    "e2d5740f3cee",
-    "1bef1a0a3ff1",
-    "b66853ff84fa",
-    "df69d9a4fbb4",
-    "bfcb51914d45",
-    "f8c68a4c7b7a",
-    "3f34a122d1cc",
-    "591b46c8fe7d",
-    "5a0b5a4a6229",
-    "3d9a359c4b06",
-    "ae9848354b52",
-    "2b3762f9568b",
-    "8c1e4d4a5747",
-    "504e0e5c8170",
-    "5df45c581313",
-    "71ab3bd9de8b",
-    "bd67e8f7c237",
-    "0f4ac4de3969",
-    "8fd635139c0b",
-    "bfb42042cd71",
-    "718ebaf26ade",
-    "930efb8254ec",
-    "d7703b915525",
-    "1b0d7222026b",
-    "a351cca01b88",
-    "a4f40d791855",
-    "69c315300acc",
-    "c4e640b4ccfd",
-    "c146a77e72f0",
-    "f3ea112b90f7",
-    "bb8b71d6f954",
-    "410eece1f601",
-    "f88358e8d0dc",
-    "96f44a71c15e",
-    "515fc0abcfb0",
-    "191e7f6ed1f6",
-    "66d1e76cc30c",
-    "9a941508d7e3",
-    "0bcda70fdea0",
-    "f8ad768d13c3",
-    "1938d0f50d7c",
-    "53b42798e408",
-    "98fb856ff261",
-    "48d7144fded9",
-    "1b581b375ed4",
-    "adb9ff1cde83",
-    "b67cd8c514c6",
-    "b6bb1637df09",
-    "de3a4fe3e8bb",
-    "c360ff3e4c70",
-    "8094cfe51f00",
-    "9aad51dd9229",
-    "505d813f1cee",
-    "63d239badaa8",
-    "a6d6e5c92d7d",
-    "58fea97a0d5e",
-    "54022857dc5a",
-    "eeea44ccd13a",
-    "1928454a3088",
-    "e088e48f01a5",
-    "fc89a62ac6e6",
-    "c9c8578e0908",
-    "3fe21f14fc96",
-    "958e0223d413",
-    "d4f72b2bef19",
-    "e630747aaad9",
-    "6ebb60de6dea",
-    "586cced2deb2",
-    "2a1eb018a2c3",
-    "2f70d6c369eb",
-    "dbc98b1df41b",
-    "5a56f3812c17",
-    "e604e040f8bc",
-    "cf75f49855a7",
-    "393e0d6d578a"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-11-07",
-   "timeline": [
-    {
-     "date": "2026-10-10",
-     "headline": "As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?",
-     "sources": 2,
-     "score": 44,
-     "event_id": "71ab3bd9de8b",
-     "links": [
-      "https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Putin relayed Iran war proposal to Trump, Kremlin says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "bd67e8f7c237",
-     "links": [
-      "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
-      "https://www.investing.com/news/commodities-news/neither-putin-nor-trump-wanted-to-hang-up-first-kremlin-aide-says-after-very-friendly-call-4942108"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Germany sticks to Russia sanctions after Trump diesel deal",
-     "sources": 2,
-     "score": 40,
-     "event_id": "0f4ac4de3969",
-     "links": [
-      "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-     "sources": 2,
-     "score": 45,
-     "event_id": "8fd635139c0b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Watch: 'Time for Ukraine to get a new president', says Trump",
-     "sources": 4,
-     "score": 72,
-     "event_id": "bfb42042cd71",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/10/trump-says-ukraine-should-get-a-new-president.html"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Middle East live: Riyadh airport attack 'not acceptable,' Trump says",
-     "sources": 2,
-     "score": 44,
-     "event_id": "718ebaf26ade",
-     "links": [
-      "https://www.france24.com/en/middle-east/20261011-live-saudi-arabia-vows-decisive-response-after-deadly-houthi-strike-on-riyadh-airport",
-      "https://www.investing.com/news/economy-news/middle-east-war-high-debt-levels-to-dominate-imfworld-bank-meetings-in-bangkok-4942461"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
-     "sources": 2,
-     "score": 50,
-     "event_id": "930efb8254ec",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-      "https://www.france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response",
-      "https://www.france24.com/en/video/20261011-at-least-twelve-killed-multiple-people-wounded-in-attack-on-riyadh-airport-1"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine",
-     "sources": 2,
-     "score": 43,
-     "event_id": "d7703b915525",
-     "links": [
-      "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
-      "https://www.france24.com/en/video/20261011-trump-says-ukraine-needs-new-president-who-will-agree-to-end-war"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport",
-     "sources": 4,
-     "score": 69,
-     "event_id": "1b0d7222026b",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
-      "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
-      "https://www.france24.com/en/video/20261011-strike-on-riyadh-trump-signals-us-could-join-action-against-houthis"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Trump announces 'energy ceasefire' between Russia and Ukraine",
-     "sources": 3,
-     "score": 58,
-     "event_id": "a351cca01b88",
-     "links": [
-      "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/commentisfree/picture/2026/oct/11/pete-songi-donald-trump-plan-to-buy-diesel-from-russia-cartoon",
-      "https://www.france24.com/en/americas/20261011-trump-says-russia-and-ukraine-agree-energy-ceasefire"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Saudi capital airport hit by second Houthi strike in two days",
-     "sources": 2,
-     "score": 53,
-     "event_id": "a4f40d791855",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
-      "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
-     "sources": 4,
-     "score": 67,
-     "event_id": "69c315300acc",
-     "links": [
-      "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/11/trump-energy-ceasefire-russia-ukraine-zelenskyy.html",
-      "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "North Korea fires missiles after Seoul's hypersonic test",
-     "sources": 3,
-     "score": 51,
-     "event_id": "c4e640b4ccfd",
-     "links": [
-      "https://www.dw.com/en/north-korea-fires-missiles-after-seoul-s-hypersonic-test/a-79636110?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
-      "https://www.france24.com/en/asia-pacific/20261012-north-korea-ballistic-missiles-sea-japan-seoul"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-     "sources": 5,
-     "score": 82,
-     "event_id": "c146a77e72f0",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/12/saudi-arabia-suspends-flights-latest-deadly-houthi-attack-airport",
-      "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue",
-     "sources": 4,
-     "score": 71,
-     "event_id": "f3ea112b90f7",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid",
-      "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html",
-      "https://www.aljazeera.com/news/2026/10/12/trump-thinks-ukraine-needs-a-new-president-who-could-replace-zelenskyy?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Ukraine says Russia launched strikes hours after Donald Trump announced an 'energy ceasefire'",
-     "sources": 2,
-     "score": 50,
-     "event_id": "bb8b71d6f954",
-     "links": [
-      "https://www.dw.com/en/ukraine-says-russia-launched-strikes-hours-after-donald-trump-announced-an-energy-ceasefire/a-79640911?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-     "sources": 2,
-     "score": 48,
-     "event_id": "410eece1f601",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US",
-     "sources": 2,
-     "score": 40,
-     "event_id": "f88358e8d0dc",
-     "links": [
-      "https://www.france24.com/en/trump-s-use-of-russian-diesel-fuel-at-ukraine-s-expense-sparks-controversy-in-the-us",
-      "https://www.aljazeera.com/news/2026/10/13/trumps-diesel-deal-opens-a-new-rift-with-europe-over-ukraine?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
-     "sources": 2,
-     "score": 44,
-     "event_id": "96f44a71c15e",
-     "links": [
-      "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-     "sources": 2,
-     "score": 42,
-     "event_id": "515fc0abcfb0",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/europe/20261014-kyiv-power-plant-hit-by-russian-missile-without-warning-from-allies"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
-     "sources": 5,
-     "score": 79,
-     "event_id": "191e7f6ed1f6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
-      "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
-     "sources": 3,
-     "score": 56,
-     "event_id": "66d1e76cc30c",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20261014-ukraine-reports-russian-attacks-with-no-warnings-trump-says-us-still-sharing-intel",
-      "https://www.theverge.com/news/1010424/yandex-drone-strike-outage-disinformation-zelenskyy"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
-     "sources": 3,
-     "score": 60,
-     "event_id": "9a941508d7e3",
-     "links": [
-      "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-rdf",
-      "https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions",
-      "https://www.france24.com/en/video/20261014-ukraine-accuses-spacex-of-crippling-military-missions-as-ties-with-us-worsen"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
-     "sources": 3,
-     "score": 60,
-     "event_id": "0bcda70fdea0",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
-      "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals?traffic_source=rss",
-      "https://www.france24.com/en/video/20261014-ukraine-accuses-spacex-of-crippling-military-missions-as-ties-with-us-worsen"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "How Trump’s diesel deal with Russia will impact the United States and Ukraine",
-     "sources": 2,
-     "score": 50,
-     "event_id": "f8ad768d13c3",
-     "links": [
-      "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-rdf",
-      "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-rdf",
-      "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Why is Starlink internet so important on the battlefield in Ukraine?",
-     "sources": 2,
-     "score": 48,
-     "event_id": "1938d0f50d7c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "North Korea says it tested cruise missiles to be launched from sub",
-     "sources": 2,
-     "score": 40,
-     "event_id": "53b42798e408",
-     "links": [
-      "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/asia-pacific/20261014-north-korea-test-fires-submarine-launched-cruise-missiles"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-     "sources": 4,
-     "score": 73,
-     "event_id": "98fb856ff261",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
-      "https://www.france24.com/en/video/20261015-ukraine-s-zelensky-defies-trump-with-russian-refinery-strikes"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "North Korea and China open new bridge after 12-year delay",
-     "sources": 2,
-     "score": 48,
-     "event_id": "48d7144fded9",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/tv-shows/business/20261015-china-north-korea-open-long-delayed-trade-bridge",
-      "https://www.france24.com/en/video/20261015-china-north-korea-open-long-delayed-border-bridge"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
-     "sources": 2,
-     "score": 41,
-     "event_id": "1b581b375ed4",
-     "links": [
-      "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war"
-     ]
-    },
-    {
-     "date": "2026-10-16",
-     "headline": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-     "sources": 2,
-     "score": 46,
-     "event_id": "adb9ff1cde83",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/video/20261016-zelensky-rallies-european-allies-as-trump-ties-slump"
-     ]
-    },
-    {
-     "date": "2026-10-16",
-     "headline": "Dam Removals Are Bringing Fish Back Across the Northeastern United States, Striking Down One Tiny Barrier at a Time",
-     "sources": 1,
-     "score": 41,
-     "event_id": "b67cd8c514c6",
-     "links": [
-      "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "Trump waives several Russia sanctions as new US law takes effect",
-     "sources": 3,
-     "score": 52,
-     "event_id": "b6bb1637df09",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-rdf",
-      "https://www.investing.com/news/commodities-news/trump-waives-many-russiarelated-sanctions-tariffs-before-they-were-to-take-effect-under-new-law-4955088"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
-     "sources": 4,
-     "score": 67,
-     "event_id": "de3a4fe3e8bb",
-     "links": [
-      "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
-      "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-     "sources": 2,
-     "score": 40,
-     "event_id": "c360ff3e4c70",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
-      "https://www.france24.com/en/video/20261017-russia-hails-trump-waiving-sanctions-as-historic"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
-     "sources": 2,
-     "score": 44,
-     "event_id": "8094cfe51f00",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
-      "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-     "sources": 4,
-     "score": 66,
-     "event_id": "9aad51dd9229",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/europe/20261018-ukraine-zelensky-war-trump-peace-russia-sanctions"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
-     "sources": 2,
-     "score": 45,
-     "event_id": "505d813f1cee",
-     "links": [
-      "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
-     "sources": 2,
-     "score": 42,
-     "event_id": "63d239badaa8",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
-      "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live",
-     "sources": 4,
-     "score": 66,
-     "event_id": "a6d6e5c92d7d",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-      "https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/21/witkoff-russia-putin-ukraine-zelenskyy.html"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-     "sources": 2,
-     "score": 50,
-     "event_id": "58fea97a0d5e",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-      "https://www.france24.com/en/us-envoy-steve-witkoff-thanks-vladimir-putin-for-diesel-deal-at-ukraine-talks-in-russia",
-      "https://www.france24.com/en/ukraine-talks-us-envoy-meets-vladimir-putin-in-russia"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
-     "sources": 1,
-     "score": 45,
-     "event_id": "54022857dc5a",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
-      "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
-     "sources": 4,
-     "score": 70,
-     "event_id": "eeea44ccd13a",
-     "links": [
-      "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-rdf",
-      "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
-      "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1928454a3088",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
-      "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Donald Trump has been a disaster for rural America | Steven Greenhouse",
-     "sources": 3,
-     "score": 63,
-     "event_id": "e088e48f01a5",
-     "links": [
-      "https://www.theguardian.com/commentisfree/2026/oct/26/donald-trump-policy-disaster-rural-america",
-      "https://www.france24.com/en/americas/20261026-lula-wins-brazil-election-but-faces-uphill-battle-to-govern",
-      "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours",
-     "sources": 2,
-     "score": 52,
-     "event_id": "fc89a62ac6e6",
-     "links": [
-      "https://www.dw.com/en/germany-news-union-slams-audi-ceo-for-joining-trump-at-campaign-rally-while-chancellor-merz-and-president-steinmeier-embark-on-separate-asia-tours/live-79760097?maca=en-rss-en-all-1573-rdf",
-      "https://www.investing.com/news/stock-market-news/audi-ceos-appearance-at-trump-rally-was-deeply-embarrassing-ig-metall-head-says-4971531"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
-     "sources": 2,
-     "score": 44,
-     "event_id": "c9c8578e0908",
-     "links": [
-      "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Trump announces Audi will build $4 billion factory in US",
-     "sources": 2,
-     "score": 41,
-     "event_id": "3fe21f14fc96",
-     "links": [
-      "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf",
-      "https://www.investing.com/news/economy-news/trump-touts-4-billion-audi-plant-in-georgia-as-he-defends-tariffs-4971027"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Ukraine: 13 killed in Russian drone strike on crowded Dnipro train station",
-     "sources": 2,
-     "score": 43,
-     "event_id": "958e0223d413",
-     "links": [
-      "https://www.dw.com/en/ukraine-13-killed-in-russian-drone-strike-on-crowded-dnipro-train-station/a-79795076?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/live-news/20261029-horrific-russian-drone-strike-kills-13-at-ukraine-train-station-kyiv"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d4f72b2bef19",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/europe/20261029-at-least-13-killed-in-horrific-russian-drone-strike-at-ukraine-train-station"
-     ]
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-     "sources": 2,
-     "score": 43,
-     "event_id": "e630747aaad9",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "https://www.investing.com/news/commodities-news/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility-4989707"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Russian strikes kill 26 in Ukraine after longest ceasefire ends",
-     "sources": 3,
-     "score": 50,
-     "event_id": "6ebb60de6dea",
-     "links": [
-      "https://www.france24.com/en/europe/20261103-russian-strikes-kill-26-in-ukraine-after-longest-ceasefire-ends",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
-      "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
-     "sources": 2,
-     "score": 45,
-     "event_id": "586cced2deb2",
-     "links": [
-      "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
-      "https://www.france24.com/en/video/20261103-dozens-killed-dozens-more-missing-after-russian-strike-on-ukrainian-aid-site"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-     "sources": 2,
-     "score": 48,
-     "event_id": "2a1eb018a2c3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/ukraine-war-merz-doubts-russia-is-serious-about-a-truce/a-79836026?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Ukraine’s drone strikes spur hasty Russian plans for underground data centers",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2f70d6c369eb",
-     "links": [
-      "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
-      "https://www.france24.com/en/video/20261103-russian-households-face-increasing-financial-strain-as-war-in-ukraine-drags-on"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
-     "sources": 2,
-     "score": 44,
-     "event_id": "dbc98b1df41b",
-     "links": [
-      "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
-      "https://www.france24.com/en/video/20261103-vile-terrorist-attack-russia-bombs-ukraine-aid-centre"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-     "sources": 2,
-     "score": 52,
-     "event_id": "5a56f3812c17",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
-     "sources": 2,
-     "score": 44,
-     "event_id": "e604e040f8bc",
-     "links": [
-      "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
-      "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
-     "sources": 2,
-     "score": 41,
-     "event_id": "cf75f49855a7",
-     "links": [
-      "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20261107-russia-launches-massive-strike-on-kyiv-1"
-     ]
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-     "sources": 2,
-     "score": 45,
-     "event_id": "393e0d6d578a",
-     "links": [
-      "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-      "https://www.cnbc.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge.html"
      ]
     }
    ]
@@ -22529,5 +22613,5 @@
    ]
   }
  ],
- "updated": "2026-11-12T15:19:30+00:00"
+ "updated": "2026-11-12T18:21:38+00:00"
 }

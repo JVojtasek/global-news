@@ -167,8 +167,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
 rubrika: tech · sledováno od 2026-09-14 · záznamů: 60
-  2026-10-26  (1 zdrojů, síla 44)  Apple stock has become an anti-AI trade. Here’s why
-  2026-10-27  (2 zdrojů, síla 43)  Ukraine and Russia begin Oleshky ceasefire for aid mission
   2026-10-28  (2 zdrojů, síla 54)  Here are Wednesday's biggest analyst calls: SpaceX, Nvidia, Apple, AMD, Meta, Amazon, Tesla, Boeing & more
   2026-10-28  (4 zdrojů, síla 64)  Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss
   2026-10-28  (2 zdrojů, síla 44)  Russia in Africa: What is Putin hoping to achieve?
@@ -187,6 +185,8 @@ rubrika: tech · sledováno od 2026-09-14 · záznamů: 60
   2026-11-11  (2 zdrojů, síla 49)  Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough
   2026-11-12  (2 zdrojů, síla 48)  US envoys expected to meet Putin in Moscow to discuss Ukraine ceasefire - Europe live
   2026-11-12  (3 zdrojů, síla 56)  Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow
+  2026-11-12  (4 zdrojů, síla 68)  Putin takes hard line in US talks as Ukraine says Starlink disrupted again
+  2026-11-12  (2 zdrojů, síla 44)  ‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
@@ -196,8 +196,6 @@ rubrika: tech · sledováno od 2026-09-14 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
-  2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live
   2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City
   2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL
   2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?
@@ -216,6 +214,8 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-11-12  (2 zdrojů, síla 46)  Carrick sacked by Manchester United with team in Premier League relegation zone – live
   2026-11-12  (2 zdrojů, síla 43)  Pochettino expected to lead US in Nations League games before Manchester United move
   2026-11-12  (2 zdrojů, síla 42)  Pochettino a decade in Man Utd's making - but Carrick deserves better
+  2026-11-12  (2 zdrojů, síla 43)  Man Utd open talks with Pochettino about replacing Carrick
+  2026-11-12  (2 zdrojů, síla 42)  Manchester United sacked manager Michael Carrick
 ```
 
 ---
