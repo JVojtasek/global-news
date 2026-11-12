@@ -73,7 +73,35 @@
     <https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy>
     > As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He 
 
-### 3. Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy
+### 3. What we know as pressure builds on embattled Nvidia CEO Jensen Huang
+- id události: `2965feb8b5ec`  ·  rubrika: `business`  ·  skóre: 83  ·  nezávislých zdrojů: 7
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Business** — What we know as pressure builds on embattled Nvidia CEO Jensen Huang
+    <https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss>
+    > The billionaire tech executive's future is in question after reports of a second extramarital affair.
+  - **BBC Technology** — What we know as pressure builds on embattled Nvidia CEO Jensen Huang
+    <https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss>
+    > The billionaire tech executive's future is in question after reports of a second extramarital affair.
+  - **Guardian Business** — Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live
+    <https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest>
+    > Nvidia shares plunge in extended trading, sending Asian markets lower Nvidia board reportedly deciding whether to oust CEO Jensen Huang Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shar
+  - **The Guardian World** — Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair
+    <https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair>
+    > In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be a secretive busines
+  - **CNBC Top** — Nvidia stock falls 7% as investors await Jensen Huang’s fate
+    <https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html>
+    > Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.
+  - **France 24** — Who is Nvidia CEO Jensen Huang?
+    <https://www.france24.com/en/who-is-nvidia-ceo-jensen-huang>
+    > Nvidia's board met late Wednesday to decide whether to oust CEO ​Jensen Huang, a source familiar with the matter told Reuters, as the world's dominant supplier of AI chips grapples with fallout from reports of two extramarital affairs involving its longtime leader. Report by Jack
+  - **France 24** — Nvidia board weighs ouster of CEO Jensen Huang amid spy scandal
+    <https://www.france24.com/en/americas/20261112-nvidia-board-weighs-ouster-of-ceo-jensen-huang-amid-spy-scandal>
+    > Nvidia's board met late Wednesday to consider removing chief executive Jensen Huang, after reports of two extramarital affairs, including one with an alleged Chinese spy, fuelled a market sell-off and raised questions about the AI chipmaker's leadership.
+  - **Investing.com** — Nvidia said to preparing Huang ouster; Alibaba slumps - what’s moving markets
+    <https://www.investing.com/news/economy-news/nvidia-said-to-preparing-huang-ouster-alibaba-slumps--whats-moving-markets-5020685>
+
+### 4. Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy
 - id události: `ca702304f7b4`  ·  rubrika: `tech`  ·  skóre: 81  ·  nezávislých zdrojů: 8
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -107,34 +135,6 @@
   - **Investing.com** — Nvidia board meets to decide CEO Huang’s future, source says
     <https://www.investing.com/news/stock-market-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5019991>
 
-### 4. Democrat Scott Colom seals historic win in Mississippi Senate race
-- id události: `e4a5945bc19c`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Democrat Scott Colom seals historic win in Mississippi Senate race
-    <https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss>
-    > Colom is the first black person from the southern state elected to the US Senate in over 140 years.
-  - **NPR News** — Democrat Scott Colom wins the closest Senate race in the country
-    <https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country>
-    > Mississippi hadn't elected a Democrat to the U.S. Senate in more than 40 years.
-  - **DW News** — Democrat Colom wins Mississippi Senate seat
-    <https://www.dw.com/en/democrat-colom-wins-mississippi-senate-seat/a-79924938?maca=en-rss-en-all-1573-rdf>
-    > The southern US state of Mississippi has elected its first Black senator in more than 140 years. Democrat Scott Colom has won the seat in a historic upset, according to projections.
-  - **NPR News** — Democrat Scott Colom wins Mississippi Senate race
-    <https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom>
-    > Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith.
-  - **France 24** — Democrat Scott Colom wins historic Senate race in Mississippi
-    <https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi>
-  - **France 24** — Democrat Scott Colom wins historic Senate race in Mississippi
-    <https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi>
-    > Democrat Scott Colom defeated Republican Senator Cindy Hyde-Smith in Mississippi after a final count on Wednesday, becoming the state's first Black US senator since Reconstruction. His narrow victory adds to the Democrats' midterm gains as President Donald Trump's party suffers a
-  - **CNBC Top** — Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith
-    <https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html>
-    > Scott Colom will be the first Democrat elected to the Senate from the state since 1982, and Mississippi's first Black senator since Reconstruction.
-  - **Al Jazeera** — Democrat Scott Colom wins closely watched US Senate race in Mississippi
-    <https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss>
-    > The historic victory flips an eighth US Senate seat for Democrats after last week's pivotal midterm election.
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -159,7 +159,36 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
+### 1. What has actually changed: OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
+- id: `95b4d8eb7452`  ·  rubrika: `tech`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
+rubrika: tech · sledováno od 2026-09-14 · záznamů: 60
+  2026-10-25  (2 zdrojů, síla 42)  Russia to host first Olympic federation world event since Ukraine invasion
+  2026-10-26  (1 zdrojů, síla 44)  Apple stock has become an anti-AI trade. Here’s why
+  2026-10-27  (2 zdrojů, síla 43)  Ukraine and Russia begin Oleshky ceasefire for aid mission
+  2026-10-28  (2 zdrojů, síla 54)  Here are Wednesday's biggest analyst calls: SpaceX, Nvidia, Apple, AMD, Meta, Amazon, Tesla, Boeing & more
+  2026-10-28  (4 zdrojů, síla 64)  Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss
+  2026-10-28  (2 zdrojů, síla 44)  Russia in Africa: What is Putin hoping to achieve?
+  2026-11-03  (3 zdrojů, síla 46)  Trump says US will halt $4 billion in aid to Israel after end of the year
+  2026-11-04  (2 zdrojů, síla 40)  SpaceX is working with Qualcomm to build its Starlink Mobile 5G network
+  2026-11-05  (3 zdrojů, síla 50)  After Texas' blue wave, what happens to Elon Musk and SpaceX?
+  2026-11-05  (3 zdrojů, síla 56)  Was Elon Musk the US midterms' biggest loser? – Stateside with Kai and Carter
+  2026-11-06  (3 zdrojů, síla 48)  Elon Musk appears to signal the end of the road for Cybertruck
+  2026-11-06  (3 zdrojů, síla 64)  Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI
+  2026-11-06  (3 zdrojů, síla 47)  Tesla will stop making the Cybertruck in 2027
+  2026-11-06  (3 zdrojů, síla 51)  Tesla to 'wind down' production of flop Cybertruck
+  2026-11-07  (2 zdrojů, síla 52)  Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts
+  2026-11-09  (2 zdrojů, síla 44)  Musk says Tesla will refund some Cybertruck deposits, defends decision to end production
+  2026-11-10  (2 zdrojů, síla 41)  US, Russia and Ukraine hold trilateral talks aimed at ending war – Europe live
+  2026-11-10  (2 zdrojů, síla 44)  Inside devastated front-line city that Russia wants Ukraine to give up
+  2026-11-11  (2 zdrojů, síla 49)  Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough
+  2026-11-12  (2 zdrojů, síla 48)  US envoys expected to meet Putin in Moscow to discuss Ukraine ceasefire - Europe live
+```
+
+### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
 - id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -186,35 +215,6 @@ rubrika: world · sledováno od 2026-08-11 · záznamů: 60
   2026-11-11  (3 zdrojů, síla 58)  US, Russia, Ukraine wrap up Abu Dhabi talks with prisoner exchange
   2026-11-11  (2 zdrojů, síla 40)  New trilateral talks on Ukraine war in Abu Dhabi: What to expect?
   2026-11-11  (2 zdrojů, síla 41)  Tehran will strike US bases in Europe if used to attack Iran, security chief says
-```
-
-### 2. What has actually changed: OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
-- id: `95b4d8eb7452`  ·  rubrika: `tech`  ·  záznamů v ose: 60  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
-rubrika: tech · sledováno od 2026-09-14 · záznamů: 60
-  2026-10-25  (2 zdrojů, síla 42)  Musk says SpaceX restricted Ukraine's Starlink connection as service restored
-  2026-10-25  (2 zdrojů, síla 42)  Russia to host first Olympic federation world event since Ukraine invasion
-  2026-10-26  (1 zdrojů, síla 44)  Apple stock has become an anti-AI trade. Here’s why
-  2026-10-27  (2 zdrojů, síla 43)  Ukraine and Russia begin Oleshky ceasefire for aid mission
-  2026-10-28  (2 zdrojů, síla 54)  Here are Wednesday's biggest analyst calls: SpaceX, Nvidia, Apple, AMD, Meta, Amazon, Tesla, Boeing & more
-  2026-10-28  (4 zdrojů, síla 64)  Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss
-  2026-10-28  (2 zdrojů, síla 44)  Russia in Africa: What is Putin hoping to achieve?
-  2026-11-03  (3 zdrojů, síla 46)  Trump says US will halt $4 billion in aid to Israel after end of the year
-  2026-11-04  (2 zdrojů, síla 40)  SpaceX is working with Qualcomm to build its Starlink Mobile 5G network
-  2026-11-05  (3 zdrojů, síla 50)  After Texas' blue wave, what happens to Elon Musk and SpaceX?
-  2026-11-05  (3 zdrojů, síla 56)  Was Elon Musk the US midterms' biggest loser? – Stateside with Kai and Carter
-  2026-11-06  (3 zdrojů, síla 48)  Elon Musk appears to signal the end of the road for Cybertruck
-  2026-11-06  (3 zdrojů, síla 64)  Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI
-  2026-11-06  (3 zdrojů, síla 47)  Tesla will stop making the Cybertruck in 2027
-  2026-11-06  (3 zdrojů, síla 51)  Tesla to 'wind down' production of flop Cybertruck
-  2026-11-07  (2 zdrojů, síla 52)  Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts
-  2026-11-09  (2 zdrojů, síla 44)  Musk says Tesla will refund some Cybertruck deposits, defends decision to end production
-  2026-11-10  (2 zdrojů, síla 41)  US, Russia and Ukraine hold trilateral talks aimed at ending war – Europe live
-  2026-11-10  (2 zdrojů, síla 44)  Inside devastated front-line city that Russia wants Ukraine to give up
-  2026-11-11  (2 zdrojů, síla 49)  Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough
 ```
 
 ---

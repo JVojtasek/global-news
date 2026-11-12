@@ -6,6 +6,23 @@ Paměť obsahuje **194 vláken**. Aktivních za posledních 14 dní: **55**.
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
+### OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
+- rubrika `tech` · sledováno 59 dní · 60 záznamů
+- časová osa:
+  - **2026-11-06** (3 zdrojů) Elon Musk appears to signal the end of the road for Cybertruck
+  - **2026-11-06** (3 zdrojů) Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI
+  - **2026-11-06** (3 zdrojů) Tesla will stop making the Cybertruck in 2027
+  - **2026-11-06** (3 zdrojů) Tesla to 'wind down' production of flop Cybertruck
+  - **2026-11-07** (2 zdrojů) Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts
+  - **2026-11-09** (2 zdrojů) Musk says Tesla will refund some Cybertruck deposits, defends decision to end production
+  - **2026-11-10** (2 zdrojů) US, Russia and Ukraine hold trilateral talks aimed at ending war – Europe live
+  - **2026-11-10** (2 zdrojů) Inside devastated front-line city that Russia wants Ukraine to give up
+  - **2026-11-11** (2 zdrojů) Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough
+  - **2026-11-12** (2 zdrojů) US envoys expected to meet Putin in Moscow to discuss Ukraine ceasefire - Europe live
+- ⚠️ vyprávění se v čase obrátilo:
+  - 2026-10-15 → 2026-10-21: „Musk confirms SpaceX and Tesla exploring merger“
+  - 2026-10-21 → 2026-10-23: „Trump says Musk restored Ukraine’s Starlink access amid Russia war“
+
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 92 dní · 60 záznamů
 - časová osa:
@@ -19,23 +36,6 @@ Paměť obsahuje **194 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-11-11** (3 zdrojů) US, Russia, Ukraine wrap up Abu Dhabi talks with prisoner exchange
   - **2026-11-11** (2 zdrojů) New trilateral talks on Ukraine war in Abu Dhabi: What to expect?
   - **2026-11-11** (2 zdrojů) Tehran will strike US bases in Europe if used to attack Iran, security chief says
-
-### OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
-- rubrika `tech` · sledováno 58 dní · 60 záznamů
-- časová osa:
-  - **2026-11-05** (3 zdrojů) Was Elon Musk the US midterms' biggest loser? – Stateside with Kai and Carter
-  - **2026-11-06** (3 zdrojů) Elon Musk appears to signal the end of the road for Cybertruck
-  - **2026-11-06** (3 zdrojů) Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI
-  - **2026-11-06** (3 zdrojů) Tesla will stop making the Cybertruck in 2027
-  - **2026-11-06** (3 zdrojů) Tesla to 'wind down' production of flop Cybertruck
-  - **2026-11-07** (2 zdrojů) Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts
-  - **2026-11-09** (2 zdrojů) Musk says Tesla will refund some Cybertruck deposits, defends decision to end production
-  - **2026-11-10** (2 zdrojů) US, Russia and Ukraine hold trilateral talks aimed at ending war – Europe live
-  - **2026-11-10** (2 zdrojů) Inside devastated front-line city that Russia wants Ukraine to give up
-  - **2026-11-11** (2 zdrojů) Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough
-- ⚠️ vyprávění se v čase obrátilo:
-  - 2026-10-15 → 2026-10-21: „Musk confirms SpaceX and Tesla exploring merger“
-  - 2026-10-21 → 2026-10-23: „Trump says Musk restored Ukraine’s Starlink access amid Russia war“
 
 ### More troops to be sent to West Bank village besieged by Israeli settlers
 - rubrika `world` · sledováno 88 dní · 60 záznamů
