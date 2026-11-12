@@ -26,8 +26,6 @@ Paměť obsahuje **194 vláken**. Aktivních za posledních 14 dní: **56**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 86 dní · 60 záznamů
 - časová osa:
-  - **2026-11-02** (2 zdrojů) Football: China refuses to air Real Madrid game after Mbappé comment
-  - **2026-11-02** (2 zdrojů) Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
   - **2026-11-04** (3 zdrojů) Man Utd beat Roma - the other great Champions League comebacks
   - **2026-11-04** (2 zdrojů) Photos: Champions League and Tenerife fans pay tribute to De Miguel
   - **2026-11-04** (2 zdrojů) Football world mourns Tenerife striker De Miguel
@@ -36,6 +34,8 @@ Paměť obsahuje **194 vláken**. Aktivních za posledních 14 dní: **56**.
   - **2026-11-07** (2 zdrojů) Delap double inspires Forest to stunning win over Man City
   - **2026-11-08** (2 zdrojů) Forest win over Man City 'a turning point' - Murphy
   - **2026-11-12** (2 zdrojů) Carrick sacked by Manchester United with team in Premier League relegation zone – live
+  - **2026-11-12** (2 zdrojů) Pochettino expected to lead US in Nations League games before Manchester United move
+  - **2026-11-12** (2 zdrojů) Pochettino a decade in Man Utd's making - but Carrick deserves better
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 95 dní · 60 záznamů
@@ -50,6 +50,20 @@ Paměť obsahuje **194 vláken**. Aktivních za posledních 14 dní: **56**.
   - **2026-11-08** (2 zdrojů) Walsh-inspired Australia crush irate Samoa to reach World Cup final
   - **2026-11-12** (2 zdrojů) England vs Croatia: UEFA Nations League – preview, team news, predictions
   - **2026-11-12** (2 zdrojů) Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales
+
+### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+- rubrika `ai` · sledováno 94 dní · 60 záznamů
+- časová osa:
+  - **2026-11-11** (3 zdrojů) Nvidia hires leading US law firm to investigate Jensen Huang’s relationship
+  - **2026-11-11** (4 zdrojů) Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal
+  - **2026-11-12** (8 zdrojů) Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy
+  - **2026-11-12** (3 zdrojů) Who could replace Jensen Huang? A highly unscientific list of possible successors
+  - **2026-11-12** (2 zdrojů) What we know so far about Nvidia partner Megaspeed’s Asia footprint
+  - **2026-11-12** (2 zdrojů) ‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight
+  - **2026-11-12** (5 zdrojů) Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video
+  - **2026-11-12** (6 zdrojů) Who could replace Jensen Huang as Nvidia's chief executive?
+  - **2026-11-12** (11 zdrojů) Watch: The latest in the Jensen Huang Nvidia scandal
+  - **2026-11-12** (2 zdrojů) Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 92 dní · 60 záznamů
@@ -78,20 +92,6 @@ Paměť obsahuje **194 vláken**. Aktivních za posledních 14 dní: **56**.
   - **2026-11-06** (1 zdrojů) For Centuries, Cave Visitors Walked Right by 280 Ice Age Engravings. The Newly Discovered Rock Art Is Rewriting Catalonia's Prehistory
   - **2026-11-07** (1 zdrojů) This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time
   - **2026-11-09** (1 zdrojů) This African Prophet Was Burned at the Stake 320 Years Ago. Today, Kimpa Vita Is Celebrated as the 'Kongolese Joan of Arc'
-
-### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 90 dní · 60 záznamů
-- časová osa:
-  - **2026-11-01** (2 zdrojů) Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends
-  - **2026-11-03** (3 zdrojů) Russian strikes kill 26 in Ukraine after longest ceasefire ends
-  - **2026-11-03** (2 zdrojů) Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
-  - **2026-11-03** (2 zdrojů) Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
-  - **2026-11-03** (2 zdrojů) Ukraine’s drone strikes spur hasty Russian plans for underground data centers
-  - **2026-11-04** (2 zdrojů) Canada joins coalition refusing to play ice hockey against Russia over Ukraine war
-  - **2026-11-05** (2 zdrojů) Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
-  - **2026-11-06** (2 zdrojů) Melania Trump touts rare agreement she brokered between Russia and Ukraine
-  - **2026-11-07** (2 zdrojů) Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks
-  - **2026-11-07** (2 zdrojů) Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid
 
 ---
 

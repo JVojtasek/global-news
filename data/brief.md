@@ -9,7 +9,42 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
+### 1. Watch: The latest in the Jensen Huang Nvidia scandal
+- id události: `f3bd3dd370d0`  ·  rubrika: `world`  ·  skóre: 88  ·  nezávislých zdrojů: 11
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **BBC World** — Watch: The latest in the Jensen Huang Nvidia scandal
+    <https://www.bbc.co.uk/news/videos/cqz0k70990zpo?at_medium=RSS&at_campaign=rss>
+    > The BBC's China correspondent Laura Bicker explains the timeline of events and what's next for Nvidia as its board considers whether to oust the CEO.
+  - **DW News** — Jensen Huang: Spy row, second affair leaves Nvidia without its rockstar CEO
+    <https://www.dw.com/en/jensen-huang-spy-row-second-affair-leaves-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-all-1573-rdf>
+    > Jensen Huang, who built Nvidia into the world’s dominant AI chipmaker, is stepping down as CEO after a second affair came to light. DW examines how losing its figurehead will affect the firm and the US-China AI race.
+  - **NPR News** — Nvidia CEO Jensen Huang steps down amid alleged spy scandal
+    <https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down>
+    > Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly sank his career.
+  - **DW News** — Nvidia CEO Jensen Huang resigns as scandal mounts over alleged affair with suspected Chinese spy
+    <https://www.dw.com/en/nvidia-ceo-jensen-huang-resigns-as-scandal-mounts-over-alleged-affair-with-suspected-chinese-spy/a-79931658?maca=en-rss-en-all-1573-rdf>
+    > Jensen Huang has resigned from his role as the head of the AI chipmaker over his reported affair with a suspected Chinese spy. Nvidia shares plummeted 13% at the opening of trading on Thursday.
+  - **Guardian Business** — Thanks to American oligarchy, Jensen Huang’s midlife crisis is a problem for all of us | Moira Donegan
+    <https://www.theguardian.com/commentisfree/2026/nov/12/jensen-huang-nvidia-trump-oligarchy>
+    > At a time when individual men wield massive power, the ramifications of the Nvidia CEO’s affair could be enormous One of the reasons you want to distribute power and responsibility in powerful organizations and high-stakes enterprises is so that the narcissism or myopia of one ma
+  - **CNBC Top** — Nvidia live updates: CEO Jensen Huang resigns, Colette Kress named interim chief
+    <https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html>
+    > Nvidia CEO Jensen Huang has faced increased scrutiny since revealing an affair. Follow live updates on the investigation, NVDA stock and succession plans.
+  - **CNBC Top** — Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned
+    <https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html>
+    > Jensen Huang’s $140 billion stake in Nvidia is largely held by trusts co-owned with his wife, Lori, creating added uncertainty for his financial future.
+  - **The Verge** — Nvidia CEO Jensen Huang has resigned. What happens next?
+    <https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang>
+    > After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair
+  - **The Verge AI** — Nvidia CEO Jensen Huang has resigned. What happens next?
+    <https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang>
+    > After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair
+  - **Al Jazeera** — LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns
+    <https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss>
+    > Jensen Huang, 63, has resigned as chief executive of AI giant Nvidia, according to the company.
+
+### 2. Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
 - id události: `2eeebfe27c6a`  ·  rubrika: `tech`  ·  skóre: 83  ·  nezávislých zdrojů: 10
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -44,7 +79,7 @@
     <https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference>
     > President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been "​​unfaithful" to his wife, and the company has opened 
 
-### 2. Nvidia hires major New York law firm to investigate Jensen Huang affair
+### 3. Nvidia hires major New York law firm to investigate Jensen Huang affair
 - id události: `d68f526af6ae`  ·  rubrika: `business`  ·  skóre: 83  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -73,7 +108,7 @@
     <https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy>
     > As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He 
 
-### 3. What we know as pressure builds on embattled Nvidia CEO Jensen Huang
+### 4. What we know as pressure builds on embattled Nvidia CEO Jensen Huang
 - id události: `2965feb8b5ec`  ·  rubrika: `business`  ·  skóre: 83  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -100,40 +135,6 @@
     > Nvidia's board met late Wednesday to consider removing chief executive Jensen Huang, after reports of two extramarital affairs, including one with an alleged Chinese spy, fuelled a market sell-off and raised questions about the AI chipmaker's leadership.
   - **Investing.com** — Nvidia said to preparing Huang ouster; Alibaba slumps - what’s moving markets
     <https://www.investing.com/news/economy-news/nvidia-said-to-preparing-huang-ouster-alibaba-slumps--whats-moving-markets-5020685>
-
-### 4. Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy
-- id události: `ca702304f7b4`  ·  rubrika: `tech`  ·  skóre: 81  ·  nezávislých zdrojů: 8
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **DW News** — Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy
-    <https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf>
-    > Nvidia's board is reportedly preparing to oust Jensen Huang amid reports of an affair with a suspected Chinese spy. The shake-up would leave the world's leading AI chip supplier without the co-founder who built it.
-  - **Ars Technica** — CEO Jensen Huang's job is suddenly on the line at Nvidia
-    <https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/>
-    > The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.
-  - **CNBC Top** — Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks
-    <https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html>
-    > The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.
-  - **TechCrunch** — The unfolding Jensen Huang scandal: a timeline
-    <https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/>
-    > The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.
-  - **TechCrunch** — Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang
-    <https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/>
-    > As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.
-  - **TechCrunch** — Jensen Huang accused of having another affair — with an Nvidia exec
-    <https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/>
-    > Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.
-  - **CNBC Top** — Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports
-    <https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html>
-    > Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.
-  - **The Verge** — Nvidia is reportedly preparing to fire Jensen Huang
-    <https://www.theverge.com/tech/1031652/jensen-huang-rumor>
-    > Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second al
-  - **The Verge AI** — Nvidia is reportedly preparing to fire Jensen Huang
-    <https://www.theverge.com/tech/1031652/jensen-huang-rumor>
-    > Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second al
-  - **Investing.com** — Nvidia board meets to decide CEO Huang’s future, source says
-    <https://www.investing.com/news/stock-market-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5019991>
 
 ---
 
@@ -195,8 +196,6 @@ rubrika: tech · sledováno od 2026-09-14 · záznamů: 60
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
-  2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
   2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
   2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live
   2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City
@@ -215,6 +214,8 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-11-07  (2 zdrojů, síla 50)  Delap double inspires Forest to stunning win over Man City
   2026-11-08  (2 zdrojů, síla 45)  Forest win over Man City 'a turning point' - Murphy
   2026-11-12  (2 zdrojů, síla 46)  Carrick sacked by Manchester United with team in Premier League relegation zone – live
+  2026-11-12  (2 zdrojů, síla 43)  Pochettino expected to lead US in Nations League games before Manchester United move
+  2026-11-12  (2 zdrojů, síla 42)  Pochettino a decade in Man Utd's making - but Carrick deserves better
 ```
 
 ---

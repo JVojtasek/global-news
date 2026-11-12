@@ -6,6 +6,110 @@
  "reserve_articles": 5,
  "news_assignments": [
   {
+   "id": "f3bd3dd370d0",
+   "headline": "Watch: The latest in the Jensen Huang Nvidia scandal",
+   "section": "world",
+   "score": 88,
+   "sources_count": 11,
+   "depth_signal": 5,
+   "created": "2026-11-12T15:19:30+00:00",
+   "event_time": "2026-11-12T12:42:44+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Watch: The latest in the Jensen Huang Nvidia scandal",
+     "url": "https://www.bbc.co.uk/news/videos/cqz0k70990zpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "The BBC's China correspondent Laura Bicker explains the timeline of events and what's next for Nvidia as its board considers whether to oust the CEO.",
+     "published_at": "2026-11-12T12:42:44+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T15:19:25+00:00"
+    },
+    {
+     "title": "Jensen Huang: Spy row, second affair leaves Nvidia without its rockstar CEO",
+     "url": "https://www.dw.com/en/jensen-huang-spy-row-second-affair-leaves-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "Jensen Huang, who built Nvidia into the world’s dominant AI chipmaker, is stepping down as CEO after a second affair came to light. DW examines how losing its figurehead will affect the firm and the US-China AI race.",
+     "published_at": "2026-11-12T15:08:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T15:19:25+00:00"
+    },
+    {
+     "title": "Nvidia CEO Jensen Huang steps down amid alleged spy scandal",
+     "url": "https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down",
+     "source": "NPR News",
+     "summary": "Huang co-founded the chipmaker Nvidia, which has become one of the driving forces behind the AI boom. But reports that he may have had an affair with an alleged Chinese spy quickly sank his career.",
+     "published_at": "2026-11-12T14:17:20+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T15:19:25+00:00"
+    },
+    {
+     "title": "Nvidia CEO Jensen Huang resigns as scandal mounts over alleged affair with suspected Chinese spy",
+     "url": "https://www.dw.com/en/nvidia-ceo-jensen-huang-resigns-as-scandal-mounts-over-alleged-affair-with-suspected-chinese-spy/a-79931658?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "Jensen Huang has resigned from his role as the head of the AI chipmaker over his reported affair with a suspected Chinese spy. Nvidia shares plummeted 13% at the opening of trading on Thursday.",
+     "published_at": "2026-11-12T14:02:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T15:19:25+00:00"
+    },
+    {
+     "title": "Thanks to American oligarchy, Jensen Huang’s midlife crisis is a problem for all of us | Moira Donegan",
+     "url": "https://www.theguardian.com/commentisfree/2026/nov/12/jensen-huang-nvidia-trump-oligarchy",
+     "source": "Guardian Business",
+     "summary": "At a time when individual men wield massive power, the ramifications of the Nvidia CEO’s affair could be enormous One of the reasons you want to distribute power and responsibility in powerful organizations and high-stakes enterprises is so that the narcissism or myopia of one man do not come to carry outsized consequences. When power is spread out across multiple people, it matters less if one of",
+     "published_at": "2026-11-12T13:00:41+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T15:19:25+00:00"
+    },
+    {
+     "title": "Nvidia live updates: CEO Jensen Huang resigns, Colette Kress named interim chief",
+     "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
+     "source": "CNBC Top",
+     "summary": "Nvidia CEO Jensen Huang has faced increased scrutiny since revealing an affair. Follow live updates on the investigation, NVDA stock and succession plans.",
+     "published_at": "2026-11-12T15:18:19+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T15:19:25+00:00"
+    },
+    {
+     "title": "Jensen and Lori Huang's Nvidia fortune is jointly controlled. How that makes things complicated now that he's resigned",
+     "url": "https://www.cnbc.com/2026/11/12/inside-jensen-and-lori-huangs-jointly-controlled-nvidia-fortune.html",
+     "source": "CNBC Top",
+     "summary": "Jensen Huang’s $140 billion stake in Nvidia is largely held by trusts co-owned with his wife, Lori, creating added uncertainty for his financial future.",
+     "published_at": "2026-11-12T15:03:59+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T15:19:25+00:00"
+    },
+    {
+     "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+     "source": "The Verge",
+     "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that […]",
+     "published_at": "2026-11-12T15:01:31+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T15:19:25+00:00"
+    },
+    {
+     "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+     "source": "The Verge AI",
+     "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there was evidence of another affair, this time with an Nvidia executive who reported directly to him. A board meeting that […]",
+     "published_at": "2026-11-12T15:01:31+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T15:19:25+00:00"
+    },
+    {
+     "title": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Jensen Huang, 63, has resigned as chief executive of AI giant Nvidia, according to the company.",
+     "published_at": "2026-11-12T14:44:54+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T15:19:25+00:00"
+    }
+   ],
+   "depth": "scripture"
+  },
+  {
    "id": "2eeebfe27c6a",
    "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
    "section": "tech",
@@ -280,110 +384,6 @@
     }
    ],
    "depth": "open"
-  },
-  {
-   "id": "ca702304f7b4",
-   "headline": "Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy",
-   "section": "tech",
-   "score": 81,
-   "sources_count": 8,
-   "depth_signal": 0,
-   "created": "2026-11-12T00:39:03+00:00",
-   "event_time": "2026-11-12T00:01:00+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy",
-     "url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "Nvidia's board is reportedly preparing to oust Jensen Huang amid reports of an affair with a suspected Chinese spy. The shake-up would leave the world's leading AI chip supplier without the co-founder who built it.",
-     "published_at": "2026-11-12T00:01:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T00:39:00+00:00"
-    },
-    {
-     "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
-     "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
-     "source": "Ars Technica",
-     "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
-     "published_at": "2026-11-11T23:10:17+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T00:39:00+00:00"
-    },
-    {
-     "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
-     "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-     "source": "CNBC Top",
-     "summary": "The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
-     "published_at": "2026-11-12T00:21:27+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T00:39:00+00:00"
-    },
-    {
-     "title": "The unfolding Jensen Huang scandal: a timeline",
-     "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-     "source": "TechCrunch",
-     "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-     "published_at": "2026-11-11T23:50:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T00:39:00+00:00"
-    },
-    {
-     "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-     "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-     "source": "TechCrunch",
-     "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-     "published_at": "2026-11-11T23:28:45+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T00:39:00+00:00"
-    },
-    {
-     "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-     "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-     "source": "TechCrunch",
-     "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-     "published_at": "2026-11-11T23:17:05+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T00:39:00+00:00"
-    },
-    {
-     "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
-     "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html",
-     "source": "CNBC Top",
-     "summary": "Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with congressional China hawks.",
-     "published_at": "2026-11-11T22:46:29+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T00:39:00+00:00"
-    },
-    {
-     "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-     "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-     "source": "The Verge",
-     "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
-     "published_at": "2026-11-11T22:44:36+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T00:39:00+00:00"
-    },
-    {
-     "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-     "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-     "source": "The Verge AI",
-     "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]",
-     "published_at": "2026-11-11T22:44:36+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T00:39:00+00:00"
-    },
-    {
-     "title": "Nvidia board meets to decide CEO Huang’s future, source says",
-     "url": "https://www.investing.com/news/stock-market-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5019991",
-     "source": "Investing.com",
-     "summary": "",
-     "published_at": "2026-11-12T00:24:22+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T00:39:00+00:00"
-    }
-   ],
-   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -411,7 +411,7 @@
    "title_hint": "What has actually changed: Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
    "depth": "open",
-   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live\n  2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby\n  2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live\n  2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live\n  2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City\n  2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL\n  2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?\n  2026-10-30  (2 zdrojů, síla 42)  Chelsea vs Manchester United: Premier League – teams, prediction, lineups\n  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live\n  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United: Premier League – live\n  2026-11-02  (2 zdrojů, síla 44)  Football: China refuses to air Real Madrid game after Mbappé comment\n  2026-11-02  (2 zdrojů, síla 40)  Carrick not concerned about Martínez’s attitude as United prepare for Roma visit\n  2026-11-04  (3 zdrojů, síla 57)  Man Utd beat Roma - the other great Champions League comebacks\n  2026-11-04  (2 zdrojů, síla 42)  Photos: Champions League and Tenerife fans pay tribute to De Miguel\n  2026-11-04  (2 zdrojů, síla 42)  Football world mourns Tenerife striker De Miguel\n  2026-11-04  (4 zdrojů, síla 68)  Nadal set to join Real Madrid board of directors\n  2026-11-05  (2 zdrojů, síla 40)  Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson\n  2026-11-07  (2 zdrojů, síla 50)  Delap double inspires Forest to stunning win over Man City\n  2026-11-08  (2 zdrojů, síla 45)  Forest win over Man City 'a turning point' - Murphy\n  2026-11-12  (2 zdrojů, síla 46)  Carrick sacked by Manchester United with team in Premier League relegation zone – live",
+   "timeline": "VLÁKNO: Premier League to publish verdicts on referee and VAR decisions\nrubrika: sport · sledováno od 2026-08-18 · záznamů: 60\n  2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live\n  2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live\n  2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City\n  2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL\n  2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?\n  2026-10-30  (2 zdrojů, síla 42)  Chelsea vs Manchester United: Premier League – teams, prediction, lineups\n  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live\n  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United: Premier League – live\n  2026-11-02  (2 zdrojů, síla 44)  Football: China refuses to air Real Madrid game after Mbappé comment\n  2026-11-02  (2 zdrojů, síla 40)  Carrick not concerned about Martínez’s attitude as United prepare for Roma visit\n  2026-11-04  (3 zdrojů, síla 57)  Man Utd beat Roma - the other great Champions League comebacks\n  2026-11-04  (2 zdrojů, síla 42)  Photos: Champions League and Tenerife fans pay tribute to De Miguel\n  2026-11-04  (2 zdrojů, síla 42)  Football world mourns Tenerife striker De Miguel\n  2026-11-04  (4 zdrojů, síla 68)  Nadal set to join Real Madrid board of directors\n  2026-11-05  (2 zdrojů, síla 40)  Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson\n  2026-11-07  (2 zdrojů, síla 50)  Delap double inspires Forest to stunning win over Man City\n  2026-11-08  (2 zdrojů, síla 45)  Forest win over Man City 'a turning point' - Murphy\n  2026-11-12  (2 zdrojů, síla 46)  Carrick sacked by Manchester United with team in Premier League relegation zone – live\n  2026-11-12  (2 zdrojů, síla 43)  Pochettino expected to lead US in Nations League games before Manchester United move\n  2026-11-12  (2 zdrojů, síla 42)  Pochettino a decade in Man Utd's making - but Carrick deserves better",
    "thread_days": 60
   }
  ],
