@@ -5,46 +5,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "steal",
-    "amid",
-    "face",
-    "reward",
-    "huang",
-    "exploit",
-    "cnbc",
-    "asia",
-    "openai",
-    "silicon",
     "china",
-    "goodfire",
-    "t-head",
-    "drove",
-    "megaspeed",
-    "cyberattacks",
-    "experts",
-    "data",
-    "suffers",
-    "qubole's",
-    "security",
-    "trusted",
-    "deepseek",
-    "chinese",
-    "unexpected",
-    "assets",
-    "jensen",
-    "cyberattack",
-    "nvidia's",
-    "hackers",
-    "hugging",
-    "york",
-    "hacking",
-    "alibaba",
-    "valley",
-    "access",
-    "labs",
     "trump",
+    "trusted",
+    "cyberattacks",
+    "data",
+    "alibaba",
+    "cnbc",
+    "t-head",
+    "labs",
+    "hugging",
+    "drove",
+    "hegseth",
+    "steal",
+    "asia",
+    "security",
+    "huang",
+    "suffers",
+    "unexpected",
+    "amid",
+    "undone",
+    "goodfire",
+    "silicon",
+    "qubole's",
+    "chinese",
+    "megaspeed",
+    "exploit",
+    "deepseek",
+    "york",
+    "cyberattack",
     "nvidia",
-    "undone"
+    "access",
+    "experts",
+    "reward",
+    "assets",
+    "hacking",
+    "hackers",
+    "face",
+    "openai",
+    "jensen",
+    "valley"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -102,7 +102,8 @@
     "ca702304f7b4",
     "48e6c4124142",
     "7b9ea008ef79",
-    "7960beed95a2"
+    "7960beed95a2",
+    "931e3313f33e"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-12",
@@ -757,6 +758,18 @@
      "links": [
       "https://www.scmp.com/tech/article/3374131/nvidia-shares-plunge-after-hours-trading-concerns-about-ceo-jensen-huang-intensify",
       "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video",
+     "sources": 5,
+     "score": 75,
+     "event_id": "931e3313f33e",
+     "links": [
+      "https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang",
+      "https://www.france24.com/en/technology/20261112-nvidia-board-to-decide-whether-to-oust-longtime-ceo-jensen-huang",
+      "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html"
      ]
     }
    ]
@@ -22443,5 +22456,5 @@
    ]
   }
  ],
- "updated": "2026-11-12T03:21:19+00:00"
+ "updated": "2026-11-12T06:27:50+00:00"
 }
