@@ -166,7 +166,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
 rubrika: tech · sledováno od 2026-09-14 · záznamů: 60
-  2026-10-25  (2 zdrojů, síla 42)  Russia to host first Olympic federation world event since Ukraine invasion
   2026-10-26  (1 zdrojů, síla 44)  Apple stock has become an anti-AI trade. Here’s why
   2026-10-27  (2 zdrojů, síla 43)  Ukraine and Russia begin Oleshky ceasefire for aid mission
   2026-10-28  (2 zdrojů, síla 54)  Here are Wednesday's biggest analyst calls: SpaceX, Nvidia, Apple, AMD, Meta, Amazon, Tesla, Boeing & more
@@ -186,35 +185,36 @@ rubrika: tech · sledováno od 2026-09-14 · záznamů: 60
   2026-11-10  (2 zdrojů, síla 44)  Inside devastated front-line city that Russia wants Ukraine to give up
   2026-11-11  (2 zdrojů, síla 49)  Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough
   2026-11-12  (2 zdrojů, síla 48)  US envoys expected to meet Putin in Moscow to discuss Ukraine ceasefire - Europe live
+  2026-11-12  (3 zdrojů, síla 56)  Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow
 ```
 
-### 2. What has actually changed: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelensky
-- id: `1bf4b58ce158`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `open`**
+### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
+- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-rubrika: world · sledováno od 2026-08-11 · záznamů: 60
-  2026-10-03  (3 zdrojů, síla 56)  Russia strikes second major bridge in Kyiv, mayor says
-  2026-10-04  (2 zdrojů, síla 46)  Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live
-  2026-10-04  (2 zdrojů, síla 45)  Russia strikes Kyiv bridge as German chancellor visits Ukraine in show of support
-  2026-10-04  (2 zdrojů, síla 44)  Ukraine ready for US-backed talks with Russia: Zelenskyy
-  2026-10-13  (2 zdrojů, síla 43)  ‘Block, blunt, break’: What’s in NATO’s new Russia war plan?
-  2026-10-14  (2 zdrojů, síla 40)  Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns
-  2026-10-19  (2 zdrojů, síla 40)  Strait of Hormuz scoured for spilt cargo after Iran attacks container ships
-  2026-10-21  (2 zdrojů, síla 42)  Russia arrests German man, calls him a Ukraine 'mercenary'
-  2026-10-21  (3 zdrojů, síla 54)  Russia says it is ready to resume talks with Ukraine and US to end war
-  2026-10-22  (2 zdrojů, síla 43)  Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine
-  2026-10-31  (2 zdrojů, síla 40)  Iran says four tankers on fire after striking mines in Hormuz
-  2026-11-02  (3 zdrojů, síla 50)  Ukraine, Russia report hacking attacks on emergency alert apps
-  2026-11-02  (2 zdrojů, síla 40)  Ukraine and Russia both hit by cyberattacks on emergency apps
-  2026-11-02  (2 zdrojů, síla 44)  What we know about the alert app hack in Ukraine and Russia
-  2026-11-03  (2 zdrojů, síla 44)  Zelenskyy to make unexpected visit to Berlin for talks with Merz – Europe live
-  2026-11-03  (2 zdrojů, síla 41)  What US midterm elections mean for Ukraine, Iran and elsewhere
-  2026-11-11  (2 zdrojů, síla 43)  Ukraine’s Zelenskyy ‘happy’ with US envoys’ approach as Russia talks enter second day – Europe live
-  2026-11-11  (3 zdrojů, síla 58)  US, Russia, Ukraine wrap up Abu Dhabi talks with prisoner exchange
-  2026-11-11  (2 zdrojů, síla 40)  New trilateral talks on Ukraine war in Abu Dhabi: What to expect?
-  2026-11-11  (2 zdrojů, síla 41)  Tehran will strike US bases in Europe if used to attack Iran, security chief says
+VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
+rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
+  2026-10-23  (1 zdrojů, síla 41)  Wilcox wants Howe if Manchester United sack Carrick, European reaction and more: football news – live
+  2026-10-23  (1 zdrojů, síla 40)  A-Leagues look past Manchester City distraction to ‘showpiece’ Melbourne derby
+  2026-10-24  (2 zdrojů, síla 47)  Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live
+  2026-10-24  (1 zdrojů, síla 44)  Aston Villa v Manchester City: Premier League – live
+  2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City
+  2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL
+  2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?
+  2026-10-30  (2 zdrojů, síla 42)  Chelsea vs Manchester United: Premier League – teams, prediction, lineups
+  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
+  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United: Premier League – live
+  2026-11-02  (2 zdrojů, síla 44)  Football: China refuses to air Real Madrid game after Mbappé comment
+  2026-11-02  (2 zdrojů, síla 40)  Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
+  2026-11-04  (3 zdrojů, síla 57)  Man Utd beat Roma - the other great Champions League comebacks
+  2026-11-04  (2 zdrojů, síla 42)  Photos: Champions League and Tenerife fans pay tribute to De Miguel
+  2026-11-04  (2 zdrojů, síla 42)  Football world mourns Tenerife striker De Miguel
+  2026-11-04  (4 zdrojů, síla 68)  Nadal set to join Real Madrid board of directors
+  2026-11-05  (2 zdrojů, síla 40)  Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
+  2026-11-07  (2 zdrojů, síla 50)  Delap double inspires Forest to stunning win over Man City
+  2026-11-08  (2 zdrojů, síla 45)  Forest win over Man City 'a turning point' - Murphy
+  2026-11-12  (2 zdrojů, síla 46)  Carrick sacked by Manchester United with team in Premier League relegation zone – live
 ```
 
 ---

@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-12
 
-Paměť obsahuje **194 vláken**. Aktivních za posledních 14 dní: **55**.
+Paměť obsahuje **194 vláken**. Aktivních za posledních 14 dní: **56**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **194 vláken**. Aktivních za posledních 14 dní: **55**.
 ### OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
 - rubrika `tech` · sledováno 59 dní · 60 záznamů
 - časová osa:
-  - **2026-11-06** (3 zdrojů) Elon Musk appears to signal the end of the road for Cybertruck
   - **2026-11-06** (3 zdrojů) Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI
   - **2026-11-06** (3 zdrojů) Tesla will stop making the Cybertruck in 2027
   - **2026-11-06** (3 zdrojů) Tesla to 'wind down' production of flop Cybertruck
@@ -19,9 +18,38 @@ Paměť obsahuje **194 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-11-10** (2 zdrojů) Inside devastated front-line city that Russia wants Ukraine to give up
   - **2026-11-11** (2 zdrojů) Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough
   - **2026-11-12** (2 zdrojů) US envoys expected to meet Putin in Moscow to discuss Ukraine ceasefire - Europe live
+  - **2026-11-12** (3 zdrojů) Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow
 - ⚠️ vyprávění se v čase obrátilo:
   - 2026-10-15 → 2026-10-21: „Musk confirms SpaceX and Tesla exploring merger“
   - 2026-10-21 → 2026-10-23: „Trump says Musk restored Ukraine’s Starlink access amid Russia war“
+
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 86 dní · 60 záznamů
+- časová osa:
+  - **2026-11-02** (2 zdrojů) Football: China refuses to air Real Madrid game after Mbappé comment
+  - **2026-11-02** (2 zdrojů) Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
+  - **2026-11-04** (3 zdrojů) Man Utd beat Roma - the other great Champions League comebacks
+  - **2026-11-04** (2 zdrojů) Photos: Champions League and Tenerife fans pay tribute to De Miguel
+  - **2026-11-04** (2 zdrojů) Football world mourns Tenerife striker De Miguel
+  - **2026-11-04** (4 zdrojů) Nadal set to join Real Madrid board of directors
+  - **2026-11-05** (2 zdrojů) Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
+  - **2026-11-07** (2 zdrojů) Delap double inspires Forest to stunning win over Man City
+  - **2026-11-08** (2 zdrojů) Forest win over Man City 'a turning point' - Murphy
+  - **2026-11-12** (2 zdrojů) Carrick sacked by Manchester United with team in Premier League relegation zone – live
+
+### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- rubrika `world` · sledováno 95 dní · 60 záznamů
+- časová osa:
+  - **2026-10-27** (4 zdrojů) 'A dream come true' - Harry Kane on his Ballon d'Or win
+  - **2026-10-27** (2 zdrojů) Quiz: Kane and who else? Name every men's Ballon d'Or winner
+  - **2026-10-30** (2 zdrojů) England thrash Wales to begin World Cup defence
+  - **2026-10-31** (2 zdrojů) Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live
+  - **2026-11-01** (2 zdrojů) Wales hit by Australia century in World Cup record defeat
+  - **2026-11-05** (2 zdrojů) England captain Kane signs new Bayern contract
+  - **2026-11-08** (2 zdrojů) Australia reach World Cup final after Fiji scare
+  - **2026-11-08** (2 zdrojů) Walsh-inspired Australia crush irate Samoa to reach World Cup final
+  - **2026-11-12** (2 zdrojů) England vs Croatia: UEFA Nations League – preview, team news, predictions
+  - **2026-11-12** (2 zdrojů) Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 92 dní · 60 záznamů
@@ -50,34 +78,6 @@ Paměť obsahuje **194 vláken**. Aktivních za posledních 14 dní: **55**.
   - **2026-11-06** (1 zdrojů) For Centuries, Cave Visitors Walked Right by 280 Ice Age Engravings. The Newly Discovered Rock Art Is Rewriting Catalonia's Prehistory
   - **2026-11-07** (1 zdrojů) This Wooden Wardrobe in Pompeii Remained Sealed for Nearly 2,000 Years. Archaeologists Just Opened It for the First Time
   - **2026-11-09** (1 zdrojů) This African Prophet Was Burned at the Stake 320 Years Ago. Today, Kimpa Vita Is Celebrated as the 'Kongolese Joan of Arc'
-
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 82 dní · 60 záznamů
-- časová osa:
-  - **2026-10-31** (2 zdrojů) Chelsea v Manchester United: Premier League – live
-  - **2026-11-02** (2 zdrojů) Football: China refuses to air Real Madrid game after Mbappé comment
-  - **2026-11-02** (2 zdrojů) Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
-  - **2026-11-04** (3 zdrojů) Man Utd beat Roma - the other great Champions League comebacks
-  - **2026-11-04** (2 zdrojů) Photos: Champions League and Tenerife fans pay tribute to De Miguel
-  - **2026-11-04** (2 zdrojů) Football world mourns Tenerife striker De Miguel
-  - **2026-11-04** (4 zdrojů) Nadal set to join Real Madrid board of directors
-  - **2026-11-05** (2 zdrojů) Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
-  - **2026-11-07** (2 zdrojů) Delap double inspires Forest to stunning win over Man City
-  - **2026-11-08** (2 zdrojů) Forest win over Man City 'a turning point' - Murphy
-
-### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 91 dní · 60 záznamů
-- časová osa:
-  - **2026-10-24** (2 zdrojů) England thrash France to keep alive World Cup hopes
-  - **2026-10-27** (3 zdrojů) Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
-  - **2026-10-27** (4 zdrojů) 'A dream come true' - Harry Kane on his Ballon d'Or win
-  - **2026-10-27** (2 zdrojů) Quiz: Kane and who else? Name every men's Ballon d'Or winner
-  - **2026-10-30** (2 zdrojů) England thrash Wales to begin World Cup defence
-  - **2026-10-31** (2 zdrojů) Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live
-  - **2026-11-01** (2 zdrojů) Wales hit by Australia century in World Cup record defeat
-  - **2026-11-05** (2 zdrojů) England captain Kane signs new Bayern contract
-  - **2026-11-08** (2 zdrojů) Australia reach World Cup final after Fiji scare
-  - **2026-11-08** (2 zdrojů) Walsh-inspired Australia crush irate Samoa to reach World Cup final
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 90 dní · 60 záznamů
