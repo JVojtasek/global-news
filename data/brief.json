@@ -6,92 +6,6 @@
  "reserve_articles": 5,
  "news_assignments": [
   {
-   "id": "20e38220237b",
-   "headline": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-   "section": "world",
-   "score": 86,
-   "sources_count": 7,
-   "depth_signal": 2,
-   "created": "2026-11-09T00:41:23+00:00",
-   "event_time": "2026-11-09T00:16:49+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-     "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Business",
-     "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
-     "published_at": "2026-11-09T00:16:49+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-09T00:41:20+00:00"
-    },
-    {
-     "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
-     "url": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
-     "source": "NPR News",
-     "summary": "The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.",
-     "published_at": "2026-11-09T00:17:43+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-09T00:41:20+00:00"
-    },
-    {
-     "title": "Nvidia CEO’s affair sparks Chinese espionage probe",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.",
-     "published_at": "2026-11-08T23:58:53+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-09T00:41:20+00:00"
-    },
-    {
-     "title": "Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang",
-     "url": "https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe",
-     "source": "France 24",
-     "summary": "Nvidia’s board said Sunday it would investigate reports that CEO Jensen Huang was targeted by a foreign intelligence operation. The New York Times reported Huang had an affair with an executive US intelligence believed was gathering information for Beijing. Huang will remain CEO during the inquiry and has pledged cooperation.",
-     "published_at": "2026-11-08T23:02:54+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-09T00:41:20+00:00"
-    },
-    {
-     "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-     "source": "The Verge",
-     "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
-     "published_at": "2026-11-08T22:54:50+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-09T00:41:20+00:00"
-    },
-    {
-     "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-     "source": "The Verge AI",
-     "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my […]",
-     "published_at": "2026-11-08T22:54:50+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-09T00:41:20+00:00"
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-     "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-     "source": "Hacker News Best",
-     "summary": "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 269 # Comments: 261",
-     "published_at": "2026-11-08T22:20:09+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-09T00:41:20+00:00"
-    },
-    {
-     "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-     "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-     "source": "Hacker News Best",
-     "summary": "Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: 348 # Comments: 267",
-     "published_at": "2026-11-08T20:26:43+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-09T00:41:20+00:00"
-    }
-   ],
-   "depth": "open"
-  },
-  {
    "id": "2eeebfe27c6a",
    "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
    "section": "tech",
@@ -379,6 +293,92 @@
      "source": "Investing.com",
      "summary": "",
      "published_at": "2026-11-12T00:24:22+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T00:39:00+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
+   "id": "e4a5945bc19c",
+   "headline": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+   "section": "world",
+   "score": 80,
+   "sources_count": 6,
+   "depth_signal": 0,
+   "created": "2026-11-12T00:39:03+00:00",
+   "event_time": "2026-11-11T23:52:30+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+     "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+     "published_at": "2026-11-11T23:52:30+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T00:39:00+00:00"
+    },
+    {
+     "title": "Democrat Scott Colom wins the closest Senate race in the country",
+     "url": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
+     "source": "NPR News",
+     "summary": "Mississippi hadn't elected a Democrat to the U.S. Senate in more than 40 years.",
+     "published_at": "2026-11-11T23:33:59+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T00:39:00+00:00"
+    },
+    {
+     "title": "Democrat Colom wins Mississippi Senate seat",
+     "url": "https://www.dw.com/en/democrat-colom-wins-mississippi-senate-seat/a-79924938?maca=en-rss-en-all-1573-rdf",
+     "source": "DW News",
+     "summary": "The southern US state of Mississippi has elected its first Black senator in more than 140 years. Democrat Scott Colom has won the seat in a historic upset, according to projections.",
+     "published_at": "2026-11-11T23:33:00+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T00:39:00+00:00"
+    },
+    {
+     "title": "Democrat Scott Colom wins Mississippi Senate race",
+     "url": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
+     "source": "NPR News",
+     "summary": "Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith.",
+     "published_at": "2026-11-11T23:04:51+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T00:39:00+00:00"
+    },
+    {
+     "title": "Democrat Scott Colom wins historic Senate race in Mississippi",
+     "url": "https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi",
+     "source": "France 24",
+     "summary": "",
+     "published_at": "2026-11-11T23:47:50+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T00:39:00+00:00"
+    },
+    {
+     "title": "Democrat Scott Colom wins historic Senate race in Mississippi",
+     "url": "https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi",
+     "source": "France 24",
+     "summary": "Democrat Scott Colom defeated Republican Senator Cindy Hyde-Smith in Mississippi after a final count on Wednesday, becoming the state's first Black US senator since Reconstruction. His narrow victory adds to the Democrats' midterm gains as President Donald Trump's party suffers a series of defeats.",
+     "published_at": "2026-11-11T23:47:17+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T00:39:00+00:00"
+    },
+    {
+     "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+     "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+     "source": "CNBC Top",
+     "summary": "Scott Colom will be the first Democrat elected to the Senate from the state since 1982, and Mississippi's first Black senator since Reconstruction.",
+     "published_at": "2026-11-11T23:31:37+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-12T00:39:00+00:00"
+    },
+    {
+     "title": "Democrat Scott Colom wins closely watched US Senate race in Mississippi",
+     "url": "https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "The historic victory flips an eighth US Senate seat for Democrats after last week's pivotal midterm election.",
+     "published_at": "2026-11-11T23:05:34+00:00",
      "source_countries": [],
      "seen_at": "2026-11-12T00:39:00+00:00"
     }

@@ -9,36 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Nvidia launches investigation into CEO's affair with suspected Chinese spy
-- id události: `20e38220237b`  ·  rubrika: `world`  ·  skóre: 86  ·  nezávislých zdrojů: 7
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Business** — Nvidia launches investigation into CEO's affair with suspected Chinese spy
-    <https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss>
-    > Jensen Huang also admitted to having been "unfaithful" to his wife and says he will cooperate with a security investigation.
-  - **NPR News** — Nvidia launches investigation into CEO's alleged relationship with Chinese spy
-    <https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy>
-    > The chipmaking giant says it is looking into reports by The New York Times that its CEO, Jensen Huang, was the target of a Chinese intelligence operation.
-  - **Al Jazeera** — Nvidia CEO’s affair sparks Chinese espionage probe
-    <https://www.aljazeera.com/video/newsfeed/2026/11/8/nvidia-ceos-affair-sparks-chinese-espionage-probe?traffic_source=rss>
-    > Nvidia CEO Jensen Huang has admitted to an affair with a woman suspected of spying for China.
-  - **France 24** — Nvidia to probe reports that Chinese intelligence targeted CEO Jensen Huang
-    <https://www.france24.com/en/technology/20261108-nvidia-jensen-huang-chinese-intelligence-probe>
-    > Nvidia’s board said Sunday it would investigate reports that CEO Jensen Huang was targeted by a foreign intelligence operation. The New York Times reported Huang had an affair with an executive US intelligence believed was gathering information for Beijing. Huang will remain CEO 
-  - **The Verge** — Here’s the full text of Jensen Huang’s memo to Nvidia
-    <https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia>
-    > On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees ackn
-  - **The Verge AI** — Here’s the full text of Jensen Huang’s memo to Nvidia
-    <https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia>
-    > On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees ackn
-  - **Hacker News Best** — Nvidia CEO Jensen Huang's letter to staff about affair
-    <https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company>
-    > Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 269 # Comments: 261
-  - **Hacker News Best** — Nvidia Board of Directors Is Investigating Jensen Huang
-    <https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors>
-    > Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: 348 # Comments: 267
-
-### 2. Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
+### 1. Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
 - id události: `2eeebfe27c6a`  ·  rubrika: `tech`  ·  skóre: 83  ·  nezávislých zdrojů: 10
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -73,7 +44,7 @@
     <https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference>
     > President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been "​​unfaithful" to his wife, and the company has opened 
 
-### 3. Nvidia hires major New York law firm to investigate Jensen Huang affair
+### 2. Nvidia hires major New York law firm to investigate Jensen Huang affair
 - id události: `d68f526af6ae`  ·  rubrika: `business`  ·  skóre: 83  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -102,7 +73,7 @@
     <https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy>
     > As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He 
 
-### 4. Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy
+### 3. Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy
 - id události: `ca702304f7b4`  ·  rubrika: `tech`  ·  skóre: 81  ·  nezávislých zdrojů: 8
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -135,6 +106,34 @@
     > Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second al
   - **Investing.com** — Nvidia board meets to decide CEO Huang’s future, source says
     <https://www.investing.com/news/stock-market-news/nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5019991>
+
+### 4. Democrat Scott Colom seals historic win in Mississippi Senate race
+- id události: `e4a5945bc19c`  ·  rubrika: `world`  ·  skóre: 80  ·  nezávislých zdrojů: 6
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — Democrat Scott Colom seals historic win in Mississippi Senate race
+    <https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss>
+    > Colom is the first black person from the southern state elected to the US Senate in over 140 years.
+  - **NPR News** — Democrat Scott Colom wins the closest Senate race in the country
+    <https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country>
+    > Mississippi hadn't elected a Democrat to the U.S. Senate in more than 40 years.
+  - **DW News** — Democrat Colom wins Mississippi Senate seat
+    <https://www.dw.com/en/democrat-colom-wins-mississippi-senate-seat/a-79924938?maca=en-rss-en-all-1573-rdf>
+    > The southern US state of Mississippi has elected its first Black senator in more than 140 years. Democrat Scott Colom has won the seat in a historic upset, according to projections.
+  - **NPR News** — Democrat Scott Colom wins Mississippi Senate race
+    <https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom>
+    > Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith.
+  - **France 24** — Democrat Scott Colom wins historic Senate race in Mississippi
+    <https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi>
+  - **France 24** — Democrat Scott Colom wins historic Senate race in Mississippi
+    <https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi>
+    > Democrat Scott Colom defeated Republican Senator Cindy Hyde-Smith in Mississippi after a final count on Wednesday, becoming the state's first Black US senator since Reconstruction. His narrow victory adds to the Democrats' midterm gains as President Donald Trump's party suffers a
+  - **CNBC Top** — Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith
+    <https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html>
+    > Scott Colom will be the first Democrat elected to the Senate from the state since 1982, and Mississippi's first Black senator since Reconstruction.
+  - **Al Jazeera** — Democrat Scott Colom wins closely watched US Senate race in Mississippi
+    <https://www.aljazeera.com/news/2026/11/11/democrat-scott-colom-wins-closely-watched-us-senate-race-in-mississippi?traffic_source=rss>
+    > The historic victory flips an eighth US Senate seat for Democrats after last week's pivotal midterm election.
 
 ---
 

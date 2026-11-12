@@ -5,46 +5,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "jensen",
-    "cnbc",
-    "silicon",
-    "openai",
-    "unexpected",
-    "drove",
-    "nvidia's",
-    "valley",
-    "goodfire",
-    "york",
-    "chinese",
-    "t-head",
-    "exploit",
-    "assets",
-    "access",
-    "trump",
-    "cyberattack",
-    "huang's",
-    "hugging",
-    "trusted",
-    "qubole's",
-    "experts",
-    "china",
+    "steal",
     "amid",
-    "labs",
-    "security",
+    "face",
     "reward",
-    "hacking",
+    "huang",
+    "exploit",
+    "cnbc",
+    "asia",
+    "openai",
+    "silicon",
+    "china",
+    "goodfire",
+    "t-head",
+    "drove",
     "megaspeed",
     "cyberattacks",
-    "alibaba",
+    "experts",
     "data",
-    "huang",
-    "steal",
-    "nvidia",
-    "undone",
     "suffers",
+    "qubole's",
+    "security",
+    "trusted",
+    "deepseek",
+    "chinese",
+    "unexpected",
+    "assets",
+    "jensen",
+    "cyberattack",
+    "nvidia's",
     "hackers",
-    "face",
-    "deepseek"
+    "hugging",
+    "york",
+    "hacking",
+    "alibaba",
+    "valley",
+    "access",
+    "labs",
+    "trump",
+    "nvidia",
+    "undone"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -99,7 +99,10 @@
     "05e06857ebb5",
     "38bafe3be8f0",
     "fa0f15c1a40a",
-    "ca702304f7b4"
+    "ca702304f7b4",
+    "48e6c4124142",
+    "7b9ea008ef79",
+    "7960beed95a2"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-12",
@@ -721,6 +724,151 @@
       "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
       "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html"
      ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+     "sources": 3,
+     "score": 52,
+     "event_id": "48e6c4124142",
+     "links": [
+      "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
+      "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
+     "sources": 2,
+     "score": 40,
+     "event_id": "7b9ea008ef79",
+     "links": [
+      "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
+      "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight",
+     "sources": 2,
+     "score": 40,
+     "event_id": "7960beed95a2",
+     "links": [
+      "https://www.scmp.com/tech/article/3374131/nvidia-shares-plunge-after-hours-trading-concerns-about-ceo-jensen-huang-intensify",
+      "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "84ce4047c1c5",
+   "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+   "section": "world",
+   "entities": [
+    "shein",
+    "tiananmen",
+    "t-head",
+    "hong",
+    "kong's",
+    "kong",
+    "shein's",
+    "fast-fashion",
+    "alibaba"
+   ],
+   "event_ids": [
+    "84ce4047c1c5",
+    "0df2dafecfc9",
+    "2c91a82a84c2",
+    "f33cc723a614",
+    "a74878e9b76a",
+    "b43c2e14cf73",
+    "cf097931c31f"
+   ],
+   "first_seen": "2026-08-21",
+   "last_seen": "2026-11-12",
+   "timeline": [
+    {
+     "date": "2026-08-21",
+     "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
+     "sources": 5,
+     "score": 85,
+     "event_id": "84ce4047c1c5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
+      "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Hong Kong convicts Tiananmen vigil leaders",
+     "sources": 3,
+     "score": 67,
+     "event_id": "0df2dafecfc9",
+     "links": [
+      "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
+      "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
+     "sources": 2,
+     "score": 40,
+     "event_id": "2c91a82a84c2",
+     "links": [
+      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
+      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Alibaba’s record stock sale adds to Hong Kong tech flood",
+     "sources": 3,
+     "score": 53,
+     "event_id": "f33cc723a614",
+     "links": [
+      "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
+      "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
+      "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479"
+     ]
+    },
+    {
+     "date": "2026-09-01",
+     "headline": "Fast-fashion giant Shein's shares drop 8% in Hong Kong market debut",
+     "sources": 2,
+     "score": 46,
+     "event_id": "a74878e9b76a",
+     "links": [
+      "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
+      "https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
+      "https://www.investing.com/news/stock-market-news/shein-shares-slide-10-in-hong-kong-debut-after-valuation-reset-4883462"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+     "sources": 5,
+     "score": 80,
+     "event_id": "b43c2e14cf73",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/hong-kong-tiananmen-activists-sentenced-up-to-7-years/a-79224243?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Alibaba readies T-Head chip IPO as Hong Kong frenzy cools",
+     "sources": 2,
+     "score": 46,
+     "event_id": "cf097931c31f",
+     "links": [
+      "https://www.scmp.com/plus/business/banking-finance/article/3374068/alibaba-readies-t-head-chip-ipo-hong-kong-frenzy-cools",
+      "https://www.investing.com/news/stock-market-news/alphabet-sets-initial-price-guidance-for-hong-kong-singapore-bond-sales-term-sheet-shows-5020243"
+     ]
     }
    ]
   },
@@ -729,14 +877,15 @@
    "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
    "section": "world",
    "entities": [
-    "scott",
     "democrat",
+    "colom",
+    "scott",
     "mississippi",
-    "senate",
-    "colom"
+    "senate"
    ],
    "event_ids": [
-    "e4a5945bc19c"
+    "e4a5945bc19c",
+    "9e0024c86ed3"
    ],
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-12",
@@ -751,6 +900,17 @@
       "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
       "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
       "https://www.dw.com/en/democrat-colom-wins-mississippi-senate-seat/a-79924938?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Democrat Scott Colom wins the closest Senate race in the country",
+     "sources": 2,
+     "score": 46,
+     "event_id": "9e0024c86ed3",
+     "links": [
+      "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country",
+      "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -20583,104 +20743,6 @@
    ]
   },
   {
-   "id": "84ce4047c1c5",
-   "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-   "section": "world",
-   "entities": [
-    "fast-fashion",
-    "shein",
-    "alibaba",
-    "kong",
-    "shein's",
-    "tiananmen",
-    "kong's",
-    "hong"
-   ],
-   "event_ids": [
-    "84ce4047c1c5",
-    "0df2dafecfc9",
-    "2c91a82a84c2",
-    "f33cc723a614",
-    "a74878e9b76a",
-    "b43c2e14cf73"
-   ],
-   "first_seen": "2026-08-21",
-   "last_seen": "2026-09-11",
-   "timeline": [
-    {
-     "date": "2026-08-21",
-     "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
-     "sources": 5,
-     "score": 85,
-     "event_id": "84ce4047c1c5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/21/tiananmen-square-vigil-hong-kong-alliance-activists-guilty-verdict-lee-cheuk-yan-chow-hang-tung",
-      "https://www.dw.com/en/hong-kong-convicts-activists-in-national-security-trial/a-78452415?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Hong Kong convicts Tiananmen vigil leaders",
-     "sources": 3,
-     "score": 67,
-     "event_id": "0df2dafecfc9",
-     "links": [
-      "https://www.dw.com/en/hong-kong-convicts-tiananmen-vigil-leaders/a-78452415?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260821-two-organisers-of-hong-kong-s-tiananmen-vigils-charged-for-inciting-subversion",
-      "https://www.france24.com/en/video/20260821-hong-kong-s-tiananmen-vigils-organisers-convicted-in-national-security-case"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Fast-fashion giant Shein aims for $27bn valuation in Hong Kong market debut",
-     "sources": 2,
-     "score": 40,
-     "event_id": "2c91a82a84c2",
-     "links": [
-      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut",
-      "https://www.theguardian.com/business/2026/aug/24/fashion-giant-shein-27bn-valuation-hong-kong-market-debut"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Alibaba’s record stock sale adds to Hong Kong tech flood",
-     "sources": 3,
-     "score": 53,
-     "event_id": "f33cc723a614",
-     "links": [
-      "https://www.scmp.com/plus/business/banking-finance/article/3365060/alibabas-record-stock-sale-adds-hong-kong-tech-flood?utm_source=rss_feed",
-      "https://www.cnbc.com/2026/08/24/shein-ipo-valuation-hong-kong.html",
-      "https://www.investing.com/news/stock-market-news/shein-launches-up-to-18-billion-hong-kong-ipo-4872479"
-     ]
-    },
-    {
-     "date": "2026-09-01",
-     "headline": "Fast-fashion giant Shein's shares drop 8% in Hong Kong market debut",
-     "sources": 2,
-     "score": 46,
-     "event_id": "a74878e9b76a",
-     "links": [
-      "https://www.cnbc.com/2026/09/01/shein-ipo-market-debut-hong-kong.html",
-      "https://www.investing.com/news/stock-market-news/shein-set-for-lacklustre-debut-after-setbacks-cause-huge-drop-in-valuation-4883337",
-      "https://www.investing.com/news/stock-market-news/shein-shares-slide-10-in-hong-kong-debut-after-valuation-reset-4883462"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-     "sources": 5,
-     "score": 80,
-     "event_id": "b43c2e14cf73",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/hong-kong-tiananmen-activists-sentenced-up-to-7-years/a-79224243?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/09/11/g-s1-142832/hong-kong-court-sentences-vigil-organizers"
-     ]
-    }
-   ]
-  },
-  {
    "id": "1530238efca3",
    "title": "Razaullah introduces himself as Pakistan thrive in chaos",
    "section": "sport",
@@ -22381,5 +22443,5 @@
    ]
   }
  ],
- "updated": "2026-11-12T00:39:03+00:00"
+ "updated": "2026-11-12T03:21:19+00:00"
 }
