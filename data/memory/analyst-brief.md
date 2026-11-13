@@ -23,7 +23,6 @@ Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **59**.
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 95 dní · 60 záznamů
 - časová osa:
-  - **2026-11-12** (2 zdrojů) Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?
   - **2026-11-12** (10 zdrojů) Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
   - **2026-11-12** (6 zdrojů) Jensen Huang has resigned, what's next for Nvidia?
   - **2026-11-13** (9 zdrojů) Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
@@ -33,6 +32,7 @@ Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **59**.
   - **2026-11-13** (4 zdrojů) Let’s talk about Jensen Huang’s many affairs!
   - **2026-11-13** (6 zdrojů) What’s really at stake in the Jensen Huang saga
   - **2026-11-13** (4 zdrojů) Jensen Huang was reckless with the environment, too
+  - **2026-11-13** (4 zdrojů) Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 96 dní · 60 záznamů
@@ -51,7 +51,6 @@ Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **59**.
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 94 dní · 60 záznamů
 - časová osa:
-  - **2026-11-02** (2 zdrojů) Ukraine and Russia both hit by cyberattacks on emergency apps
   - **2026-11-02** (2 zdrojů) What we know about the alert app hack in Ukraine and Russia
   - **2026-11-03** (2 zdrojů) Zelenskyy to make unexpected visit to Berlin for talks with Merz – Europe live
   - **2026-11-03** (2 zdrojů) What US midterm elections mean for Ukraine, Iran and elsewhere
@@ -61,6 +60,7 @@ Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **59**.
   - **2026-11-11** (2 zdrojů) Tehran will strike US bases in Europe if used to attack Iran, security chief says
   - **2026-11-12** (1 zdrojů) Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine
   - **2026-11-13** (2 zdrojů) Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks
+  - **2026-11-13** (1 zdrojů) The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents
 
 ### OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
 - rubrika `tech` · sledováno 59 dní · 60 záznamů

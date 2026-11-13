@@ -896,46 +896,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "drove",
-    "cyberattacks",
     "kleinman",
-    "valley",
-    "alibaba",
-    "chinese",
-    "hackers",
-    "senate",
-    "megaspeed",
-    "exploit",
-    "security",
-    "trump",
+    "nvidia's",
     "qubole's",
+    "chinese",
     "assets",
+    "goodfire",
     "silicon",
-    "t-head",
+    "cyberattack",
     "alice",
-    "amid",
-    "huang",
+    "york",
+    "jensen",
+    "senate",
+    "trusted",
+    "alibaba",
+    "exploit",
+    "drove",
+    "security",
+    "labs",
     "lutnick",
+    "amid",
+    "data",
+    "megaspeed",
+    "trump",
+    "face",
+    "access",
+    "t-head",
+    "martin",
+    "cyberattacks",
+    "valley",
+    "hegseth",
     "undone",
+    "nvidia",
     "suffers",
+    "unexpected",
+    "scandal-hit",
+    "rowson",
+    "steal",
     "cnbc",
     "reward",
-    "cyberattack",
-    "data",
-    "labs",
-    "hegseth",
-    "jensen",
-    "york",
-    "china",
-    "face",
-    "nvidia",
-    "unexpected",
-    "access",
-    "scandal-hit",
-    "goodfire",
-    "nvidia's",
-    "trusted",
-    "steal"
+    "china"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -1006,23 +1006,12 @@
     "7365ab1251eb",
     "71dad9da95c2",
     "627c324df106",
-    "cfb5766d57c2"
+    "cfb5766d57c2",
+    "58447a67cf03"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-13",
    "timeline": [
-    {
-     "date": "2026-08-28",
-     "headline": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-     "sources": 3,
-     "score": 50,
-     "event_id": "0321378bd042",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
-     ]
-    },
     {
      "date": "2026-08-29",
      "headline": "The inside story on why OpenAI agents hacked Hugging Face",
@@ -1711,6 +1700,18 @@
       "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
       "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
       "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon",
+     "sources": 4,
+     "score": 68,
+     "event_id": "58447a67cf03",
+     "links": [
+      "https://www.theguardian.com/commentisfree/picture/2026/nov/13/martin-rowson-on-the-downfall-of-nvidias-jensen-huang-cartoon",
+      "https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns",
+      "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html"
      ]
     }
    ]
@@ -2636,46 +2637,46 @@
    "title": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
    "section": "world",
    "entities": [
-    "maps",
-    "dhabi",
     "upgrade",
+    "boss",
+    "star",
     "kremlin",
-    "global",
-    "greenland",
-    "samara",
-    "german",
-    "zelensky",
+    "protests",
+    "block",
+    "rock",
     "overnight",
-    "made",
-    "wildberries",
-    "mercedes",
-    "fuel",
-    "moldova",
-    "russia-ukraine",
-    "hormuz",
-    "ukraine",
-    "emissions",
-    "partly",
-    "pezeshkian",
-    "tehran",
-    "fossil",
-    "amnesty",
-    "zelenskyy",
-    "footprints",
-    "excluding",
     "united",
-    "discovered",
-    "us-backed",
+    "hormuz",
+    "mercedes",
     "year",
-    "friedrich",
-    "merz",
-    "bear",
-    "conflicts",
-    "iran",
-    "peace",
+    "dhabi",
     "general",
+    "discovered",
+    "iran",
+    "excluding",
+    "merz",
+    "moldova",
+    "pezeshkian",
+    "us-backed",
+    "emissions",
+    "greenland",
+    "fossil",
+    "tehran",
+    "made",
+    "partly",
+    "bear",
+    "ukraine",
+    "friedrich",
+    "downfall",
+    "presidents",
+    "samara",
+    "conflicts",
+    "amnesty",
     "europe",
-    "block"
+    "german",
+    "fuel",
+    "footprints",
+    "maps"
    ],
    "event_ids": [
     "1bf4b58ce158",
@@ -2775,23 +2776,12 @@
     "39582fe71959",
     "690bc503a386",
     "855d7804605f",
-    "af7b2cf6eba9"
+    "af7b2cf6eba9",
+    "1fab42d305df"
    ],
    "first_seen": "2026-08-11",
    "last_seen": "2026-11-13",
    "timeline": [
-    {
-     "date": "2026-09-05",
-     "headline": "US envoys arrive in Moscow ahead of Ukraine talks",
-     "sources": 5,
-     "score": 74,
-     "event_id": "83f9a270e22c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
-      "https://www.dw.com/en/us-envoys-fly-to-russia-then-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
     {
      "date": "2026-09-06",
      "headline": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
@@ -3445,6 +3435,17 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
       "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
+     "sources": 1,
+     "score": 41,
+     "event_id": "1fab42d305df",
+     "links": [
+      "https://www.france24.com/en/tv-shows/the-world-this-week/20261113-the-downfall-of-ai-s-rock-star-boss-ukraine-who-speak-for-europe-protests-presidents",
+      "https://www.france24.com/en/tv-shows/spotlight/20261113-hurry-up-and-wait-europe-wants-a-place-at-the-table-must-make-up-its-mind-over-ukraine"
      ]
     }
    ]
@@ -4778,6 +4779,192 @@
    ]
   },
   {
+   "id": "341a230bd977",
+   "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+   "section": "tech",
+   "entities": [
+    "startups",
+    "researchers",
+    "kong",
+    "claude",
+    "chinese",
+    "openai",
+    "mainland",
+    "hong",
+    "astra",
+    "anthropic"
+   ],
+   "event_ids": [
+    "341a230bd977",
+    "1db8587bd622",
+    "a8365cfa26c0",
+    "50c802e9ffe4",
+    "5618ffbe19d5",
+    "23b05835e46b",
+    "00f03c836310",
+    "fad16983d932",
+    "5473bde55aee",
+    "ba390530e9c6",
+    "27829b76e88b",
+    "9f453a258298",
+    "200f8d538bb8"
+   ],
+   "first_seen": "2026-09-03",
+   "last_seen": "2026-11-13",
+   "timeline": [
+    {
+     "date": "2026-09-03",
+     "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
+     "sources": 4,
+     "score": 65,
+     "event_id": "341a230bd977",
+     "links": [
+      "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
+     ]
+    },
+    {
+     "date": "2026-09-03",
+     "headline": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+     "sources": 2,
+     "score": 40,
+     "event_id": "1db8587bd622",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Researchers used Claude to hack OpenAI",
+     "sources": 3,
+     "score": 46,
+     "event_id": "a8365cfa26c0",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+      "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
+     "sources": 2,
+     "score": 46,
+     "event_id": "50c802e9ffe4",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
+      "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+     "sources": 3,
+     "score": 55,
+     "event_id": "5618ffbe19d5",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-23",
+     "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
+     "sources": 2,
+     "score": 52,
+     "event_id": "23b05835e46b",
+     "links": [
+      "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
+      "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
+      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "OpenAI and Anthropic bosses push UN for global terms on AI",
+     "sources": 4,
+     "score": 62,
+     "event_id": "00f03c836310",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+     "sources": 2,
+     "score": 42,
+     "event_id": "fad16983d932",
+     "links": [
+      "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+      "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
+     "sources": 2,
+     "score": 42,
+     "event_id": "5473bde55aee",
+     "links": [
+      "https://www.scmp.com/tech/tech-war/article/3369526/hong-kong-users-caught-offguard-anthropic-tightens-vpn-access-claude?utm_source=rss_feed",
+      "https://www.investing.com/news/stock-market-news/anthropic-launches-third-claude-55-model-expanding-ai-lineup-before-planned-ipo-4937326"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+     "sources": 3,
+     "score": 48,
+     "event_id": "ba390530e9c6",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "https://www.scmp.com/tech/big-tech/article/3370154/us-ai-firm-anthropic-enables-chinese-language-options-claude-chatbot?utm_source=rss_feed"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Anthropic claims Chinese AI firms secretly use Claude. Is it true?",
+     "sources": 2,
+     "score": 47,
+     "event_id": "27829b76e88b",
+     "links": [
+      "https://www.scmp.com/tech/tech-war/article/3370317/anthropic-claims-chinese-ai-firms-secretly-use-claude-it-true?utm_source=rss_feed",
+      "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "As 1 mainland Chinese chip IPO soars, another stumbles in busy Hong Kong week",
+     "sources": 1,
+     "score": 46,
+     "event_id": "9f453a258298",
+     "links": [
+      "https://www.scmp.com/business/companies/article/3373886/1-mainland-chinese-chip-ipo-soars-another-stumbles-busy-hong-kong-week",
+      "https://www.scmp.com/business/markets/article/3373745/can-hong-kong-hold-its-ground-nasdaq-brings-wall-street-asian-hours",
+      "https://www.scmp.com/business/banking-finance/article/3373507/hong-kongs-exchange-fund-earnings-tumble-74-hkma-warns-more-market-turbulence"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Mainland Chinese overseas funds find winners in oil, US stocks as Hong Kong bets struggle",
+     "sources": 1,
+     "score": 43,
+     "event_id": "200f8d538bb8",
+     "links": [
+      "https://www.scmp.com/business/china-business/article/3373949/mainland-chinese-overseas-funds-find-winners-oil-us-stocks-hong-kong-bets-struggle",
+      "https://www.scmp.com/presented/tech/topics/flexible-logistics-sme-growth/article/3373866/hong-kong-hosts-hdd-harmonyos-ecosystem-executive-summit-over-100-industry-leaders"
+     ]
+    }
+   ]
+  },
+  {
    "id": "388c180a1aec",
    "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
    "section": "tech",
@@ -4916,17 +5103,18 @@
    "title": "David Walliams accused of sexual misconduct after losing injunction bid",
    "section": "culture",
    "entities": [
-    "walliams",
-    "russell",
     "jonathan",
-    "brand",
     "david",
-    "ross"
+    "russell",
+    "brand",
+    "ross",
+    "walliams"
    ],
    "event_ids": [
     "aed83b0c0f81",
     "e2e7aea6e84e",
-    "0a0995c054ed"
+    "0a0995c054ed",
+    "a2fbabaab632"
    ],
    "first_seen": "2026-11-10",
    "last_seen": "2026-11-13",
@@ -4963,6 +5151,17 @@
      "links": [
       "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
       "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "David Walliams: UK police launch sex offense probe into comedian",
+     "sources": 2,
+     "score": 46,
+     "event_id": "a2fbabaab632",
+     "links": [
+      "https://www.dw.com/en/david-walliams-uk-police-launch-sex-offense-probe-into-comedian/a-79944161?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations"
      ]
     }
    ]
@@ -7312,179 +7511,6 @@
       "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
       "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
       "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "341a230bd977",
-   "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-   "section": "tech",
-   "entities": [
-    "openai",
-    "anthropic",
-    "hong",
-    "claude",
-    "chinese",
-    "researchers",
-    "kong",
-    "startups",
-    "astra"
-   ],
-   "event_ids": [
-    "341a230bd977",
-    "1db8587bd622",
-    "a8365cfa26c0",
-    "50c802e9ffe4",
-    "5618ffbe19d5",
-    "23b05835e46b",
-    "00f03c836310",
-    "fad16983d932",
-    "5473bde55aee",
-    "ba390530e9c6",
-    "27829b76e88b",
-    "9f453a258298"
-   ],
-   "first_seen": "2026-09-03",
-   "last_seen": "2026-11-12",
-   "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
-     "sources": 4,
-     "score": 65,
-     "event_id": "341a230bd977",
-     "links": [
-      "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release"
-     ]
-    },
-    {
-     "date": "2026-09-03",
-     "headline": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
-     "sources": 2,
-     "score": 40,
-     "event_id": "1db8587bd622",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Researchers used Claude to hack OpenAI",
-     "sources": 3,
-     "score": 46,
-     "event_id": "a8365cfa26c0",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-      "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "OpenAI ‘ethically hacked’ with help of Anthropic’s Claude chatbot",
-     "sources": 2,
-     "score": 46,
-     "event_id": "50c802e9ffe4",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
-      "https://www.cnbc.com/2026/09/18/anthropic-openai-small-ai-data-center-deals.html"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-     "sources": 3,
-     "score": 55,
-     "event_id": "5618ffbe19d5",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "Anthropic and OpenAI roll out cheaper models in first release since call for slowdown",
-     "sources": 2,
-     "score": 52,
-     "event_id": "23b05835e46b",
-     "links": [
-      "https://www.cnbc.com/2026/09/22/anthropic-openai-cheaper-ai-models.html",
-      "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
-      "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "OpenAI and Anthropic bosses push UN for global terms on AI",
-     "sources": 4,
-     "score": 62,
-     "event_id": "00f03c836310",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/24/ai-corporate-leaders-tell-un-the-industry-needs-global-regulation?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
-     "sources": 2,
-     "score": 42,
-     "event_id": "fad16983d932",
-     "links": [
-      "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
-      "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
-     "sources": 2,
-     "score": 42,
-     "event_id": "5473bde55aee",
-     "links": [
-      "https://www.scmp.com/tech/tech-war/article/3369526/hong-kong-users-caught-offguard-anthropic-tightens-vpn-access-claude?utm_source=rss_feed",
-      "https://www.investing.com/news/stock-market-news/anthropic-launches-third-claude-55-model-expanding-ai-lineup-before-planned-ipo-4937326"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-     "sources": 3,
-     "score": 48,
-     "event_id": "ba390530e9c6",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "https://www.scmp.com/tech/big-tech/article/3370154/us-ai-firm-anthropic-enables-chinese-language-options-claude-chatbot?utm_source=rss_feed"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Anthropic claims Chinese AI firms secretly use Claude. Is it true?",
-     "sources": 2,
-     "score": 47,
-     "event_id": "27829b76e88b",
-     "links": [
-      "https://www.scmp.com/tech/tech-war/article/3370317/anthropic-claims-chinese-ai-firms-secretly-use-claude-it-true?utm_source=rss_feed",
-      "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html"
-     ]
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "As 1 mainland Chinese chip IPO soars, another stumbles in busy Hong Kong week",
-     "sources": 1,
-     "score": 46,
-     "event_id": "9f453a258298",
-     "links": [
-      "https://www.scmp.com/business/companies/article/3373886/1-mainland-chinese-chip-ipo-soars-another-stumbles-busy-hong-kong-week",
-      "https://www.scmp.com/business/markets/article/3373745/can-hong-kong-hold-its-ground-nasdaq-brings-wall-street-asian-hours",
-      "https://www.scmp.com/business/banking-finance/article/3373507/hong-kongs-exchange-fund-earnings-tumble-74-hkma-warns-more-market-turbulence"
      ]
     }
    ]
@@ -22920,5 +22946,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T18:19:42+00:00"
+ "updated": "2026-11-13T21:19:19+00:00"
 }
