@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-13
 
-Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **57**.
+Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **59**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **57**.
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 87 dní · 60 záznamů
 - časová osa:
-  - **2026-11-04** (4 zdrojů) Nadal set to join Real Madrid board of directors
   - **2026-11-05** (2 zdrojů) Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
   - **2026-11-07** (2 zdrojů) Delap double inspires Forest to stunning win over Man City
   - **2026-11-08** (2 zdrojů) Forest win over Man City 'a turning point' - Murphy
@@ -19,11 +18,11 @@ Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **57**.
   - **2026-11-12** (2 zdrojů) Man Utd open talks with Pochettino about replacing Carrick
   - **2026-11-12** (2 zdrojů) Manchester United sacked manager Michael Carrick
   - **2026-11-13** (2 zdrojů) Nations League: Italy roar back to beat France despite Donnarumma’s early howler
+  - **2026-11-13** (2 zdrojů) Manchester United names USMNT coach Mauricio Pochettino as its manager
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 95 dní · 60 záznamů
 - časová osa:
-  - **2026-11-12** (6 zdrojů) Who could replace Jensen Huang as Nvidia's chief executive?
   - **2026-11-12** (11 zdrojů) Watch: The latest in the Jensen Huang Nvidia scandal
   - **2026-11-12** (2 zdrojů) Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?
   - **2026-11-12** (10 zdrojů) Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
@@ -33,11 +32,11 @@ Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **57**.
   - **2026-11-13** (7 zdrojů) US Senate asks Huang, Lutnick to testify on Nvidia
   - **2026-11-13** (3 zdrojů) Nvidia scandal: Was Alice Huang really a Chinese spy?
   - **2026-11-13** (4 zdrojů) Let’s talk about Jensen Huang’s many affairs!
+  - **2026-11-13** (6 zdrojů) What’s really at stake in the Jensen Huang saga
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 96 dní · 60 záznamů
 - časová osa:
-  - **2026-11-03** (2 zdrojů) Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
   - **2026-11-03** (2 zdrojů) Ukraine’s drone strikes spur hasty Russian plans for underground data centers
   - **2026-11-04** (2 zdrojů) Canada joins coalition refusing to play ice hockey against Russia over Ukraine war
   - **2026-11-05** (2 zdrojů) Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
@@ -47,6 +46,7 @@ Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **57**.
   - **2026-11-12** (2 zdrojů) Famed ship SS United States deliberately sunk off Florida coast to become a reef
   - **2026-11-13** (1 zdrojů) Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef
   - **2026-11-13** (3 zdrojů) Ukraine updates: Second car bomb to hit Russia in two days
+  - **2026-11-13** (2 zdrojů) Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 94 dní · 60 záznamů

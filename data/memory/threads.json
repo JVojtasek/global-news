@@ -6,45 +6,45 @@
    "section": "sport",
    "entities": [
     "united",
-    "leeds",
-    "tuchel",
-    "troy's",
-    "champions",
-    "manzambi",
-    "howe",
-    "greenwood",
-    "forest",
     "michael",
-    "italy",
-    "wilcox",
-    "phil",
-    "real",
-    "photos",
-    "jonathan",
-    "nations",
-    "football",
-    "france",
-    "carrick",
-    "city",
-    "barcelona's",
-    "league",
-    "gakpo",
-    "terland",
-    "glasner",
-    "tenerife",
-    "manchester",
-    "beckett",
-    "miguel",
+    "tuchel",
+    "champions",
+    "howe",
     "chelsea",
-    "brighton",
-    "utd's",
-    "aston",
-    "nadal",
-    "cristiano",
-    "delap",
-    "jackson",
+    "photos",
     "donnarumma",
-    "pochettino"
+    "troy's",
+    "mauricio",
+    "leeds",
+    "jonathan",
+    "football",
+    "gakpo",
+    "nadal",
+    "manzambi",
+    "nations",
+    "carrick",
+    "greenwood",
+    "france",
+    "usmnt",
+    "aston",
+    "delap",
+    "phil",
+    "glasner",
+    "jackson",
+    "brighton",
+    "wilcox",
+    "miguel",
+    "pochettino",
+    "real",
+    "league",
+    "manchester",
+    "terland",
+    "cristiano",
+    "tenerife",
+    "forest",
+    "italy",
+    "barcelona's",
+    "utd's"
    ],
    "event_ids": [
     "e8a425cbff50",
@@ -198,23 +198,12 @@
     "70bba4df95df",
     "5e092e75bcc1",
     "a09ceb2fbbf6",
-    "71e9540882f0"
+    "71e9540882f0",
+    "28d13b454da8"
    ],
    "first_seen": "2026-08-18",
    "last_seen": "2026-11-13",
    "timeline": [
-    {
-     "date": "2026-10-10",
-     "headline": "Carrick ‘massively disappointed’ after United drop points against 10-man Spurs",
-     "sources": 2,
-     "score": 49,
-     "event_id": "6a62004872d3",
-     "links": [
-      "https://www.theguardian.com/football/2026/oct/10/michael-carrick-manchester-united-tottenham-roberto-de-zerbi",
-      "https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss",
-      "https://www.theguardian.com/football/2026/oct/10/manchester-united-tottenham-premier-league-match-report"
-     ]
-    },
     {
      "date": "2026-10-10",
      "headline": "Why we’re stuck with a Premier League in the clutches of the global mega-rich | Jonathan Wilson",
@@ -888,6 +877,17 @@
       "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
       "https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Manchester United names USMNT coach Mauricio Pochettino as its manager",
+     "sources": 2,
+     "score": 41,
+     "event_id": "28d13b454da8",
+     "links": [
+      "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
+      "https://www.aljazeera.com/sports/2026/11/13/manchester-united-new-manager-mauricio-pochettino-usa-soccer?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -896,46 +896,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "hackers",
-    "cnbc",
-    "assets",
-    "t-head",
-    "nvidia",
-    "chinese",
-    "cyberattacks",
-    "face",
-    "lutnick",
-    "amid",
-    "drove",
-    "alice",
-    "senate",
-    "scandal-hit",
-    "megaspeed",
     "steal",
+    "t-head",
     "kleinman",
-    "goodfire",
-    "access",
-    "undone",
-    "security",
-    "york",
-    "data",
-    "silicon",
-    "nvidia's",
-    "labs",
-    "alibaba",
-    "hegseth",
-    "qubole's",
-    "unexpected",
-    "cyberattack",
-    "valley",
-    "suffers",
-    "china",
-    "huang",
-    "reward",
     "trump",
-    "jensen",
+    "qubole's",
+    "reward",
+    "data",
+    "cyberattack",
+    "hegseth",
+    "lutnick",
+    "york",
+    "hackers",
+    "valley",
+    "assets",
+    "security",
+    "nvidia's",
     "trusted",
-    "exploit"
+    "cnbc",
+    "alibaba",
+    "china",
+    "chinese",
+    "suffers",
+    "megaspeed",
+    "goodfire",
+    "unexpected",
+    "huang",
+    "scandal-hit",
+    "nvidia",
+    "cyberattacks",
+    "senate",
+    "amid",
+    "silicon",
+    "face",
+    "access",
+    "labs",
+    "drove",
+    "jensen",
+    "exploit",
+    "alice",
+    "undone"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -1004,23 +1004,12 @@
     "3b9e89cb89a2",
     "15ca2a489eb0",
     "7365ab1251eb",
-    "71dad9da95c2"
+    "71dad9da95c2",
+    "627c324df106"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-13",
    "timeline": [
-    {
-     "date": "2026-08-27",
-     "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-     "sources": 7,
-     "score": 77,
-     "event_id": "3544561ca685",
-     "links": [
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-     ]
-    },
     {
      "date": "2026-08-27",
      "headline": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
@@ -1710,6 +1699,18 @@
       "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
       "https://www.france24.com/en/tv-shows/press-review/20261113-it-s-game-over-for-jensen-huang-king-of-ai-chips"
      ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "What’s really at stake in the Jensen Huang saga",
+     "sources": 6,
+     "score": 79,
+     "event_id": "627c324df106",
+     "links": [
+      "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html"
+     ]
     }
    ]
   },
@@ -1718,46 +1719,46 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "gulf",
-    "iran's",
-    "removals",
-    "liner",
-    "floor",
-    "germany",
-    "states",
-    "world's",
-    "artificial",
-    "president",
-    "merz",
-    "ocean",
-    "hits",
-    "blackouts",
-    "ukraine",
-    "canada",
-    "audi's",
-    "largest",
-    "asia",
-    "florida",
-    "kherson",
-    "saudi",
-    "melania",
-    "finally",
-    "vladimir",
-    "unsinkable",
-    "audi",
-    "andrew",
     "united",
-    "bringing",
-    "death",
-    "trump",
     "designed",
-    "poland",
-    "ukrainian",
-    "second",
-    "reef",
+    "trump",
+    "bringing",
+    "florida",
+    "ukraine",
+    "kherson",
+    "melania",
+    "president",
+    "vladimir",
+    "death",
     "russia",
+    "floor",
+    "beijing",
+    "audi's",
+    "reef",
+    "states",
+    "audi",
+    "merz",
+    "gulf",
+    "artificial",
+    "blackouts",
+    "second",
+    "andrew",
+    "removals",
+    "saudi",
+    "largest",
+    "germany",
     "modi",
-    "beijing"
+    "ukrainian",
+    "finally",
+    "world's",
+    "poland",
+    "liner",
+    "asia",
+    "hits",
+    "iran's",
+    "unsinkable",
+    "canada",
+    "ocean"
    ],
    "event_ids": [
     "639e1a78a571",
@@ -1937,22 +1938,12 @@
     "393e0d6d578a",
     "e8d0b12d49fa",
     "e80f306174d8",
-    "01a0b2bd69c3"
+    "01a0b2bd69c3",
+    "c22c9f451b1a"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-11-13",
    "timeline": [
-    {
-     "date": "2026-10-10",
-     "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-     "sources": 2,
-     "score": 45,
-     "event_id": "8fd635139c0b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
     {
      "date": "2026-10-10",
      "headline": "Watch: 'Time for Ukraine to get a new president', says Trump",
@@ -2624,6 +2615,17 @@
       "https://www.dw.com/en/ukraine-updates-second-car-bomb-to-hit-russia-in-two-days/live-79937459?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/video/20261113-big-development-in-peace-talks-as-ukraine-says-europe-to-join-russia-negotiations",
       "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c22c9f451b1a",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
+      "https://www.dw.com/en/ukraine-updates-russia-hit-with-second-car-bomb-attack-in-two-days/live-79937459?maca=en-rss-en-all-1573-rdf"
      ]
     }
    ]
@@ -3447,6 +3449,882 @@
    ]
   },
   {
+   "id": "87d62c77d066",
+   "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+   "section": "world",
+   "entities": [
+    "smoking",
+    "renoir",
+    "trafficking",
+    "police",
+    "peru",
+    "tracking",
+    "european",
+    "searching",
+    "red's",
+    "nato",
+    "huge",
+    "norse",
+    "president",
+    "socks",
+    "were",
+    "decoder",
+    "lithuania",
+    "affects",
+    "greenland",
+    "thousands",
+    "during",
+    "paintings",
+    "gulf",
+    "french",
+    "evidence",
+    "used",
+    "airport",
+    "hidden",
+    "brotli",
+    "vehicle",
+    "major",
+    "bust",
+    "python",
+    "wildlife",
+    "found",
+    "curfews",
+    "near",
+    "other",
+    "wall",
+    "behind"
+   ],
+   "event_ids": [
+    "87d62c77d066",
+    "16c614175ff1",
+    "5847bd600354",
+    "4f89836c1215",
+    "5650625ff0c7",
+    "3263aff4ed39",
+    "bfa030f1f411",
+    "cf6d90b7d356",
+    "0d0ab2de5779",
+    "acfbda7677cf",
+    "a1317b4ff430",
+    "cd28012b247a",
+    "b814a960e804",
+    "9e39130e88dd",
+    "72b1b0ac47d8",
+    "f74700a0c5c1",
+    "0ff76c15106b",
+    "ced850850efe",
+    "d09e5296340e",
+    "f24475a74667",
+    "721ce071533c",
+    "60c1d204b2f8",
+    "fef1e2c2f502",
+    "8d083b78259a",
+    "55d19e02d108",
+    "7531210b2282",
+    "00df4663cdd8",
+    "a7f7b3a35939",
+    "7604d8c4829b",
+    "480c4c18560b",
+    "c55f6bb1af02",
+    "643456b192e6",
+    "15f3ecd91311",
+    "a0a9e49aec28",
+    "5be949371768"
+   ],
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-11-13",
+   "timeline": [
+    {
+     "date": "2026-09-15",
+     "headline": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "87d62c77d066",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
+      "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+      "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+     "sources": 3,
+     "score": 66,
+     "event_id": "16c614175ff1",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
+      "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
+      "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
+     "sources": 3,
+     "score": 54,
+     "event_id": "5847bd600354",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260918-replay-macron-orders-plan-to-counter-russian-hybrid-attacks"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
+     "sources": 1,
+     "score": 42,
+     "event_id": "4f89836c1215",
+     "links": [
+      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+      "https://www.france24.com/en/video/20260918-france-s-macron-summons-party-leaders-for-talks-on-mideast-and-ukraine"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo visits France for first papal visit in 18 years – Europe live",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5650625ff0c7",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
+      "https://www.france24.com/en/replay-pope-leo-xiv-arrives-in-france-for-four-day-visit",
+      "https://www.france24.com/en/pope-leo-xiv-s-france-visit-puts-macron-in-diplomatic-balancing-act"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "'Pope fever' takes hold as Pope Leo visits France",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3263aff4ed39",
+     "links": [
+      "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260924-pope-leo-in-france-huge-amount-of-excitement-building-in-paris"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo XIV begins four-day pilgrimage to France",
+     "sources": 2,
+     "score": 58,
+     "event_id": "bfa030f1f411",
+     "links": [
+      "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-begins-paris-diplomacy-at-the-%C3%A9lys%C3%A9e",
+      "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+     "sources": 4,
+     "score": 65,
+     "event_id": "cf6d90b7d356",
+     "links": [
+      "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+     "sources": 2,
+     "score": 44,
+     "event_id": "0d0ab2de5779",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
+     "sources": 1,
+     "score": 41,
+     "event_id": "acfbda7677cf",
+     "links": [
+      "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
+      "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Thousands turn out to greet Pope in France",
+     "sources": 4,
+     "score": 76,
+     "event_id": "a1317b4ff430",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
+      "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cd28012b247a",
+     "links": [
+      "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+      "https://www.france24.com/en/france-pope-says-authentic-secularity-does-not-exclude-religion"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Paris: Pope Leo XIV to celebrate Mass before huge crowd",
+     "sources": 2,
+     "score": 64,
+     "event_id": "b814a960e804",
+     "links": [
+      "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/pope-leo-set-for-largest-event-of-france-tour-as-paris-crowds-swell",
+      "https://www.france24.com/en/video/20260926-pope-leo-xiv-to-celebrate-giant-paris-mass-after-peace-appeal"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Huge crowds greet Pope in Paris for open-air Mass",
+     "sources": 3,
+     "score": 67,
+     "event_id": "9e39130e88dd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
+     "sources": 3,
+     "score": 61,
+     "event_id": "72b1b0ac47d8",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
+      "https://www.france24.com/en/france/20260926-a-once-in-a-lifetime-event-faithful-and-curious-flock-to-pope-leo-xiv-s-mass-in-paris",
+      "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
+     "sources": 2,
+     "score": 43,
+     "event_id": "f74700a0c5c1",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
+      "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
+     "sources": 2,
+     "score": 41,
+     "event_id": "0ff76c15106b",
+     "links": [
+      "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
+      "https://www.france24.com/en/france/20260927-live-pope-leo-xiv-to-hold-open-air-mass-in-lourdes-pilgrimage-site"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "🔴Follow live: France's Macron, Pope Leo XIV speak on European unity in Metz",
+     "sources": 1,
+     "score": 40,
+     "event_id": "ced850850efe",
+     "links": [
+      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit",
+      "https://www.france24.com/en/video/20260928-pope-to-speak-on-european-unity-on-last-day-of-france-visit",
+      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Pope wraps up 'hugely successful' France visit with Metz speech",
+     "sources": 1,
+     "score": 47,
+     "event_id": "d09e5296340e",
+     "links": [
+      "https://www.france24.com/en/video/20260928-pope-wraps-up-hugely-successful-france-visit-with-metz-speech",
+      "https://www.france24.com/en/video/20260928-replay-pope-urges-peace-and-unity-in-europe-on-final-day-of-france-visit",
+      "https://www.france24.com/en/video/20260928-replay-france-s-macron-speaks-on-european-union-as-pope-visits-metz"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Pope Leo to speak on EU integration from French border town of Metz",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f24475a74667",
+     "links": [
+      "https://www.france24.com/en/france/20260928-pope-to-speak-on-united-eu-from-french-border-town",
+      "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "French high school protests continue despite PM’s promise of action – Europe live",
+     "sources": 2,
+     "score": 42,
+     "event_id": "721ce071533c",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
+      "https://www.france24.com/en/video/20261008-school-protests-part-of-a-broader-french-malaise"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "France: Police clash with protesters at Paris student rally",
+     "sources": 2,
+     "score": 41,
+     "event_id": "60c1d204b2f8",
+     "links": [
+      "https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Two Recently Stolen Renoir Paintings Were Found Hidden Behind a Cinderblock Wall. French Police Used DNA Evidence and Vehicle Tracking to Crack the Case",
+     "sources": 1,
+     "score": 44,
+     "event_id": "fef1e2c2f502",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/two-recently-stolen-renoir-paintings-were-found-hidden-behind-a-cinderblock-wall-french-police-used-dna-evidence-and-vehicle-tracking-to-crack-the-case-180989678/"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "France: Police and protesters clash in nationwide protests",
+     "sources": 2,
+     "score": 42,
+     "event_id": "8d083b78259a",
+     "links": [
+      "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "Macron calls for 'calm and order' after riots across France",
+     "sources": 2,
+     "score": 47,
+     "event_id": "55d19e02d108",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "7531210b2282",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+      "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Macron slams 'failures' over protest unrest in France but refuses interior minister's resignation",
+     "sources": 2,
+     "score": 45,
+     "event_id": "00df4663cdd8",
+     "links": [
+      "https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/tv-shows/perspective/20261019-france-has-to-assist-gulf-states-diplomat-says-as-macron-makes-three-day-visit"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "France: Curfews issued in Paris, Nice after unrest",
+     "sources": 2,
+     "score": 41,
+     "event_id": "a7f7b3a35939",
+     "links": [
+      "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf",
+      "https://www.atlasobscura.com/places/chapel-of-expiation"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+     "sources": 2,
+     "score": 47,
+     "event_id": "7604d8c4829b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "France curfews calm unrest as Macron faces criticism over Gulf trip",
+     "sources": 2,
+     "score": 40,
+     "event_id": "480c4c18560b",
+     "links": [
+      "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Archaeologists Searching for Evidence of a Norse Church in Greenland Have Found 'the Smoking Gun' Near Erik the Red's Settlement",
+     "sources": 1,
+     "score": 41,
+     "event_id": "c55f6bb1af02",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/archaeologists-searching-for-evidence-of-a-norse-church-in-greenland-have-found-the-smoking-gu-near-erik-the-reds-settlement-180989716/"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Macron accuses foreign leaders of exploiting French riots",
+     "sources": 3,
+     "score": 56,
+     "event_id": "643456b192e6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+      "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "French protests: President Emmanuel Macron meets student unions representatives",
+     "sources": 2,
+     "score": 51,
+     "event_id": "15f3ecd91311",
+     "links": [
+      "https://www.france24.com/en/french-protests-president-emmanuel-macron-meets-student-unions-representatives",
+      "https://www.france24.com/en/major-protests-in-france-macron-convenes-student-representatives",
+      "https://www.theguardian.com/travel/2026/may/24/the-return-of-frances-train-of-marvels-from-the-cote-dazur-to-the-southern-french-alps"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+     "sources": 1,
+     "score": 44,
+     "event_id": "a0a9e49aec28",
+     "links": [
+      "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "More Than 3,000 Tarantulas Were Found Hidden in Socks During a Major Wildlife Trafficking Bust at an Airport in Lima, Peru",
+     "sources": 1,
+     "score": 41,
+     "event_id": "5be949371768",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/more-than-3000-tarantulas-were-found-hidden-in-socks-during-a-major-wildlife-trafficking-bust-at-an-airport-in-lima-peru-180989854/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "117b4062144e",
+   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+   "section": "science",
+   "entities": [
+    "beloved",
+    "west-inspired",
+    "data",
+    "missions",
+    "help",
+    "ka-band",
+    "low-altitude",
+    "emerged",
+    "years",
+    "first-of-its-kind",
+    "mission",
+    "posters",
+    "landscape",
+    "albrecht",
+    "awards",
+    "collection",
+    "france",
+    "scholars",
+    "advance",
+    "revealing",
+    "renaissance",
+    "plan",
+    "relay",
+    "expected",
+    "dish",
+    "work",
+    "painting",
+    "launched",
+    "unknown",
+    "german",
+    "send",
+    "telescope",
+    "moon",
+    "occupation",
+    "research",
+    "pioneered",
+    "week",
+    "testing",
+    "experimental",
+    "origin"
+   ],
+   "event_ids": [
+    "117b4062144e",
+    "687e9adaf6fb",
+    "887fb7f3bbc2",
+    "730942a6039b",
+    "648eebb8b0ed",
+    "b795c1289008",
+    "b4bda24af3f5",
+    "a2c974f2ab73",
+    "af69ac084ec6",
+    "2dc282f1df7a",
+    "2d1ff4fb2acc",
+    "f33a490284d9",
+    "f57fd11d1f5b",
+    "b85bd3d3a0d8",
+    "dc7b54e8c00a",
+    "b9bfb014cb61",
+    "550aa79730b3",
+    "d5370f4ea3de",
+    "eb8ae8da944a",
+    "7e9b86a23e3d",
+    "0d0d39349f2d",
+    "d20dd0f99f28",
+    "55107ad46021",
+    "2e62bc2ded66",
+    "32f654e7a58b",
+    "a0d00403ad7a",
+    "29ab67d3ec59",
+    "2fab97d34a2a"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-11-13",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+     "sources": 2,
+     "score": 58,
+     "event_id": "117b4062144e",
+     "links": [
+      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "sources": 1,
+     "score": 46,
+     "event_id": "687e9adaf6fb",
+     "links": [
+      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+     "sources": 5,
+     "score": 81,
+     "event_id": "887fb7f3bbc2",
+     "links": [
+      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
+      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+     "sources": 1,
+     "score": 46,
+     "event_id": "730942a6039b",
+     "links": [
+      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
+     "sources": 2,
+     "score": 55,
+     "event_id": "648eebb8b0ed",
+     "links": [
+      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+     "sources": 1,
+     "score": 45,
+     "event_id": "b795c1289008",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b4bda24af3f5",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "NASA Adds New Science Investigations for Moon Base",
+     "sources": 1,
+     "score": 41,
+     "event_id": "a2c974f2ab73",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
+     "sources": 1,
+     "score": 44,
+     "event_id": "af69ac084ec6",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Artemis II Crew Moon Photo Annotations",
+     "sources": 3,
+     "score": 53,
+     "event_id": "2dc282f1df7a",
+     "links": [
+      "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
+      "https://www.nature.com/articles/d41586-026-03197-7",
+      "https://phys.org/news/2026-10-artemis-ii-crew-moon-photo.html"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+     "sources": 1,
+     "score": 42,
+     "event_id": "2d1ff4fb2acc",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+      "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+     "sources": 1,
+     "score": 43,
+     "event_id": "f33a490284d9",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
+      "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
+     "sources": 1,
+     "score": 46,
+     "event_id": "f57fd11d1f5b",
+     "links": [
+      "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
+      "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b85bd3d3a0d8",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+      "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+     "sources": 1,
+     "score": 44,
+     "event_id": "dc7b54e8c00a",
+     "links": [
+      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+     "sources": 2,
+     "score": 52,
+     "event_id": "b9bfb014cb61",
+     "links": [
+      "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+      "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+     "sources": 1,
+     "score": 45,
+     "event_id": "550aa79730b3",
+     "links": [
+      "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
+      "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Scientists Don't Know How Mars Acquired Its Two Moons. Japan Just Launched a Historic Space Mission That Will Fetch Samples to Find Out",
+     "sources": 2,
+     "score": 52,
+     "event_id": "d5370f4ea3de",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/scientists-dont-know-how-mars-acquired-its-two-moons-japan-just-launched-a-historic-space-mission-that-will-fetch-samples-to-find-out-180989713/",
+      "https://phys.org/news/2026-10-japan-world-mission-moon-mars.html"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+     "sources": 1,
+     "score": 45,
+     "event_id": "eb8ae8da944a",
+     "links": [
+      "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+      "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+     "sources": 1,
+     "score": 50,
+     "event_id": "7e9b86a23e3d",
+     "links": [
+      "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+      "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "The United Kingdom Is Launching Giant Claws Into Orbit to Clean Up Space Junk. You Can Help Name the First-of-Its-Kind Mission",
+     "sources": 1,
+     "score": 41,
+     "event_id": "0d0d39349f2d",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/the-united-kingdom-is-launching-giant-claws-into-orbit-to-clean-up-space-junk-you-can-help-name-the-first-of-its-kind-mission-180989755/"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+     "sources": 1,
+     "score": 45,
+     "event_id": "d20dd0f99f28",
+     "links": [
+      "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "After Observing the Sky for 22 Years, a Beloved NASA Space Telescope Is Expected to Meet a Fiery Death This Week",
+     "sources": 1,
+     "score": 44,
+     "event_id": "55107ad46021",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/after-observing-the-sky-for-22-years-a-beloved-nasa-space-telescope-is-expected-to-meet-a-fiery-death-this-week-180989796/"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+     "sources": 1,
+     "score": 46,
+     "event_id": "2e62bc2ded66",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+     "sources": 1,
+     "score": 45,
+     "event_id": "32f654e7a58b",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+      "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "China Announces a Plan to Put Astronauts on the Moon by 2030, Revealing Details of Four Upcoming Missions",
+     "sources": 1,
+     "score": 40,
+     "event_id": "a0d00403ad7a",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/china-announces-a-plan-to-put-astronauts-on-the-moon-by-2030-revealing-details-of-four-upcoming-missions-180989810/"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Stolen During the Nazi Occupation of Orléans, France, This Painting Was Rediscovered After 86 Years With Help From Wild West-Inspired 'Wanted' Posters",
+     "sources": 1,
+     "score": 43,
+     "event_id": "29ab67d3ec59",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/stolen-during-the-nazi-occupation-of-orleans-france-this-painting-was-rediscovered-after-86-years-with-help-from-wild-west-inspired-wanted-posters-180989839/"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "German Renaissance Master Albrecht Altdorfer Pioneered Landscape Painting. A Work Previously Unknown to Scholars Just Emerged After 70 Years in a Private Collection",
+     "sources": 1,
+     "score": 46,
+     "event_id": "2fab97d34a2a",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/german-renaissance-master-albrecht-altdorfer-pioneered-landscape-painting-a-work-previously-unknown-to-scholars-just-emerged-after-70-years-in-a-private-collection-180989861/",
+      "https://www.smithsonianmag.com/smithsonian-institution/the-national-portrait-gallery-wasnt-allowed-to-acquire-photographs-when-it-opened-in-1968-fifty-years-later-the-smithsonian-museums-collection-has-grown-to-11000-photos-and-counting-180989823/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "388c180a1aec",
    "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
    "section": "tech",
@@ -3511,6 +4389,71 @@
       "https://www.france24.com/en/video/20261113-microsoft-faces-a-major-outlook-outage-no-signs-of-a-cyberattack",
       "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
       "https://twitter.com/MSFT365Status/status/2121079061774491735"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "16c67f2bd64e",
+   "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+   "section": "world",
+   "entities": [
+    "ukraine",
+    "starshield",
+    "russian"
+   ],
+   "event_ids": [
+    "16c67f2bd64e",
+    "9bdb34782c42",
+    "e3ad0edaa630",
+    "0d3c69cac347"
+   ],
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-11-13",
+   "timeline": [
+    {
+     "date": "2026-10-08",
+     "headline": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+     "sources": 5,
+     "score": 80,
+     "event_id": "16c67f2bd64e",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
+      "https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+     "sources": 2,
+     "score": 46,
+     "event_id": "9bdb34782c42",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+      "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Russian attack on Ukraine busses part of 'a steady increase in attacks on civilians'",
+     "sources": 2,
+     "score": 42,
+     "event_id": "e3ad0edaa630",
+     "links": [
+      "https://www.france24.com/en/video/20261008-russian-attack-on-ukraine-busses-part-of-a-steady-increase-in-attacks-on-civilians",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0d3c69cac347",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+      "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss"
      ]
     }
    ]
@@ -11009,383 +11952,6 @@
    ]
   },
   {
-   "id": "117b4062144e",
-   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-   "section": "science",
-   "entities": [
-    "rediscovered",
-    "help",
-    "dish",
-    "partners",
-    "years",
-    "telescope",
-    "testing",
-    "posters",
-    "missions",
-    "launched",
-    "samples",
-    "beloved",
-    "advance",
-    "giant",
-    "space",
-    "mission",
-    "west-inspired",
-    "origin",
-    "research",
-    "nasa",
-    "expected",
-    "france",
-    "low-altitude",
-    "moon",
-    "data",
-    "awards",
-    "announces",
-    "week",
-    "send",
-    "plan",
-    "first-of-its-kind",
-    "satellite",
-    "experimental",
-    "revealing",
-    "painting",
-    "ka-band",
-    "event",
-    "relay",
-    "stolen",
-    "occupation"
-   ],
-   "event_ids": [
-    "117b4062144e",
-    "687e9adaf6fb",
-    "887fb7f3bbc2",
-    "730942a6039b",
-    "648eebb8b0ed",
-    "b795c1289008",
-    "b4bda24af3f5",
-    "a2c974f2ab73",
-    "af69ac084ec6",
-    "2dc282f1df7a",
-    "2d1ff4fb2acc",
-    "f33a490284d9",
-    "f57fd11d1f5b",
-    "b85bd3d3a0d8",
-    "dc7b54e8c00a",
-    "b9bfb014cb61",
-    "550aa79730b3",
-    "d5370f4ea3de",
-    "eb8ae8da944a",
-    "7e9b86a23e3d",
-    "0d0d39349f2d",
-    "d20dd0f99f28",
-    "55107ad46021",
-    "2e62bc2ded66",
-    "32f654e7a58b",
-    "a0d00403ad7a",
-    "29ab67d3ec59"
-   ],
-   "first_seen": "2026-08-29",
-   "last_seen": "2026-11-09",
-   "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-     "sources": 2,
-     "score": 58,
-     "event_id": "117b4062144e",
-     "links": [
-      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
-      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-     "sources": 1,
-     "score": 46,
-     "event_id": "687e9adaf6fb",
-     "links": [
-      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
-      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-     "sources": 5,
-     "score": 81,
-     "event_id": "887fb7f3bbc2",
-     "links": [
-      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
-      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
-      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-     "sources": 1,
-     "score": 46,
-     "event_id": "730942a6039b",
-     "links": [
-      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
-     "sources": 2,
-     "score": 55,
-     "event_id": "648eebb8b0ed",
-     "links": [
-      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-     "sources": 1,
-     "score": 45,
-     "event_id": "b795c1289008",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b4bda24af3f5",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
-      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "NASA Adds New Science Investigations for Moon Base",
-     "sources": 1,
-     "score": 41,
-     "event_id": "a2c974f2ab73",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
-      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
-     "sources": 1,
-     "score": 44,
-     "event_id": "af69ac084ec6",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Artemis II Crew Moon Photo Annotations",
-     "sources": 3,
-     "score": 53,
-     "event_id": "2dc282f1df7a",
-     "links": [
-      "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
-      "https://www.nature.com/articles/d41586-026-03197-7",
-      "https://phys.org/news/2026-10-artemis-ii-crew-moon-photo.html"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
-     "sources": 1,
-     "score": 42,
-     "event_id": "2d1ff4fb2acc",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
-      "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-     "sources": 1,
-     "score": 43,
-     "event_id": "f33a490284d9",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
-      "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
-     "sources": 1,
-     "score": 46,
-     "event_id": "f57fd11d1f5b",
-     "links": [
-      "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
-      "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b85bd3d3a0d8",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
-      "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-     "sources": 1,
-     "score": 44,
-     "event_id": "dc7b54e8c00a",
-     "links": [
-      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-     "sources": 2,
-     "score": 52,
-     "event_id": "b9bfb014cb61",
-     "links": [
-      "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-      "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-     "sources": 1,
-     "score": 45,
-     "event_id": "550aa79730b3",
-     "links": [
-      "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
-      "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Scientists Don't Know How Mars Acquired Its Two Moons. Japan Just Launched a Historic Space Mission That Will Fetch Samples to Find Out",
-     "sources": 2,
-     "score": 52,
-     "event_id": "d5370f4ea3de",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/scientists-dont-know-how-mars-acquired-its-two-moons-japan-just-launched-a-historic-space-mission-that-will-fetch-samples-to-find-out-180989713/",
-      "https://phys.org/news/2026-10-japan-world-mission-moon-mars.html"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-     "sources": 1,
-     "score": 45,
-     "event_id": "eb8ae8da944a",
-     "links": [
-      "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-      "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-     "sources": 1,
-     "score": 50,
-     "event_id": "7e9b86a23e3d",
-     "links": [
-      "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-      "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
-     ]
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "The United Kingdom Is Launching Giant Claws Into Orbit to Clean Up Space Junk. You Can Help Name the First-of-Its-Kind Mission",
-     "sources": 1,
-     "score": 41,
-     "event_id": "0d0d39349f2d",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/the-united-kingdom-is-launching-giant-claws-into-orbit-to-clean-up-space-junk-you-can-help-name-the-first-of-its-kind-mission-180989755/"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-     "sources": 1,
-     "score": 45,
-     "event_id": "d20dd0f99f28",
-     "links": [
-      "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-      "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "After Observing the Sky for 22 Years, a Beloved NASA Space Telescope Is Expected to Meet a Fiery Death This Week",
-     "sources": 1,
-     "score": 44,
-     "event_id": "55107ad46021",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/after-observing-the-sky-for-22-years-a-beloved-nasa-space-telescope-is-expected-to-meet-a-fiery-death-this-week-180989796/"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-     "sources": 1,
-     "score": 46,
-     "event_id": "2e62bc2ded66",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-      "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-     "sources": 1,
-     "score": 45,
-     "event_id": "32f654e7a58b",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-      "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "China Announces a Plan to Put Astronauts on the Moon by 2030, Revealing Details of Four Upcoming Missions",
-     "sources": 1,
-     "score": 40,
-     "event_id": "a0d00403ad7a",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/china-announces-a-plan-to-put-astronauts-on-the-moon-by-2030-revealing-details-of-four-upcoming-missions-180989810/"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Stolen During the Nazi Occupation of Orléans, France, This Painting Was Rediscovered After 86 Years With Help From Wild West-Inspired 'Wanted' Posters",
-     "sources": 1,
-     "score": 43,
-     "event_id": "29ab67d3ec59",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/stolen-during-the-nazi-occupation-of-orleans-france-this-painting-was-rediscovered-after-86-years-with-help-from-wild-west-inspired-wanted-posters-180989839/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "46d1d18cff81",
    "title": "Parrott fires Real Betis to win over Real Madrid",
    "section": "sport",
@@ -17128,482 +17694,6 @@
    ]
   },
   {
-   "id": "87d62c77d066",
-   "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-   "section": "world",
-   "entities": [
-    "president",
-    "police",
-    "other",
-    "behind",
-    "found",
-    "were",
-    "thousands",
-    "widely",
-    "huge",
-    "paintings",
-    "hidden",
-    "decoder",
-    "used",
-    "lithuania",
-    "greenland",
-    "nato",
-    "tracking",
-    "smoking",
-    "curfews",
-    "near",
-    "gulf",
-    "renoir",
-    "red's",
-    "nice",
-    "french",
-    "python",
-    "affects",
-    "flaw",
-    "young",
-    "software",
-    "stolen",
-    "norse",
-    "case",
-    "vehicle",
-    "brotli",
-    "wall",
-    "searching",
-    "evidence",
-    "european",
-    "danish"
-   ],
-   "event_ids": [
-    "87d62c77d066",
-    "16c614175ff1",
-    "5847bd600354",
-    "4f89836c1215",
-    "5650625ff0c7",
-    "3263aff4ed39",
-    "bfa030f1f411",
-    "cf6d90b7d356",
-    "0d0ab2de5779",
-    "acfbda7677cf",
-    "a1317b4ff430",
-    "cd28012b247a",
-    "b814a960e804",
-    "9e39130e88dd",
-    "72b1b0ac47d8",
-    "f74700a0c5c1",
-    "0ff76c15106b",
-    "ced850850efe",
-    "d09e5296340e",
-    "f24475a74667",
-    "721ce071533c",
-    "60c1d204b2f8",
-    "fef1e2c2f502",
-    "8d083b78259a",
-    "55d19e02d108",
-    "7531210b2282",
-    "00df4663cdd8",
-    "a7f7b3a35939",
-    "7604d8c4829b",
-    "480c4c18560b",
-    "c55f6bb1af02",
-    "643456b192e6",
-    "15f3ecd91311",
-    "a0a9e49aec28"
-   ],
-   "first_seen": "2026-09-15",
-   "last_seen": "2026-10-24",
-   "timeline": [
-    {
-     "date": "2026-09-15",
-     "headline": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "87d62c77d066",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
-      "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
-      "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-     "sources": 3,
-     "score": 66,
-     "event_id": "16c614175ff1",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
-      "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
-      "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
-     "sources": 3,
-     "score": 54,
-     "event_id": "5847bd600354",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260918-replay-macron-orders-plan-to-counter-russian-hybrid-attacks"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
-     "sources": 1,
-     "score": 42,
-     "event_id": "4f89836c1215",
-     "links": [
-      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
-      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
-      "https://www.france24.com/en/video/20260918-france-s-macron-summons-party-leaders-for-talks-on-mideast-and-ukraine"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo visits France for first papal visit in 18 years – Europe live",
-     "sources": 3,
-     "score": 68,
-     "event_id": "5650625ff0c7",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
-      "https://www.france24.com/en/replay-pope-leo-xiv-arrives-in-france-for-four-day-visit",
-      "https://www.france24.com/en/pope-leo-xiv-s-france-visit-puts-macron-in-diplomatic-balancing-act"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "'Pope fever' takes hold as Pope Leo visits France",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3263aff4ed39",
-     "links": [
-      "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260924-pope-leo-in-france-huge-amount-of-excitement-building-in-paris"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo XIV begins four-day pilgrimage to France",
-     "sources": 2,
-     "score": 58,
-     "event_id": "bfa030f1f411",
-     "links": [
-      "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-begins-paris-diplomacy-at-the-%C3%A9lys%C3%A9e",
-      "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-     "sources": 4,
-     "score": 65,
-     "event_id": "cf6d90b7d356",
-     "links": [
-      "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-     "sources": 2,
-     "score": 44,
-     "event_id": "0d0ab2de5779",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
-      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
-     "sources": 1,
-     "score": 41,
-     "event_id": "acfbda7677cf",
-     "links": [
-      "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
-      "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Thousands turn out to greet Pope in France",
-     "sources": 4,
-     "score": 76,
-     "event_id": "a1317b4ff430",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
-      "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
-     "sources": 2,
-     "score": 42,
-     "event_id": "cd28012b247a",
-     "links": [
-      "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
-      "https://www.france24.com/en/france-pope-says-authentic-secularity-does-not-exclude-religion"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Paris: Pope Leo XIV to celebrate Mass before huge crowd",
-     "sources": 2,
-     "score": 64,
-     "event_id": "b814a960e804",
-     "links": [
-      "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/pope-leo-set-for-largest-event-of-france-tour-as-paris-crowds-swell",
-      "https://www.france24.com/en/video/20260926-pope-leo-xiv-to-celebrate-giant-paris-mass-after-peace-appeal"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Huge crowds greet Pope in Paris for open-air Mass",
-     "sources": 3,
-     "score": 67,
-     "event_id": "9e39130e88dd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
-     "sources": 3,
-     "score": 61,
-     "event_id": "72b1b0ac47d8",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
-      "https://www.france24.com/en/france/20260926-a-once-in-a-lifetime-event-faithful-and-curious-flock-to-pope-leo-xiv-s-mass-in-paris",
-      "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
-     "sources": 2,
-     "score": 43,
-     "event_id": "f74700a0c5c1",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
-      "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
-     "sources": 2,
-     "score": 41,
-     "event_id": "0ff76c15106b",
-     "links": [
-      "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
-      "https://www.france24.com/en/france/20260927-live-pope-leo-xiv-to-hold-open-air-mass-in-lourdes-pilgrimage-site"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "🔴Follow live: France's Macron, Pope Leo XIV speak on European unity in Metz",
-     "sources": 1,
-     "score": 40,
-     "event_id": "ced850850efe",
-     "links": [
-      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit",
-      "https://www.france24.com/en/video/20260928-pope-to-speak-on-european-unity-on-last-day-of-france-visit",
-      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "Pope wraps up 'hugely successful' France visit with Metz speech",
-     "sources": 1,
-     "score": 47,
-     "event_id": "d09e5296340e",
-     "links": [
-      "https://www.france24.com/en/video/20260928-pope-wraps-up-hugely-successful-france-visit-with-metz-speech",
-      "https://www.france24.com/en/video/20260928-replay-pope-urges-peace-and-unity-in-europe-on-final-day-of-france-visit",
-      "https://www.france24.com/en/video/20260928-replay-france-s-macron-speaks-on-european-union-as-pope-visits-metz"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "Pope Leo to speak on EU integration from French border town of Metz",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f24475a74667",
-     "links": [
-      "https://www.france24.com/en/france/20260928-pope-to-speak-on-united-eu-from-french-border-town",
-      "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "French high school protests continue despite PM’s promise of action – Europe live",
-     "sources": 2,
-     "score": 42,
-     "event_id": "721ce071533c",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
-      "https://www.france24.com/en/video/20261008-school-protests-part-of-a-broader-french-malaise"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "France: Police clash with protesters at Paris student rally",
-     "sources": 2,
-     "score": 41,
-     "event_id": "60c1d204b2f8",
-     "links": [
-      "https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Two Recently Stolen Renoir Paintings Were Found Hidden Behind a Cinderblock Wall. French Police Used DNA Evidence and Vehicle Tracking to Crack the Case",
-     "sources": 1,
-     "score": 44,
-     "event_id": "fef1e2c2f502",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/two-recently-stolen-renoir-paintings-were-found-hidden-behind-a-cinderblock-wall-french-police-used-dna-evidence-and-vehicle-tracking-to-crack-the-case-180989678/"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "France: Police and protesters clash in nationwide protests",
-     "sources": 2,
-     "score": 42,
-     "event_id": "8d083b78259a",
-     "links": [
-      "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "Macron calls for 'calm and order' after riots across France",
-     "sources": 2,
-     "score": 47,
-     "event_id": "55d19e02d108",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "7531210b2282",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-      "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Macron slams 'failures' over protest unrest in France but refuses interior minister's resignation",
-     "sources": 2,
-     "score": 45,
-     "event_id": "00df4663cdd8",
-     "links": [
-      "https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/tv-shows/perspective/20261019-france-has-to-assist-gulf-states-diplomat-says-as-macron-makes-three-day-visit"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "France: Curfews issued in Paris, Nice after unrest",
-     "sources": 2,
-     "score": 41,
-     "event_id": "a7f7b3a35939",
-     "links": [
-      "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf",
-      "https://www.atlasobscura.com/places/chapel-of-expiation"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-     "sources": 2,
-     "score": 47,
-     "event_id": "7604d8c4829b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "France curfews calm unrest as Macron faces criticism over Gulf trip",
-     "sources": 2,
-     "score": 40,
-     "event_id": "480c4c18560b",
-     "links": [
-      "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Archaeologists Searching for Evidence of a Norse Church in Greenland Have Found 'the Smoking Gun' Near Erik the Red's Settlement",
-     "sources": 1,
-     "score": 41,
-     "event_id": "c55f6bb1af02",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/archaeologists-searching-for-evidence-of-a-norse-church-in-greenland-have-found-the-smoking-gu-near-erik-the-reds-settlement-180989716/"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Macron accuses foreign leaders of exploiting French riots",
-     "sources": 3,
-     "score": 56,
-     "event_id": "643456b192e6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-      "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "French protests: President Emmanuel Macron meets student unions representatives",
-     "sources": 2,
-     "score": 51,
-     "event_id": "15f3ecd91311",
-     "links": [
-      "https://www.france24.com/en/french-protests-president-emmanuel-macron-meets-student-unions-representatives",
-      "https://www.france24.com/en/major-protests-in-france-macron-convenes-student-representatives",
-      "https://www.theguardian.com/travel/2026/may/24/the-return-of-frances-train-of-marvels-from-the-cote-dazur-to-the-southern-french-alps"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-     "sources": 1,
-     "score": 44,
-     "event_id": "a0a9e49aec28",
-     "links": [
-      "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html"
-     ]
-    }
-   ]
-  },
-  {
    "id": "a8e59462be15",
    "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
    "section": "sport",
@@ -19543,58 +19633,6 @@
       "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
       "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "16c67f2bd64e",
-   "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
-   "section": "world",
-   "entities": [
-    "russian",
-    "ukraine"
-   ],
-   "event_ids": [
-    "16c67f2bd64e",
-    "9bdb34782c42",
-    "e3ad0edaa630"
-   ],
-   "first_seen": "2026-10-08",
-   "last_seen": "2026-10-08",
-   "timeline": [
-    {
-     "date": "2026-10-08",
-     "headline": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
-     "sources": 5,
-     "score": 80,
-     "event_id": "16c67f2bd64e",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
-      "https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
-     "sources": 2,
-     "score": 46,
-     "event_id": "9bdb34782c42",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
-      "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Russian attack on Ukraine busses part of 'a steady increase in attacks on civilians'",
-     "sources": 2,
-     "score": 42,
-     "event_id": "e3ad0edaa630",
-     "links": [
-      "https://www.france24.com/en/video/20261008-russian-attack-on-ukraine-busses-part-of-a-steady-increase-in-attacks-on-civilians",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss"
      ]
     }
    ]
@@ -22858,5 +22896,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T12:24:30+00:00"
+ "updated": "2026-11-13T15:18:29+00:00"
 }

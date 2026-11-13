@@ -167,7 +167,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL
   2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?
   2026-10-30  (2 zdrojů, síla 42)  Chelsea vs Manchester United: Premier League – teams, prediction, lineups
   2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
@@ -187,6 +186,7 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-11-12  (2 zdrojů, síla 43)  Man Utd open talks with Pochettino about replacing Carrick
   2026-11-12  (2 zdrojů, síla 42)  Manchester United sacked manager Michael Carrick
   2026-11-13  (2 zdrojů, síla 45)  Nations League: Italy roar back to beat France despite Donnarumma’s early howler
+  2026-11-13  (2 zdrojů, síla 41)  Manchester United names USMNT coach Mauricio Pochettino as its manager
 ```
 
 ### 2. What has actually changed: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
@@ -196,7 +196,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 ```
 VLÁKNO: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
-  2026-11-10  (2 zdrojů, síla 41)  Nvidia has a Jensen Huang problem—and no obvious successor
   2026-11-10  (7 zdrojů, síla 83)  Nvidia hires major New York law firm to investigate Jensen Huang affair
   2026-11-11  (1 zdrojů, síla 46)  Amid Nvidia saga, T-Head IPO a crucial test for Alibaba – and China’s AI ambitions
   2026-11-11  (3 zdrojů, síla 52)  Nvidia hires leading US law firm to investigate Jensen Huang’s relationship
@@ -216,6 +215,7 @@ rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
   2026-11-13  (7 zdrojů, síla 81)  US Senate asks Huang, Lutnick to testify on Nvidia
   2026-11-13  (3 zdrojů, síla 62)  Nvidia scandal: Was Alice Huang really a Chinese spy?
   2026-11-13  (4 zdrojů, síla 58)  Let’s talk about Jensen Huang’s many affairs!
+  2026-11-13  (6 zdrojů, síla 79)  What’s really at stake in the Jensen Huang saga
 ```
 
 ---
