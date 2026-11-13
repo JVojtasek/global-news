@@ -23,7 +23,6 @@ Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **59**.
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 95 dní · 60 záznamů
 - časová osa:
-  - **2026-11-12** (11 zdrojů) Watch: The latest in the Jensen Huang Nvidia scandal
   - **2026-11-12** (2 zdrojů) Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?
   - **2026-11-12** (10 zdrojů) Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
   - **2026-11-12** (6 zdrojů) Jensen Huang has resigned, what's next for Nvidia?
@@ -33,6 +32,7 @@ Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **59**.
   - **2026-11-13** (3 zdrojů) Nvidia scandal: Was Alice Huang really a Chinese spy?
   - **2026-11-13** (4 zdrojů) Let’s talk about Jensen Huang’s many affairs!
   - **2026-11-13** (6 zdrojů) What’s really at stake in the Jensen Huang saga
+  - **2026-11-13** (4 zdrojů) Jensen Huang was reckless with the environment, too
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 96 dní · 60 záznamů

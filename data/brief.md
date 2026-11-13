@@ -196,7 +196,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 ```
 VLÁKNO: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
-  2026-11-10  (7 zdrojů, síla 83)  Nvidia hires major New York law firm to investigate Jensen Huang affair
   2026-11-11  (1 zdrojů, síla 46)  Amid Nvidia saga, T-Head IPO a crucial test for Alibaba – and China’s AI ambitions
   2026-11-11  (3 zdrojů, síla 52)  Nvidia hires leading US law firm to investigate Jensen Huang’s relationship
   2026-11-11  (4 zdrojů, síla 67)  Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal
@@ -216,6 +215,7 @@ rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
   2026-11-13  (3 zdrojů, síla 62)  Nvidia scandal: Was Alice Huang really a Chinese spy?
   2026-11-13  (4 zdrojů, síla 58)  Let’s talk about Jensen Huang’s many affairs!
   2026-11-13  (6 zdrojů, síla 79)  What’s really at stake in the Jensen Huang saga
+  2026-11-13  (4 zdrojů, síla 62)  Jensen Huang was reckless with the environment, too
 ```
 
 ---
