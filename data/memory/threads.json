@@ -896,46 +896,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "reward",
+    "hackers",
+    "cnbc",
+    "assets",
+    "t-head",
+    "nvidia",
+    "chinese",
+    "cyberattacks",
+    "face",
+    "lutnick",
+    "amid",
+    "drove",
+    "alice",
+    "senate",
+    "scandal-hit",
+    "megaspeed",
+    "steal",
+    "kleinman",
+    "goodfire",
+    "access",
+    "undone",
+    "security",
+    "york",
+    "data",
+    "silicon",
+    "nvidia's",
+    "labs",
     "alibaba",
     "hegseth",
-    "labs",
-    "undone",
-    "jensen",
-    "cyberattack",
-    "security",
-    "steal",
-    "trump",
-    "hackers",
-    "scandal-hit",
-    "face",
-    "assets",
-    "york",
-    "beijing",
     "qubole's",
-    "huang",
-    "data",
-    "chinese",
-    "silicon",
-    "lutnick",
-    "kleinman",
-    "trusted",
     "unexpected",
-    "access",
-    "nvidia's",
-    "asia",
-    "drove",
+    "cyberattack",
     "valley",
-    "t-head",
-    "senate",
-    "cnbc",
-    "exploit",
-    "goodfire",
     "suffers",
-    "cyberattacks",
     "china",
-    "megaspeed",
-    "amid"
+    "huang",
+    "reward",
+    "trump",
+    "jensen",
+    "trusted",
+    "exploit"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -1002,35 +1002,13 @@
     "a071c05d950f",
     "ea7faee11632",
     "3b9e89cb89a2",
-    "15ca2a489eb0"
+    "15ca2a489eb0",
+    "7365ab1251eb",
+    "71dad9da95c2"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-13",
    "timeline": [
-    {
-     "date": "2026-08-26",
-     "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
-     "sources": 6,
-     "score": 73,
-     "event_id": "b392bbbec1f4",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
-      "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-     ]
-    },
-    {
-     "date": "2026-08-27",
-     "headline": "OpenAI says it detected malign activity months before Hugging Face attack",
-     "sources": 3,
-     "score": 52,
-     "event_id": "bd2de1c640b6",
-     "links": [
-      "https://www.aljazeera.com/economy/2026/8/27/openai-says-it-detected-malign-activity-months-before-hugging-face-attack?traffic_source=rss",
-      "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia"
-     ]
-    },
     {
      "date": "2026-08-27",
      "headline": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
@@ -1708,6 +1686,30 @@
       "https://www.theguardian.com/technology/2026/nov/13/a-baffling-trail-from-australia-to-singapore-what-is-megaspeed-the-company-implicated-in-downfall-of-nvidias-jensen-huang",
       "https://www.theguardian.com/politics/audio/2026/nov/13/why-the-nvidia-scandal-is-bad-for-trump-podcast"
      ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Nvidia scandal: Was Alice Huang really a Chinese spy?",
+     "sources": 3,
+     "score": 62,
+     "event_id": "7365ab1251eb",
+     "links": [
+      "https://www.france24.com/en/video/20261113-nvidia-scandal-was-alice-huang-really-a-chinese-spy",
+      "https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html",
+      "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Let’s talk about Jensen Huang’s many affairs!",
+     "sources": 4,
+     "score": 58,
+     "event_id": "71dad9da95c2",
+     "links": [
+      "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "https://www.france24.com/en/tv-shows/press-review/20261113-it-s-game-over-for-jensen-huang-king-of-ai-chips"
+     ]
     }
    ]
   },
@@ -1716,45 +1718,45 @@
    "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
    "section": "world",
    "entities": [
-    "united",
-    "world's",
-    "canada",
-    "ocean",
-    "merz",
-    "russia",
-    "american",
-    "asia",
-    "largest",
-    "florida",
-    "reef",
-    "ukrainian",
-    "designed",
-    "artificial",
-    "finally",
-    "unsinkable",
-    "states",
-    "kherson",
-    "germany",
-    "bringing",
-    "andrew",
-    "iran's",
-    "melania",
-    "liner",
-    "death",
-    "poland",
-    "trump",
-    "president",
-    "removals",
-    "vladimir",
-    "saudi",
-    "audi",
-    "audi's",
-    "modi",
     "gulf",
-    "ukraine",
+    "iran's",
+    "removals",
+    "liner",
     "floor",
+    "germany",
+    "states",
+    "world's",
+    "artificial",
+    "president",
+    "merz",
+    "ocean",
     "hits",
     "blackouts",
+    "ukraine",
+    "canada",
+    "audi's",
+    "largest",
+    "asia",
+    "florida",
+    "kherson",
+    "saudi",
+    "melania",
+    "finally",
+    "vladimir",
+    "unsinkable",
+    "audi",
+    "andrew",
+    "united",
+    "bringing",
+    "death",
+    "trump",
+    "designed",
+    "poland",
+    "ukrainian",
+    "second",
+    "reef",
+    "russia",
+    "modi",
     "beijing"
    ],
    "event_ids": [
@@ -1934,22 +1936,12 @@
     "cf75f49855a7",
     "393e0d6d578a",
     "e8d0b12d49fa",
-    "e80f306174d8"
+    "e80f306174d8",
+    "01a0b2bd69c3"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-11-13",
    "timeline": [
-    {
-     "date": "2026-10-10",
-     "headline": "Germany sticks to Russia sanctions after Trump diesel deal",
-     "sources": 2,
-     "score": 40,
-     "event_id": "0f4ac4de3969",
-     "links": [
-      "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-10-10",
      "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
@@ -2620,6 +2612,18 @@
      "event_id": "e80f306174d8",
      "links": [
       "https://www.smithsonianmag.com/smart-news/designed-to-be-unsinkable-the-worlds-fastest-ocean-liner-finally-hits-the-ocean-floor-the-53330-ton-ss-united-states-is-now-the-worlds-largest-artificial-reef-180989866/"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Ukraine updates: Second car bomb to hit Russia in two days",
+     "sources": 3,
+     "score": 53,
+     "event_id": "01a0b2bd69c3",
+     "links": [
+      "https://www.dw.com/en/ukraine-updates-second-car-bomb-to-hit-russia-in-two-days/live-79937459?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20261113-big-development-in-peace-talks-as-ukraine-says-europe-to-join-russia-negotiations",
+      "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss"
      ]
     }
    ]
@@ -3448,15 +3452,16 @@
    "section": "tech",
    "entities": [
     "microsoft",
-    "outlook",
-    "widespread",
+    "global",
     "teams",
-    "global"
+    "widespread",
+    "outlook"
    ],
    "event_ids": [
     "388c180a1aec",
     "21e5fdddc37a",
-    "bcbd633b4283"
+    "bcbd633b4283",
+    "1f453c23fb51"
    ],
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
@@ -3494,6 +3499,18 @@
       "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
       "https://www.dw.com/en/microsoft-works-to-restore-outlook-and-teams-after-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Microsoft faces a major Outlook outage: ‘no signs of a cyberattack’",
+     "sources": 3,
+     "score": 55,
+     "event_id": "1f453c23fb51",
+     "links": [
+      "https://www.france24.com/en/video/20261113-microsoft-faces-a-major-outlook-outage-no-signs-of-a-cyberattack",
+      "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+      "https://twitter.com/MSFT365Status/status/2121079061774491735"
      ]
     }
    ]
@@ -22841,5 +22858,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T09:20:55+00:00"
+ "updated": "2026-11-13T12:24:30+00:00"
 }

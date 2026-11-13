@@ -1404,6 +1404,64 @@
   ]
  },
  {
+  "id": "a18aa197b559",
+  "headline": "What we know so far about the Microsoft outage",
+  "section": "tech",
+  "score": 64,
+  "sources_count": 4,
+  "depth_signal": 0,
+  "created": "2026-11-13T12:24:30+00:00",
+  "event_time": "2026-11-13T11:43:27+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "What we know so far about the Microsoft outage",
+    "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+    "published_at": "2026-11-13T11:43:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   },
+   {
+    "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+    "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
+    "published_at": "2026-11-13T11:09:16+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   },
+   {
+    "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+    "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Health",
+    "summary": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
+    "published_at": "2026-11-13T11:09:16+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   },
+   {
+    "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
+    "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
+    "source": "The Guardian World",
+    "summary": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptions Microsoft outage – live updates Hospitals, GPs and police forces across the UK have been hit by the global Microsoft outage, as key services battle to get systems back online. Police forces across the country reported that their systems had been affected, while NHS sources said th",
+    "published_at": "2026-11-13T10:11:39+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   },
+   {
+    "title": "Live: Microsoft struggles to restore services as outage hits global users",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "As disruption affects users worldwide, Microsoft admits fixes are not going 'as expected'.",
+    "published_at": "2026-11-13T11:18:01+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   }
+  ]
+ },
+ {
   "id": "23565797d1ba",
   "headline": "Spain sees widespread disruption in first general strike for 14 years",
   "section": "world",
@@ -1511,42 +1569,51 @@
   ]
  },
  {
-  "id": "f49c000f8f8e",
-  "headline": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
-  "section": "business",
+  "id": "7365ab1251eb",
+  "headline": "Nvidia scandal: Was Alice Huang really a Chinese spy?",
+  "section": "ai",
   "score": 62,
   "sources_count": 3,
   "depth_signal": 2,
-  "created": "2026-11-10T12:23:43+00:00",
-  "event_time": "2026-11-10T10:28:47+00:00",
+  "created": "2026-11-13T12:24:30+00:00",
+  "event_time": "2026-11-13T12:02:05+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
-    "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
-    "source": "Guardian Business",
-    "summary": "Brent crude drops below $90 and markets climb after president downplays prospect of further strikes Business live – latest updates Oil prices have fallen to the lowest level since late August while stock markets climbed higher, as markets reacted with relief to Donald Trump saying that the war on Iran is “effectively over” . Brent crude, the global oil benchmark, fell nearly 3% to $89.66, the lowe",
-    "published_at": "2026-11-10T10:28:47+00:00",
+    "title": "Nvidia scandal: Was Alice Huang really a Chinese spy?",
+    "url": "https://www.france24.com/en/video/20261113-nvidia-scandal-was-alice-huang-really-a-chinese-spy",
+    "source": "France 24",
+    "summary": "It is another twist in the downfall of Jensen Huang, CEO of AI chip giant Nvidia, who resigned on Thursday. The US Justice Department says it has not yet reached a conclusion on whether Alice Huang, the Chinese businesswoman he had an affair with, was a spy. CNN is also reporting sources from across the US intelligence community who say there is no definitive proof she was an intelligence asset fo",
+    "published_at": "2026-11-13T12:02:05+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
+    "seen_at": "2026-11-13T12:24:27+00:00"
    },
    {
-    "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
-    "url": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "Analysts say Trump’s comments are more likely to be political posturing than a reflection of serious policy priorities.",
-    "published_at": "2026-11-10T11:52:34+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   },
-   {
-    "title": "Brent crude falls below $90 for first time since August on Iran war de-escalation hopes",
-    "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
+    "title": "The Tech Download: I interviewed Huang at peak ‘Jensenmania.’ Three weeks later, Nvidia is grappling with a world without him",
+    "url": "https://www.cnbc.com/2026/11/13/tech-download-jensen-huang-nvidia-departure-jensenmania.html",
     "source": "CNBC Top",
-    "summary": "President Trump said Monday he thought the conflict was \"going to be ending fairly soon,\" but some analysts still see little chance of a lasting peace deal.",
-    "published_at": "2026-11-10T10:38:49+00:00",
+    "summary": "CNBC's Arjun Kharpal, who interviewed Huang just a few weeks ago at GTC Berlin, unpacks how everything came crashing down for the popular CEO.",
+    "published_at": "2026-11-13T12:00:02+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   },
+   {
+    "title": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
+    "url": "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout",
+    "source": "SCMP Tech (Čína)",
+    "summary": "For years, Jensen Huang was more than Nvidia’s CEO – he was a key figure driving the artificial intelligence boom, parlaying close ties with Asian chip foundries and aggressive financial backing into an unprecedented global buildout of data centres. Following his sudden resignation, the industry is confronting two immediate questions: without Huang’s personal relationships in Taiwan and South Kore",
+    "published_at": "2026-11-13T11:00:10+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   },
+   {
+    "title": "Fallout from Nvidia scandal spreads as Huang resigns",
+    "url": "https://www.france24.com/en/video/20261113-fallout-from-nvidia-scandal-spreads-as-huang-resigns",
+    "source": "France 24",
+    "summary": "Jensen Huang resigned as chief executive of Nvidia on Thursday after revelations of extramarital affairs, including one with a woman accused of spying for China. The news wiped 4.3% of Nvidia’s share price by closing bell Thursday, while the scandal has also raised concerns over security in the United States, with the spotlight falling on US Commerce Secretary Howard Lutnick.",
+    "published_at": "2026-11-13T10:56:22+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
    }
   ]
  },
@@ -1671,42 +1738,51 @@
   ]
  },
  {
-  "id": "fc17e32685e9",
-  "headline": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
+  "id": "71dad9da95c2",
+  "headline": "Let’s talk about Jensen Huang’s many affairs!",
   "section": "ai",
-  "score": 57,
-  "sources_count": 3,
+  "score": 58,
+  "sources_count": 4,
   "depth_signal": 0,
-  "created": "2026-11-10T12:23:43+00:00",
-  "event_time": "2026-11-10T12:00:01+00:00",
+  "created": "2026-11-13T12:24:30+00:00",
+  "event_time": "2026-11-13T12:00:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
-    "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+    "title": "Let’s talk about Jensen Huang’s many affairs!",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+    "source": "The Verge",
+    "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]",
+    "published_at": "2026-11-13T12:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   },
+   {
+    "title": "Let’s talk about Jensen Huang’s many affairs!",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+    "source": "The Verge AI",
+    "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]",
+    "published_at": "2026-11-13T12:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   },
+   {
+    "title": "It's 'game over' for Jensen Huang, king of AI chips",
+    "url": "https://www.france24.com/en/tv-shows/press-review/20261113-it-s-game-over-for-jensen-huang-king-of-ai-chips",
+    "source": "France 24",
+    "summary": "PRESS REVIEW – Friday, November 13: We look at reactions to the resignation of Jensen Huang, the CEO of Nvidia. It comes in the wake of multiple affairs he allegedly had, including with a woman suspected of being a Chinese spy. What are the repercussions for the AI industry and for AI trade relations? Also: France's Les Bleus lose to Italy in the Nations League, marking Zinédine Zidane's first def",
+    "published_at": "2026-11-13T11:56:27+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   },
+   {
+    "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+    "url": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
     "source": "CNBC Top",
-    "summary": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
-    "published_at": "2026-11-10T12:00:01+00:00",
+    "summary": "The political climate heading into next week's Trump-Xi summit is drastically different from the last meeting in September.",
+    "published_at": "2026-11-13T02:56:35+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   },
-   {
-    "title": "US lawmakers push for tougher China export controls in defence bill amid Nvidia scrutiny",
-    "url": "https://www.scmp.com/tech/tech-war/article/3373940/us-lawmakers-push-tougher-china-export-controls-defence-bill-amid-nvidia-scrutiny",
-    "source": "SCMP Tech (Čína)",
-    "summary": "There is growing momentum to pass a slate of major new export control bills targeting China, in the wake of the Democrats’ takeover of the US Congress and scrutiny over American chip giant Nvidia following CEO Jensen Huang’s admission of an extramarital affair. US intelligence reportedly identified the woman as a Chinese spy, a claim that Beijing has rejected. Leading US politicians have been quic",
-    "published_at": "2026-11-10T11:30:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   },
-   {
-    "title": "Nvidia spy scandal fuels debate over chip exports to China",
-    "url": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO's relationship with alleged spy.",
-    "published_at": "2026-11-10T09:42:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
+    "seen_at": "2026-11-13T12:24:27+00:00"
    }
   ]
  },
@@ -1987,6 +2063,46 @@
   ]
  },
  {
+  "id": "1f453c23fb51",
+  "headline": "Microsoft faces a major Outlook outage: ‘no signs of a cyberattack’",
+  "section": "tech",
+  "score": 55,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-11-13T12:24:30+00:00",
+  "event_time": "2026-11-13T10:53:41+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Microsoft faces a major Outlook outage: ‘no signs of a cyberattack’",
+    "url": "https://www.france24.com/en/video/20261113-microsoft-faces-a-major-outlook-outage-no-signs-of-a-cyberattack",
+    "source": "France 24",
+    "summary": "Microsoft said \"malicious\" activity was not to blame for an Outlook outage that left users around the world without its crucial services on Friday, November 13, but reported making headway in fixing the massive disruption. Businesses, governments and likely millions of individuals have been without services like Outlook email for over half a day, triggering wide-ranging consequences.",
+    "published_at": "2026-11-13T10:53:41+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   },
+   {
+    "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+    "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+    "source": "The Hacker News",
+    "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQL Server, 53 in Developer Tools, and 27 in SharePoint Server. The patches also include 165 non-Microsoft-issued CVE identifiers.",
+    "published_at": "2026-11-11T08:17:53+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   },
+   {
+    "title": "Microsoft Outlook/365 still down after 12 hours",
+    "url": "https://twitter.com/MSFT365Status/status/2121079061774491735",
+    "source": "Hacker News Best",
+    "summary": "Article URL: https://twitter.com/MSFT365Status/status/2121079061774491735 Comments URL: https://news.ycombinator.com/item?id=50478609 Points: 350 # Comments: 240",
+    "published_at": "2026-11-13T05:08:23+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   }
+  ]
+ },
+ {
   "id": "24a1e9f2a98d",
   "headline": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
   "section": "world",
@@ -2136,6 +2252,46 @@
     "published_at": "2026-11-11T13:18:36+00:00",
     "source_countries": [],
     "seen_at": "2026-11-11T15:18:48+00:00"
+   }
+  ]
+ },
+ {
+  "id": "01a0b2bd69c3",
+  "headline": "Ukraine updates: Second car bomb to hit Russia in two days",
+  "section": "world",
+  "score": 53,
+  "sources_count": 3,
+  "depth_signal": 0,
+  "created": "2026-11-13T12:24:30+00:00",
+  "event_time": "2026-11-13T10:00:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Ukraine updates: Second car bomb to hit Russia in two days",
+    "url": "https://www.dw.com/en/ukraine-updates-second-car-bomb-to-hit-russia-in-two-days/live-79937459?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "A second car bomb in two days exploded in Moscow, targeting an exiled Ukrainian political aide, according to Russian media. Meanwhile, Ukraine and Russia exchanged deadly strikes overnight. DW has more.",
+    "published_at": "2026-11-13T10:00:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   },
+   {
+    "title": "'Big development' in peace talks as Ukraine says Europe to join Russia negotiations",
+    "url": "https://www.france24.com/en/video/20261113-big-development-in-peace-talks-as-ukraine-says-europe-to-join-russia-negotiations",
+    "source": "France 24",
+    "summary": "Ukraine's President Volodymyr Zelensky and US envoy Jared Kushner said Thursday Europe would join the next round of talks with Russia, as Vladimir Putin indicated Moscow will not compromise on its hardline demands to end almost five years of war. Kushner and fellow envoy Steve Witkoff held over four hours of talks with Putin in the Kremlin before jetting to debrief Zelensky in Dublin. France 24's ",
+    "published_at": "2026-11-13T10:13:57+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   },
+   {
+    "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
+    "url": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push?traffic_source=rss",
+    "source": "Al Jazeera",
+    "summary": "Russia and Ukraine continue attacks as US efforts to broker a ceasefire struggle to make progress.",
+    "published_at": "2026-11-13T10:11:38+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
    }
   ]
  },
@@ -2376,46 +2532,6 @@
     "published_at": "2026-11-13T03:44:22+00:00",
     "source_countries": [],
     "seen_at": "2026-11-13T06:27:34+00:00"
-   }
-  ]
- },
- {
-  "id": "ee5eecffd745",
-  "headline": "France vows tough response to freezer cyberattack blamed on Iran",
-  "section": "world",
-  "score": 51,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-11-10T12:23:43+00:00",
-  "event_time": "2026-11-10T10:51:57+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "France vows tough response to freezer cyberattack blamed on Iran",
-    "url": "https://www.france24.com/en/video/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
-    "source": "France 24",
-    "summary": "France's Foreign Minister Jean-Noel Barrot said Tuesday, November 10, that Paris ruled out \"nothing\" to respond to a major cyberattack on hundreds of supermarket fridges in October that it has blamed on Iran. The goal, Jean-Noel Barrot told France Info, is \"to deter anyone who might be tempted, in Iran or elsewhere, to do it again\".",
-    "published_at": "2026-11-10T10:51:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   },
-   {
-    "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
-    "url": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "The French government said it is seeking tough sanctions to deter further cyberattacks across Europe.",
-    "published_at": "2026-11-10T10:51:02+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   },
-   {
-    "title": "France blames Iran for supermarket refrigerator cyberattacks, weighs sanctions",
-    "url": "https://www.cnbc.com/2026/11/10/iran-fridge-cyberattacks-france.html",
-    "source": "CNBC Top",
-    "summary": "France said the cyber unit of Iran's Islamic Revolutionary Guard Corps carried out an \"unprecedented campaign\" that caused millions of euros in damage.",
-    "published_at": "2026-11-10T09:34:24+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
    }
   ]
  },
@@ -3006,68 +3122,6 @@
   ]
  },
  {
-  "id": "23f80299712d",
-  "headline": "Borussia Dortmund's Felix Nmecha and the question of religion",
-  "section": "sport",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 2,
-  "created": "2026-11-10T12:23:43+00:00",
-  "event_time": "2026-11-10T11:12:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Borussia Dortmund's Felix Nmecha and the question of religion",
-    "url": "https://www.dw.com/en/borussia-dortmund-s-felix-nmecha-and-the-question-of-religion/a-79900432?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Felix Nmecha's \"Crowns down\" celebration has drawn criticism from a Borussia Dortmund fan club, reopening debate over faith, inclusion and religious messaging in football.",
-    "published_at": "2026-11-10T11:12:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   },
-   {
-    "title": "Felix Nmecha denies goal celebrations promote ‘intolerance, discrimination and hate’",
-    "url": "https://www.theguardian.com/football/2026/nov/10/felix-nmecha-denies-goal-celebrations-promote-intolerance-discrimination-and-hate",
-    "source": "Guardian Sport",
-    "summary": "Celebrations linked to ultra-conservative Christian group ‘Our message is of love’ Nmecha says in reply to criticism Borussia Dortmund and Germany midfielder Felix Nmecha has responded to criticism of goal celebrations linked to an evangelical network by saying they’ve been misunderstood and are not meant to promote “intolerance, discrimination, or hate in any form.” Nmecha, a devout Christian, wa",
-    "published_at": "2026-11-10T10:06:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   }
-  ]
- },
- {
-  "id": "8791ad63d4b7",
-  "headline": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-  "section": "safety",
-  "score": 46,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-11-10T12:23:43+00:00",
-  "event_time": "2026-11-10T10:04:32+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-    "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-    "source": "BleepingComputer",
-    "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
-    "published_at": "2026-11-10T10:04:32+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   },
-   {
-    "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-    "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-    "source": "The Hacker News",
-    "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with The Hacker News ahead of publication, the sophisticated and modular tool is designed for",
-    "published_at": "2026-11-10T10:07:29+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   }
-  ]
- },
- {
   "id": "05e06857ebb5",
   "headline": "Amid Nvidia saga, T-Head IPO a crucial test for Alibaba – and China’s AI ambitions",
   "section": "ai",
@@ -3370,90 +3424,6 @@
     "published_at": "2026-11-12T22:12:32+00:00",
     "source_countries": [],
     "seen_at": "2026-11-13T00:38:49+00:00"
-   }
-  ]
- },
- {
-  "id": "5643d3d7eb9e",
-  "headline": "Police officer dies and another injured after backpack explosion in Oviedo",
-  "section": "world",
-  "score": 44,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-11-10T12:23:43+00:00",
-  "event_time": "2026-11-10T11:25:46+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Police officer dies and another injured after backpack explosion in Oviedo",
-    "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC World",
-    "summary": "Officers attended the scene in connection with a separate incident at a residential building in the city.",
-    "published_at": "2026-11-10T11:25:46+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   },
-   {
-    "title": "Spain: Police officer killed in Oviedo after neighborhood dispute escalates with explosion",
-    "url": "https://www.dw.com/en/spain-police-officer-killed-in-oviedo-after-neighborhood-dispute-escalates-with-explosion/a-79907509?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "At least one officer was killed and another injured as a fight between two families became increasingly violent.",
-    "published_at": "2026-11-10T10:12:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   }
-  ]
- },
- {
-  "id": "781b498bff12",
-  "headline": "The Maya Loved Using Mercury-Rich Red Paint to Decorate Pottery, Temple Walls and Even Burials. They May Have Accidentally Poisoned Their Own Water and Food Supply in the Process",
-  "section": "culture",
-  "score": 44,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-11-10T12:23:43+00:00",
-  "event_time": "2026-11-10T12:10:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "The Maya Loved Using Mercury-Rich Red Paint to Decorate Pottery, Temple Walls and Even Burials. They May Have Accidentally Poisoned Their Own Water and Food Supply in the Process",
-    "url": "https://www.smithsonianmag.com/smart-news/the-maya-loved-to-use-mercury-rich-red-paint-to-decorate-pottery-temple-walls-and-even-burials-they-may-have-accidentally-poisoned-their-own-water-and-food-supply-in-the-process-180989851/",
-    "source": "Smithsonian Mag",
-    "summary": "Testing of ancient sediment from two lakes in Mexico's Yucatán Peninsula has revealed \"crazy\" high concentrations of mercury, as one researcher puts it, confirming findings from other regions of the Mesoamerican civilization",
-    "published_at": "2026-11-10T12:10:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   }
-  ]
- },
- {
-  "id": "ba7507c6f20e",
-  "headline": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-  "section": "safety",
-  "score": 44,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-11-10T12:23:43+00:00",
-  "event_time": "2026-11-10T10:16:51+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-    "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-    "source": "The Hacker News",
-    "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of today, other updates released yesterday for the iPhone XS, XS Max and XR, the iPad (7th generation) and some Apple",
-    "published_at": "2026-11-10T10:16:51+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   },
-   {
-    "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-    "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-    "source": "The Hacker News",
-    "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web requests from the internet and passes them on to that server. The flaws in the Web",
-    "published_at": "2026-11-10T10:02:40+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
    }
   ]
  },
@@ -4861,37 +4831,6 @@
   ]
  },
  {
-  "id": "a7ab6d555140",
-  "headline": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-  "section": "business",
-  "score": 41,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-11-10T12:23:43+00:00",
-  "event_time": "2026-11-10T11:43:06+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-    "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-    "published_at": "2026-11-10T11:43:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   },
-   {
-    "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-    "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Science",
-    "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-    "published_at": "2026-11-10T11:43:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   }
-  ]
- },
- {
   "id": "952761630128",
   "headline": "Nvidia has a Jensen Huang problem—and no obvious successor",
   "section": "tech",
@@ -6050,6 +5989,37 @@
   ]
  },
  {
+  "id": "642026de4eb8",
+  "headline": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+  "section": "business",
+  "score": 40,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-11-13T12:24:30+00:00",
+  "event_time": "2026-11-13T02:43:26+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+    "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+    "source": "CNBC Top",
+    "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+    "published_at": "2026-11-13T02:43:26+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   },
+   {
+    "title": "Premarket movers: Modine surges; Cerebras jumps on Microsoft deal",
+    "url": "https://www.investing.com/news/stock-market-news/premarket-movers-modine-surges-cerebras-jumps-on-microsoft-deal-5024934",
+    "source": "Investing.com",
+    "summary": "",
+    "published_at": "2026-11-13T11:57:05+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   }
+  ]
+ },
+ {
   "id": "06c34b210643",
   "headline": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
   "section": "science",
@@ -6404,33 +6374,33 @@
   ]
  },
  {
-  "id": "96a82aaf6b9f",
-  "headline": "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
-  "section": "world",
-  "score": 38,
-  "sources_count": 1,
+  "id": "c5f13dab1a6a",
+  "headline": "Heat pumps: How much heat does your home really need?",
+  "section": "business",
+  "score": 39,
+  "sources_count": 2,
   "depth_signal": 0,
-  "created": "2026-11-10T12:23:43+00:00",
-  "event_time": "2026-11-10T12:00:52+00:00",
+  "created": "2026-11-13T12:24:30+00:00",
+  "event_time": "2026-11-13T09:29:25+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
-    "url": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women",
-    "source": "The Guardian World",
-    "summary": "Comedian and former Britain’s Got Talent judge alleged to have groomed fans he met when they were as young as 15 and harassed women in the workplace over a number of years. He denies the allegations Continue reading...",
-    "published_at": "2026-11-10T12:00:52+00:00",
+    "title": "Heat pumps: How much heat does your home really need?",
+    "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Business",
+    "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
+    "published_at": "2026-11-13T09:29:25+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
+    "seen_at": "2026-11-13T12:24:27+00:00"
    },
    {
-    "title": "Revealed: David Walliams accused of using celebrity status to prey on young women for sex",
-    "url": "https://www.theguardian.com/tv-and-radio/2026/nov/10/david-walliams-accused-preying-on-young-women-for-sex",
-    "source": "The Guardian World",
-    "summary": "Guardian reports accusations after court rejects legal attempt to prevent publication. Walliams denies any wrongdoing Read the full investigation: ‘It wasn’t long until he asked me if I’d ever had sex before’ Explainer: the key legal issues surrounding the case David Walliams, one of Britain’s best-known television personalities and top-selling children’s authors, has been accused by multiple wome",
-    "published_at": "2026-11-10T12:00:51+00:00",
+    "title": "Heat pumps: How much heat does your home really need?",
+    "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Technology",
+    "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
+    "published_at": "2026-11-13T09:29:25+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
+    "seen_at": "2026-11-13T12:24:27+00:00"
    }
   ]
  },
@@ -7752,77 +7722,24 @@
   ]
  },
  {
-  "id": "25bc70877c99",
-  "headline": "India: Sonia Gandhi's memoir 'Belonging: A Journey of Love' released",
-  "section": "world",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-11-10T12:23:43+00:00",
-  "event_time": "2026-11-10T11:46:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "India: Sonia Gandhi's memoir 'Belonging: A Journey of Love' released",
-    "url": "https://www.dw.com/en/india-sonia-gandhi-s-memoir-belonging-a-journey-of-love-released/a-79908336?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "The book goes through the Italian-born matriarch's journey with one of India's most politically influential families. It has already garnered political controversy, with the ruling BJP accusing her of \"whitewashing.\"",
-    "published_at": "2026-11-10T11:46:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   }
-  ]
- },
- {
-  "id": "0088f39aad6e",
-  "headline": "US Hegseth faces Republican impeachment bid over abuse of power in Iran war",
-  "section": "world",
-  "score": 36,
+  "id": "5df4bf07aed5",
+  "headline": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+  "section": "safety",
+  "score": 37,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-11-10T12:23:43+00:00",
-  "event_time": "2026-11-10T11:03:20+00:00",
+  "created": "2026-11-13T12:24:30+00:00",
+  "event_time": "2026-11-13T10:55:03+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "US Hegseth faces Republican impeachment bid over abuse of power in Iran war",
-    "url": "https://www.france24.com/en/video/20261110-us-hegseth-faces-republican-impeachment-bid-over-abuse-of-power-in-iran-war",
-    "source": "France 24",
-    "summary": "A Republican lawmaker moved on Monday to impeach US Defence Secretary Pete Hegseth over the war in Iran, setting the stage for a potentially explosive vote in Congress, days after President Donald Trump's party suffered a crushing defeat in the midterms. Kentucky Congressman Thomas Massie introduced eight articles of impeachment, accusing Hegseth of waging war illegally without congressional autho",
-    "published_at": "2026-11-10T11:03:20+00:00",
+    "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+    "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+    "source": "The Hacker News",
+    "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging to more than 40,000 victims, according to Germany's Federal Criminal Police Office (BKA). Gootloader is a loader:",
+    "published_at": "2026-11-13T10:55:03+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   },
-   {
-    "title": "US Republican Thomas Massie launches bid to impeach Pete Hegseth",
-    "url": "https://www.france24.com/en/video/20261110-us-republican-thomas-massie-launches-bid-to-impeach-pete-hegseth",
-    "source": "France 24",
-    "summary": "US Republican Thomas Massie moved Monday, November 9, to force a vote to impeach Defence Secretary Pete Hegseth, pressing his fellow Republicans to remove one of the Trump administration's most prominent figures following sweeping election losses blamed in part on fallout from the war in Iran. FRANCE 24's correspondent in Washington Fraser Jackson has more.",
-    "published_at": "2026-11-10T10:42:42+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
-   }
-  ]
- },
- {
-  "id": "f1657c25522b",
-  "headline": "Inspiring Senegal's next generation: Free tickets bring children to Dakar 2026",
-  "section": "world",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 5,
-  "created": "2026-11-10T12:23:43+00:00",
-  "event_time": "2026-11-10T10:17:53+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Inspiring Senegal's next generation: Free tickets bring children to Dakar 2026",
-    "url": "https://www.france24.com/en/video/20261110-inspiring-senegal-s-next-generation-free-tickets-bring-children-to-dakar-2026",
-    "source": "France 24",
-    "summary": "As part of the Dakar 2026 Youth Olympic Games, 200,000 free tickets will be distributed to schools and community organisations. The aim is to give as many young people as possible the chance to experience the Games. FRANCE 24’s team on the ground reports.",
-    "published_at": "2026-11-10T10:17:53+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-10T12:23:40+00:00"
+    "seen_at": "2026-11-13T12:24:27+00:00"
    }
   ]
  },
@@ -9715,6 +9632,138 @@
   ]
  },
  {
+  "id": "0abcd0e4029c",
+  "headline": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-11-13T12:24:30+00:00",
+  "event_time": "2026-11-13T07:01:43+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+    "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+    "published_at": "2026-11-13T07:01:43+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   }
+  ]
+ },
+ {
+  "id": "5e06d7a8695a",
+  "headline": "Former NSW Liberal MP Rory Amon found guilty of raping 13-year-old boy",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-11-13T12:24:30+00:00",
+  "event_time": "2026-11-13T10:45:48+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Former NSW Liberal MP Rory Amon found guilty of raping 13-year-old boy",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/13/former-nsw-liberal-mp-rory-amon-found-guilty-of-raping-13-year-old-boy",
+    "source": "The Guardian World",
+    "summary": "The 37-year-old was convicted in the state’s supreme court months after a different jury failed to reach a verdict on the same charges Get our breaking news email , free app or daily news podcast A former NSW Liberal politician is facing the possibility of a significant jail term after a jury found him guilty of raping a 13-year-old boy. The former MP Rory Amon was found guilty by a jury, after ab",
+    "published_at": "2026-11-13T10:45:48+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   }
+  ]
+ },
+ {
+  "id": "97507d872f87",
+  "headline": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-11-13T12:24:30+00:00",
+  "event_time": "2026-11-13T12:06:28+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Happy World Kindness Day! Check out our kind photos of kindness to humans -- and cats",
+    "url": "https://www.npr.org/2026/11/13/g-s1-153274/world-kindness-day-altruism-generosity",
+    "source": "NPR News",
+    "summary": "Friday, November 13 is World Kindness Day. Your mission: Do something kind. Small acts of kindness definitely count!",
+    "published_at": "2026-11-13T12:06:28+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d7591bf403ff",
+  "headline": "‘I trusted a lot of people, and the wrong people, and I shouldn’t have’: Charlotte Kirk on navigating Hollywood",
+  "section": "culture",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-11-13T12:24:30+00:00",
+  "event_time": "2026-11-12T06:00:11+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "‘I trusted a lot of people, and the wrong people, and I shouldn’t have’: Charlotte Kirk on navigating Hollywood",
+    "url": "https://www.theguardian.com/film/2026/nov/12/charlotte-kirk-on-navigating-hollywood",
+    "source": "Guardian Culture",
+    "summary": "The British actor took up writing and producing to have control over what she stars in after a scandal involving some of the most powerful men in the film business After a recent run as an assassin, a serial killer and a gangster, Charlotte Kirk was looking for something a little lighter, and surely nothing can be more jolly, more wholesome than a Christmas romcom. In Christmas & Chaos, Kirk plays",
+    "published_at": "2026-11-12T06:00:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f446d3e31786",
+  "headline": "Lucky Bird Found in Storm Drain a Mile From Home After Passing Driver Happens to Spot it Hopping in",
+  "section": "goodnews",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-11-13T12:24:30+00:00",
+  "event_time": "2026-11-08T14:08:15+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Lucky Bird Found in Storm Drain a Mile From Home After Passing Driver Happens to Spot it Hopping in",
+    "url": "https://www.goodnewsnetwork.org/lucky-bird-found-in-storm-drain-a-mile-from-home/",
+    "source": "Good News Network",
+    "summary": "A pet budgie that vanished when a storm blew open a kitchen window was found hiding in a storm drain a mile from home. Luna made her great escape from owner Cimberley Frost’s home in Northampton, England when strong winds following Storm Boelo forced open a window and she flew away. But the tiny bird’s […] The post Lucky Bird Found in Storm Drain a Mile From Home After Passing Driver Happens to Sp",
+    "published_at": "2026-11-08T14:08:15+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   }
+  ]
+ },
+ {
+  "id": "d030547d1ad3",
+  "headline": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+  "section": "safety",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-11-13T12:24:30+00:00",
+  "event_time": "2026-11-13T11:10:40+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+    "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+    "source": "The Hacker News",
+    "summary": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named it SilentAir this week. It assessed with high confidence that SilentAir is a state-level actor,",
+    "published_at": "2026-11-13T11:10:40+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-13T12:24:27+00:00"
+   }
+  ]
+ },
+ {
   "id": "d53a88383be0",
   "headline": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
   "section": "world",
@@ -9775,28 +9824,6 @@
     "source": "Guardian Travel",
     "summary": "From maps and kit to travel-themed treats and accessories, here are fun present ideas for the wanderlusters in your life Not sure what to get friends and family for Christmas? Fear not, we have plenty of ideas for a last-minute present. Our carefully chosen selection of travel-inspired gifts ranges from the practical to the indulgent, with great books for the armchair traveller and outdoor gear fo",
     "published_at": "2024-12-09T07:00:15+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   }
-  ]
- },
- {
-  "id": "dfb5899beaff",
-  "headline": "It’s Happy Harry Kane day as England’s finest seizes his moment in style | Barney Ronay",
-  "section": "sport",
-  "score": 33,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-11-13T09:20:55+00:00",
-  "event_time": "2026-11-13T00:01:56+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "It’s Happy Harry Kane day as England’s finest seizes his moment in style | Barney Ronay",
-    "url": "https://www.theguardian.com/football/2026/nov/13/happy-harry-kane-day-englands-finest-seizes-his-moment-croatia-nations-league",
-    "source": "Guardian Sport",
-    "summary": "The Ballon d’Or validated the forward’s career and he extended his incredible record for England with yet another goal on his 126th appearance Happy Harry Kane day! And many happy Harry returns. There is a process in clinical psychology known as semantic satiation. Subjects are asked to repeat a word or phrase so many times that it loses any kind of meaning. Suddenly “daffodils” is just an absurd,",
-    "published_at": "2026-11-13T00:01:56+00:00",
     "source_countries": [],
     "seen_at": "2026-11-13T09:20:52+00:00"
    }
