@@ -896,46 +896,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "steal",
-    "assets",
-    "drove",
-    "kleinman",
-    "silicon",
-    "hegseth",
-    "jensen",
-    "valley",
-    "megaspeed",
-    "york",
-    "chinese",
-    "china",
-    "qubole's",
-    "goodfire",
-    "unexpected",
-    "huang",
-    "access",
-    "undone",
-    "beijing",
-    "experts",
-    "trusted",
     "reward",
-    "exploit",
-    "t-head",
     "alibaba",
-    "nvidia's",
-    "cyberattack",
-    "suffers",
-    "asia",
-    "security",
-    "cnbc",
-    "face",
-    "cyberattacks",
-    "amid",
-    "nvidia",
-    "scandal-hit",
-    "data",
+    "hegseth",
     "labs",
+    "undone",
+    "jensen",
+    "cyberattack",
+    "security",
+    "steal",
+    "trump",
     "hackers",
-    "trump"
+    "scandal-hit",
+    "face",
+    "assets",
+    "york",
+    "beijing",
+    "qubole's",
+    "huang",
+    "data",
+    "chinese",
+    "silicon",
+    "lutnick",
+    "kleinman",
+    "trusted",
+    "unexpected",
+    "access",
+    "nvidia's",
+    "asia",
+    "drove",
+    "valley",
+    "t-head",
+    "senate",
+    "cnbc",
+    "exploit",
+    "goodfire",
+    "suffers",
+    "cyberattacks",
+    "china",
+    "megaspeed",
+    "amid"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -1001,23 +1001,12 @@
     "388a48be7bb7",
     "a071c05d950f",
     "ea7faee11632",
-    "3b9e89cb89a2"
+    "3b9e89cb89a2",
+    "15ca2a489eb0"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-13",
    "timeline": [
-    {
-     "date": "2026-08-26",
-     "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-     "sources": 2,
-     "score": 52,
-     "event_id": "63243808b149",
-     "links": [
-      "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "https://huggingface.co/blog/microsoft/foundry-managed-compute"
-     ]
-    },
     {
      "date": "2026-08-26",
      "headline": "Unexpected chat between OpenAI agents led to Hugging Face hack",
@@ -1706,6 +1695,18 @@
       "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
       "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
       "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "US Senate asks Huang, Lutnick to testify on Nvidia",
+     "sources": 7,
+     "score": 81,
+     "event_id": "15ca2a489eb0",
+     "links": [
+      "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/technology/2026/nov/13/a-baffling-trail-from-australia-to-singapore-what-is-megaspeed-the-company-implicated-in-downfall-of-nvidias-jensen-huang",
+      "https://www.theguardian.com/politics/audio/2026/nov/13/why-the-nvidia-scandal-is-bad-for-trump-podcast"
      ]
     }
    ]
@@ -3524,6 +3525,34 @@
       "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
       "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
       "https://www.cnbc.com/2026/11/13/van-hollen-schumer-us-senate-majority-leader.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de06bec5ec80",
+   "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
+   "section": "ai",
+   "entities": [
+    "nvidia",
+    "china"
+   ],
+   "event_ids": [
+    "de06bec5ec80"
+   ],
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "timeline": [
+    {
+     "date": "2026-11-13",
+     "headline": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
+     "sources": 3,
+     "score": 56,
+     "event_id": "de06bec5ec80",
+     "links": [
+      "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "https://www.scmp.com/tech/big-tech/article/3374316/jensen-huangs-abrupt-exit-stuns-nvidias-china-staff-clouding-outlook-key-market"
      ]
     }
    ]
@@ -22812,5 +22841,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T06:27:37+00:00"
+ "updated": "2026-11-13T09:20:55+00:00"
 }

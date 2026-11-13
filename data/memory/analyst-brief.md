@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-13
 
-Paměť obsahuje **197 vláken**. Aktivních za posledních 14 dní: **57**.
+Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **57**.
 
 ---
 
@@ -23,7 +23,6 @@ Paměť obsahuje **197 vláken**. Aktivních za posledních 14 dní: **57**.
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 95 dní · 60 záznamů
 - časová osa:
-  - **2026-11-12** (2 zdrojů) What we know so far about Nvidia partner Megaspeed’s Asia footprint
   - **2026-11-12** (2 zdrojů) ‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight
   - **2026-11-12** (5 zdrojů) Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video
   - **2026-11-12** (6 zdrojů) Who could replace Jensen Huang as Nvidia's chief executive?
@@ -33,6 +32,7 @@ Paměť obsahuje **197 vláken**. Aktivních za posledních 14 dní: **57**.
   - **2026-11-12** (6 zdrojů) Jensen Huang has resigned, what's next for Nvidia?
   - **2026-11-13** (9 zdrojů) Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
   - **2026-11-13** (4 zdrojů) Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'
+  - **2026-11-13** (7 zdrojů) US Senate asks Huang, Lutnick to testify on Nvidia
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 96 dní · 60 záznamů
