@@ -1,10 +1,52 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-11-12
+# ANALYTICKÉ ZADÁNÍ — 2026-11-13
 
-Paměť obsahuje **196 vláken**. Aktivních za posledních 14 dní: **59**.
+Paměť obsahuje **196 vláken**. Aktivních za posledních 14 dní: **56**.
 
 ---
 
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
+
+### Premier League to publish verdicts on referee and VAR decisions
+- rubrika `sport` · sledováno 87 dní · 60 záznamů
+- časová osa:
+  - **2026-11-04** (4 zdrojů) Nadal set to join Real Madrid board of directors
+  - **2026-11-05** (2 zdrojů) Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
+  - **2026-11-07** (2 zdrojů) Delap double inspires Forest to stunning win over Man City
+  - **2026-11-08** (2 zdrojů) Forest win over Man City 'a turning point' - Murphy
+  - **2026-11-12** (2 zdrojů) Carrick sacked by Manchester United with team in Premier League relegation zone – live
+  - **2026-11-12** (2 zdrojů) Pochettino expected to lead US in Nations League games before Manchester United move
+  - **2026-11-12** (2 zdrojů) Pochettino a decade in Man Utd's making - but Carrick deserves better
+  - **2026-11-12** (2 zdrojů) Man Utd open talks with Pochettino about replacing Carrick
+  - **2026-11-12** (2 zdrojů) Manchester United sacked manager Michael Carrick
+  - **2026-11-13** (2 zdrojů) Nations League: Italy roar back to beat France despite Donnarumma’s early howler
+
+### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+- rubrika `ai` · sledováno 95 dní · 60 záznamů
+- časová osa:
+  - **2026-11-12** (3 zdrojů) Who could replace Jensen Huang? A highly unscientific list of possible successors
+  - **2026-11-12** (2 zdrojů) What we know so far about Nvidia partner Megaspeed’s Asia footprint
+  - **2026-11-12** (2 zdrojů) ‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight
+  - **2026-11-12** (5 zdrojů) Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video
+  - **2026-11-12** (6 zdrojů) Who could replace Jensen Huang as Nvidia's chief executive?
+  - **2026-11-12** (11 zdrojů) Watch: The latest in the Jensen Huang Nvidia scandal
+  - **2026-11-12** (2 zdrojů) Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?
+  - **2026-11-12** (10 zdrojů) Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
+  - **2026-11-12** (6 zdrojů) Jensen Huang has resigned, what's next for Nvidia?
+  - **2026-11-13** (9 zdrojů) Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
+
+### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- rubrika `world` · sledováno 96 dní · 60 záznamů
+- časová osa:
+  - **2026-11-03** (2 zdrojů) Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
+  - **2026-11-03** (2 zdrojů) Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
+  - **2026-11-03** (2 zdrojů) Ukraine’s drone strikes spur hasty Russian plans for underground data centers
+  - **2026-11-04** (2 zdrojů) Canada joins coalition refusing to play ice hockey against Russia over Ukraine war
+  - **2026-11-05** (2 zdrojů) Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
+  - **2026-11-06** (2 zdrojů) Melania Trump touts rare agreement she brokered between Russia and Ukraine
+  - **2026-11-07** (2 zdrojů) Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks
+  - **2026-11-07** (2 zdrojů) Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid
+  - **2026-11-12** (2 zdrojů) Famed ship SS United States deliberately sunk off Florida coast to become a reef
+  - **2026-11-13** (1 zdrojů) Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef
 
 ### OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
 - rubrika `tech` · sledováno 59 dní · 60 záznamů
@@ -23,20 +65,6 @@ Paměť obsahuje **196 vláken**. Aktivních za posledních 14 dní: **59**.
   - 2026-10-15 → 2026-10-21: „Musk confirms SpaceX and Tesla exploring merger“
   - 2026-10-21 → 2026-10-23: „Trump says Musk restored Ukraine’s Starlink access amid Russia war“
 
-### Premier League to publish verdicts on referee and VAR decisions
-- rubrika `sport` · sledováno 86 dní · 60 záznamů
-- časová osa:
-  - **2026-11-04** (2 zdrojů) Football world mourns Tenerife striker De Miguel
-  - **2026-11-04** (4 zdrojů) Nadal set to join Real Madrid board of directors
-  - **2026-11-05** (2 zdrojů) Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
-  - **2026-11-07** (2 zdrojů) Delap double inspires Forest to stunning win over Man City
-  - **2026-11-08** (2 zdrojů) Forest win over Man City 'a turning point' - Murphy
-  - **2026-11-12** (2 zdrojů) Carrick sacked by Manchester United with team in Premier League relegation zone – live
-  - **2026-11-12** (2 zdrojů) Pochettino expected to lead US in Nations League games before Manchester United move
-  - **2026-11-12** (2 zdrojů) Pochettino a decade in Man Utd's making - but Carrick deserves better
-  - **2026-11-12** (2 zdrojů) Man Utd open talks with Pochettino about replacing Carrick
-  - **2026-11-12** (2 zdrojů) Manchester United sacked manager Michael Carrick
-
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 95 dní · 60 záznamů
 - časová osa:
@@ -51,20 +79,6 @@ Paměť obsahuje **196 vláken**. Aktivních za posledních 14 dní: **59**.
   - **2026-11-12** (2 zdrojů) England vs Croatia: UEFA Nations League – preview, team news, predictions
   - **2026-11-12** (2 zdrojů) Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales
 
-### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 94 dní · 60 záznamů
-- časová osa:
-  - **2026-11-12** (8 zdrojů) Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy
-  - **2026-11-12** (3 zdrojů) Who could replace Jensen Huang? A highly unscientific list of possible successors
-  - **2026-11-12** (2 zdrojů) What we know so far about Nvidia partner Megaspeed’s Asia footprint
-  - **2026-11-12** (2 zdrojů) ‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight
-  - **2026-11-12** (5 zdrojů) Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video
-  - **2026-11-12** (6 zdrojů) Who could replace Jensen Huang as Nvidia's chief executive?
-  - **2026-11-12** (11 zdrojů) Watch: The latest in the Jensen Huang Nvidia scandal
-  - **2026-11-12** (2 zdrojů) Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?
-  - **2026-11-12** (10 zdrojů) Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
-  - **2026-11-12** (6 zdrojů) Jensen Huang has resigned, what's next for Nvidia?
-
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 93 dní · 60 záznamů
 - časová osa:
@@ -78,20 +92,6 @@ Paměť obsahuje **196 vláken**. Aktivních za posledních 14 dní: **59**.
   - **2026-11-11** (2 zdrojů) New trilateral talks on Ukraine war in Abu Dhabi: What to expect?
   - **2026-11-11** (2 zdrojů) Tehran will strike US bases in Europe if used to attack Iran, security chief says
   - **2026-11-12** (1 zdrojů) Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine
-
-### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 95 dní · 60 záznamů
-- časová osa:
-  - **2026-11-03** (3 zdrojů) Russian strikes kill 26 in Ukraine after longest ceasefire ends
-  - **2026-11-03** (2 zdrojů) Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
-  - **2026-11-03** (2 zdrojů) Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital
-  - **2026-11-03** (2 zdrojů) Ukraine’s drone strikes spur hasty Russian plans for underground data centers
-  - **2026-11-04** (2 zdrojů) Canada joins coalition refusing to play ice hockey against Russia over Ukraine war
-  - **2026-11-05** (2 zdrojů) Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
-  - **2026-11-06** (2 zdrojů) Melania Trump touts rare agreement she brokered between Russia and Ukraine
-  - **2026-11-07** (2 zdrojů) Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks
-  - **2026-11-07** (2 zdrojů) Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid
-  - **2026-11-12** (2 zdrojů) Famed ship SS United States deliberately sunk off Florida coast to become a reef
 
 ---
 

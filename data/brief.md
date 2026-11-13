@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-11-12
+# ZADÁNÍ PRO REDAKCI — 2026-11-13
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -44,42 +44,7 @@
     <https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss>
     > Jensen Huang, 63, has resigned as chief executive of AI giant Nvidia, according to the company.
 
-### 2. Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
-- id události: `2eeebfe27c6a`  ·  rubrika: `tech`  ·  skóre: 83  ·  nezávislých zdrojů: 10
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
-    <https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss>
-    > The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.
-  - **BBC Business** — Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
-    <https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss>
-    > The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.
-  - **BBC Technology** — Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy
-    <https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss>
-    > The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.
-  - **Guardian Business** — Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy
-    <https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk>
-    > Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair, as Trump says FBI ‘is looking into it’ Nvidia’s board needs to do some succession planning – sharpish Donald Trump , Elon Musk and prominent finance moguls have expressed their support for emb
-  - **France 24** — Nvidia shares slide as board probes CEO over affair with alleged Chinese spy
-    <https://www.france24.com/en/video/20261110-nvidia-shares-slide-as-board-probes-ceo-over-affair-with-alleged-chinese-spy>
-    > Nvidia CEO Jensen Huang is facing scrutiny after reports he was targeted in a suspected Chinese intelligence operation involving a businesswoman with whom he was having an affair. The controversy has rattled investors, sending Nvidia shares tumbling.
-  - **CNBC Top** — Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence
-    <https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html>
-    > Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.
-  - **The Verge** — What could China get from Jensen Huang?
-    <https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang>
-    > It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range 
-  - **The Verge AI** — What could China get from Jensen Huang?
-    <https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang>
-    > It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range 
-  - **The Verge** — Here’s what Trump said he knew about Jensen Huang
-    <https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference>
-    > President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been "​​unfaithful" to his wife, and the company has opened 
-  - **The Verge AI** — Here’s what Trump said he knew about Jensen Huang
-    <https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference>
-    > President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been "​​unfaithful" to his wife, and the company has opened 
-
-### 3. Nvidia hires major New York law firm to investigate Jensen Huang affair
+### 2. Nvidia hires major New York law firm to investigate Jensen Huang affair
 - id události: `d68f526af6ae`  ·  rubrika: `business`  ·  skóre: 83  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -108,7 +73,7 @@
     <https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy>
     > As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He 
 
-### 4. What we know as pressure builds on embattled Nvidia CEO Jensen Huang
+### 3. What we know as pressure builds on embattled Nvidia CEO Jensen Huang
 - id události: `2965feb8b5ec`  ·  rubrika: `business`  ·  skóre: 83  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -136,6 +101,41 @@
   - **Investing.com** — Nvidia said to preparing Huang ouster; Alibaba slumps - what’s moving markets
     <https://www.investing.com/news/economy-news/nvidia-said-to-preparing-huang-ouster-alibaba-slumps--whats-moving-markets-5020685>
 
+### 4. Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
+- id události: `388a48be7bb7`  ·  rubrika: `tech`  ·  skóre: 83  ·  nezávislých zdrojů: 10
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Technology** — Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
+    <https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss>
+    > Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.
+  - **Guardian Business** — Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?
+    <https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached>
+    > CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its f
+  - **Guardian Business** — From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang
+    <https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile>
+    > Technical expertise and an ability to engage gave the chipmaker’s co-founder, who has now resigned, the edge with customers and investors Jensen Huang resigns as Nvidia CEO after alleged affairs Jensen Huang wasn’t always in his trademark leather jacket. When the multibillionaire
+  - **The Verge** — The Jensen Huang scandal is hardly over
+    <https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling>
+    > I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has e
+  - **The Verge AI** — The Jensen Huang scandal is hardly over
+    <https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling>
+    > I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has e
+  - **CNBC Top** — Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet
+    <https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html>
+    > Nvidia's leadership crisis threatens to spill over into the AI financing boom.
+  - **CNBC Top** — Jensen Huang's exit from Nvidia raises critical questions about the future of AI
+    <https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html>
+    > Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.
+  - **TechCrunch** — Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit
+    <https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/>
+    > Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.
+  - **Al Jazeera** — Nvidia CEO Jensen Huang steps down, more affair details revealed
+    <https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss>
+    > Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company.
+  - **TechCrunch** — Jensen Huang agrees to testify before Congress
+    <https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/>
+    > Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -160,43 +160,13 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
-- id: `95b4d8eb7452`  ·  rubrika: `tech`  ·  záznamů v ose: 60  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
-rubrika: tech · sledováno od 2026-09-14 · záznamů: 60
-  2026-10-28  (2 zdrojů, síla 54)  Here are Wednesday's biggest analyst calls: SpaceX, Nvidia, Apple, AMD, Meta, Amazon, Tesla, Boeing & more
-  2026-10-28  (4 zdrojů, síla 64)  Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss
-  2026-10-28  (2 zdrojů, síla 44)  Russia in Africa: What is Putin hoping to achieve?
-  2026-11-03  (3 zdrojů, síla 46)  Trump says US will halt $4 billion in aid to Israel after end of the year
-  2026-11-04  (2 zdrojů, síla 40)  SpaceX is working with Qualcomm to build its Starlink Mobile 5G network
-  2026-11-05  (3 zdrojů, síla 50)  After Texas' blue wave, what happens to Elon Musk and SpaceX?
-  2026-11-05  (3 zdrojů, síla 56)  Was Elon Musk the US midterms' biggest loser? – Stateside with Kai and Carter
-  2026-11-06  (3 zdrojů, síla 48)  Elon Musk appears to signal the end of the road for Cybertruck
-  2026-11-06  (3 zdrojů, síla 64)  Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI
-  2026-11-06  (3 zdrojů, síla 47)  Tesla will stop making the Cybertruck in 2027
-  2026-11-06  (3 zdrojů, síla 51)  Tesla to 'wind down' production of flop Cybertruck
-  2026-11-07  (2 zdrojů, síla 52)  Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts
-  2026-11-09  (2 zdrojů, síla 44)  Musk says Tesla will refund some Cybertruck deposits, defends decision to end production
-  2026-11-10  (2 zdrojů, síla 41)  US, Russia and Ukraine hold trilateral talks aimed at ending war – Europe live
-  2026-11-10  (2 zdrojů, síla 44)  Inside devastated front-line city that Russia wants Ukraine to give up
-  2026-11-11  (2 zdrojů, síla 49)  Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough
-  2026-11-12  (2 zdrojů, síla 48)  US envoys expected to meet Putin in Moscow to discuss Ukraine ceasefire - Europe live
-  2026-11-12  (3 zdrojů, síla 56)  Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow
-  2026-11-12  (4 zdrojů, síla 68)  Putin takes hard line in US talks as Ukraine says Starlink disrupted again
-  2026-11-12  (2 zdrojů, síla 44)  ‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug
-```
-
-### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
+### 1. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
 - id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
 VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
 rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-24  (3 zdrojů, síla 66)  Jackson stars with two goals - player ratings for Aston Villa v Man City
   2026-10-25  (2 zdrojů, síla 56)  Terland strikes late as United end Manchester City’s winning start in WSL
   2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?
   2026-10-30  (2 zdrojů, síla 42)  Chelsea vs Manchester United: Premier League – teams, prediction, lineups
@@ -216,6 +186,36 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-11-12  (2 zdrojů, síla 42)  Pochettino a decade in Man Utd's making - but Carrick deserves better
   2026-11-12  (2 zdrojů, síla 43)  Man Utd open talks with Pochettino about replacing Carrick
   2026-11-12  (2 zdrojů, síla 42)  Manchester United sacked manager Michael Carrick
+  2026-11-13  (2 zdrojů, síla 45)  Nations League: Italy roar back to beat France despite Donnarumma’s early howler
+```
+
+### 2. What has actually changed: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+- id: `7b46dd318f11`  ·  rubrika: `ai`  ·  záznamů v ose: 60  ·  **depth: `open`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
+  2026-11-10  (3 zdrojů, síla 57)  Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem
+  2026-11-10  (3 zdrojů, síla 60)  Megaspeed and the battle to go high-end Nvidia chips into China
+  2026-11-10  (2 zdrojů, síla 49)  Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy
+  2026-11-10  (2 zdrojů, síla 42)  Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns
+  2026-11-10  (2 zdrojů, síla 41)  Nvidia has a Jensen Huang problem—and no obvious successor
+  2026-11-10  (7 zdrojů, síla 83)  Nvidia hires major New York law firm to investigate Jensen Huang affair
+  2026-11-11  (1 zdrojů, síla 46)  Amid Nvidia saga, T-Head IPO a crucial test for Alibaba – and China’s AI ambitions
+  2026-11-11  (3 zdrojů, síla 52)  Nvidia hires leading US law firm to investigate Jensen Huang’s relationship
+  2026-11-11  (4 zdrojů, síla 67)  Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal
+  2026-11-12  (8 zdrojů, síla 81)  Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy
+  2026-11-12  (3 zdrojů, síla 52)  Who could replace Jensen Huang? A highly unscientific list of possible successors
+  2026-11-12  (2 zdrojů, síla 40)  What we know so far about Nvidia partner Megaspeed’s Asia footprint
+  2026-11-12  (2 zdrojů, síla 40)  ‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight
+  2026-11-12  (5 zdrojů, síla 75)  Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video
+  2026-11-12  (6 zdrojů, síla 80)  Who could replace Jensen Huang as Nvidia's chief executive?
+  2026-11-12  (11 zdrojů, síla 88)  Watch: The latest in the Jensen Huang Nvidia scandal
+  2026-11-12  (2 zdrojů, síla 42)  Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?
+  2026-11-12  (10 zdrojů, síla 83)  Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
+  2026-11-12  (6 zdrojů, síla 83)  Jensen Huang has resigned, what's next for Nvidia?
+  2026-11-13  (9 zdrojů, síla 83)  Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
 ```
 
 ---
