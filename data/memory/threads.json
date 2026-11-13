@@ -3446,15 +3446,16 @@
    "title": "Global Microsoft outage affecting Outlook and Teams users, with company ‘restarting’ servers",
    "section": "tech",
    "entities": [
-    "widespread",
     "microsoft",
-    "teams",
     "outlook",
+    "widespread",
+    "teams",
     "global"
    ],
    "event_ids": [
     "388c180a1aec",
-    "21e5fdddc37a"
+    "21e5fdddc37a",
+    "bcbd633b4283"
    ],
    "first_seen": "2026-11-12",
    "last_seen": "2026-11-13",
@@ -3480,6 +3481,49 @@
      "links": [
       "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps",
       "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Microsoft outage live: Microsoft scrambling for new ways to fix global outage after initial attempts fail to restore Outlook services",
+     "sources": 3,
+     "score": 52,
+     "event_id": "bcbd633b4283",
+     "links": [
+      "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+      "https://www.dw.com/en/microsoft-works-to-restore-outlook-and-teams-after-global-outage/a-79935611?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6c48175ae0bc",
+   "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+   "section": "world",
+   "entities": [
+    "chris",
+    "schumer",
+    "senate",
+    "chuck",
+    "hollen"
+   ],
+   "event_ids": [
+    "6c48175ae0bc"
+   ],
+   "first_seen": "2026-11-13",
+   "last_seen": "2026-11-13",
+   "timeline": [
+    {
+     "date": "2026-11-13",
+     "headline": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
+     "sources": 3,
+     "score": 56,
+     "event_id": "6c48175ae0bc",
+     "links": [
+      "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader",
+      "https://www.aljazeera.com/news/2026/11/13/who-is-us-senator-chris-van-hollen?traffic_source=rss",
+      "https://www.cnbc.com/2026/11/13/van-hollen-schumer-us-senate-majority-leader.html"
      ]
     }
    ]
@@ -22768,5 +22812,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T03:20:55+00:00"
+ "updated": "2026-11-13T06:27:37+00:00"
 }
