@@ -196,7 +196,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 ```
 VLÁKNO: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
-  2026-11-10  (3 zdrojů, síla 57)  Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem
   2026-11-10  (3 zdrojů, síla 60)  Megaspeed and the battle to go high-end Nvidia chips into China
   2026-11-10  (2 zdrojů, síla 49)  Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy
   2026-11-10  (2 zdrojů, síla 42)  Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns
@@ -216,6 +215,7 @@ rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
   2026-11-12  (10 zdrojů, síla 83)  Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
   2026-11-12  (6 zdrojů, síla 83)  Jensen Huang has resigned, what's next for Nvidia?
   2026-11-13  (9 zdrojů, síla 83)  Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
+  2026-11-13  (4 zdrojů, síla 69)  Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'
 ```
 
 ---

@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-13
 
-Paměť obsahuje **196 vláken**. Aktivních za posledních 14 dní: **56**.
+Paměť obsahuje **196 vláken**. Aktivních za posledních 14 dní: **57**.
 
 ---
 
@@ -23,7 +23,6 @@ Paměť obsahuje **196 vláken**. Aktivních za posledních 14 dní: **56**.
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 95 dní · 60 záznamů
 - časová osa:
-  - **2026-11-12** (3 zdrojů) Who could replace Jensen Huang? A highly unscientific list of possible successors
   - **2026-11-12** (2 zdrojů) What we know so far about Nvidia partner Megaspeed’s Asia footprint
   - **2026-11-12** (2 zdrojů) ‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight
   - **2026-11-12** (5 zdrojů) Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video
@@ -33,6 +32,7 @@ Paměť obsahuje **196 vláken**. Aktivních za posledních 14 dní: **56**.
   - **2026-11-12** (10 zdrojů) Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
   - **2026-11-12** (6 zdrojů) Jensen Huang has resigned, what's next for Nvidia?
   - **2026-11-13** (9 zdrojů) Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
+  - **2026-11-13** (4 zdrojů) Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 96 dní · 60 záznamů
@@ -47,6 +47,20 @@ Paměť obsahuje **196 vláken**. Aktivních za posledních 14 dní: **56**.
   - **2026-11-07** (2 zdrojů) Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid
   - **2026-11-12** (2 zdrojů) Famed ship SS United States deliberately sunk off Florida coast to become a reef
   - **2026-11-13** (1 zdrojů) Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef
+
+### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
+- rubrika `world` · sledováno 94 dní · 60 záznamů
+- časová osa:
+  - **2026-11-02** (2 zdrojů) Ukraine and Russia both hit by cyberattacks on emergency apps
+  - **2026-11-02** (2 zdrojů) What we know about the alert app hack in Ukraine and Russia
+  - **2026-11-03** (2 zdrojů) Zelenskyy to make unexpected visit to Berlin for talks with Merz – Europe live
+  - **2026-11-03** (2 zdrojů) What US midterm elections mean for Ukraine, Iran and elsewhere
+  - **2026-11-11** (2 zdrojů) Ukraine’s Zelenskyy ‘happy’ with US envoys’ approach as Russia talks enter second day – Europe live
+  - **2026-11-11** (3 zdrojů) US, Russia, Ukraine wrap up Abu Dhabi talks with prisoner exchange
+  - **2026-11-11** (2 zdrojů) New trilateral talks on Ukraine war in Abu Dhabi: What to expect?
+  - **2026-11-11** (2 zdrojů) Tehran will strike US bases in Europe if used to attack Iran, security chief says
+  - **2026-11-12** (1 zdrojů) Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine
+  - **2026-11-13** (2 zdrojů) Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks
 
 ### OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
 - rubrika `tech` · sledováno 59 dní · 60 záznamů
@@ -78,20 +92,6 @@ Paměť obsahuje **196 vláken**. Aktivních za posledních 14 dní: **56**.
   - **2026-11-08** (2 zdrojů) Walsh-inspired Australia crush irate Samoa to reach World Cup final
   - **2026-11-12** (2 zdrojů) England vs Croatia: UEFA Nations League – preview, team news, predictions
   - **2026-11-12** (2 zdrojů) Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales
-
-### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
-- rubrika `world` · sledováno 93 dní · 60 záznamů
-- časová osa:
-  - **2026-11-02** (3 zdrojů) Ukraine, Russia report hacking attacks on emergency alert apps
-  - **2026-11-02** (2 zdrojů) Ukraine and Russia both hit by cyberattacks on emergency apps
-  - **2026-11-02** (2 zdrojů) What we know about the alert app hack in Ukraine and Russia
-  - **2026-11-03** (2 zdrojů) Zelenskyy to make unexpected visit to Berlin for talks with Merz – Europe live
-  - **2026-11-03** (2 zdrojů) What US midterm elections mean for Ukraine, Iran and elsewhere
-  - **2026-11-11** (2 zdrojů) Ukraine’s Zelenskyy ‘happy’ with US envoys’ approach as Russia talks enter second day – Europe live
-  - **2026-11-11** (3 zdrojů) US, Russia, Ukraine wrap up Abu Dhabi talks with prisoner exchange
-  - **2026-11-11** (2 zdrojů) New trilateral talks on Ukraine war in Abu Dhabi: What to expect?
-  - **2026-11-11** (2 zdrojů) Tehran will strike US bases in Europe if used to attack Iran, security chief says
-  - **2026-11-12** (1 zdrojů) Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine
 
 ---
 
