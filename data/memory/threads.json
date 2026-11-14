@@ -447,14 +447,15 @@
    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
    "section": "tech",
    "entities": [
+    "nvidia",
     "jensen",
     "huang",
-    "nvidia",
     "singapore"
    ],
    "event_ids": [
     "93e2a4b9f246",
-    "cefbc3be34f9"
+    "cefbc3be34f9",
+    "567fa298898a"
    ],
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-14",
@@ -480,6 +481,18 @@
      "links": [
       "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout",
       "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Jensen Huang and the decline of the visionary showman founder CEO",
+     "sources": 4,
+     "score": 63,
+     "event_id": "567fa298898a",
+     "links": [
+      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "https://www.france24.com/en/can-nvidia-survive-without-tech-titan-jensen-huang"
      ]
     }
    ]
@@ -521,6 +534,36 @@
       "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf",
       "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
       "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1476d670af2a",
+   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "section": "world",
+   "entities": [
+    "nato",
+    "zelensky",
+    "ukraine",
+    "donbas"
+   ],
+   "event_ids": [
+    "1476d670af2a"
+   ],
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
+   "timeline": [
+    {
+     "date": "2026-11-14",
+     "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "sources": 4,
+     "score": 71,
+     "event_id": "1476d670af2a",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss"
      ]
     }
    ]
@@ -23031,5 +23074,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T09:18:52+00:00"
+ "updated": "2026-11-14T12:21:55+00:00"
 }
