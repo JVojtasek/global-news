@@ -267,11 +267,13 @@
    "section": "tech",
    "entities": [
     "jensen",
-    "singapore",
-    "huang"
+    "huang",
+    "nvidia",
+    "singapore"
    ],
    "event_ids": [
-    "93e2a4b9f246"
+    "93e2a4b9f246",
+    "cefbc3be34f9"
    ],
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-14",
@@ -286,6 +288,58 @@
       "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
       "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
+     "sources": 2,
+     "score": 40,
+     "event_id": "cefbc3be34f9",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout",
+      "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7fc5f077fca0",
+   "title": "Watch: SpaceX launches Starship rocket into orbit for first time",
+   "section": "science",
+   "entities": [
+    "starship",
+    "spacex"
+   ],
+   "event_ids": [
+    "7fc5f077fca0",
+    "d8fac7c02e1c"
+   ],
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-11-14",
+   "timeline": [
+    {
+     "date": "2026-09-28",
+     "headline": "Watch: SpaceX launches Starship rocket into orbit for first time",
+     "sources": 4,
+     "score": 67,
+     "event_id": "7fc5f077fca0",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "SpaceX launches Starship rocket, fails to recover booster",
+     "sources": 3,
+     "score": 51,
+     "event_id": "d8fac7c02e1c",
+     "links": [
+      "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+      "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
      ]
     }
    ]
@@ -20562,34 +20616,6 @@
    ]
   },
   {
-   "id": "7fc5f077fca0",
-   "title": "Watch: SpaceX launches Starship rocket into orbit for first time",
-   "section": "science",
-   "entities": [
-    "starship",
-    "spacex"
-   ],
-   "event_ids": [
-    "7fc5f077fca0"
-   ],
-   "first_seen": "2026-09-28",
-   "last_seen": "2026-09-28",
-   "timeline": [
-    {
-     "date": "2026-09-28",
-     "headline": "Watch: SpaceX launches Starship rocket into orbit for first time",
-     "sources": 4,
-     "score": 67,
-     "event_id": "7fc5f077fca0",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa"
-     ]
-    }
-   ]
-  },
-  {
    "id": "0415f1d782c1",
    "title": "Archaeologists Unearth the 2,400-Year-Old School Where Aristotle Taught Alexander to Be Great",
    "section": "culture",
@@ -22990,5 +23016,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T00:36:40+00:00"
+ "updated": "2026-11-14T03:20:18+00:00"
 }
