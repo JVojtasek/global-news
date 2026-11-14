@@ -1390,17 +1390,18 @@
    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
    "section": "tech",
    "entities": [
+    "singapore",
+    "huang",
     "double",
     "nvidia",
-    "huang",
-    "jensen",
-    "singapore"
+    "jensen"
    ],
    "event_ids": [
     "93e2a4b9f246",
     "cefbc3be34f9",
     "567fa298898a",
-    "a15c62a956a1"
+    "a15c62a956a1",
+    "9a2034b63080"
    ],
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-14",
@@ -1449,6 +1450,17 @@
      "links": [
       "https://www.scmp.com/tech/big-tech/article/3374435/double-standard-why-jensen-huang-saga-sparking-debate-about-race",
       "https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+     "sources": 2,
+     "score": 43,
+     "event_id": "9a2034b63080",
+     "links": [
+      "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+      "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
      ]
     }
    ]
@@ -1573,6 +1585,63 @@
       "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
       "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "359fb450257d",
+   "title": "Italy fines Meta €805m over accessing users' photos",
+   "section": "world",
+   "entities": [
+    "italy",
+    "meta"
+   ],
+   "event_ids": [
+    "359fb450257d"
+   ],
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
+   "timeline": [
+    {
+     "date": "2026-11-14",
+     "headline": "Italy fines Meta €805m over accessing users' photos",
+     "sources": 4,
+     "score": 60,
+     "event_id": "359fb450257d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "19b7f651400e",
+   "title": "Magnificent Wales beat New Zealand for first time since 1953",
+   "section": "sport",
+   "entities": [
+    "zealand",
+    "wales",
+    "magnificent"
+   ],
+   "event_ids": [
+    "19b7f651400e"
+   ],
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
+   "timeline": [
+    {
+     "date": "2026-11-14",
+     "headline": "Magnificent Wales beat New Zealand for first time since 1953",
+     "sources": 3,
+     "score": 59,
+     "event_id": "19b7f651400e",
+     "links": [
+      "https://www.bbc.co.uk/sport/rugby-union/articles/c63dgev0p8pgo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/rugby-union/videos/ckdd10y25mm1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/nov/14/wales-dewi-lake-new-zealand-victory-amazing-feeling-historic-win"
      ]
     }
    ]
@@ -23114,5 +23183,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T15:18:51+00:00"
+ "updated": "2026-11-14T18:19:13+00:00"
 }
