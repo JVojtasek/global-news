@@ -173,8 +173,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-06  (2 zdrojů, síla 44)  Nations League: France defeat Belgium in second-half comeback
-  2026-10-06  (2 zdrojů, síla 47)  How promotion, relegation and knockouts work in Nations League
   2026-10-06  (2 zdrojů, síla 45)  England v Czechia: Nations League football – live
   2026-10-06  (2 zdrojů, síla 52)  Kane scores twice but who else was a 'real threat'? England player ratings
   2026-10-07  (2 zdrojů, síla 42)  Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
@@ -193,6 +191,8 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-11-12  (2 zdrojů, síla 46)  England vs Croatia: UEFA Nations League – preview, team news, predictions
   2026-11-12  (2 zdrojů, síla 40)  Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales
   2026-11-14  (2 zdrojů, síla 48)  Spain vs England: UEFA Nations League – predictions, how to watch, teams
+  2026-11-14  (2 zdrojů, síla 52)  Spain test will reveal if Tuchel and England have learned World Cup lessons
+  2026-11-14  (2 zdrojů, síla 47)  Haaland helps Norway to win over Wales in Nations League
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

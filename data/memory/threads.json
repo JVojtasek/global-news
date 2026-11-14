@@ -5,46 +5,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "germany",
-    "walsh-inspired",
-    "klopp",
-    "englishman",
-    "protests",
-    "jerusalem",
-    "fiji",
-    "france",
     "nations",
-    "quiz",
-    "ballon",
-    "macedonia",
-    "assembly",
-    "ireland",
     "mamdani",
-    "spain",
-    "lamine",
-    "munich",
-    "england",
-    "halloween",
-    "czechia",
-    "australia",
-    "europe",
-    "bayern",
-    "police",
-    "ngumoha",
-    "israel",
-    "league",
-    "uefa",
-    "world",
-    "wales",
-    "board",
-    "serbia",
-    "northern",
-    "portugal",
-    "belgium",
-    "east-west",
+    "france",
     "bellingham",
+    "east-west",
+    "norway",
+    "israel",
+    "halloween",
+    "englishman",
+    "wales",
+    "protests",
+    "uefa",
+    "northern",
+    "germany",
+    "fiji",
+    "klopp",
+    "ireland",
+    "australia",
+    "world",
+    "tuchel",
+    "assembly",
+    "belgium",
+    "macedonia",
+    "police",
+    "munich",
+    "spain",
+    "portugal",
+    "czechia",
+    "haaland",
+    "england",
+    "ballon",
+    "quiz",
+    "lamine",
+    "jerusalem",
+    "league",
     "croatia",
-    "gordon"
+    "walsh-inspired",
+    "board",
+    "gordon",
+    "europe"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -146,33 +146,13 @@
     "422d98c8690e",
     "1f253837d2c3",
     "ebc3e5fcbca7",
-    "556878c52507"
+    "556878c52507",
+    "a2b9232e7194",
+    "e0c8b0fa73cd"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-11-14",
    "timeline": [
-    {
-     "date": "2026-09-22",
-     "headline": "UN General Assembly opens with Macron, Trump, Erdogan, Lula, others in NYC",
-     "sources": 2,
-     "score": 46,
-     "event_id": "9146f0df0ac0",
-     "links": [
-      "https://www.dw.com/en/un-general-assembly-opens-with-macron-trump-erdogan-lula-others-in-nyc/live-79366211?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/americas/20260922-un-secretary-general-guterres-calls-for-interdependence-in-final-general-assembly-address"
-     ]
-    },
-    {
-     "date": "2026-09-23",
-     "headline": "'It can't be brushed over' - Republic of Ireland squad to discuss Israel games",
-     "sources": 2,
-     "score": 45,
-     "event_id": "4ea1d5b81c19",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c6wyzk2xyz90o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/23/ireland-manager-heimir-hallgrimsson-prime-minister-micheal-martin-israel-genocide-gaza"
-     ]
-    },
     {
      "date": "2026-09-23",
      "headline": "Trump's Board of Peace proposes $2.45B for reconstruction in Gaza",
@@ -833,6 +813,29 @@
       "https://www.aljazeera.com/sports/2026/11/14/spain-england-uefa-nations-league-predictions-how-to-watch-teams?traffic_source=rss",
       "https://www.theguardian.com/football/live/2026/nov/13/scotland-v-north-macedonia-nations-league-live",
       "https://www.theguardian.com/football/2026/nov/13/no-one-is-unbeatable-tuchel-eager-for-england-to-impose-style-on-spain"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+     "sources": 2,
+     "score": 52,
+     "event_id": "a2b9232e7194",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
+      "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Haaland helps Norway to win over Wales in Nations League",
+     "sources": 2,
+     "score": 47,
+     "event_id": "e0c8b0fa73cd",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo"
      ]
     }
    ]
@@ -23183,5 +23186,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T18:19:13+00:00"
+ "updated": "2026-11-14T21:19:14+00:00"
 }

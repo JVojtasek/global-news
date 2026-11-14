@@ -9,8 +9,6 @@ Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **62**.
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 97 dní · 60 záznamů
 - časová osa:
-  - **2026-10-27** (2 zdrojů) Quiz: Kane and who else? Name every men's Ballon d'Or winner
-  - **2026-10-30** (2 zdrojů) England thrash Wales to begin World Cup defence
   - **2026-10-31** (2 zdrojů) Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live
   - **2026-11-01** (2 zdrojů) Wales hit by Australia century in World Cup record defeat
   - **2026-11-05** (2 zdrojů) England captain Kane signs new Bayern contract
@@ -19,6 +17,8 @@ Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **62**.
   - **2026-11-12** (2 zdrojů) England vs Croatia: UEFA Nations League – preview, team news, predictions
   - **2026-11-12** (2 zdrojů) Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales
   - **2026-11-14** (2 zdrojů) Spain vs England: UEFA Nations League – predictions, how to watch, teams
+  - **2026-11-14** (2 zdrojů) Spain test will reveal if Tuchel and England have learned World Cup lessons
+  - **2026-11-14** (2 zdrojů) Haaland helps Norway to win over Wales in Nations League
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 87 dní · 60 záznamů
