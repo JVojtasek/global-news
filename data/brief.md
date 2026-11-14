@@ -166,7 +166,36 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 
 ## C) ANALÝZY Z DLOUHODOBÉ PAMĚTI
 
-### 1. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
+### 1. What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+- id: `6e0f12b732f6`  ·  rubrika: `world`  ·  záznamů v ose: 60  ·  **depth: `scripture`**
+- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
+
+```
+VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
+rubrika: world · sledováno od 2026-08-09 · záznamů: 60
+  2026-10-06  (2 zdrojů, síla 44)  Nations League: France defeat Belgium in second-half comeback
+  2026-10-06  (2 zdrojů, síla 47)  How promotion, relegation and knockouts work in Nations League
+  2026-10-06  (2 zdrojů, síla 45)  England v Czechia: Nations League football – live
+  2026-10-06  (2 zdrojů, síla 52)  Kane scores twice but who else was a 'real threat'? England player ratings
+  2026-10-07  (2 zdrojů, síla 42)  Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
+  2026-10-08  (3 zdrojů, síla 58)  Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
+  2026-10-22  (2 zdrojů, síla 46)  Harry Kane: Ballon d’Or for Bayern Munich striker?
+  2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes
+  2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
+  2026-10-27  (4 zdrojů, síla 70)  'A dream come true' - Harry Kane on his Ballon d'Or win
+  2026-10-27  (2 zdrojů, síla 52)  Quiz: Kane and who else? Name every men's Ballon d'Or winner
+  2026-10-30  (2 zdrojů, síla 57)  England thrash Wales to begin World Cup defence
+  2026-10-31  (2 zdrojů, síla 46)  Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live
+  2026-11-01  (2 zdrojů, síla 51)  Wales hit by Australia century in World Cup record defeat
+  2026-11-05  (2 zdrojů, síla 42)  England captain Kane signs new Bayern contract
+  2026-11-08  (2 zdrojů, síla 50)  Australia reach World Cup final after Fiji scare
+  2026-11-08  (2 zdrojů, síla 47)  Walsh-inspired Australia crush irate Samoa to reach World Cup final
+  2026-11-12  (2 zdrojů, síla 46)  England vs Croatia: UEFA Nations League – preview, team news, predictions
+  2026-11-12  (2 zdrojů, síla 40)  Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales
+  2026-11-14  (2 zdrojů, síla 48)  Spain vs England: UEFA Nations League – predictions, how to watch, teams
+```
+
+### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
 - id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
@@ -193,35 +222,6 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
   2026-11-12  (2 zdrojů, síla 42)  Manchester United sacked manager Michael Carrick
   2026-11-13  (2 zdrojů, síla 45)  Nations League: Italy roar back to beat France despite Donnarumma’s early howler
   2026-11-13  (2 zdrojů, síla 41)  Manchester United names USMNT coach Mauricio Pochettino as its manager
-```
-
-### 2. What has actually changed: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- id: `7b46dd318f11`  ·  rubrika: `ai`  ·  záznamů v ose: 60  ·  **depth: `open`**
-- ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
-
-```
-VLÁKNO: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
-  2026-11-11  (3 zdrojů, síla 52)  Nvidia hires leading US law firm to investigate Jensen Huang’s relationship
-  2026-11-11  (4 zdrojů, síla 67)  Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal
-  2026-11-12  (8 zdrojů, síla 81)  Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy
-  2026-11-12  (3 zdrojů, síla 52)  Who could replace Jensen Huang? A highly unscientific list of possible successors
-  2026-11-12  (2 zdrojů, síla 40)  What we know so far about Nvidia partner Megaspeed’s Asia footprint
-  2026-11-12  (2 zdrojů, síla 40)  ‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight
-  2026-11-12  (5 zdrojů, síla 75)  Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video
-  2026-11-12  (6 zdrojů, síla 80)  Who could replace Jensen Huang as Nvidia's chief executive?
-  2026-11-12  (11 zdrojů, síla 88)  Watch: The latest in the Jensen Huang Nvidia scandal
-  2026-11-12  (2 zdrojů, síla 42)  Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?
-  2026-11-12  (10 zdrojů, síla 83)  Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
-  2026-11-12  (6 zdrojů, síla 83)  Jensen Huang has resigned, what's next for Nvidia?
-  2026-11-13  (9 zdrojů, síla 83)  Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
-  2026-11-13  (4 zdrojů, síla 69)  Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'
-  2026-11-13  (7 zdrojů, síla 81)  US Senate asks Huang, Lutnick to testify on Nvidia
-  2026-11-13  (3 zdrojů, síla 62)  Nvidia scandal: Was Alice Huang really a Chinese spy?
-  2026-11-13  (4 zdrojů, síla 58)  Let’s talk about Jensen Huang’s many affairs!
-  2026-11-13  (6 zdrojů, síla 79)  What’s really at stake in the Jensen Huang saga
-  2026-11-13  (4 zdrojů, síla 62)  Jensen Huang was reckless with the environment, too
-  2026-11-13  (4 zdrojů, síla 68)  Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon
 ```
 
 ---
