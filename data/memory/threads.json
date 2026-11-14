@@ -1,6 +1,296 @@
 {
  "threads": [
   {
+   "id": "cc5e6502b0d5",
+   "title": "Are claims of a white genocide in South Africa real?",
+   "section": "world",
+   "entities": [
+    "crowd",
+    "superb",
+    "champions",
+    "trump",
+    "australia",
+    "olympics",
+    "africa's",
+    "irish",
+    "test",
+    "cars",
+    "games",
+    "nations",
+    "championship",
+    "anti-migrant",
+    "south",
+    "parsons",
+    "france",
+    "hyron",
+    "rusty",
+    "africa",
+    "rwanda",
+    "andrews",
+    "durban",
+    "olympic",
+    "african"
+   ],
+   "event_ids": [
+    "cc5e6502b0d5",
+    "fa9c2e8e5738",
+    "549b64aa5243",
+    "7b455e92537b",
+    "928a902aa653",
+    "e76bd5378246",
+    "153b71c672c5",
+    "72404f6aa49e",
+    "435629369d73",
+    "27e82397cdf1",
+    "459e2e33c045",
+    "8af10dc0e103",
+    "acf84507bf24",
+    "5350c616a9cd",
+    "961347ee66d5",
+    "f3989377ad57",
+    "f5001567fdab",
+    "e1d38dfbb8e2"
+   ],
+   "first_seen": "2026-09-27",
+   "last_seen": "2026-11-14",
+   "timeline": [
+    {
+     "date": "2026-09-27",
+     "headline": "Are claims of a white genocide in South Africa real?",
+     "sources": 3,
+     "score": 56,
+     "event_id": "cc5e6502b0d5",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Two mass shootings in South Africa leave 27 dead",
+     "sources": 4,
+     "score": 67,
+     "event_id": "fa9c2e8e5738",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+     "sources": 2,
+     "score": 49,
+     "event_id": "549b64aa5243",
+     "links": [
+      "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+      "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
+      "https://www.france24.com/en/femicides-on-the-rise-in-south-africa"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Superb South Africa seal series win over Australia",
+     "sources": 2,
+     "score": 42,
+     "event_id": "7b455e92537b",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "South Africa hope to host first African Olympics",
+     "sources": 2,
+     "score": 44,
+     "event_id": "928a902aa653",
+     "links": [
+      "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/oct/06/south-africa-bid-to-stage-africas-first-olympics-2036"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "South Africa: Anti-migrant protests turn violent",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e76bd5378246",
+     "links": [
+      "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+     "sources": 2,
+     "score": 46,
+     "event_id": "153b71c672c5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/live/2026/oct/09/south-africa-v-australia-first-test-day-one-durban-kingsmead-cricket-ground-live-updates"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "South Africa: Anti-migrant unrest flares in Durban",
+     "sources": 2,
+     "score": 43,
+     "event_id": "72404f6aa49e",
+     "links": [
+      "https://www.france24.com/en/video/20261010-south-africa-anti-migrant-unrest-flares-in-durban",
+      "https://www.theguardian.com/sport/2026/oct/10/south-africa-australia-first-test-second-day-match-report"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Rusty or something more? South Africa's concern after Australia loss",
+     "sources": 5,
+     "score": 78,
+     "event_id": "435629369d73",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss",
+      "https://www.smithsonianmag.com/smart-news/did-industrialization-gut-our-microbiomes-a-new-study-on-rural-foraging-communities-in-south-america-and-africa-hints-the-answer-is-yes-180989658/",
+      "https://www.france24.com/en/south-africa-suspends-asylum-applications-amid-renewed-anti-immigrant-protests"
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "headline": "South African rugby player Hyron ​Andrews dies in France ahead of Champions Cup debut",
+     "sources": 2,
+     "score": 47,
+     "event_id": "27e82397cdf1",
+     "links": [
+      "https://www.france24.com/en/sport/20261016-south-african-rugby-player-found-dead-in-french-hotel-ahead-of-champions-cup-debut",
+      "https://www.theguardian.com/sport/2026/oct/16/player-found-dead-lions-champions-cup-la-rochelle"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "South Africa bat first in second Test against Australia - scorecard",
+     "sources": 2,
+     "score": 42,
+     "event_id": "459e2e33c045",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/live/2026/oct/18/south-africa-v-australia-second-test-day-one-cricket-st-georges-park-gqeberha-live-updates"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Crowd of 50 beats foreigner to death in South Africa",
+     "sources": 2,
+     "score": 53,
+     "event_id": "8af10dc0e103",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Olympic Games: South Africa bids to make Durban host city for 2036 or 2040",
+     "sources": 3,
+     "score": 57,
+     "event_id": "acf84507bf24",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/10/29/olympic-games-south-africa-bid-to-make-durban-host-city-for-2036-or-2040?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/oct/29/durban-selected-south-africa-candidate-olympic-bids-2036-2040",
+      "https://www.france24.com/en/video/20261029-kenya-s-female-athletes-make-their-mark-as-youth-olympic-games-approach"
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Parsons hat-trick as Irish seal South Africa series win",
+     "sources": 2,
+     "score": 45,
+     "event_id": "5350c616a9cd",
+     "links": [
+      "https://www.bbc.co.uk/sport/rugby-union/articles/cwe8lp875engo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Trump to remove Rwanda and South Africa from US trade deal",
+     "sources": 2,
+     "score": 43,
+     "event_id": "961347ee66d5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "ANC under pressure to reverse South Africa decline",
+     "sources": 2,
+     "score": 45,
+     "event_id": "f3989377ad57",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/south-africa-braces-for-some-job-losses-as-agoa-ends"
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "South Africa elections: ANC marks its worst-ever performance",
+     "sources": 2,
+     "score": 43,
+     "event_id": "f5001567fdab",
+     "links": [
+      "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf",
+      "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "France edge past South Africa after thriller in Nations Championship",
+     "sources": 2,
+     "score": 48,
+     "event_id": "e1d38dfbb8e2",
+     "links": [
+      "https://www.bbc.co.uk/sport/rugby-union/videos/c6eq4npqy7e0o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/nov/13/france-south-africa-nations-championship-match-report"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "93e2a4b9f246",
+   "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+   "section": "tech",
+   "entities": [
+    "jensen",
+    "singapore",
+    "huang"
+   ],
+   "event_ids": [
+    "93e2a4b9f246"
+   ],
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-14",
+   "timeline": [
+    {
+     "date": "2026-11-14",
+     "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+     "sources": 4,
+     "score": 62,
+     "event_id": "93e2a4b9f246",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "e8a425cbff50",
    "title": "Premier League to publish verdicts on referee and VAR decisions",
    "section": "sport",
@@ -12336,252 +12626,6 @@
    ]
   },
   {
-   "id": "cc5e6502b0d5",
-   "title": "Are claims of a white genocide in South Africa real?",
-   "section": "world",
-   "entities": [
-    "south",
-    "superb",
-    "olympics",
-    "olympic",
-    "cars",
-    "anti-migrant",
-    "france",
-    "africa",
-    "test",
-    "trump",
-    "africa's",
-    "durban",
-    "rwanda",
-    "hyron",
-    "australia",
-    "champions",
-    "african",
-    "crowd",
-    "parsons",
-    "games",
-    "rusty",
-    "andrews",
-    "irish"
-   ],
-   "event_ids": [
-    "cc5e6502b0d5",
-    "fa9c2e8e5738",
-    "549b64aa5243",
-    "7b455e92537b",
-    "928a902aa653",
-    "e76bd5378246",
-    "153b71c672c5",
-    "72404f6aa49e",
-    "435629369d73",
-    "27e82397cdf1",
-    "459e2e33c045",
-    "8af10dc0e103",
-    "acf84507bf24",
-    "5350c616a9cd",
-    "961347ee66d5",
-    "f3989377ad57",
-    "f5001567fdab"
-   ],
-   "first_seen": "2026-09-27",
-   "last_seen": "2026-11-08",
-   "timeline": [
-    {
-     "date": "2026-09-27",
-     "headline": "Are claims of a white genocide in South Africa real?",
-     "sources": 3,
-     "score": 56,
-     "event_id": "cc5e6502b0d5",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Two mass shootings in South Africa leave 27 dead",
-     "sources": 4,
-     "score": 67,
-     "event_id": "fa9c2e8e5738",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-      "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-     "sources": 2,
-     "score": 49,
-     "event_id": "549b64aa5243",
-     "links": [
-      "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
-      "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
-      "https://www.france24.com/en/femicides-on-the-rise-in-south-africa"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Superb South Africa seal series win over Australia",
-     "sources": 2,
-     "score": 42,
-     "event_id": "7b455e92537b",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "South Africa hope to host first African Olympics",
-     "sources": 2,
-     "score": 44,
-     "event_id": "928a902aa653",
-     "links": [
-      "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/oct/06/south-africa-bid-to-stage-africas-first-olympics-2036"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "South Africa: Anti-migrant protests turn violent",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e76bd5378246",
-     "links": [
-      "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-     "sources": 2,
-     "score": 46,
-     "event_id": "153b71c672c5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/live/2026/oct/09/south-africa-v-australia-first-test-day-one-durban-kingsmead-cricket-ground-live-updates"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "South Africa: Anti-migrant unrest flares in Durban",
-     "sources": 2,
-     "score": 43,
-     "event_id": "72404f6aa49e",
-     "links": [
-      "https://www.france24.com/en/video/20261010-south-africa-anti-migrant-unrest-flares-in-durban",
-      "https://www.theguardian.com/sport/2026/oct/10/south-africa-australia-first-test-second-day-match-report"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Rusty or something more? South Africa's concern after Australia loss",
-     "sources": 5,
-     "score": 78,
-     "event_id": "435629369d73",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss",
-      "https://www.smithsonianmag.com/smart-news/did-industrialization-gut-our-microbiomes-a-new-study-on-rural-foraging-communities-in-south-america-and-africa-hints-the-answer-is-yes-180989658/",
-      "https://www.france24.com/en/south-africa-suspends-asylum-applications-amid-renewed-anti-immigrant-protests"
-     ]
-    },
-    {
-     "date": "2026-10-16",
-     "headline": "South African rugby player Hyron ​Andrews dies in France ahead of Champions Cup debut",
-     "sources": 2,
-     "score": 47,
-     "event_id": "27e82397cdf1",
-     "links": [
-      "https://www.france24.com/en/sport/20261016-south-african-rugby-player-found-dead-in-french-hotel-ahead-of-champions-cup-debut",
-      "https://www.theguardian.com/sport/2026/oct/16/player-found-dead-lions-champions-cup-la-rochelle"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "South Africa bat first in second Test against Australia - scorecard",
-     "sources": 2,
-     "score": 42,
-     "event_id": "459e2e33c045",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/live/2026/oct/18/south-africa-v-australia-second-test-day-one-cricket-st-georges-park-gqeberha-live-updates"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Crowd of 50 beats foreigner to death in South Africa",
-     "sources": 2,
-     "score": 53,
-     "event_id": "8af10dc0e103",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Olympic Games: South Africa bids to make Durban host city for 2036 or 2040",
-     "sources": 3,
-     "score": 57,
-     "event_id": "acf84507bf24",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/10/29/olympic-games-south-africa-bid-to-make-durban-host-city-for-2036-or-2040?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/oct/29/durban-selected-south-africa-candidate-olympic-bids-2036-2040",
-      "https://www.france24.com/en/video/20261029-kenya-s-female-athletes-make-their-mark-as-youth-olympic-games-approach"
-     ]
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Parsons hat-trick as Irish seal South Africa series win",
-     "sources": 2,
-     "score": 45,
-     "event_id": "5350c616a9cd",
-     "links": [
-      "https://www.bbc.co.uk/sport/rugby-union/articles/cwe8lp875engo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Trump to remove Rwanda and South Africa from US trade deal",
-     "sources": 2,
-     "score": 43,
-     "event_id": "961347ee66d5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "ANC under pressure to reverse South Africa decline",
-     "sources": 2,
-     "score": 45,
-     "event_id": "f3989377ad57",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/south-africa-braces-for-some-job-losses-as-agoa-ends"
-     ]
-    },
-    {
-     "date": "2026-11-08",
-     "headline": "South Africa elections: ANC marks its worst-ever performance",
-     "sources": 2,
-     "score": 43,
-     "event_id": "f5001567fdab",
-     "links": [
-      "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf",
-      "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "4a6aa833b2e4",
    "title": "Shelton beats Alcaraz in latest-ever US Open finish to reach semis",
    "section": "sport",
@@ -22946,5 +22990,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T21:19:19+00:00"
+ "updated": "2026-11-14T00:36:40+00:00"
 }

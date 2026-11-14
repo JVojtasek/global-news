@@ -1,6 +1,6 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-11-13
+# ANALYTICKÉ ZADÁNÍ — 2026-11-14
 
-Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **59**.
+Paměť obsahuje **199 vláken**. Aktivních za posledních 14 dní: **58**.
 
 ---
 
@@ -99,9 +99,9 @@ Paměť obsahuje **198 vláken**. Aktivních za posledních 14 dní: **59**.
 
 _Často zajímavější než ta hlasitá. Co se s tím stalo? Vyřešilo se to, nebo jen zmizelo z pozornosti?_
 
+- **Eiffel Tower shut by staff protest after female workers moved for religious visit** — naposledy 2026-09-29, celkem 3 záznamů
 - **US and Denmark reach deal over Greenland after Trump annexation threats** — naposledy 2026-09-22, celkem 3 záznamů
 - **Saxony-Anhalt: Far-right AfD secures huge lead in key vote** — naposledy 2026-09-21, celkem 7 záznamů
 - **Norway's King Harald dies aged 89** — naposledy 2026-09-21, celkem 6 záznamů
 - **Manzambi catches eye as Villa beat Spurs - player ratings** — naposledy 2026-09-19, celkem 3 záznamů
 - **Favourite Kane makes Ballon d'Or shortlist** — naposledy 2026-09-09, celkem 3 záznamů
-- **The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'** — naposledy 2026-09-08, celkem 4 záznamů
