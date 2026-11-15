@@ -34,6 +34,20 @@ Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **64**.
   - **2026-11-13** (4 zdrojů) Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon
   - **2026-11-15** (3 zdrojů) Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
 
+### Saudi Arabia, Turkey and Pakistan sign defence pact
+- rubrika `world` · sledováno 98 dní · 60 záznamů
+- časová osa:
+  - **2026-11-03** (4 zdrojů) Asian Cup postponed in wake of attacks on Saudi Arabia
+  - **2026-11-07** (2 zdrojů) Houthis say at least 25 killed in Saudi air strike
+  - **2026-11-08** (2 zdrojů) Saudi Aramco building in Riyadh damaged after attempted attack
+  - **2026-11-08** (2 zdrojů) Yemen's Houthis claim attack on Aramco skyscraper in Riyadh
+  - **2026-11-09** (2 zdrojů) Syria confirms sending troops to Saudi Arabia amid battle against Houthis
+  - **2026-11-09** (2 zdrojů) Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund
+  - **2026-11-10** (2 zdrojů) CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right
+  - **2026-11-15** (3 zdrojů) Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live
+  - **2026-11-15** (3 zdrojů) Iran targets US military base in Bahrain with drone attack
+  - **2026-11-15** (2 zdrojů) Iran launches drone attacks against US military base in Bahrain
+
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 87 dní · 60 záznamů
 - časová osa:
@@ -75,23 +89,6 @@ Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **64**.
   - **2026-11-12** (1 zdrojů) Global Fossil Fuel Emissions Are Expected to Drop This Year, Partly Because of the Conflicts in Iran and Ukraine
   - **2026-11-13** (2 zdrojů) Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks
   - **2026-11-13** (1 zdrojů) The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents
-
-### OpenAI stuck fighting Musk antitrust suit after Apple finds a way out
-- rubrika `tech` · sledováno 59 dní · 60 záznamů
-- časová osa:
-  - **2026-11-06** (3 zdrojů) Tesla to 'wind down' production of flop Cybertruck
-  - **2026-11-07** (2 zdrojů) Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts
-  - **2026-11-09** (2 zdrojů) Musk says Tesla will refund some Cybertruck deposits, defends decision to end production
-  - **2026-11-10** (2 zdrojů) US, Russia and Ukraine hold trilateral talks aimed at ending war – Europe live
-  - **2026-11-10** (2 zdrojů) Inside devastated front-line city that Russia wants Ukraine to give up
-  - **2026-11-11** (2 zdrojů) Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough
-  - **2026-11-12** (2 zdrojů) US envoys expected to meet Putin in Moscow to discuss Ukraine ceasefire - Europe live
-  - **2026-11-12** (3 zdrojů) Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow
-  - **2026-11-12** (4 zdrojů) Putin takes hard line in US talks as Ukraine says Starlink disrupted again
-  - **2026-11-12** (2 zdrojů) ‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug
-- ⚠️ vyprávění se v čase obrátilo:
-  - 2026-10-15 → 2026-10-21: „Musk confirms SpaceX and Tesla exploring merger“
-  - 2026-10-21 → 2026-10-23: „Trump says Musk restored Ukraine’s Starlink access amid Russia war“
 
 ---
 
