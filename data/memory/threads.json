@@ -941,8 +941,9 @@
    "title": "Watch: SpaceX launches Starship rocket into orbit for first time",
    "section": "science",
    "entities": [
-    "spacex's",
+    "saturday",
     "spacex",
+    "spacex's",
     "starship",
     "earth"
    ],
@@ -951,7 +952,8 @@
     "d8fac7c02e1c",
     "4443d0813e25",
     "9ccf6dd29429",
-    "7f23713430ee"
+    "7f23713430ee",
+    "ce3d0293b235"
    ],
    "first_seen": "2026-09-28",
    "last_seen": "2026-11-15",
@@ -1012,6 +1014,17 @@
      "links": [
       "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
       "https://phys.org/news/2026-11-spacex-starship-soars-orbit-booster.html"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+     "sources": 2,
+     "score": 41,
+     "event_id": "ce3d0293b235",
+     "links": [
+      "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss"
      ]
     }
    ]
@@ -23253,5 +23266,5 @@
    ]
   }
  ],
- "updated": "2026-11-15T00:41:23+00:00"
+ "updated": "2026-11-15T03:21:21+00:00"
 }
