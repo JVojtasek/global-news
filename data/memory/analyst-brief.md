@@ -9,7 +9,6 @@ Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **61**.
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 98 dní · 60 záznamů
 - časová osa:
-  - **2026-11-01** (2 zdrojů) Wales hit by Australia century in World Cup record defeat
   - **2026-11-05** (2 zdrojů) England captain Kane signs new Bayern contract
   - **2026-11-08** (2 zdrojů) Australia reach World Cup final after Fiji scare
   - **2026-11-08** (2 zdrojů) Walsh-inspired Australia crush irate Samoa to reach World Cup final
@@ -19,6 +18,7 @@ Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **61**.
   - **2026-11-14** (2 zdrojů) Spain test will reveal if Tuchel and England have learned World Cup lessons
   - **2026-11-14** (2 zdrojů) Haaland helps Norway to win over Wales in Nations League
   - **2026-11-15** (2 zdrojů) Devlin nets winner as NI top Nations League group
+  - **2026-11-15** (2 zdrojů) Ruthless Australia win record fourth Women's World Cup
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 87 dní · 60 záznamů

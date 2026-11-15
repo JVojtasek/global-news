@@ -173,7 +173,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-06  (2 zdrojů, síla 52)  Kane scores twice but who else was a 'real threat'? England player ratings
   2026-10-07  (2 zdrojů, síla 42)  Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
   2026-10-08  (3 zdrojů, síla 58)  Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
   2026-10-22  (2 zdrojů, síla 46)  Harry Kane: Ballon d’Or for Bayern Munich striker?
@@ -193,6 +192,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-11-14  (2 zdrojů, síla 52)  Spain test will reveal if Tuchel and England have learned World Cup lessons
   2026-11-14  (2 zdrojů, síla 47)  Haaland helps Norway to win over Wales in Nations League
   2026-11-15  (2 zdrojů, síla 49)  Devlin nets winner as NI top Nations League group
+  2026-11-15  (2 zdrojů, síla 50)  Ruthless Australia win record fourth Women's World Cup
 ```
 
 ### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions

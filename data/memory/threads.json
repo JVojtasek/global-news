@@ -5,46 +5,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "ireland",
-    "uefa",
-    "england",
-    "englishman",
-    "ballon",
-    "portugal",
-    "spain",
-    "quiz",
-    "devlin",
-    "mamdani",
-    "police",
-    "walsh-inspired",
-    "league",
-    "bellingham",
-    "wales",
-    "world",
-    "munich",
-    "gordon",
-    "france",
+    "klopp",
+    "macedonia",
     "east-west",
-    "tuchel",
-    "europe",
+    "czechia",
+    "munich",
+    "women's",
+    "gordon",
+    "world",
+    "australia",
+    "portugal",
+    "bellingham",
+    "walsh-inspired",
+    "quiz",
+    "belgium",
     "jerusalem",
     "lamine",
     "protests",
-    "halloween",
-    "haaland",
-    "board",
     "northern",
+    "devlin",
     "germany",
-    "czechia",
+    "uefa",
+    "wales",
+    "englishman",
+    "europe",
+    "tuchel",
     "nations",
     "croatia",
-    "norway",
-    "fiji",
-    "macedonia",
-    "australia",
-    "klopp",
+    "ireland",
+    "mamdani",
+    "ballon",
+    "board",
+    "england",
+    "france",
+    "league",
     "assembly",
-    "belgium"
+    "ruthless",
+    "police",
+    "haaland",
+    "spain",
+    "fiji"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -149,22 +149,12 @@
     "556878c52507",
     "a2b9232e7194",
     "e0c8b0fa73cd",
-    "aff9c2fc2a5c"
+    "aff9c2fc2a5c",
+    "3ebb891ff331"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-11-15",
    "timeline": [
-    {
-     "date": "2026-09-23",
-     "headline": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-     "sources": 2,
-     "score": 44,
-     "event_id": "1c5e2ce6d622",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
     {
      "date": "2026-09-24",
      "headline": "Israel facing water shortages caused by destruction of Gaza’s treatment plants",
@@ -838,6 +828,18 @@
       "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Ruthless Australia win record fourth Women's World Cup",
+     "sources": 2,
+     "score": 50,
+     "event_id": "3ebb891ff331",
+     "links": [
+      "https://www.bbc.co.uk/sport/rugby-league/articles/c50mdzx3j039o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/live/2026/nov/15/australia-kangaroos-vs-new-zealand-kiwis-mens-rugby-league-world-cup-final-live-updates",
+      "https://www.theguardian.com/sport/2026/nov/15/australia-jillaroos-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-match-report"
      ]
     }
    ]
@@ -23279,5 +23281,5 @@
    ]
   }
  ],
- "updated": "2026-11-15T06:25:19+00:00"
+ "updated": "2026-11-15T09:19:09+00:00"
 }
