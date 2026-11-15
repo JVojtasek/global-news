@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-15
 
-Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **61**.
+Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **63**.
 
 ---
 
