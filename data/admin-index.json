@@ -1,6 +1,23 @@
 {
- "generated": "2026-11-15T04:35:30+00:00",
+ "generated": "2026-11-15T06:41:33+00:00",
  "articles": [
+  {
+   "lang": "en",
+   "slug": "an-ai-benchmark-is-a-ruler-with-a-job-description",
+   "title": "An AI Benchmark Is a Ruler with a Job Description",
+   "dek": "A leaderboard score can compare systems on a defined test. It cannot, by itself, tell you whether the system will work safely in your setting.",
+   "date": "2026-11-15",
+   "status": "published",
+   "section": "ai",
+   "type": "feature",
+   "depth": "open",
+   "confidence": 89,
+   "path": "content/en/2026-11-15-an-ai-benchmark-is-a-ruler-with-a-job-description.md",
+   "access": "public",
+   "url": "/en/ai/an-ai-benchmark-is-a-ruler-with-a-job-description/",
+   "review": {},
+   "problems": []
+  },
   {
    "lang": "en",
    "slug": "while-russia-tries-to-manipulate-information-local-civil-society-is-te",
@@ -8226,23 +8243,6 @@
    "path": "content/cs/2026-09-25-an-orchestra-tunes-to-a-relationship-not-a-number.md",
    "access": "public",
    "url": "/cs/culture/an-orchestra-tunes-to-a-relationship-not-a-number/",
-   "review": {},
-   "problems": []
-  },
-  {
-   "lang": "en",
-   "slug": "an-ai-benchmark-is-a-ruler-with-a-job-description",
-   "title": "An AI Benchmark Is a Ruler with a Job Description",
-   "dek": "A leaderboard score can compare systems on a defined test. It cannot, by itself, tell you whether the system will work safely in your setting.",
-   "date": "2026-09-25",
-   "status": "reserve",
-   "section": "ai",
-   "type": "feature",
-   "depth": "open",
-   "confidence": 89,
-   "path": "content/en/2026-09-25-an-ai-benchmark-is-a-ruler-with-a-job-description.md",
-   "access": "public",
-   "url": "",
    "review": {},
    "problems": []
   },
