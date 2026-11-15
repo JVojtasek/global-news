@@ -9,77 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
-- id události: `388a48be7bb7`  ·  rubrika: `tech`  ·  skóre: 83  ·  nezávislých zdrojů: 10
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC Technology** — Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
-    <https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss>
-    > Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.
-  - **Guardian Business** — Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?
-    <https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached>
-    > CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its f
-  - **Guardian Business** — From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang
-    <https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile>
-    > Technical expertise and an ability to engage gave the chipmaker’s co-founder, who has now resigned, the edge with customers and investors Jensen Huang resigns as Nvidia CEO after alleged affairs Jensen Huang wasn’t always in his trademark leather jacket. When the multibillionaire
-  - **The Verge** — The Jensen Huang scandal is hardly over
-    <https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling>
-    > I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has e
-  - **The Verge AI** — The Jensen Huang scandal is hardly over
-    <https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling>
-    > I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has e
-  - **CNBC Top** — Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet
-    <https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html>
-    > Nvidia's leadership crisis threatens to spill over into the AI financing boom.
-  - **CNBC Top** — Jensen Huang's exit from Nvidia raises critical questions about the future of AI
-    <https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html>
-    > Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.
-  - **TechCrunch** — Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit
-    <https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/>
-    > Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.
-  - **Al Jazeera** — Nvidia CEO Jensen Huang steps down, more affair details revealed
-    <https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss>
-    > Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company.
-  - **TechCrunch** — Jensen Huang agrees to testify before Congress
-    <https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/>
-    > Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.
-
-### 2. Jensen Huang has resigned, what's next for Nvidia?
-- id události: `a071c05d950f`  ·  rubrika: `business`  ·  skóre: 83  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Jensen Huang has resigned, what's next for Nvidia?
-    <https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss>
-    > The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.
-  - **Guardian Business** — Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley
-    <https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go>
-    > CEO was viewed as ‘irreplaceable’, but recklessness of affair with a woman regarded by US officials as a Chinese spy made him a political liability Half the tech world made up its mind before the facts could be assessed properly. Jensen Huang was “irreplaceable”, said the chorus 
-  - **Guardian Business** — Thanks to American oligarchy, Jensen Huang’s midlife crisis is a problem for all of us | Moira Donegan
-    <https://www.theguardian.com/commentisfree/2026/nov/12/jensen-huang-nvidia-trump-oligarchy>
-    > At a time when individual men wield massive power, the ramifications of the Nvidia CEO’s affair could be enormous One of the reasons you want to distribute power and responsibility in powerful organizations and high-stakes enterprises is so that the narcissism or myopia of one ma
-  - **CNBC Top** — Alice Huang tied to Nvidia’s biggest Chinese competitor
-    <https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html>
-    > The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.
-  - **CNBC Top** — Jensen Huang's exit from Nvidia raises critical questions about the future of AI
-    <https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html>
-    > Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.
-  - **TechCrunch** — Jensen Huang was having a third affair, Reuters reports
-    <https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/>
-    > Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.
-  - **CNBC Top** — Jensen Huang is out and Nvidia stock is down—what market pros say about buying dips
-    <https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html>
-    > Nvidia stock fell 5% on Thursday following the departure of CEO Jensen Huang. Some see it as a signal to sell, others an opportunity to buy.
-  - **CNBC Top** — Who will replace Jensen Huang? Here's our early thoughts on the search for Nvidia's next CEO
-    <https://www.cnbc.com/investingclub/2026/11/12/jensen-huang-ceo-replacement-jim-cramer.html>
-    > Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
-  - **Al Jazeera** — Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?
-    <https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss>
-    > Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.
-  - **TechCrunch** — Jensen Huang’s exit puts Nvidia’s support for open source in question
-    <https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/>
-    > Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.
-
-### 3. Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
+### 1. Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
 - id události: `ea7faee11632`  ·  rubrika: `business`  ·  skóre: 83  ·  nezávislých zdrojů: 9
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -114,7 +44,7 @@
     <https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions>
     > Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday tha
 
-### 4. US Senate asks Huang, Lutnick to testify on Nvidia
+### 2. US Senate asks Huang, Lutnick to testify on Nvidia
 - id události: `15ca2a489eb0`  ·  rubrika: `business`  ·  skóre: 81  ·  nezávislých zdrojů: 7
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -149,6 +79,63 @@
     <https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html>
     > Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for "resilience, professionalism and continued dedication
 
+### 3. SpaceX catches part of its Starship rocket on return to Earth
+- id události: `4443d0813e25`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 7
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC Science** — SpaceX catches part of its Starship rocket on return to Earth
+    <https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss>
+    > SpaceX has performed the historic catch using mechanical arms nicknamed "chopsticks".
+  - **BBC World** — 'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth
+    <https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss>
+    > SpaceX has performed the historic catch using mechanical arms nicknamed "chopsticks".
+  - **BBC Science** — 'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth
+    <https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss>
+    > SpaceX has performed the historic catch using mechanical arms nicknamed "chopsticks".
+  - **NPR News** — SpaceX successfully catches Starship and makes history
+    <https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history>
+    > The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.
+  - **Al Jazeera** — SpaceX’s Starship captured by launchpad arms in dramatic first
+    <https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss>
+    > SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.
+  - **The Verge** — Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship
+    <https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch>
+    > After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its "Mechazilla" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has
+  - **Investing.com** — SpaceX catches Starship spacecraft after booster failure
+    <https://www.investing.com/news/company-news/spacex-catches-starship-spacecraft-after-booster-failure-5027589>
+  - **Hacker News Best** — SpaceX catches the Starship to end Flight 15
+    <https://www.spacex.com/launches/starship-flight-15>
+    > https://x.com/SpaceX/status/2121316300702056595 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 504 # Comments: 308
+
+### 4. What’s really at stake in the Jensen Huang saga
+- id události: `627c324df106`  ·  rubrika: `ai`  ·  skóre: 79  ·  nezávislých zdrojů: 6
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **The Verge** — What’s really at stake in the Jensen Huang saga
+    <https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast>
+    > One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, a
+  - **The Verge AI** — What’s really at stake in the Jensen Huang saga
+    <https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast>
+    > One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, a
+  - **CNBC Top** — Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here
+    <https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html>
+    > Nvidia is facing its biggest crisis in its 33 year history, with founder Jensen Huang resigning as CEO. Here's the story of the rise and fall of Jensen Huang.
+  - **SCMP Tech (Čína)** — Will Jensen Huang’s downfall tip the scales against open-source AI?
+    <https://www.scmp.com/tech/big-tech/article/3374376/will-jensen-huangs-downfall-tip-scales-against-open-source-ai>
+    > Jensen Huang’s abrupt resignation from Nvidia has cast uncertainty over the US chip giant’s multibillion-dollar investments in open-source artificial intelligence, while potentially depriving Chinese developers of one of their most influential advocates in Washington. His departu
+  - **CNBC Top** — What's ahead for AI financing after Nvidia CEO Jensen Huang departs
+    <https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html>
+    > Jensen Huang’s resignation puts Nvidia’s AI financing strategy in focus as investors watch credit markets and neocloud exposure.
+  - **TechCrunch** — Jensen Huang didn’t show confidence in his successor, report says
+    <https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/>
+    > Huang described Kress as a "deer in the headlights" during a meeting in summer.
+  - **SCMP Tech (Čína)** — Who is Alice Huang and why is her relationship with Nvidia’s CEO under scrutiny?
+    <https://www.scmp.com/tech/tech-war/article/3373960/who-alice-huang-and-why-her-relationship-nvidias-ceo-under-scrutiny>
+    > Nvidia founder and CEO Jensen Huang has admitted to having an extramarital affair as the chipmaker investigates reported allegations that a Chinese businesswoman close to him may have been working for Beijing’s intelligence services. Beijing has rejected the espionage claims as “
+  - **Hacker News Best** — Former Nvidia CEO Huang had a relationship with a second employee, sources say
+    <https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/>
+    > https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 354 # Comments: 387
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -180,7 +167,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-08  (3 zdrojů, síla 58)  Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
   2026-10-22  (2 zdrojů, síla 46)  Harry Kane: Ballon d’Or for Bayern Munich striker?
   2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes
   2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
@@ -200,6 +186,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-11-15  (2 zdrojů, síla 49)  Devlin nets winner as NI top Nations League group
   2026-11-15  (2 zdrojů, síla 50)  Ruthless Australia win record fourth Women's World Cup
   2026-11-15  (2 zdrojů, síla 49)  Four in a row - Australia win women's rugby league World Cup again
+  2026-11-15  (2 zdrojů, síla 42)  What Wales need to stay in Nations League top tier
 ```
 
 ### 2. What has actually changed: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.

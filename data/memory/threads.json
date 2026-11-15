@@ -5,46 +5,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "portugal",
+    "ballon",
+    "gordon",
+    "devlin",
+    "bellingham",
+    "lamine",
+    "england",
+    "wales",
+    "jerusalem",
+    "uefa",
+    "league",
+    "klopp",
+    "board",
+    "four",
     "protests",
-    "northern",
-    "englishman",
-    "mamdani",
     "munich",
     "germany",
-    "world",
-    "east-west",
-    "bellingham",
-    "fiji",
-    "walsh-inspired",
-    "uefa",
-    "lamine",
-    "jerusalem",
-    "australia",
-    "devlin",
-    "four",
-    "france",
-    "quiz",
-    "women's",
-    "europe",
-    "croatia",
-    "wales",
-    "police",
-    "league",
-    "england",
-    "assembly",
-    "nations",
-    "macedonia",
-    "ballon",
-    "ireland",
-    "haaland",
-    "gordon",
-    "ruthless",
-    "klopp",
-    "czechia",
     "tuchel",
-    "spain",
-    "board"
+    "croatia",
+    "mamdani",
+    "czechia",
+    "assembly",
+    "women's",
+    "macedonia",
+    "englishman",
+    "walsh-inspired",
+    "police",
+    "ruthless",
+    "portugal",
+    "ireland",
+    "world",
+    "nations",
+    "australia",
+    "haaland",
+    "fiji",
+    "quiz",
+    "east-west",
+    "northern",
+    "france",
+    "europe",
+    "spain"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -151,22 +151,12 @@
     "e0c8b0fa73cd",
     "aff9c2fc2a5c",
     "3ebb891ff331",
-    "db6eeb41e066"
+    "db6eeb41e066",
+    "ce47e6e375ca"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-11-15",
    "timeline": [
-    {
-     "date": "2026-09-24",
-     "headline": "Trump, Xi expected to talk Taiwan, AI, trade and Iran as DC summit kicks off",
-     "sources": 2,
-     "score": 41,
-     "event_id": "89b9289758e8",
-     "links": [
-      "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
-      "https://www.aljazeera.com/news/liveblog/2026/9/24/trump-xi-summit-live-trade-ai-iran-and-taiwan-top-us-china-talks?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-09-24",
      "headline": "Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live",
@@ -842,6 +832,17 @@
       "https://www.bbc.co.uk/sport/rugby-league/videos/c6kgrvpnmdgdo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/sport/rugby-league/articles/cw808lm89x81o?at_medium=RSS&at_campaign=rss",
       "https://www.aljazeera.com/sports/2026/11/15/australia-crush-new-zealand-to-win-fourth-womens-rugby-league-world-cup?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "What Wales need to stay in Nations League top tier",
+     "sources": 2,
+     "score": 42,
+     "event_id": "ce47e6e375ca",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live"
      ]
     }
    ]
@@ -3152,13 +3153,13 @@
    "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
    "section": "tech",
    "entities": [
-    "double",
     "jensen",
     "musk",
     "elon",
     "singapore",
+    "nvidia",
     "huang",
-    "nvidia"
+    "double"
    ],
    "event_ids": [
     "93e2a4b9f246",
@@ -3167,7 +3168,8 @@
     "a15c62a956a1",
     "9a2034b63080",
     "a4a92fbcda03",
-    "72120cb31e65"
+    "72120cb31e65",
+    "2f1f5cbf7ce8"
    ],
    "first_seen": "2026-11-14",
    "last_seen": "2026-11-15",
@@ -3250,6 +3252,18 @@
       "https://www.scmp.com/tech/big-tech/article/3374494/could-jensen-huang-make-comeback-musk-other-tech-heavyweights-pressure-nvidia-board",
       "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
       "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+     "sources": 3,
+     "score": 46,
+     "event_id": "2f1f5cbf7ce8",
+     "links": [
+      "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097"
      ]
     }
    ]
@@ -23414,5 +23428,5 @@
    ]
   }
  ],
- "updated": "2026-11-15T18:19:35+00:00"
+ "updated": "2026-11-15T21:19:13+00:00"
 }

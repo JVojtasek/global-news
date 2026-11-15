@@ -6,214 +6,6 @@
  "reserve_articles": 4,
  "news_assignments": [
   {
-   "id": "388a48be7bb7",
-   "headline": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
-   "section": "tech",
-   "score": 83,
-   "sources_count": 10,
-   "depth_signal": 0,
-   "created": "2026-11-12T18:21:38+00:00",
-   "event_time": "2026-11-12T16:43:36+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
-     "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Technology",
-     "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
-     "published_at": "2026-11-12T16:43:36+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T18:21:35+00:00"
-    },
-    {
-     "title": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
-     "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
-     "source": "Guardian Business",
-     "summary": "CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focus Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its fortunes mean for the world? Nvidia’s sky-high valuation is based on the fact that it designs and sells the advanced AI c",
-     "published_at": "2026-11-12T17:50:35+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T18:21:35+00:00"
-    },
-    {
-     "title": "From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang",
-     "url": "https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile",
-     "source": "Guardian Business",
-     "summary": "Technical expertise and an ability to engage gave the chipmaker’s co-founder, who has now resigned, the edge with customers and investors Jensen Huang resigns as Nvidia CEO after alleged affairs Jensen Huang wasn’t always in his trademark leather jacket. When the multibillionaire, now former Nvidia chief executive was a teenager in the US, his first job was waiting tables and washing dishes at a b",
-     "published_at": "2026-11-12T16:17:31+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T18:21:35+00:00"
-    },
-    {
-     "title": "The Jensen Huang scandal is hardly over",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-     "source": "The Verge",
-     "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'est moi. Then […]",
-     "published_at": "2026-11-12T17:44:33+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T18:21:35+00:00"
-    },
-    {
-     "title": "The Jensen Huang scandal is hardly over",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-     "source": "The Verge AI",
-     "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'état c'est moi. Then […]",
-     "published_at": "2026-11-12T17:44:33+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T18:21:35+00:00"
-    },
-    {
-     "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
-     "url": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
-     "source": "CNBC Top",
-     "summary": "Nvidia's leadership crisis threatens to spill over into the AI financing boom.",
-     "published_at": "2026-11-12T17:41:46+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T18:21:35+00:00"
-    },
-    {
-     "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
-     "url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
-     "source": "CNBC Top",
-     "summary": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
-     "published_at": "2026-11-12T17:37:36+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T18:21:35+00:00"
-    },
-    {
-     "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
-     "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-     "source": "TechCrunch",
-     "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
-     "published_at": "2026-11-12T17:36:40+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T18:21:35+00:00"
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company.",
-     "published_at": "2026-11-12T17:25:58+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T18:21:35+00:00"
-    },
-    {
-     "title": "Jensen Huang agrees to testify before Congress",
-     "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-     "source": "TechCrunch",
-     "summary": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
-     "published_at": "2026-11-12T16:36:37+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T18:21:35+00:00"
-    }
-   ],
-   "depth": "open"
-  },
-  {
-   "id": "a071c05d950f",
-   "headline": "Jensen Huang has resigned, what's next for Nvidia?",
-   "section": "business",
-   "score": 83,
-   "sources_count": 6,
-   "depth_signal": 0,
-   "created": "2026-11-12T21:19:01+00:00",
-   "event_time": "2026-11-12T19:33:37+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Jensen Huang has resigned, what's next for Nvidia?",
-     "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
-     "published_at": "2026-11-12T19:33:37+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T21:18:58+00:00"
-    },
-    {
-     "title": "Jensen Huang was a busted flush at Nvidia – he had to go | Nils Pratley",
-     "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/12/jensen-huang-was-a-busted-flush-at-nvidia-he-had-to-go",
-     "source": "Guardian Business",
-     "summary": "CEO was viewed as ‘irreplaceable’, but recklessness of affair with a woman regarded by US officials as a Chinese spy made him a political liability Half the tech world made up its mind before the facts could be assessed properly. Jensen Huang was “irreplaceable”, said the chorus at the start of this week. Nvidia would melt without the co-founder’s brilliance, apparently. The chipmaker’s board had ",
-     "published_at": "2026-11-12T18:46:48+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T21:18:58+00:00"
-    },
-    {
-     "title": "Thanks to American oligarchy, Jensen Huang’s midlife crisis is a problem for all of us | Moira Donegan",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/12/jensen-huang-nvidia-trump-oligarchy",
-     "source": "Guardian Business",
-     "summary": "At a time when individual men wield massive power, the ramifications of the Nvidia CEO’s affair could be enormous One of the reasons you want to distribute power and responsibility in powerful organizations and high-stakes enterprises is so that the narcissism or myopia of one man do not come to carry outsized consequences. When power is spread out across multiple people, it matters less if one of",
-     "published_at": "2026-11-12T18:29:56+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T21:18:58+00:00"
-    },
-    {
-     "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
-     "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-     "source": "CNBC Top",
-     "summary": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.",
-     "published_at": "2026-11-12T20:34:54+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T21:18:58+00:00"
-    },
-    {
-     "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
-     "url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
-     "source": "CNBC Top",
-     "summary": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
-     "published_at": "2026-11-12T20:32:21+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T21:18:58+00:00"
-    },
-    {
-     "title": "Jensen Huang was having a third affair, Reuters reports",
-     "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-     "source": "TechCrunch",
-     "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
-     "published_at": "2026-11-12T20:26:47+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T21:18:58+00:00"
-    },
-    {
-     "title": "Jensen Huang is out and Nvidia stock is down—what market pros say about buying dips",
-     "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
-     "source": "CNBC Top",
-     "summary": "Nvidia stock fell 5% on Thursday following the departure of CEO Jensen Huang. Some see it as a signal to sell, others an opportunity to buy.",
-     "published_at": "2026-11-12T20:01:29+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T21:18:58+00:00"
-    },
-    {
-     "title": "Who will replace Jensen Huang? Here's our early thoughts on the search for Nvidia's next CEO",
-     "url": "https://www.cnbc.com/investingclub/2026/11/12/jensen-huang-ceo-replacement-jim-cramer.html",
-     "source": "CNBC Top",
-     "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-     "published_at": "2026-11-12T20:00:42+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T21:18:58+00:00"
-    },
-    {
-     "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
-     "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.",
-     "published_at": "2026-11-12T19:45:40+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T21:18:58+00:00"
-    },
-    {
-     "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-     "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-     "source": "TechCrunch",
-     "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
-     "published_at": "2026-11-12T18:39:23+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-12T21:18:58+00:00"
-    }
-   ],
-   "depth": "open"
-  },
-  {
    "id": "ea7faee11632",
    "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
    "section": "business",
@@ -420,6 +212,178 @@
     }
    ],
    "depth": "scripture"
+  },
+  {
+   "id": "4443d0813e25",
+   "headline": "SpaceX catches part of its Starship rocket on return to Earth",
+   "section": "world",
+   "score": 81,
+   "sources_count": 7,
+   "depth_signal": 0,
+   "created": "2026-11-15T00:41:23+00:00",
+   "event_time": "2026-11-14T23:15:10+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "SpaceX catches part of its Starship rocket on return to Earth",
+     "url": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Science",
+     "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+     "published_at": "2026-11-14T23:15:10+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-15T00:41:20+00:00"
+    },
+    {
+     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+     "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+     "published_at": "2026-11-14T22:09:40+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-15T00:41:20+00:00"
+    },
+    {
+     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+     "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC Science",
+     "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+     "published_at": "2026-11-14T22:09:40+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-15T00:41:20+00:00"
+    },
+    {
+     "title": "SpaceX successfully catches Starship and makes history",
+     "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+     "source": "NPR News",
+     "summary": "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.",
+     "published_at": "2026-11-14T21:42:41+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-15T00:41:20+00:00"
+    },
+    {
+     "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+     "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
+     "published_at": "2026-11-15T00:14:22+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-15T00:41:20+00:00"
+    },
+    {
+     "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+     "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+     "source": "The Verge",
+     "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon […]",
+     "published_at": "2026-11-14T21:44:44+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-15T00:41:20+00:00"
+    },
+    {
+     "title": "SpaceX catches Starship spacecraft after booster failure",
+     "url": "https://www.investing.com/news/company-news/spacex-catches-starship-spacecraft-after-booster-failure-5027589",
+     "source": "Investing.com",
+     "summary": "",
+     "published_at": "2026-11-15T00:06:46+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-15T00:41:20+00:00"
+    },
+    {
+     "title": "SpaceX catches the Starship to end Flight 15",
+     "url": "https://www.spacex.com/launches/starship-flight-15",
+     "source": "Hacker News Best",
+     "summary": "https://x.com/SpaceX/status/2121316300702056595 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 504 # Comments: 308",
+     "published_at": "2026-11-14T21:22:24+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-15T00:41:20+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
+   "id": "627c324df106",
+   "headline": "What’s really at stake in the Jensen Huang saga",
+   "section": "ai",
+   "score": 79,
+   "sources_count": 6,
+   "depth_signal": 0,
+   "created": "2026-11-13T15:18:29+00:00",
+   "event_time": "2026-11-13T14:47:16+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "What’s really at stake in the Jensen Huang saga",
+     "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+     "source": "The Verge",
+     "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
+     "published_at": "2026-11-13T14:47:16+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-13T15:18:26+00:00"
+    },
+    {
+     "title": "What’s really at stake in the Jensen Huang saga",
+     "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+     "source": "The Verge AI",
+     "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]",
+     "published_at": "2026-11-13T14:47:16+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-13T15:18:26+00:00"
+    },
+    {
+     "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
+     "url": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html",
+     "source": "CNBC Top",
+     "summary": "Nvidia is facing its biggest crisis in its 33 year history, with founder Jensen Huang resigning as CEO. Here's the story of the rise and fall of Jensen Huang.",
+     "published_at": "2026-11-13T14:01:24+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-13T15:18:26+00:00"
+    },
+    {
+     "title": "Will Jensen Huang’s downfall tip the scales against open-source AI?",
+     "url": "https://www.scmp.com/tech/big-tech/article/3374376/will-jensen-huangs-downfall-tip-scales-against-open-source-ai",
+     "source": "SCMP Tech (Čína)",
+     "summary": "Jensen Huang’s abrupt resignation from Nvidia has cast uncertainty over the US chip giant’s multibillion-dollar investments in open-source artificial intelligence, while potentially depriving Chinese developers of one of their most influential advocates in Washington. His departure could prompt Nvidia to scale back spending on open-weight models and their supporting infrastructure, analysts said, ",
+     "published_at": "2026-11-13T14:00:09+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-13T15:18:26+00:00"
+    },
+    {
+     "title": "What's ahead for AI financing after Nvidia CEO Jensen Huang departs",
+     "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
+     "source": "CNBC Top",
+     "summary": "Jensen Huang’s resignation puts Nvidia’s AI financing strategy in focus as investors watch credit markets and neocloud exposure.",
+     "published_at": "2026-11-13T12:54:43+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-13T15:18:26+00:00"
+    },
+    {
+     "title": "Jensen Huang didn’t show confidence in his successor, report says",
+     "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+     "source": "TechCrunch",
+     "summary": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+     "published_at": "2026-11-13T12:28:23+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-13T15:18:26+00:00"
+    },
+    {
+     "title": "Who is Alice Huang and why is her relationship with Nvidia’s CEO under scrutiny?",
+     "url": "https://www.scmp.com/tech/tech-war/article/3373960/who-alice-huang-and-why-her-relationship-nvidias-ceo-under-scrutiny",
+     "source": "SCMP Tech (Čína)",
+     "summary": "Nvidia founder and CEO Jensen Huang has admitted to having an extramarital affair as the chipmaker investigates reported allegations that a Chinese businesswoman close to him may have been working for Beijing’s intelligence services. Beijing has rejected the espionage claims as “baseless”, while Nvidia has said it had no reason to believe company secrets or US national security were compromised. T",
+     "published_at": "2026-11-10T10:40:24+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-13T15:18:26+00:00"
+    },
+    {
+     "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+     "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+     "source": "Hacker News Best",
+     "summary": "https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 354 # Comments: 387",
+     "published_at": "2026-11-12T19:51:33+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-13T15:18:26+00:00"
+    }
+   ],
+   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -457,7 +421,7 @@
    "title_hint": "What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "depth": "scripture",
-   "timeline": "VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-10-08  (3 zdrojů, síla 58)  Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain\n  2026-10-22  (2 zdrojů, síla 46)  Harry Kane: Ballon d’Or for Bayern Munich striker?\n  2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes\n  2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or\n  2026-10-27  (4 zdrojů, síla 70)  'A dream come true' - Harry Kane on his Ballon d'Or win\n  2026-10-27  (2 zdrojů, síla 52)  Quiz: Kane and who else? Name every men's Ballon d'Or winner\n  2026-10-30  (2 zdrojů, síla 57)  England thrash Wales to begin World Cup defence\n  2026-10-31  (2 zdrojů, síla 46)  Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live\n  2026-11-01  (2 zdrojů, síla 51)  Wales hit by Australia century in World Cup record defeat\n  2026-11-05  (2 zdrojů, síla 42)  England captain Kane signs new Bayern contract\n  2026-11-08  (2 zdrojů, síla 50)  Australia reach World Cup final after Fiji scare\n  2026-11-08  (2 zdrojů, síla 47)  Walsh-inspired Australia crush irate Samoa to reach World Cup final\n  2026-11-12  (2 zdrojů, síla 46)  England vs Croatia: UEFA Nations League – preview, team news, predictions\n  2026-11-12  (2 zdrojů, síla 40)  Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales\n  2026-11-14  (2 zdrojů, síla 48)  Spain vs England: UEFA Nations League – predictions, how to watch, teams\n  2026-11-14  (2 zdrojů, síla 52)  Spain test will reveal if Tuchel and England have learned World Cup lessons\n  2026-11-14  (2 zdrojů, síla 47)  Haaland helps Norway to win over Wales in Nations League\n  2026-11-15  (2 zdrojů, síla 49)  Devlin nets winner as NI top Nations League group\n  2026-11-15  (2 zdrojů, síla 50)  Ruthless Australia win record fourth Women's World Cup\n  2026-11-15  (2 zdrojů, síla 49)  Four in a row - Australia win women's rugby league World Cup again",
+   "timeline": "VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-10-22  (2 zdrojů, síla 46)  Harry Kane: Ballon d’Or for Bayern Munich striker?\n  2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes\n  2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or\n  2026-10-27  (4 zdrojů, síla 70)  'A dream come true' - Harry Kane on his Ballon d'Or win\n  2026-10-27  (2 zdrojů, síla 52)  Quiz: Kane and who else? Name every men's Ballon d'Or winner\n  2026-10-30  (2 zdrojů, síla 57)  England thrash Wales to begin World Cup defence\n  2026-10-31  (2 zdrojů, síla 46)  Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live\n  2026-11-01  (2 zdrojů, síla 51)  Wales hit by Australia century in World Cup record defeat\n  2026-11-05  (2 zdrojů, síla 42)  England captain Kane signs new Bayern contract\n  2026-11-08  (2 zdrojů, síla 50)  Australia reach World Cup final after Fiji scare\n  2026-11-08  (2 zdrojů, síla 47)  Walsh-inspired Australia crush irate Samoa to reach World Cup final\n  2026-11-12  (2 zdrojů, síla 46)  England vs Croatia: UEFA Nations League – preview, team news, predictions\n  2026-11-12  (2 zdrojů, síla 40)  Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales\n  2026-11-14  (2 zdrojů, síla 48)  Spain vs England: UEFA Nations League – predictions, how to watch, teams\n  2026-11-14  (2 zdrojů, síla 52)  Spain test will reveal if Tuchel and England have learned World Cup lessons\n  2026-11-14  (2 zdrojů, síla 47)  Haaland helps Norway to win over Wales in Nations League\n  2026-11-15  (2 zdrojů, síla 49)  Devlin nets winner as NI top Nations League group\n  2026-11-15  (2 zdrojů, síla 50)  Ruthless Australia win record fourth Women's World Cup\n  2026-11-15  (2 zdrojů, síla 49)  Four in a row - Australia win women's rugby league World Cup again\n  2026-11-15  (2 zdrojů, síla 42)  What Wales need to stay in Nations League top tier",
    "thread_days": 60
   },
   {
