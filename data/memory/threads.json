@@ -5,46 +5,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "nations",
-    "mamdani",
-    "france",
-    "bellingham",
-    "east-west",
-    "norway",
-    "israel",
-    "halloween",
-    "englishman",
-    "wales",
-    "protests",
+    "ireland",
     "uefa",
+    "england",
+    "englishman",
+    "ballon",
+    "portugal",
+    "spain",
+    "quiz",
+    "devlin",
+    "mamdani",
+    "police",
+    "walsh-inspired",
+    "league",
+    "bellingham",
+    "wales",
+    "world",
+    "munich",
+    "gordon",
+    "france",
+    "east-west",
+    "tuchel",
+    "europe",
+    "jerusalem",
+    "lamine",
+    "protests",
+    "halloween",
+    "haaland",
+    "board",
     "northern",
     "germany",
-    "fiji",
-    "klopp",
-    "ireland",
-    "australia",
-    "world",
-    "tuchel",
-    "assembly",
-    "belgium",
-    "macedonia",
-    "police",
-    "munich",
-    "spain",
-    "portugal",
     "czechia",
-    "haaland",
-    "england",
-    "ballon",
-    "quiz",
-    "lamine",
-    "jerusalem",
-    "league",
+    "nations",
     "croatia",
-    "walsh-inspired",
-    "board",
-    "gordon",
-    "europe"
+    "norway",
+    "fiji",
+    "macedonia",
+    "australia",
+    "klopp",
+    "assembly",
+    "belgium"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -148,22 +148,12 @@
     "ebc3e5fcbca7",
     "556878c52507",
     "a2b9232e7194",
-    "e0c8b0fa73cd"
+    "e0c8b0fa73cd",
+    "aff9c2fc2a5c"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-11-14",
+   "last_seen": "2026-11-15",
    "timeline": [
-    {
-     "date": "2026-09-23",
-     "headline": "Trump's Board of Peace proposes $2.45B for reconstruction in Gaza",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c4c26ff56cab",
-     "links": [
-      "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-09-23",
      "headline": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
@@ -837,6 +827,272 @@
       "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo"
      ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Devlin nets winner as NI top Nations League group",
+     "sources": 2,
+     "score": 49,
+     "event_id": "aff9c2fc2a5c",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "93e2a4b9f246",
+   "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+   "section": "tech",
+   "entities": [
+    "elon",
+    "jensen",
+    "nvidia",
+    "singapore",
+    "double",
+    "musk",
+    "huang"
+   ],
+   "event_ids": [
+    "93e2a4b9f246",
+    "cefbc3be34f9",
+    "567fa298898a",
+    "a15c62a956a1",
+    "9a2034b63080",
+    "a4a92fbcda03"
+   ],
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-15",
+   "timeline": [
+    {
+     "date": "2026-11-14",
+     "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+     "sources": 4,
+     "score": 62,
+     "event_id": "93e2a4b9f246",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
+     "sources": 2,
+     "score": 40,
+     "event_id": "cefbc3be34f9",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout",
+      "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Jensen Huang and the decline of the visionary showman founder CEO",
+     "sources": 4,
+     "score": 63,
+     "event_id": "567fa298898a",
+     "links": [
+      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "https://www.france24.com/en/can-nvidia-survive-without-tech-titan-jensen-huang"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "‘Double standard’: why the Jensen Huang saga is sparking a debate about race",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a15c62a956a1",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3374435/double-standard-why-jensen-huang-saga-sparking-debate-about-race",
+      "https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+     "sources": 2,
+     "score": 43,
+     "event_id": "9a2034b63080",
+     "links": [
+      "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+      "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a4a92fbcda03",
+     "links": [
+      "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "https://www.scmp.com/tech/tech-war/article/3373960/who-alice-huang-and-why-her-relationship-nvidias-ceo-under-scrutiny"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "7fc5f077fca0",
+   "title": "Watch: SpaceX launches Starship rocket into orbit for first time",
+   "section": "science",
+   "entities": [
+    "spacex's",
+    "spacex",
+    "starship",
+    "earth"
+   ],
+   "event_ids": [
+    "7fc5f077fca0",
+    "d8fac7c02e1c",
+    "4443d0813e25",
+    "9ccf6dd29429",
+    "7f23713430ee"
+   ],
+   "first_seen": "2026-09-28",
+   "last_seen": "2026-11-15",
+   "timeline": [
+    {
+     "date": "2026-09-28",
+     "headline": "Watch: SpaceX launches Starship rocket into orbit for first time",
+     "sources": 4,
+     "score": 67,
+     "event_id": "7fc5f077fca0",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "SpaceX launches Starship rocket, fails to recover booster",
+     "sources": 3,
+     "score": 51,
+     "event_id": "d8fac7c02e1c",
+     "links": [
+      "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
+      "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "SpaceX catches part of its Starship rocket on return to Earth",
+     "sources": 7,
+     "score": 81,
+     "event_id": "4443d0813e25",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "SpaceX's Starship set for return to Earth after booster catch aborted",
+     "sources": 2,
+     "score": 40,
+     "event_id": "9ccf6dd29429",
+     "links": [
+      "https://phys.org/news/2026-11-spacex-starship-earth-booster-aborted.html",
+      "https://www.france24.com/en/spacex-s-starship-encounters-problems-during-15th-test-flight"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "SpaceX's Starship set for return to Earth after failed booster catch",
+     "sources": 2,
+     "score": 40,
+     "event_id": "7f23713430ee",
+     "links": [
+      "https://www.france24.com/en/spacex-starship-set-for-return-to-earth-after-failed-booster-catch",
+      "https://phys.org/news/2026-11-spacex-starship-soars-orbit-booster.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aed83b0c0f81",
+   "title": "David Walliams accused of sexual misconduct after losing injunction bid",
+   "section": "culture",
+   "entities": [
+    "jonathan",
+    "david",
+    "brand",
+    "walliams",
+    "russell",
+    "ross"
+   ],
+   "event_ids": [
+    "aed83b0c0f81",
+    "e2e7aea6e84e",
+    "0a0995c054ed",
+    "a2fbabaab632",
+    "5430714d670a"
+   ],
+   "first_seen": "2026-11-10",
+   "last_seen": "2026-11-15",
+   "timeline": [
+    {
+     "date": "2026-11-10",
+     "headline": "David Walliams accused of sexual misconduct after losing injunction bid",
+     "sources": 3,
+     "score": 56,
+     "event_id": "aed83b0c0f81",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women",
+      "https://www.aljazeera.com/news/2026/11/10/uk-comedian-and-childrens-author-david-walliams-accused-of-grooming-minors?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Jonathan Ross ‘horrified’ by David Walliams and Russell Brand revelations",
+     "sources": 2,
+     "score": 43,
+     "event_id": "e2e7aea6e84e",
+     "links": [
+      "https://www.theguardian.com/tv-and-radio/2026/nov/11/jonathan-ross-david-walliams-russell-brand-revelations",
+      "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Met police launch investigation into David Walliams allegations",
+     "sources": 2,
+     "score": 41,
+     "event_id": "0a0995c054ed",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
+      "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "David Walliams: UK police launch sex offense probe into comedian",
+     "sources": 2,
+     "score": 46,
+     "event_id": "a2fbabaab632",
+     "links": [
+      "https://www.dw.com/en/david-walliams-uk-police-launch-sex-offense-probe-into-comedian/a-79944161?maca=en-rss-en-all-1573-rdf",
+      "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "UK government to consider changing age of consent after allegations against Russell Brand",
+     "sources": 2,
+     "score": 42,
+     "event_id": "5430714d670a",
+     "links": [
+      "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+      "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss"
+     ]
     }
    ]
   },
@@ -1389,86 +1645,6 @@
    ]
   },
   {
-   "id": "93e2a4b9f246",
-   "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-   "section": "tech",
-   "entities": [
-    "singapore",
-    "huang",
-    "double",
-    "nvidia",
-    "jensen"
-   ],
-   "event_ids": [
-    "93e2a4b9f246",
-    "cefbc3be34f9",
-    "567fa298898a",
-    "a15c62a956a1",
-    "9a2034b63080"
-   ],
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-14",
-   "timeline": [
-    {
-     "date": "2026-11-14",
-     "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-     "sources": 4,
-     "score": 62,
-     "event_id": "93e2a4b9f246",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
-     "sources": 2,
-     "score": 40,
-     "event_id": "cefbc3be34f9",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout",
-      "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Jensen Huang and the decline of the visionary showman founder CEO",
-     "sources": 4,
-     "score": 63,
-     "event_id": "567fa298898a",
-     "links": [
-      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "https://www.france24.com/en/can-nvidia-survive-without-tech-titan-jensen-huang"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "‘Double standard’: why the Jensen Huang saga is sparking a debate about race",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a15c62a956a1",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3374435/double-standard-why-jensen-huang-saga-sparking-debate-about-race",
-      "https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-     "sources": 2,
-     "score": 43,
-     "event_id": "9a2034b63080",
-     "links": [
-      "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-      "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "0cb440044f5c",
    "title": "Tesla shares are falling after Cybercab event. What analysts are saying",
    "section": "business",
@@ -1517,47 +1693,6 @@
      "links": [
       "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
       "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "7fc5f077fca0",
-   "title": "Watch: SpaceX launches Starship rocket into orbit for first time",
-   "section": "science",
-   "entities": [
-    "starship",
-    "spacex"
-   ],
-   "event_ids": [
-    "7fc5f077fca0",
-    "d8fac7c02e1c"
-   ],
-   "first_seen": "2026-09-28",
-   "last_seen": "2026-11-14",
-   "timeline": [
-    {
-     "date": "2026-09-28",
-     "headline": "Watch: SpaceX launches Starship rocket into orbit for first time",
-     "sources": 4,
-     "score": 67,
-     "event_id": "7fc5f077fca0",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "SpaceX launches Starship rocket, fails to recover booster",
-     "sources": 3,
-     "score": 51,
-     "event_id": "d8fac7c02e1c",
-     "links": [
-      "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
-      "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html"
      ]
     }
    ]
@@ -6743,74 +6878,6 @@
      "links": [
       "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
       "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "aed83b0c0f81",
-   "title": "David Walliams accused of sexual misconduct after losing injunction bid",
-   "section": "culture",
-   "entities": [
-    "jonathan",
-    "david",
-    "russell",
-    "brand",
-    "ross",
-    "walliams"
-   ],
-   "event_ids": [
-    "aed83b0c0f81",
-    "e2e7aea6e84e",
-    "0a0995c054ed",
-    "a2fbabaab632"
-   ],
-   "first_seen": "2026-11-10",
-   "last_seen": "2026-11-13",
-   "timeline": [
-    {
-     "date": "2026-11-10",
-     "headline": "David Walliams accused of sexual misconduct after losing injunction bid",
-     "sources": 3,
-     "score": 56,
-     "event_id": "aed83b0c0f81",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women",
-      "https://www.aljazeera.com/news/2026/11/10/uk-comedian-and-childrens-author-david-walliams-accused-of-grooming-minors?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Jonathan Ross ‘horrified’ by David Walliams and Russell Brand revelations",
-     "sources": 2,
-     "score": 43,
-     "event_id": "e2e7aea6e84e",
-     "links": [
-      "https://www.theguardian.com/tv-and-radio/2026/nov/11/jonathan-ross-david-walliams-russell-brand-revelations",
-      "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-11-13",
-     "headline": "Met police launch investigation into David Walliams allegations",
-     "sources": 2,
-     "score": 41,
-     "event_id": "0a0995c054ed",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/nov/13/david-walliams-allegations-met-police-investigation",
-      "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-11-13",
-     "headline": "David Walliams: UK police launch sex offense probe into comedian",
-     "sources": 2,
-     "score": 46,
-     "event_id": "a2fbabaab632",
-     "links": [
-      "https://www.dw.com/en/david-walliams-uk-police-launch-sex-offense-probe-into-comedian/a-79944161?maca=en-rss-en-all-1573-rdf",
-      "https://www.theguardian.com/uk-news/2026/nov/13/families-clear-homes-of-david-walliams-books-after-sexual-offence-allegations"
      ]
     }
    ]
@@ -23186,5 +23253,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T21:19:14+00:00"
+ "updated": "2026-11-15T00:41:23+00:00"
 }
