@@ -7,8 +7,8 @@ section: ai
 type: feature
 depth: open
 lang: en
-date: '2026-09-25'
-status: reserve
+date: '2026-11-15'
+status: published
 confidence: 89
 load: 0
 topics:
