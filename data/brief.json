@@ -1,9 +1,9 @@
 {
  "date": "2026-11-15",
  "mode": "normal",
- "days_since_human": 9,
+ "days_since_human": 10,
  "confidence_threshold": 82,
- "reserve_articles": 5,
+ "reserve_articles": 4,
  "news_assignments": [
   {
    "id": "f3bd3dd370d0",
@@ -412,6 +412,24 @@
    "title_hint": "Jericho: the oldest walled city on earth",
    "passage": "Joshua 2; Joshua 6",
    "angle": "Archaeology and daily life in the oldest continuously inhabited city we know of. What did it actually look like, who lived there, what did they eat, who did they worship?",
+   "depth": "scripture"
+  },
+  {
+   "id": "jericho-battle",
+   "series": "Great Battles of the Bible",
+   "section": "history",
+   "title_hint": "The seven days at Jericho, step by step",
+   "passage": "Joshua 6",
+   "angle": "A military campaign with no siege engines. Reconstruct the seven days hour by hour, then honestly compare the text with what excavation can and cannot confirm.",
+   "depth": "scripture"
+  },
+  {
+   "id": "rahab",
+   "series": "People of the Bible",
+   "section": "history",
+   "title_hint": "Rahab: the woman everyone had written off",
+   "passage": "Joshua 2; Matthew 1:5; Hebrews 11:31",
+   "angle": "A foreign woman with a disgraced profession ends up in the family line of Jesus. Follow the thread from Jericho to Matthew 1 without moralising.",
    "depth": "scripture"
   }
  ],

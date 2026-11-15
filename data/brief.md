@@ -2,7 +2,7 @@
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
-- Článků v zásobě: **5**
+- Článků v zásobě: **4**
 - Jazyk, ve kterém se píše: **en**
 
 ---
@@ -233,3 +233,15 @@ rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
 - Výchozí text: Joshua 2; Joshua 6
 - **depth: `scripture`**
 - Úhel pohledu: Archaeology and daily life in the oldest continuously inhabited city we know of. What did it actually look like, who lived there, what did they eat, who did they worship?
+
+### 2. The seven days at Jericho, step by step
+- id: `jericho-battle`  ·  rubrika: `history`  ·  série: Great Battles of the Bible
+- Výchozí text: Joshua 6
+- **depth: `scripture`**
+- Úhel pohledu: A military campaign with no siege engines. Reconstruct the seven days hour by hour, then honestly compare the text with what excavation can and cannot confirm.
+
+### 3. Rahab: the woman everyone had written off
+- id: `rahab`  ·  rubrika: `history`  ·  série: People of the Bible
+- Výchozí text: Joshua 2; Matthew 1:5; Hebrews 11:31
+- **depth: `scripture`**
+- Úhel pohledu: A foreign woman with a disgraced profession ends up in the family line of Jesus. Follow the thread from Jericho to Matthew 1 without moralising.
