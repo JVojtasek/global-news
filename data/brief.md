@@ -180,7 +180,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-07  (2 zdrojů, síla 42)  Jude Bellingham hails 125-cap Harry Kane as England’s best-ever player
   2026-10-08  (3 zdrojů, síla 58)  Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain
   2026-10-22  (2 zdrojů, síla 46)  Harry Kane: Ballon d’Or for Bayern Munich striker?
   2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes
@@ -200,35 +199,36 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-11-14  (2 zdrojů, síla 47)  Haaland helps Norway to win over Wales in Nations League
   2026-11-15  (2 zdrojů, síla 49)  Devlin nets winner as NI top Nations League group
   2026-11-15  (2 zdrojů, síla 50)  Ruthless Australia win record fourth Women's World Cup
+  2026-11-15  (2 zdrojů, síla 49)  Four in a row - Australia win women's rugby league World Cup again
 ```
 
-### 2. What has actually changed: Premier League to publish verdicts on referee and VAR decisions
-- id: `e8a425cbff50`  ·  rubrika: `sport`  ·  záznamů v ose: 60  ·  **depth: `open`**
+### 2. What has actually changed: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+- id: `7b46dd318f11`  ·  rubrika: `ai`  ·  záznamů v ose: 60  ·  **depth: `open`**
 - ČASOVÁ OSA (tohle je ten materiál, který nikdo jiný nemá):
 
 ```
-VLÁKNO: Premier League to publish verdicts on referee and VAR decisions
-rubrika: sport · sledováno od 2026-08-18 · záznamů: 60
-  2026-10-26  (2 zdrojů, síla 49)  Manchester United crisis: What are the top five problems facing the club?
-  2026-10-30  (2 zdrojů, síla 42)  Chelsea vs Manchester United: Premier League – teams, prediction, lineups
-  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United buildup, Premier League, WSL and more – matchday live
-  2026-10-31  (2 zdrojů, síla 42)  Chelsea v Manchester United: Premier League – live
-  2026-11-02  (2 zdrojů, síla 44)  Football: China refuses to air Real Madrid game after Mbappé comment
-  2026-11-02  (2 zdrojů, síla 40)  Carrick not concerned about Martínez’s attitude as United prepare for Roma visit
-  2026-11-04  (3 zdrojů, síla 57)  Man Utd beat Roma - the other great Champions League comebacks
-  2026-11-04  (2 zdrojů, síla 42)  Photos: Champions League and Tenerife fans pay tribute to De Miguel
-  2026-11-04  (2 zdrojů, síla 42)  Football world mourns Tenerife striker De Miguel
-  2026-11-04  (4 zdrojů, síla 68)  Nadal set to join Real Madrid board of directors
-  2026-11-05  (2 zdrojů, síla 40)  Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson
-  2026-11-07  (2 zdrojů, síla 50)  Delap double inspires Forest to stunning win over Man City
-  2026-11-08  (2 zdrojů, síla 45)  Forest win over Man City 'a turning point' - Murphy
-  2026-11-12  (2 zdrojů, síla 46)  Carrick sacked by Manchester United with team in Premier League relegation zone – live
-  2026-11-12  (2 zdrojů, síla 43)  Pochettino expected to lead US in Nations League games before Manchester United move
-  2026-11-12  (2 zdrojů, síla 42)  Pochettino a decade in Man Utd's making - but Carrick deserves better
-  2026-11-12  (2 zdrojů, síla 43)  Man Utd open talks with Pochettino about replacing Carrick
-  2026-11-12  (2 zdrojů, síla 42)  Manchester United sacked manager Michael Carrick
-  2026-11-13  (2 zdrojů, síla 45)  Nations League: Italy roar back to beat France despite Donnarumma’s early howler
-  2026-11-13  (2 zdrojů, síla 41)  Manchester United names USMNT coach Mauricio Pochettino as its manager
+VLÁKNO: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
+  2026-11-11  (4 zdrojů, síla 67)  Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal
+  2026-11-12  (8 zdrojů, síla 81)  Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy
+  2026-11-12  (3 zdrojů, síla 52)  Who could replace Jensen Huang? A highly unscientific list of possible successors
+  2026-11-12  (2 zdrojů, síla 40)  What we know so far about Nvidia partner Megaspeed’s Asia footprint
+  2026-11-12  (2 zdrojů, síla 40)  ‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight
+  2026-11-12  (5 zdrojů, síla 75)  Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video
+  2026-11-12  (6 zdrojů, síla 80)  Who could replace Jensen Huang as Nvidia's chief executive?
+  2026-11-12  (11 zdrojů, síla 88)  Watch: The latest in the Jensen Huang Nvidia scandal
+  2026-11-12  (2 zdrojů, síla 42)  Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?
+  2026-11-12  (10 zdrojů, síla 83)  Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
+  2026-11-12  (6 zdrojů, síla 83)  Jensen Huang has resigned, what's next for Nvidia?
+  2026-11-13  (9 zdrojů, síla 83)  Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
+  2026-11-13  (4 zdrojů, síla 69)  Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'
+  2026-11-13  (7 zdrojů, síla 81)  US Senate asks Huang, Lutnick to testify on Nvidia
+  2026-11-13  (3 zdrojů, síla 62)  Nvidia scandal: Was Alice Huang really a Chinese spy?
+  2026-11-13  (4 zdrojů, síla 58)  Let’s talk about Jensen Huang’s many affairs!
+  2026-11-13  (6 zdrojů, síla 79)  What’s really at stake in the Jensen Huang saga
+  2026-11-13  (4 zdrojů, síla 62)  Jensen Huang was reckless with the environment, too
+  2026-11-13  (4 zdrojů, síla 68)  Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon
+  2026-11-15  (3 zdrojů, síla 49)  Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
 ```
 
 ---

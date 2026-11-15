@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-15
 
-Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **63**.
+Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **64**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **63**.
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 98 dní · 60 záznamů
 - časová osa:
-  - **2026-11-05** (2 zdrojů) England captain Kane signs new Bayern contract
   - **2026-11-08** (2 zdrojů) Australia reach World Cup final after Fiji scare
   - **2026-11-08** (2 zdrojů) Walsh-inspired Australia crush irate Samoa to reach World Cup final
   - **2026-11-12** (2 zdrojů) England vs Croatia: UEFA Nations League – preview, team news, predictions
@@ -19,6 +18,21 @@ Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **63**.
   - **2026-11-14** (2 zdrojů) Haaland helps Norway to win over Wales in Nations League
   - **2026-11-15** (2 zdrojů) Devlin nets winner as NI top Nations League group
   - **2026-11-15** (2 zdrojů) Ruthless Australia win record fourth Women's World Cup
+  - **2026-11-15** (2 zdrojů) Four in a row - Australia win women's rugby league World Cup again
+
+### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
+- rubrika `ai` · sledováno 97 dní · 60 záznamů
+- časová osa:
+  - **2026-11-12** (6 zdrojů) Jensen Huang has resigned, what's next for Nvidia?
+  - **2026-11-13** (9 zdrojů) Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
+  - **2026-11-13** (4 zdrojů) Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'
+  - **2026-11-13** (7 zdrojů) US Senate asks Huang, Lutnick to testify on Nvidia
+  - **2026-11-13** (3 zdrojů) Nvidia scandal: Was Alice Huang really a Chinese spy?
+  - **2026-11-13** (4 zdrojů) Let’s talk about Jensen Huang’s many affairs!
+  - **2026-11-13** (6 zdrojů) What’s really at stake in the Jensen Huang saga
+  - **2026-11-13** (4 zdrojů) Jensen Huang was reckless with the environment, too
+  - **2026-11-13** (4 zdrojů) Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon
+  - **2026-11-15** (3 zdrojů) Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 87 dní · 60 záznamů
@@ -33,20 +47,6 @@ Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **63**.
   - **2026-11-12** (2 zdrojů) Manchester United sacked manager Michael Carrick
   - **2026-11-13** (2 zdrojů) Nations League: Italy roar back to beat France despite Donnarumma’s early howler
   - **2026-11-13** (2 zdrojů) Manchester United names USMNT coach Mauricio Pochettino as its manager
-
-### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 95 dní · 60 záznamů
-- časová osa:
-  - **2026-11-12** (10 zdrojů) Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
-  - **2026-11-12** (6 zdrojů) Jensen Huang has resigned, what's next for Nvidia?
-  - **2026-11-13** (9 zdrojů) Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
-  - **2026-11-13** (4 zdrojů) Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'
-  - **2026-11-13** (7 zdrojů) US Senate asks Huang, Lutnick to testify on Nvidia
-  - **2026-11-13** (3 zdrojů) Nvidia scandal: Was Alice Huang really a Chinese spy?
-  - **2026-11-13** (4 zdrojů) Let’s talk about Jensen Huang’s many affairs!
-  - **2026-11-13** (6 zdrojů) What’s really at stake in the Jensen Huang saga
-  - **2026-11-13** (4 zdrojů) Jensen Huang was reckless with the environment, too
-  - **2026-11-13** (4 zdrojů) Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 96 dní · 60 záznamů
