@@ -850,657 +850,50 @@
    ]
   },
   {
-   "id": "117b4062144e",
-   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-   "section": "science",
-   "entities": [
-    "dish",
-    "first-of-its-kind",
-    "data",
-    "later",
-    "landscape",
-    "help",
-    "advance",
-    "send",
-    "occupation",
-    "awards",
-    "years",
-    "collection",
-    "albrecht",
-    "launched",
-    "work",
-    "acquire",
-    "expected",
-    "unknown",
-    "photographs",
-    "ka-band",
-    "german",
-    "telescope",
-    "west-inspired",
-    "allowed",
-    "wasn't",
-    "opened",
-    "portrait",
-    "national",
-    "week",
-    "france",
-    "experimental",
-    "mission",
-    "beloved",
-    "testing",
-    "moon",
-    "grown",
-    "fifty",
-    "museum's",
-    "emerged",
-    "origin"
-   ],
-   "event_ids": [
-    "117b4062144e",
-    "687e9adaf6fb",
-    "887fb7f3bbc2",
-    "730942a6039b",
-    "648eebb8b0ed",
-    "b795c1289008",
-    "b4bda24af3f5",
-    "a2c974f2ab73",
-    "af69ac084ec6",
-    "2dc282f1df7a",
-    "2d1ff4fb2acc",
-    "f33a490284d9",
-    "f57fd11d1f5b",
-    "b85bd3d3a0d8",
-    "dc7b54e8c00a",
-    "b9bfb014cb61",
-    "550aa79730b3",
-    "d5370f4ea3de",
-    "eb8ae8da944a",
-    "7e9b86a23e3d",
-    "0d0d39349f2d",
-    "d20dd0f99f28",
-    "55107ad46021",
-    "2e62bc2ded66",
-    "32f654e7a58b",
-    "a0d00403ad7a",
-    "29ab67d3ec59",
-    "2fab97d34a2a",
-    "deff0425e991"
-   ],
-   "first_seen": "2026-08-29",
-   "last_seen": "2026-11-16",
-   "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-     "sources": 2,
-     "score": 58,
-     "event_id": "117b4062144e",
-     "links": [
-      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
-      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-     "sources": 1,
-     "score": 46,
-     "event_id": "687e9adaf6fb",
-     "links": [
-      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
-      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-     "sources": 5,
-     "score": 81,
-     "event_id": "887fb7f3bbc2",
-     "links": [
-      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
-      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
-      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-     "sources": 1,
-     "score": 46,
-     "event_id": "730942a6039b",
-     "links": [
-      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
-     "sources": 2,
-     "score": 55,
-     "event_id": "648eebb8b0ed",
-     "links": [
-      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-     "sources": 1,
-     "score": 45,
-     "event_id": "b795c1289008",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b4bda24af3f5",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
-      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "NASA Adds New Science Investigations for Moon Base",
-     "sources": 1,
-     "score": 41,
-     "event_id": "a2c974f2ab73",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
-      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
-     "sources": 1,
-     "score": 44,
-     "event_id": "af69ac084ec6",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Artemis II Crew Moon Photo Annotations",
-     "sources": 3,
-     "score": 53,
-     "event_id": "2dc282f1df7a",
-     "links": [
-      "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
-      "https://www.nature.com/articles/d41586-026-03197-7",
-      "https://phys.org/news/2026-10-artemis-ii-crew-moon-photo.html"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
-     "sources": 1,
-     "score": 42,
-     "event_id": "2d1ff4fb2acc",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
-      "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-     "sources": 1,
-     "score": 43,
-     "event_id": "f33a490284d9",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
-      "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
-     "sources": 1,
-     "score": 46,
-     "event_id": "f57fd11d1f5b",
-     "links": [
-      "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
-      "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b85bd3d3a0d8",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
-      "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-     "sources": 1,
-     "score": 44,
-     "event_id": "dc7b54e8c00a",
-     "links": [
-      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-     "sources": 2,
-     "score": 52,
-     "event_id": "b9bfb014cb61",
-     "links": [
-      "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-      "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-     "sources": 1,
-     "score": 45,
-     "event_id": "550aa79730b3",
-     "links": [
-      "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
-      "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Scientists Don't Know How Mars Acquired Its Two Moons. Japan Just Launched a Historic Space Mission That Will Fetch Samples to Find Out",
-     "sources": 2,
-     "score": 52,
-     "event_id": "d5370f4ea3de",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/scientists-dont-know-how-mars-acquired-its-two-moons-japan-just-launched-a-historic-space-mission-that-will-fetch-samples-to-find-out-180989713/",
-      "https://phys.org/news/2026-10-japan-world-mission-moon-mars.html"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-     "sources": 1,
-     "score": 45,
-     "event_id": "eb8ae8da944a",
-     "links": [
-      "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-      "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-     "sources": 1,
-     "score": 50,
-     "event_id": "7e9b86a23e3d",
-     "links": [
-      "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-      "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
-     ]
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "The United Kingdom Is Launching Giant Claws Into Orbit to Clean Up Space Junk. You Can Help Name the First-of-Its-Kind Mission",
-     "sources": 1,
-     "score": 41,
-     "event_id": "0d0d39349f2d",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/the-united-kingdom-is-launching-giant-claws-into-orbit-to-clean-up-space-junk-you-can-help-name-the-first-of-its-kind-mission-180989755/"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-     "sources": 1,
-     "score": 45,
-     "event_id": "d20dd0f99f28",
-     "links": [
-      "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-      "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "After Observing the Sky for 22 Years, a Beloved NASA Space Telescope Is Expected to Meet a Fiery Death This Week",
-     "sources": 1,
-     "score": 44,
-     "event_id": "55107ad46021",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/after-observing-the-sky-for-22-years-a-beloved-nasa-space-telescope-is-expected-to-meet-a-fiery-death-this-week-180989796/"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-     "sources": 1,
-     "score": 46,
-     "event_id": "2e62bc2ded66",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-      "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-     "sources": 1,
-     "score": 45,
-     "event_id": "32f654e7a58b",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-      "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "China Announces a Plan to Put Astronauts on the Moon by 2030, Revealing Details of Four Upcoming Missions",
-     "sources": 1,
-     "score": 40,
-     "event_id": "a0d00403ad7a",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/china-announces-a-plan-to-put-astronauts-on-the-moon-by-2030-revealing-details-of-four-upcoming-missions-180989810/"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Stolen During the Nazi Occupation of Orléans, France, This Painting Was Rediscovered After 86 Years With Help From Wild West-Inspired 'Wanted' Posters",
-     "sources": 1,
-     "score": 43,
-     "event_id": "29ab67d3ec59",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/stolen-during-the-nazi-occupation-of-orleans-france-this-painting-was-rediscovered-after-86-years-with-help-from-wild-west-inspired-wanted-posters-180989839/"
-     ]
-    },
-    {
-     "date": "2026-11-13",
-     "headline": "German Renaissance Master Albrecht Altdorfer Pioneered Landscape Painting. A Work Previously Unknown to Scholars Just Emerged After 70 Years in a Private Collection",
-     "sources": 1,
-     "score": 46,
-     "event_id": "2fab97d34a2a",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/german-renaissance-master-albrecht-altdorfer-pioneered-landscape-painting-a-work-previously-unknown-to-scholars-just-emerged-after-70-years-in-a-private-collection-180989861/",
-      "https://www.smithsonianmag.com/smithsonian-institution/the-national-portrait-gallery-wasnt-allowed-to-acquire-photographs-when-it-opened-in-1968-fifty-years-later-the-smithsonian-museums-collection-has-grown-to-11000-photos-and-counting-180989823/"
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "headline": "The National Portrait Gallery Wasn't Allowed to Acquire Photographs When It Opened in 1968. Fifty Years Later, the Smithsonian Museum's Collection Has Grown to 11,000 Photos and Counting",
-     "sources": 2,
-     "score": 54,
-     "event_id": "deff0425e991",
-     "links": [
-      "https://www.smithsonianmag.com/smithsonian-institution/the-national-portrait-gallery-wasnt-allowed-to-acquire-photographs-when-it-opened-in-1968-fifty-years-later-the-smithsonian-museums-collection-has-grown-to-11000-photos-and-counting-180989823/",
-      "https://www.goodnewsnetwork.org/they-became-pen-pals-as-teens-now-32-years-later-theyre-happily-married/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "93e2a4b9f246",
-   "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-   "section": "tech",
-   "entities": [
-    "uber",
-    "nvidia",
-    "jensen",
-    "elon",
-    "double",
-    "huang",
-    "musk",
-    "singapore"
-   ],
-   "event_ids": [
-    "93e2a4b9f246",
-    "cefbc3be34f9",
-    "567fa298898a",
-    "a15c62a956a1",
-    "9a2034b63080",
-    "a4a92fbcda03",
-    "72120cb31e65",
-    "2f1f5cbf7ce8",
-    "8668d6d7cd9f"
-   ],
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-16",
-   "timeline": [
-    {
-     "date": "2026-11-14",
-     "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-     "sources": 4,
-     "score": 62,
-     "event_id": "93e2a4b9f246",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
-     "sources": 2,
-     "score": 40,
-     "event_id": "cefbc3be34f9",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout",
-      "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Jensen Huang and the decline of the visionary showman founder CEO",
-     "sources": 4,
-     "score": 63,
-     "event_id": "567fa298898a",
-     "links": [
-      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "https://www.france24.com/en/can-nvidia-survive-without-tech-titan-jensen-huang"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "‘Double standard’: why the Jensen Huang saga is sparking a debate about race",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a15c62a956a1",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3374435/double-standard-why-jensen-huang-saga-sparking-debate-about-race",
-      "https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-     "sources": 2,
-     "score": 43,
-     "event_id": "9a2034b63080",
-     "links": [
-      "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-      "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a4a92fbcda03",
-     "links": [
-      "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "https://www.scmp.com/tech/tech-war/article/3373960/who-alice-huang-and-why-her-relationship-nvidias-ceo-under-scrutiny"
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Could Jensen Huang make a comeback? Musk, other tech heavyweights pressure Nvidia board",
-     "sources": 3,
-     "score": 50,
-     "event_id": "72120cb31e65",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3374494/could-jensen-huang-make-comeback-musk-other-tech-heavyweights-pressure-nvidia-board",
-      "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-     "sources": 3,
-     "score": 46,
-     "event_id": "2f1f5cbf7ce8",
-     "links": [
-      "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097"
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "headline": "Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief",
-     "sources": 3,
-     "score": 55,
-     "event_id": "8668d6d7cd9f",
-     "links": [
-      "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate",
-      "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ea6dde997f9d",
-   "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
-   "section": "world",
-   "entities": [
-    "italy",
-    "egypt",
-    "lewis",
-    "israel",
-    "gaza",
-    "hamas",
-    "hamilton",
-    "canada",
-    "australia",
-    "rafah"
-   ],
-   "event_ids": [
-    "ea6dde997f9d",
-    "2df74c31e2e0",
-    "87cfd790eced",
-    "ef2717616441"
-   ],
-   "first_seen": "2026-11-12",
-   "last_seen": "2026-11-16",
-   "timeline": [
-    {
-     "date": "2026-11-12",
-     "headline": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
-     "sources": 4,
-     "score": 65,
-     "event_id": "ea6dde997f9d",
-     "links": [
-      "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel"
-     ]
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Israel strikes Gaza hospital, says Hamas senior figure inside",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2df74c31e2e0",
-     "links": [
-      "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-     "sources": 2,
-     "score": 42,
-     "event_id": "87cfd790eced",
-     "links": [
-      "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-16",
-     "headline": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
-     "sources": 2,
-     "score": 42,
-     "event_id": "ef2717616441",
-     "links": [
-      "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
-      "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "7b46dd318f11",
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "martin",
-    "amid",
-    "steal",
-    "reward",
-    "undone",
-    "trusted",
-    "rowson",
     "qubole's",
-    "cnbc",
-    "kleinman",
-    "suffers",
-    "valley",
-    "security",
-    "senate",
-    "trump",
-    "lutnick",
-    "alibaba",
-    "nvidia's",
-    "labs",
-    "megaspeed",
-    "cyberattack",
-    "drove",
-    "york",
+    "data",
     "china",
-    "assets",
-    "hegseth",
     "t-head",
     "exploit",
-    "jensen",
-    "unexpected",
-    "silicon",
-    "alice",
+    "cnbc",
+    "nvidia",
+    "trusted",
+    "hegseth",
     "chinese",
+    "labs",
+    "suffers",
+    "reward",
+    "undone",
+    "amid",
+    "assets",
+    "huang",
+    "senate",
     "cyberattacks",
+    "york",
+    "cyberattack",
+    "alibaba",
     "goodfire",
-    "suspected",
-    "data",
-    "scandal-hit",
+    "rowson",
     "face",
-    "nvidia"
+    "steal",
+    "scandal-hit",
+    "martin",
+    "nvidia's",
+    "lutnick",
+    "alice",
+    "valley",
+    "unexpected",
+    "suspected",
+    "silicon",
+    "kleinman",
+    "trump",
+    "jensen",
+    "megaspeed",
+    "drove"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -1573,23 +966,12 @@
     "627c324df106",
     "cfb5766d57c2",
     "58447a67cf03",
-    "c6f717fdbe76"
+    "c6f717fdbe76",
+    "4fd9a00d11a9"
    ],
    "first_seen": "2026-08-10",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "timeline": [
-    {
-     "date": "2026-08-31",
-     "headline": "Hugging Face hack could indicate cultural issues at OpenAI",
-     "sources": 2,
-     "score": 45,
-     "event_id": "de5690d7d612",
-     "links": [
-      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-     ]
-    },
     {
      "date": "2026-09-01",
      "headline": "OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face",
@@ -2278,6 +1660,1400 @@
       "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster",
+     "sources": 2,
+     "score": 42,
+     "event_id": "4fd9a00d11a9",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
+      "https://www.scmp.com/tech/article/3374235/if-jensen-huang-exits-nvidia-who-could-take-us4tr-chipmakers-reins"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "117b4062144e",
+   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+   "section": "science",
+   "entities": [
+    "dish",
+    "first-of-its-kind",
+    "data",
+    "later",
+    "landscape",
+    "help",
+    "advance",
+    "send",
+    "occupation",
+    "awards",
+    "years",
+    "collection",
+    "albrecht",
+    "launched",
+    "work",
+    "acquire",
+    "expected",
+    "unknown",
+    "photographs",
+    "ka-band",
+    "german",
+    "telescope",
+    "west-inspired",
+    "allowed",
+    "wasn't",
+    "opened",
+    "portrait",
+    "national",
+    "week",
+    "france",
+    "experimental",
+    "mission",
+    "beloved",
+    "testing",
+    "moon",
+    "grown",
+    "fifty",
+    "museum's",
+    "emerged",
+    "origin"
+   ],
+   "event_ids": [
+    "117b4062144e",
+    "687e9adaf6fb",
+    "887fb7f3bbc2",
+    "730942a6039b",
+    "648eebb8b0ed",
+    "b795c1289008",
+    "b4bda24af3f5",
+    "a2c974f2ab73",
+    "af69ac084ec6",
+    "2dc282f1df7a",
+    "2d1ff4fb2acc",
+    "f33a490284d9",
+    "f57fd11d1f5b",
+    "b85bd3d3a0d8",
+    "dc7b54e8c00a",
+    "b9bfb014cb61",
+    "550aa79730b3",
+    "d5370f4ea3de",
+    "eb8ae8da944a",
+    "7e9b86a23e3d",
+    "0d0d39349f2d",
+    "d20dd0f99f28",
+    "55107ad46021",
+    "2e62bc2ded66",
+    "32f654e7a58b",
+    "a0d00403ad7a",
+    "29ab67d3ec59",
+    "2fab97d34a2a",
+    "deff0425e991"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+     "sources": 2,
+     "score": 58,
+     "event_id": "117b4062144e",
+     "links": [
+      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "sources": 1,
+     "score": 46,
+     "event_id": "687e9adaf6fb",
+     "links": [
+      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+     "sources": 5,
+     "score": 81,
+     "event_id": "887fb7f3bbc2",
+     "links": [
+      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
+      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+     "sources": 1,
+     "score": 46,
+     "event_id": "730942a6039b",
+     "links": [
+      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
+     "sources": 2,
+     "score": 55,
+     "event_id": "648eebb8b0ed",
+     "links": [
+      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+     "sources": 1,
+     "score": 45,
+     "event_id": "b795c1289008",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b4bda24af3f5",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "NASA Adds New Science Investigations for Moon Base",
+     "sources": 1,
+     "score": 41,
+     "event_id": "a2c974f2ab73",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
+     "sources": 1,
+     "score": 44,
+     "event_id": "af69ac084ec6",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Artemis II Crew Moon Photo Annotations",
+     "sources": 3,
+     "score": 53,
+     "event_id": "2dc282f1df7a",
+     "links": [
+      "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
+      "https://www.nature.com/articles/d41586-026-03197-7",
+      "https://phys.org/news/2026-10-artemis-ii-crew-moon-photo.html"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+     "sources": 1,
+     "score": 42,
+     "event_id": "2d1ff4fb2acc",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+      "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+     "sources": 1,
+     "score": 43,
+     "event_id": "f33a490284d9",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
+      "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
+     "sources": 1,
+     "score": 46,
+     "event_id": "f57fd11d1f5b",
+     "links": [
+      "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
+      "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b85bd3d3a0d8",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+      "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+     "sources": 1,
+     "score": 44,
+     "event_id": "dc7b54e8c00a",
+     "links": [
+      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+     "sources": 2,
+     "score": 52,
+     "event_id": "b9bfb014cb61",
+     "links": [
+      "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+      "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+     "sources": 1,
+     "score": 45,
+     "event_id": "550aa79730b3",
+     "links": [
+      "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
+      "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Scientists Don't Know How Mars Acquired Its Two Moons. Japan Just Launched a Historic Space Mission That Will Fetch Samples to Find Out",
+     "sources": 2,
+     "score": 52,
+     "event_id": "d5370f4ea3de",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/scientists-dont-know-how-mars-acquired-its-two-moons-japan-just-launched-a-historic-space-mission-that-will-fetch-samples-to-find-out-180989713/",
+      "https://phys.org/news/2026-10-japan-world-mission-moon-mars.html"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+     "sources": 1,
+     "score": 45,
+     "event_id": "eb8ae8da944a",
+     "links": [
+      "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+      "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+     "sources": 1,
+     "score": 50,
+     "event_id": "7e9b86a23e3d",
+     "links": [
+      "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+      "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "The United Kingdom Is Launching Giant Claws Into Orbit to Clean Up Space Junk. You Can Help Name the First-of-Its-Kind Mission",
+     "sources": 1,
+     "score": 41,
+     "event_id": "0d0d39349f2d",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/the-united-kingdom-is-launching-giant-claws-into-orbit-to-clean-up-space-junk-you-can-help-name-the-first-of-its-kind-mission-180989755/"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+     "sources": 1,
+     "score": 45,
+     "event_id": "d20dd0f99f28",
+     "links": [
+      "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "After Observing the Sky for 22 Years, a Beloved NASA Space Telescope Is Expected to Meet a Fiery Death This Week",
+     "sources": 1,
+     "score": 44,
+     "event_id": "55107ad46021",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/after-observing-the-sky-for-22-years-a-beloved-nasa-space-telescope-is-expected-to-meet-a-fiery-death-this-week-180989796/"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+     "sources": 1,
+     "score": 46,
+     "event_id": "2e62bc2ded66",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+     "sources": 1,
+     "score": 45,
+     "event_id": "32f654e7a58b",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+      "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "China Announces a Plan to Put Astronauts on the Moon by 2030, Revealing Details of Four Upcoming Missions",
+     "sources": 1,
+     "score": 40,
+     "event_id": "a0d00403ad7a",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/china-announces-a-plan-to-put-astronauts-on-the-moon-by-2030-revealing-details-of-four-upcoming-missions-180989810/"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Stolen During the Nazi Occupation of Orléans, France, This Painting Was Rediscovered After 86 Years With Help From Wild West-Inspired 'Wanted' Posters",
+     "sources": 1,
+     "score": 43,
+     "event_id": "29ab67d3ec59",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/stolen-during-the-nazi-occupation-of-orleans-france-this-painting-was-rediscovered-after-86-years-with-help-from-wild-west-inspired-wanted-posters-180989839/"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "German Renaissance Master Albrecht Altdorfer Pioneered Landscape Painting. A Work Previously Unknown to Scholars Just Emerged After 70 Years in a Private Collection",
+     "sources": 1,
+     "score": 46,
+     "event_id": "2fab97d34a2a",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/german-renaissance-master-albrecht-altdorfer-pioneered-landscape-painting-a-work-previously-unknown-to-scholars-just-emerged-after-70-years-in-a-private-collection-180989861/",
+      "https://www.smithsonianmag.com/smithsonian-institution/the-national-portrait-gallery-wasnt-allowed-to-acquire-photographs-when-it-opened-in-1968-fifty-years-later-the-smithsonian-museums-collection-has-grown-to-11000-photos-and-counting-180989823/"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "The National Portrait Gallery Wasn't Allowed to Acquire Photographs When It Opened in 1968. Fifty Years Later, the Smithsonian Museum's Collection Has Grown to 11,000 Photos and Counting",
+     "sources": 2,
+     "score": 54,
+     "event_id": "deff0425e991",
+     "links": [
+      "https://www.smithsonianmag.com/smithsonian-institution/the-national-portrait-gallery-wasnt-allowed-to-acquire-photographs-when-it-opened-in-1968-fifty-years-later-the-smithsonian-museums-collection-has-grown-to-11000-photos-and-counting-180989823/",
+      "https://www.goodnewsnetwork.org/they-became-pen-pals-as-teens-now-32-years-later-theyre-happily-married/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cc5e6502b0d5",
+   "title": "Are claims of a white genocide in South Africa real?",
+   "section": "world",
+   "entities": [
+    "parsons",
+    "irish",
+    "africa",
+    "australia",
+    "nations",
+    "crowd",
+    "anti-migrant",
+    "france",
+    "superb",
+    "champions",
+    "test",
+    "durban",
+    "hyron",
+    "rwanda",
+    "olympic",
+    "games",
+    "african",
+    "cars",
+    "south",
+    "trump",
+    "olympics",
+    "africa's",
+    "andrews",
+    "rusty",
+    "championship",
+    "final",
+    "scotland"
+   ],
+   "event_ids": [
+    "cc5e6502b0d5",
+    "fa9c2e8e5738",
+    "549b64aa5243",
+    "7b455e92537b",
+    "928a902aa653",
+    "e76bd5378246",
+    "153b71c672c5",
+    "72404f6aa49e",
+    "435629369d73",
+    "27e82397cdf1",
+    "459e2e33c045",
+    "8af10dc0e103",
+    "acf84507bf24",
+    "5350c616a9cd",
+    "961347ee66d5",
+    "f3989377ad57",
+    "f5001567fdab",
+    "e1d38dfbb8e2",
+    "3c9a4ee470f7",
+    "745d5e7a5c50"
+   ],
+   "first_seen": "2026-09-27",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-09-27",
+     "headline": "Are claims of a white genocide in South Africa real?",
+     "sources": 3,
+     "score": 56,
+     "event_id": "cc5e6502b0d5",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Two mass shootings in South Africa leave 27 dead",
+     "sources": 4,
+     "score": 67,
+     "event_id": "fa9c2e8e5738",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+     "sources": 2,
+     "score": 49,
+     "event_id": "549b64aa5243",
+     "links": [
+      "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+      "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
+      "https://www.france24.com/en/femicides-on-the-rise-in-south-africa"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Superb South Africa seal series win over Australia",
+     "sources": 2,
+     "score": 42,
+     "event_id": "7b455e92537b",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "South Africa hope to host first African Olympics",
+     "sources": 2,
+     "score": 44,
+     "event_id": "928a902aa653",
+     "links": [
+      "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/oct/06/south-africa-bid-to-stage-africas-first-olympics-2036"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "South Africa: Anti-migrant protests turn violent",
+     "sources": 2,
+     "score": 40,
+     "event_id": "e76bd5378246",
+     "links": [
+      "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+     "sources": 2,
+     "score": 46,
+     "event_id": "153b71c672c5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/live/2026/oct/09/south-africa-v-australia-first-test-day-one-durban-kingsmead-cricket-ground-live-updates"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "South Africa: Anti-migrant unrest flares in Durban",
+     "sources": 2,
+     "score": 43,
+     "event_id": "72404f6aa49e",
+     "links": [
+      "https://www.france24.com/en/video/20261010-south-africa-anti-migrant-unrest-flares-in-durban",
+      "https://www.theguardian.com/sport/2026/oct/10/south-africa-australia-first-test-second-day-match-report"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Rusty or something more? South Africa's concern after Australia loss",
+     "sources": 5,
+     "score": 78,
+     "event_id": "435629369d73",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss",
+      "https://www.smithsonianmag.com/smart-news/did-industrialization-gut-our-microbiomes-a-new-study-on-rural-foraging-communities-in-south-america-and-africa-hints-the-answer-is-yes-180989658/",
+      "https://www.france24.com/en/south-africa-suspends-asylum-applications-amid-renewed-anti-immigrant-protests"
+     ]
+    },
+    {
+     "date": "2026-10-16",
+     "headline": "South African rugby player Hyron ​Andrews dies in France ahead of Champions Cup debut",
+     "sources": 2,
+     "score": 47,
+     "event_id": "27e82397cdf1",
+     "links": [
+      "https://www.france24.com/en/sport/20261016-south-african-rugby-player-found-dead-in-french-hotel-ahead-of-champions-cup-debut",
+      "https://www.theguardian.com/sport/2026/oct/16/player-found-dead-lions-champions-cup-la-rochelle"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "South Africa bat first in second Test against Australia - scorecard",
+     "sources": 2,
+     "score": 42,
+     "event_id": "459e2e33c045",
+     "links": [
+      "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/live/2026/oct/18/south-africa-v-australia-second-test-day-one-cricket-st-georges-park-gqeberha-live-updates"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Crowd of 50 beats foreigner to death in South Africa",
+     "sources": 2,
+     "score": 53,
+     "event_id": "8af10dc0e103",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss",
+      "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Olympic Games: South Africa bids to make Durban host city for 2036 or 2040",
+     "sources": 3,
+     "score": 57,
+     "event_id": "acf84507bf24",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/10/29/olympic-games-south-africa-bid-to-make-durban-host-city-for-2036-or-2040?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/oct/29/durban-selected-south-africa-candidate-olympic-bids-2036-2040",
+      "https://www.france24.com/en/video/20261029-kenya-s-female-athletes-make-their-mark-as-youth-olympic-games-approach"
+     ]
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Parsons hat-trick as Irish seal South Africa series win",
+     "sources": 2,
+     "score": 45,
+     "event_id": "5350c616a9cd",
+     "links": [
+      "https://www.bbc.co.uk/sport/rugby-union/articles/cwe8lp875engo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Trump to remove Rwanda and South Africa from US trade deal",
+     "sources": 2,
+     "score": 43,
+     "event_id": "961347ee66d5",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "ANC under pressure to reverse South Africa decline",
+     "sources": 2,
+     "score": 45,
+     "event_id": "f3989377ad57",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/south-africa-braces-for-some-job-losses-as-agoa-ends"
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "South Africa elections: ANC marks its worst-ever performance",
+     "sources": 2,
+     "score": 43,
+     "event_id": "f5001567fdab",
+     "links": [
+      "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf",
+      "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "France edge past South Africa after thriller in Nations Championship",
+     "sources": 2,
+     "score": 48,
+     "event_id": "e1d38dfbb8e2",
+     "links": [
+      "https://www.bbc.co.uk/sport/rugby-union/videos/c6eq4npqy7e0o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/nov/13/france-south-africa-nations-championship-match-report"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Final whistle a blessing as Scotland edge dull Test against Australia",
+     "sources": 2,
+     "score": 44,
+     "event_id": "3c9a4ee470f7",
+     "links": [
+      "https://www.bbc.co.uk/sport/rugby-union/articles/cmd91np3pqk0o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/sport/2026/nov/15/scotland-australia-nations-championship-rugby-union-match-report"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Two mass shootings in South Africa leave 17 dead",
+     "sources": 2,
+     "score": 42,
+     "event_id": "745d5e7a5c50",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/south-africa-17-killed-in-separate-mass-shooting-incidents/a-79956966?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5ef0205965a4",
+   "title": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
+   "section": "world",
+   "entities": [
+    "ambassador",
+    "china",
+    "dana",
+    "ai-edited",
+    "guilfoyle",
+    "house",
+    "miller",
+    "inside",
+    "monday",
+    "asia",
+    "katie",
+    "putin",
+    "ufc's",
+    "trump",
+    "kimberly",
+    "greece",
+    "stephen",
+    "zacharia's",
+    "white"
+   ],
+   "event_ids": [
+    "5ef0205965a4",
+    "d0ee4a2b0e2a",
+    "b91386fcbef1",
+    "c2b2b6ae53ff",
+    "54d7a618ecd3",
+    "6abf76266070",
+    "92173ed13325",
+    "3b8092eeb96f",
+    "814d1a2b6376",
+    "7aa2ed76477d",
+    "e2e75fdcf2d7",
+    "92720765a427",
+    "dd0fd43506cb"
+   ],
+   "first_seen": "2026-10-13",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-10-13",
+     "headline": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
+     "sources": 3,
+     "score": 59,
+     "event_id": "5ef0205965a4",
+     "links": [
+      "https://www.dw.com/en/white-house-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-step-down-amid-misconduct-allegations/a-79652952?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
+      "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Inside Katie Zacharia's very brief White House briefing",
+     "sources": 2,
+     "score": 46,
+     "event_id": "d0ee4a2b0e2a",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+     "sources": 2,
+     "score": 48,
+     "event_id": "b91386fcbef1",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "US judge extends media outlets' White House access",
+     "sources": 2,
+     "score": 42,
+     "event_id": "c2b2b6ae53ff",
+     "links": [
+      "https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Trump posts AI-edited photo to brag about White House restoration work",
+     "sources": 3,
+     "score": 53,
+     "event_id": "54d7a618ecd3",
+     "links": [
+      "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Stephen Miller named by Trump as new White House chief of staff",
+     "sources": 5,
+     "score": 84,
+     "event_id": "6abf76266070",
+     "links": [
+      "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
+      "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+      "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff"
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+     "sources": 5,
+     "score": 69,
+     "event_id": "92173ed13325",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html"
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+     "sources": 2,
+     "score": 44,
+     "event_id": "3b8092eeb96f",
+     "links": [
+      "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
+      "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Trump says he was 'kidding' about Dana White press secretary offer",
+     "sources": 3,
+     "score": 50,
+     "event_id": "814d1a2b6376",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Dana White declines Trump’s offer to be White House press secretary",
+     "sources": 2,
+     "score": 45,
+     "event_id": "7aa2ed76477d",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/tv-shows/truth-or-fake/20261109-trump-says-he-was-kidding-about-dana-white-press-secretary-job-amid-online-mix-up-claims"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "White House announces funds for law enforcement programme in several cities",
+     "sources": 2,
+     "score": 42,
+     "event_id": "e2e75fdcf2d7",
+     "links": [
+      "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+      "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+     "sources": 3,
+     "score": 58,
+     "event_id": "92720765a427",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+     "sources": 5,
+     "score": 77,
+     "event_id": "dd0fd43506cb",
+     "links": [
+      "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip",
+      "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
+      "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "9739585c4084",
+   "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+   "section": "world",
+   "entities": [
+    "indian",
+    "supreme",
+    "court",
+    "thousands",
+    "texas",
+    "alaska",
+    "american",
+    "california",
+    "trump",
+    "verizon",
+    "foster",
+    "native",
+    "trump's"
+   ],
+   "event_ids": [
+    "9739585c4084",
+    "bead7cd93cfe",
+    "be7b7e3d8994",
+    "246b3636a67b",
+    "ca9a582da53c",
+    "a957e56e03fd",
+    "37f7a7a40e7d",
+    "e28037d5cfc2",
+    "2cdce35538df",
+    "befedc831688",
+    "16b14e3a7e1f",
+    "634e6c01dfcf"
+   ],
+   "first_seen": "2026-08-17",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-08-17",
+     "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+     "sources": 3,
+     "score": 60,
+     "event_id": "9739585c4084",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+      "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
+      "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko"
+     ]
+    },
+    {
+     "date": "2026-08-21",
+     "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
+     "sources": 3,
+     "score": 56,
+     "event_id": "bead7cd93cfe",
+     "links": [
+      "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
+      "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
+      "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-08-24",
+     "headline": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
+     "sources": 2,
+     "score": 50,
+     "event_id": "be7b7e3d8994",
+     "links": [
+      "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+      "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "GOP heads to Supreme Court after losing case over TV election ad prices",
+     "sources": 2,
+     "score": 43,
+     "event_id": "246b3636a67b",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
+      "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+     "sources": 2,
+     "score": 46,
+     "event_id": "ca9a582da53c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Supreme Court refuses to allow Trump's mail voting restrictions for the midterms",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a957e56e03fd",
+     "links": [
+      "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
+      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Thousands march to Indian Supreme Court to demand election chief resign",
+     "sources": 2,
+     "score": 46,
+     "event_id": "37f7a7a40e7d",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/india-news-opposition-parties-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Trump's green card curbs test Indian tech workers' American dream",
+     "sources": 2,
+     "score": 42,
+     "event_id": "e28037d5cfc2",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "DOJ asks for Supreme Court to intervene on California ballot demands",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2cdce35538df",
+     "links": [
+      "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+      "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html"
+     ]
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Trump asks Supreme Court to block 20,000 California midterm ballots",
+     "sources": 2,
+     "score": 40,
+     "event_id": "befedc831688",
+     "links": [
+      "https://www.dw.com/en/trump-asks-supreme-court-to-block-20-000-california-midterm-ballots/a-79833739?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Supreme Court says border wall construction can continue in west Texas",
+     "sources": 2,
+     "score": 44,
+     "event_id": "16b14e3a7e1f",
+     "links": [
+      "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+      "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Foster care placement of American Indian and Alaska Native children falls short of federal legislation aims",
+     "sources": 2,
+     "score": 52,
+     "event_id": "634e6c01dfcf",
+     "links": [
+      "https://phys.org/news/2026-11-foster-placement-american-indian-alaska.html",
+      "https://medicalxpress.com/news/2026-11-endometrial-cancer-affecting-native-american.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "93e2a4b9f246",
+   "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+   "section": "tech",
+   "entities": [
+    "elon",
+    "bring",
+    "huang",
+    "musk",
+    "back",
+    "uber",
+    "nvidia",
+    "singapore",
+    "jensen",
+    "double"
+   ],
+   "event_ids": [
+    "93e2a4b9f246",
+    "cefbc3be34f9",
+    "567fa298898a",
+    "a15c62a956a1",
+    "9a2034b63080",
+    "a4a92fbcda03",
+    "72120cb31e65",
+    "2f1f5cbf7ce8",
+    "8668d6d7cd9f",
+    "349134aed1b0"
+   ],
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-11-14",
+     "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+     "sources": 4,
+     "score": 62,
+     "event_id": "93e2a4b9f246",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
+     "sources": 2,
+     "score": 40,
+     "event_id": "cefbc3be34f9",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout",
+      "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Jensen Huang and the decline of the visionary showman founder CEO",
+     "sources": 4,
+     "score": 63,
+     "event_id": "567fa298898a",
+     "links": [
+      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "https://www.france24.com/en/can-nvidia-survive-without-tech-titan-jensen-huang"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "‘Double standard’: why the Jensen Huang saga is sparking a debate about race",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a15c62a956a1",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3374435/double-standard-why-jensen-huang-saga-sparking-debate-about-race",
+      "https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+     "sources": 2,
+     "score": 43,
+     "event_id": "9a2034b63080",
+     "links": [
+      "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+      "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a4a92fbcda03",
+     "links": [
+      "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "https://www.scmp.com/tech/tech-war/article/3373960/who-alice-huang-and-why-her-relationship-nvidias-ceo-under-scrutiny"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Could Jensen Huang make a comeback? Musk, other tech heavyweights pressure Nvidia board",
+     "sources": 3,
+     "score": 50,
+     "event_id": "72120cb31e65",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3374494/could-jensen-huang-make-comeback-musk-other-tech-heavyweights-pressure-nvidia-board",
+      "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+     "sources": 3,
+     "score": 46,
+     "event_id": "2f1f5cbf7ce8",
+     "links": [
+      "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief",
+     "sources": 3,
+     "score": 55,
+     "event_id": "8668d6d7cd9f",
+     "links": [
+      "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate",
+      "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+     "sources": 3,
+     "score": 52,
+     "event_id": "349134aed1b0",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "16c67f2bd64e",
+   "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+   "section": "world",
+   "entities": [
+    "zelenskyy",
+    "russian",
+    "ukraine",
+    "starshield"
+   ],
+   "event_ids": [
+    "16c67f2bd64e",
+    "9bdb34782c42",
+    "e3ad0edaa630",
+    "0d3c69cac347",
+    "b2e7e7767473"
+   ],
+   "first_seen": "2026-10-08",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-10-08",
+     "headline": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+     "sources": 5,
+     "score": 80,
+     "event_id": "16c67f2bd64e",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
+      "https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
+     "sources": 2,
+     "score": 46,
+     "event_id": "9bdb34782c42",
+     "links": [
+      "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+      "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Russian attack on Ukraine busses part of 'a steady increase in attacks on civilians'",
+     "sources": 2,
+     "score": 42,
+     "event_id": "e3ad0edaa630",
+     "links": [
+      "https://www.france24.com/en/video/20261008-russian-attack-on-ukraine-busses-part-of-a-steady-increase-in-attacks-on-civilians",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+     "sources": 2,
+     "score": 42,
+     "event_id": "0d3c69cac347",
+     "links": [
+      "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+      "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Zelenskyy urges removal of Starshield limits on Ukraine",
+     "sources": 2,
+     "score": 45,
+     "event_id": "b2e7e7767473",
+     "links": [
+      "https://www.dw.com/en/zelenskyy-urges-removal-of-starshield-limits-on-ukraine/a-79953300?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20261116-ukraine-strikes-crimea-bridge-as-zelensky-says-starshield-caps-helping-russian-attacks"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ea6dde997f9d",
+   "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
+   "section": "world",
+   "entities": [
+    "italy",
+    "egypt",
+    "lewis",
+    "israel",
+    "gaza",
+    "hamas",
+    "hamilton",
+    "canada",
+    "australia",
+    "rafah"
+   ],
+   "event_ids": [
+    "ea6dde997f9d",
+    "2df74c31e2e0",
+    "87cfd790eced",
+    "ef2717616441"
+   ],
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-11-12",
+     "headline": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
+     "sources": 4,
+     "score": 65,
+     "event_id": "ea6dde997f9d",
+     "links": [
+      "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Israel strikes Gaza hospital, says Hamas senior figure inside",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2df74c31e2e0",
+     "links": [
+      "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+     "sources": 2,
+     "score": 42,
+     "event_id": "87cfd790eced",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+     "sources": 2,
+     "score": 42,
+     "event_id": "ef2717616441",
+     "links": [
+      "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
+      "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6df7be2a0b28",
+   "title": "Klopp says Infantino worse than Blatter",
+   "section": "world",
+   "entities": [
+    "infantino",
+    "blatter",
+    "klopp"
+   ],
+   "event_ids": [
+    "6df7be2a0b28"
+   ],
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-11-16",
+     "headline": "Klopp says Infantino worse than Blatter",
+     "sources": 4,
+     "score": 66,
+     "event_id": "6df7be2a0b28",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/klopp-wants-infantino-out-as-fifa-candidate-deadline-looms/a-79958229?maca=en-rss-en-all-1573-rdf",
+      "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss"
      ]
     }
    ]
@@ -3080,281 +3856,6 @@
    ]
   },
   {
-   "id": "cc5e6502b0d5",
-   "title": "Are claims of a white genocide in South Africa real?",
-   "section": "world",
-   "entities": [
-    "parsons",
-    "final",
-    "test",
-    "games",
-    "durban",
-    "scotland",
-    "irish",
-    "africa's",
-    "cars",
-    "crowd",
-    "anti-migrant",
-    "south",
-    "africa",
-    "france",
-    "trump",
-    "olympic",
-    "championship",
-    "superb",
-    "rusty",
-    "hyron",
-    "champions",
-    "rwanda",
-    "olympics",
-    "african",
-    "australia",
-    "nations",
-    "andrews"
-   ],
-   "event_ids": [
-    "cc5e6502b0d5",
-    "fa9c2e8e5738",
-    "549b64aa5243",
-    "7b455e92537b",
-    "928a902aa653",
-    "e76bd5378246",
-    "153b71c672c5",
-    "72404f6aa49e",
-    "435629369d73",
-    "27e82397cdf1",
-    "459e2e33c045",
-    "8af10dc0e103",
-    "acf84507bf24",
-    "5350c616a9cd",
-    "961347ee66d5",
-    "f3989377ad57",
-    "f5001567fdab",
-    "e1d38dfbb8e2",
-    "3c9a4ee470f7"
-   ],
-   "first_seen": "2026-09-27",
-   "last_seen": "2026-11-15",
-   "timeline": [
-    {
-     "date": "2026-09-27",
-     "headline": "Are claims of a white genocide in South Africa real?",
-     "sources": 3,
-     "score": 56,
-     "event_id": "cc5e6502b0d5",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cme8xx55eryno?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Two mass shootings in South Africa leave 27 dead",
-     "sources": 4,
-     "score": 67,
-     "event_id": "fa9c2e8e5738",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-      "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "South Africa reels from spate of mass shootings that killed 38 people in a week",
-     "sources": 2,
-     "score": 49,
-     "event_id": "549b64aa5243",
-     "links": [
-      "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
-      "https://www.france24.com/en/south-africa-shootings-leave-27-killed",
-      "https://www.france24.com/en/femicides-on-the-rise-in-south-africa"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Superb South Africa seal series win over Australia",
-     "sources": 2,
-     "score": 42,
-     "event_id": "7b455e92537b",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/cqy8zlxe04l9o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "South Africa hope to host first African Olympics",
-     "sources": 2,
-     "score": 44,
-     "event_id": "928a902aa653",
-     "links": [
-      "https://www.bbc.co.uk/sport/olympics/articles/cm89zve3yll1o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/oct/06/south-africa-bid-to-stage-africas-first-olympics-2036"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "South Africa: Anti-migrant protests turn violent",
-     "sources": 2,
-     "score": 40,
-     "event_id": "e76bd5378246",
-     "links": [
-      "https://www.dw.com/en/south-africa-anti-migrant-protests-turn-violent/a-79605037?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
-     "sources": 2,
-     "score": 46,
-     "event_id": "153b71c672c5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/live/2026/oct/09/south-africa-v-australia-first-test-day-one-durban-kingsmead-cricket-ground-live-updates"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "South Africa: Anti-migrant unrest flares in Durban",
-     "sources": 2,
-     "score": 43,
-     "event_id": "72404f6aa49e",
-     "links": [
-      "https://www.france24.com/en/video/20261010-south-africa-anti-migrant-unrest-flares-in-durban",
-      "https://www.theguardian.com/sport/2026/oct/10/south-africa-australia-first-test-second-day-match-report"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Rusty or something more? South Africa's concern after Australia loss",
-     "sources": 5,
-     "score": 78,
-     "event_id": "435629369d73",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/articles/cmd7qv2pg333o?at_medium=RSS&at_campaign=rss",
-      "https://www.smithsonianmag.com/smart-news/did-industrialization-gut-our-microbiomes-a-new-study-on-rural-foraging-communities-in-south-america-and-africa-hints-the-answer-is-yes-180989658/",
-      "https://www.france24.com/en/south-africa-suspends-asylum-applications-amid-renewed-anti-immigrant-protests"
-     ]
-    },
-    {
-     "date": "2026-10-16",
-     "headline": "South African rugby player Hyron ​Andrews dies in France ahead of Champions Cup debut",
-     "sources": 2,
-     "score": 47,
-     "event_id": "27e82397cdf1",
-     "links": [
-      "https://www.france24.com/en/sport/20261016-south-african-rugby-player-found-dead-in-french-hotel-ahead-of-champions-cup-debut",
-      "https://www.theguardian.com/sport/2026/oct/16/player-found-dead-lions-champions-cup-la-rochelle"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "South Africa bat first in second Test against Australia - scorecard",
-     "sources": 2,
-     "score": 42,
-     "event_id": "459e2e33c045",
-     "links": [
-      "https://www.bbc.co.uk/sport/cricket/scorecard/e-236998?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/live/2026/oct/18/south-africa-v-australia-second-test-day-one-cricket-st-georges-park-gqeberha-live-updates"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Crowd of 50 beats foreigner to death in South Africa",
-     "sources": 2,
-     "score": 53,
-     "event_id": "8af10dc0e103",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss",
-      "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Olympic Games: South Africa bids to make Durban host city for 2036 or 2040",
-     "sources": 3,
-     "score": 57,
-     "event_id": "acf84507bf24",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/10/29/olympic-games-south-africa-bid-to-make-durban-host-city-for-2036-or-2040?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/oct/29/durban-selected-south-africa-candidate-olympic-bids-2036-2040",
-      "https://www.france24.com/en/video/20261029-kenya-s-female-athletes-make-their-mark-as-youth-olympic-games-approach"
-     ]
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Parsons hat-trick as Irish seal South Africa series win",
-     "sources": 2,
-     "score": 45,
-     "event_id": "5350c616a9cd",
-     "links": [
-      "https://www.bbc.co.uk/sport/rugby-union/articles/cwe8lp875engo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Trump to remove Rwanda and South Africa from US trade deal",
-     "sources": 2,
-     "score": 43,
-     "event_id": "961347ee66d5",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "ANC under pressure to reverse South Africa decline",
-     "sources": 2,
-     "score": 45,
-     "event_id": "f3989377ad57",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/south-africa-braces-for-some-job-losses-as-agoa-ends"
-     ]
-    },
-    {
-     "date": "2026-11-08",
-     "headline": "South Africa elections: ANC marks its worst-ever performance",
-     "sources": 2,
-     "score": 43,
-     "event_id": "f5001567fdab",
-     "links": [
-      "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-rdf",
-      "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "France edge past South Africa after thriller in Nations Championship",
-     "sources": 2,
-     "score": 48,
-     "event_id": "e1d38dfbb8e2",
-     "links": [
-      "https://www.bbc.co.uk/sport/rugby-union/videos/c6eq4npqy7e0o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/nov/13/france-south-africa-nations-championship-match-report"
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Final whistle a blessing as Scotland edge dull Test against Australia",
-     "sources": 2,
-     "score": 44,
-     "event_id": "3c9a4ee470f7",
-     "links": [
-      "https://www.bbc.co.uk/sport/rugby-union/articles/cmd91np3pqk0o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/sport/2026/nov/15/scotland-australia-nations-championship-rugby-union-match-report"
-     ]
-    }
-   ]
-  },
-  {
    "id": "f2d111d4fd57",
    "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
    "section": "science",
@@ -4069,187 +4570,6 @@
       "https://vlada.gov.cz/en/media-centrum/aktualne/prime-minister-andrej-babis-held-talks-with-donald-tusk-in-warsaw-on-energy--the-european-budget-and-security-230159/",
       "https://vlada.gov.cz/en/media-centrum/aktualne/prime-minister-andrej-babis-held-talks-with-the-president-of-montenegro--jakov-milatovic-230158/",
       "https://vlada.gov.cz/en/media-centrum/aktualne/prime-minister-babis-and-fico--prime-minister-of-the-slovak-republic--unveiled-a-statue-symbolising-czech-slovak-friendship-in-the-garden-of-the-strak-230156/"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "5ef0205965a4",
-   "title": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
-   "section": "world",
-   "entities": [
-    "ambassador",
-    "kimberly",
-    "inside",
-    "greece",
-    "trump",
-    "ufc's",
-    "katie",
-    "dana",
-    "ai-edited",
-    "white",
-    "miller",
-    "zacharia's",
-    "guilfoyle",
-    "putin",
-    "house",
-    "stephen",
-    "china",
-    "monday"
-   ],
-   "event_ids": [
-    "5ef0205965a4",
-    "d0ee4a2b0e2a",
-    "b91386fcbef1",
-    "c2b2b6ae53ff",
-    "54d7a618ecd3",
-    "6abf76266070",
-    "92173ed13325",
-    "3b8092eeb96f",
-    "814d1a2b6376",
-    "7aa2ed76477d",
-    "e2e75fdcf2d7",
-    "92720765a427"
-   ],
-   "first_seen": "2026-10-13",
-   "last_seen": "2026-11-14",
-   "timeline": [
-    {
-     "date": "2026-10-13",
-     "headline": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
-     "sources": 3,
-     "score": 59,
-     "event_id": "5ef0205965a4",
-     "links": [
-      "https://www.dw.com/en/white-house-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-step-down-amid-misconduct-allegations/a-79652952?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/13/kimberly-guilfoyle-resign-trump-ambassador.html",
-      "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Inside Katie Zacharia's very brief White House briefing",
-     "sources": 2,
-     "score": 46,
-     "event_id": "d0ee4a2b0e2a",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/13/new-white-house-press-secretary-katie-zacharia-holds-first-briefing?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-     "sources": 2,
-     "score": 48,
-     "event_id": "b91386fcbef1",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/trump-asks-greece-ambassador-to-resign-amid-ethics-scandal"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "US judge extends media outlets' White House access",
-     "sources": 2,
-     "score": 42,
-     "event_id": "c2b2b6ae53ff",
-     "links": [
-      "https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Trump posts AI-edited photo to brag about White House restoration work",
-     "sources": 3,
-     "score": 53,
-     "event_id": "54d7a618ecd3",
-     "links": [
-      "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "https://www.cnbc.com/2026/10/15/trump-ballroom-nvidia-cisco-donations.html"
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Stephen Miller named by Trump as new White House chief of staff",
-     "sources": 5,
-     "score": 84,
-     "event_id": "6abf76266070",
-     "links": [
-      "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-rdf",
-      "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
-      "https://www.france24.com/en/americas/20261106-trump-announces-immigration-hardliner-stephen-miller-as-new-chief-of-staff"
-     ]
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-     "sources": 5,
-     "score": 69,
-     "event_id": "92173ed13325",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html"
-     ]
-    },
-    {
-     "date": "2026-11-08",
-     "headline": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-     "sources": 2,
-     "score": 44,
-     "event_id": "3b8092eeb96f",
-     "links": [
-      "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
-      "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Trump says he was 'kidding' about Dana White press secretary offer",
-     "sources": 3,
-     "score": 50,
-     "event_id": "814d1a2b6376",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Dana White declines Trump’s offer to be White House press secretary",
-     "sources": 2,
-     "score": 45,
-     "event_id": "7aa2ed76477d",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/tv-shows/truth-or-fake/20261109-trump-says-he-was-kidding-about-dana-white-press-secretary-job-amid-online-mix-up-claims"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "White House announces funds for law enforcement programme in several cities",
-     "sources": 2,
-     "score": 42,
-     "event_id": "e2e75fdcf2d7",
-     "links": [
-      "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
-      "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-     "sources": 3,
-     "score": 58,
-     "event_id": "92720765a427",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss"
      ]
     }
    ]
@@ -8262,71 +8582,6 @@
    ]
   },
   {
-   "id": "16c67f2bd64e",
-   "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
-   "section": "world",
-   "entities": [
-    "ukraine",
-    "starshield",
-    "russian"
-   ],
-   "event_ids": [
-    "16c67f2bd64e",
-    "9bdb34782c42",
-    "e3ad0edaa630",
-    "0d3c69cac347"
-   ],
-   "first_seen": "2026-10-08",
-   "last_seen": "2026-11-13",
-   "timeline": [
-    {
-     "date": "2026-10-08",
-     "headline": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
-     "sources": 5,
-     "score": 80,
-     "event_id": "16c67f2bd64e",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
-      "https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Russian drones strike Ukraine’s data centers by exploiting air defense gaps",
-     "sources": 2,
-     "score": 46,
-     "event_id": "9bdb34782c42",
-     "links": [
-      "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
-      "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Russian attack on Ukraine busses part of 'a steady increase in attacks on civilians'",
-     "sources": 2,
-     "score": 42,
-     "event_id": "e3ad0edaa630",
-     "links": [
-      "https://www.france24.com/en/video/20261008-russian-attack-on-ukraine-busses-part-of-a-steady-increase-in-attacks-on-civilians",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-13",
-     "headline": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
-     "sources": 2,
-     "score": 42,
-     "event_id": "0d3c69cac347",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-      "https://www.aljazeera.com/news/2026/11/13/russias-demands-come-from-different-reality-as-war-efforts-stagnates?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
    "id": "6c48175ae0bc",
    "title": "Chris Van Hollen says he will challenge Chuck Schumer for Senate majority leader",
    "section": "world",
@@ -11405,163 +11660,6 @@
       "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
       "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
       "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "9739585c4084",
-   "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-   "section": "world",
-   "entities": [
-    "indian",
-    "texas",
-    "trump's",
-    "court",
-    "supreme",
-    "american",
-    "california",
-    "trump",
-    "thousands",
-    "verizon"
-   ],
-   "event_ids": [
-    "9739585c4084",
-    "bead7cd93cfe",
-    "be7b7e3d8994",
-    "246b3636a67b",
-    "ca9a582da53c",
-    "a957e56e03fd",
-    "37f7a7a40e7d",
-    "e28037d5cfc2",
-    "2cdce35538df",
-    "befedc831688",
-    "16b14e3a7e1f"
-   ],
-   "first_seen": "2026-08-17",
-   "last_seen": "2026-11-10",
-   "timeline": [
-    {
-     "date": "2026-08-17",
-     "headline": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
-     "sources": 3,
-     "score": 60,
-     "event_id": "9739585c4084",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-      "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
-      "https://www.france24.com/en/europe/20260817-russia-supreme-court-upholds-ban-anti-war-party-yabloko"
-     ]
-    },
-    {
-     "date": "2026-08-21",
-     "headline": "Supreme Court allows Trump's ballroom construction to continue for now",
-     "sources": 3,
-     "score": 56,
-     "event_id": "bead7cd93cfe",
-     "links": [
-      "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-      "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
-      "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-08-24",
-     "headline": "Supreme Court pauses lower court ruling on Trump's mail voting order as hurdles loom",
-     "sources": 2,
-     "score": 50,
-     "event_id": "be7b7e3d8994",
-     "links": [
-      "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
-      "https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "GOP heads to Supreme Court after losing case over TV election ad prices",
-     "sources": 2,
-     "score": 43,
-     "event_id": "246b3636a67b",
-     "links": [
-      "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
-      "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-     "sources": 2,
-     "score": 46,
-     "event_id": "ca9a582da53c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Supreme Court refuses to allow Trump's mail voting restrictions for the midterms",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a957e56e03fd",
-     "links": [
-      "https://www.npr.org/2026/09/15/nx-s1-5968937/scotus-rejects-trumps-restrictions-on-mail-in-ballots",
-      "https://www.aljazeera.com/news/2026/9/15/us-supreme-court-rejects-trumps-plans-on-postal-ballots-why-it-matters?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Thousands march to Indian Supreme Court to demand election chief resign",
-     "sources": 2,
-     "score": 46,
-     "event_id": "37f7a7a40e7d",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/india-news-opposition-parties-march-to-supreme-court/live-79638649?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Trump's green card curbs test Indian tech workers' American dream",
-     "sources": 2,
-     "score": 42,
-     "event_id": "e28037d5cfc2",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "DOJ asks for Supreme Court to intervene on California ballot demands",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2cdce35538df",
-     "links": [
-      "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
-      "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html"
-     ]
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Trump asks Supreme Court to block 20,000 California midterm ballots",
-     "sources": 2,
-     "score": 40,
-     "event_id": "befedc831688",
-     "links": [
-      "https://www.dw.com/en/trump-asks-supreme-court-to-block-20-000-california-midterm-ballots/a-79833739?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Supreme Court says border wall construction can continue in west Texas",
-     "sources": 2,
-     "score": 44,
-     "event_id": "16b14e3a7e1f",
-     "links": [
-      "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
-      "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss"
      ]
     }
    ]
@@ -23471,5 +23569,5 @@
    ]
   }
  ],
- "updated": "2026-11-16T09:28:17+00:00"
+ "updated": "2026-11-16T12:33:46+00:00"
 }

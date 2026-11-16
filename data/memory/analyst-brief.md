@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-16
 
-Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **64**.
+Paměť obsahuje **203 vláken**. Aktivních za posledních 14 dní: **64**.
 
 ---
 
@@ -21,9 +21,8 @@ Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **64**.
   - **2026-11-16** (3 zdrojů) How did England cling on against Spain and what did Tuchel do differently?
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
-- rubrika `ai` · sledováno 97 dní · 60 záznamů
+- rubrika `ai` · sledováno 98 dní · 60 záznamů
 - časová osa:
-  - **2026-11-12** (6 zdrojů) Jensen Huang has resigned, what's next for Nvidia?
   - **2026-11-13** (9 zdrojů) Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
   - **2026-11-13** (4 zdrojů) Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'
   - **2026-11-13** (7 zdrojů) US Senate asks Huang, Lutnick to testify on Nvidia
@@ -33,6 +32,7 @@ Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **64**.
   - **2026-11-13** (4 zdrojů) Jensen Huang was reckless with the environment, too
   - **2026-11-13** (4 zdrojů) Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon
   - **2026-11-15** (3 zdrojů) Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
+  - **2026-11-16** (2 zdrojů) Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster
 
 ### Saudi Arabia, Turkey and Pakistan sign defence pact
 - rubrika `world` · sledováno 98 dní · 60 záznamů

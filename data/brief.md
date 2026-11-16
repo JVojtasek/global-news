@@ -66,7 +66,29 @@
     <https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/>
     > https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 354 # Comments: 387
 
-### 3. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+### 3. FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia
+- id události: `dd0fd43506cb`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
+- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
+- Zdroje:
+  - **NPR News** — FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia
+    <https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip>
+    > U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.
+  - **The Guardian World** — Trump to embark on Asia trip in apparent foreign policy push before end of term
+    <https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy>
+    > Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on forei
+  - **NPR News** — Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout
+    <https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia>
+    > The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.
+  - **The Verge** — Senator slams Commerce Secretary for flow of Nvidia AI chips to China
+    <https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick>
+    > Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia's AI chips away from China. In a letter to
+  - **France 24** — Xi, Trump and Putin to discuss 'world peace' at Shenzhen summit, China says
+    <https://www.france24.com/en/asia-pacific/20261116-xi-trump-putin-discuss-world-peace-shenzhen-summit-china-says>
+    > The Chinese foreign ministry on Monday said that President Xi Jinping and his US and Russian counterparts Donald Trump and Vladimir Putin would discuss "safeguarding world peace and promoting strategic stability" when they hold their first trilateral summit in Shenzhen this week.
+  - **Investing.com** — Trump held up to $62m in Nvidia stock as of August - report
+    <https://www.investing.com/news/stock-market-news/trump-held-up-to-62m-in-nvidia-stock-as-of-august--report-5029333>
+
+### 4. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
 - id události: `1476d670af2a`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -85,23 +107,6 @@
   - **Investing.com** — U.S. floats NATO membership for Ukraine in exchange for Donbas, Zelenskyy says
     <https://www.investing.com/news/economy-news/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-zelenskyy-says-5027284>
 
-### 4. Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon
-- id události: `58447a67cf03`  ·  rubrika: `business`  ·  skóre: 68  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **Guardian Business** — Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon
-    <https://www.theguardian.com/commentisfree/picture/2026/nov/13/martin-rowson-on-the-downfall-of-nvidias-jensen-huang-cartoon>
-    > Continue reading...
-  - **NPR News** — Colette Kress becomes Nvidia's interim CEO after Jensen Huang resigns
-    <https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns>
-    > Nvidia's CEO Jensen Huang is out, and the company's chief financial officer Colette Kress is taking over as interim CEO. She'll have to guide the company through an exceptionally challenging time.
-  - **CNBC Top** — Nvidia is done with Jensen Huang. The fallout in Washington is just beginning
-    <https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html>
-    > The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.
-  - **TechCrunch** — Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!
-    <https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/>
-    > New research shows the most advanced AI models from China were trained on banned Nvidia chips.
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -109,8 +114,8 @@
 ### electric car battery
 - rubrika: `motoring`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
   - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
+  - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
   - Electric car — <https://en.wikipedia.org/wiki/Electric_car>
 
 ---
@@ -167,7 +172,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
-  2026-11-11  (4 zdrojů, síla 67)  Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal
   2026-11-12  (8 zdrojů, síla 81)  Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy
   2026-11-12  (3 zdrojů, síla 52)  Who could replace Jensen Huang? A highly unscientific list of possible successors
   2026-11-12  (2 zdrojů, síla 40)  What we know so far about Nvidia partner Megaspeed’s Asia footprint
@@ -187,6 +191,7 @@ rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
   2026-11-13  (4 zdrojů, síla 62)  Jensen Huang was reckless with the environment, too
   2026-11-13  (4 zdrojů, síla 68)  Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon
   2026-11-15  (3 zdrojů, síla 49)  Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
+  2026-11-16  (2 zdrojů, síla 42)  Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster
 ```
 
 ---
