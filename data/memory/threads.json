@@ -5,46 +5,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
-    "ballon",
-    "gordon",
-    "devlin",
-    "bellingham",
-    "lamine",
-    "england",
-    "wales",
-    "jerusalem",
-    "uefa",
-    "league",
-    "klopp",
-    "board",
-    "four",
     "protests",
-    "munich",
-    "germany",
-    "tuchel",
-    "croatia",
-    "mamdani",
-    "czechia",
-    "assembly",
-    "women's",
-    "macedonia",
-    "englishman",
-    "walsh-inspired",
-    "police",
-    "ruthless",
-    "portugal",
-    "ireland",
-    "world",
-    "nations",
-    "australia",
     "haaland",
+    "four",
+    "police",
+    "gordon",
+    "europe",
     "fiji",
+    "ireland",
+    "bellingham",
+    "devlin",
+    "ballon",
+    "england",
+    "walsh-inspired",
+    "uefa",
+    "wales",
     "quiz",
     "east-west",
-    "northern",
     "france",
-    "europe",
-    "spain"
+    "nations",
+    "assembly",
+    "klopp",
+    "world",
+    "germany",
+    "englishman",
+    "tuchel",
+    "portugal",
+    "board",
+    "macedonia",
+    "mamdani",
+    "northern",
+    "league",
+    "croatia",
+    "munich",
+    "czechia",
+    "lamine",
+    "jerusalem",
+    "spain",
+    "women's",
+    "ruthless",
+    "australia"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -152,22 +152,12 @@
     "aff9c2fc2a5c",
     "3ebb891ff331",
     "db6eeb41e066",
-    "ce47e6e375ca"
+    "ce47e6e375ca",
+    "8ddb418e132a"
    ],
    "first_seen": "2026-08-09",
-   "last_seen": "2026-11-15",
+   "last_seen": "2026-11-16",
    "timeline": [
-    {
-     "date": "2026-09-24",
-     "headline": "Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live",
-     "sources": 2,
-     "score": 40,
-     "event_id": "8d24e87fed3d",
-     "links": [
-      "https://www.theguardian.com/football/live/2026/sep/24/netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live",
-      "https://www.aljazeera.com/sports/liveblog/2026/9/24/live-portugal-vs-wales-uefa-nations-league?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-09-24",
      "headline": "Felix gives Portugal win over Wales in Nations League opener",
@@ -843,6 +833,625 @@
      "links": [
       "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-live"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "How did England cling on against Spain and what did Tuchel do differently?",
+     "sources": 3,
+     "score": 63,
+     "event_id": "8ddb418e132a",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6742l4z91lwo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/nov/15/thomas-tuchel-england-spain-nations-league"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "117b4062144e",
+   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+   "section": "science",
+   "entities": [
+    "dish",
+    "first-of-its-kind",
+    "data",
+    "later",
+    "landscape",
+    "help",
+    "advance",
+    "send",
+    "occupation",
+    "awards",
+    "years",
+    "collection",
+    "albrecht",
+    "launched",
+    "work",
+    "acquire",
+    "expected",
+    "unknown",
+    "photographs",
+    "ka-band",
+    "german",
+    "telescope",
+    "west-inspired",
+    "allowed",
+    "wasn't",
+    "opened",
+    "portrait",
+    "national",
+    "week",
+    "france",
+    "experimental",
+    "mission",
+    "beloved",
+    "testing",
+    "moon",
+    "grown",
+    "fifty",
+    "museum's",
+    "emerged",
+    "origin"
+   ],
+   "event_ids": [
+    "117b4062144e",
+    "687e9adaf6fb",
+    "887fb7f3bbc2",
+    "730942a6039b",
+    "648eebb8b0ed",
+    "b795c1289008",
+    "b4bda24af3f5",
+    "a2c974f2ab73",
+    "af69ac084ec6",
+    "2dc282f1df7a",
+    "2d1ff4fb2acc",
+    "f33a490284d9",
+    "f57fd11d1f5b",
+    "b85bd3d3a0d8",
+    "dc7b54e8c00a",
+    "b9bfb014cb61",
+    "550aa79730b3",
+    "d5370f4ea3de",
+    "eb8ae8da944a",
+    "7e9b86a23e3d",
+    "0d0d39349f2d",
+    "d20dd0f99f28",
+    "55107ad46021",
+    "2e62bc2ded66",
+    "32f654e7a58b",
+    "a0d00403ad7a",
+    "29ab67d3ec59",
+    "2fab97d34a2a",
+    "deff0425e991"
+   ],
+   "first_seen": "2026-08-29",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-08-29",
+     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+     "sources": 2,
+     "score": 58,
+     "event_id": "117b4062144e",
+     "links": [
+      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
+     ]
+    },
+    {
+     "date": "2026-08-29",
+     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+     "sources": 1,
+     "score": 46,
+     "event_id": "687e9adaf6fb",
+     "links": [
+      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
+     ]
+    },
+    {
+     "date": "2026-08-30",
+     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
+     "sources": 5,
+     "score": 81,
+     "event_id": "887fb7f3bbc2",
+     "links": [
+      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
+      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
+      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
+     ]
+    },
+    {
+     "date": "2026-09-11",
+     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+     "sources": 1,
+     "score": 46,
+     "event_id": "730942a6039b",
+     "links": [
+      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
+     "sources": 2,
+     "score": 55,
+     "event_id": "648eebb8b0ed",
+     "links": [
+      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
+      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+     "sources": 1,
+     "score": 45,
+     "event_id": "b795c1289008",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
+     ]
+    },
+    {
+     "date": "2026-09-29",
+     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b4bda24af3f5",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
+     ]
+    },
+    {
+     "date": "2026-10-01",
+     "headline": "NASA Adds New Science Investigations for Moon Base",
+     "sources": 1,
+     "score": 41,
+     "event_id": "a2c974f2ab73",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
+     ]
+    },
+    {
+     "date": "2026-10-02",
+     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
+     "sources": 1,
+     "score": 44,
+     "event_id": "af69ac084ec6",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Artemis II Crew Moon Photo Annotations",
+     "sources": 3,
+     "score": 53,
+     "event_id": "2dc282f1df7a",
+     "links": [
+      "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
+      "https://www.nature.com/articles/d41586-026-03197-7",
+      "https://phys.org/news/2026-10-artemis-ii-crew-moon-photo.html"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
+     "sources": 1,
+     "score": 42,
+     "event_id": "2d1ff4fb2acc",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
+      "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
+     "sources": 1,
+     "score": 43,
+     "event_id": "f33a490284d9",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
+      "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
+     "sources": 1,
+     "score": 46,
+     "event_id": "f57fd11d1f5b",
+     "links": [
+      "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
+      "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b85bd3d3a0d8",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
+      "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+     "sources": 1,
+     "score": 44,
+     "event_id": "dc7b54e8c00a",
+     "links": [
+      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+     "sources": 2,
+     "score": 52,
+     "event_id": "b9bfb014cb61",
+     "links": [
+      "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+      "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+     "sources": 1,
+     "score": 45,
+     "event_id": "550aa79730b3",
+     "links": [
+      "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
+      "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Scientists Don't Know How Mars Acquired Its Two Moons. Japan Just Launched a Historic Space Mission That Will Fetch Samples to Find Out",
+     "sources": 2,
+     "score": 52,
+     "event_id": "d5370f4ea3de",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/scientists-dont-know-how-mars-acquired-its-two-moons-japan-just-launched-a-historic-space-mission-that-will-fetch-samples-to-find-out-180989713/",
+      "https://phys.org/news/2026-10-japan-world-mission-moon-mars.html"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
+     "sources": 1,
+     "score": 45,
+     "event_id": "eb8ae8da944a",
+     "links": [
+      "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
+      "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
+     "sources": 1,
+     "score": 50,
+     "event_id": "7e9b86a23e3d",
+     "links": [
+      "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
+      "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
+     ]
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "The United Kingdom Is Launching Giant Claws Into Orbit to Clean Up Space Junk. You Can Help Name the First-of-Its-Kind Mission",
+     "sources": 1,
+     "score": 41,
+     "event_id": "0d0d39349f2d",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/the-united-kingdom-is-launching-giant-claws-into-orbit-to-clean-up-space-junk-you-can-help-name-the-first-of-its-kind-mission-180989755/"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+     "sources": 1,
+     "score": 45,
+     "event_id": "d20dd0f99f28",
+     "links": [
+      "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "After Observing the Sky for 22 Years, a Beloved NASA Space Telescope Is Expected to Meet a Fiery Death This Week",
+     "sources": 1,
+     "score": 44,
+     "event_id": "55107ad46021",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/after-observing-the-sky-for-22-years-a-beloved-nasa-space-telescope-is-expected-to-meet-a-fiery-death-this-week-180989796/"
+     ]
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+     "sources": 1,
+     "score": 46,
+     "event_id": "2e62bc2ded66",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+     "sources": 1,
+     "score": 45,
+     "event_id": "32f654e7a58b",
+     "links": [
+      "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+      "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "China Announces a Plan to Put Astronauts on the Moon by 2030, Revealing Details of Four Upcoming Missions",
+     "sources": 1,
+     "score": 40,
+     "event_id": "a0d00403ad7a",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/china-announces-a-plan-to-put-astronauts-on-the-moon-by-2030-revealing-details-of-four-upcoming-missions-180989810/"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Stolen During the Nazi Occupation of Orléans, France, This Painting Was Rediscovered After 86 Years With Help From Wild West-Inspired 'Wanted' Posters",
+     "sources": 1,
+     "score": 43,
+     "event_id": "29ab67d3ec59",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/stolen-during-the-nazi-occupation-of-orleans-france-this-painting-was-rediscovered-after-86-years-with-help-from-wild-west-inspired-wanted-posters-180989839/"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "German Renaissance Master Albrecht Altdorfer Pioneered Landscape Painting. A Work Previously Unknown to Scholars Just Emerged After 70 Years in a Private Collection",
+     "sources": 1,
+     "score": 46,
+     "event_id": "2fab97d34a2a",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/german-renaissance-master-albrecht-altdorfer-pioneered-landscape-painting-a-work-previously-unknown-to-scholars-just-emerged-after-70-years-in-a-private-collection-180989861/",
+      "https://www.smithsonianmag.com/smithsonian-institution/the-national-portrait-gallery-wasnt-allowed-to-acquire-photographs-when-it-opened-in-1968-fifty-years-later-the-smithsonian-museums-collection-has-grown-to-11000-photos-and-counting-180989823/"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "The National Portrait Gallery Wasn't Allowed to Acquire Photographs When It Opened in 1968. Fifty Years Later, the Smithsonian Museum's Collection Has Grown to 11,000 Photos and Counting",
+     "sources": 2,
+     "score": 54,
+     "event_id": "deff0425e991",
+     "links": [
+      "https://www.smithsonianmag.com/smithsonian-institution/the-national-portrait-gallery-wasnt-allowed-to-acquire-photographs-when-it-opened-in-1968-fifty-years-later-the-smithsonian-museums-collection-has-grown-to-11000-photos-and-counting-180989823/",
+      "https://www.goodnewsnetwork.org/they-became-pen-pals-as-teens-now-32-years-later-theyre-happily-married/"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "93e2a4b9f246",
+   "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+   "section": "tech",
+   "entities": [
+    "uber",
+    "nvidia",
+    "jensen",
+    "elon",
+    "double",
+    "huang",
+    "musk",
+    "singapore"
+   ],
+   "event_ids": [
+    "93e2a4b9f246",
+    "cefbc3be34f9",
+    "567fa298898a",
+    "a15c62a956a1",
+    "9a2034b63080",
+    "a4a92fbcda03",
+    "72120cb31e65",
+    "2f1f5cbf7ce8",
+    "8668d6d7cd9f"
+   ],
+   "first_seen": "2026-11-14",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-11-14",
+     "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+     "sources": 4,
+     "score": 62,
+     "event_id": "93e2a4b9f246",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
+     "sources": 2,
+     "score": 40,
+     "event_id": "cefbc3be34f9",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout",
+      "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Jensen Huang and the decline of the visionary showman founder CEO",
+     "sources": 4,
+     "score": 63,
+     "event_id": "567fa298898a",
+     "links": [
+      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "https://www.france24.com/en/can-nvidia-survive-without-tech-titan-jensen-huang"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "‘Double standard’: why the Jensen Huang saga is sparking a debate about race",
+     "sources": 2,
+     "score": 42,
+     "event_id": "a15c62a956a1",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3374435/double-standard-why-jensen-huang-saga-sparking-debate-about-race",
+      "https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+     "sources": 2,
+     "score": 43,
+     "event_id": "9a2034b63080",
+     "links": [
+      "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+      "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a4a92fbcda03",
+     "links": [
+      "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "https://www.scmp.com/tech/tech-war/article/3373960/who-alice-huang-and-why-her-relationship-nvidias-ceo-under-scrutiny"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Could Jensen Huang make a comeback? Musk, other tech heavyweights pressure Nvidia board",
+     "sources": 3,
+     "score": 50,
+     "event_id": "72120cb31e65",
+     "links": [
+      "https://www.scmp.com/tech/big-tech/article/3374494/could-jensen-huang-make-comeback-musk-other-tech-heavyweights-pressure-nvidia-board",
+      "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+     "sources": 3,
+     "score": 46,
+     "event_id": "2f1f5cbf7ce8",
+     "links": [
+      "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Elon Musk, Uber co-founder join calls to reinstate Jensen Huang as Nvidia chief",
+     "sources": 3,
+     "score": 55,
+     "event_id": "8668d6d7cd9f",
+     "links": [
+      "https://www.france24.com/en/technology/20261115-elon-musk-uber-co-founder-jensen-huang-nvidia-reinstate",
+      "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ea6dde997f9d",
+   "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
+   "section": "world",
+   "entities": [
+    "italy",
+    "egypt",
+    "lewis",
+    "israel",
+    "gaza",
+    "hamas",
+    "hamilton",
+    "canada",
+    "australia",
+    "rafah"
+   ],
+   "event_ids": [
+    "ea6dde997f9d",
+    "2df74c31e2e0",
+    "87cfd790eced",
+    "ef2717616441"
+   ],
+   "first_seen": "2026-11-12",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-11-12",
+     "headline": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
+     "sources": 4,
+     "score": 65,
+     "event_id": "ea6dde997f9d",
+     "links": [
+      "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+      "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Israel strikes Gaza hospital, says Hamas senior figure inside",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2df74c31e2e0",
+     "links": [
+      "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
+     "sources": 2,
+     "score": 42,
+     "event_id": "87cfd790eced",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+     "sources": 2,
+     "score": 42,
+     "event_id": "ef2717616441",
+     "links": [
+      "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
+      "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss"
      ]
     }
    ]
@@ -3144,126 +3753,6 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
       "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "93e2a4b9f246",
-   "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-   "section": "tech",
-   "entities": [
-    "jensen",
-    "musk",
-    "elon",
-    "singapore",
-    "nvidia",
-    "huang",
-    "double"
-   ],
-   "event_ids": [
-    "93e2a4b9f246",
-    "cefbc3be34f9",
-    "567fa298898a",
-    "a15c62a956a1",
-    "9a2034b63080",
-    "a4a92fbcda03",
-    "72120cb31e65",
-    "2f1f5cbf7ce8"
-   ],
-   "first_seen": "2026-11-14",
-   "last_seen": "2026-11-15",
-   "timeline": [
-    {
-     "date": "2026-11-14",
-     "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-     "sources": 4,
-     "score": 62,
-     "event_id": "93e2a4b9f246",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-      "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Jensen Huang’s exit tests Nvidia’s supply chain clout, ability to bankroll AI buildout",
-     "sources": 2,
-     "score": 40,
-     "event_id": "cefbc3be34f9",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3374357/jensen-huangs-exit-tests-nvidias-supply-chain-clout-ability-bankroll-ai-buildout",
-      "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Jensen Huang and the decline of the visionary showman founder CEO",
-     "sources": 4,
-     "score": 63,
-     "event_id": "567fa298898a",
-     "links": [
-      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "https://www.france24.com/en/can-nvidia-survive-without-tech-titan-jensen-huang"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "‘Double standard’: why the Jensen Huang saga is sparking a debate about race",
-     "sources": 2,
-     "score": 42,
-     "event_id": "a15c62a956a1",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3374435/double-standard-why-jensen-huang-saga-sparking-debate-about-race",
-      "https://www.investing.com/news/stock-market-news/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang-5027369"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-     "sources": 2,
-     "score": 43,
-     "event_id": "9a2034b63080",
-     "links": [
-      "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-      "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a4a92fbcda03",
-     "links": [
-      "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "https://www.scmp.com/tech/tech-war/article/3373960/who-alice-huang-and-why-her-relationship-nvidias-ceo-under-scrutiny"
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Could Jensen Huang make a comeback? Musk, other tech heavyweights pressure Nvidia board",
-     "sources": 3,
-     "score": 50,
-     "event_id": "72120cb31e65",
-     "links": [
-      "https://www.scmp.com/tech/big-tech/article/3374494/could-jensen-huang-make-comeback-musk-other-tech-heavyweights-pressure-nvidia-board",
-      "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation"
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-     "sources": 3,
-     "score": 46,
-     "event_id": "2f1f5cbf7ce8",
-     "links": [
-      "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "https://www.investing.com/news/stock-market-news/jensen-huang-may-return-as-nvidia-chief-executive--report-5028097"
      ]
     }
    ]
@@ -7518,395 +8007,6 @@
    ]
   },
   {
-   "id": "117b4062144e",
-   "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-   "section": "science",
-   "entities": [
-    "beloved",
-    "west-inspired",
-    "data",
-    "missions",
-    "help",
-    "ka-band",
-    "low-altitude",
-    "emerged",
-    "years",
-    "first-of-its-kind",
-    "mission",
-    "posters",
-    "landscape",
-    "albrecht",
-    "awards",
-    "collection",
-    "france",
-    "scholars",
-    "advance",
-    "revealing",
-    "renaissance",
-    "plan",
-    "relay",
-    "expected",
-    "dish",
-    "work",
-    "painting",
-    "launched",
-    "unknown",
-    "german",
-    "send",
-    "telescope",
-    "moon",
-    "occupation",
-    "research",
-    "pioneered",
-    "week",
-    "testing",
-    "experimental",
-    "origin"
-   ],
-   "event_ids": [
-    "117b4062144e",
-    "687e9adaf6fb",
-    "887fb7f3bbc2",
-    "730942a6039b",
-    "648eebb8b0ed",
-    "b795c1289008",
-    "b4bda24af3f5",
-    "a2c974f2ab73",
-    "af69ac084ec6",
-    "2dc282f1df7a",
-    "2d1ff4fb2acc",
-    "f33a490284d9",
-    "f57fd11d1f5b",
-    "b85bd3d3a0d8",
-    "dc7b54e8c00a",
-    "b9bfb014cb61",
-    "550aa79730b3",
-    "d5370f4ea3de",
-    "eb8ae8da944a",
-    "7e9b86a23e3d",
-    "0d0d39349f2d",
-    "d20dd0f99f28",
-    "55107ad46021",
-    "2e62bc2ded66",
-    "32f654e7a58b",
-    "a0d00403ad7a",
-    "29ab67d3ec59",
-    "2fab97d34a2a"
-   ],
-   "first_seen": "2026-08-29",
-   "last_seen": "2026-11-13",
-   "timeline": [
-    {
-     "date": "2026-08-29",
-     "headline": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-     "sources": 2,
-     "score": 58,
-     "event_id": "117b4062144e",
-     "links": [
-      "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
-      "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/"
-     ]
-    },
-    {
-     "date": "2026-08-29",
-     "headline": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
-     "sources": 1,
-     "score": 46,
-     "event_id": "687e9adaf6fb",
-     "links": [
-      "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
-      "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/"
-     ]
-    },
-    {
-     "date": "2026-08-30",
-     "headline": "Ribbon-Cutting Event for NASA Deep Space Network’s Deep Space Station 23",
-     "sources": 5,
-     "score": 81,
-     "event_id": "887fb7f3bbc2",
-     "links": [
-      "https://science.nasa.gov/photojournal/ribbon-cutting-event-for-nasa-deep-space-networks-deep-space-station-23/",
-      "https://science.nasa.gov/photojournal/nasa-deep-space-networks-new-goldstone-antenna-goes-online/",
-      "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/"
-     ]
-    },
-    {
-     "date": "2026-09-11",
-     "headline": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-     "sources": 1,
-     "score": 46,
-     "event_id": "730942a6039b",
-     "links": [
-      "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-      "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards SpaceX Three Crew Flights to Space Station",
-     "sources": 2,
-     "score": 55,
-     "event_id": "648eebb8b0ed",
-     "links": [
-      "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-      "https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/",
-      "https://www.cnbc.com/2026/09/18/spacex-scores-950-million-from-nasa-for-3-more-crewed-flights-to-iss-.html"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-     "sources": 1,
-     "score": 45,
-     "event_id": "b795c1289008",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-      "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
-     ]
-    },
-    {
-     "date": "2026-09-29",
-     "headline": "NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b4bda24af3f5",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
-      "https://www.nasa.gov/news-release/nasa-sets-crew-13-launch-docking-coverage/"
-     ]
-    },
-    {
-     "date": "2026-10-01",
-     "headline": "NASA Adds New Science Investigations for Moon Base",
-     "sources": 1,
-     "score": 41,
-     "event_id": "a2c974f2ab73",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
-      "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/"
-     ]
-    },
-    {
-     "date": "2026-10-02",
-     "headline": "Google Wants to Send Data Centers to Space—and Just Launched an Experimental Satellite to Test Whether Its Ambitious Plan Will Work",
-     "sources": 1,
-     "score": 44,
-     "event_id": "af69ac084ec6",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/google-wants-to-send-data-centers-to-space-and-just-launched-a-satellite-to-test-whether-its-ambitious-plan-will-work-180989613/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Artemis II Crew Moon Photo Annotations",
-     "sources": 3,
-     "score": 53,
-     "event_id": "2dc282f1df7a",
-     "links": [
-      "https://www.nasa.gov/image-article/artemis-ii-crew-moon-photo-annotations/",
-      "https://www.nature.com/articles/d41586-026-03197-7",
-      "https://phys.org/news/2026-10-artemis-ii-crew-moon-photo.html"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival",
-     "sources": 1,
-     "score": 42,
-     "event_id": "2d1ff4fb2acc",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/",
-      "https://www.nasa.gov/general/nasas-spacex-35th-commercial-resupply-mission-overview/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA to Stream SpaceX Crew-12 Return, Splashdown Live",
-     "sources": 1,
-     "score": 43,
-     "event_id": "f33a490284d9",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/",
-      "https://www.nasa.gov/general/mapping-the-gaps-in-nasas-return-to-the-moon-featuring-richard-spolzino/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA’s SpaceX Crew‑12 Splashes Down, Sets Briefing to Discuss Mission",
-     "sources": 1,
-     "score": 46,
-     "event_id": "f57fd11d1f5b",
-     "links": [
-      "https://www.nasa.gov/news-release/nasas-spacex-crew-12-splashes-down-sets-briefing-to-discuss-mission/",
-      "https://science.nasa.gov/missions/lisa/nasa-advances-lisa-mission-contributions-with-new-test-telescope/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b85bd3d3a0d8",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
-      "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-     "sources": 1,
-     "score": 44,
-     "event_id": "dc7b54e8c00a",
-     "links": [
-      "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-     "sources": 2,
-     "score": 52,
-     "event_id": "b9bfb014cb61",
-     "links": [
-      "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-      "https://www.goodnewsnetwork.org/nokia-and-nasa-team-up-to-bring-4g-to-the-moon-and-our-astronauts/"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-     "sources": 1,
-     "score": 45,
-     "event_id": "550aa79730b3",
-     "links": [
-      "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
-      "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Scientists Don't Know How Mars Acquired Its Two Moons. Japan Just Launched a Historic Space Mission That Will Fetch Samples to Find Out",
-     "sources": 2,
-     "score": 52,
-     "event_id": "d5370f4ea3de",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/scientists-dont-know-how-mars-acquired-its-two-moons-japan-just-launched-a-historic-space-mission-that-will-fetch-samples-to-find-out-180989713/",
-      "https://phys.org/news/2026-10-japan-world-mission-moon-mars.html"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
-     "sources": 1,
-     "score": 45,
-     "event_id": "eb8ae8da944a",
-     "links": [
-      "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
-      "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "NASA, Partners Accelerate Lander Development for 2028 Moon Missions",
-     "sources": 1,
-     "score": 50,
-     "event_id": "7e9b86a23e3d",
-     "links": [
-      "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/",
-      "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-      "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
-     ]
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "The United Kingdom Is Launching Giant Claws Into Orbit to Clean Up Space Junk. You Can Help Name the First-of-Its-Kind Mission",
-     "sources": 1,
-     "score": 41,
-     "event_id": "0d0d39349f2d",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/the-united-kingdom-is-launching-giant-claws-into-orbit-to-clean-up-space-junk-you-can-help-name-the-first-of-its-kind-mission-180989755/"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-     "sources": 1,
-     "score": 45,
-     "event_id": "d20dd0f99f28",
-     "links": [
-      "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-      "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "After Observing the Sky for 22 Years, a Beloved NASA Space Telescope Is Expected to Meet a Fiery Death This Week",
-     "sources": 1,
-     "score": 44,
-     "event_id": "55107ad46021",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/after-observing-the-sky-for-22-years-a-beloved-nasa-space-telescope-is-expected-to-meet-a-fiery-death-this-week-180989796/"
-     ]
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-     "sources": 1,
-     "score": 46,
-     "event_id": "2e62bc2ded66",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-      "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-     "sources": 1,
-     "score": 45,
-     "event_id": "32f654e7a58b",
-     "links": [
-      "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-      "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "China Announces a Plan to Put Astronauts on the Moon by 2030, Revealing Details of Four Upcoming Missions",
-     "sources": 1,
-     "score": 40,
-     "event_id": "a0d00403ad7a",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/china-announces-a-plan-to-put-astronauts-on-the-moon-by-2030-revealing-details-of-four-upcoming-missions-180989810/"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Stolen During the Nazi Occupation of Orléans, France, This Painting Was Rediscovered After 86 Years With Help From Wild West-Inspired 'Wanted' Posters",
-     "sources": 1,
-     "score": 43,
-     "event_id": "29ab67d3ec59",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/stolen-during-the-nazi-occupation-of-orleans-france-this-painting-was-rediscovered-after-86-years-with-help-from-wild-west-inspired-wanted-posters-180989839/"
-     ]
-    },
-    {
-     "date": "2026-11-13",
-     "headline": "German Renaissance Master Albrecht Altdorfer Pioneered Landscape Painting. A Work Previously Unknown to Scholars Just Emerged After 70 Years in a Private Collection",
-     "sources": 1,
-     "score": 46,
-     "event_id": "2fab97d34a2a",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/german-renaissance-master-albrecht-altdorfer-pioneered-landscape-painting-a-work-previously-unknown-to-scholars-just-emerged-after-70-years-in-a-private-collection-180989861/",
-      "https://www.smithsonianmag.com/smithsonian-institution/the-national-portrait-gallery-wasnt-allowed-to-acquire-photographs-when-it-opened-in-1968-fifty-years-later-the-smithsonian-museums-collection-has-grown-to-11000-photos-and-counting-180989823/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "341a230bd977",
    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
    "section": "tech",
@@ -10024,63 +10124,6 @@
       "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
       "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
       "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ea6dde997f9d",
-   "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
-   "section": "world",
-   "entities": [
-    "lewis",
-    "gaza",
-    "egypt",
-    "hamas",
-    "rafah",
-    "hamilton",
-    "israel"
-   ],
-   "event_ids": [
-    "ea6dde997f9d",
-    "2df74c31e2e0",
-    "87cfd790eced"
-   ],
-   "first_seen": "2026-11-12",
-   "last_seen": "2026-11-12",
-   "timeline": [
-    {
-     "date": "2026-11-12",
-     "headline": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
-     "sources": 4,
-     "score": 65,
-     "event_id": "ea6dde997f9d",
-     "links": [
-      "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
-      "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel"
-     ]
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Israel strikes Gaza hospital, says Hamas senior figure inside",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2df74c31e2e0",
-     "links": [
-      "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-     "sources": 2,
-     "score": 42,
-     "event_id": "87cfd790eced",
-     "links": [
-      "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss"
      ]
     }
    ]
@@ -23428,5 +23471,5 @@
    ]
   }
  ],
- "updated": "2026-11-15T21:19:13+00:00"
+ "updated": "2026-11-16T00:44:45+00:00"
 }

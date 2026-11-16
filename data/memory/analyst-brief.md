@@ -1,4 +1,4 @@
-# ANALYTICKÉ ZADÁNÍ — 2026-11-15
+# ANALYTICKÉ ZADÁNÍ — 2026-11-16
 
 Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **64**.
 
@@ -7,9 +7,8 @@ Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **64**.
 ## A) BĚŽÍCÍ TÉMATA (materiál pro analýzy)
 
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
-- rubrika `world` · sledováno 98 dní · 60 záznamů
+- rubrika `world` · sledováno 99 dní · 60 záznamů
 - časová osa:
-  - **2026-11-08** (2 zdrojů) Walsh-inspired Australia crush irate Samoa to reach World Cup final
   - **2026-11-12** (2 zdrojů) England vs Croatia: UEFA Nations League – preview, team news, predictions
   - **2026-11-12** (2 zdrojů) Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales
   - **2026-11-14** (2 zdrojů) Spain vs England: UEFA Nations League – predictions, how to watch, teams
@@ -19,6 +18,7 @@ Paměť obsahuje **202 vláken**. Aktivních za posledních 14 dní: **64**.
   - **2026-11-15** (2 zdrojů) Ruthless Australia win record fourth Women's World Cup
   - **2026-11-15** (2 zdrojů) Four in a row - Australia win women's rugby league World Cup again
   - **2026-11-15** (2 zdrojů) What Wales need to stay in Nations League top tier
+  - **2026-11-16** (3 zdrojů) How did England cling on against Spain and what did Tuchel do differently?
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 97 dní · 60 záznamů

@@ -1,114 +1,10 @@
 {
- "date": "2026-11-15",
+ "date": "2026-11-16",
  "mode": "normal",
  "days_since_human": 10,
  "confidence_threshold": 82,
  "reserve_articles": 4,
  "news_assignments": [
-  {
-   "id": "ea7faee11632",
-   "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-   "section": "business",
-   "score": 83,
-   "sources_count": 9,
-   "depth_signal": 0,
-   "created": "2026-11-13T00:38:52+00:00",
-   "event_time": "2026-11-12T23:34:05+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-     "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC World",
-     "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-     "published_at": "2026-11-12T23:34:05+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T00:38:49+00:00"
-    },
-    {
-     "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-     "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Business",
-     "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-     "published_at": "2026-11-12T23:34:05+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T00:38:49+00:00"
-    },
-    {
-     "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-     "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC Technology",
-     "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
-     "published_at": "2026-11-12T23:34:05+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T00:38:49+00:00"
-    },
-    {
-     "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
-     "source": "NPR News",
-     "summary": "Jensen Huang, CEO of Nvidia, the leading AI chipmaker, resigned after admitting an extramarital affair with a woman the U.S. says is a Chinese spy. This espionage tactic is known as a honey trap.",
-     "published_at": "2026-11-12T22:45:40+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T00:38:49+00:00"
-    },
-    {
-     "title": "Thanks to American oligarchy, Jensen Huang’s midlife crisis is a problem for all of us | Moira Donegan",
-     "url": "https://www.theguardian.com/commentisfree/2026/nov/12/jensen-huang-nvidia-trump-oligarchy",
-     "source": "Guardian Business",
-     "summary": "At a time when individual men wield massive power, the ramifications of the Nvidia CEO’s affair could be enormous One of the reasons you want to distribute power and responsibility in powerful organizations and high-stakes enterprises is so that the narcissism or myopia of one man do not come to carry outsized consequences. When power is spread out across multiple people, it matters less if one of",
-     "published_at": "2026-11-12T18:29:56+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T00:38:49+00:00"
-    },
-    {
-     "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
-     "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
-     "source": "CNBC Top",
-     "summary": "Without Huang, Cramer said Thursday, \"There won't be a better Nvidia, just a different one.\"",
-     "published_at": "2026-11-12T23:14:56+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T00:38:49+00:00"
-    },
-    {
-     "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-     "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-     "source": "TechCrunch",
-     "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-     "published_at": "2026-11-12T22:42:51+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T00:38:49+00:00"
-    },
-    {
-     "title": "Jensen Huang resigns as Nvidia CEO after mounting scandals",
-     "url": "https://www.france24.com/en/tv-shows/business/20261112-jensen-huang-resigns-as-nvidia-ceo-after-mounting-scandals",
-     "source": "France 24",
-     "summary": "Jensen Huang, long considered the face of the AI revolution, has resigned as Nvidia's President, CEO and board member as sandals over his romantic affairs wiped hundreds of billions of dollars from the company's market value in a matter of days. US lawmakers signal they'll likely push for tighter export restrictions for AI chips. Meanwhile, the rapid buildout of AI data centre is sparking anger an",
-     "published_at": "2026-11-12T22:10:28+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T00:38:49+00:00"
-    },
-    {
-     "title": "Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' management expert says",
-     "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-jensen-huang-management-structure.html",
-     "source": "CNBC Top",
-     "summary": "Nvidia's flat management structure could pose challenges for Huang's successor, according to experts.",
-     "published_at": "2026-11-12T22:06:08+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T00:38:49+00:00"
-    },
-    {
-     "title": "‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation",
-     "url": "https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions",
-     "source": "The Verge",
-     "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the suspected spy were \"close\" before other […]",
-     "published_at": "2026-11-12T21:45:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T00:38:49+00:00"
-    }
-   ],
-   "depth": "open"
-  },
   {
    "id": "15ca2a489eb0",
    "headline": "US Senate asks Huang, Lutnick to testify on Nvidia",
@@ -384,6 +280,65 @@
     }
    ],
    "depth": "open"
+  },
+  {
+   "id": "1476d670af2a",
+   "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "section": "world",
+   "score": 71,
+   "sources_count": 4,
+   "depth_signal": 0,
+   "created": "2026-11-14T12:21:55+00:00",
+   "event_time": "2026-11-14T11:41:20+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC World",
+     "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+     "published_at": "2026-11-14T11:41:20+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-14T12:21:52+00:00"
+    },
+    {
+     "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+     "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
+     "published_at": "2026-11-14T11:43:06+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-14T12:21:52+00:00"
+    },
+    {
+     "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+     "url": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
+     "source": "Al Jazeera",
+     "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
+     "published_at": "2026-11-14T11:00:39+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-14T12:21:52+00:00"
+    },
+    {
+     "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+     "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+     "source": "France 24",
+     "summary": "President Zelensky said the US had proposed ceding Ukraine's eastern city of Donbas to Russia, in exchange for Ukrainian membership of NATO, following the latest round of peace talks in Abu Dhabi this week. He reiterated that Kyiv was not willing to retreat from its territory and warned that the Kremlin's bid to change the continent's security architecture could lead to more wars.",
+     "published_at": "2026-11-14T10:30:04+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-14T12:21:52+00:00"
+    },
+    {
+     "title": "U.S. floats NATO membership for Ukraine in exchange for Donbas, Zelenskyy says",
+     "url": "https://www.investing.com/news/economy-news/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-zelenskyy-says-5027284",
+     "source": "Investing.com",
+     "summary": "",
+     "published_at": "2026-11-14T10:51:38+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-14T12:21:52+00:00"
+    }
+   ],
+   "depth": "open"
   }
  ],
  "feature_assignments": [
@@ -421,7 +376,7 @@
    "title_hint": "What has actually changed: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "depth": "scripture",
-   "timeline": "VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-10-22  (2 zdrojů, síla 46)  Harry Kane: Ballon d’Or for Bayern Munich striker?\n  2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes\n  2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or\n  2026-10-27  (4 zdrojů, síla 70)  'A dream come true' - Harry Kane on his Ballon d'Or win\n  2026-10-27  (2 zdrojů, síla 52)  Quiz: Kane and who else? Name every men's Ballon d'Or winner\n  2026-10-30  (2 zdrojů, síla 57)  England thrash Wales to begin World Cup defence\n  2026-10-31  (2 zdrojů, síla 46)  Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live\n  2026-11-01  (2 zdrojů, síla 51)  Wales hit by Australia century in World Cup record defeat\n  2026-11-05  (2 zdrojů, síla 42)  England captain Kane signs new Bayern contract\n  2026-11-08  (2 zdrojů, síla 50)  Australia reach World Cup final after Fiji scare\n  2026-11-08  (2 zdrojů, síla 47)  Walsh-inspired Australia crush irate Samoa to reach World Cup final\n  2026-11-12  (2 zdrojů, síla 46)  England vs Croatia: UEFA Nations League – preview, team news, predictions\n  2026-11-12  (2 zdrojů, síla 40)  Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales\n  2026-11-14  (2 zdrojů, síla 48)  Spain vs England: UEFA Nations League – predictions, how to watch, teams\n  2026-11-14  (2 zdrojů, síla 52)  Spain test will reveal if Tuchel and England have learned World Cup lessons\n  2026-11-14  (2 zdrojů, síla 47)  Haaland helps Norway to win over Wales in Nations League\n  2026-11-15  (2 zdrojů, síla 49)  Devlin nets winner as NI top Nations League group\n  2026-11-15  (2 zdrojů, síla 50)  Ruthless Australia win record fourth Women's World Cup\n  2026-11-15  (2 zdrojů, síla 49)  Four in a row - Australia win women's rugby league World Cup again\n  2026-11-15  (2 zdrojů, síla 42)  What Wales need to stay in Nations League top tier",
+   "timeline": "VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says\nrubrika: world · sledováno od 2026-08-09 · záznamů: 60\n  2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes\n  2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or\n  2026-10-27  (4 zdrojů, síla 70)  'A dream come true' - Harry Kane on his Ballon d'Or win\n  2026-10-27  (2 zdrojů, síla 52)  Quiz: Kane and who else? Name every men's Ballon d'Or winner\n  2026-10-30  (2 zdrojů, síla 57)  England thrash Wales to begin World Cup defence\n  2026-10-31  (2 zdrojů, síla 46)  Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live\n  2026-11-01  (2 zdrojů, síla 51)  Wales hit by Australia century in World Cup record defeat\n  2026-11-05  (2 zdrojů, síla 42)  England captain Kane signs new Bayern contract\n  2026-11-08  (2 zdrojů, síla 50)  Australia reach World Cup final after Fiji scare\n  2026-11-08  (2 zdrojů, síla 47)  Walsh-inspired Australia crush irate Samoa to reach World Cup final\n  2026-11-12  (2 zdrojů, síla 46)  England vs Croatia: UEFA Nations League – preview, team news, predictions\n  2026-11-12  (2 zdrojů, síla 40)  Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales\n  2026-11-14  (2 zdrojů, síla 48)  Spain vs England: UEFA Nations League – predictions, how to watch, teams\n  2026-11-14  (2 zdrojů, síla 52)  Spain test will reveal if Tuchel and England have learned World Cup lessons\n  2026-11-14  (2 zdrojů, síla 47)  Haaland helps Norway to win over Wales in Nations League\n  2026-11-15  (2 zdrojů, síla 49)  Devlin nets winner as NI top Nations League group\n  2026-11-15  (2 zdrojů, síla 50)  Ruthless Australia win record fourth Women's World Cup\n  2026-11-15  (2 zdrojů, síla 49)  Four in a row - Australia win women's rugby league World Cup again\n  2026-11-15  (2 zdrojů, síla 42)  What Wales need to stay in Nations League top tier\n  2026-11-16  (3 zdrojů, síla 63)  How did England cling on against Spain and what did Tuchel do differently?",
    "thread_days": 60
   },
   {
@@ -451,6 +406,30 @@
    "depth": "scripture"
   }
  ],
- "daily_assignment": null,
+ "daily_assignment": {
+  "section": "motoring",
+  "term": "electric car battery",
+  "questions": [],
+  "depth": "open",
+  "sources": [
+   {
+    "title": "Battery electric vehicle",
+    "url": "https://en.wikipedia.org/wiki/Battery_electric_vehicle",
+    "text": "A battery electric vehicle (BEV), pure electric vehicle, only-electric vehicle, fully electric vehicle or all-electric vehicle is a type of electric vehicle (EV) that uses electrical energy exclusively from an on-board battery pack to power one or more electric traction motors, on which the vehicle solely relies for propulsion.\nThis definition excludes hybrid electric vehicles (HEVs; including mild, full and plug-in hybrids), which use internal combustion engines (ICEs) in adjunct to electric motors for propulsion, as well as fuel cell electric vehicles (FCEVs) and range-extended electric vehicles (REEVs), which consume fuel through a fuel cell or an ICE-driven generator to produce electricity needed for the electric motors. BEVs have no fuel tanks and replenish their energy storage by plugging into a charging station, electrical grid or getting a new battery at a battery swap station, and use motor controllers to modulate the output engine power and torque, thus eliminating the need for clutches, transmissions and sophisticated engine cooling as seen in conventional ICE vehicles. BEVs include – but are not limited to  – all battery-driven electric cars, buses, trucks, forklifts, motorcycles and scooters, bicycles, skateboards, railcars, boat and personal watercraft, although in common usage the term usually refers specifically to passenger cars.\nIn 2016, there were 210 million electric bikes worldwide used daily. Cumulative global sales of highway-capable light-duty pure electric car vehicles passed the one million unit milestone in September 2016. As of September 2024, the world's top-selling all-electric car in history is the Tesla Model Y, with an estimated 3.4 million sales, followed by the Tesla Model 3 with over 2.6 million sales, and the Wuling Hongguang Mini EV with 1.4 million sales as of May 2024.\n\nHistory\n\nDuring the 1880s, Gustave Trouvé, Thomas Parker and Andreas Flocken built experimental electric cars, but the first practical battery electric vehicles appeared during the 1890s. Battery vehicle milk floats expanded in 1931, and by 1968, gave Britain the largest electric vehicle fleet in the world.\n\nTerminology\n\nHybrid electric vehicles use both electric motors and internal combustion engines, and are not considered pure or all-electric vehicles.\nHybrid electric vehicles whose batteries can be charged externally are called plug-in hybrid electric vehicles (PHEV) and run as BEVs during their charge-depleting mode. PHEVs with a series powertrain are also called range-extended electric vehicles (REEVs), such as the Chevrolet Volt and Fisker Karma.\nPlug-in electric vehicles (PEVs) are a subcategory of electric vehicles that includes battery electric vehicles (BEVs) and plug-in hybrid vehicles (PHEVs).\nThe electric vehicle conversions of hybrid electric vehicles and conventional internal combustion engine vehicles (aka all-combustion vehicles) belong to one of the two categories.\nIn China, plug-in electric vehicles, together with hybrid electric vehicles are called new energy vehicles (NEVs). However, in the United States, neighborhood electric vehicles (NEVs) are battery electric vehicles that are legally limited to roads with posted speed limits no higher than 45 miles per hour (72 km/h), are usually built to have a top speed of 30 miles per hour (48 km/h), and have a maximum loaded weight of 3,000 pounds (1,400 kg).\n\nVehicles by type\nThe concept of battery electric vehicles is to use charged batteries on board vehicles for propulsion. Battery electric cars are becoming more and more attractive with the higher oil prices and the advancement of new battery technology (lithium-ion) that have higher power and energy density (i.e., greater possible acceleration and more range with fewer batteries). Compared to older battery types such as lead-acid batteries, lithium-ion batteries for example now have an energy density of 0.9–2.63 MJ/L whereas lead-acid batteries had an energy density of 0.36 MJ/L (so 2.5 to 7.3x higher). There is still a long way to go if comparing it to petroleum-based fuels and biofuels, however (gasoline having an energy density of 34.2 MJ/L -38x to 12.92x higher- and ethanol having an energy of 24 MJ/L -26x to 9.12x higher-). This is partially offset by higher conversion efficiency of electric motors – BEVs travel roughly 3x further than similar-size internal combustion vehicles per MJ of stored energy.\nBEVs include automobiles, light trucks, and neighborhood electric vehicles.\n\nRail\n\nBattery electric railcars:\nBattery electric trains in the form of BEMUs (battery electric multiple units) are operated commercially in Japan. They are charged via pantographs, either when driving on electrified railway lines or during stops at specially equipped train stations. They use battery power for propulsion when driving on railway lines that are not electrified, and have successfully replaced diesel multiple units on some such lines.\nOther countries have also tested or ordered such vehicles.\n\nLocomotives:\nElectric rail trolley\n\nBattery electric trams\n\nBattery electric trams eliminate the need for overhead wires, which can be beneficial in historic city centers or where overhead wires are not desirable otherwise. Due to the frequent stops of trams, the batteries can be charged at every stop, where energy is rapidly stored in a combination of supercapacitors and batteries.\n\nBus\n\nChattanooga, Tennessee, operates nine zero-fare electric buses, which have been in operation since 1992 and have carried 11.3 million passengers and covered a distance of 3,100,000 kilometres (1,900,000 mi). They were made locally by Advanced Vehicle Systems. Two of these buses were used for the 1996 Summer Olympics in Atlanta.\nBeginning in the summer of 2000, Hong Kong Airport began operating a 16-passenger Mitsubishi Rosa electric shuttle bus, and in the fall of 2000, New York City began testing a 66-passenger battery-powered school bus, an all-electric version of the Blue Bird TC/2000. A similar bus was operated in Napa Valley, California, for 14 months ending in April 2004.\nThe 2008 Beijing Olympics used a fleet of 50 electric buses, which have a range of 130 km (81 mi) with the air conditioning on. They use lithium-ion batteries, and consume about 1 kW⋅h/mi (0.62 kW⋅h/km; 2.2 MJ/km). The buses were designed by the Beijing Institute of Technology and built by the Jinghua Coach. The batteries are replaced with fully charged ones at the recharging station to allow 24-hour operation of the buses.\nIn France, the electric bus phenomenon is in development, but some buses are already operating in numerous cities. PVI, a medium-sized company located in the Paris region, is one of the leaders of the market with its brand Gepebus (offering Oreos 2X and Oreos 4X).\nIn the United States, the first battery-electric, fast-charge bus has been in operation in Pomona, California, since September 2010 at Foothill Transit. The Proterra EcoRide BE35 uses lithium-titanate batteries and is able to fast-charge in less than 10 minutes.\nIn 2012, heavy-duty trucks and buses contributed 7% of global warming emissions in California.\nIn 2014, the first production model all-electric school bus was delivered to the Kings Canyon Unified School District in California's San Joaquin Valley. The bus was one of four the district ordered. This battery-electric school bus, which has four sodium nickel batteries, is the first modern electric school bus approved for student transportation by any state.\nIn 2016, including the light heavy-duty vehicles, there were roughly 1.5 million heavy-duty vehicles in California.\n\nThe same technology is used to power the Mountain View Community Shuttles. This technology was supported by the California Energy Commission, and the shuttle program is being supported by Google.\n\nThunder Sky\nThunder Sky (based in Hong Kong) builds lithium-ion batteries used in submarines and has three models of electric buses, the 10/21 passenger EV-6700 with a range of 280 km (170 mi) under 20 mins quick-charge, the EV-2009 city buses, and the 43 passenger EV-2008 highway bus, which has a range of 300 km (190 mi) under quick-charge (20 mins to 80 percent), and 350 km (220 mi) under full charge (25 mins). The buses will also be built in the United States and Finland.\n\nFree Tindo\nTindo is an all-electric bus from Adelaide, Australia. The Tindo (aboriginal word for sun) is made by Designline International in New Zealand and gets its electricity from a solar PV system on Adelaide's central bus station. Rides are zero-fare as part of Adelaide's public transport system.\n\nFirst Fast-Charge, Battery-Electric Transit Bus\nProterra's EcoRide BE35 transit bus, called the Ecoliner by Foothill Transit in West Covina, California, is a heavy-duty, fast charge, battery-electric bus. Proterra's ProDrive drive-system uses a UQM motor and regenerative braking that captures 90 percent of the available energy and returns it to the TerraVolt energy storage system, which in turn increas"
+   },
+   {
+    "title": "Electric vehicle battery",
+    "url": "https://en.wikipedia.org/wiki/Electric_vehicle_battery",
+    "text": "An electric vehicle battery is a rechargeable battery used to power the electric motors of a battery electric vehicle (BEV) or hybrid electric vehicle (HEV).\nThey are typically lithium-ion batteries that are designed for high power-to-weight ratio and energy density. Compared to liquid fuels, most current battery technologies have much lower specific energy. This increases the weight of vehicles or reduces their range.\nLi-NMC batteries using lithium nickel manganese cobalt oxides are the most common in EV. The lithium iron phosphate battery (LFP) is on the rise, reaching 41% global market share by capacity for BEVs in 2023. LFP batteries are heavier but cheaper and more sustainable. However, some commercial passenger car manufacturers are now beginning to use a sodium-ion battery completely avoiding the need for critical minerals.\nThe battery makes up a significant portion of the cost and environmental impact of an electric vehicle. Growth in the industry has generated interest in securing ethical battery supply chains, which has become an important geopolitical issue. Reduction of use of mined cobalt, which is also required in fossil fuel refining, has been a major goal of research. A number of new chemistries compete to displace Li-NMC with (see solid-state battery) performance above 800Wh/kg in laboratory testing.\nIn 2019, the cost of electric vehicle batteries was said to have fallen 87% on a per kilowatt-hour basis.\nDemand for EVBs exceeded 750 GWh in 2023. EVBs have much higher capacities than automotive batteries used for starting, lighting, and ignition (SLI) in combustion cars. The battery capacity of available EV models reached from 21 to 123 kWh in 2023 with an average of 80 kWh.\n\nElectric vehicle battery types\n\nAs of 2024, the lithium-ion battery (LIB) with the variants Li-NMC, LFP and Li-NCA dominates the BEV market. The combined global production capacity in 2023 reached almost 2000 GWh with 772 GWh used for EVs in 2023. Most production is based in China where capacities increased by 45% that year. With their high energy density and long cycle life, lithium-ion batteries have become the leading battery type for use in EVs. They were initially developed and commercialized for use in laptops and consumer electronics. Recent EVs are using new variations on lithium-ion chemistry that sacrifice specific energy and specific power to provide fire resistance, environmental friendliness, rapid charging and longer lifespans. These variants have been shown to have a much longer lifetime. For example, lithium-ion cells containing single wall carbon nanotubes (SWCNTs) show increased mechanical strength, suppressing degradation and leading to a longer battery lifetime.\n\nLithium-NMC\nLithium nickel manganese cobalt oxides offer high performance and have become the global standard in BEV production since the 2010s. On the other hand, the exploitation of the required minerals causes environmental problems. The downside of traditional NMC batteries includes sensitivity to temperature, low temperature power performance, and performance degradation with age. Due to the volatility of organic electrolytes, the presence of highly oxidized metal oxides, and the thermal instability of the anode SEI layer, traditional lithium-ion batteries pose a fire safety risk if punctured or charged improperly. Early cells did not accept or supply charge when extremely cold. Heaters can be used in some climates to warm them.\n\nLithium iron phosphate (LFP)\nThe Lithium iron phosphate battery has a shorter range but is cheaper, safer and more sustainable than the NMC battery. It does not require the critical minerals manganese and cobalt.\nSince 2023, LFP has become the leading technology in China while the market share in Europe and North America remains lower than 10%. LFP is the dominant type in grid energy storage.\n\nLithium titanate (LTO)\nLithium titanate  or lithium-titanium-oxide (LTO) batteries are known for their high safety profile, with reduced risk of thermal runaway and effective operation over a wide temperature range. LTO batteries have an impressive cycle life, often exceeding 10,000 charge-discharge cycles. They also have rapid charging capabilities due to their high charge acceptance. However, they have a lower energy density compared to other lithium-ion batteries.\n\nSodium-ion\nThe Sodium-ion battery completely avoids critical materials. Due to the high availability of sodium which is a part of salt water, cost projections are low. In early 2024, various Chinese manufacturers began with the delivery of their first models. Analysts saw a high potential for this type especially for the use in small EVs, bikes and three-wheelers; as in early 2024, JAC Yiwe (model Sehol E10X) and JMEV (EV3 Youth Edition) started production on smaller, budget-friendly EVs using these batteries. In 2026, they are installed in mass production cars, as Changan Nevo A06.\n\nFuture types\nSeveral types are in development.\n\nThe solid-state battery could offer high energy density and potential safety improvements.\nThe lithium-sulfur battery is also expected to meet high performance demands.\nThe LMFP battery  is a LFP battery that includes manganese as a cathode component.\n\nLegacy types\n\nLead-acid\nIn the 20th century most electric vehicles used a flooded lead–acid battery due to their mature technology, high availability, and low cost. Lead–acid batteries powered such early modern EVs as the original 1996 versions of the EV1. There are two main types of lead–acid batteries: automobile engine starter batteries, and deep-cycle batteries which provide continuous electricity to run electric vehicles like forklifts or golf carts. Deep-cycle batteries are also used as auxiliary batteries in recreational vehicles, but they require different, multi-stage charging. Discharging below 50% can shorten the battery's life. Flooded batteries require inspection of electrolyte levels and occasional replacement of water, which gases away during the normal charging cycle. EVs with lead–acid batteries are capable of up to 130 km (81 mi) per charge.\n\nNickel–metal hydride (NiMH)\n\nNickel–metal hydride batteries are considered a mature technology. While less efficient (60–70%) in charging and discharging than even lead–acid, they have a higher specific energy of 30–80 W·h/kg. When used properly, nickel–metal hydride batteries can have exceptionally long lives, as has been demonstrated in their use in hybrid cars and in the surviving first-generation NiMH Toyota RAV4 EVs that still operate well after 100,000 miles (160,000 km) and over a decade of service. Downsides include finicky charge cycles and poor performance in weather below -20 °C. GM Ovonic produced the NiMH battery used in the second generation EV-1. Prototype NiMH-EVs delivered up to 200 km (120 mi) of range.\n\nZebra\n\nThe sodium nickel chloride or \"Zebra\" battery was used in early EVs between 1997 and 2012. It uses a molten sodium chloroaluminate (NaAlCl4) salt as the electrolyte. It has a specific energy of 120 W·h/kg. Since the battery must be heated for use, cold weather does not strongly affect its operation except for increasing heating costs. Zebra batteries can last for a few thousand charge cycles and are nontoxic. The downsides to the Zebra battery include poor specific power (<300 W/kg) and the need to heat the electrolyte to about 270 °C (518 °F), which wastes some energy, presents difficulties in long-term storage of charge, and is potentially a hazard.\n\nOther legacy types\nOther types of rechargeable batteries used in early electric vehicles include\n\nnickel–cadmium\nNickel–iron battery used in the Detroit Electric\nLithium vanadium oxide made its way into the Subaru prototype G4e.\n\nBattery architecture and integration\nCTx series:\n\nCell to Module (CTM) - battery cells put into modules, then into battery pack\nCell to Pack (CTP) - battery cells into battery pack without modules\nCell to Chassis (CTC) - battery cells into frame or chassis, batteries maybe used as part of structural integrity or to increase structural strength\nCell to Body (CTB) - battery cells into vehicle body\n\nSupply chain\n\nLifecycle of lithium-based EV batteries\nDuring the first stage, the materials are mined in different parts of the world, including Australia, Russia, New Caledonia and Indonesia. All the following steps are currently dominated by China. After the materials are refined by pre-processing factories, battery manufacturing companies buy them, make batteries, and assemble them into packs.  Car manufacturing companies buy and install them in cars. To address the environmental impact of this process, the supply chain is increasingly focusing on sustainability, with efforts to reduce reliance on rare-earth minerals and improve recycling.\n\nManufacturing\n\nThere are mainly three stages during the manufacturing process of EV batteries: materials manufacturing, cell manufacturing and integration, as shown in Manufacturing process of EV batteries graph in grey"
+   },
+   {
+    "title": "Electric car",
+    "url": "https://en.wikipedia.org/wiki/Electric_car",
+    "text": "An electric car is an automobile that uses electrical energy as the primary source of propulsion. The term normally refers to a plug-in electric vehicle, typically a battery electric vehicle (BEV), which only uses energy stored in on-board battery packs, but broadly may also include plug-in hybrid electric vehicle (PHEV), range-extended electric vehicle (REEV) and fuel cell electric vehicle (FCEV), which can convert electric power from other fuels via a generator or a fuel cell.\nCompared to conventional internal combustion engine (ICE) vehicles, electric cars are quieter, more responsive, have superior energy conversion efficiency and produce no tailpipe emissions. Electric cars generally have a lower overall carbon footprint over their life cycle, from manufacturing to end of life, even when the electricity used for charging comes partly from fossil-fuel power stations. Electric cars generally have higher manufacturing emissions than comparable ICE vehicles, although they produce fewer greenhouse gas emissions during operation. Due to the superior efficiency of electric motors, electric cars also generate less waste heat, thus reducing the need for engine cooling systems that are often large, complicated and maintenance-prone in ICE vehicles. However, EVs may still use dedicated thermal management systems to regulate battery temperature.\nThe battery of a plug-in electric car is typically recharged by connecting it to an external electricity supply. Recharging an electric car can be done at different kinds of charging stations; depending on local regulations and utility requirements, these charging stations can be installed in private homes, parking garages and public areas. There is also research and development in, as well as deployment of, other technologies such as battery swapping and inductive charging. As charging stations (especially fast chargers) become more widely available, range anxiety and the time required to charge remain psychological barriers for some consumers considering the purchase of an electric car. Governments and electric vehicle manufacturers have introduced various initiatives to expand charging infrastructure, improve charging accessibility and address these concerns.\nWorldwide, 21 million plug-in electric cars were sold in 2025, accounting for one-quarter of new car sales and representing an increase of more than 20% compared with 2024. Many countries have established government incentives for plug-in electric vehicles, including tax credits, subsidies, and other non-monetary incentives while several countries have legislated to phase-out of fossil fuel vehicles, to reduce air pollution and limit climate change.\nChina has the world's largest stock of new energy vehicles, with 31.4 million vehicles in use (vehicle ownership) at the end of 2024, including 22.09 million battery electric vehicles (BEVs). These figures also include heavy-duty commercial vehicles such as buses, garbage trucks and sanitation vehicles, and only account for vehicles manufactured in China. As of 2020, the total cost of ownership of recent electric vehicles in the United States and European Union was lower than that of equivalent ICE cars, due to lower power and maintenance costs.\nIn 2023, the Tesla Model Y became the world's best-selling car. The Tesla Model 3 became the world's all-time best-selling electric car in early 2020, and in June 2021 it became the first electric car to pass 1 million global sales.\n\nTerminology\n\nThe term \"electric car\" typically refers specifically to battery electric vehicles (BEVs) or all-electric cars, a type of electric vehicle (EV) that has an onboard rechargeable battery pack that can be plugged in and charged from the electric grid, or at home with solar panels, and the electricity stored on the vehicle is the only energy source that provides propulsion for the wheels. The term generally refers to highway-capable automobiles, but there are also low-speed electric vehicles with limitations in terms of weight, power, and maximum speed that are allowed to travel on certain public roads. The latter are classified as Neighborhood Electric Vehicles (NEVs) in the United States, and as electric motorised quadricycles in Europe.\n\nHistory\n\nEarly developments\nBetween 1832 and 1839, the Scottish inventor Robert Anderson developed a crude electric carriage.\nThe following experimental electric cars appeared during the 1880s:\n\nIn 1881, Gustave Trouvé presented an electric car driven by an improved Siemens motor at the Exposition internationale d'Électricité de Paris.\nIn 1882 Werner von Siemens presented the Electromote, the world's first trolleybus, in Berlin.\nIn 1884, Thomas Parker built an electric car in Wolverhampton, England, using his own specially designed high-capacity rechargeable batteries, although the only documentation is a photograph from 1895.\nIn 1888, the German inventor Andreas Flocken designed the Flocken Elektrowagen, regarded as the first \"real\" electric car.\nIn 1890, William Morrison introduced the first practical electric car to the United States.\nElectricity was among the preferred methods for automobile propulsion in the late 19th and early 20th centuries, providing a level of comfort and an ease of operation that could not be achieved by the era's internal combustion cars. The electric vehicle fleet then peaked at approximately 30,000 vehicles.\nIn 1897, electric cars found commercial use as taxis in Britain and in the United States. In London, Bersey electric cabs were the first self-propelled vehicles for hire at a time when cabs were horse-drawn. In 1897, New York City had a fleet of twelve hansom cabs and one brougham, based on the Electrobat II, introduced as part of a project partly funded by the Philadelphia Electric Storage Battery Company. During the 20th century, the main US manufacturers of electric vehicles included Anthony Electric, Baker, Columbia, Anderson, Edison, Riker, Milburn Wagon Company (Milburn Light Electric), Bailey Electric, and Detroit Electric.\nSix electric cars held the land speed record in the 19th century. The last was the rocket-shaped La Jamais Contente, driven by Camille Jenatzy, which broke the 100 km/h (62 mph) speed barrier by reaching a top speed of 105.88 km/h (65.79 mph) in 1899.\nElectric cars remained popular until advances in internal-combustion engine (ICE) cars left them behind. At the time, the shorter refueling times and lower production costs of ICE vehicles made them more attractive to consumers than electric cars. A decisive moment came with the 1912 introduction of the electric starter motor that replaced laborious and dangerous methods such as hand-cranking.\n\nRenaissance\n\nIn the early 1990s the California Air Resources Board began to push for lower-emissions vehicles, with the ultimate goal of  zero-emissions vehicles. Automakers responded with electric models, although they were later withdrawn.\nCalifornia electric-automaker Tesla Motors began development in 2004 of what became the Tesla Roadster, first delivered to customers in 2008. The Roadster was the first highway-legal all-electric car to use lithium-ion battery cells, and the first production all-electric car to travel more than 320 km (200 miles) per charge.\nBetter Place developed battery charging and battery swapping services, but went bankrupt in 2013.\nThe 2009 Mitsubishi i-MiEV was the first highway-legal series production electric car, and the first to sell more than 10,000 units. The Nissan Leaf, launched in 2010, quickly surpassed it as the best-selling all-electric car.\nIn 2008, advances in battery technology, and the desire to reduce Greenhouse gas emissions and improve urban air quality increased interest in EVs. During the 2010s, EVs in China expanded rapidly with government support. \nIn July 2019 Motor Trend awarded the Tesla Model S the title \"ultimate car of the year\". In March 2020 the Tesla Model 3 passed the Nissan Leaf to become the best-selling electric car, with more than 500,000 units delivered; it reached 1 million units in June 2021.\nIn 2021, the Alliance for Automotive Innovation reported that the 187,000 sales of electric vehicles accounted for 6% of US light-duty vehicles. California led the United States with nearly 40% of purchases, followed by Florida with 6%, Texas with 5% and New York with 4.4%.\n\nEconomics\nEVs typically have a much lower cost of ownership than ICE vehicles. Early differences in purchase cost have shrunk due to intense competitive pressures.\n\nTotal cost of ownership\nGenerally, electricity costs less than petrol per kilometre travelled, although petrol and electricity prices vary dramatically by location, origin and even time of day. Petrol prices are affected by taxes and fuel formulation, while electricity can come from sources such as rooftop solar or the electric grid. EV motors are far more efficient than internal combustion engines, which convert at least 60% of the energy they consume into heat rather than propulsion.\nThe g"
+   }
+  ],
+  "min_words": 1100,
+  "max_words": 1900
+ },
  "master_language": "en"
 }

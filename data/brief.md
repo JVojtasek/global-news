@@ -1,4 +1,4 @@
-# ZADÁNÍ PRO REDAKCI — 2026-11-15
+# ZADÁNÍ PRO REDAKCI — 2026-11-16
 
 - Režim: **normal**
 - Práh jistoty pro automatické vydání: **82/100**
@@ -9,42 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
-- id události: `ea7faee11632`  ·  rubrika: `business`  ·  skóre: 83  ·  nezávislých zdrojů: 9
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
-    <https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss>
-    > US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.
-  - **BBC Business** — Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
-    <https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss>
-    > US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.
-  - **BBC Technology** — Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
-    <https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss>
-    > US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.
-  - **NPR News** — What's a Honey Trap? The spy tactic that helped topple Jensen Huang
-    <https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang>
-    > Jensen Huang, CEO of Nvidia, the leading AI chipmaker, resigned after admitting an extramarital affair with a woman the U.S. says is a Chinese spy. This espionage tactic is known as a honey trap.
-  - **Guardian Business** — Thanks to American oligarchy, Jensen Huang’s midlife crisis is a problem for all of us | Moira Donegan
-    <https://www.theguardian.com/commentisfree/2026/nov/12/jensen-huang-nvidia-trump-oligarchy>
-    > At a time when individual men wield massive power, the ramifications of the Nvidia CEO’s affair could be enormous One of the reasons you want to distribute power and responsibility in powerful organizations and high-stakes enterprises is so that the narcissism or myopia of one ma
-  - **CNBC Top** — Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces
-    <https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html>
-    > Without Huang, Cramer said Thursday, "There won't be a better Nvidia, just a different one."
-  - **TechCrunch** — Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump
-    <https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/>
-    > This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.
-  - **France 24** — Jensen Huang resigns as Nvidia CEO after mounting scandals
-    <https://www.france24.com/en/tv-shows/business/20261112-jensen-huang-resigns-as-nvidia-ceo-after-mounting-scandals>
-    > Jensen Huang, long considered the face of the AI revolution, has resigned as Nvidia's President, CEO and board member as sandals over his romantic affairs wiped hundreds of billions of dollars from the company's market value in a matter of days. US lawmakers signal they'll likely
-  - **CNBC Top** — Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' management expert says
-    <https://www.cnbc.com/make-it/2026/11/12/nvidia-jensen-huang-management-structure.html>
-    > Nvidia's flat management structure could pose challenges for Huang's successor, according to experts.
-  - **The Verge** — ‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation
-    <https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions>
-    > Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday tha
-
-### 2. US Senate asks Huang, Lutnick to testify on Nvidia
+### 1. US Senate asks Huang, Lutnick to testify on Nvidia
 - id události: `15ca2a489eb0`  ·  rubrika: `business`  ·  skóre: 81  ·  nezávislých zdrojů: 7
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -79,7 +44,7 @@
     <https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html>
     > Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for "resilience, professionalism and continued dedication
 
-### 3. SpaceX catches part of its Starship rocket on return to Earth
+### 2. SpaceX catches part of its Starship rocket on return to Earth
 - id události: `4443d0813e25`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -107,7 +72,7 @@
     <https://www.spacex.com/launches/starship-flight-15>
     > https://x.com/SpaceX/status/2121316300702056595 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 504 # Comments: 308
 
-### 4. What’s really at stake in the Jensen Huang saga
+### 3. What’s really at stake in the Jensen Huang saga
 - id události: `627c324df106`  ·  rubrika: `ai`  ·  skóre: 79  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -136,11 +101,35 @@
     <https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/>
     > https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 354 # Comments: 387
 
+### 4. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+- id události: `1476d670af2a`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **BBC World** — US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+    <https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss>
+    > The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.
+  - **Al Jazeera** — Three killed in Russia as Ukraine claims US floated NATO membership option
+    <https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss>
+    > Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.
+  - **Al Jazeera** — Ukraine, Russia race to build military satellite networks as war rages on
+    <https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss>
+    > Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.
+  - **France 24** — US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says
+    <https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership>
+    > President Zelensky said the US had proposed ceding Ukraine's eastern city of Donbas to Russia, in exchange for Ukrainian membership of NATO, following the latest round of peace talks in Abu Dhabi this week. He reiterated that Kyiv was not willing to retreat from its territory and
+  - **Investing.com** — U.S. floats NATO membership for Ukraine in exchange for Donbas, Zelenskyy says
+    <https://www.investing.com/news/economy-news/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-zelenskyy-says-5027284>
+
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
 
-_Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
+### electric car battery
+- rubrika: `motoring`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
+- PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
+  - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
+  - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
+  - Electric car — <https://en.wikipedia.org/wiki/Electric_car>
 
 ---
 
@@ -167,7 +156,6 @@ _Dnes se nenašlo téma. Doplň `topics.evergreen_seeds` v data/site.yml._
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-22  (2 zdrojů, síla 46)  Harry Kane: Ballon d’Or for Bayern Munich striker?
   2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes
   2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
   2026-10-27  (4 zdrojů, síla 70)  'A dream come true' - Harry Kane on his Ballon d'Or win
@@ -187,6 +175,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-11-15  (2 zdrojů, síla 50)  Ruthless Australia win record fourth Women's World Cup
   2026-11-15  (2 zdrojů, síla 49)  Four in a row - Australia win women's rugby league World Cup again
   2026-11-15  (2 zdrojů, síla 42)  What Wales need to stay in Nations League top tier
+  2026-11-16  (3 zdrojů, síla 63)  How did England cling on against Spain and what did Tuchel do differently?
 ```
 
 ### 2. What has actually changed: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
