@@ -23,8 +23,6 @@ Paměť obsahuje **203 vláken**. Aktivních za posledních 14 dní: **64**.
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 98 dní · 60 záznamů
 - časová osa:
-  - **2026-11-13** (9 zdrojů) Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
-  - **2026-11-13** (4 zdrojů) Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'
   - **2026-11-13** (7 zdrojů) US Senate asks Huang, Lutnick to testify on Nvidia
   - **2026-11-13** (3 zdrojů) Nvidia scandal: Was Alice Huang really a Chinese spy?
   - **2026-11-13** (4 zdrojů) Let’s talk about Jensen Huang’s many affairs!
@@ -33,6 +31,22 @@ Paměť obsahuje **203 vláken**. Aktivních za posledních 14 dní: **64**.
   - **2026-11-13** (4 zdrojů) Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon
   - **2026-11-15** (3 zdrojů) Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
   - **2026-11-16** (2 zdrojů) Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster
+  - **2026-11-16** (5 zdrojů) Jensen Huang allies build a "war room" to get him back at Nvidia
+  - **2026-11-16** (4 zdrojů) Trump says Nvidia scandal did not put U.S. national security ‘at risk,’ defends Lutnick
+
+### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+- rubrika `world` · sledováno 99 dní · 60 záznamů
+- časová osa:
+  - **2026-11-04** (2 zdrojů) Canada joins coalition refusing to play ice hockey against Russia over Ukraine war
+  - **2026-11-05** (2 zdrojů) Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
+  - **2026-11-06** (2 zdrojů) Melania Trump touts rare agreement she brokered between Russia and Ukraine
+  - **2026-11-07** (2 zdrojů) Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks
+  - **2026-11-07** (2 zdrojů) Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid
+  - **2026-11-12** (2 zdrojů) Famed ship SS United States deliberately sunk off Florida coast to become a reef
+  - **2026-11-13** (1 zdrojů) Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef
+  - **2026-11-13** (3 zdrojů) Ukraine updates: Second car bomb to hit Russia in two days
+  - **2026-11-13** (2 zdrojů) Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns
+  - **2026-11-16** (3 zdrojů) Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war
 
 ### Saudi Arabia, Turkey and Pakistan sign defence pact
 - rubrika `world` · sledováno 98 dní · 60 záznamů
@@ -61,20 +75,6 @@ Paměť obsahuje **203 vláken**. Aktivních za posledních 14 dní: **64**.
   - **2026-11-12** (2 zdrojů) Manchester United sacked manager Michael Carrick
   - **2026-11-13** (2 zdrojů) Nations League: Italy roar back to beat France despite Donnarumma’s early howler
   - **2026-11-13** (2 zdrojů) Manchester United names USMNT coach Mauricio Pochettino as its manager
-
-### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-- rubrika `world` · sledováno 96 dní · 60 záznamů
-- časová osa:
-  - **2026-11-03** (2 zdrojů) Ukraine’s drone strikes spur hasty Russian plans for underground data centers
-  - **2026-11-04** (2 zdrojů) Canada joins coalition refusing to play ice hockey against Russia over Ukraine war
-  - **2026-11-05** (2 zdrojů) Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials
-  - **2026-11-06** (2 zdrojů) Melania Trump touts rare agreement she brokered between Russia and Ukraine
-  - **2026-11-07** (2 zdrojů) Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks
-  - **2026-11-07** (2 zdrojů) Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid
-  - **2026-11-12** (2 zdrojů) Famed ship SS United States deliberately sunk off Florida coast to become a reef
-  - **2026-11-13** (1 zdrojů) Designed to Be Unsinkable, the World's Fastest Ocean Liner Finally Hits the Ocean Floor. The 53,330-Ton S.S. 'United States' Is Now the World's Largest Artificial Reef
-  - **2026-11-13** (3 zdrojů) Ukraine updates: Second car bomb to hit Russia in two days
-  - **2026-11-13** (2 zdrojů) Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns
 
 ### Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live
 - rubrika `world` · sledováno 94 dní · 60 záznamů

@@ -37,36 +37,7 @@
     <https://www.spacex.com/launches/starship-flight-15>
     > https://x.com/SpaceX/status/2121316300702056595 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 504 # Comments: 308
 
-### 2. What’s really at stake in the Jensen Huang saga
-- id události: `627c324df106`  ·  rubrika: `ai`  ·  skóre: 79  ·  nezávislých zdrojů: 6
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **The Verge** — What’s really at stake in the Jensen Huang saga
-    <https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast>
-    > One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, a
-  - **The Verge AI** — What’s really at stake in the Jensen Huang saga
-    <https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast>
-    > One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, a
-  - **CNBC Top** — Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here
-    <https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html>
-    > Nvidia is facing its biggest crisis in its 33 year history, with founder Jensen Huang resigning as CEO. Here's the story of the rise and fall of Jensen Huang.
-  - **SCMP Tech (Čína)** — Will Jensen Huang’s downfall tip the scales against open-source AI?
-    <https://www.scmp.com/tech/big-tech/article/3374376/will-jensen-huangs-downfall-tip-scales-against-open-source-ai>
-    > Jensen Huang’s abrupt resignation from Nvidia has cast uncertainty over the US chip giant’s multibillion-dollar investments in open-source artificial intelligence, while potentially depriving Chinese developers of one of their most influential advocates in Washington. His departu
-  - **CNBC Top** — What's ahead for AI financing after Nvidia CEO Jensen Huang departs
-    <https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html>
-    > Jensen Huang’s resignation puts Nvidia’s AI financing strategy in focus as investors watch credit markets and neocloud exposure.
-  - **TechCrunch** — Jensen Huang didn’t show confidence in his successor, report says
-    <https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/>
-    > Huang described Kress as a "deer in the headlights" during a meeting in summer.
-  - **SCMP Tech (Čína)** — Who is Alice Huang and why is her relationship with Nvidia’s CEO under scrutiny?
-    <https://www.scmp.com/tech/tech-war/article/3373960/who-alice-huang-and-why-her-relationship-nvidias-ceo-under-scrutiny>
-    > Nvidia founder and CEO Jensen Huang has admitted to having an extramarital affair as the chipmaker investigates reported allegations that a Chinese businesswoman close to him may have been working for Beijing’s intelligence services. Beijing has rejected the espionage claims as “
-  - **Hacker News Best** — Former Nvidia CEO Huang had a relationship with a second employee, sources say
-    <https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/>
-    > https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 354 # Comments: 387
-
-### 3. FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia
+### 2. FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia
 - id události: `dd0fd43506cb`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -87,6 +58,29 @@
     > The Chinese foreign ministry on Monday said that President Xi Jinping and his US and Russian counterparts Donald Trump and Vladimir Putin would discuss "safeguarding world peace and promoting strategic stability" when they hold their first trilateral summit in Shenzhen this week.
   - **Investing.com** — Trump held up to $62m in Nvidia stock as of August - report
     <https://www.investing.com/news/stock-market-news/trump-held-up-to-62m-in-nvidia-stock-as-of-august--report-5029333>
+
+### 3. Jensen Huang allies build a "war room" to get him back at Nvidia
+- id události: `c0787d91eb5d`  ·  rubrika: `ai`  ·  skóre: 77  ·  nezávislých zdrojů: 5
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **Ars Technica** — Jensen Huang allies build a "war room" to get him back at Nvidia
+    <https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/>
+    > Huang is weighing a return just days after resigning amid a deepening scandal.
+  - **Ars Technica AI** — Jensen Huang allies build a "war room" to get him back at Nvidia
+    <https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/>
+    > Huang is weighing a return just days after resigning amid a deepening scandal.
+  - **CNBC Top** — Nvidia stock falls as investors price in fallout from Jensen Huang's resignation
+    <https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html>
+    > Nvidia's stock continued to slide on Monday following the resignation of CEO Jensen Huang.
+  - **France 24** — Musk among more than 150,000 calling for Jensen Huang's return to Nvidia
+    <https://www.france24.com/en/video/20261116-musk-among-more-than-150-000-calling-for-jensen-huang-s-return-to-nvidia>
+    > Could Jensen Huang make a stunning return to Nvidia just days after resigning as CEO of the AI chip giant over an affair with an alleged Chinese spy? The possibility is growing after Elon Musk and more than 158,000 others signed an open letter calling for Huang's reinstatement.
+  - **SCMP Tech (Čína)** — Like Apple after Steve Jobs? Analysts debate Nvidia’s post-Jensen Huang future
+    <https://www.scmp.com/tech/big-tech/article/3374421/apple-after-steve-jobs-analysts-debate-nvidias-post-jensen-huang-future>
+    > As the technology world debates how Nvidia is likely to fare without Jensen Huang, analysts keep returning to the same analogy: the departure of legendary CEO Steve Jobs from Apple. The similarities between the two cases are clear: a top American tech company forced to move on fr
+  - **SCMP Tech (Čína)** — Will Jensen Huang’s downfall tip the scales against open-source AI?
+    <https://www.scmp.com/tech/big-tech/article/3374376/will-jensen-huangs-downfall-tip-scales-against-open-source-ai>
+    > Jensen Huang’s abrupt resignation from Nvidia has cast uncertainty over the US chip giant’s multibillion-dollar investments in open-source artificial intelligence, while potentially depriving Chinese developers of one of their most influential advocates in Washington. His departu
 
 ### 4. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
 - id události: `1476d670af2a`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
@@ -114,8 +108,8 @@
 ### electric car battery
 - rubrika: `motoring`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
   - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
+  - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
   - Electric car — <https://en.wikipedia.org/wiki/Electric_car>
 
 ---
@@ -172,8 +166,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
-  2026-11-12  (8 zdrojů, síla 81)  Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy
-  2026-11-12  (3 zdrojů, síla 52)  Who could replace Jensen Huang? A highly unscientific list of possible successors
   2026-11-12  (2 zdrojů, síla 40)  What we know so far about Nvidia partner Megaspeed’s Asia footprint
   2026-11-12  (2 zdrojů, síla 40)  ‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight
   2026-11-12  (5 zdrojů, síla 75)  Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video
@@ -192,6 +184,8 @@ rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
   2026-11-13  (4 zdrojů, síla 68)  Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon
   2026-11-15  (3 zdrojů, síla 49)  Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
   2026-11-16  (2 zdrojů, síla 42)  Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster
+  2026-11-16  (5 zdrojů, síla 77)  Jensen Huang allies build a "war room" to get him back at Nvidia
+  2026-11-16  (4 zdrojů, síla 56)  Trump says Nvidia scandal did not put U.S. national security ‘at risk,’ defends Lutnick
 ```
 
 ---
