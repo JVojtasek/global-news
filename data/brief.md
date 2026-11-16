@@ -9,42 +9,7 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. US Senate asks Huang, Lutnick to testify on Nvidia
-- id události: `15ca2a489eb0`  ·  rubrika: `business`  ·  skóre: 81  ·  nezávislých zdrojů: 7
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **DW News** — US Senate asks Huang, Lutnick to testify on Nvidia
-    <https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf>
-    > Senate Banking Committee Chairman Tim Scott has asked Commerce Secretary Howard Lutnick and former Nvidia chief Jensen Huang to testify, as House Republicans demand closed-door interviews amid national security concerns.
-  - **The Guardian World** — A baffling trail from Australia to Singapore: what is Megaspeed, the company implicated in downfall of Nvidia’s Jensen Huang?
-    <https://www.theguardian.com/technology/2026/nov/13/a-baffling-trail-from-australia-to-singapore-what-is-megaspeed-the-company-implicated-in-downfall-of-nvidias-jensen-huang>
-    > Few solid clues have emerged as to the true nature of Megaspeed, whose former director Alice Huang has been accused of being a Chinese spy Get our breaking news email , free app or daily news podcast From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Hu
-  - **Guardian Business** — Why the Nvidia CEO’s downfall is bad for Trump – podcast
-    <https://www.theguardian.com/politics/audio/2026/nov/13/why-the-nvidia-scandal-is-bad-for-trump-podcast>
-    > Donald Trump is still defending men who are facing a lot of heat. Whether it’s Nvidia’s CEO, Jensen Huang, who could be ousted after admitting an affair with an alleged Chinese spy, or his embattled secretary of defence, Pete Hegseth. He has also (jokingly) begged strongmen to ta
-  - **Guardian Business** — A timeline of the affair scandal that sank Nvidia’s Jensen Huang
-    <https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline>
-    > CEO behind the meteoric rise of Nvidia stepped down after it was revealed he had an affair with an alleged Chinese spy Jensen Huang has stepped down as CEO of Nvidia , the company at the center of the AI boom, after leading it for more than 30 years. Huang, an electrical engineer
-  - **Guardian Business** — Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?
-    <https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement>
-    > Chief financial officer, reportedly disparaged by Huang during summer meeting, to take over on short-term basis The hunt is on for a new Nvidia CEO. It comes after a whirlwind week, which saw the company head and co-founder, Jensen Huang, resign amid multiple allegations of extra
-  - **DW News** — Jensen Huang: Spy row, affairs leave Nvidia without its rockstar CEO
-    <https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-all-1573-rdf>
-    > Jensen Huang, who built Nvidia into the world’s dominant AI chipmaker, is stepping down as CEO over extramarital affairs. DW examines how losing its figurehead will affect the firm and the US-China AI race.
-  - **CNBC Top** — Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure
-    <https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html>
-    > Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.
-  - **SCMP Tech (Čína)** — Jensen Huang quits, China trade surplus hits US$1 trillion, Xi-Trump summit
-    <https://www.scmp.com/plus/tech/tech-war/article/3374341/jensen-huang-quits-china-trade-surplus-hits-us1-trillion-xi-trump-summit>
-    > Jensen Huang resigned as chief executive officer of chipmaker Nvidia following an affair with an alleged Chinese spy, boosting the odds of tighter US export controls against China days before the countries’ leaders are due to meet. Huang left the company he founded in 1993 with i
-  - **Al Jazeera** — Nvidia’s Huang, Lutnick summoned to testify to US Senate
-    <https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss>
-    > The Banking Committee says the ex-tech CEO and the commerce secretary could face legal action if they fail to appear.
-  - **CNBC Top** — Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees
-    <https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html>
-    > Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for "resilience, professionalism and continued dedication
-
-### 2. SpaceX catches part of its Starship rocket on return to Earth
+### 1. SpaceX catches part of its Starship rocket on return to Earth
 - id události: `4443d0813e25`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -72,7 +37,7 @@
     <https://www.spacex.com/launches/starship-flight-15>
     > https://x.com/SpaceX/status/2121316300702056595 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 504 # Comments: 308
 
-### 3. What’s really at stake in the Jensen Huang saga
+### 2. What’s really at stake in the Jensen Huang saga
 - id události: `627c324df106`  ·  rubrika: `ai`  ·  skóre: 79  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -101,7 +66,7 @@
     <https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/>
     > https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 354 # Comments: 387
 
-### 4. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+### 3. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
 - id události: `1476d670af2a`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -119,6 +84,23 @@
     > President Zelensky said the US had proposed ceding Ukraine's eastern city of Donbas to Russia, in exchange for Ukrainian membership of NATO, following the latest round of peace talks in Abu Dhabi this week. He reiterated that Kyiv was not willing to retreat from its territory and
   - **Investing.com** — U.S. floats NATO membership for Ukraine in exchange for Donbas, Zelenskyy says
     <https://www.investing.com/news/economy-news/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-zelenskyy-says-5027284>
+
+### 4. Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon
+- id události: `58447a67cf03`  ·  rubrika: `business`  ·  skóre: 68  ·  nezávislých zdrojů: 4
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **Guardian Business** — Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon
+    <https://www.theguardian.com/commentisfree/picture/2026/nov/13/martin-rowson-on-the-downfall-of-nvidias-jensen-huang-cartoon>
+    > Continue reading...
+  - **NPR News** — Colette Kress becomes Nvidia's interim CEO after Jensen Huang resigns
+    <https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns>
+    > Nvidia's CEO Jensen Huang is out, and the company's chief financial officer Colette Kress is taking over as interim CEO. She'll have to guide the company through an exceptionally challenging time.
+  - **CNBC Top** — Nvidia is done with Jensen Huang. The fallout in Washington is just beginning
+    <https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html>
+    > The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.
+  - **TechCrunch** — Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!
+    <https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/>
+    > New research shows the most advanced AI models from China were trained on banned Nvidia chips.
 
 ---
 

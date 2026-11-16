@@ -6,110 +6,6 @@
  "reserve_articles": 4,
  "news_assignments": [
   {
-   "id": "15ca2a489eb0",
-   "headline": "US Senate asks Huang, Lutnick to testify on Nvidia",
-   "section": "business",
-   "score": 81,
-   "sources_count": 7,
-   "depth_signal": 0,
-   "created": "2026-11-13T09:20:55+00:00",
-   "event_time": "2026-11-13T08:02:00+00:00",
-   "time_kind": "published",
-   "items": [
-    {
-     "title": "US Senate asks Huang, Lutnick to testify on Nvidia",
-     "url": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "Senate Banking Committee Chairman Tim Scott has asked Commerce Secretary Howard Lutnick and former Nvidia chief Jensen Huang to testify, as House Republicans demand closed-door interviews amid national security concerns.",
-     "published_at": "2026-11-13T08:02:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T09:20:52+00:00"
-    },
-    {
-     "title": "A baffling trail from Australia to Singapore: what is Megaspeed, the company implicated in downfall of Nvidia’s Jensen Huang?",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/a-baffling-trail-from-australia-to-singapore-what-is-megaspeed-the-company-implicated-in-downfall-of-nvidias-jensen-huang",
-     "source": "The Guardian World",
-     "summary": "Few solid clues have emerged as to the true nature of Megaspeed, whose former director Alice Huang has been accused of being a Chinese spy Get our breaking news email , free app or daily news podcast From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang A lottery retailer in rural Australia, a dilapidated storefront in Kuala Lumpur, and a near-empty office in Singapor",
-     "published_at": "2026-11-13T07:07:41+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T09:20:52+00:00"
-    },
-    {
-     "title": "Why the Nvidia CEO’s downfall is bad for Trump – podcast",
-     "url": "https://www.theguardian.com/politics/audio/2026/nov/13/why-the-nvidia-scandal-is-bad-for-trump-podcast",
-     "source": "Guardian Business",
-     "summary": "Donald Trump is still defending men who are facing a lot of heat. Whether it’s Nvidia’s CEO, Jensen Huang, who could be ousted after admitting an affair with an alleged Chinese spy, or his embattled secretary of defence, Pete Hegseth. He has also (jokingly) begged strongmen to take his job offers. Jonathan Freedland speaks to Susan Glasser of the New Yorker about why Trump’s judgment of high-profi",
-     "published_at": "2026-11-13T07:05:01+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T09:20:52+00:00"
-    },
-    {
-     "title": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang",
-     "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline",
-     "source": "Guardian Business",
-     "summary": "CEO behind the meteoric rise of Nvidia stepped down after it was revealed he had an affair with an alleged Chinese spy Jensen Huang has stepped down as CEO of Nvidia , the company at the center of the AI boom, after leading it for more than 30 years. Huang, an electrical engineer by education, stewarded the company from a $1bn firm when it went public in 1999 to a company valued at more than $4tn ",
-     "published_at": "2026-11-13T04:00:08+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T09:20:52+00:00"
-    },
-    {
-     "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
-     "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
-     "source": "Guardian Business",
-     "summary": "Chief financial officer, reportedly disparaged by Huang during summer meeting, to take over on short-term basis The hunt is on for a new Nvidia CEO. It comes after a whirlwind week, which saw the company head and co-founder, Jensen Huang, resign amid multiple allegations of extramarital affairs , including one that involved an alleged Chinese spy and two with company employees. Nvidia immediately ",
-     "published_at": "2026-11-13T03:02:06+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T09:20:52+00:00"
-    },
-    {
-     "title": "Jensen Huang: Spy row, affairs leave Nvidia without its rockstar CEO",
-     "url": "https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-all-1573-rdf",
-     "source": "DW News",
-     "summary": "Jensen Huang, who built Nvidia into the world’s dominant AI chipmaker, is stepping down as CEO over extramarital affairs. DW examines how losing its figurehead will affect the firm and the US-China AI race.",
-     "published_at": "2026-11-12T15:08:00+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T09:20:52+00:00"
-    },
-    {
-     "title": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure",
-     "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
-     "source": "CNBC Top",
-     "summary": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
-     "published_at": "2026-11-13T09:19:49+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T09:20:52+00:00"
-    },
-    {
-     "title": "Jensen Huang quits, China trade surplus hits US$1 trillion, Xi-Trump summit",
-     "url": "https://www.scmp.com/plus/tech/tech-war/article/3374341/jensen-huang-quits-china-trade-surplus-hits-us1-trillion-xi-trump-summit",
-     "source": "SCMP Tech (Čína)",
-     "summary": "Jensen Huang resigned as chief executive officer of chipmaker Nvidia following an affair with an alleged Chinese spy, boosting the odds of tighter US export controls against China days before the countries’ leaders are due to meet. Huang left the company he founded in 1993 with immediate effect, according to a statement on Thursday. Chief Financial Officer Colette Kress will act as interim chief e",
-     "published_at": "2026-11-13T09:00:26+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T09:20:52+00:00"
-    },
-    {
-     "title": "Nvidia’s Huang, Lutnick summoned to testify to US Senate",
-     "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
-     "source": "Al Jazeera",
-     "summary": "The Banking Committee says the ex-tech CEO and the commerce secretary could face legal action if they fail to appear.",
-     "published_at": "2026-11-13T08:49:59+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T09:20:52+00:00"
-    },
-    {
-     "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
-     "url": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
-     "source": "CNBC Top",
-     "summary": "Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for \"resilience, professionalism and continued dedication",
-     "published_at": "2026-11-12T19:42:41+00:00",
-     "source_countries": [],
-     "seen_at": "2026-11-13T09:20:52+00:00"
-    }
-   ],
-   "depth": "scripture"
-  },
-  {
    "id": "4443d0813e25",
    "headline": "SpaceX catches part of its Starship rocket on return to Earth",
    "section": "world",
@@ -336,6 +232,56 @@
      "published_at": "2026-11-14T10:51:38+00:00",
      "source_countries": [],
      "seen_at": "2026-11-14T12:21:52+00:00"
+    }
+   ],
+   "depth": "open"
+  },
+  {
+   "id": "58447a67cf03",
+   "headline": "Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon",
+   "section": "business",
+   "score": 68,
+   "sources_count": 4,
+   "depth_signal": 0,
+   "created": "2026-11-13T21:19:19+00:00",
+   "event_time": "2026-11-13T18:08:47+00:00",
+   "time_kind": "published",
+   "items": [
+    {
+     "title": "Martin Rowson on the downfall of Nvidia’s Jensen Huang – cartoon",
+     "url": "https://www.theguardian.com/commentisfree/picture/2026/nov/13/martin-rowson-on-the-downfall-of-nvidias-jensen-huang-cartoon",
+     "source": "Guardian Business",
+     "summary": "Continue reading...",
+     "published_at": "2026-11-13T18:08:47+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-13T21:19:16+00:00"
+    },
+    {
+     "title": "Colette Kress becomes Nvidia's interim CEO after Jensen Huang resigns",
+     "url": "https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns",
+     "source": "NPR News",
+     "summary": "Nvidia's CEO Jensen Huang is out, and the company's chief financial officer Colette Kress is taking over as interim CEO. She'll have to guide the company through an exceptionally challenging time.",
+     "published_at": "2026-11-13T11:47:38+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-13T21:19:16+00:00"
+    },
+    {
+     "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+     "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+     "source": "CNBC Top",
+     "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
+     "published_at": "2026-11-13T21:04:43+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-13T21:19:16+00:00"
+    },
+    {
+     "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+     "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+     "source": "TechCrunch",
+     "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+     "published_at": "2026-11-13T18:40:30+00:00",
+     "source_countries": [],
+     "seen_at": "2026-11-13T21:19:16+00:00"
     }
    ],
    "depth": "open"

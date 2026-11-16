@@ -1,108 +1,5 @@
 [
  {
-  "id": "15ca2a489eb0",
-  "headline": "US Senate asks Huang, Lutnick to testify on Nvidia",
-  "section": "business",
-  "score": 81,
-  "sources_count": 7,
-  "depth_signal": 0,
-  "created": "2026-11-13T09:20:55+00:00",
-  "event_time": "2026-11-13T08:02:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "US Senate asks Huang, Lutnick to testify on Nvidia",
-    "url": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Senate Banking Committee Chairman Tim Scott has asked Commerce Secretary Howard Lutnick and former Nvidia chief Jensen Huang to testify, as House Republicans demand closed-door interviews amid national security concerns.",
-    "published_at": "2026-11-13T08:02:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   },
-   {
-    "title": "A baffling trail from Australia to Singapore: what is Megaspeed, the company implicated in downfall of Nvidia’s Jensen Huang?",
-    "url": "https://www.theguardian.com/technology/2026/nov/13/a-baffling-trail-from-australia-to-singapore-what-is-megaspeed-the-company-implicated-in-downfall-of-nvidias-jensen-huang",
-    "source": "The Guardian World",
-    "summary": "Few solid clues have emerged as to the true nature of Megaspeed, whose former director Alice Huang has been accused of being a Chinese spy Get our breaking news email , free app or daily news podcast From washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen Huang A lottery retailer in rural Australia, a dilapidated storefront in Kuala Lumpur, and a near-empty office in Singapor",
-    "published_at": "2026-11-13T07:07:41+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   },
-   {
-    "title": "Why the Nvidia CEO’s downfall is bad for Trump – podcast",
-    "url": "https://www.theguardian.com/politics/audio/2026/nov/13/why-the-nvidia-scandal-is-bad-for-trump-podcast",
-    "source": "Guardian Business",
-    "summary": "Donald Trump is still defending men who are facing a lot of heat. Whether it’s Nvidia’s CEO, Jensen Huang, who could be ousted after admitting an affair with an alleged Chinese spy, or his embattled secretary of defence, Pete Hegseth. He has also (jokingly) begged strongmen to take his job offers. Jonathan Freedland speaks to Susan Glasser of the New Yorker about why Trump’s judgment of high-profi",
-    "published_at": "2026-11-13T07:05:01+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   },
-   {
-    "title": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang",
-    "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline",
-    "source": "Guardian Business",
-    "summary": "CEO behind the meteoric rise of Nvidia stepped down after it was revealed he had an affair with an alleged Chinese spy Jensen Huang has stepped down as CEO of Nvidia , the company at the center of the AI boom, after leading it for more than 30 years. Huang, an electrical engineer by education, stewarded the company from a $1bn firm when it went public in 1999 to a company valued at more than $4tn ",
-    "published_at": "2026-11-13T04:00:08+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   },
-   {
-    "title": "Who is Colette Kress, interim Nvidia CEO after Jensen Huang exit?",
-    "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
-    "source": "Guardian Business",
-    "summary": "Chief financial officer, reportedly disparaged by Huang during summer meeting, to take over on short-term basis The hunt is on for a new Nvidia CEO. It comes after a whirlwind week, which saw the company head and co-founder, Jensen Huang, resign amid multiple allegations of extramarital affairs , including one that involved an alleged Chinese spy and two with company employees. Nvidia immediately ",
-    "published_at": "2026-11-13T03:02:06+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   },
-   {
-    "title": "Jensen Huang: Spy row, affairs leave Nvidia without its rockstar CEO",
-    "url": "https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Jensen Huang, who built Nvidia into the world’s dominant AI chipmaker, is stepping down as CEO over extramarital affairs. DW examines how losing its figurehead will affect the firm and the US-China AI race.",
-    "published_at": "2026-11-12T15:08:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   },
-   {
-    "title": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure",
-    "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
-    "source": "CNBC Top",
-    "summary": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
-    "published_at": "2026-11-13T09:19:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   },
-   {
-    "title": "Jensen Huang quits, China trade surplus hits US$1 trillion, Xi-Trump summit",
-    "url": "https://www.scmp.com/plus/tech/tech-war/article/3374341/jensen-huang-quits-china-trade-surplus-hits-us1-trillion-xi-trump-summit",
-    "source": "SCMP Tech (Čína)",
-    "summary": "Jensen Huang resigned as chief executive officer of chipmaker Nvidia following an affair with an alleged Chinese spy, boosting the odds of tighter US export controls against China days before the countries’ leaders are due to meet. Huang left the company he founded in 1993 with immediate effect, according to a statement on Thursday. Chief Financial Officer Colette Kress will act as interim chief e",
-    "published_at": "2026-11-13T09:00:26+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   },
-   {
-    "title": "Nvidia’s Huang, Lutnick summoned to testify to US Senate",
-    "url": "https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "The Banking Committee says the ex-tech CEO and the commerce secretary could face legal action if they fail to appear.",
-    "published_at": "2026-11-13T08:49:59+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   },
-   {
-    "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
-    "url": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
-    "source": "CNBC Top",
-    "summary": "Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for \"resilience, professionalism and continued dedication",
-    "published_at": "2026-11-12T19:42:41+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   }
-  ]
- },
- {
   "id": "4443d0813e25",
   "headline": "SpaceX catches part of its Starship rocket on return to Earth",
   "section": "world",
@@ -1040,46 +937,6 @@
     "published_at": "2026-11-14T04:55:58+00:00",
     "source_countries": [],
     "seen_at": "2026-11-14T06:25:07+00:00"
-   }
-  ]
- },
- {
-  "id": "de06bec5ec80",
-  "headline": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
-  "section": "ai",
-  "score": 56,
-  "sources_count": 3,
-  "depth_signal": 0,
-  "created": "2026-11-13T09:20:55+00:00",
-  "event_time": "2026-11-13T06:34:59+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
-    "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-    "source": "The Guardian World",
-    "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk Nvidia scandal – latest updates Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? Nvidia’s ousted CEO Jensen Huang and Donald Trump’s commerce secretary are expected to testify before Congress in the coming weeks, a",
-    "published_at": "2026-11-13T06:34:59+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   },
-   {
-    "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
-    "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-    "source": "Guardian Business",
-    "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk Nvidia scandal – latest updates Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? Nvidia’s ousted CEO Jensen Huang and Donald Trump’s commerce secretary are expected to testify before Congress in the coming weeks, a",
-    "published_at": "2026-11-13T06:34:59+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   },
-   {
-    "title": "Jensen Huang’s abrupt exit stuns Nvidia’s China staff, clouding the outlook in a key market",
-    "url": "https://www.scmp.com/tech/big-tech/article/3374316/jensen-huangs-abrupt-exit-stuns-nvidias-china-staff-clouding-outlook-key-market",
-    "source": "SCMP Tech (Čína)",
-    "summary": "Jensen Huang’s abrupt resignation stunned some Nvidia staff in China and raised questions about the future of the US chipmaker’s operations in a market its co-founder had spent years cultivating, according to company sources. “It’s the end of an era. I really don’t understand why Huang was asked to resign – no one benefits from him stepping down,” one Nvidia employee in China said, declining to be",
-    "published_at": "2026-11-13T07:00:40+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
    }
   ]
  },
@@ -2889,46 +2746,6 @@
   ]
  },
  {
-  "id": "e1efe6f1af4b",
-  "headline": "What we know about the global Microsoft outage",
-  "section": "tech",
-  "score": 42,
-  "sources_count": 2,
-  "depth_signal": 0,
-  "created": "2026-11-13T09:20:55+00:00",
-  "event_time": "2026-11-13T09:10:57+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "What we know about the global Microsoft outage",
-    "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-    "published_at": "2026-11-13T09:10:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   },
-   {
-    "title": "What we know about the global Microsoft outage",
-    "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-    "published_at": "2026-11-13T09:10:57+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   },
-   {
-    "title": "What happened overnight with the Microsoft global outage",
-    "url": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Technology",
-    "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
-    "published_at": "2026-11-13T07:18:17+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   }
-  ]
- },
- {
   "id": "c22c9f451b1a",
   "headline": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
   "section": "world",
@@ -4288,28 +4105,6 @@
   ]
  },
  {
-  "id": "c0eea237828e",
-  "headline": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-  "section": "safety",
-  "score": 39,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-11-13T09:20:55+00:00",
-  "event_time": "2026-11-13T08:05:49+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-    "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-    "source": "The Hacker News",
-    "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously reported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30, 2026, and targeted Israeli organizations, with a broader follow-up wave",
-    "published_at": "2026-11-13T08:05:49+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
-   }
-  ]
- },
- {
   "id": "c5f13dab1a6a",
   "headline": "Heat pumps: How much heat does your home really need?",
   "section": "business",
@@ -4673,28 +4468,6 @@
     "published_at": "2026-11-16T03:04:01+00:00",
     "source_countries": [],
     "seen_at": "2026-11-16T03:24:56+00:00"
-   }
-  ]
- },
- {
-  "id": "466613a9e5ff",
-  "headline": "Iranian activist and Nobel Peace Prize winner Narges Mohammadi shares her story in memoir",
-  "section": "world",
-  "score": 38,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-11-13T09:20:55+00:00",
-  "event_time": "2026-11-13T08:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Iranian activist and Nobel Peace Prize winner Narges Mohammadi shares her story in memoir",
-    "url": "https://www.dw.com/en/iranian-activist-and-nobel-peace-prize-winner-narges-mohammadi-shares-her-story-in-memoir/a-79868167?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "Written and smuggled out of prison, the 2023 Nobel Prize laureate's memoir reveals the cost of defying Iran's regime and fighting for freedom.",
-    "published_at": "2026-11-13T08:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
    }
   ]
  },
@@ -5236,6 +5009,68 @@
   ]
  },
  {
+  "id": "bca39723b925",
+  "headline": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+  "section": "world",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-11-16T09:28:17+00:00",
+  "event_time": "2026-11-16T07:00:38+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+    "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+    "source": "The Guardian World",
+    "summary": "Prime minister is to meet European leaders at summit this week and secure agreements that ‘could raise GDP by 0.4%’ Andy Burnham will say on Monday that Brexit “has not worked” and that he will sign a new deal with the EU. It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gaine",
+    "published_at": "2026-11-16T07:00:38+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-16T09:28:14+00:00"
+   },
+   {
+    "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+    "url": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
+    "source": "Guardian Business",
+    "summary": "Prime minister is to meet European leaders at summit this week and secure agreements that ‘could raise GDP by 0.4%’ Andy Burnham will say on Monday that Brexit “has not worked” and that he will sign a new deal with the EU. It is the latest in a string of comments by the prime minister criticising Brexit, after he told the Welsh Labour conference on Saturday that the UK has “lost more than we gaine",
+    "published_at": "2026-11-16T07:00:38+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-16T09:28:14+00:00"
+   }
+  ]
+ },
+ {
+  "id": "2b570ded2d9e",
+  "headline": "European football body’s plan to go global leaves Fifa on tenterhooks",
+  "section": "business",
+  "score": 38,
+  "sources_count": 2,
+  "depth_signal": 0,
+  "created": "2026-11-16T09:28:17+00:00",
+  "event_time": "2026-11-16T08:00:37+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "European football body’s plan to go global leaves Fifa on tenterhooks",
+    "url": "https://www.theguardian.com/football/2026/nov/16/fifa-waits-european-football-clubs-plan-global",
+    "source": "Guardian Business",
+    "summary": "Findings of ‘feasibility study’ into quest for world domination loom with Europe’s wealthiest certain to benefit whatever the outcome It will be one of the most eagerly anticipated documents in football circles, assuming its contents are ever fully revealed. In September the increasingly powerful European Football Clubs body announced a “feasibility study” into exactly how it can become establishe",
+    "published_at": "2026-11-16T08:00:37+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-16T09:28:14+00:00"
+   },
+   {
+    "title": "European football body’s plan to go global leaves Fifa on tenterhooks",
+    "url": "https://www.theguardian.com/football/2026/nov/16/fifa-waits-european-football-clubs-plan-global",
+    "source": "Guardian Sport",
+    "summary": "Findings of ‘feasibility study’ into quest for world domination loom with Europe’s wealthiest certain to benefit whatever the outcome It will be one of the most eagerly anticipated documents in football circles, assuming its contents are ever fully revealed. In September the increasingly powerful European Football Clubs body announced a “feasibility study” into exactly how it can become establishe",
+    "published_at": "2026-11-16T08:00:37+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-16T09:28:14+00:00"
+   }
+  ]
+ },
+ {
   "id": "5df4bf07aed5",
   "headline": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
   "section": "safety",
@@ -5550,28 +5385,6 @@
     "published_at": "2026-11-15T12:00:13+00:00",
     "source_countries": [],
     "seen_at": "2026-11-15T12:22:24+00:00"
-   }
-  ]
- },
- {
-  "id": "406e50570f5f",
-  "headline": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
-  "section": "culture",
-  "score": 36,
-  "sources_count": 1,
-  "depth_signal": 2,
-  "created": "2026-11-13T09:20:55+00:00",
-  "event_time": "2026-11-13T00:54:04+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
-    "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Entertainment",
-    "summary": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
-    "published_at": "2026-11-13T00:54:04+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-13T09:20:52+00:00"
    }
   ]
  },
@@ -6257,6 +6070,28 @@
   ]
  },
  {
+  "id": "c7f53155baa5",
+  "headline": "Brave Teens Execute Paddleboard Rescue of Flooded Neighbors – ‘Faith in Humanity Restored’",
+  "section": "goodnews",
+  "score": 36,
+  "sources_count": 1,
+  "depth_signal": 5,
+  "created": "2026-11-16T09:28:17+00:00",
+  "event_time": "2026-11-12T12:30:42+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Brave Teens Execute Paddleboard Rescue of Flooded Neighbors – ‘Faith in Humanity Restored’",
+    "url": "https://www.goodnewsnetwork.org/brave-teens-execute-paddleboard-rescue-of-flooded-neighbors-faith-in-humanity-restored/",
+    "source": "Good News Network",
+    "summary": "A woman has had her faith in humanity restored after neighbors arrived on paddleboards to rescue her and her son during recent flooding in Florida. Emergency services were unable to reach her, the 911 operator said, as Brittany Grant and her son sat on their kitchen counter while floodwaters rose higher and higher above their […] The post Brave Teens Execute Paddleboard Rescue of Flooded Neighbors",
+    "published_at": "2026-11-12T12:30:42+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-16T09:28:14+00:00"
+   }
+  ]
+ },
+ {
   "id": "26ebe8afe14c",
   "headline": "The Body review – this sexy retro high school drama is like Cruel Intentions … with added Satanic rituals",
   "section": "culture",
@@ -6751,6 +6586,50 @@
     "published_at": "2026-11-16T03:01:43+00:00",
     "source_countries": [],
     "seen_at": "2026-11-16T03:24:56+00:00"
+   }
+  ]
+ },
+ {
+  "id": "f159cf23a7b2",
+  "headline": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+  "section": "safety",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-11-16T09:28:17+00:00",
+  "event_time": "2026-11-16T07:34:21+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+    "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+    "source": "The Hacker News",
+    "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen keys being used to run the AI models that powered the search for more keys. The team said this",
+    "published_at": "2026-11-16T07:34:21+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-16T09:28:14+00:00"
+   }
+  ]
+ },
+ {
+  "id": "1a13d7025b37",
+  "headline": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+  "section": "safety",
+  "score": 35,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-11-16T09:28:17+00:00",
+  "event_time": "2026-11-16T06:53:34+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+    "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+    "source": "The Hacker News",
+    "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer in June 2025, has been attributed to a threat actor named BO Team (aka Black Owl, Hoody Hyena,",
+    "published_at": "2026-11-16T06:53:34+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-16T09:28:14+00:00"
    }
   ]
  },
@@ -7733,6 +7612,28 @@
   ]
  },
  {
+  "id": "aa2588991e1a",
+  "headline": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+  "section": "world",
+  "score": 34,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-11-16T09:28:17+00:00",
+  "event_time": "2026-11-15T08:56:11+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+    "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+    "source": "The Guardian World",
+    "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal has followed months of speculation after he score",
+    "published_at": "2026-11-15T08:56:11+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-16T09:28:14+00:00"
+   }
+  ]
+ },
+ {
   "id": "569a6ecf55f1",
   "headline": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
   "section": "world",
@@ -8222,6 +8123,72 @@
     "published_at": "2026-11-16T04:30:09+00:00",
     "source_countries": [],
     "seen_at": "2026-11-16T06:40:36+00:00"
+   }
+  ]
+ },
+ {
+  "id": "11f33a4cdfe8",
+  "headline": "Libyan town rebuilt after devastating floods becomes showcase for strongman's rule",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-11-16T09:28:17+00:00",
+  "event_time": "2026-11-16T00:11:12+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Libyan town rebuilt after devastating floods becomes showcase for strongman's rule",
+    "url": "https://www.bbc.co.uk/news/articles/cr0qjz77j4k1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "summary": "The remarkable reconstruction of Derna is being used as a showcase for the rest of Libya by Khalifa Haftar and his sons.",
+    "published_at": "2026-11-16T00:11:12+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-16T09:28:14+00:00"
+   }
+  ]
+ },
+ {
+  "id": "797d00ec636b",
+  "headline": "Ed Miliband defends doing 2015 election interview with Russell Brand, saying he was ‘taking him on’ not endorsing him – UK politics live",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 0,
+  "created": "2026-11-16T09:28:17+00:00",
+  "event_time": "2026-11-16T09:15:50+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Ed Miliband defends doing 2015 election interview with Russell Brand, saying he was ‘taking him on’ not endorsing him – UK politics live",
+    "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+    "source": "The Guardian World",
+    "summary": "Ed Balls, shadow chancellor at the time, said he had warned Labour leader not to go ahead with ‘ridiculous’ interview Good morning. There are two issues that will dominate the political news this week – the EU reset, and the Alan Milburn report on youth unemployment – and this morning there are new lines on both of these issues. Andy Burnham has set out “three tests” for the deal that he is due to",
+    "published_at": "2026-11-16T09:15:50+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-16T09:28:14+00:00"
+   }
+  ]
+ },
+ {
+  "id": "fef08bb513bb",
+  "headline": "Mozambique's justice under scrutiny as Venancio Mondlane faces trial",
+  "section": "world",
+  "score": 33,
+  "sources_count": 1,
+  "depth_signal": 2,
+  "created": "2026-11-16T09:28:17+00:00",
+  "event_time": "2026-11-16T07:38:00+00:00",
+  "time_kind": "published",
+  "items": [
+   {
+    "title": "Mozambique's justice under scrutiny as Venancio Mondlane faces trial",
+    "url": "https://www.dw.com/en/mozambique-s-justice-under-scrutiny-as-venancio-mondlane-faces-trial/a-79949795?maca=en-rss-en-all-1573-rdf",
+    "source": "DW News",
+    "summary": "The trial of opposition politician Venancio Mondlane begins in Mozambique on Tuesday. The former presidential candidate is facing five charges, including incitement to terrorism.",
+    "published_at": "2026-11-16T07:38:00+00:00",
+    "source_countries": [],
+    "seen_at": "2026-11-16T09:28:14+00:00"
    }
   ]
  },
@@ -8765,134 +8732,68 @@
   ]
  },
  {
-  "id": "4c14124ae21c",
-  "headline": "New Orleans port sues owners of tanker involved in Mississippi crash",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-11-15T18:19:35+00:00",
-  "event_time": "2026-11-15T17:45:27+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
-    "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
-    "source": "NPR News",
-    "summary": "Officials are seeking at least $1 million in damages from the owners of the tanker that hit a cruise ship last week. The incident was dubbed \"the miracle on the Mississippi\" after no one was killed.",
-    "published_at": "2026-11-15T17:45:27+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-15T18:19:33+00:00"
-   }
-  ]
- },
- {
-  "id": "39162e8a1190",
-  "headline": "Wolf Biermann at 90: The singer who defied East Germany",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-11-15T18:19:35+00:00",
-  "event_time": "2026-11-14T10:00:00+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Wolf Biermann at 90: The singer who defied East Germany",
-    "url": "https://www.dw.com/en/wolf-biermann-at-90-the-singer-who-defied-east-germany/a-79915297?maca=en-rss-en-all-1573-rdf",
-    "source": "DW News",
-    "summary": "His life is a reflection of contemporary German history, which Biermann has addressed via his songs and sharp wit. Turning 90, he’s as feisty as ever.",
-    "published_at": "2026-11-14T10:00:00+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-15T18:19:33+00:00"
-   }
-  ]
- },
- {
-  "id": "6e8034a1bd74",
-  "headline": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
-  "section": "world",
-  "score": 31,
-  "sources_count": 1,
-  "depth_signal": 0,
-  "created": "2026-11-15T18:19:35+00:00",
-  "event_time": "2026-11-15T15:01:54+00:00",
-  "time_kind": "published",
-  "items": [
-   {
-    "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
-    "published_at": "2026-11-15T15:01:54+00:00",
-    "source_countries": [],
-    "seen_at": "2026-11-15T18:19:33+00:00"
-   }
-  ]
- },
- {
-  "id": "9bd6c4b431f5",
-  "headline": "Flames engulf Syrian refugee camp in eastern Lebanon",
-  "section": "world",
-  "score": 31,
+  "id": "986b4db417cb",
+  "headline": "‘Strangers gave me £2,409’: the online community helping people in debt",
+  "section": "business",
+  "score": 32,
   "sources_count": 1,
   "depth_signal": 2,
-  "created": "2026-11-15T18:19:35+00:00",
-  "event_time": "2026-11-15T14:55:40+00:00",
+  "created": "2026-11-16T09:28:17+00:00",
+  "event_time": "2026-11-16T08:00:37+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
-    "source": "Al Jazeera",
-    "summary": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
-    "published_at": "2026-11-15T14:55:40+00:00",
+    "title": "‘Strangers gave me £2,409’: the online community helping people in debt",
+    "url": "https://www.theguardian.com/money/2026/nov/16/online-community-helping-people-in-debt",
+    "source": "Guardian Business",
+    "summary": "People come together online to support one another with small voluntary donations to ease financial worries For some time people struggling with debt have used social media to document what they owe, swap advice and hold themselves accountable as they try to pay it off. Some have built large audiences around their repayment journeys, using views and engagement to generate income through creator pa",
+    "published_at": "2026-11-16T08:00:37+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-15T18:19:33+00:00"
+    "seen_at": "2026-11-16T09:28:14+00:00"
    }
   ]
  },
  {
-  "id": "ecff39d99ac5",
-  "headline": "Christmas toy rush being driven by squishies and building sets",
-  "section": "business",
-  "score": 31,
+  "id": "e9a8d30bc638",
+  "headline": "Proteins that form the nuclear pore barrier move like liquids",
+  "section": "science",
+  "score": 32,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-11-15T18:19:35+00:00",
-  "event_time": "2026-11-11T07:52:05+00:00",
+  "created": "2026-11-16T09:28:17+00:00",
+  "event_time": "2026-11-11T00:00:00+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "Christmas toy rush being driven by squishies and building sets",
-    "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-    "source": "BBC Business",
-    "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-    "published_at": "2026-11-11T07:52:05+00:00",
+    "title": "Proteins that form the nuclear pore barrier move like liquids",
+    "url": "https://www.nature.com/articles/d41586-026-03428-x",
+    "source": "Nature News",
+    "summary": "Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03428-x Nuclear pores control molecular traffic into and out of the cell nucleus. Measurements in living cells, together with molecular-dynamics simulations, show that flexible protein chains that form the selectivity barriers of nuclear pores are highly mobile, and that a sugar modification and the carrier protein importin-β help ",
+    "published_at": "2026-11-11T00:00:00+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-15T18:19:33+00:00"
+    "seen_at": "2026-11-16T09:28:14+00:00"
    }
   ]
  },
  {
-  "id": "997ee517f70b",
-  "headline": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-  "section": "tech",
-  "score": 31,
+  "id": "a3ecfa97111b",
+  "headline": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six",
+  "section": "sport",
+  "score": 32,
   "sources_count": 1,
   "depth_signal": 0,
-  "created": "2026-11-15T18:19:35+00:00",
-  "event_time": "2026-11-10T13:10:00+00:00",
+  "created": "2026-11-16T09:28:17+00:00",
+  "event_time": "2026-11-16T08:02:51+00:00",
   "time_kind": "published",
   "items": [
    {
-    "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-    "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
-    "source": "MIT Tech Review",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a…",
-    "published_at": "2026-11-10T13:10:00+00:00",
+    "title": "Watch: Partick Thistle & Ross County stretch leads as Clyde hit six",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cky8699zd79lo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC Sport",
+    "summary": "Watch the best of the action from the weekend in the Scottish Professional Football league as Partick Thistle stretch their lead in the Championship, Ross County win their top-of-the table head-to-head in League 1 and Clyde hit six to keep pace with Stranraer in League 2.",
+    "published_at": "2026-11-16T08:02:51+00:00",
     "source_countries": [],
-    "seen_at": "2026-11-15T18:19:33+00:00"
+    "seen_at": "2026-11-16T09:28:14+00:00"
    }
   ]
  }
