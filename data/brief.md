@@ -9,7 +9,35 @@
 
 ## A) ZPRAVODAJSKÉ ROZBORY
 
-### 1. SpaceX catches part of its Starship rocket on return to Earth
+### 1. Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO
+- id události: `49a1ce094a2b`  ·  rubrika: `business`  ·  skóre: 84  ·  nezávislých zdrojů: 7
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **Guardian Business** — Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO
+    <https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo>
+    > As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, joining Silicon Valley heavyweights in demanding the reinstatement of the AI figurehead
+  - **TechCrunch** — Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’
+    <https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/>
+    > OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.
+  - **CNBC Top** — Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC
+    <https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html>
+    > Jensen Huang resigned from Nvidia last week after 33 years as CEO.
+  - **Al Jazeera** — Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role
+    <https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss>
+    > Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn.
+  - **The Verge** — Trump says it ‘certainly isn’t a bad idea’ for Jensen Huang to return to Nvidia
+    <https://www.theverge.com/tech/1034355/trump-jensen-huang-nvidia-return>
+    > Following Jensen Huang's resignation as Nvidia's CEO last week, Trump told reporters on Monday that he's open to seeing Huang return and that he's not certain that the woman Huang reportedly had an affair with was in fact a spy. "I think having Jensen go back- a lot of people are
+  - **CNBC Top** — Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang’s exit
+    <https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html>
+    > Less than a week after Jensen Huang's abrupt departure, Nvidia interim CEO Colette Kress faces a major test with earnings.
+  - **SCMP Tech (Čína)** — Jensen Huang quits, China trade surplus hits US$1 trillion, Xi-Trump summit
+    <https://www.scmp.com/plus/tech/tech-war/article/3374341/jensen-huang-quits-china-trade-surplus-hits-us1-trillion-xi-trump-summit>
+    > Jensen Huang resigned as chief executive officer of chipmaker Nvidia following an affair with an alleged Chinese spy, boosting the odds of tighter US export controls against China days before the countries’ leaders are due to meet. Huang left the company he founded in 1993 with i
+  - **Investing.com** — Trump backs potential return of Jensen Huang as Nvidia CEO
+    <https://www.investing.com/news/stock-market-news/trump-says-he-would-not-mind-huang-being-reinstated-as-nvidia-ceo-5030546>
+
+### 2. SpaceX catches part of its Starship rocket on return to Earth
 - id události: `4443d0813e25`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -37,7 +65,7 @@
     <https://www.spacex.com/launches/starship-flight-15>
     > https://x.com/SpaceX/status/2121316300702056595 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 504 # Comments: 308
 
-### 2. FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia
+### 3. FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia
 - id události: `dd0fd43506cb`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
 - **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
 - Zdroje:
@@ -59,7 +87,7 @@
   - **Investing.com** — Trump held up to $62m in Nvidia stock as of August - report
     <https://www.investing.com/news/stock-market-news/trump-held-up-to-62m-in-nvidia-stock-as-of-august--report-5029333>
 
-### 3. Jensen Huang allies build a "war room" to get him back at Nvidia
+### 4. Jensen Huang allies build a "war room" to get him back at Nvidia
 - id události: `c0787d91eb5d`  ·  rubrika: `ai`  ·  skóre: 77  ·  nezávislých zdrojů: 5
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -82,25 +110,6 @@
     <https://www.scmp.com/tech/big-tech/article/3374376/will-jensen-huangs-downfall-tip-scales-against-open-source-ai>
     > Jensen Huang’s abrupt resignation from Nvidia has cast uncertainty over the US chip giant’s multibillion-dollar investments in open-source artificial intelligence, while potentially depriving Chinese developers of one of their most influential advocates in Washington. His departu
 
-### 4. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
-- id události: `1476d670af2a`  ·  rubrika: `world`  ·  skóre: 71  ·  nezávislých zdrojů: 4
-- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
-- Zdroje:
-  - **BBC World** — US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
-    <https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss>
-    > The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.
-  - **Al Jazeera** — Three killed in Russia as Ukraine claims US floated NATO membership option
-    <https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss>
-    > Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.
-  - **Al Jazeera** — Ukraine, Russia race to build military satellite networks as war rages on
-    <https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss>
-    > Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.
-  - **France 24** — US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says
-    <https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership>
-    > President Zelensky said the US had proposed ceding Ukraine's eastern city of Donbas to Russia, in exchange for Ukrainian membership of NATO, following the latest round of peace talks in Abu Dhabi this week. He reiterated that Kyiv was not willing to retreat from its territory and
-  - **Investing.com** — U.S. floats NATO membership for Ukraine in exchange for Donbas, Zelenskyy says
-    <https://www.investing.com/news/economy-news/us-floats-nato-membership-for-ukraine-in-exchange-for-donbas-zelenskyy-says-5027284>
-
 ---
 
 ## A2) ČLÁNEK DNE — hlavní text, na kterém záleží nejvíc
@@ -108,8 +117,8 @@
 ### electric car battery
 - rubrika: `motoring`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
   - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
+  - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
   - Electric car — <https://en.wikipedia.org/wiki/Electric_car>
 
 ---
@@ -137,7 +146,6 @@
 ```
 VLÁKNO: Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 rubrika: world · sledováno od 2026-08-09 · záznamů: 60
-  2026-10-24  (2 zdrojů, síla 46)  England thrash France to keep alive World Cup hopes
   2026-10-27  (3 zdrojů, síla 55)  Harry Kane becomes first Englishman in 25 years to win Ballon d'Or
   2026-10-27  (4 zdrojů, síla 70)  'A dream come true' - Harry Kane on his Ballon d'Or win
   2026-10-27  (2 zdrojů, síla 52)  Quiz: Kane and who else? Name every men's Ballon d'Or winner
@@ -157,6 +165,7 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
   2026-11-15  (2 zdrojů, síla 49)  Four in a row - Australia win women's rugby league World Cup again
   2026-11-15  (2 zdrojů, síla 42)  What Wales need to stay in Nations League top tier
   2026-11-16  (3 zdrojů, síla 63)  How did England cling on against Spain and what did Tuchel do differently?
+  2026-11-16  (2 zdrojů, síla 45)  LIVE: Germany vs Netherlands – UEFA Nations League
 ```
 
 ### 2. What has actually changed: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
@@ -166,7 +175,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
-  2026-11-12  (2 zdrojů, síla 40)  What we know so far about Nvidia partner Megaspeed’s Asia footprint
   2026-11-12  (2 zdrojů, síla 40)  ‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight
   2026-11-12  (5 zdrojů, síla 75)  Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video
   2026-11-12  (6 zdrojů, síla 80)  Who could replace Jensen Huang as Nvidia's chief executive?
@@ -186,6 +194,7 @@ rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
   2026-11-16  (2 zdrojů, síla 42)  Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster
   2026-11-16  (5 zdrojů, síla 77)  Jensen Huang allies build a "war room" to get him back at Nvidia
   2026-11-16  (4 zdrojů, síla 56)  Trump says Nvidia scandal did not put U.S. national security ‘at risk,’ defends Lutnick
+  2026-11-16  (7 zdrojů, síla 84)  Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO
 ```
 
 ---

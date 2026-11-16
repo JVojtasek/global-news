@@ -5,46 +5,46 @@
    "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
    "section": "world",
    "entities": [
+    "germany",
     "protests",
-    "haaland",
-    "four",
-    "police",
-    "gordon",
-    "europe",
-    "fiji",
-    "ireland",
+    "board",
+    "assembly",
+    "netherlands",
+    "uefa",
+    "france",
+    "englishman",
+    "australia",
     "bellingham",
-    "devlin",
+    "east-west",
+    "tuchel",
     "ballon",
+    "league",
+    "mamdani",
+    "quiz",
+    "devlin",
+    "czechia",
+    "nations",
+    "lamine",
     "england",
     "walsh-inspired",
-    "uefa",
     "wales",
-    "quiz",
-    "east-west",
-    "france",
-    "nations",
-    "assembly",
-    "klopp",
-    "world",
-    "germany",
-    "englishman",
-    "tuchel",
-    "portugal",
-    "board",
-    "macedonia",
-    "mamdani",
-    "northern",
-    "league",
-    "croatia",
-    "munich",
-    "czechia",
-    "lamine",
-    "jerusalem",
-    "spain",
     "women's",
+    "europe",
+    "jerusalem",
+    "northern",
     "ruthless",
-    "australia"
+    "four",
+    "croatia",
+    "ireland",
+    "munich",
+    "macedonia",
+    "fiji",
+    "spain",
+    "gordon",
+    "haaland",
+    "portugal",
+    "klopp",
+    "police"
    ],
    "event_ids": [
     "6e0f12b732f6",
@@ -153,22 +153,12 @@
     "3ebb891ff331",
     "db6eeb41e066",
     "ce47e6e375ca",
-    "8ddb418e132a"
+    "8ddb418e132a",
+    "a82073535da5"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-11-16",
    "timeline": [
-    {
-     "date": "2026-09-24",
-     "headline": "Felix gives Portugal win over Wales in Nations League opener",
-     "sources": 2,
-     "score": 48,
-     "event_id": "f19892690f93",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/videos/cq770gkr1zy2o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/sep/24/portugal-wales-nations-league-match-report"
-     ]
-    },
     {
      "date": "2026-09-25",
      "headline": "Bellamy wants more from Wales after loss to Portugal",
@@ -846,6 +836,17 @@
       "https://www.bbc.co.uk/sport/football/articles/cjg46lrpllrpo?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/football/2026/nov/15/thomas-tuchel-england-spain-nations-league"
      ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "LIVE: Germany vs Netherlands – UEFA Nations League",
+     "sources": 2,
+     "score": 45,
+     "event_id": "a82073535da5",
+     "links": [
+      "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss",
+      "https://www.theguardian.com/football/2026/nov/16/england-spain-nations-league-victory-football-daily-newsletter"
+     ]
     }
    ]
   },
@@ -854,46 +855,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "labs",
-    "exploit",
-    "alice",
-    "york",
-    "nvidia",
-    "cyberattacks",
-    "qubole's",
-    "face",
-    "nvidia's",
-    "amid",
-    "megaspeed",
-    "martin",
-    "silicon",
-    "cnbc",
-    "undone",
-    "chinese",
-    "unexpected",
-    "lutnick",
-    "kleinman",
-    "t-head",
-    "reward",
-    "goodfire",
-    "steal",
-    "scandal-hit",
-    "hegseth",
     "data",
-    "suffers",
-    "valley",
+    "qubole's",
+    "nvidia's",
+    "scandal-hit",
     "rowson",
-    "assets",
-    "china",
-    "cyberattack",
-    "jensen",
-    "huang",
+    "reward",
+    "face",
+    "labs",
+    "megaspeed",
+    "steal",
     "senate",
+    "cyberattacks",
+    "goodfire",
+    "york",
+    "chinese",
     "suspected",
-    "drove",
-    "alibaba",
+    "kleinman",
+    "cnbc",
+    "huang",
+    "undone",
+    "suffers",
+    "assets",
+    "amid",
+    "valley",
     "trump",
-    "trusted"
+    "martin",
+    "trusted",
+    "hegseth",
+    "t-head",
+    "unexpected",
+    "exploit",
+    "lutnick",
+    "alibaba",
+    "alice",
+    "cyberattack",
+    "silicon",
+    "drove",
+    "china",
+    "nvidia",
+    "jensen"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -969,23 +970,12 @@
     "c6f717fdbe76",
     "4fd9a00d11a9",
     "c0787d91eb5d",
-    "0ea83035fbfb"
+    "0ea83035fbfb",
+    "49a1ce094a2b"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-16",
    "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-     "sources": 5,
-     "score": 75,
-     "event_id": "d44ccc0ba93d",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-      "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
     {
      "date": "2026-09-03",
      "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
@@ -1674,6 +1664,18 @@
       "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
       "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
       "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+     "sources": 7,
+     "score": 84,
+     "event_id": "49a1ce094a2b",
+     "links": [
+      "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+      "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html"
      ]
     }
    ]
@@ -2591,6 +2593,803 @@
       "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
       "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
       "https://www.france24.com/en/video/20261116-russia-says-intercepted-over-1-300-ukrainian-drones-in-a-major-attack"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "d16d38017cfe",
+   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+   "section": "world",
+   "entities": [
+    "tone",
+    "king",
+    "aramco",
+    "some",
+    "iran-backed",
+    "jordan",
+    "salman",
+    "attack",
+    "street",
+    "houthi",
+    "egypt's",
+    "bangladesh",
+    "arabia",
+    "riyadh",
+    "middle",
+    "davos",
+    "lucid",
+    "east",
+    "turkey",
+    "iran",
+    "yemen's",
+    "desert",
+    "gulf",
+    "cnbc's",
+    "israel-bound",
+    "president",
+    "somalia",
+    "york",
+    "asian",
+    "western",
+    "bahrain",
+    "three",
+    "belfort",
+    "arabia's",
+    "trump",
+    "houthis",
+    "wall",
+    "wolf",
+    "connection",
+    "ssisi"
+   ],
+   "event_ids": [
+    "d16d38017cfe",
+    "b203d9b44ace",
+    "86a5852bfef5",
+    "d4796b695f31",
+    "5308710e525c",
+    "180951c60255",
+    "9e9d8d1bd79d",
+    "44a648a1bb6f",
+    "d5228024545e",
+    "7f3db7dc3a67",
+    "8e64cbab11b6",
+    "3fd55062614f",
+    "b958bdde2297",
+    "b44b08189279",
+    "8ac4f979d690",
+    "f17ae9a73257",
+    "96e0059faecd",
+    "5808d99edbb7",
+    "a35bb8180e8c",
+    "3581328646f8",
+    "dcc48233c883",
+    "09ea0a7a9571",
+    "4d155da59089",
+    "d4fd36f35bd9",
+    "5611b93eb435",
+    "8a7ec0826a1f",
+    "da1b9627385a",
+    "df06a837dc2b",
+    "a9fd93822637",
+    "3da26f09f6ff",
+    "df452091ea46",
+    "9e6334d33a16",
+    "168af5f2abe2",
+    "9ec96211d71f",
+    "76de81fb62e3",
+    "a07b489c718f",
+    "c4c3730905e3",
+    "e221d5b35916",
+    "713f2e047f06",
+    "a2f4bcccbdec",
+    "2f0e5dac1fd6",
+    "20b965f0a69e",
+    "9db7d2d08a6e",
+    "286892780cea",
+    "f45303cfc40f",
+    "543863fdee3d",
+    "e74ce2d51380",
+    "250c5583ffcd",
+    "acf02c7de9a8",
+    "bfabd481a216",
+    "bfad2b5951c1",
+    "b3534df0c874",
+    "33ffd3457e0f",
+    "a4c834776699",
+    "73acf381ec21",
+    "ffbf3e965da6",
+    "803a549014c5",
+    "12b449161b78",
+    "c7e011fee4e7",
+    "2b743f026fc3",
+    "98a6b9391539",
+    "cf4a7f96091c"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
+     "sources": 3,
+     "score": 62,
+     "event_id": "86a5852bfef5",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
+      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
+     "sources": 2,
+     "score": 44,
+     "event_id": "d4796b695f31",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+     "sources": 3,
+     "score": 59,
+     "event_id": "5308710e525c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-16",
+     "headline": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
+     "sources": 3,
+     "score": 56,
+     "event_id": "180951c60255",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
+      "http://www.france24.com/en/video/20260916-more-than-100-000-flee-fighting-in-yemen-un",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-20",
+     "headline": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9e9d8d1bd79d",
+     "links": [
+      "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
+     "sources": 2,
+     "score": 42,
+     "event_id": "44a648a1bb6f",
+     "links": [
+      "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks",
+      "https://www.investing.com/news/company-news/swvl-launches-247-shuttle-service-in-madinah-saudi-arabia-93CH-4910666"
+     ]
+    },
+    {
+     "date": "2026-09-22",
+     "headline": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
+     "sources": 3,
+     "score": 56,
+     "event_id": "d5228024545e",
+     "links": [
+      "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
+      "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+      "https://electrek.co/2026/09/21/ceer-unveils-exobot-evs-saudi-arabias-first-electric-vehicles/"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Israel-bound passenger plane makes emergency landing in Saudi Arabia",
+     "sources": 2,
+     "score": 53,
+     "event_id": "7f3db7dc3a67",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+      "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "headline": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
+     "sources": 2,
+     "score": 43,
+     "event_id": "8e64cbab11b6",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/houthis-claim-strike-on-saudi-aramco-facility-as-yemen-fighting-intensifies-4930902"
+     ]
+    },
+    {
+     "date": "2026-10-05",
+     "headline": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
+     "sources": 3,
+     "score": 52,
+     "event_id": "3fd55062614f",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
+      "https://www.aljazeera.com/video/inside-story/2026/10/5/can-yemen-retake-territory-seized-by-houthis?traffic_source=rss",
+      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say"
+     ]
+    },
+    {
+     "date": "2026-10-06",
+     "headline": "Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say",
+     "sources": 2,
+     "score": 41,
+     "event_id": "b958bdde2297",
+     "links": [
+      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say",
+      "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376"
+     ]
+    },
+    {
+     "date": "2026-10-07",
+     "headline": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
+     "sources": 2,
+     "score": 50,
+     "event_id": "b44b08189279",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+     "sources": 1,
+     "score": 42,
+     "event_id": "8ac4f979d690",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+     "sources": 2,
+     "score": 50,
+     "event_id": "f17ae9a73257",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+     "sources": 3,
+     "score": 56,
+     "event_id": "96e0059faecd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
+      "https://www.france24.com/en/video/20261009-houthi-strikes-on-riyadh-airport-killed-three-saudis-as-war-escalates"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "Yemen's Houthis claim strikes on Aden, Riyadh airports",
+     "sources": 2,
+     "score": 46,
+     "event_id": "5808d99edbb7",
+     "links": [
+      "https://www.dw.com/en/yemen-s-houthis-claim-strikes-on-aden-riyadh-airports/a-79571321?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "headline": "Saudi Arabia suspends operations at Riyadh airport after an attack causes multiple injuries",
+     "sources": 3,
+     "score": 53,
+     "event_id": "a35bb8180e8c",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3581328646f8",
+     "links": [
+      "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+     "sources": 2,
+     "score": 42,
+     "event_id": "dcc48233c883",
+     "links": [
+      "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+      "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Saudi Arabia: 12 killed, hundreds injured in Riyadh airport attack",
+     "sources": 2,
+     "score": 42,
+     "event_id": "09ea0a7a9571",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
+     "sources": 2,
+     "score": 41,
+     "event_id": "4d155da59089",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway"
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "headline": "Yemen's Houthis warn passengers not to use Saudi airports",
+     "sources": 3,
+     "score": 60,
+     "event_id": "d4fd36f35bd9",
+     "links": [
+      "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+      "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Saudi Arabia: Second strike kills at least 1 at Riyadh airport",
+     "sources": 2,
+     "score": 43,
+     "event_id": "5611b93eb435",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Saudi Arabia: Riyadh airport struck again by Yemen's Houthis",
+     "sources": 2,
+     "score": 52,
+     "event_id": "8a7ec0826a1f",
+     "links": [
+      "https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis",
+      "https://www.france24.com/en/middle-east/20261012-live-saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-after-deadly-houthi-attacks",
+      "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict",
+     "sources": 3,
+     "score": 64,
+     "event_id": "da1b9627385a",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/saudi-arabia-extends-riyadh-aiport-suspension-vows-deadly-response-to-houthis-strikes",
+      "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html"
+     ]
+    },
+    {
+     "date": "2026-10-12",
+     "headline": "How exposed is Saudi Arabia? Yemen's Houthis scale up drone and missile attacks",
+     "sources": 2,
+     "score": 48,
+     "event_id": "df06a837dc2b",
+     "links": [
+      "https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks",
+      "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
+      "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Houthis threaten Saudi Arabia’s Aramco facilities and airports",
+     "sources": 2,
+     "score": 50,
+     "event_id": "a9fd93822637",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say",
+      "https://www.france24.com/en/middle-east/20261013-french-embassy-in-riyadh-tells-citizens-to-avoid-saudi-airports-targeted-by-houthis"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Saudi Arabia strikes oil depots in Yemen as conflict with Houthis escalates",
+     "sources": 2,
+     "score": 44,
+     "event_id": "3da26f09f6ff",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+      "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
+     "sources": 2,
+     "score": 52,
+     "event_id": "df452091ea46",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+      "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Houthis say targeted Saudi oil giant Aramco, vow more attacks",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9e6334d33a16",
+     "links": [
+      "https://www.france24.com/en/video/20261014-houthis-say-targeted-saudi-oil-giant-aramco-vow-more-attacks",
+      "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
+     "sources": 2,
+     "score": 44,
+     "event_id": "168af5f2abe2",
+     "links": [
+      "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
+      "https://www.france24.com/en/middle-east/20261015-houthis-deny-targeting-holy-city-medina-after-saudi-arabia-says-intercepted-missile"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Middle East updates: Houthis target Yemen government palace in Aden",
+     "sources": 2,
+     "score": 42,
+     "event_id": "9ec96211d71f",
+     "links": [
+      "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-15",
+     "headline": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+     "sources": 2,
+     "score": 45,
+     "event_id": "76de81fb62e3",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
+     "sources": 2,
+     "score": 45,
+     "event_id": "a07b489c718f",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
+      "https://www.theguardian.com/sport/2026/oct/17/houthi-conflict-casts-shadow-as-saudi-arabia-scales-back-sporting-pipe-dreams"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
+     "sources": 2,
+     "score": 44,
+     "event_id": "c4c3730905e3",
+     "links": [
+      "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Houthi strike on Yemen government military camp kills at least 50",
+     "sources": 2,
+     "score": 48,
+     "event_id": "e221d5b35916",
+     "links": [
+      "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+     "sources": 2,
+     "score": 50,
+     "event_id": "713f2e047f06",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a2f4bcccbdec",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
+     "sources": 2,
+     "score": 44,
+     "event_id": "2f0e5dac1fd6",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
+      "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+     "sources": 3,
+     "score": 50,
+     "event_id": "20b965f0a69e",
+     "links": [
+      "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+      "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
+      "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
+     "sources": 3,
+     "score": 58,
+     "event_id": "9db7d2d08a6e",
+     "links": [
+      "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
+      "https://www.france24.com/en/egypt-mulls-joining-saudi-arabia-in-war-against-houthis",
+      "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+     "sources": 3,
+     "score": 62,
+     "event_id": "286892780cea",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+      "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+      "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+     "sources": 2,
+     "score": 49,
+     "event_id": "f45303cfc40f",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+      "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Maritime and port workers: how is the Middle East conflict affecting you?",
+     "sources": 2,
+     "score": 45,
+     "event_id": "543863fdee3d",
+     "links": [
+      "https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
+      "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+     "sources": 2,
+     "score": 44,
+     "event_id": "e74ce2d51380",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+     "sources": 2,
+     "score": 43,
+     "event_id": "250c5583ffcd",
+     "links": [
+      "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+      "https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
+     "sources": 2,
+     "score": 44,
+     "event_id": "acf02c7de9a8",
+     "links": [
+      "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
+      "https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080"
+     ]
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+     "sources": 2,
+     "score": 43,
+     "event_id": "bfabd481a216",
+     "links": [
+      "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
+      "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+     "sources": 4,
+     "score": 62,
+     "event_id": "bfad2b5951c1",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/nov/03/2027-asian-cup-saudi-arabia-postponed-conflict-middle-east"
+     ]
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Houthis say at least 25 killed in Saudi air strike",
+     "sources": 2,
+     "score": 40,
+     "event_id": "b3534df0c874",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Saudi Aramco building in Riyadh damaged after attempted attack",
+     "sources": 2,
+     "score": 40,
+     "event_id": "33ffd3457e0f",
+     "links": [
+      "https://www.cnbc.com/2026/11/08/saudi-aramco-riyadh-building-attack.html",
+      "https://www.investing.com/news/economy-news/saudi-aramco-riyadh-office-hit-as-houthi-missiles-target-kingdom-5010189"
+     ]
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh",
+     "sources": 2,
+     "score": 44,
+     "event_id": "a4c834776699",
+     "links": [
+      "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district",
+      "https://www.investing.com/news/commodities-news/saudi-aramco-building-in-riyadh-damaged-by-falling-debris-after-attempted-attack-ministry-says-5010175"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
+     "sources": 2,
+     "score": 48,
+     "event_id": "73acf381ec21",
+     "links": [
+      "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
+      "https://www.france24.com/en/video/20261109-saudi-arabia-intercepts-houthi-missiles-as-riyadh-s-aramco-building-damaged"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
+     "sources": 2,
+     "score": 45,
+     "event_id": "ffbf3e965da6",
+     "links": [
+      "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
+      "https://www.investing.com/news/stock-market-news/wall-st-futures-mixed-amid-ai-spending-concerns-inflation-data-awaited-5010386"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
+     "sources": 2,
+     "score": 52,
+     "event_id": "803a549014c5",
+     "links": [
+      "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
+      "https://www.scmp.com/business/markets/article/3373745/can-hong-kong-hold-its-ground-nasdaq-brings-wall-street-asian-hours",
+      "https://www.cnbc.com/2026/11/09/nvidias-china-revenue-exposure-what-new-street-estimates-.html"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
+     "sources": 3,
+     "score": 54,
+     "event_id": "12b449161b78",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+      "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain",
+      "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Iran targets US military base in Bahrain with drone attack",
+     "sources": 3,
+     "score": 59,
+     "event_id": "c7e011fee4e7",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Iran launches drone attacks against US military base in Bahrain",
+     "sources": 2,
+     "score": 40,
+     "event_id": "2b743f026fc3",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+      "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+     "sources": 2,
+     "score": 46,
+     "event_id": "98a6b9391539",
+     "links": [
+      "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Three sentenced to death over Jordan church attack",
+     "sources": 2,
+     "score": 40,
+     "event_id": "cf4a7f96091c",
+     "links": [
+      "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
+      "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss"
      ]
     }
    ]
@@ -3592,6 +4391,306 @@
    ]
   },
   {
+   "id": "e138211becc3",
+   "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+   "section": "tech",
+   "entities": [
+    "carbon",
+    "friday",
+    "meet",
+    "sony",
+    "argon",
+    "monday",
+    "gemini",
+    "playstation",
+    "developing",
+    "transcribe",
+    "robotics",
+    "black",
+    "google",
+    "avatar",
+    "introducing",
+    "deepmind",
+    "flash",
+    "asimov-jailbreak",
+    "flash-lite",
+    "ai-powered",
+    "googlebook",
+    "cyber",
+    "hydrogen"
+   ],
+   "event_ids": [
+    "e138211becc3",
+    "cf3951101d71",
+    "b0c60d5e22ba",
+    "29ae84aa2a01",
+    "b27fb7cf6534",
+    "b6a7c3b080e8",
+    "26792917d6d7",
+    "ee9698a7fdb9",
+    "f79a067193d7",
+    "556e1e4b03fe",
+    "47672f48bba9",
+    "884ebf3c3978",
+    "471508c04c30",
+    "edd884e3eb65",
+    "e7107d9a76d9",
+    "bfd6acefc1fb",
+    "2cb9d43acd5a",
+    "004c51f512e0",
+    "0b2e1c02de47",
+    "77a7ce670b8c",
+    "32ad4788082b"
+   ],
+   "first_seen": "2026-08-26",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-08-26",
+     "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+     "sources": 4,
+     "score": 59,
+     "event_id": "e138211becc3",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
+     ]
+    },
+    {
+     "date": "2026-08-26",
+     "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cf3951101d71",
+     "links": [
+      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
+     ]
+    },
+    {
+     "date": "2026-09-02",
+     "headline": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+     "sources": 3,
+     "score": 49,
+     "event_id": "b0c60d5e22ba",
+     "links": [
+      "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
+     "sources": 2,
+     "score": 44,
+     "event_id": "29ae84aa2a01",
+     "links": [
+      "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
+      "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Google says its Gemini AI model hacked three other companies",
+     "sources": 2,
+     "score": 51,
+     "event_id": "b27fb7cf6534",
+     "links": [
+      "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+      "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
+     ]
+    },
+    {
+     "date": "2026-09-19",
+     "headline": "Google’s Gemini is the latest AI model to hack other companies",
+     "sources": 3,
+     "score": 46,
+     "event_id": "b6a7c3b080e8",
+     "links": [
+      "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
+     ]
+    },
+    {
+     "date": "2026-09-21",
+     "headline": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+     "sources": 3,
+     "score": 54,
+     "event_id": "26792917d6d7",
+     "links": [
+      "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+      "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs"
+     ]
+    },
+    {
+     "date": "2026-09-24",
+     "headline": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+     "sources": 3,
+     "score": 46,
+     "event_id": "ee9698a7fdb9",
+     "links": [
+      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Google confirms Gemini models hacked three companies in May 2026",
+     "sources": 2,
+     "score": 45,
+     "event_id": "f79a067193d7",
+     "links": [
+      "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+      "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+     ]
+    },
+    {
+     "date": "2026-09-30",
+     "headline": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+     "sources": 6,
+     "score": 72,
+     "event_id": "556e1e4b03fe",
+     "links": [
+      "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+      "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "Google brings agentic AI to Gemini, starting with businesses",
+     "sources": 2,
+     "score": 40,
+     "event_id": "47672f48bba9",
+     "links": [
+      "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "https://www.cnbc.com/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up.html"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Gemini 4 Argon for Robotics",
+     "sources": 5,
+     "score": 80,
+     "event_id": "884ebf3c3978",
+     "links": [
+      "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
+     ]
+    },
+    {
+     "date": "2026-10-13",
+     "headline": "Developing Gemini 4 Argon responsibly and safely",
+     "sources": 2,
+     "score": 40,
+     "event_id": "471508c04c30",
+     "links": [
+      "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+     "sources": 1,
+     "score": 40,
+     "event_id": "edd884e3eb65",
+     "links": [
+      "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
+      "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Introducing Gemini 3.8 Live with Live Avatar",
+     "sources": 1,
+     "score": 40,
+     "event_id": "e7107d9a76d9",
+     "links": [
+      "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+     "sources": 6,
+     "score": 71,
+     "event_id": "bfd6acefc1fb",
+     "links": [
+      "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "How to shop like a pro during Black Friday and Cyber Monday",
+     "sources": 1,
+     "score": 48,
+     "event_id": "2cb9d43acd5a",
+     "links": [
+      "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
+      "https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores",
+      "https://www.theverge.com/gadgets/1024433/black-friday-2026-giveaway-sweepstakes"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+     "sources": 2,
+     "score": 42,
+     "event_id": "004c51f512e0",
+     "links": [
+      "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Gemini 4 Carbon is now available",
+     "sources": 3,
+     "score": 47,
+     "event_id": "0b2e1c02de47",
+     "links": [
+      "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+     "sources": 3,
+     "score": 57,
+     "event_id": "77a7ce670b8c",
+     "links": [
+      "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Sony’s PlayStation 5 accessories are cheaper ahead of Black Friday",
+     "sources": 2,
+     "score": 44,
+     "event_id": "32ad4788082b",
+     "links": [
+      "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
+      "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "cc5e6502b0d5",
    "title": "Are claims of a white genocide in South Africa real?",
    "section": "world",
@@ -3874,6 +4973,252 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
       "https://www.dw.com/en/south-africa-17-killed-in-separate-mass-shooting-incidents/a-79956966?maca=en-rss-en-all-1573-rdf"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2c2b2700dd7b",
+   "title": "Microsoft Patches a Record 570 Security Flaws",
+   "section": "safety",
+   "entities": [
+    "pairing",
+    "year-old",
+    "repositories",
+    "execute",
+    "security",
+    "chat",
+    "commerce",
+    "lets",
+    "privacy",
+    "within",
+    "record",
+    "palo",
+    "group",
+    "vulnerabilities",
+    "cisco",
+    "postgresql",
+    "arista",
+    "weaponized",
+    "linux",
+    "critical",
+    "hours",
+    "patches",
+    "microsoft",
+    "software",
+    "highly",
+    "apple",
+    "siemens",
+    "actively",
+    "clones",
+    "flaws",
+    "execution",
+    "remote",
+    "including",
+    "sshole",
+    "flaw",
+    "keys",
+    "bluetooth",
+    "backdoors",
+    "lazarus",
+    "days"
+   ],
+   "event_ids": [
+    "2c2b2700dd7b",
+    "42a9e60af11b",
+    "838b4b1ce253",
+    "29d08fa787d9",
+    "aabd8e14b270",
+    "cf5c346fcefd",
+    "7325900e53d9",
+    "6d2a0802c49f",
+    "f4eff089be53",
+    "3e6bc640da57",
+    "a40dff3d749a",
+    "d7669d6db99e",
+    "b86930e18372",
+    "83d130e7ba9f",
+    "ba7507c6f20e",
+    "e05f7a78ce38"
+   ],
+   "first_seen": "2026-08-10",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-08-10",
+     "headline": "Microsoft Patches a Record 570 Security Flaws",
+     "sources": 2,
+     "score": 56,
+     "event_id": "2c2b2700dd7b",
+     "links": [
+      "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
+      "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+     "sources": 1,
+     "score": 46,
+     "event_id": "42a9e60af11b",
+     "links": [
+      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+     "sources": 1,
+     "score": 44,
+     "event_id": "838b4b1ce253",
+     "links": [
+      "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
+     ]
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+     "sources": 1,
+     "score": 44,
+     "event_id": "29d08fa787d9",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+      "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+     "sources": 1,
+     "score": 44,
+     "event_id": "aabd8e14b270",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+     "sources": 2,
+     "score": 50,
+     "event_id": "cf5c346fcefd",
+     "links": [
+      "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+     "sources": 1,
+     "score": 46,
+     "event_id": "7325900e53d9",
+     "links": [
+      "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+     "sources": 1,
+     "score": 44,
+     "event_id": "6d2a0802c49f",
+     "links": [
+      "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
+     ]
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+     "sources": 1,
+     "score": 44,
+     "event_id": "f4eff089be53",
+     "links": [
+      "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+      "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
+     ]
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+     "sources": 1,
+     "score": 44,
+     "event_id": "3e6bc640da57",
+     "links": [
+      "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+      "https://thehackernews.com/2026/11/attackers-target-unpatched.html"
+     ]
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+     "sources": 1,
+     "score": 44,
+     "event_id": "a40dff3d749a",
+     "links": [
+      "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html"
+     ]
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+     "sources": 2,
+     "score": 52,
+     "event_id": "d7669d6db99e",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html"
+     ]
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+     "sources": 1,
+     "score": 44,
+     "event_id": "b86930e18372",
+     "links": [
+      "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Microsoft Patches More Than 1,400 Security Flaws",
+     "sources": 2,
+     "score": 48,
+     "event_id": "83d130e7ba9f",
+     "links": [
+      "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html"
+     ]
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+     "sources": 1,
+     "score": 44,
+     "event_id": "ba7507c6f20e",
+     "links": [
+      "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+      "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+     "sources": 1,
+     "score": 42,
+     "event_id": "e05f7a78ce38",
+     "links": [
+      "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html"
      ]
     }
    ]
@@ -4557,6 +5902,73 @@
    ]
   },
   {
+   "id": "0cb440044f5c",
+   "title": "Tesla shares are falling after Cybercab event. What analysts are saying",
+   "section": "business",
+   "entities": [
+    "tesla",
+    "berlin",
+    "cybercab",
+    "gigafactory"
+   ],
+   "event_ids": [
+    "0cb440044f5c",
+    "49d295514768",
+    "3fdf29b5c4ea",
+    "984d83a62777"
+   ],
+   "first_seen": "2026-09-04",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-09-04",
+     "headline": "Tesla shares are falling after Cybercab event. What analysts are saying",
+     "sources": 3,
+     "score": 55,
+     "event_id": "0cb440044f5c",
+     "links": [
+      "https://www.cnbc.com/2026/09/04/tesla-shares-are-falling-after-cybercab-event-what-analysts-are-saying.html",
+      "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+      "https://www.investing.com/news/stock-market-news/analysismusk-pushes-regulatory-limits-with-teslas-cybercab-robotaxi-service-4889800"
+     ]
+    },
+    {
+     "date": "2026-09-04",
+     "headline": "The unusually muted Tesla Cybercab launch",
+     "sources": 3,
+     "score": 50,
+     "event_id": "49d295514768",
+     "links": [
+      "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+      "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+      "https://www.investing.com/news/stock-market-news/teslas-cybercab-event-set-for-thursday-with-few-details-4887402"
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+     "sources": 2,
+     "score": 40,
+     "event_id": "3fdf29b5c4ea",
+     "links": [
+      "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+      "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+     "sources": 2,
+     "score": 41,
+     "event_id": "984d83a62777",
+     "links": [
+      "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+      "https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "6df7be2a0b28",
    "title": "Klopp says Infantino worse than Blatter",
    "section": "world",
@@ -4586,798 +5998,57 @@
    ]
   },
   {
-   "id": "d16d38017cfe",
-   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+   "id": "d9d15d9b143f",
+   "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
    "section": "world",
    "entities": [
-    "middle",
-    "gulf",
-    "three",
-    "king",
-    "cnbc's",
-    "wall",
-    "asian",
-    "iran",
-    "deadly",
-    "saudi",
-    "attack",
-    "trump",
-    "davos",
-    "egypt's",
-    "president",
-    "iran-backed",
-    "western",
-    "houthis",
-    "aden",
-    "yemen's",
-    "riyadh",
-    "ssisi",
-    "some",
-    "houthi",
-    "desert",
-    "salman",
-    "lucid",
-    "arabia",
-    "east",
-    "turkey",
-    "connection",
-    "bahrain",
-    "somalia",
-    "aramco",
-    "york",
-    "arabia's",
-    "israel-bound",
-    "bangladesh",
-    "street",
-    "syria"
+    "china's",
+    "nvidia"
    ],
    "event_ids": [
-    "d16d38017cfe",
-    "b203d9b44ace",
-    "86a5852bfef5",
-    "d4796b695f31",
-    "5308710e525c",
-    "180951c60255",
-    "9e9d8d1bd79d",
-    "44a648a1bb6f",
-    "d5228024545e",
-    "7f3db7dc3a67",
-    "8e64cbab11b6",
-    "3fd55062614f",
-    "b958bdde2297",
-    "b44b08189279",
-    "8ac4f979d690",
-    "f17ae9a73257",
-    "96e0059faecd",
-    "5808d99edbb7",
-    "a35bb8180e8c",
-    "3581328646f8",
-    "dcc48233c883",
-    "09ea0a7a9571",
-    "4d155da59089",
-    "d4fd36f35bd9",
-    "5611b93eb435",
-    "8a7ec0826a1f",
-    "da1b9627385a",
-    "df06a837dc2b",
-    "a9fd93822637",
-    "3da26f09f6ff",
-    "df452091ea46",
-    "9e6334d33a16",
-    "168af5f2abe2",
-    "9ec96211d71f",
-    "76de81fb62e3",
-    "a07b489c718f",
-    "c4c3730905e3",
-    "e221d5b35916",
-    "713f2e047f06",
-    "a2f4bcccbdec",
-    "2f0e5dac1fd6",
-    "20b965f0a69e",
-    "9db7d2d08a6e",
-    "286892780cea",
-    "f45303cfc40f",
-    "543863fdee3d",
-    "e74ce2d51380",
-    "250c5583ffcd",
-    "acf02c7de9a8",
-    "bfabd481a216",
-    "bfad2b5951c1",
-    "b3534df0c874",
-    "33ffd3457e0f",
-    "a4c834776699",
-    "73acf381ec21",
-    "ffbf3e965da6",
-    "803a549014c5",
-    "12b449161b78",
-    "c7e011fee4e7",
-    "2b743f026fc3"
+    "d9d15d9b143f"
    ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-11-15",
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
    "timeline": [
     {
-     "date": "2026-08-09",
-     "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-     "sources": 3,
-     "score": 62,
-     "event_id": "d16d38017cfe",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/aug/09/yemen-houthis-saudi-oil-refinery-defence-pact-iran-strait-of-hormuz",
-      "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news"
-     ]
-    },
-    {
-     "date": "2026-09-08",
-     "headline": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
-     "sources": 3,
-     "score": 54,
-     "event_id": "b203d9b44ace",
-     "links": [
-      "https://www.npr.org/2026/09/08/g-s1-142296/houthi-attacks-saudi-arabia",
-      "https://www.france24.com/en/middle-east/20260908-houthi-attacks-disrupt-saudi-oil-facilities-and-wound-more-than-70",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/8/houthi-attacks-on-southern-saudi-arabia-reportedly-injure-dozens?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
-     "sources": 3,
-     "score": 62,
-     "event_id": "86a5852bfef5",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
-      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
-     "sources": 2,
-     "score": 44,
-     "event_id": "d4796b695f31",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-     "sources": 3,
-     "score": 59,
-     "event_id": "5308710e525c",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
-      "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-16",
-     "headline": "US officials decide against backing Saudi Arabia in Yemen after meeting Houthi leaders",
-     "sources": 3,
-     "score": 56,
-     "event_id": "180951c60255",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/16/us-officials-decide-against-backing-saudi-arabia-yemen-meeting-houthi-leaders",
-      "http://www.france24.com/en/video/20260916-more-than-100-000-flee-fighting-in-yemen-un",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-20",
-     "headline": "Houthi attacks and no Western support: What are Saudi Arabia's options ?",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9e9d8d1bd79d",
-     "links": [
-      "https://www.france24.com/en/houthi-attacks-and-no-western-support-what-are-saudi-arabia-s-options",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/20/there-will-be-a-very-sizeable-saudi-response-to-houthi-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
-     "sources": 2,
-     "score": 42,
-     "event_id": "44a648a1bb6f",
-     "links": [
-      "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks",
-      "https://www.investing.com/news/company-news/swvl-launches-247-shuttle-service-in-madinah-saudi-arabia-93CH-4910666"
-     ]
-    },
-    {
-     "date": "2026-09-22",
-     "headline": "Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis",
-     "sources": 3,
-     "score": 56,
-     "event_id": "d5228024545e",
-     "links": [
-      "https://www.aljazeera.com/news/2026/9/22/saudi-king-slams-heinous-targeting-of-mecca-by-terrorist-houthis?traffic_source=rss",
-      "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
-      "https://electrek.co/2026/09/21/ceer-unveils-exobot-evs-saudi-arabias-first-electric-vehicles/"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Israel-bound passenger plane makes emergency landing in Saudi Arabia",
-     "sources": 2,
-     "score": 53,
-     "event_id": "7f3db7dc3a67",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
-      "https://www.aljazeera.com/news/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/30/pakistan-vows-to-defend-saudi-arabia-against-houthis?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-04",
-     "headline": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
-     "sources": 2,
-     "score": 43,
-     "event_id": "8e64cbab11b6",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/houthis-claim-strike-on-saudi-aramco-facility-as-yemen-fighting-intensifies-4930902"
-     ]
-    },
-    {
-     "date": "2026-10-05",
-     "headline": "Saudi-backed forces recapture key areas around strait from Houthis in Yemen",
-     "sources": 3,
-     "score": 52,
-     "event_id": "3fd55062614f",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/05/saudi-forces-recapture-key-areas-strait-houthis-yemen",
-      "https://www.aljazeera.com/video/inside-story/2026/10/5/can-yemen-retake-territory-seized-by-houthis?traffic_source=rss",
-      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say"
-     ]
-    },
-    {
-     "date": "2026-10-06",
-     "headline": "Saudi-backed Yemeni forces expel the Houthis from several areas around key strait, officials say",
-     "sources": 2,
-     "score": 41,
-     "event_id": "b958bdde2297",
-     "links": [
-      "https://www.france24.com/en/saudi-backed-yemeni-forces-expel-the-houthis-from-several-areas-around-key-strait-officials-say",
-      "https://www.investing.com/news/commodities-news/yemeni-government-forces-seize-district-by-bab-elmandeb-military-sources-say-4931376"
-     ]
-    },
-    {
-     "date": "2026-10-07",
-     "headline": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
-     "sources": 2,
-     "score": 50,
-     "event_id": "b44b08189279",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
-     "sources": 1,
-     "score": 42,
-     "event_id": "8ac4f979d690",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-     "sources": 2,
-     "score": 50,
-     "event_id": "f17ae9a73257",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-     "sources": 3,
-     "score": 56,
-     "event_id": "96e0059faecd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/9/saudi-arabia-reopens-riyadh-airport-after-houthi-attack-kills-three?traffic_source=rss",
-      "https://www.france24.com/en/video/20261009-houthi-strikes-on-riyadh-airport-killed-three-saudis-as-war-escalates"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "Yemen's Houthis claim strikes on Aden, Riyadh airports",
-     "sources": 2,
-     "score": 46,
-     "event_id": "5808d99edbb7",
-     "links": [
-      "https://www.dw.com/en/yemen-s-houthis-claim-strikes-on-aden-riyadh-airports/a-79571321?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-10",
-     "headline": "Saudi Arabia suspends operations at Riyadh airport after an attack causes multiple injuries",
-     "sources": 3,
-     "score": 53,
-     "event_id": "a35bb8180e8c",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3581328646f8",
-     "links": [
-      "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
-      "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
-     "sources": 2,
-     "score": 42,
-     "event_id": "dcc48233c883",
-     "links": [
-      "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
-      "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Saudi Arabia: 12 killed, hundreds injured in Riyadh airport attack",
-     "sources": 2,
-     "score": 42,
-     "event_id": "09ea0a7a9571",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20261011-riyadh-airport-strike-kills-12-saudi-arabia-threatens-decisive-response"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
-     "sources": 2,
-     "score": 41,
-     "event_id": "4d155da59089",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway"
-     ]
-    },
-    {
-     "date": "2026-10-11",
-     "headline": "Yemen's Houthis warn passengers not to use Saudi airports",
-     "sources": 3,
-     "score": 60,
-     "event_id": "d4fd36f35bd9",
-     "links": [
-      "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
-      "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Saudi Arabia: Second strike kills at least 1 at Riyadh airport",
-     "sources": 2,
-     "score": 43,
-     "event_id": "5611b93eb435",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/middle-east/20261012-houthi-strike-riyadh-airport-yemen"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Saudi Arabia: Riyadh airport struck again by Yemen's Houthis",
-     "sources": 2,
-     "score": 52,
-     "event_id": "8a7ec0826a1f",
-     "links": [
-      "https://www.france24.com/en/saudi-arabia-riyadh-airport-struck-again-by-yemen-s-houthis",
-      "https://www.france24.com/en/middle-east/20261012-live-saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-after-deadly-houthi-attacks",
-      "https://www.aljazeera.com/sports/2026/10/12/alvarez-vs-mbilli-boxing-bout-to-go-ahead-in-saudi-arabia-despite-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "Saudi Arabia: Deadly Houthi strikes on Riyadh airport fuel fears of wider Middle East conflict",
-     "sources": 3,
-     "score": 64,
-     "event_id": "da1b9627385a",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-deadly-houthi-strikes-on-riyadh-airport-fuel-fears-of-wider-middle-east-conflict/live-79639277?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/saudi-arabia-extends-riyadh-aiport-suspension-vows-deadly-response-to-houthis-strikes",
-      "https://www.cnbc.com/2026/10/12/delta-riyadh-nonstop-service-delay.html"
-     ]
-    },
-    {
-     "date": "2026-10-12",
-     "headline": "How exposed is Saudi Arabia? Yemen's Houthis scale up drone and missile attacks",
-     "sources": 2,
-     "score": 48,
-     "event_id": "df06a837dc2b",
-     "links": [
-      "https://www.france24.com/en/tv-shows/the-debate/20261012-how-exposed-is-saudi-arabia-yemen-s-houthis-scale-up-drone-and-missile-attacks",
-      "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
-      "https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Houthis threaten Saudi Arabia’s Aramco facilities and airports",
-     "sources": 2,
-     "score": 50,
-     "event_id": "a9fd93822637",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20261013-oil-facility-near-yemen-capital-sanaa-hit-by-saudi-arabia-houthis-say",
-      "https://www.france24.com/en/middle-east/20261013-french-embassy-in-riyadh-tells-citizens-to-avoid-saudi-airports-targeted-by-houthis"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Saudi Arabia strikes oil depots in Yemen as conflict with Houthis escalates",
-     "sources": 2,
-     "score": 44,
-     "event_id": "3da26f09f6ff",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
-      "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Houthi missiles intercepted over Saudi Arabia as battles intensify",
-     "sources": 2,
-     "score": 52,
-     "event_id": "df452091ea46",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/10/14/houthi-missiles-intercepted-over-saudi-arabia-as-battles-intensify?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
-      "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Houthis say targeted Saudi oil giant Aramco, vow more attacks",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9e6334d33a16",
-     "links": [
-      "https://www.france24.com/en/video/20261014-houthis-say-targeted-saudi-oil-giant-aramco-vow-more-attacks",
-      "https://www.investing.com/news/stock-market-news/yemens-houthis-vow-more-attacks-on-saudi-airports-oil-facilities-after-aramco-hq-hit-4949648"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
-     "sources": 2,
-     "score": 44,
-     "event_id": "168af5f2abe2",
-     "links": [
-      "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
-      "https://www.france24.com/en/middle-east/20261015-houthis-deny-targeting-holy-city-medina-after-saudi-arabia-says-intercepted-missile"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Middle East updates: Houthis target Yemen government palace in Aden",
-     "sources": 2,
-     "score": 42,
-     "event_id": "9ec96211d71f",
-     "links": [
-      "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-15",
-     "headline": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-     "sources": 2,
-     "score": 45,
-     "event_id": "76de81fb62e3",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "https://www.france24.com/en/middle-east/20261015-houthi-attack-on-palace-used-by-yemen-government-in-aden-kills-five"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
-     "sources": 2,
-     "score": 45,
-     "event_id": "a07b489c718f",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
-      "https://www.theguardian.com/sport/2026/oct/17/houthi-conflict-casts-shadow-as-saudi-arabia-scales-back-sporting-pipe-dreams"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
-     "sources": 2,
-     "score": 44,
-     "event_id": "c4c3730905e3",
-     "links": [
-      "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Houthi strike on Yemen government military camp kills at least 50",
-     "sources": 2,
-     "score": 48,
-     "event_id": "e221d5b35916",
-     "links": [
-      "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/19/dozens-killed-after-houthi-strike-on-military-camp-in-shabwa?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-     "sources": 2,
-     "score": 50,
-     "event_id": "713f2e047f06",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a2f4bcccbdec",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Saudi Arabia cancels 2026 ‘Davos in the Desert’ amid Houthi attacks",
-     "sources": 2,
-     "score": 44,
-     "event_id": "2f0e5dac1fd6",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/20/saudi-arabia-cancels-2026-davos-in-the-desert-amid-houthi-attacks?traffic_source=rss",
-      "https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-     "sources": 3,
-     "score": 50,
-     "event_id": "20b965f0a69e",
-     "links": [
-      "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-      "https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html",
-      "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
-     "sources": 3,
-     "score": 58,
-     "event_id": "9db7d2d08a6e",
-     "links": [
-      "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
-      "https://www.france24.com/en/egypt-mulls-joining-saudi-arabia-in-war-against-houthis",
-      "https://www.aljazeera.com/news/2026/10/21/ww1-to-houthis-british-jets-for-saudi-arabia-build-on-long-military-bond?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
-     "sources": 3,
-     "score": 62,
-     "event_id": "286892780cea",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
-      "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
-      "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
-     "sources": 2,
-     "score": 49,
-     "event_id": "f45303cfc40f",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
-      "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Maritime and port workers: how is the Middle East conflict affecting you?",
-     "sources": 2,
-     "score": 45,
-     "event_id": "543863fdee3d",
-     "links": [
-      "https://www.theguardian.com/business/2026/mar/04/maritime-and-port-workers-how-is-the-middle-east-conflict-affecting-you",
-      "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/22/us-ambassador-to-turkiye-rethinking-us-role-in-the-middle-east?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
-     "sources": 2,
-     "score": 44,
-     "event_id": "e74ce2d51380",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-     "sources": 2,
-     "score": 43,
-     "event_id": "250c5583ffcd",
-     "links": [
-      "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
-      "https://www.investing.com/news/economy-news/yemens-houthis-renew-threat-against-riyadh-airport-as-flights-set-to-resume-4971006"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
-     "sources": 2,
-     "score": 44,
-     "event_id": "acf02c7de9a8",
-     "links": [
-      "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-rdf",
-      "https://www.investing.com/news/commodities-news/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues-4971080"
-     ]
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-     "sources": 2,
-     "score": 43,
-     "event_id": "bfabd481a216",
-     "links": [
-      "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-      "https://www.investing.com/news/stock-market-news/saudi-arabia-stocks-lower-at-close-of-trade-tadawul-all-share-down-265-4971175"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Asian Cup postponed in wake of attacks on Saudi Arabia",
+     "date": "2026-11-16",
+     "headline": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
      "sources": 4,
-     "score": 62,
-     "event_id": "bfad2b5951c1",
+     "score": 60,
+     "event_id": "d9d15d9b143f",
      "links": [
-      "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/nov/03/2027-asian-cup-saudi-arabia-postponed-conflict-middle-east"
+      "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+      "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down"
      ]
-    },
+    }
+   ]
+  },
+  {
+   "id": "36a40186da76",
+   "title": "What has changed in James Bond films over the decades",
+   "section": "world",
+   "entities": [
+    "james",
+    "bond"
+   ],
+   "event_ids": [
+    "36a40186da76"
+   ],
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "timeline": [
     {
-     "date": "2026-11-07",
-     "headline": "Houthis say at least 25 killed in Saudi air strike",
-     "sources": 2,
-     "score": 40,
-     "event_id": "b3534df0c874",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-08",
-     "headline": "Saudi Aramco building in Riyadh damaged after attempted attack",
-     "sources": 2,
-     "score": 40,
-     "event_id": "33ffd3457e0f",
-     "links": [
-      "https://www.cnbc.com/2026/11/08/saudi-aramco-riyadh-building-attack.html",
-      "https://www.investing.com/news/economy-news/saudi-aramco-riyadh-office-hit-as-houthi-missiles-target-kingdom-5010189"
-     ]
-    },
-    {
-     "date": "2026-11-08",
-     "headline": "Yemen's Houthis claim attack on Aramco skyscraper in Riyadh",
-     "sources": 2,
-     "score": 44,
-     "event_id": "a4c834776699",
-     "links": [
-      "https://www.france24.com/en/middle-east/20261108-yemen-s-houthis-claim-attack-on-aramco-building-in-riyadh-s-financial-district",
-      "https://www.investing.com/news/commodities-news/saudi-aramco-building-in-riyadh-damaged-by-falling-debris-after-attempted-attack-ministry-says-5010175"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
-     "sources": 2,
-     "score": 48,
-     "event_id": "73acf381ec21",
-     "links": [
-      "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
-      "https://www.france24.com/en/video/20261109-saudi-arabia-intercepts-houthi-missiles-as-riyadh-s-aramco-building-damaged"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
-     "sources": 2,
-     "score": 45,
-     "event_id": "ffbf3e965da6",
-     "links": [
-      "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
-      "https://www.investing.com/news/stock-market-news/wall-st-futures-mixed-amid-ai-spending-concerns-inflation-data-awaited-5010386"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right",
-     "sources": 2,
-     "score": 52,
-     "event_id": "803a549014c5",
-     "links": [
-      "https://www.cnbc.com/2026/11/09/cnbcs-the-china-connection-newsletter-wall-street-dips-in-again.html",
-      "https://www.scmp.com/business/markets/article/3373745/can-hong-kong-hold-its-ground-nasdaq-brings-wall-street-asian-hours",
-      "https://www.cnbc.com/2026/11/09/nvidias-china-revenue-exposure-what-new-street-estimates-.html"
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
-     "sources": 3,
-     "score": 54,
-     "event_id": "12b449161b78",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-      "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain",
-      "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Iran targets US military base in Bahrain with drone attack",
+     "date": "2026-11-16",
+     "headline": "What has changed in James Bond films over the decades",
      "sources": 3,
      "score": 59,
-     "event_id": "c7e011fee4e7",
+     "event_id": "36a40186da76",
      "links": [
-      "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Iran launches drone attacks against US military base in Bahrain",
-     "sources": 2,
-     "score": 40,
-     "event_id": "2b743f026fc3",
-     "links": [
-      "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
-      "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
+      "https://www.dw.com/en/what-has-changed-in-james-bond-films-over-the-decades/a-63332001?maca=en-rss-en-all-1573-rdf",
+      "https://www.dw.com/en/british-actor-robert-pattinson-confirmed-as-new-james-bond/a-79961789?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html"
      ]
     }
    ]
@@ -6203,59 +6874,6 @@
      "links": [
       "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
       "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "0cb440044f5c",
-   "title": "Tesla shares are falling after Cybercab event. What analysts are saying",
-   "section": "business",
-   "entities": [
-    "tesla",
-    "cybercab"
-   ],
-   "event_ids": [
-    "0cb440044f5c",
-    "49d295514768",
-    "3fdf29b5c4ea"
-   ],
-   "first_seen": "2026-09-04",
-   "last_seen": "2026-11-14",
-   "timeline": [
-    {
-     "date": "2026-09-04",
-     "headline": "Tesla shares are falling after Cybercab event. What analysts are saying",
-     "sources": 3,
-     "score": 55,
-     "event_id": "0cb440044f5c",
-     "links": [
-      "https://www.cnbc.com/2026/09/04/tesla-shares-are-falling-after-cybercab-event-what-analysts-are-saying.html",
-      "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
-      "https://www.investing.com/news/stock-market-news/analysismusk-pushes-regulatory-limits-with-teslas-cybercab-robotaxi-service-4889800"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "The unusually muted Tesla Cybercab launch",
-     "sources": 3,
-     "score": 50,
-     "event_id": "49d295514768",
-     "links": [
-      "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
-      "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
-      "https://www.investing.com/news/stock-market-news/teslas-cybercab-event-set-for-thursday-with-few-details-4887402"
-     ]
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-     "sources": 2,
-     "score": 40,
-     "event_id": "3fdf29b5c4ea",
-     "links": [
-      "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-      "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/"
      ]
     }
    ]
@@ -10421,292 +11039,6 @@
    ]
   },
   {
-   "id": "e138211becc3",
-   "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-   "section": "tech",
-   "entities": [
-    "ai-powered",
-    "carbon",
-    "flash",
-    "robotics",
-    "hydrogen",
-    "asimov-jailbreak",
-    "monday",
-    "introducing",
-    "transcribe",
-    "black",
-    "meet",
-    "avatar",
-    "cyber",
-    "argon",
-    "google",
-    "googlebook",
-    "gemini",
-    "friday",
-    "deepmind",
-    "flash-lite",
-    "developing"
-   ],
-   "event_ids": [
-    "e138211becc3",
-    "cf3951101d71",
-    "b0c60d5e22ba",
-    "29ae84aa2a01",
-    "b27fb7cf6534",
-    "b6a7c3b080e8",
-    "26792917d6d7",
-    "ee9698a7fdb9",
-    "f79a067193d7",
-    "556e1e4b03fe",
-    "47672f48bba9",
-    "884ebf3c3978",
-    "471508c04c30",
-    "edd884e3eb65",
-    "e7107d9a76d9",
-    "bfd6acefc1fb",
-    "2cb9d43acd5a",
-    "004c51f512e0",
-    "0b2e1c02de47",
-    "77a7ce670b8c"
-   ],
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-11-12",
-   "timeline": [
-    {
-     "date": "2026-08-26",
-     "headline": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
-     "sources": 4,
-     "score": 59,
-     "event_id": "e138211becc3",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-      "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/"
-     ]
-    },
-    {
-     "date": "2026-08-26",
-     "headline": "Google announces Gemini 3.7 Flash just three weeks after previous release",
-     "sources": 2,
-     "score": 42,
-     "event_id": "cf3951101d71",
-     "links": [
-      "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
-      "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/"
-     ]
-    },
-    {
-     "date": "2026-09-02",
-     "headline": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-     "sources": 3,
-     "score": 49,
-     "event_id": "b0c60d5e22ba",
-     "links": [
-      "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
-     ]
-    },
-    {
-     "date": "2026-09-04",
-     "headline": "Video Friday: Meet Google DeepMind’s Gemini Robotics 2",
-     "sources": 2,
-     "score": 44,
-     "event_id": "29ae84aa2a01",
-     "links": [
-      "https://spectrum.ieee.org/video-robot-gemini2-ai-robot",
-      "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Google says its Gemini AI model hacked three other companies",
-     "sources": 2,
-     "score": 51,
-     "event_id": "b27fb7cf6534",
-     "links": [
-      "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
-      "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html"
-     ]
-    },
-    {
-     "date": "2026-09-19",
-     "headline": "Google’s Gemini is the latest AI model to hack other companies",
-     "sources": 3,
-     "score": 46,
-     "event_id": "b6a7c3b080e8",
-     "links": [
-      "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
-     ]
-    },
-    {
-     "date": "2026-09-21",
-     "headline": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-     "sources": 3,
-     "score": 54,
-     "event_id": "26792917d6d7",
-     "links": [
-      "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-      "https://www.theverge.com/tech/997986/google-googlebooks-android-laptops-dell-hp-lenovo-acer-asus-price-specs"
-     ]
-    },
-    {
-     "date": "2026-09-24",
-     "headline": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
-     "sources": 3,
-     "score": 46,
-     "event_id": "ee9698a7fdb9",
-     "links": [
-      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Google confirms Gemini models hacked three companies in May 2026",
-     "sources": 2,
-     "score": 45,
-     "event_id": "f79a067193d7",
-     "links": [
-      "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
-     ]
-    },
-    {
-     "date": "2026-09-30",
-     "headline": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
-     "sources": 6,
-     "score": 72,
-     "event_id": "556e1e4b03fe",
-     "links": [
-      "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-      "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
-      "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "Google brings agentic AI to Gemini, starting with businesses",
-     "sources": 2,
-     "score": 40,
-     "event_id": "47672f48bba9",
-     "links": [
-      "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "https://www.cnbc.com/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up.html"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Gemini 4 Argon for Robotics",
-     "sources": 5,
-     "score": 80,
-     "event_id": "884ebf3c3978",
-     "links": [
-      "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
-     ]
-    },
-    {
-     "date": "2026-10-13",
-     "headline": "Developing Gemini 4 Argon responsibly and safely",
-     "sources": 2,
-     "score": 40,
-     "event_id": "471508c04c30",
-     "links": [
-      "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-     "sources": 1,
-     "score": 40,
-     "event_id": "edd884e3eb65",
-     "links": [
-      "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-      "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Introducing Gemini 3.8 Live with Live Avatar",
-     "sources": 1,
-     "score": 40,
-     "event_id": "e7107d9a76d9",
-     "links": [
-      "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
-     "sources": 6,
-     "score": 71,
-     "event_id": "bfd6acefc1fb",
-     "links": [
-      "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-      "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-      "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "How to shop like a pro during Black Friday and Cyber Monday",
-     "sources": 1,
-     "score": 48,
-     "event_id": "2cb9d43acd5a",
-     "links": [
-      "https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find",
-      "https://www.theverge.com/21569881/black-friday-deals-start-time-hours-cyber-monday-stores",
-      "https://www.theverge.com/gadgets/1024433/black-friday-2026-giveaway-sweepstakes"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-     "sources": 2,
-     "score": 42,
-     "event_id": "004c51f512e0",
-     "links": [
-      "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Gemini 4 Carbon is now available",
-     "sources": 3,
-     "score": 47,
-     "event_id": "0b2e1c02de47",
-     "links": [
-      "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-      "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
-     ]
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-     "sources": 3,
-     "score": 57,
-     "event_id": "77a7ce670b8c",
-     "links": [
-      "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "84ce4047c1c5",
    "title": "Hong Kong's Tiananmen activists guilty in national security trial",
    "section": "world",
@@ -11346,240 +11678,6 @@
      "links": [
       "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
       "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "2c2b2700dd7b",
-   "title": "Microsoft Patches a Record 570 Security Flaws",
-   "section": "safety",
-   "entities": [
-    "execute",
-    "group",
-    "lazarus",
-    "record",
-    "vulnerabilities",
-    "security",
-    "flaw",
-    "linux",
-    "software",
-    "keys",
-    "drupal",
-    "malicious",
-    "critical",
-    "microsoft",
-    "backdoors",
-    "highly",
-    "lets",
-    "days",
-    "within",
-    "sshole",
-    "bluetooth",
-    "hours",
-    "weaponized",
-    "code",
-    "cisco",
-    "privacy",
-    "pairing",
-    "clones",
-    "patches",
-    "execution",
-    "palo",
-    "chat",
-    "apple",
-    "flaws",
-    "remote",
-    "actively",
-    "commerce",
-    "repositories",
-    "arista",
-    "siemens"
-   ],
-   "event_ids": [
-    "2c2b2700dd7b",
-    "42a9e60af11b",
-    "838b4b1ce253",
-    "29d08fa787d9",
-    "aabd8e14b270",
-    "cf5c346fcefd",
-    "7325900e53d9",
-    "6d2a0802c49f",
-    "f4eff089be53",
-    "3e6bc640da57",
-    "a40dff3d749a",
-    "d7669d6db99e",
-    "b86930e18372",
-    "83d130e7ba9f",
-    "ba7507c6f20e"
-   ],
-   "first_seen": "2026-08-10",
-   "last_seen": "2026-11-11",
-   "timeline": [
-    {
-     "date": "2026-08-10",
-     "headline": "Microsoft Patches a Record 570 Security Flaws",
-     "sources": 2,
-     "score": 56,
-     "event_id": "2c2b2700dd7b",
-     "links": [
-      "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-      "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-     "sources": 1,
-     "score": 46,
-     "event_id": "42a9e60af11b",
-     "links": [
-      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-      "https://thehackernews.com/2026/10/american-organizations-under-attack.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-     "sources": 1,
-     "score": 44,
-     "event_id": "838b4b1ce253",
-     "links": [
-      "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html"
-     ]
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-     "sources": 1,
-     "score": 44,
-     "event_id": "29d08fa787d9",
-     "links": [
-      "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-     "sources": 1,
-     "score": 44,
-     "event_id": "aabd8e14b270",
-     "links": [
-      "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-      "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-     "sources": 2,
-     "score": 50,
-     "event_id": "cf5c346fcefd",
-     "links": [
-      "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-     "sources": 1,
-     "score": 46,
-     "event_id": "7325900e53d9",
-     "links": [
-      "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-     "sources": 1,
-     "score": 44,
-     "event_id": "6d2a0802c49f",
-     "links": [
-      "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
-     ]
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-     "sources": 1,
-     "score": 44,
-     "event_id": "f4eff089be53",
-     "links": [
-      "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-      "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
-     ]
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-     "sources": 1,
-     "score": 44,
-     "event_id": "3e6bc640da57",
-     "links": [
-      "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-      "https://thehackernews.com/2026/11/attackers-target-unpatched.html"
-     ]
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-     "sources": 1,
-     "score": 44,
-     "event_id": "a40dff3d749a",
-     "links": [
-      "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html"
-     ]
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-     "sources": 2,
-     "score": 52,
-     "event_id": "d7669d6db99e",
-     "links": [
-      "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
-      "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html"
-     ]
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-     "sources": 1,
-     "score": 44,
-     "event_id": "b86930e18372",
-     "links": [
-      "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html"
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Microsoft Patches More Than 1,400 Security Flaws",
-     "sources": 2,
-     "score": 48,
-     "event_id": "83d130e7ba9f",
-     "links": [
-      "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-      "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html"
-     ]
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-     "sources": 1,
-     "score": 44,
-     "event_id": "ba7507c6f20e",
-     "links": [
-      "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html"
      ]
     }
    ]
@@ -23598,5 +23696,5 @@
    ]
   }
  ],
- "updated": "2026-11-16T15:28:15+00:00"
+ "updated": "2026-11-16T18:22:09+00:00"
 }

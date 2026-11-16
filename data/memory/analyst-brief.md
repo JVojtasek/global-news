@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-16
 
-Paměť obsahuje **203 vláken**. Aktivních za posledních 14 dní: **64**.
+Paměť obsahuje **205 vláken**. Aktivních za posledních 14 dní: **64**.
 
 ---
 
@@ -9,7 +9,6 @@ Paměť obsahuje **203 vláken**. Aktivních za posledních 14 dní: **64**.
 ### Israel rejects Trump's 15-point plan for Gaza, Netanyahu says
 - rubrika `world` · sledováno 99 dní · 60 záznamů
 - časová osa:
-  - **2026-11-12** (2 zdrojů) England vs Croatia: UEFA Nations League – preview, team news, predictions
   - **2026-11-12** (2 zdrojů) Police to target 500 chronic shoplifters in retail crime crackdown in England and Wales
   - **2026-11-14** (2 zdrojů) Spain vs England: UEFA Nations League – predictions, how to watch, teams
   - **2026-11-14** (2 zdrojů) Spain test will reveal if Tuchel and England have learned World Cup lessons
@@ -19,11 +18,11 @@ Paměť obsahuje **203 vláken**. Aktivních za posledních 14 dní: **64**.
   - **2026-11-15** (2 zdrojů) Four in a row - Australia win women's rugby league World Cup again
   - **2026-11-15** (2 zdrojů) What Wales need to stay in Nations League top tier
   - **2026-11-16** (3 zdrojů) How did England cling on against Spain and what did Tuchel do differently?
+  - **2026-11-16** (2 zdrojů) LIVE: Germany vs Netherlands – UEFA Nations League
 
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 98 dní · 60 záznamů
 - časová osa:
-  - **2026-11-13** (7 zdrojů) US Senate asks Huang, Lutnick to testify on Nvidia
   - **2026-11-13** (3 zdrojů) Nvidia scandal: Was Alice Huang really a Chinese spy?
   - **2026-11-13** (4 zdrojů) Let’s talk about Jensen Huang’s many affairs!
   - **2026-11-13** (6 zdrojů) What’s really at stake in the Jensen Huang saga
@@ -33,6 +32,7 @@ Paměť obsahuje **203 vláken**. Aktivních za posledních 14 dní: **64**.
   - **2026-11-16** (2 zdrojů) Why Silicon Valley is backing Nvidia ex-CEO Jensen Huang after his ouster
   - **2026-11-16** (5 zdrojů) Jensen Huang allies build a "war room" to get him back at Nvidia
   - **2026-11-16** (4 zdrojů) Trump says Nvidia scandal did not put U.S. national security ‘at risk,’ defends Lutnick
+  - **2026-11-16** (7 zdrojů) Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 99 dní · 60 záznamů
@@ -49,10 +49,8 @@ Paměť obsahuje **203 vláken**. Aktivních za posledních 14 dní: **64**.
   - **2026-11-16** (3 zdrojů) Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war
 
 ### Saudi Arabia, Turkey and Pakistan sign defence pact
-- rubrika `world` · sledováno 98 dní · 60 záznamů
+- rubrika `world` · sledováno 99 dní · 60 záznamů
 - časová osa:
-  - **2026-11-03** (4 zdrojů) Asian Cup postponed in wake of attacks on Saudi Arabia
-  - **2026-11-07** (2 zdrojů) Houthis say at least 25 killed in Saudi air strike
   - **2026-11-08** (2 zdrojů) Saudi Aramco building in Riyadh damaged after attempted attack
   - **2026-11-08** (2 zdrojů) Yemen's Houthis claim attack on Aramco skyscraper in Riyadh
   - **2026-11-09** (2 zdrojů) Syria confirms sending troops to Saudi Arabia amid battle against Houthis
@@ -61,6 +59,8 @@ Paměť obsahuje **203 vláken**. Aktivních za posledních 14 dní: **64**.
   - **2026-11-15** (3 zdrojů) Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live
   - **2026-11-15** (3 zdrojů) Iran targets US military base in Bahrain with drone attack
   - **2026-11-15** (2 zdrojů) Iran launches drone attacks against US military base in Bahrain
+  - **2026-11-16** (2 zdrojů) Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’
+  - **2026-11-16** (2 zdrojů) Three sentenced to death over Jordan church attack
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 87 dní · 60 záznamů
