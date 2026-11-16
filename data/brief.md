@@ -37,7 +37,42 @@
   - **Investing.com** — Trump backs potential return of Jensen Huang as Nvidia CEO
     <https://www.investing.com/news/stock-market-news/trump-says-he-would-not-mind-huang-being-reinstated-as-nvidia-ceo-5030546>
 
-### 2. SpaceX catches part of its Starship rocket on return to Earth
+### 2. The open-source movement wants Jensen Huang back
+- id události: `9c493a96e3fa`  ·  rubrika: `ai`  ·  skóre: 83  ·  nezávislých zdrojů: 7
+- **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
+- Zdroje:
+  - **MIT TR — AI** — The open-source movement wants Jensen Huang back
+    <https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/>
+    > This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signa
+  - **MIT Tech Review** — The open-source movement wants Jensen Huang back
+    <https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/>
+    > This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signa
+  - **Guardian Business** — Trump says he 'would not mind' if Jensen Huang returns to Nvidia – video
+    <https://www.theguardian.com/us-news/video/2026/nov/16/trump-would-not-mind-if-jensen-huang-returns-to-nvidia-video>
+    > Donald Trump has expressed support for the return of Jensen Huang and has said he 'would not mind' Huang being reinstated as Nvidia's CEO. Huang resigned last week after admitting to an affair with a woman believed to be a Chinese intelligence asset Trump backs calls for reinstat
+  - **TechCrunch** — Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security
+    <https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/>
+    > Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.
+  - **CNBC Top** — Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk
+    <https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html>
+    > President Trump told reporters before departing for a trip to Asia that former Nvidia CEO Jensen Huang's affair did not put U.S. national security at risk.
+  - **The Verge AI** — Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back
+    <https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back>
+    > Nvidia's board of directors "isn't considering" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board "is focused on an investigation into Huang, and is not in discussions to bring him back." Since Huang's resignation last week, t
+  - **TechCrunch** — Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’
+    <https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/>
+    > OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.
+  - **SCMP Tech (Čína)** — Like Apple after Steve Jobs? Analysts debate Nvidia’s post-Jensen Huang future
+    <https://www.scmp.com/tech/big-tech/article/3374421/apple-after-steve-jobs-analysts-debate-nvidias-post-jensen-huang-future>
+    > As the technology world debates how Nvidia is likely to fare without Jensen Huang, analysts keep returning to the same analogy: the departure of legendary CEO Steve Jobs from Apple. The similarities between the two cases are clear: a top American tech company forced to move on fr
+  - **SCMP Tech (Čína)** — Jensen Huang’s abrupt exit stuns Nvidia’s China staff, clouding the outlook in a key market
+    <https://www.scmp.com/tech/big-tech/article/3374316/jensen-huangs-abrupt-exit-stuns-nvidias-china-staff-clouding-outlook-key-market>
+    > Jensen Huang’s abrupt resignation stunned some Nvidia staff in China and raised questions about the future of the US chipmaker’s operations in a market its co-founder had spent years cultivating, according to company sources. “It’s the end of an era. I really don’t understand why
+  - **SCMP Tech (Čína)** — ‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight
+    <https://www.scmp.com/tech/article/3374131/nvidia-shares-plunge-after-hours-trading-concerns-about-ceo-jensen-huang-intensify>
+    > Nvidia shares fell more than 8 per cent at one point in US after-hours trading on Wednesday as CEO Jensen Huang’s prospects of hanging onto his role became more clouded after media reports of a board meeting and another extramarital affair. The drop in the American AI chip giant’
+
+### 3. SpaceX catches part of its Starship rocket on return to Earth
 - id události: `4443d0813e25`  ·  rubrika: `world`  ·  skóre: 81  ·  nezávislých zdrojů: 7
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
@@ -65,50 +100,28 @@
     <https://www.spacex.com/launches/starship-flight-15>
     > https://x.com/SpaceX/status/2121316300702056595 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 504 # Comments: 308
 
-### 3. FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia
-- id události: `dd0fd43506cb`  ·  rubrika: `world`  ·  skóre: 77  ·  nezávislých zdrojů: 5
-- **depth: `scripture`** — závěrečná vrstva pracuje s biblickým textem
-- Zdroje:
-  - **NPR News** — FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia
-    <https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip>
-    > U.S. Transportation Secretary Sean Duffy said that things could be back to normal at the end of Monday after an FAA ground stop disrupted flights. And, Trump heads to Asia for a high-profile trilateral summit.
-  - **The Guardian World** — Trump to embark on Asia trip in apparent foreign policy push before end of term
-    <https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy>
-    > Experts say US president may lean toward global affairs after domestic influence curtailed in midterm elections Donald Trump is embarking on his first overseas trip since his Republican party’s thumping midterm repudiation by US voters, in what may herald a renewed focus on forei
-  - **NPR News** — Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout
-    <https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia>
-    > The trip to China marks Trump's second time this year, and comes as the president and his party faced widespread backlash from voters in the recent midterm elections.
-  - **The Verge** — Senator slams Commerce Secretary for flow of Nvidia AI chips to China
-    <https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick>
-    > Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia's AI chips away from China. In a letter to
-  - **France 24** — Xi, Trump and Putin to discuss 'world peace' at Shenzhen summit, China says
-    <https://www.france24.com/en/asia-pacific/20261116-xi-trump-putin-discuss-world-peace-shenzhen-summit-china-says>
-    > The Chinese foreign ministry on Monday said that President Xi Jinping and his US and Russian counterparts Donald Trump and Vladimir Putin would discuss "safeguarding world peace and promoting strategic stability" when they hold their first trilateral summit in Shenzhen this week.
-  - **Investing.com** — Trump held up to $62m in Nvidia stock as of August - report
-    <https://www.investing.com/news/stock-market-news/trump-held-up-to-62m-in-nvidia-stock-as-of-august--report-5029333>
-
-### 4. Jensen Huang allies build a "war room" to get him back at Nvidia
-- id události: `c0787d91eb5d`  ·  rubrika: `ai`  ·  skóre: 77  ·  nezávislých zdrojů: 5
+### 4. When will we see Robert Pattinson as Bond in cinemas?
+- id události: `15bf1354bff8`  ·  rubrika: `culture`  ·  skóre: 79  ·  nezávislých zdrojů: 6
 - **depth: `open`** — závěrečná vrstva je obecně myšlenková, Bibli nezmiňuj
 - Zdroje:
-  - **Ars Technica** — Jensen Huang allies build a "war room" to get him back at Nvidia
-    <https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/>
-    > Huang is weighing a return just days after resigning amid a deepening scandal.
-  - **Ars Technica AI** — Jensen Huang allies build a "war room" to get him back at Nvidia
-    <https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/>
-    > Huang is weighing a return just days after resigning amid a deepening scandal.
-  - **CNBC Top** — Nvidia stock falls as investors price in fallout from Jensen Huang's resignation
-    <https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html>
-    > Nvidia's stock continued to slide on Monday following the resignation of CEO Jensen Huang.
-  - **France 24** — Musk among more than 150,000 calling for Jensen Huang's return to Nvidia
-    <https://www.france24.com/en/video/20261116-musk-among-more-than-150-000-calling-for-jensen-huang-s-return-to-nvidia>
-    > Could Jensen Huang make a stunning return to Nvidia just days after resigning as CEO of the AI chip giant over an affair with an alleged Chinese spy? The possibility is growing after Elon Musk and more than 158,000 others signed an open letter calling for Huang's reinstatement.
-  - **SCMP Tech (Čína)** — Like Apple after Steve Jobs? Analysts debate Nvidia’s post-Jensen Huang future
-    <https://www.scmp.com/tech/big-tech/article/3374421/apple-after-steve-jobs-analysts-debate-nvidias-post-jensen-huang-future>
-    > As the technology world debates how Nvidia is likely to fare without Jensen Huang, analysts keep returning to the same analogy: the departure of legendary CEO Steve Jobs from Apple. The similarities between the two cases are clear: a top American tech company forced to move on fr
-  - **SCMP Tech (Čína)** — Will Jensen Huang’s downfall tip the scales against open-source AI?
-    <https://www.scmp.com/tech/big-tech/article/3374376/will-jensen-huangs-downfall-tip-scales-against-open-source-ai>
-    > Jensen Huang’s abrupt resignation from Nvidia has cast uncertainty over the US chip giant’s multibillion-dollar investments in open-source artificial intelligence, while potentially depriving Chinese developers of one of their most influential advocates in Washington. His departu
+  - **BBC World** — When will we see Robert Pattinson as Bond in cinemas?
+    <https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss>
+    > Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.
+  - **BBC Entertainment** — Robert Pattinson to replace Daniel Craig as James Bond
+    <https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss>
+    > The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.
+  - **Ars Technica** — Meet the new James Bond: Robert Pattinson
+    <https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/>
+    > Producers cite "his fearlessness as an actor, his self-deprecating wit" and continual reinvention as factors.
+  - **Guardian Business** — The man with the golden touch: James Bond franchise is a money-spinner
+    <https://www.theguardian.com/film/2026/nov/16/man-with-golden-touch-james-bond-franchise-money-spinner>
+    > Big-screen debut of Ian Fleming’s creation in 1962, with Sean Connery as lead in Dr No, was start of marketing dream New James Bond announced ... and the name’s Pattinson, Robert Pattinson Share your thoughts on the casting Peter Bradshaw’s take Robert Pattinson’s journey to Jame
+  - **Guardian Culture** — The man with the golden touch: James Bond franchise is a money-spinner
+    <https://www.theguardian.com/film/2026/nov/16/man-with-golden-touch-james-bond-franchise-money-spinner>
+    > Big-screen debut of Ian Fleming’s creation in 1962, with Sean Connery as lead in Dr No, was start of marketing dream New James Bond announced ... and the name’s Pattinson, Robert Pattinson Share your thoughts on the casting Peter Bradshaw’s take Robert Pattinson’s journey to Jame
+  - **Al Jazeera** — British actor Robert Pattinson named as new James Bond
+    <https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss>
+    > The actor called the studio's decision a 'dream come true'.
 
 ---
 
@@ -117,8 +130,8 @@
 ### electric car battery
 - rubrika: `motoring`  ·  **depth: `open`**  ·  rozsah 1100–1900 slov
 - PODKLADY (3 stránek) jsou v `data/brief.json` pod `daily_assignment.sources`. **Piš z nich, ne z hlavy** — každé číslo a jméno v článku bude porovnáno s tímhle podkladem.
-  - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
   - Battery electric vehicle — <https://en.wikipedia.org/wiki/Battery_electric_vehicle>
+  - Electric vehicle battery — <https://en.wikipedia.org/wiki/Electric_vehicle_battery>
   - Electric car — <https://en.wikipedia.org/wiki/Electric_car>
 
 ---
@@ -175,7 +188,6 @@ rubrika: world · sledováno od 2026-08-09 · záznamů: 60
 ```
 VLÁKNO: OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
-  2026-11-12  (2 zdrojů, síla 40)  ‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight
   2026-11-12  (5 zdrojů, síla 75)  Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video
   2026-11-12  (6 zdrojů, síla 80)  Who could replace Jensen Huang as Nvidia's chief executive?
   2026-11-12  (11 zdrojů, síla 88)  Watch: The latest in the Jensen Huang Nvidia scandal
@@ -195,6 +207,7 @@ rubrika: ai · sledováno od 2026-08-10 · záznamů: 60
   2026-11-16  (5 zdrojů, síla 77)  Jensen Huang allies build a "war room" to get him back at Nvidia
   2026-11-16  (4 zdrojů, síla 56)  Trump says Nvidia scandal did not put U.S. national security ‘at risk,’ defends Lutnick
   2026-11-16  (7 zdrojů, síla 84)  Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO
+  2026-11-16  (7 zdrojů, síla 83)  The open-source movement wants Jensen Huang back
 ```
 
 ---

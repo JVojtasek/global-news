@@ -1,6 +1,6 @@
 # ANALYTICKÉ ZADÁNÍ — 2026-11-16
 
-Paměť obsahuje **205 vláken**. Aktivních za posledních 14 dní: **64**.
+Paměť obsahuje **207 vláken**. Aktivních za posledních 14 dní: **65**.
 
 ---
 
@@ -23,7 +23,6 @@ Paměť obsahuje **205 vláken**. Aktivních za posledních 14 dní: **64**.
 ### OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.
 - rubrika `ai` · sledováno 98 dní · 60 záznamů
 - časová osa:
-  - **2026-11-13** (3 zdrojů) Nvidia scandal: Was Alice Huang really a Chinese spy?
   - **2026-11-13** (4 zdrojů) Let’s talk about Jensen Huang’s many affairs!
   - **2026-11-13** (6 zdrojů) What’s really at stake in the Jensen Huang saga
   - **2026-11-13** (4 zdrojů) Jensen Huang was reckless with the environment, too
@@ -33,6 +32,7 @@ Paměť obsahuje **205 vláken**. Aktivních za posledních 14 dní: **64**.
   - **2026-11-16** (5 zdrojů) Jensen Huang allies build a "war room" to get him back at Nvidia
   - **2026-11-16** (4 zdrojů) Trump says Nvidia scandal did not put U.S. national security ‘at risk,’ defends Lutnick
   - **2026-11-16** (7 zdrojů) Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO
+  - **2026-11-16** (7 zdrojů) The open-source movement wants Jensen Huang back
 
 ### Hormuz talks positive, Oman says, as Iran warns deal would not open strait
 - rubrika `world` · sledováno 99 dní · 60 záznamů
@@ -51,7 +51,6 @@ Paměť obsahuje **205 vláken**. Aktivních za posledních 14 dní: **64**.
 ### Saudi Arabia, Turkey and Pakistan sign defence pact
 - rubrika `world` · sledováno 99 dní · 60 záznamů
 - časová osa:
-  - **2026-11-08** (2 zdrojů) Saudi Aramco building in Riyadh damaged after attempted attack
   - **2026-11-08** (2 zdrojů) Yemen's Houthis claim attack on Aramco skyscraper in Riyadh
   - **2026-11-09** (2 zdrojů) Syria confirms sending troops to Saudi Arabia amid battle against Houthis
   - **2026-11-09** (2 zdrojů) Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund
@@ -61,6 +60,7 @@ Paměť obsahuje **205 vláken**. Aktivních za posledních 14 dní: **64**.
   - **2026-11-15** (2 zdrojů) Iran launches drone attacks against US military base in Bahrain
   - **2026-11-16** (2 zdrojů) Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’
   - **2026-11-16** (2 zdrojů) Three sentenced to death over Jordan church attack
+  - **2026-11-16** (2 zdrojů) Saudi Arabia strategy challenged by anti-Houthi forces in Yemen
 
 ### Premier League to publish verdicts on referee and VAR decisions
 - rubrika `sport` · sledováno 87 dní · 60 záznamů

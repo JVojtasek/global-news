@@ -855,46 +855,46 @@
    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
    "section": "ai",
    "entities": [
-    "data",
-    "qubole's",
-    "nvidia's",
-    "scandal-hit",
-    "rowson",
-    "reward",
-    "face",
-    "labs",
-    "megaspeed",
-    "steal",
-    "senate",
-    "cyberattacks",
-    "goodfire",
-    "york",
-    "chinese",
-    "suspected",
+    "silicon",
+    "valley",
+    "unexpected",
+    "drove",
     "kleinman",
     "cnbc",
-    "huang",
-    "undone",
-    "suffers",
-    "assets",
+    "alibaba",
+    "exploit",
+    "senate",
     "amid",
-    "valley",
+    "rowson",
+    "steal",
+    "suspected",
+    "assets",
+    "york",
+    "cyberattacks",
+    "megaspeed",
+    "lutnick",
+    "china",
+    "reward",
+    "cyberattack",
+    "labs",
+    "nvidia",
+    "qubole's",
+    "data",
+    "goodfire",
+    "scandal-hit",
+    "alice",
     "trump",
     "martin",
+    "nvidia's",
+    "face",
+    "chinese",
+    "huang",
+    "undone",
+    "jensen",
+    "t-head",
     "trusted",
     "hegseth",
-    "t-head",
-    "unexpected",
-    "exploit",
-    "lutnick",
-    "alibaba",
-    "alice",
-    "cyberattack",
-    "silicon",
-    "drove",
-    "china",
-    "nvidia",
-    "jensen"
+    "suffers"
    ],
    "event_ids": [
     "7b46dd318f11",
@@ -971,23 +971,12 @@
     "4fd9a00d11a9",
     "c0787d91eb5d",
     "0ea83035fbfb",
-    "49a1ce094a2b"
+    "49a1ce094a2b",
+    "9c493a96e3fa"
    ],
    "first_seen": "2026-08-10",
    "last_seen": "2026-11-16",
    "timeline": [
-    {
-     "date": "2026-09-03",
-     "headline": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-     "sources": 4,
-     "score": 65,
-     "event_id": "f247281fba63",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/nvidia-to-buy-hugging-face-in-12-93-billion-deal/a-78883442?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
     {
      "date": "2026-09-04",
      "headline": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
@@ -1676,6 +1665,18 @@
       "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
       "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
       "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "The open-source movement wants Jensen Huang back",
+     "sources": 7,
+     "score": 83,
+     "event_id": "9c493a96e3fa",
+     "links": [
+      "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "https://www.theguardian.com/us-news/video/2026/nov/16/trump-would-not-mind-if-jensen-huang-returns-to-nvidia-video"
      ]
     }
    ]
@@ -2602,46 +2603,46 @@
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
    "section": "world",
    "entities": [
-    "tone",
-    "king",
-    "aramco",
-    "some",
-    "iran-backed",
-    "jordan",
-    "salman",
+    "ssisi",
     "attack",
-    "street",
-    "houthi",
-    "egypt's",
-    "bangladesh",
-    "arabia",
-    "riyadh",
-    "middle",
-    "davos",
-    "lucid",
-    "east",
-    "turkey",
-    "iran",
-    "yemen's",
-    "desert",
-    "gulf",
+    "wall",
+    "jordan",
     "cnbc's",
-    "israel-bound",
-    "president",
-    "somalia",
-    "york",
-    "asian",
-    "western",
+    "aramco",
+    "iran-backed",
+    "wolf",
+    "iran",
+    "arabia",
     "bahrain",
     "three",
-    "belfort",
-    "arabia's",
-    "trump",
-    "houthis",
-    "wall",
-    "wolf",
     "connection",
-    "ssisi"
+    "desert",
+    "arabia's",
+    "tone",
+    "belfort",
+    "yemen",
+    "york",
+    "bangladesh",
+    "egypt's",
+    "riyadh",
+    "saudi",
+    "street",
+    "somalia",
+    "gulf",
+    "houthis",
+    "davos",
+    "israel-bound",
+    "turkey",
+    "salman",
+    "trump",
+    "houthi",
+    "some",
+    "king",
+    "western",
+    "middle",
+    "lucid",
+    "east",
+    "president"
    ],
    "event_ids": [
     "d16d38017cfe",
@@ -2705,23 +2706,12 @@
     "c7e011fee4e7",
     "2b743f026fc3",
     "98a6b9391539",
-    "cf4a7f96091c"
+    "cf4a7f96091c",
+    "3a910931f160"
    ],
    "first_seen": "2026-08-09",
    "last_seen": "2026-11-16",
    "timeline": [
-    {
-     "date": "2026-09-16",
-     "headline": "Saudi Arabia warns of ‘red line’ after Houthi drone intercepted close to holy city of Mecca",
-     "sources": 3,
-     "score": 62,
-     "event_id": "86a5852bfef5",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/16/saudi-arabia-houthi-drone-shot-down-mecca-iran-middle-east",
-      "http://www.france24.com/en/middle-east/20260916-middle-east-live-saudi-arabia-accuses-houthi-rebels-of-launching-a-drone-strike-on-mecca",
-      "https://www.aljazeera.com/video/newsfeed/2026/9/16/saudi-arabia-cancels-oil-to-europe-over-east-west-pipeline-blast?traffic_source=rss"
-     ]
-    },
     {
      "date": "2026-09-16",
      "headline": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
@@ -3391,6 +3381,17 @@
       "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
       "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss"
      ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3a910931f160",
+     "links": [
+      "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+      "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss"
+     ]
     }
    ]
   },
@@ -3990,6 +3991,504 @@
    ]
   },
   {
+   "id": "87d62c77d066",
+   "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+   "section": "world",
+   "entities": [
+    "searching",
+    "tracking",
+    "wall",
+    "greenland",
+    "renoir",
+    "nato",
+    "airport",
+    "european",
+    "million",
+    "police",
+    "decoder",
+    "socks",
+    "french",
+    "looted",
+    "camille",
+    "affects",
+    "paintings",
+    "court",
+    "python",
+    "vehicle",
+    "lithuania",
+    "smoking",
+    "red's",
+    "were",
+    "norse",
+    "wildlife",
+    "major",
+    "behind",
+    "trafficking",
+    "hidden",
+    "annuls",
+    "peru",
+    "brotli",
+    "allegedly",
+    "sale",
+    "painting",
+    "gulf",
+    "huge",
+    "near",
+    "other"
+   ],
+   "event_ids": [
+    "87d62c77d066",
+    "16c614175ff1",
+    "5847bd600354",
+    "4f89836c1215",
+    "5650625ff0c7",
+    "3263aff4ed39",
+    "bfa030f1f411",
+    "cf6d90b7d356",
+    "0d0ab2de5779",
+    "acfbda7677cf",
+    "a1317b4ff430",
+    "cd28012b247a",
+    "b814a960e804",
+    "9e39130e88dd",
+    "72b1b0ac47d8",
+    "f74700a0c5c1",
+    "0ff76c15106b",
+    "ced850850efe",
+    "d09e5296340e",
+    "f24475a74667",
+    "721ce071533c",
+    "60c1d204b2f8",
+    "fef1e2c2f502",
+    "8d083b78259a",
+    "55d19e02d108",
+    "7531210b2282",
+    "00df4663cdd8",
+    "a7f7b3a35939",
+    "7604d8c4829b",
+    "480c4c18560b",
+    "c55f6bb1af02",
+    "643456b192e6",
+    "15f3ecd91311",
+    "a0a9e49aec28",
+    "5be949371768",
+    "2a4c731bd729"
+   ],
+   "first_seen": "2026-09-15",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-09-15",
+     "headline": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "87d62c77d066",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
+      "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+      "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion"
+     ]
+    },
+    {
+     "date": "2026-09-15",
+     "headline": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
+     "sources": 3,
+     "score": 66,
+     "event_id": "16c614175ff1",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
+      "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
+      "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
+     "sources": 3,
+     "score": 54,
+     "event_id": "5847bd600354",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260918-replay-macron-orders-plan-to-counter-russian-hybrid-attacks"
+     ]
+    },
+    {
+     "date": "2026-09-18",
+     "headline": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
+     "sources": 1,
+     "score": 42,
+     "event_id": "4f89836c1215",
+     "links": [
+      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+      "https://www.france24.com/en/video/20260918-france-s-macron-summons-party-leaders-for-talks-on-mideast-and-ukraine"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo visits France for first papal visit in 18 years – Europe live",
+     "sources": 3,
+     "score": 68,
+     "event_id": "5650625ff0c7",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
+      "https://www.france24.com/en/replay-pope-leo-xiv-arrives-in-france-for-four-day-visit",
+      "https://www.france24.com/en/pope-leo-xiv-s-france-visit-puts-macron-in-diplomatic-balancing-act"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "'Pope fever' takes hold as Pope Leo visits France",
+     "sources": 2,
+     "score": 42,
+     "event_id": "3263aff4ed39",
+     "links": [
+      "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260924-pope-leo-in-france-huge-amount-of-excitement-building-in-paris"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo XIV begins four-day pilgrimage to France",
+     "sources": 2,
+     "score": 58,
+     "event_id": "bfa030f1f411",
+     "links": [
+      "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-begins-paris-diplomacy-at-the-%C3%A9lys%C3%A9e",
+      "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
+     "sources": 4,
+     "score": 65,
+     "event_id": "cf6d90b7d356",
+     "links": [
+      "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
+      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf",
+      "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+     "sources": 2,
+     "score": 44,
+     "event_id": "0d0ab2de5779",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-09-25",
+     "headline": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
+     "sources": 1,
+     "score": 41,
+     "event_id": "acfbda7677cf",
+     "links": [
+      "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
+      "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Thousands turn out to greet Pope in France",
+     "sources": 4,
+     "score": 76,
+     "event_id": "a1317b4ff430",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
+      "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+     "sources": 2,
+     "score": 42,
+     "event_id": "cd28012b247a",
+     "links": [
+      "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+      "https://www.france24.com/en/france-pope-says-authentic-secularity-does-not-exclude-religion"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Paris: Pope Leo XIV to celebrate Mass before huge crowd",
+     "sources": 2,
+     "score": 64,
+     "event_id": "b814a960e804",
+     "links": [
+      "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/pope-leo-set-for-largest-event-of-france-tour-as-paris-crowds-swell",
+      "https://www.france24.com/en/video/20260926-pope-leo-xiv-to-celebrate-giant-paris-mass-after-peace-appeal"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Huge crowds greet Pope in Paris for open-air Mass",
+     "sources": 3,
+     "score": 67,
+     "event_id": "9e39130e88dd",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris"
+     ]
+    },
+    {
+     "date": "2026-09-26",
+     "headline": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
+     "sources": 3,
+     "score": 61,
+     "event_id": "72b1b0ac47d8",
+     "links": [
+      "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
+      "https://www.france24.com/en/france/20260926-a-once-in-a-lifetime-event-faithful-and-curious-flock-to-pope-leo-xiv-s-mass-in-paris",
+      "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
+     "sources": 2,
+     "score": 43,
+     "event_id": "f74700a0c5c1",
+     "links": [
+      "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
+      "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims"
+     ]
+    },
+    {
+     "date": "2026-09-27",
+     "headline": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
+     "sources": 2,
+     "score": 41,
+     "event_id": "0ff76c15106b",
+     "links": [
+      "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
+      "https://www.france24.com/en/france/20260927-live-pope-leo-xiv-to-hold-open-air-mass-in-lourdes-pilgrimage-site"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "🔴Follow live: France's Macron, Pope Leo XIV speak on European unity in Metz",
+     "sources": 1,
+     "score": 40,
+     "event_id": "ced850850efe",
+     "links": [
+      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit",
+      "https://www.france24.com/en/video/20260928-pope-to-speak-on-european-unity-on-last-day-of-france-visit",
+      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Pope wraps up 'hugely successful' France visit with Metz speech",
+     "sources": 1,
+     "score": 47,
+     "event_id": "d09e5296340e",
+     "links": [
+      "https://www.france24.com/en/video/20260928-pope-wraps-up-hugely-successful-france-visit-with-metz-speech",
+      "https://www.france24.com/en/video/20260928-replay-pope-urges-peace-and-unity-in-europe-on-final-day-of-france-visit",
+      "https://www.france24.com/en/video/20260928-replay-france-s-macron-speaks-on-european-union-as-pope-visits-metz"
+     ]
+    },
+    {
+     "date": "2026-09-28",
+     "headline": "Pope Leo to speak on EU integration from French border town of Metz",
+     "sources": 2,
+     "score": 41,
+     "event_id": "f24475a74667",
+     "links": [
+      "https://www.france24.com/en/france/20260928-pope-to-speak-on-united-eu-from-french-border-town",
+      "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-08",
+     "headline": "French high school protests continue despite PM’s promise of action – Europe live",
+     "sources": 2,
+     "score": 42,
+     "event_id": "721ce071533c",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
+      "https://www.france24.com/en/video/20261008-school-protests-part-of-a-broader-french-malaise"
+     ]
+    },
+    {
+     "date": "2026-10-09",
+     "headline": "France: Police clash with protesters at Paris student rally",
+     "sources": 2,
+     "score": 41,
+     "event_id": "60c1d204b2f8",
+     "links": [
+      "https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-14",
+     "headline": "Two Recently Stolen Renoir Paintings Were Found Hidden Behind a Cinderblock Wall. French Police Used DNA Evidence and Vehicle Tracking to Crack the Case",
+     "sources": 1,
+     "score": 44,
+     "event_id": "fef1e2c2f502",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/two-recently-stolen-renoir-paintings-were-found-hidden-behind-a-cinderblock-wall-french-police-used-dna-evidence-and-vehicle-tracking-to-crack-the-case-180989678/"
+     ]
+    },
+    {
+     "date": "2026-10-17",
+     "headline": "France: Police and protesters clash in nationwide protests",
+     "sources": 2,
+     "score": 42,
+     "event_id": "8d083b78259a",
+     "links": [
+      "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-18",
+     "headline": "Macron calls for 'calm and order' after riots across France",
+     "sources": 2,
+     "score": 47,
+     "event_id": "55d19e02d108",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
+     "sources": 3,
+     "score": 58,
+     "event_id": "7531210b2282",
+     "links": [
+      "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+      "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "Macron slams 'failures' over protest unrest in France but refuses interior minister's resignation",
+     "sources": 2,
+     "score": 45,
+     "event_id": "00df4663cdd8",
+     "links": [
+      "https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
+      "https://www.france24.com/en/tv-shows/perspective/20261019-france-has-to-assist-gulf-states-diplomat-says-as-macron-makes-three-day-visit"
+     ]
+    },
+    {
+     "date": "2026-10-19",
+     "headline": "France: Curfews issued in Paris, Nice after unrest",
+     "sources": 2,
+     "score": 41,
+     "event_id": "a7f7b3a35939",
+     "links": [
+      "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf",
+      "https://www.atlasobscura.com/places/chapel-of-expiation"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+     "sources": 2,
+     "score": 47,
+     "event_id": "7604d8c4829b",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "France curfews calm unrest as Macron faces criticism over Gulf trip",
+     "sources": 2,
+     "score": 40,
+     "event_id": "480c4c18560b",
+     "links": [
+      "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+      "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-20",
+     "headline": "Archaeologists Searching for Evidence of a Norse Church in Greenland Have Found 'the Smoking Gun' Near Erik the Red's Settlement",
+     "sources": 1,
+     "score": 41,
+     "event_id": "c55f6bb1af02",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/archaeologists-searching-for-evidence-of-a-norse-church-in-greenland-have-found-the-smoking-gu-near-erik-the-reds-settlement-180989716/"
+     ]
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Macron accuses foreign leaders of exploiting French riots",
+     "sources": 3,
+     "score": 56,
+     "event_id": "643456b192e6",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+      "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss"
+     ]
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "French protests: President Emmanuel Macron meets student unions representatives",
+     "sources": 2,
+     "score": 51,
+     "event_id": "15f3ecd91311",
+     "links": [
+      "https://www.france24.com/en/french-protests-president-emmanuel-macron-meets-student-unions-representatives",
+      "https://www.france24.com/en/major-protests-in-france-macron-convenes-student-representatives",
+      "https://www.theguardian.com/travel/2026/may/24/the-return-of-frances-train-of-marvels-from-the-cote-dazur-to-the-southern-french-alps"
+     ]
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+     "sources": 1,
+     "score": 44,
+     "event_id": "a0a9e49aec28",
+     "links": [
+      "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html"
+     ]
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "More Than 3,000 Tarantulas Were Found Hidden in Socks During a Major Wildlife Trafficking Bust at an Airport in Lima, Peru",
+     "sources": 1,
+     "score": 41,
+     "event_id": "5be949371768",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/more-than-3000-tarantulas-were-found-hidden-in-socks-during-a-major-wildlife-trafficking-bust-at-an-airport-in-lima-peru-180989854/"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "A French Court Annuls the $1.6-Million Sale of This Camille Pissarro Painting, Allegedly Looted During World War II",
+     "sources": 1,
+     "score": 42,
+     "event_id": "2a4c731bd729",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/a-french-court-annuls-the-sale-of-this-camille-pissarro-painting-allegedly-looted-during-world-war-ii-180989875/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "117b4062144e",
    "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
    "section": "science",
@@ -4395,29 +4894,30 @@
    "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
    "section": "tech",
    "entities": [
-    "carbon",
-    "friday",
-    "meet",
-    "sony",
-    "argon",
-    "monday",
-    "gemini",
-    "playstation",
-    "developing",
-    "transcribe",
-    "robotics",
-    "black",
-    "google",
-    "avatar",
     "introducing",
-    "deepmind",
-    "flash",
-    "asimov-jailbreak",
-    "flash-lite",
-    "ai-powered",
-    "googlebook",
+    "carbon",
     "cyber",
-    "hydrogen"
+    "ai-powered",
+    "hydrogen",
+    "gemini",
+    "sony",
+    "friday",
+    "asimov-jailbreak",
+    "googlebook",
+    "some",
+    "robotics",
+    "meet",
+    "flash",
+    "argon",
+    "transcribe",
+    "deepmind",
+    "developing",
+    "google",
+    "monday",
+    "playstation",
+    "black",
+    "flash-lite",
+    "avatar"
    ],
    "event_ids": [
     "e138211becc3",
@@ -4440,7 +4940,8 @@
     "004c51f512e0",
     "0b2e1c02de47",
     "77a7ce670b8c",
-    "32ad4788082b"
+    "32ad4788082b",
+    "1b4b9ac58ddb"
    ],
    "first_seen": "2026-08-26",
    "last_seen": "2026-11-16",
@@ -4686,6 +5187,18 @@
      "links": [
       "https://www.theverge.com/gadgets/1034178/sony-playstation-5-ps5-accessories-monitor-dualsense-headset-deal-sale",
       "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
+     "sources": 2,
+     "score": 48,
+     "event_id": "1b4b9ac58ddb",
+     "links": [
+      "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
+      "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "https://electrek.co/2026/11/16/ausom-black-friday-sale-right-scooter-right-job-at-right-price/"
      ]
     }
    ]
@@ -5752,6 +6265,129 @@
    ]
   },
   {
+   "id": "db746dbf03ec",
+   "title": "First human case of Shamonda virus detected in France, officials say",
+   "section": "world",
+   "entities": [
+    "researchers",
+    "known",
+    "france",
+    "know",
+    "orphaned",
+    "here's",
+    "locally",
+    "acquired",
+    "decades",
+    "coast's",
+    "rescued",
+    "pathogen",
+    "livestock",
+    "returned",
+    "hatchlings",
+    "they've",
+    "wild",
+    "usually",
+    "shamonda",
+    "infected",
+    "adorable",
+    "walrus",
+    "west",
+    "killed",
+    "least",
+    "baby",
+    "alaska",
+    "cases",
+    "home",
+    "first",
+    "nests",
+    "florida",
+    "natural",
+    "worst",
+    "facing",
+    "dengue",
+    "time",
+    "person",
+    "he's",
+    "virus"
+   ],
+   "event_ids": [
+    "db746dbf03ec",
+    "c5548c0cafe9",
+    "04841d9b21fa",
+    "9f7fbfb20f9e",
+    "ebecec327f45",
+    "157eec55a6e2"
+   ],
+   "first_seen": "2026-10-22",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-10-22",
+     "headline": "First human case of Shamonda virus detected in France, officials say",
+     "sources": 5,
+     "score": 67,
+     "event_id": "db746dbf03ec",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
+     ]
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Shamonda virus detected in human for first time in France",
+     "sources": 2,
+     "score": 44,
+     "event_id": "c5548c0cafe9",
+     "links": [
+      "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
+      "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Shamonda Virus Infected and Killed a Person for the First Time. Here's What to Know About the Pathogen Usually Found in Livestock",
+     "sources": 1,
+     "score": 43,
+     "event_id": "04841d9b21fa",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/shamonda-virus-infected-and-killed-a-person-for-the-first-time-heres-what-to-know-about-the-pathogen-usually-found-in-livestock-180989756/"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Florida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know",
+     "sources": 2,
+     "score": 54,
+     "event_id": "9f7fbfb20f9e",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/florida-is-facing-its-worst-dengue-outbreak-in-decades-with-at-least-524-locally-acquired-cases-heres-what-to-know-180989865/",
+      "https://praguemorning.cz/what-to-know-about-czechoslovakias-velvet-revolution/"
+     ]
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska. Now, He's Found a New Home in Florida",
+     "sources": 1,
+     "score": 44,
+     "event_id": "ebecec327f45",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/this-adorable-orphaned-baby-walrus-was-rescued-by-two-researchers-in-alaska-now-hes-found-a-new-home-in-florida-180989847/"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "These Adorable Hatchlings Are From the U.S. West Coast's First Known Natural Sea Turtle Nests. Now, They've Returned to the Wild",
+     "sources": 1,
+     "score": 40,
+     "event_id": "157eec55a6e2",
+     "links": [
+      "https://www.smithsonianmag.com/smart-news/these-adorable-hatchlings-are-from-the-us-west-coasts-first-known-natural-sea-turtle-nests-now-theyve-returned-to-the-wild-180989876/"
+     ]
+    }
+   ]
+  },
+  {
    "id": "16c67f2bd64e",
    "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
    "section": "world",
@@ -5825,6 +6461,91 @@
      "links": [
       "https://www.dw.com/en/zelenskyy-urges-removal-of-starshield-limits-on-ukraine/a-79953300?maca=en-rss-en-all-1573-rdf",
       "https://www.france24.com/en/video/20261116-ukraine-strikes-crimea-bridge-as-zelensky-says-starshield-caps-helping-russian-attacks"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "e183c545cb4c",
+   "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
+   "section": "world",
+   "entities": [
+    "zealand",
+    "infantino",
+    "france's",
+    "philippe",
+    "tashima",
+    "fifa",
+    "diallo",
+    "oceania",
+    "kozo",
+    "japan"
+   ],
+   "event_ids": [
+    "e183c545cb4c",
+    "496f55f6a2bd",
+    "6f4ad346fb6d",
+    "b580fa174f83",
+    "6484e2741451"
+   ],
+   "first_seen": "2026-08-09",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-08-09",
+     "headline": "Watch: BBC asks Infantino if he will resign as Fifa president",
+     "sources": 6,
+     "score": 83,
+     "event_id": "e183c545cb4c",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+      "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-rdf"
+     ]
+    },
+    {
+     "date": "2026-08-14",
+     "headline": "Oceania declares support for Infantino in boost for Fifa president but New Zealand breaks ranks",
+     "sources": 2,
+     "score": 41,
+     "event_id": "496f55f6a2bd",
+     "links": [
+      "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president",
+      "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president"
+     ]
+    },
+    {
+     "date": "2026-08-17",
+     "headline": "Top Fifa official sacked after Infantino plan criticism",
+     "sources": 2,
+     "score": 40,
+     "event_id": "6f4ad346fb6d",
+     "links": [
+      "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour"
+     ]
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Japan FA’s Kozo Tashima to stand against Infantino for Fifa presidency",
+     "sources": 2,
+     "score": 40,
+     "event_id": "b580fa174f83",
+     "links": [
+      "https://www.theguardian.com/football/2026/nov/05/japan-fa-head-kozo-tashima-stand-against-gianni-infantino-for-fifa-president",
+      "https://www.theguardian.com/football/2026/nov/05/japan-fa-head-kozo-tashima-stand-against-gianni-infantino-for-fifa-president"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "France's Philippe Diallo to challenge Infantino for FIFA presidency",
+     "sources": 3,
+     "score": 52,
+     "event_id": "6484e2741451",
+     "links": [
+      "https://www.dw.com/en/france-s-philippe-diallo-to-challenge-infantino-for-fifa-presidency/a-79962843?maca=en-rss-en-all-1573-rdf",
+      "https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss",
+      "https://www.france24.com/en/uefa-backs-france-s-diallo-to-stand-against-infantino-in-fifa-election"
      ]
     }
    ]
@@ -5969,6 +6690,49 @@
    ]
   },
   {
+   "id": "15bf1354bff8",
+   "title": "When will we see Robert Pattinson as Bond in cinemas?",
+   "section": "culture",
+   "entities": [
+    "pattinson",
+    "bond",
+    "robert",
+    "twilight"
+   ],
+   "event_ids": [
+    "15bf1354bff8",
+    "a5667c1fa17c"
+   ],
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-11-16",
+     "headline": "When will we see Robert Pattinson as Bond in cinemas?",
+     "sources": 6,
+     "score": 79,
+     "event_id": "15bf1354bff8",
+     "links": [
+      "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+      "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+      "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/"
+     ]
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Robert Pattinson: How the Twilight star became 007",
+     "sources": 3,
+     "score": 51,
+     "event_id": "a5667c1fa17c",
+     "links": [
+      "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+      "https://www.theguardian.com/film/2026/nov/16/new-james-bond-announced-and-the-names-pattinson-robert-pattinson",
+      "https://www.theverge.com/tech/1034192/robert-pattinson-james-bond"
+     ]
+    }
+   ]
+  },
+  {
    "id": "6df7be2a0b28",
    "title": "Klopp says Infantino worse than Blatter",
    "section": "world",
@@ -6049,6 +6813,34 @@
       "https://www.dw.com/en/what-has-changed-in-james-bond-films-over-the-decades/a-63332001?maca=en-rss-en-all-1573-rdf",
       "https://www.dw.com/en/british-actor-robert-pattinson-confirmed-as-new-james-bond/a-79961789?maca=en-rss-en-all-1573-rdf",
       "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "f7229d91014f",
+   "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+   "section": "tech",
+   "entities": [
+    "openai",
+    "california"
+   ],
+   "event_ids": [
+    "f7229d91014f"
+   ],
+   "first_seen": "2026-11-16",
+   "last_seen": "2026-11-16",
+   "timeline": [
+    {
+     "date": "2026-11-16",
+     "headline": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+     "sources": 5,
+     "score": 75,
+     "event_id": "f7229d91014f",
+     "links": [
+      "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
+      "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
      ]
     }
    ]
@@ -8617,493 +9409,6 @@
    ]
   },
   {
-   "id": "87d62c77d066",
-   "title": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-   "section": "world",
-   "entities": [
-    "smoking",
-    "renoir",
-    "trafficking",
-    "police",
-    "peru",
-    "tracking",
-    "european",
-    "searching",
-    "red's",
-    "nato",
-    "huge",
-    "norse",
-    "president",
-    "socks",
-    "were",
-    "decoder",
-    "lithuania",
-    "affects",
-    "greenland",
-    "thousands",
-    "during",
-    "paintings",
-    "gulf",
-    "french",
-    "evidence",
-    "used",
-    "airport",
-    "hidden",
-    "brotli",
-    "vehicle",
-    "major",
-    "bust",
-    "python",
-    "wildlife",
-    "found",
-    "curfews",
-    "near",
-    "other",
-    "wall",
-    "behind"
-   ],
-   "event_ids": [
-    "87d62c77d066",
-    "16c614175ff1",
-    "5847bd600354",
-    "4f89836c1215",
-    "5650625ff0c7",
-    "3263aff4ed39",
-    "bfa030f1f411",
-    "cf6d90b7d356",
-    "0d0ab2de5779",
-    "acfbda7677cf",
-    "a1317b4ff430",
-    "cd28012b247a",
-    "b814a960e804",
-    "9e39130e88dd",
-    "72b1b0ac47d8",
-    "f74700a0c5c1",
-    "0ff76c15106b",
-    "ced850850efe",
-    "d09e5296340e",
-    "f24475a74667",
-    "721ce071533c",
-    "60c1d204b2f8",
-    "fef1e2c2f502",
-    "8d083b78259a",
-    "55d19e02d108",
-    "7531210b2282",
-    "00df4663cdd8",
-    "a7f7b3a35939",
-    "7604d8c4829b",
-    "480c4c18560b",
-    "c55f6bb1af02",
-    "643456b192e6",
-    "15f3ecd91311",
-    "a0a9e49aec28",
-    "5be949371768"
-   ],
-   "first_seen": "2026-09-15",
-   "last_seen": "2026-11-13",
-   "timeline": [
-    {
-     "date": "2026-09-15",
-     "headline": "Lithuania briefs EU allies after drone shot down by Nato jets overnight – Europe live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "87d62c77d066",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/15/denmark-ukraine-russia-warship-frigate-security-lithuania-poland--sweden-election-eu-europe-latest-news-updates",
-      "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
-      "https://www.france24.com/en/europe/20260915-nato-fighter-jets-shoot-down-drone-over-lithuania-after-latest-incursion"
-     ]
-    },
-    {
-     "date": "2026-09-15",
-     "headline": "Russian warship fires flares at Danish helicopter as Nato jets shoot down drone over Lithuania",
-     "sources": 3,
-     "score": 66,
-     "event_id": "16c614175ff1",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas",
-      "http://www.france24.com/en/europe/20260915-nato-jets-down-drone-over-lithuania-as-russian-ship-fires-flares-at-danish-helicopter",
-      "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
-     "sources": 3,
-     "score": 54,
-     "event_id": "5847bd600354",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/france-macron-orders-defense-against-russian-hybrid-attacks/a-79329757?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260918-replay-macron-orders-plan-to-counter-russian-hybrid-attacks"
-     ]
-    },
-    {
-     "date": "2026-09-18",
-     "headline": "🔴 Macron orders plan to protect France critical infrastructure against 'Russian hybrid attacks'",
-     "sources": 1,
-     "score": 42,
-     "event_id": "4f89836c1215",
-     "links": [
-      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
-      "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
-      "https://www.france24.com/en/video/20260918-france-s-macron-summons-party-leaders-for-talks-on-mideast-and-ukraine"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo visits France for first papal visit in 18 years – Europe live",
-     "sources": 3,
-     "score": 68,
-     "event_id": "5650625ff0c7",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
-      "https://www.france24.com/en/replay-pope-leo-xiv-arrives-in-france-for-four-day-visit",
-      "https://www.france24.com/en/pope-leo-xiv-s-france-visit-puts-macron-in-diplomatic-balancing-act"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "'Pope fever' takes hold as Pope Leo visits France",
-     "sources": 2,
-     "score": 42,
-     "event_id": "3263aff4ed39",
-     "links": [
-      "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260924-pope-leo-in-france-huge-amount-of-excitement-building-in-paris"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo XIV begins four-day pilgrimage to France",
-     "sources": 2,
-     "score": 58,
-     "event_id": "bfa030f1f411",
-     "links": [
-      "https://www.dw.com/en/pope-leo-xiv-begins-four-day-pilgrimage-to-france/a-79428252?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/video/20260925-france-pope-leo-xiv-begins-paris-diplomacy-at-the-%C3%A9lys%C3%A9e",
-      "https://www.france24.com/en/pope-leo-visits-france-pontiff-wants-to-focus-world-s-attention-on-peace-human-dignity-technology"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-     "sources": 4,
-     "score": 65,
-     "event_id": "cf6d90b7d356",
-     "links": [
-      "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf",
-      "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-     "sources": 2,
-     "score": 44,
-     "event_id": "0d0ab2de5779",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
-      "https://www.dw.com/en/pope-leo-xiv-criticizes-ai-assisted-dying-on-france-arrival/a-79428252?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-09-25",
-     "headline": "‘I hope France wakes up’: Young Catholics flood the streets for Pope Leo's Paris visit",
-     "sources": 1,
-     "score": 41,
-     "event_id": "acfbda7677cf",
-     "links": [
-      "https://www.france24.com/en/france/20260925-i-hope-france-wakes-up-young-catholics-flood-the-streets-for-pope-leo-s-paris-visit",
-      "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Thousands turn out to greet Pope in France",
-     "sources": 4,
-     "score": 76,
-     "event_id": "a1317b4ff430",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/cq14d142p08do?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/video/2026/sep/25/pope-leo-ai-warning-paris",
-      "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
-     "sources": 2,
-     "score": 42,
-     "event_id": "cd28012b247a",
-     "links": [
-      "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
-      "https://www.france24.com/en/france-pope-says-authentic-secularity-does-not-exclude-religion"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Paris: Pope Leo XIV to celebrate Mass before huge crowd",
-     "sources": 2,
-     "score": 64,
-     "event_id": "b814a960e804",
-     "links": [
-      "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/pope-leo-set-for-largest-event-of-france-tour-as-paris-crowds-swell",
-      "https://www.france24.com/en/video/20260926-pope-leo-xiv-to-celebrate-giant-paris-mass-after-peace-appeal"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Huge crowds greet Pope in Paris for open-air Mass",
-     "sources": 3,
-     "score": 67,
-     "event_id": "9e39130e88dd",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/leo-xiv-in-france-700-000-crowd-attend-pope-mass-in-central-paris"
-     ]
-    },
-    {
-     "date": "2026-09-26",
-     "headline": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
-     "sources": 3,
-     "score": 61,
-     "event_id": "72b1b0ac47d8",
-     "links": [
-      "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
-      "https://www.france24.com/en/france/20260926-a-once-in-a-lifetime-event-faithful-and-curious-flock-to-pope-leo-xiv-s-mass-in-paris",
-      "https://www.aljazeera.com/news/2026/9/26/several-hundred-thousand-people-gather-for-pope-leos-mass-in-paris?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
-     "sources": 2,
-     "score": 43,
-     "event_id": "f74700a0c5c1",
-     "links": [
-      "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
-      "https://www.france24.com/en/france/20260926-pope-visits-lourdes-after-giant-paris-mass-to-meet-clergy-abuse-victims"
-     ]
-    },
-    {
-     "date": "2026-09-27",
-     "headline": "Photos: Pope Leo draws hundreds of thousands for open-air Mass in Paris",
-     "sources": 2,
-     "score": 41,
-     "event_id": "0ff76c15106b",
-     "links": [
-      "https://www.aljazeera.com/gallery/2026/9/27/photos-pope-leo-draws-hundreds-of-thousands-for-open-air-mass-in-paris?traffic_source=rss",
-      "https://www.france24.com/en/france/20260927-live-pope-leo-xiv-to-hold-open-air-mass-in-lourdes-pilgrimage-site"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "🔴Follow live: France's Macron, Pope Leo XIV speak on European unity in Metz",
-     "sources": 1,
-     "score": 40,
-     "event_id": "ced850850efe",
-     "links": [
-      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit",
-      "https://www.france24.com/en/video/20260928-pope-to-speak-on-european-unity-on-last-day-of-france-visit",
-      "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "Pope wraps up 'hugely successful' France visit with Metz speech",
-     "sources": 1,
-     "score": 47,
-     "event_id": "d09e5296340e",
-     "links": [
-      "https://www.france24.com/en/video/20260928-pope-wraps-up-hugely-successful-france-visit-with-metz-speech",
-      "https://www.france24.com/en/video/20260928-replay-pope-urges-peace-and-unity-in-europe-on-final-day-of-france-visit",
-      "https://www.france24.com/en/video/20260928-replay-france-s-macron-speaks-on-european-union-as-pope-visits-metz"
-     ]
-    },
-    {
-     "date": "2026-09-28",
-     "headline": "Pope Leo to speak on EU integration from French border town of Metz",
-     "sources": 2,
-     "score": 41,
-     "event_id": "f24475a74667",
-     "links": [
-      "https://www.france24.com/en/france/20260928-pope-to-speak-on-united-eu-from-french-border-town",
-      "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-08",
-     "headline": "French high school protests continue despite PM’s promise of action – Europe live",
-     "sources": 2,
-     "score": 42,
-     "event_id": "721ce071533c",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
-      "https://www.france24.com/en/video/20261008-school-protests-part-of-a-broader-french-malaise"
-     ]
-    },
-    {
-     "date": "2026-10-09",
-     "headline": "France: Police clash with protesters at Paris student rally",
-     "sources": 2,
-     "score": 41,
-     "event_id": "60c1d204b2f8",
-     "links": [
-      "https://www.dw.com/en/france-police-clash-with-protesters-at-paris-student-rally/a-79603684?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-14",
-     "headline": "Two Recently Stolen Renoir Paintings Were Found Hidden Behind a Cinderblock Wall. French Police Used DNA Evidence and Vehicle Tracking to Crack the Case",
-     "sources": 1,
-     "score": 44,
-     "event_id": "fef1e2c2f502",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/two-recently-stolen-renoir-paintings-were-found-hidden-behind-a-cinderblock-wall-french-police-used-dna-evidence-and-vehicle-tracking-to-crack-the-case-180989678/"
-     ]
-    },
-    {
-     "date": "2026-10-17",
-     "headline": "France: Police and protesters clash in nationwide protests",
-     "sources": 2,
-     "score": 42,
-     "event_id": "8d083b78259a",
-     "links": [
-      "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-18",
-     "headline": "Macron calls for 'calm and order' after riots across France",
-     "sources": 2,
-     "score": 47,
-     "event_id": "55d19e02d108",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-      "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
-     "sources": 3,
-     "score": 58,
-     "event_id": "7531210b2282",
-     "links": [
-      "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-      "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
-      "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "Macron slams 'failures' over protest unrest in France but refuses interior minister's resignation",
-     "sources": 2,
-     "score": 45,
-     "event_id": "00df4663cdd8",
-     "links": [
-      "https://www.dw.com/en/macron-slams-failures-over-protest-unrest-in-france-but-refuses-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-rdf",
-      "https://www.france24.com/en/tv-shows/perspective/20261019-france-has-to-assist-gulf-states-diplomat-says-as-macron-makes-three-day-visit"
-     ]
-    },
-    {
-     "date": "2026-10-19",
-     "headline": "France: Curfews issued in Paris, Nice after unrest",
-     "sources": 2,
-     "score": 41,
-     "event_id": "a7f7b3a35939",
-     "links": [
-      "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf",
-      "https://www.atlasobscura.com/places/chapel-of-expiation"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-     "sources": 2,
-     "score": 47,
-     "event_id": "7604d8c4829b",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/france-partial-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "France curfews calm unrest as Macron faces criticism over Gulf trip",
-     "sources": 2,
-     "score": 40,
-     "event_id": "480c4c18560b",
-     "links": [
-      "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
-      "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-protests-social-discontent-student-perspective?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-20",
-     "headline": "Archaeologists Searching for Evidence of a Norse Church in Greenland Have Found 'the Smoking Gun' Near Erik the Red's Settlement",
-     "sources": 1,
-     "score": 41,
-     "event_id": "c55f6bb1af02",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/archaeologists-searching-for-evidence-of-a-norse-church-in-greenland-have-found-the-smoking-gu-near-erik-the-reds-settlement-180989716/"
-     ]
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Macron accuses foreign leaders of exploiting French riots",
-     "sources": 3,
-     "score": 56,
-     "event_id": "643456b192e6",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
-      "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss"
-     ]
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "French protests: President Emmanuel Macron meets student unions representatives",
-     "sources": 2,
-     "score": 51,
-     "event_id": "15f3ecd91311",
-     "links": [
-      "https://www.france24.com/en/french-protests-president-emmanuel-macron-meets-student-unions-representatives",
-      "https://www.france24.com/en/major-protests-in-france-macron-convenes-student-representatives",
-      "https://www.theguardian.com/travel/2026/may/24/the-return-of-frances-train-of-marvels-from-the-cote-dazur-to-the-southern-french-alps"
-     ]
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-     "sources": 1,
-     "score": 44,
-     "event_id": "a0a9e49aec28",
-     "links": [
-      "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html"
-     ]
-    },
-    {
-     "date": "2026-11-13",
-     "headline": "More Than 3,000 Tarantulas Were Found Hidden in Socks During a Major Wildlife Trafficking Bust at an Airport in Lima, Peru",
-     "sources": 1,
-     "score": 41,
-     "event_id": "5be949371768",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/more-than-3000-tarantulas-were-found-hidden-in-socks-during-a-major-wildlife-trafficking-bust-at-an-airport-in-lima-peru-180989854/"
-     ]
-    }
-   ]
-  },
-  {
    "id": "1301430cb05f",
    "title": "Dolly Parton, one of country music's most singular performers, has died at age 80",
    "section": "culture",
@@ -11145,111 +11450,6 @@
      "links": [
       "https://www.scmp.com/plus/business/banking-finance/article/3374068/alibaba-readies-t-head-chip-ipo-hong-kong-frenzy-cools",
       "https://www.investing.com/news/stock-market-news/alphabet-sets-initial-price-guidance-for-hong-kong-singapore-bond-sales-term-sheet-shows-5020243"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "db746dbf03ec",
-   "title": "First human case of Shamonda virus detected in France, officials say",
-   "section": "world",
-   "entities": [
-    "rescued",
-    "florida",
-    "least",
-    "know",
-    "infected",
-    "virus",
-    "he's",
-    "livestock",
-    "shamonda",
-    "orphaned",
-    "killed",
-    "adorable",
-    "france",
-    "baby",
-    "first",
-    "cases",
-    "worst",
-    "decades",
-    "here's",
-    "walrus",
-    "alaska",
-    "acquired",
-    "outbreak",
-    "pathogen",
-    "locally",
-    "time",
-    "found",
-    "home",
-    "researchers",
-    "usually",
-    "facing",
-    "dengue",
-    "person"
-   ],
-   "event_ids": [
-    "db746dbf03ec",
-    "c5548c0cafe9",
-    "04841d9b21fa",
-    "9f7fbfb20f9e",
-    "ebecec327f45"
-   ],
-   "first_seen": "2026-10-22",
-   "last_seen": "2026-11-12",
-   "timeline": [
-    {
-     "date": "2026-10-22",
-     "headline": "First human case of Shamonda virus detected in France, officials say",
-     "sources": 5,
-     "score": 67,
-     "event_id": "db746dbf03ec",
-     "links": [
-      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss"
-     ]
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Shamonda virus detected in human for first time in France",
-     "sources": 2,
-     "score": 44,
-     "event_id": "c5548c0cafe9",
-     "links": [
-      "https://www.theguardian.com/world/2026/oct/22/shamonda-virus-detected-in-human-first-time-france",
-      "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Shamonda Virus Infected and Killed a Person for the First Time. Here's What to Know About the Pathogen Usually Found in Livestock",
-     "sources": 1,
-     "score": 43,
-     "event_id": "04841d9b21fa",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/shamonda-virus-infected-and-killed-a-person-for-the-first-time-heres-what-to-know-about-the-pathogen-usually-found-in-livestock-180989756/"
-     ]
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Florida Is Facing Its Worst Dengue Outbreak in Decades, With at Least 524 Locally Acquired Cases. Here's What to Know",
-     "sources": 2,
-     "score": 54,
-     "event_id": "9f7fbfb20f9e",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/florida-is-facing-its-worst-dengue-outbreak-in-decades-with-at-least-524-locally-acquired-cases-heres-what-to-know-180989865/",
-      "https://praguemorning.cz/what-to-know-about-czechoslovakias-velvet-revolution/"
-     ]
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "This Adorable, Orphaned Baby Walrus Was Rescued by Two Researchers in Alaska. Now, He's Found a New Home in Florida",
-     "sources": 1,
-     "score": 44,
-     "event_id": "ebecec327f45",
-     "links": [
-      "https://www.smithsonianmag.com/smart-news/this-adorable-orphaned-baby-walrus-was-rescued-by-two-researchers-in-alaska-now-hes-found-a-new-home-in-florida-180989847/"
      ]
     }
    ]
@@ -15873,75 +16073,6 @@
      "links": [
       "https://www.france24.com/en/video/20261105-after-midterm-stinging-defeat-trump-is-left-to-weigh-his-next-move-in-iran-war",
       "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss"
-     ]
-    }
-   ]
-  },
-  {
-   "id": "e183c545cb4c",
-   "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
-   "section": "world",
-   "entities": [
-    "tashima",
-    "fifa",
-    "infantino",
-    "oceania",
-    "kozo",
-    "japan",
-    "zealand"
-   ],
-   "event_ids": [
-    "e183c545cb4c",
-    "496f55f6a2bd",
-    "6f4ad346fb6d",
-    "b580fa174f83"
-   ],
-   "first_seen": "2026-08-09",
-   "last_seen": "2026-11-05",
-   "timeline": [
-    {
-     "date": "2026-08-09",
-     "headline": "Watch: BBC asks Infantino if he will resign as Fifa president",
-     "sources": 6,
-     "score": 83,
-     "event_id": "e183c545cb4c",
-     "links": [
-      "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
-      "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-rdf"
-     ]
-    },
-    {
-     "date": "2026-08-14",
-     "headline": "Oceania declares support for Infantino in boost for Fifa president but New Zealand breaks ranks",
-     "sources": 2,
-     "score": 41,
-     "event_id": "496f55f6a2bd",
-     "links": [
-      "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president",
-      "https://www.theguardian.com/football/2026/aug/14/oceania-football-confederation-ofc-declares-support-infantino-fifa-president"
-     ]
-    },
-    {
-     "date": "2026-08-17",
-     "headline": "Top Fifa official sacked after Infantino plan criticism",
-     "sources": 2,
-     "score": 40,
-     "event_id": "6f4ad346fb6d",
-     "links": [
-      "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
-      "https://www.theguardian.com/football/2026/aug/17/fifa-chief-sacked-criticism-infantino-world-cup-sell-off-plan-kevin-lamour"
-     ]
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Japan FA’s Kozo Tashima to stand against Infantino for Fifa presidency",
-     "sources": 2,
-     "score": 40,
-     "event_id": "b580fa174f83",
-     "links": [
-      "https://www.theguardian.com/football/2026/nov/05/japan-fa-head-kozo-tashima-stand-against-gianni-infantino-for-fifa-president",
-      "https://www.theguardian.com/football/2026/nov/05/japan-fa-head-kozo-tashima-stand-against-gianni-infantino-for-fifa-president"
      ]
     }
    ]
@@ -23696,5 +23827,5 @@
    ]
   }
  ],
- "updated": "2026-11-16T18:22:09+00:00"
+ "updated": "2026-11-16T21:19:33+00:00"
 }
